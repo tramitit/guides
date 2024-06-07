@@ -1,43 +1,40 @@
----
-title: "Identity Card Request"
+--- 
+title: "Identity Card Request in Italy"
 author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Italy"]
-meta_title: "Procedure for Identity Card Request in Italy"
-description: "Step by step guide on how to request an Identity Card in Italy."
+meta_title: ""
+description: "Guide on how to request for an Italian Identity Card also known as Carta d'Identità"
 draft: false
 ---
 
-{< toc >}
-
 ## Description
 #### What is it?
-An identity card (Carta d'Identità) is a card containing a person's identification information. It's an official document issued by the government and is commonly used to establish one's identity within the country, especially in Italy.
+The Italian Identity Card (Carta d'Identità) is an official document issued by the Italian government. It verifies the identification of an individual living and travelling within Italy and the EU. It might also be required in some establishments for identification purposes.
 
 #### Who needs it?
-This is required for all Italian citizens and residents. Besides, visitors or tourists staying in hotels/hostels in Italy may be asked to show their ID cards as per the [discussion](https://www.reddit.com/r/solotravel/comments/voekoo/is_it_normal_for_hostelshotels_in_italy_to_ask/) on Reddit.
+This document is required for Italian residents, both citizens and non-citizens alike. It's also needed by those planning to travel within the EU.
 
 ## Procedure
-1. Go to the town hall (Comune) or other equivalent administrative branch of your city of residence.
-2. Fill out the required application form.
-3. Submit the required documents.
-4. Pay the fee.
-5. Once the identity card is ready, it may either be sent to your home address or you might need to pick it up yourself.
+1. Go to your local municipality office (Comune or Municipio), specifically to the Anagrafe (Registry Office).
+2. Depending on the municipality, it might be required to make an appointment. Check your local municipality’s website.
+3. Prepare and bring all required documents.
+4. Pay the application fee. 
+5. The office will process your request and a receipt will be given to you. 
+6. Once ready, you might need to pick up the card personally from the same office.
 
 ## Required Documents
-- Proof of residence or domicile, generally a document or bill indicating your current address.
-- Passport size photos that adhere to official specifications.
-- Birth certificate or other proof of citizenship/residence status.
+1. Two passport-sized photographs.
+2. Valid proof of residence (such as a utility bill, rent contract, etc.).
+3. In case of non-Italian citizens, a valid residency permit might be required.
 
-The documents needed might differ slightly depending on your city of residence, so it is always recommended to check with your local town hall.
+Please note that specifics regarding required documents may vary depending on the municipality. Therefore, it's advisable to check local requirements.
 
 ## Providers that can do it for you
 
-| Provider                      |     Website                                 |     Timelines    |       Cost       |
-| ------------------------ | ---------------------------------- | :-------------: | :-------------: |
-| Local Town Hall (Comune)|  N/A                                     |         Varies      |       Varies   |
+| Provider        |     Website               |     Timelines         |       Cost     |
+| --------------- | ----------------- |  :-------------: | :-------------: |
+| Italian Comune |  Local Office     |    Approx. 1-2 weeks  |        Varies       |
 
 ## Additional details
-- A Carta d'Identità is typically kept in a purse or rear pocket in a wallet, as discussed [here](https://www.reddit.com/r/italy/comments/3bvkxw/where_do_you_keep_your_carta_didentit%C3%A0/)
-- During controls by law enforcement, you are required to have an identification document [with you](https://www.reddit.com/r/italy/comments/w13fqo/forze_dellordine_e_documenti/).
-- The card doesn't necessarily need to put "Mother" and "Father" but instead "Parent 1" and "Parent 2", as discussed in this [thread](https://www.reddit.com/r/italy/comments/9xkouq/salvini_propone_di_rimuovere_genitore_1_e_2_e/).
+Remember to always keep your Carta d'Identità in a safe place. Some recommend a wallet while others suggest a document holder for preserving the card's condition since it's made of paper/cardboard. Also, note that establishments such as hotels or hostels in Italy may ask for your ID for registration purposes as a normal practice.

@@ -1,0 +1,43 @@
+---
+title: "Old Age Pension Application"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Italy"]
+meta_title: "Guide to Old Age Pension Application in Italy"
+description: "Detailed guide on how to apply for an old-age pension in Italy, understanding the required documents, procedure, and potential service providers that can assist you."
+draft: false
+---
+
+## Description
+#### What is it?
+Old age pension, often referred to as the state pension, is a regular income paid by the government to peoplewho reach a certain age, intended to ensure them financial stability after retirement.
+
+#### Who needs it?
+Any individual who has reached the official retirement age (67 years in Italy) and has contributed to the pension system for a minimum qualifying period (20 years in Italy).
+
+## Procedure
+1. Verify your eligibility: The first step is to confirm that you meet the eligibility requirements; at least 67 years of age and at least 20 years of contribution to the Italian pension system.
+2. Collate necessary documentation: Get all necessary documents together (see Required Documents).
+3. Apply Online: You can apply for your old age pension through the INPS (The National Institution of Social Security) online services. The application form can be found [here](http://www.inps.it).
+4. Wait for a response: Once you submit your application, the INPS will review your case and determine your pension amount.
+
+## Required Documents
+1. Identification documents (ID card or passport)
+2. Social Security Number
+3. Proof of retirement age
+4. Details of employment history and contribution paid to the Italian pension system.
+
+Piece of advice, all these documents often can be obtained through the organization where you were employed. 
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| INPS Italia     |  [http://www.inps.it](http://www.inps.it)  |      Varies (Generally 2-3 months)      |        Free-of-charge       |
+
+## Additional details
+Remember that the sum of your pension will depend on the duration of your contributions and their amount. It's better to check the possible quantity beforehand to plan your life after retirement.
+
+The Italian pension system has been a subject of various reforms recently, aiming to ensure its sustainability in the face of an ageing population. Please check for the most current requirements and procedures.
+
+Please note that through the same INPS portal, you can also find information about advantageous 'buy back' options for university graduates (known as 'Riscatto della Laurea'), extending the period of pension contributions. More details can be found [here](http://www.inps.it).

@@ -1,0 +1,53 @@
+---
+
+title: "Italian Citizenship Application"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Italy"]
+meta_title: ""
+description: "A comprehensive guide on how to apply for Italian citizenship."
+draft: false
+---
+
+## Description
+#### What is it?
+Italian Citizenship Application refers to the process whereby someone with Italian ancestry or foreign residents with specific requirements apply to acquire Italian nationality.
+
+#### Who needs it?
+Any person with Italian ancestry up to the 2nd generation, foreign residents who have been legally residing in Italy for 10 years, and spouses of Italian citizens, among others, can apply for Italian Citizenship.
+
+## Procedure
+
+1. Identify your eligibility: If you have a direct Italian lineage, significant residency history or marital status with an Italian citizen, you might be eligible for Italian Citizenship.
+
+2. Collect and prepare necessary documents: Depending on your eligibility, this might include birth, death, and marriage certificates, residential proofs, etc.
+
+3. Translate documents: All documents intended for use by the Italian authorities must be translated into Italian and validated by an official translator.
+
+4. Apostille your documents: Apostilling your documents certifies their legality for use oversea.
+
+5. Submit your application: This could be done at the local Italian consulate in your home country, or at the local municipality if you are residing in Italy.
+
+6. Attend an interview if requested: Some consulates might have an interview session to verify the information provided.
+
+7. Pay application fee: Ensure that you've covered all costs necessary for the application process.
+
+8. Wait: After application submission, there might be a waiting period, depending on the embassy or consulate.
+
+## Required Documents
+- Birth Certificates
+- Marriage Certificates
+- Death Certificates
+- Proof of Residency
+- Criminal Background Check, etc.
+
+Note: The specific documents required vary based on the individual's eligibility and application path.
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Consulate General of Italy |  www.consnewyork.esteri.it | Approx. 24 months |  € 300 |
+
+## Additional details
+Patience is key during this process, as it can sometimes take up to two years to finalize the citizenship application. Furthermore, you might be expected to have a basic understanding of the Italian language depending on your application path. Lastly, always keep updated with your local consulate's changing requirements or procedures.
