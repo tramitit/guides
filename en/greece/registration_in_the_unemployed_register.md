@@ -1,0 +1,38 @@
+---
+title: "Registration in the Unemployed Register"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Greece"]
+meta_title: "How to Register in the Unemployed Register in Greece"
+description: "Step-by-step guide to register as unemployed in Greece and avail related benefits"
+draft: false
+---
+
+## Description
+### What is it?
+The Unemployed Register is a platform where individuals can register themselves as unemployed. This registration can enable them to avail various benefits offered by the Greek government to tackle unemployment issues.
+
+### Who needs it?
+This service is necessary for individuals who are currently unemployed, actively seeking job opportunities and residing in Greece.
+
+## Procedure
+1. Gather the necessary identity documents: ID card or passport.
+2. Visit the Greek Manpower Employment Organization (OAED) website (https://www.oaed.gr).
+3. Fill out the provided forms about personal information, employment history, and current job-seeking status.
+4. Upload the necessary identity documents.
+5. Submit the form and wait for the confirmation.
+6. Once confirmed, your status as unemployed is officially registered.
+
+## Required Documents
+The following documents are often required:
+- An ID card or Passport: to verify your identity.
+- Proof of Address: to validate your current residence.
+
+## Providers that can do it for you
+
+| Provider        |     Website          |     Timelines    |       Cost      |
+| --------------- |   ---------------    |   :-------------: | :-------------: |
+| OAED            |  [OAED](https://www.oaed.gr) |  1-3 business days  |     Free    |
+
+## Additional details
+Your registration in the Unemployed Register goes hand-in-hand with the Unemployment Card, which is issued by the OAED. It is important to note that registering as unemployed does not automatically mean you will receive unemployment benefits. These are subject to specific eligibility criteria, including your past work history and social insurance contributions.

@@ -1,0 +1,42 @@
+---
+title: "Document Office Appointment Booking"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Hungary"]
+meta_title: ""
+description: "A comprehensive guide to document office appointment booking in Hungary."
+draft: false
+---
+
+## Description
+### What is it?
+Document office appointment booking is a procedure that allows individuals to schedule and manage appointments for various documentation services, such as renewing passports, driving license, or applying for a Schengen visa.
+
+### Who needs it?
+This service is crucial for anyone needing to obtain, renew, or update their identification or travel documents. It's particularly beneficial for international travelers, individuals renewing their identification documents, or expatriates living in Hungary.
+
+## Procedure
+1. Determine the kind of appointment you need: This could be the renewal or application for your personal identification, passport, driving license, or Schengen visa.
+2. Visit the official platform of the service provider, for instance, the Hungarian immigration department or a Schengen visa service provider. 
+3. Navigate to the appointment booking segment of the site.
+4. Select the type of document you'd like to apply for or renew.
+5. Input personal information as required.
+6. Choose your preferred appointment date and time.
+7. Review and confirm the booking.
+8. Note down your appointment details and bring them along during your visit. 
+
+## Required Documents
+- Proof of Identification (ID card, Passport, or Driver's License)
+- Previous documents (If the appointment is for renewal or update)
+- Passport photographs (For passport and ID services)
+- Payment Receipt (If payment is made before the appointment)
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Hungarian Immigration Department      |  [https://www.bmbah.hu/](https://www.bmbah.hu/)      |      Varies depending on the type of document      |        Varies depending on the document       |
+| VFS Global (Schengen Visa) | [https://www.vfsglobal.com/](https://www.vfsglobal.com/) | Varies depending on country of origin and type of visa | Varies by country and visa type |
+
+## Additional details
+Kindly note that you should always check the official website of the respective provider for the most up-to-date information about document requirements, scheduling, and costs. Be prepared with all necessary documents before going for your appointment to ensure a smooth procedure.

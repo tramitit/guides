@@ -1,0 +1,44 @@
+---
+title: "Unemployment return-to-work assistance (ARE) application"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["France"]
+meta_title: ""
+description: "This is meta description"
+draft: false
+---
+
+## Description
+### What is it?
+The Unemployment return-to-work assistance (ARE) is an unemployment benefit scheme provided by France to individuals who have lost their jobs, helping them financially until they find a new job.
+
+### Who needs it?
+Anyone who has lost their job and is actively seeking employment may need to apply for these unemployment benefits.
+
+## Procedure
+
+1. Register as a jobseeker with Pôle Emploi, either online via the [Pôle Emploi website](https://www.pole-emploi.fr/) or in person at your local Pôle Emploi office. You should do this as soon as possible after losing your job.
+2. Complete the ARE application form, which can be downloaded from the [Pôle Emploi website](https://www.pole-emploi.fr/).
+3. Gather all the necessary documents (see below). Your completed application form and the required documents will need to be submitted to your local Pôle Emploi office.
+4. Pôle Emploi will review your application and determine whether you are eligible for ARE. If you are, they will also determine how much you will receive and for how long.
+5. If your application is approved, your ARE benefits will be paid monthly, usually around the 10th of the month. You will need to confirm every month that you are still looking for work in order to continue receiving benefits.
+
+## Required Documents
+
+- Identification documents (passport or identity card)
+- Proof of address
+- Your employment contract and pay slips from your last employer
+- The termination letter from your last employer
+- If you were self-employed, any documents proving your business activity and income
+
+## Providers that can do it for you
+
+| Provider           | Website                     | Timelines    | Cost      |
+| ------------------ | --------------------------- | :----------: | :-------: |
+| Pôle Emploi        | [pole-emploi.fr](https://www.pole-emploi.fr/) | Varies       | Free      |
+
+## Additional details
+- The amount of ARE you receive will depend on your previous salary.
+- You may need to attend regular meetings with a Pôle Emploi advisor as part of your job search.
+- You should regularly consult job offers and submit applications, and be ready to provide proof of your job search activities if asked.
+- If you refuse two reasonable job offers, your ARE benefits may be suspended.

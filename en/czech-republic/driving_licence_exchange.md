@@ -1,0 +1,38 @@
+---
+title: "Driving licence exchange"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Czech Republic"]
+meta_title: "Exchanging Your Driver's License in the Czech Republic"
+description: "A comprehensive guide on how to exchange your foreign driver's license in the Czech Republic."
+draft: false
+---
+
+## Description
+### What is it?
+This is a step-by-step guide on how to exchange your non-Czech driver's license for a Czech one. This process is necessary if you're planning on staying in Czech Republic for a prolonged period of time and will be operating a motor vehicle.
+
+### Who needs it?
+This guide is ideal for individuals who have moved to the Czech Republic from a non-EU country and wish to continue driving with their current license.
+
+## Procedure
+1. Upon arrival, register at your local Foreign Police Department (you'll get a certificate of temporary residence).
+2. Get the medical certificate for driving from a doctor.
+3. After approximately two weeks, you will need to provide your foreign driver's license, the medical certificate and some form of personal identification to the Czech Driver's License Department.
+4. Application for the exchange of your driver's license will be done here. They will take your foreign driver's license and give you a confirmation letter in return.
+5. After some time (about 20-30 days), you will receive a notification instructing you to pick up your new Czech driver's license.
+
+## Required Documents
+- Existing foreign driver's license
+- Personal identification (passport, national identification, etc.)
+- Certificate of residence obtained from the Foreign Police Department
+- Medical certificate for driving from a recognized doctor
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Ministry of Transport      | [link](http://www.mdcr.cz/)       |      20-30 days      |        Variable       |
+
+## Additional details
+Keep in mind that the process might be slightly different if your license was issued by an EU/EEA country. It's also essential to note that if the information on your foreign driver's license is not in the Czech or English language or does not match the Czech standards, you may be required to have it translated by a sworn translator. Your original license will be retained by the Czech authorities and returned to the issuing state.

@@ -1,0 +1,42 @@
+---
+title: "Residence Registration"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Austria"]
+meta_title: "Step-by-step residence registration procedure in Austria and Germany"
+description: "This guide provides step-by-step information on residency registration requirements and procedure in Austria and Germany."
+draft: false
+---
+
+## Description
+### What is it?
+Residence Registration (Anmeldung) is a mandatory procedure in both Germany and Austria for those staying in the country more than a few days. This involves declaring your permanent address at the local city or municipal office.
+
+### Who needs it?
+Both, locals and foreigners, who have moved to a new city or changed apartments within the same city must register their new address. It's often a requirement for setting up a bank account, obtaining a tax id, signing a contract like mobile, internet etc.
+
+## Procedure
+
+1. Find the registration office (Bürgeramt/Kundenzentrum in Germany, or Magistratisches Bezirksamt in Vienna) that serves your new residence.
+2. Make an appointment if required or visit during business hours.
+3. Bring your registration form (Anmeldeformular) filled in and signed by you and the owner or main tenant of your home.
+4. Also, bring a valid ID or passport along with other required documents (if needed).
+5. The staff will certify your form and provide you with a confirmation (Anmeldebestätigung). 
+
+## Required Documents
+
+- Valid ID or passport
+- A filled Anmeldung form (Anmeldeformular/Meldezettel in Austria: Make sure it is signed by the property owner or main tenant. You might receive this form from the registration office or it can also be downloaded from the official website of the city)
+- Rental contract or agreement (termed as Wohnungsgeberbestätigung in Germany) 
+
+Please note that the requirements may slightly vary depending on your city or specific situation.
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| N/A             |  N/A            |      N/A         |       N/A       |
+
+## Additional details
+
+Remember that it is compulsory to register within a few days after moving to your new place (within 14 days in Germany). Failing to do so might result in a fine. Also, it is strongly advised to keep the Anmeldebestätigung in a safe place as it is often requested for various public and private services.

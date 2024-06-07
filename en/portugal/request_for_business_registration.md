@@ -1,0 +1,41 @@
+---
+title: "Request for Business Registration in Portugal"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Portugal"]
+meta_title: "How to register a business in Portugal"
+description: "Detailed step-by-step guide on how to register a business in Portugal"
+draft: false
+---
+
+## Description
+### What is it?
+Registering a business in Portugal involves the process of legalizing one's company so it can freely operate within the country. This journey includes deciding on a company's name, accomplishing legal and finance-related paperwork, and dealing with local and national government requirements.
+### Who needs it?
+This guide is perfect for both local and foreign individuals or entities who wish to start a business in Portugal.
+
+## Procedure
+1. Decide on a company name and check its availability in the National Register of Legal Persons (RNPC). 
+2. Prepare the Articles of Association, which will outline key information about your business including what it does and how it will operate.
+3. Submit your registration request to the "On the Spot Firm" (Empresa na Hora) program, which will simplify the business registration process. More information can be found [here](https://justica.gov.pt/Como-fazer-pedidos/Empresa-em-Portugal).
+4. Apply for a corporate taxpayer card at any local tax office, or the Finanças.
+5. Register your company in the Portuguese Social Security.
+
+## Required Documents
+1. Proof of residency for foreign nationals. EU nationals will need an EU Citizen Card while non-EU nationals will need a Portuguese residence permit.
+2. National Identification Card for Portuguese nationals.
+3. Articles of Association.
+4. Proof of initial capital.
+5. Proof of a valid Portuguese address.
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Empresa na Hora  |  [Empresa na Hora](https://justica.gov.pt/Como-fazer-pedidos/Empresa-em-Portugal)       |      1-2 days      |        € 360      |
+
+## Additional details
+- Business registration can be done by an individual or through the use of a legal representative if the process needs to be accomplished remotely.
+- Non-European residents may need to set up a branch or subsidiary of a parent company in order to set up in Portugal.
+- Portugal currently does not allow two companies with the exact same name. Hence, the importance of confirming company name availability first.
+- If you wish to invest in sensitive or protected sectors such as media, there might be additional regulatory requirements.

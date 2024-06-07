@@ -1,0 +1,38 @@
+---
+title: "Residence registration"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Hungary"]
+meta_title: ""
+description: "A step by step guide on how to register your residence in Hungary."
+draft: false
+---
+
+## Description
+### What is it?
+Residence registration refers to the process of officially declaring your place of residence to the local government. It is a legal requirement in many countries, including Hungary, for both nationals and foreign nationals residing in the country.
+
+### Who needs it?
+This is typically required for anyone moving to a new city or country, starting a job, or renting a home. In Hungary, it's essential for everyone living in the country, whether you are a citizen, an EU citizen, or a non-EU citizen.
+
+## Procedure
+1. Start by obtaining all required documents, including a rental contract or proof of ownership of your residence.
+2. Submit an application for registering your residence. On this form, you will need to provide your personal information, current address, and details about your lease if applicable.
+3. Your landlord must also sign a declaration part of the application, confirming the agreement for you to live at the address.
+4. Applications can be submitted online via the [dedicated government website](https://nyilvantarto.hu/hu/online_szolgaltatasok), or in person at the local government office responsible for housing.
+
+## Required Documents
+- Proof of Identity (e.g., Passport, Identity Card)
+- Proof of address or rental contract
+- Signed landlord agreement (part of the application form)
+
+Please note that all documents should be translated into Hungarian, if they are in some other language.
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Government Office      |  [nyilvantarto.hu](https://nyilvantarto.hu/hu/online_szolgaltatasok)       |  15-30 days     |  Free of charge    |
+
+## Additional details
+In case of non-EU citizens aiming for permanent residency in an EU country like Hungary, the process may involve additional steps such as applying for a residence permit. Such an application typically requires you to submit proof of income or financial stability, proof of health insurance, and a criminal record certificate. Be sure to check with the local authorities or legal experts to confirm specific requirements in your case.

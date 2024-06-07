@@ -1,0 +1,44 @@
+---
+title: "Change of Main Residence"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Austria"]
+meta_title: ""
+description: "A comprehensive guide to changing your main residence in Austria."
+draft: false
+---
+
+## Description
+
+### What is it?
+
+Indicating a change in your main residence is a crucial legal requirement when moving within Austria. This procedure reports and registers your primary living location to the relevant authorities. The Meldezettel is the document that officially states your registered address in Austria.
+
+### Who needs it?
+
+Anyone who changes their primary residence – a term that applies not only to citizens but also to students, workers, and others who are staying in Austria for extended periods. If you're moving within Austria or have recently moved, you will need to indicate your change of main residence.
+
+## Procedure
+
+1. Within three days of moving, download and complete a "Meldezettel" form. The form can be obtained at the local "meldeamt"(registration office) or from the City of Vienna’s website.
+
+2. The form needs to be filled out and signed by both the person registering (you) and the house owner or main tenant.
+
+3. Within a given timeframe (usually a week), you will have to visit the local registration office ("meldeamt") physically to submit the form. Be prepared to present a valid form of identification as well.
+
+## Required Documents
+
+Depending on the specifics of your situation, you might need:
+
+- Filled and signed Meldezettel form.
+- A valid form of identification (passport, national ID card).
+
+## Providers that can do it for you
+
+| Provider   |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| City of Vienna       |  [wien.gv.at](https://www.wien.gv.at)      |      2-3 days      |        -       |
+
+## Additional details
+
+The completed Meldezettel form is crucial for various authorizations and subscriptions (for instance, opening a bank account). It is hence important to process this notification promptly and adequately. It might be handy to have copies of the form – some institutions might require them. Changing your residence may also affect aspects like your tax category, so remember to inform your employers about your change of residence.

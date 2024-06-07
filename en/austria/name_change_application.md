@@ -1,0 +1,40 @@
+---
+title: "Name Change Application"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Austria"]
+meta_title: "How to Change Your Name in Austria"
+description: "This is a comprehensive guide about how to change your name in Austria, including the detailed procedure, required documents, service providers and relevant tips."
+draft: false
+---
+## Description
+### What is it?
+A Name Change Application is a legal process in Austria for individuals who wish to change their legal first or last name. 
+
+### Who needs it?
+This process is typically needed by those who are not content with their current name, for reasons such as personal preference, gender transition, religious conversion, or to escape stigmatization. 
+
+## Procedure
+1. You must make a personal request to your local Municipal District Office (Bezirksamt) in Austria. Find your local office [here](https://www.oesterreich.gv.at/kontakte/).
+2. Justify the reason for changing the name, and provide any necessary documentation.
+3. Pay the required fee.
+4. Wait for the approval from the local Municipal District Office.
+5. Once approved, the new name can be used in all legal matters.
+
+## Required Documents
+You may need the following documents, among others:
+- Proof of identity (e.g., passport or personal ID)
+- Birth certificate
+- Residence certificate (Meldezettel)
+- Other documents depending on particular circumstances (e.g., proof of gender transition)
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Municipal District Office      |  [Official Website](https://www.oesterreich.gv.at/kontakte/)       |      Varies      |        Varies       |
+
+## Additional details
+- The change of name is a serious matter in Austria and requests are not easily approved. The rulers typically only permit a name change for compelling reasons.
+- According to the Austrian Name Act, illegitimate children, who assume the family name of their other parent on legitimization or acknowledgment, have the option to keep their birth name.
+- Fees for the name change process can vary depending on individual circumstances and the specific local office, so it is best to consult directly with your local Municipal District Office for the current rates.

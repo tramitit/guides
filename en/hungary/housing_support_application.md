@@ -1,0 +1,40 @@
+---
+title: "Housing support application"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Hungary"]
+meta_title: "Application guide for Housing Support in Hungary"
+description: "This guide provides a step-by-step process on how to apply for housing support in Hungary, including required documents and service providers."
+draft: false
+---
+
+## Description
+### What is it?
+Housing support provides assistance to individuals and families who are struggling to meet their housing costs. It can come in the form of rent subsidies, utility assistance, and more.
+
+### Who needs it?
+Anyone who is living in Hungary and is unable to meet their housing costs due to low income, unemployment, or any other financial struggles.
+
+## Procedure
+1. Determine your eligibility: Based on your income, dependency status, and other factors, determine if you qualify for housing support.
+2. Visit the local government office: Go to your local government office where you can receive information about applying for housing support.
+3. Fill out the application: Complete the application, providing all necessary information and documentation. 
+4. Submit the application: Once the application is complete, submit it to the appropriate authority as directed by the local office.
+
+## Required Documents
+- Proof of income (payslips, tax returns)
+- Identification documents (ID card or passport)
+- Proof of address (utility bills or lease agreement)
+- Any additional documents required by the local authority. These will be informed upon visiting the local government office.
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Local Government Offices      | No online portal       | Varies by region      | Free (though certain verification documents may incur costs) |
+
+## Additional details
+- The process may vary slightly depending on your region, so it's best to visit your local government office for the most accurate information.
+- The amount of assistance you receive is typically based on your income, the size of your family, and the average cost of housing in your area.
+- Remember to reapply or report changes in your situation as required by your local government office. Receiving more assistance than you're entitled to could lead to legal penalties.
+- Application processing time varies. Plan ahead and apply as soon as you're aware of your need for housing support.

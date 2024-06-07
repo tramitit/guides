@@ -1,0 +1,50 @@
+---
+title: "Divorce"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Poland"]
+meta_title: ""
+description: "Comprehensive Guide to Getting a Divorce in Poland"
+draft: false
+---
+
+## Description
+### What is it?
+Divorce is the legal dissolution of a marriage by a court or other competent body. In the context of Poland, it involves a variety of legal, logistical, and emotional concerns that should be addressed through a systematic process.
+
+### Who needs it?
+This process is pertinent for any married couple residing in Poland who mutually decides, or one party decides, to end their marital relationship through legal means.
+
+## Procedure
+1. Make a mutual decision: Divorce should ideally be a mutual decision. If not, one party can still proceed for filing a divorce.
+
+2. Gather Necessary Documents: Collect all the legal documents pertaining to your marriage, including the marriage certificate, birth certificates of children (if any), property documents, and others that might affect the proceedings of the divorce.
+
+3. Hire a Lawyer: Seek the assistance of a legal professional who is well-versed in Polish family law.
+
+4. File a Petition: Your lawyer will aid you to file a divorce petition at the local court in the district where you are residing. 
+
+5. Attend Court Proceedings: Post filing, court summons will be issued where both parties will need to attend the court proceedings. 
+
+6. Judgement: After studying the case and seeing the grounds of divorce, the court will pass its judgement.
+
+## Required Documents
+• Marriage certificate 
+• Birth certificate of both the spouses 
+• Birth certificates of children (if any) 
+• Property documents, Savings, and other resources 
+• Proof of earning (salaries, business profits etc.) 
+
+## Providers that can do it for you
+
+| Provider        |     Website                                      |     Timelines    |       Cost      |
+| --------------- | ---------------                                  |  :-------------: | :-------------: |
+| Legal Services  | [legalservices.pl](http://www.legalservices.pl/) |  90-180 days     | Varies          |
+
+
+## Additional details
+While filing for divorce, whether it is consensual or contested, it's better to seek legal advice to handle the process smoothly. Child custody, distribution of assets and other challenging issues can be solved efficiently by legal professionals.
+
+It's specified in Polish law that when it comes to a divorce, the court will consider the best interests of the children, often assigning custody to the parent who has been the principal caregiver to the child.
+
+If the divorce is decided in favor, the court will declare the marriage as ended. The ex-spouses are then eligible to remarry according to Polish law.

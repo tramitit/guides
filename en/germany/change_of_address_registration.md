@@ -1,0 +1,43 @@
+---
+title: "Change of address registration"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Germany"]
+meta_title: ""
+description: "Local registration (Anmeldung) is a mandatory, lawful procedure in Germany upon your arrival or when you change your address in the country."
+draft: false
+---
+
+## Description
+### What is it?
+Upon moving to a new address within Germany, the law requires residents to register their new address with the local authorities – a process known as Anmeldung.
+
+### Who needs it?
+This process is legally required for everyone, German citizens and foreigners, who moves to a new address in Germany.
+
+## Procedure
+Data indicates the following step-by-step procedure on how to get your Anmeldung done:
+
+1. Move into your new residence.
+2. Fill out the "Anmeldung", i.e., the registration form, as soon as possible after moving in. You can typically download this form from the city or community's official website.
+3. Gather necessary documents: ID or passport, rental agreement or confirmation of occupancy from the landlord, and filled out registration form.
+4. Schedule an appointment at your local registration office or "Bürgeramt". Many localities provide online appointment scheduling services on their official websites.
+5. Attend the appointment bringing all the necessary documents with you.
+6. The registration office will issue a registration certificate (Meldebescheinigung). Keep this document safe as it's often required for administrative procedures in Germany.
+
+## Required Documents
+The documents that are generally required to register your new address are:
+
+1. Identification (Passport/ID card)
+2. Rental Agreement or, 
+3. Confirmation of occupancy from the landlord
+4. Filled out registration form
+
+## Providers that can do it for you
+
+| Provider        |     Website                       |     Timelines    |       Cost      |
+| --------------- | ---------------                   |  :-------------: | :-------------: |
+| Berlin Bürgeramt|  https://service.berlin.de/dienstleistung/120686/       |   Varies       |       Free      |
+
+## Additional details
+Please note that it's against the law to have Anmeldung in two places at the same time in Germany. In case you are changing your apartment within the same city, you don’t need to de-register (Abmeldung) from your old address you only need to register (Anmeldung) at your new address. If you are owning a vehicle, it is also mandatory to provide the same residential address as on your driving license to the vehicle registration office. It's also important to inform your broadcasting service provider (like ARD, ZDF, and Deutschlandradio) about the change in your residential address. Your registration document (Meldebescheinigung) might be necessary for opening a bank account, getting a cellphone contract, etc. Please remember to register yourself within two weeks after relocating to your new address.

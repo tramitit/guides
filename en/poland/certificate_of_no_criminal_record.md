@@ -1,0 +1,43 @@
+---
+title: "Certificate of No Criminal Record"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Poland"]
+meta_title: ""
+description: "Detailed guide on obtaining a Certificate of No Criminal Record in Poland"
+draft: false
+---
+
+## Description
+### What is it?
+A Certificate of No Criminal Record, also known as a Police Certificate or Criminal Record Check, is a document that states whether or not a person has a criminal record.
+
+### Who needs it?
+People who are applying for a work visa, immigrants, candidates for public positions, or anyone who is required to demonstrate clear criminal history may need this certificate.
+
+## Procedure
+1. Contact your local police station in Poland or the relevant police authorities and inform them you need a Certificate of No Criminal Record. You are likely to need an appointment, so make sure you book one.
+2. Present your valid identification document (passport or Polish ID).
+3. Fill out the appropriate application form (You may be given the form at the police station).
+4. Pay the necessary fee for the Certificate. 
+5. Once the application has been processed, you will receive your Certificate of No Criminal Record.
+
+## Required Documents
+Items you may need to bring with you when applying:
+
+- Passport or Polish ID.
+- Proof of address.
+- Application form for the Certificate (you may be given this at the police station).
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+|Local Police Station| Not Available |Varies|Depends on local charges|
+
+## Additional details
+Please note that processing times for Criminal Record Checks can vary greatly depending on the location and the amount of requests the local authority is processing.
+
+Indeed, the requirements can vary depending on the purpose of the certificate. It is advisable to check the exact requirements for your specific needs either with your employer, the entity that requires the Certificate or the local authorities. 
+
+If you have lived in different locations you may need to apply for a Certificate of No Criminal Record in each district or you may be able to use a national police authority that can check records from all areas.

@@ -1,0 +1,43 @@
+---
+title: "Parental Allowance Application"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Austria"]
+meta_title: ""
+description: "This is meta description"
+draft: false
+---
+
+## Description
+### What is it?
+Parental Allowance, otherwise known as Elterngeld in Austria and Germany, is a financial assistance program provided by the government. It is offered to parents who want to spend time with their newborn child during their initial months. It's an income replacement grant that allows one parent at a time to take time off work.
+
+### Who needs it?
+New parents who are residing in Austria or Germany may need this grant. It is ideally suited for anyone looking to spend more time with their newborns while managing their work life. 
+
+## Procedure
+1. Look out for the application form for parental allowance provided by your state.
+2. Fill out the form accurately. The form typically requires details regarding your employment, income, and child's information.
+3. Declare your income for the year before the birth of your child.
+4. Submit the form along with the required paperwork to your local parental allowance office.
+
+## Required Documents
+- Proof of income
+- Copy of the child’s birth certificate
+- Proof of residence
+- Identification documents (passport, ID card)
+- Pregnancy documentation from a medical professional
+- Employment details
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Parental Allowance Office |   https://www.elterngeld.net/elterngeldstellen.html  |      Depends on case        |        Free       |
+
+## Additional details
+- You can apply for a parental allowance up to 3 months before the birth of your child.
+- Single parents are also eligible for parental allowance.
+- Self-employed parents can also apply.
+- The allowance amount depends on your net income from the previous year. 
+- You should confirm the exact requirements and procedures with your relevant local parental allowance office as these can vary.

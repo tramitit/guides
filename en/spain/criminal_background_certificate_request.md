@@ -1,0 +1,39 @@
+---
+title: "Criminal Background Certificate Request"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Spain"]
+meta_title: "Requesting a Criminal Background Certificate in Spain"
+description: "A comprehensive guide on how to request a Criminal Background Certificate in Spain."
+draft: false
+---
+
+## Description
+### What is it?
+A Criminal Background Certificate is a document that certifies whether or not a person has a criminal record.
+
+### Who needs it?
+Individuals applying for certain jobs, visas, or official permits may be requested to provide a Criminal Background Certificate.
+
+## Procedure
+1. Visit the [Spanish Ministry of Justice website](https://www.mjusticia.gob.es/) and navigate to the section for 'Citizens - Criminal Records.' 
+2. Click on 'Online Request' if you possess a digital certificate, electronic ID, or other methods of electronic identification. If not, opt for a request 'Without certificate', which involves filling out a form.
+3. Provide your personal details as requested by the online form.
+4. Select the appropriate purpose for your certificate request. 
+5. Pay the fee online by card or use the printed receipt to pay at a bank.
+6. Your application will be processed, and the certificate will be sent to you by post or email. 
+
+## Required Documents
+- Valid identification (Passport/NIE for foreigners, DNI for Spanish citizens)
+- Proof of payment of the required fee
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Ministry of Justice |  [mjusticia.gob.es](https://www.mjusticia.gob.es/) | 1-2 weeks | €3.70 |
+
+## Additional details
+- The fee for requesting a Criminal Background Certificate as of 2024 is €3.70. 
+- Digital Certificate users must select the 'With certificate' option. Those without a Digital Certificate must fill out a form in person or use the 'Without certificate' option online and then pay the fee at a bank.
+- If you are outside Spain, the same procedure applies, but instead of receiving the certificate by post, you will receive an electronic version by email.
