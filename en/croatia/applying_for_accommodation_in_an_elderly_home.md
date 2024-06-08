@@ -2,7 +2,7 @@
 title: "Applying for accommodation in an elderly home"
 author: "Ricardo Batista"
 date: "2024-06-08"
-categories: ["Guidelines"]
+categories: ["Croatia"]
 meta_title: ""
 description: "This is a step-by-step guide on how to apply for accommodation in an elderly home"
 draft: false

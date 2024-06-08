@@ -2,7 +2,7 @@
 title: "Economic Activity Authorization"
 author: "Your Name"
 date: "Current Date"
-categories: ["Guide"]
+categories: ["Romania"]
 meta_title: "Step-by-step guide for Economic Activity Authorization"
 description: "A comprehensive guide detailing the process, paperwork, and providers for processing an Economic Activity Authorization."
 draft: false
