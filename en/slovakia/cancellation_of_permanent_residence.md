@@ -2,7 +2,7 @@
 title: "Cancellation of Permanent Residence"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Emigration"]
+categories: ["Slovakia"]
 meta_title: "How to Cancel Your Permanent Residence"
 description: "Step by step guide on how to cancel your Permanent Residence"
 draft: false

@@ -2,7 +2,7 @@
 title: "Issuance of a temporary passport"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Travel documents"]
+categories: ["Bulgaria"]
 meta_title: ""
 description: "This is a step-by-step guide on how to get a temporary passport"
 draft: false

@@ -1,10 +1,8 @@
-As an AI developed by OpenAI, I can not browse the internet or retrieve any real-time information, such as information from specific Reddit threads. However, I can provide you with a general step-by-step guide on how to change your ID card based on the knowledge that has been fee into me so far.
-
 ---
 title: "Change of ID card"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Legal"]
+categories: ["Poland"]
 meta_title: "How to Change Your ID Card"
 description: "This guide provides a detailed procedure on how to change your existing ID card."
 draft: false

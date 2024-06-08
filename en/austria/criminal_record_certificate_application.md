@@ -2,7 +2,7 @@
 title: "Criminal Record Certificate Application"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Legal"]
+categories: ["Austria"]
 meta_title: "How to Apply for a Criminal Record Certificate"
 description: "This guide provides detailed steps on how to apply for a Criminal Record Certificate."
 draft: false

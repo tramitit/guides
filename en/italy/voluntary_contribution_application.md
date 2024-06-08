@@ -1,5 +1,3 @@
-As an AI, I'm unable to access real-time webpages or specific URLs like Reddit threads. However, I will provide the format you need according to the standard procedures for a Voluntary Contribution Application.
-
 ---
 title: "Voluntary Contribution Application"
 author: "Ricardo Batista"

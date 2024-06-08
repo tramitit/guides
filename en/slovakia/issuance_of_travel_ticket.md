@@ -2,7 +2,7 @@
 title: "Issuance of Travel Tickets"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Travel"]
+categories: ["Slovakia"]
 meta_title: ""
 description: "This guide outlines the procedure and key points to keep in mind while issuing travel tickets."
 draft: false

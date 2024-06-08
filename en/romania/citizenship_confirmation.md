@@ -3,7 +3,7 @@
 title: "Citizenship Confirmation"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Romania", "Citizenship"]
+categories: ["Romania"]
 meta_title: "Guide to Confirming Citizenship"
 description: "A step-by-step guide on how to confirm your citizenship status."
 draft: false

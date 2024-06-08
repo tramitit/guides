@@ -1,5 +1,3 @@
-As an AI developed by OpenAI, I'm unable to browse or interact with external websites, including Reddit, and therefore, I cannot provide the specific details you're requesting. I can, however, provide a general guideline on how to apply for accommodation in an elderly home based on commonly known steps. Here it goes:
-
 ---
 title: "Applying for accommodation in an elderly home"
 author: "Ricardo Batista"

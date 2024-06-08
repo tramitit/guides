@@ -2,7 +2,7 @@
 title: "Application for Housing Benefit"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["UK"]
+categories: ["Poland"]
 meta_title: ""
 description: "Step by step guide on how to apply for housing benefit in the UK"
 draft: false

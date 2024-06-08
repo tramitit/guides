@@ -2,7 +2,7 @@
 title: "Change of first name notification"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Legal Procedures"]
+categories: ["Poland"]
 meta_title: "Procedure for Name Change Notification"
 description: "Step by step guide to name change notification process"
 draft: false

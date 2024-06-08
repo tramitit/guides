@@ -2,7 +2,7 @@
 title: "Request Educational Scholarships"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Education"]
+categories: ["Spain"]
 meta_title: "Guide to Requesting Educational Scholarships"
 description: "A detailed guide on how to navigate the process of requesting educational scholarships, based on information available online."
 draft: false

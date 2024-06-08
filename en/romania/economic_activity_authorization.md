@@ -1,7 +1,3 @@
-Sorry, as an AI developed by OpenAI, I don't have the capability to browse the internet or view Reddit threads to extract specific steps for “Economic Activity Authorization.” But you can perform your research on the mentioned forum threads and gather the necessary information about “Economic Activity Authorization.” 
-
-Afterward, you might want to collate the details in a way similar to this:
-
 ---
 title: "Economic Activity Authorization"
 author: "Your Name"

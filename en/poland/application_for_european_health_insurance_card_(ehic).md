@@ -2,7 +2,7 @@
 title: "Application for European Health Insurance Card (EHIC)"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["General Information"]
+categories: ["Poland"]
 meta_title: "How to apply for European Health Insurance Card (EHIC)"
 description: "Detailed guide on how to apply for EHIC which gives the cardholder access to state-provided healthcare during a temporary stay in another EU country."
 draft: false

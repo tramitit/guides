@@ -2,7 +2,7 @@
 title: "Notification of change in contact details"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Miscellaneous"]
+categories: ["Poland"]
 meta_title: "Notification of Change in Contact Details: A Comprehensive Guide"
 description: "This comprehensive guide details how to notify entities about a change in your contact details like phone number, email, or address."
 draft: false

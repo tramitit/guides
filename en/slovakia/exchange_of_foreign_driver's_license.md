@@ -2,7 +2,7 @@
 title: "Exchange of Foreign Driver's License"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Driving Abroad"]
+categories: ["Slovakia"]
 meta_title: "Guide on How to Exchange Foreign Driver’s License"
 description: "This guide provides a detailed step-by-step procedure on how to exchange a foreign driver's license."
 draft: false

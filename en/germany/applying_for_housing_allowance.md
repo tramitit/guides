@@ -2,28 +2,26 @@
 title: "Applying for Housing Allowance"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Germany", "Netherlands"]
-meta_title: "Guide to Applying for Housing Allowance in Germany and The Netherlands"
-description: "Step-by-step guide on how to apply for housing allowance (Wohngeld in Germany and Huurtoeslag in The Netherlands)"
+categories: ["Germany"]
+meta_title: "Guide to Applying for Housing Allowance in Germany"
+description: "Step-by-step guide on how to apply for housing allowance (Wohngeld in Germany)"
 draft: false
 ---
 
 ## Description
 ### What is it?
-Housing Allowance is a financial support scheme by governments, designed to assist eligible individuals or households who may struggle with their rent or housing costs. This support can come in the form of Wohngeld in Germany or Huurtoeslag in The Netherlands.
+Housing Allowance is a financial support scheme by governments, designed to assist eligible individuals or households who may struggle with their rent or housing costs. This support can come in the form of Wohngeld in Germany.
 
 ### Who needs it?
-Ideal recipients are individuals or families on low income, unemployed people, students, or self-employed individuals living in Germany or The Netherlands, who may struggle to meet their housing costs.
+Ideal recipients are individuals or families on low income, unemployed people, students, or self-employed individuals living in Germany, who may struggle to meet their housing costs.
 
 ## Procedure
 
 1. To apply for Wohngeld in Germany, visit the local Housing Office (Wohngeldstelle) in your City Hall (Rathaus). Obtain the relevant application form for housing benefit.
-
-2. In the Netherlands, apply for the Huurtoeslag through the Belastingdienst/Toeslagen website [here](https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/huurtoeslag-aanvragen).
    
-3. Complete the required documentation and form truthfully.
+2. Complete the required documentation and form truthfully.
    
-4. Submit the completed form and documentation to the relevant office or via the online portal in the case of Huurtoeslag.
+3. Submit the completed form and documentation to the relevant office or via the online portal in the case of Huurtoeslag.
 
 ## Required Documents
 1. Proof of Income (e.g., salary slips, unemployment benefits)
@@ -38,7 +36,6 @@ Note: Check local requirements as specific requirements may vary.
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
 | Wohngeldstelle  |  N/A            |      Varies      |        Free     |
-| Belastingdienst |  [Website](https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/huurtoeslag-aanvragen) | Varies | Free |
 
 ## Additional details
 - The amount of housing allowance you receive may vary and is dependent on your income, rent, and household size.

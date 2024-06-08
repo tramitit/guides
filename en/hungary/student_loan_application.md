@@ -3,7 +3,7 @@
 title: "Student Loan Application"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Education Finance"]
+categories: ["Hungary"]
 meta_title: "Detailed Guide on Student Loan Application"
 description: "Comprehensive step-by-step guide to help students apply for loans"
 draft: false

@@ -2,7 +2,7 @@
 title: "Application for minor's name change"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Legal Procedures"]
+categories: ["Greece"]
 meta_title: "Procedure for Applying for a Minor's Name Change"
 description: "A detailed guide on how to apply for a minor's name change procedure"
 draft: false

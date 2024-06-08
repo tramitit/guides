@@ -1,7 +1,4 @@
-I'm sorry for the confusion, but I'm an AI language model developed by OpenAI and I don't have the ability to browse the internet or access the content of external web links including Reddit. However, I can generate a general guide on how you might apply for social allowance, based on the general knowledge built into me. Here's an example:
-
 ---
-
 title: "Social Allowance Application"
 author: "Ricardo Batista"
 date: "2024-06-07"

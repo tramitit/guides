@@ -2,7 +2,7 @@
 title: "Documentation for university enrollment"
 author: "Ricardo Batista"
 date: "2024-06-08"
-categories: ["Croatia", "Poland", "India"]
+categories: ["Croatia"]
 meta_title: "University Enrollment Documentation"
 description: "Detailed guidance on required documentation for enrolling in universities abroad"
 draft: false

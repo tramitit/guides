@@ -2,7 +2,7 @@
 title: "Urbanism Certificate: A Step-by-Step Guide"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Urban Planning"]
+categories: ["Romania"]
 meta_title: ""
 description: "A comprehensive guide outlining how to obtain an urbanism certificate."
 draft: false

@@ -2,7 +2,7 @@
 title: "University enrollment management"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Education"]
+categories: ["Hungary"]
 meta_title: "Guide to University Enrollment Management"
 description: "A comprehensive guide on how to handle university enrollment process."
 draft: false

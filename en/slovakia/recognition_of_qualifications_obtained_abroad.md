@@ -2,7 +2,7 @@
 title: "Recognition of qualifications obtained abroad"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Slovakia", "International Education"]
+categories: ["Slovakia"]
 meta_title: "Guide to Recognition of Qualifications obtained Abroad"
 description: "A step-by-step guide to get your international qualifications recognized abroad."
 draft: false

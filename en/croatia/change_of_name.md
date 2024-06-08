@@ -2,7 +2,7 @@
 title: "Change of Name"
 author: "Ricardo Batista"
 date: "2024-06-08"
-categories: ["Personal Information Modification"]
+categories: ["Croatia"]
 meta_title: "Changing Your Name Step-by-Step Guide"
 description: "Detailed step-by-step guide to get you through the process of how to change your name or alter details that represent your identity."
 draft: false

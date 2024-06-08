@@ -2,7 +2,7 @@
 title: "Sick pay application"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Sick Leave"]
+categories: ["Hungary"]
 meta_title: "How to Apply for Sick Pay"
 description: "Step-by-step procedure on how to apply for sick pay"
 draft: false

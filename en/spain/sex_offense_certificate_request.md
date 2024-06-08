@@ -1,10 +1,8 @@
-As an AI developed by OpenAI, I am unable to view real-time external content or access links to specific web pages, including Reddit. However, I can share a general guide on how you might request a Sex Offense Certificate, based on common procedures in many areas. Please verify these steps with your local authorities, as specifics may vary based on location.
-
 ---
 title: "Sex Offense Certificate Request"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Legal Documents"]
+categories: ["Spain"]
 meta_title: "How to Request a Sex Offense Certificate"
 description: "A guide on the common steps to request a Sex Offense Certificate"
 draft: false

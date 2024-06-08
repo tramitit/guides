@@ -2,7 +2,7 @@
 title: "Application for a Foreign Tax Identification Number"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["International Financial Guidance"]
+categories: ["Germany"]
 meta_title: "Guide to applying for a foreign Tax Identification Number (TIN)"
 description: "Step-by-step guidance on how to apply for a foreign TIN, who requires it, the procedure to follow, and required documents."
 draft: false

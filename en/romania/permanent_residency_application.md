@@ -2,7 +2,7 @@
 title: "Permanent Residency Application"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Immigration"]
+categories: ["Romania"]
 meta_title: ""
 description: "This guide will enlighten you on the process of Permanent Residency application"
 draft: false

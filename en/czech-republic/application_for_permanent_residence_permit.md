@@ -2,7 +2,7 @@
 title: "Application for Permanent Residence Permit in the Czech Republic"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Czech Republic", "Relocation"]
+categories: ["Czech Republic"]
 meta_title: "Guidelines for Applying for Permanent Residence in the Czech Republic"
 description: "Step-by-step procedures for applying for a permanent residence permit in the Czech Republic."
 draft: false

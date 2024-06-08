@@ -2,7 +2,7 @@
 title: "Application for child benefits"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Child Benefits"]
+categories: ["Bulgaria"]
 meta_title: "A step by step guide for applying to child benefits"
 description: "A comprehensive walkthrough to help you understand and apply for child benefits."
 draft: false

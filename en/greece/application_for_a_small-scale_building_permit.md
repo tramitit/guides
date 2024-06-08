@@ -3,7 +3,7 @@
 title: "Application for a small-scale building permit"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Guides"]
+categories: ["Greece"]
 meta_title: "Complete Guide to Applying for a Small-Scale Building Permit"
 description: "This guide provides a comprehensive step by step process to obtaining a small-scale building permit."
 draft: false

@@ -1,5 +1,3 @@
-I'm sorry, but as an AI developed by OpenAI, I am not able to browse the internet or external content, such as Reddit threads. Therefore, I'm unable to provide detailed guides or instructions based on the linked Reddit threads you've mentioned. However, I can give you generalized advice on how to issue an educational document based on standard procedures typically followed:
-
 ---
 title: "Issuance of an educational document"
 author: "Ricardo Batista"

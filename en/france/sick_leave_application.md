@@ -2,9 +2,9 @@
 title: "Sick leave application"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["France", "Switzerland"]
+categories: ["France"]
 meta_title: "Guide for Sick Leave Application"
-description: "Detailed guide on how to apply for a sick leave in France and Switzerland."
+description: "Detailed guide on how to apply for a sick leave in France."
 draft: false
 ---
 
@@ -13,7 +13,7 @@ draft: false
 Sick leave application is a formal process needed to inform one's employer about the period of their absence due to a health problem, which includes physical or mental illnesses. It usually requires a medical document proving the condition and specifying the estimated duration of the illness.
 
 ### Who needs it?
-Any worker employed in France or Switzerland under a legal contract who finds themselves unable to perform their work due to a medical condition, physically or mentally, and need to take a break from work for health recovery.
+Any worker employed in France under a legal contract who finds themselves unable to perform their work due to a medical condition, physically or mentally, and need to take a break from work for health recovery.
 
 ## Procedure
 1. Consult a healthcare provider or a psychiatrist to determine your condition.

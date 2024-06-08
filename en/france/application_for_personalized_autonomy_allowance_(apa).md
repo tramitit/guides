@@ -1,7 +1,4 @@
-As an AI model trained by OpenAI, I don't have the direct capability to scrape or fetch real-time web data, including from Reddit threads. However, I can provide a general step-by-step guideline about applying for an Allocation personnalisée d'autonomie (APA), which is a French Assistance allowance. 
-
 ---
-
 title: "Application for Personalized Autonomy Allowance (APA)"
 author: "JOHN DOE"
 date: "2024-06-07"

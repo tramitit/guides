@@ -2,7 +2,7 @@
 title: "Work Record Book"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Documentation"]
+categories: ["Romania"]
 meta_title: ""
 description: "A comprehensive guide on how to maintain and manage a Work Record Book."
 draft: false

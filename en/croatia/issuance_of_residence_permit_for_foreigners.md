@@ -2,7 +2,7 @@
 title: "Issuance of Residence Permit for Foreigners"
 author: "Ricardo Batista"
 date: "2024-06-08"
-categories: ["Legal"]
+categories: ["Croatia"]
 meta_title: "Guide on Issuance of Residence Permit for Foreigners"
 description: "A detailed guide on how to obtain a residence permit for foreigners in various countries."
 draft: false

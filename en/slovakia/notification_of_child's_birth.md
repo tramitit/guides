@@ -2,7 +2,7 @@
 title: "Notification of child's birth"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Parenting"]
+categories: ["Slovakia"]
 meta_title: ""
 description: "This is a comprehensive guide on how to notify a child's birth, with helpful details for both Slovakian locals and immigrants."
 draft: false

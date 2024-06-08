@@ -1,11 +1,8 @@
-As an AI, I'm unable to browse or extract real-time data from the internet or any external web pages, including reddit or any other social media platforms. However, I can use pre-existing knowledge to guide you through the general process of applying for financial grants for entrepreneurs.
-
 ---
-
 title: "Application for Financial Grants for Entrepreneurs"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Entrepreneurship Grant"]
+categories: ["Slovakia"]
 meta_title: "Application for Financial Grants for Entrepreneurs - Step-by-Step Guide"
 description: "A comprehensive guide on how to apply for financial grants for entrepreneurs."
 draft: false
