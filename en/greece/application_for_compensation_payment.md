@@ -2,7 +2,7 @@
 title: "Application for compensation payment"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Business Advice"]
+categories: ["Greece"]
 meta_title: ""
 description: "Understanding and applying for compensation payments"
 draft: false

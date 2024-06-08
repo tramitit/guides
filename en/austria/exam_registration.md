@@ -2,7 +2,7 @@
 title: "Exam Registration"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Education"]
+categories: ["Austria"]
 meta_title: "Guide for Exams Registration"
 description: "This is a comprehensive guide on exam registration"
 draft: false

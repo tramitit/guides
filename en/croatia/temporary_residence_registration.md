@@ -1,0 +1,41 @@
+---
+title: "Temporary residence registration"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Croatia"]
+meta_title: ""
+description: "This guide describes the process of temporary residence registration for foreigners living in Croatia."
+draft: false
+---
+
+## Description
+### What is it?
+Temporary residence registration is the process by which foreigners living in another country, such as Croatia, register their presence in the country for a specific period. This is often necessary for legal purposes and potential benefits like housing, healthcare and more.
+
+### Who needs it?
+This service is primarily aimed at individuals who are not citizens of Croatia but plan to live, work, or study there for an extended period.
+
+## Procedure
+1. First, download and fill in the residence registration form. Here is the [link](https://www.mup.hr/gradjani/stranci) to the form and [guide on how to fill it](https://www.mup.hr/gradjani/stranci/135).
+2. Gather necessary documentation (please find the list below).
+3. Take the form and your documentation to a local police station or administrative services center.
+4. If everything is in order, you should receive a temporary residence stamp in your passport and a certificate of registration of temporary residence.
+
+## Required Documents
+Here is a list of mandatory documents:
+- A completed application form
+- A valid travel document (usually it is a passport)
+- A biometric photograph
+- Proof of health insurance
+- Evidence of sufficient financial funds
+- Proof of the reason for your stay (such as work contract, letter of acceptance from a university, etc.)
+- Proof of address in Croatia
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Croatia Ministry of the Interior      |  [mup.hr](https://www.mup.hr/)       |      Variable based on case      |        Variable based on case       |
+
+## Additional details
+Foreigners staying in Croatia on the basis of temporary stay may stay up to 90 days in each period of six months starting from the date of first entry. For any stays more than that, the foreigner should apply for a temporary residence permit. This information was sourced from the official regulations and policies as stated on the Ministry of Interior website.

@@ -1,0 +1,42 @@
+---
+title: "Business registration in Bulgaria"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Bulgaria"]
+meta_title: ""
+description: "A step-by-step guide on how to register a business in Bulgaria"
+draft: false
+---
+
+## Description
+### What is it?
+Registering a business in Bulgaria involves several legal and administrative steps to obtain official recognition and permits for your company. The process encompasses from choosing and reserving a company name, to acquiring necessary permits and licenses, and complying with tax regulations.
+
+### Who needs it?
+This guide is ideal for anyone looking to start a business in Bulgaria - including locals, expats, and even digital nomads.
+
+## Procedure
+1. _Company Name Reservation_: Choose and reserve a name for your company. The name must be unique and can be checked for availability at the [Bulgarian Registry Agency's online portal](https://brra.bg/Default.ra).
+2. _Drafting of Company Statutes_: Create a Memorandum of Association and Articles of Association that comply with Bulgarian law. Here, you will layout the purpose of your company, its management structure, and share distribution.
+3. _Opening of a Temporary Bank Account_: A temporary bank account must be opened for your company in a Bulgarian bank. The initial capital, depending on your company type, must be deposited into this account.
+4. _Registration with the Commercial Register_: Submit the completed application and necessary documents to the Bulgarian Registry Agency.
+5. _Official Company Stamp_: Obtain the official stamp for your company.
+6. _Registration with the Tax Authorities_: Register your company with the tax authorities and obtain a VAT number if necessary.
+
+## Required Documents
+- Passport or personal identification document
+- Proof of address
+- Articles of Association
+- Bank certificate for the deposit of the capital
+- Application form for registration
+
+The exact documents required may vary depending on the specific nature of your business.
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Intercompany    |  [Intercompany](https://www.intercompanysolutions.com/) |      Varies      |       Varies     |
+
+## Additional details
+Remember to consult with a legal expert or a business consultant if you're unsure about any step in the process. Regulations can change, so it's important to ensure you're always following the most up-to-date procedures in order to fully comply with Bulgarian business laws.

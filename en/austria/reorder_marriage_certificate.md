@@ -2,7 +2,7 @@
 title: "Reorder Marriage Certificate"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Document Services"]
+categories: ["Austria"]
 meta_title: ""
 description: "Detailed guide on how to reorder a marriage certificate."
 draft: false

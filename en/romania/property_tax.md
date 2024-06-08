@@ -1,0 +1,42 @@
+---
+title: "Property Tax"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Romania"]
+meta_title: "Property Tax in Romania: A Comprehensive Guide"
+description: "Learn about what property tax is, who needs to pay it, what the procedure is, and more."
+draft: false
+---
+
+## Description
+### What is it?
+Property tax is a form of levy that homeowners must pay based on the real estate's value that they own. This rate varies depending on the country, or even within parts of the same country. It's usually calculated as a percentage of the property's value.
+
+### Who needs it?
+Any individual or entity owning real estate properties such as houses, apartments or land needs to pay property tax. It is particularly crucial for property owners in Romania, as it is one of the European Union countries with relatively high property taxes.
+
+## Procedure
+To pay the property tax in Romania, you need to follow a few steps:
+1. Valuate the property based on the current market rates, possibly with the help of a professional.
+2. Calculate the tax due based on the property value and the current tax rate. Ensure to consider tax exemptions if you are eligible.
+3. Visit your local tax authority office or their online platform. In Romania, this can be performed in the online platform [ghiseul.ro](https://ghiseul.ro/).
+4. Fill out the property tax declaration form, including all necessary details.
+5. Pay the tax due, either online or at the tax authority office.
+
+## Required Documents
+The required documents include:
+- Ownership documents to prove property ownership.
+- Identification documents for verification purposes.
+- A completed property tax declaration.
+- Current property valuation report if relevant.
+
+## Providers that can do it for you
+
+| Provider        |     Website                  |     Timelines           |       Cost          |
+| --------------- | ---------------              |  :-------------:        | :-------------:     |
+| Ghiseul.ro      |  [ghiseul.ro](https://ghiseul.ro)    |  Variable depending on property    | Property taxing rate varies depending on property size, type, and region |
+
+## Additional details
+Romania is about to mandate CGT (Capital Gains Tax) withholding. This means that any profits made from selling your property should be taxed, which should be considered when calculating your total taxes due.
+There are also property taxes on luxury properties which you could be liable for depending on your property type.
+Being aware of these tax allocations could help you manage your property tax payments more effectively in Romania.

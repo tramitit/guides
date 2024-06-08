@@ -1,0 +1,42 @@
+---
+
+title: "Address Change Notification for Expats"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Romania"]
+meta_title: ""
+description: "A comprehensive guide for expatriates on how to notify relevant entities about an address change"
+draft: false
+---
+
+## Description
+### What is it?
+Changing the address notification is a crucial process for expatriates. It ensures that all relevant institutions, organizations, and services are aware of your new location.
+
+### Who needs it?
+This procedure is vital for expatriates who have moved to a new location, whether within the same country or to a different one. It is also useful for expats who frequently relocate due to their job or other factors.
+
+## Procedure
+1. Start by notifying your local embassy or consulate about your change of address. 
+2. Update your address with all financial institutions you are linked to. This includes banks, credit card companies, and any money transfer services you might be using.
+3. Notify governmental agencies such as the taxation and benefits departments of your home country.
+4. Update your address for any subscriptions or online services like Netflix, Amazon, Gmail, etc.
+5. Lastly, notify postal services and any home delivery services you use on a regular basis.
+
+## Required Documents
+You may need documents such as:
+- Proof of your new address. This could be a lease agreement or utilities bill.
+- Identification documents.
+- Any legal documents related to your immigration status.
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| ----------- | ----------- |  :-------------: | :-------------: |
+| Your local embassy or consulate     |  https://{Embassy or Consulate Website}       |      Depends on embassy      |        Varies by country       |
+| Your bank     |  https://{Bank Website}       |      1 - 5 business days      |        May be free       |
+
+## Additional details
+Using a Virtual Private Network (VPN) might be helpful if a service you need is restricted based on your location, such as certain online broadcasts or premium services. Please be mindful of any legal restrictions when using a VPN.
+
+Note: All procedures should be followed by individual official websites provided for updated and accurate information. This guide is a basic orientation and may not cover all specific guidelines or requirements.

@@ -1,0 +1,42 @@
+---
+title: "Issuance of a Family Status Certificate"
+author: "Ricardo Batista"
+date: "2024-06-07"
+categories: ["Bulgaria"]
+meta_title: ""
+description: "Steps in issuing a family status certificate for adoption or immigration processes in Bulgaria"
+draft: false
+---
+
+## Description
+### What is it?
+A Family Status Certificate is a legal document that verifies the family status or relationships within a family. It's useful for various administrative and legal processes - such as for adoption, immigration, and other personal status processes.
+
+### Who needs it?
+- Individuals in the process of adopting a child internationally 
+- Immigrants who have moved to Bulgaria and would like their relatives to join them 
+
+## Procedure
+Here are steps you need to follow to obtain a Family Status Certificate in Bulgaria:
+
+1. Contact the local Civil Registration office in your city.
+2. Provide them with the necessary details about your family.
+3. Fill out the application form for the certificate.
+4. Submit the necessary documents (as listed below).
+
+## Required Documents
+The following documents are usually required when applying for a Family Status Certificate: 
+
+1. Valid ID Documents (Passports)
+2. Birth Certificate 
+3. Residence Permit (if applicable)
+4. Marriage Certificate (if applicable)
+
+## Providers that can do it for you
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+| Bulgarian Civil Registration Office |  [link](http://www.grao.bg/en/pages/index/20010800) |      Varies based on individual cases     |        Varies       |
+
+## Additional details
+It's important to note that the process can take time and may require a few weeks to a few months, depending on the complexity of your family tree. Ensure all documents are translated into Bulgarian if they are in a different language.
