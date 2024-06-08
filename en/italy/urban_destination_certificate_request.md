@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Guide to Requesting an Urban Destination Certificate"
 description: "Detailed step-by-step guide on how to apply for an Urban Destination Certificate"
 draft: false
+translationKey: "italy-urban_destination_certificate_request"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "How to Renew a Driver's License in France"
 description: "Step-by-step guide on how to renew your driver's license in France"
 draft: false
+translationKey: "france-driver's_license_renewal"
 ---
 
 ## Description

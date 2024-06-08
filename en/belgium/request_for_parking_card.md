@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "Step by step guide on how to request for a parking card."
 draft: false
+translationKey: "belgium-request_for_parking_card"
 ---
 
 ## Description

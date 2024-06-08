@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Steps to Register for Marriage in Germany"
 description: "A comprehensive guide on how to register for marriage in Germany"
 draft: false
+translationKey: "germany-marriage_registration"
 ---
 
 ## Description

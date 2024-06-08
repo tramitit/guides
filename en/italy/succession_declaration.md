@@ -7,6 +7,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This is a step-by-step guide on how to declare succession following the death of a loved one. This post is particularly focused on the legal procedures in Italy."
 draft: false
+translationKey: "italy-succession_declaration"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "How to Request a Marriage Certificate in Belgium"
 description: "Detailed steps on how to request a marriage certificate in Belgium"
 draft: false
+translationKey: "belgium-request_for_marriage_certificate"
 ---
 
 ## Description

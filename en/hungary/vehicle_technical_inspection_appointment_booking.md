@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Vehicle Technical Inspection Booking Guide for Hungary"
 description: "Step-by-step guide for booking a vehicle technical inspection appointment in Hungary."
 draft: false
+translationKey: "hungary-vehicle_technical_inspection_appointment_booking"
 ---
 
 ## Description

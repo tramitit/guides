@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Request for Building Permit in Portugal: Step by Step Guide"
 description: "Step by step guide to request a building permit in Portugal. From understanding the requirements to getting it done."
 draft: false
+translationKey: "portugal-request_for_building_permit"
 ---
 
 ## Description

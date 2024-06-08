@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Guidance on Residence Certificate Request in Italy"
 description: "A detailed guide on how to start your request for a residence certificate in Italy."
 draft: false
+translationKey: "italy-residence_certificate_request"
 ---
 
 ## Description

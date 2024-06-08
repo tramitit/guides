@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "germany-application_for_a_certificate_of_conduct"
 ---
 
 ## Description

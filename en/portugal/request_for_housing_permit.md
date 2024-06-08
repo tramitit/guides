@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Request for Housing Permit in Portugal"
 description: "Step by step guide to applying for a housing permit in Portugal"
 draft: false
+translationKey: "portugal-request_for_housing_permit"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "A step by step guide on how to obtain a TIN (Tax Identification Number)"
 draft: false
+translationKey: "romania-obtaining_tax_identification_number_(tin)"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "romania-criminal_record"
 ---
 
 ## Description

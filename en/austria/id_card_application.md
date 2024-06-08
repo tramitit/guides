@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Detailed steps to apply for an ID card in Austria."
 draft: false
+translationKey: "austria-id_card_application"
 ---
 
 ## Description

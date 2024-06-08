@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Procedure for obtaining No Criminal Record certificate"
 description: "Step by step guide detailing how one can obtain a no criminal record certificate."
 draft: false
+translationKey: "croatia-issuance_of_no_criminal_record_certificate"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This guide discusses the process of requesting a criminal record extract in Belgium."
 draft: false
+translationKey: "belgium-request_for_criminal_record_extract"
 ---
 
 ## Description

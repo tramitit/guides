@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Guide to Death Registration in Hungary"
 description: "Detailed steps for death registration in Hungary"
 draft: false
+translationKey: "hungary-death_registration"
 ---
 
 ## Description

@@ -7,6 +7,7 @@ categories: ["Bulgaria"]
 meta_title: "Comprehensive Guide to Issuing an Identity Card in Bulgaria"
 description: "A step-by-step guide to help you understand the process of getting an identity card in Bulgaria."
 draft: false
+translationKey: "bulgaria-issuance_of_an_identity_card"
 ---
 
 ## Description

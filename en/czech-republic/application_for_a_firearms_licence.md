@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "How to Obtain a Firearms License in the Czech Republic"
 description: "Detailed guide on the process of obtaining a firearms license in the Czech Republic"
 draft: false
+translationKey: "czech-republic-application_for_a_firearms_licence"
 ---
 
 ## Description

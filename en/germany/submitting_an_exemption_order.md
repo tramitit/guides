@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Guide to Submitting an Exemption Order in Germany"
 description: "Step-by-step guide for submitting an Exemption Order (Freistellungsauftrag) in Germany"
 draft: false
+translationKey: "germany-submitting_an_exemption_order"
 ---
 
 ## Description

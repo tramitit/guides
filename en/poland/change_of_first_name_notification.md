@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Procedure for Name Change Notification"
 description: "Step by step guide to name change notification process"
 draft: false
+translationKey: "poland-change_of_first_name_notification"
 ---
 
 ## Description

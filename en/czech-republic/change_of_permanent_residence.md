@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "This article guides you through the steps to change your permanent residence, specifically for those residing in the Czech Republic."
 draft: false
+translationKey: "czech-republic-change_of_permanent_residence"
 ---
 
 ## Description

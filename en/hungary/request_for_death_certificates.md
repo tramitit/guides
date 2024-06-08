@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Request for death certificates in Hungary"
 description: "Detailed steps on how to request for death certificates in Hungary"
 draft: false
+translationKey: "hungary-request_for_death_certificates"
 ---
 
 ## Description

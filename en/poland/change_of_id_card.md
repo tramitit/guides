@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "How to Change Your ID Card"
 description: "This guide provides a detailed procedure on how to change your existing ID card."
 draft: false
+translationKey: "poland-change_of_id_card"
 ---
 
 ## Description

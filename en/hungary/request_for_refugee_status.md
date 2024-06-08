@@ -7,6 +7,7 @@ categories: ["Hungary"]
 meta_title: "Guide to Request for Refugee Status in Hungary"
 description: "Step-by-step guide on how to request for refugee status in Hungary."
 draft: false
+translationKey: "hungary-request_for_refugee_status"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Requesting a Criminal Background Certificate in Spain"
 description: "A comprehensive guide on how to request a Criminal Background Certificate in Spain."
 draft: false
+translationKey: "spain-criminal_background_certificate_request"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Guide to Obtaining a Visa for Foreigners in Croatia"
 description: "A comprehensive guide for foreigners looking to obtain a visa in Croatia."
 draft: false
+translationKey: "croatia-obtaining_a_visa_for_foreigners"
 ---
 
 ## Description

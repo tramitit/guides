@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "How to File a Trade Tax Return in Germany"
 description: "Step-by-step guide on how to file a trade tax return in Germany"
 draft: false
+translationKey: "germany-filing_a_trade_tax_return"
 ---
 
 ## Description

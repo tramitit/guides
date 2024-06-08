@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Resident Card Application Guide"
 description: "A step-by-step guide on how to apply for a resident card in France."
 draft: false
+translationKey: "france-resident_card_application"
 ---
 
 ## Description

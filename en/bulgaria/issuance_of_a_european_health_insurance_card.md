@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Step-by-step Guide on Obtaining a European Health Insurance Card for Bulgaria"
 description: "A detailed guide to comprehend the process and acquire a European Health Insurance Card for Bulgaria."
 draft: false
+translationKey: "bulgaria-issuance_of_a_european_health_insurance_card"
 ---
 
 ## Description

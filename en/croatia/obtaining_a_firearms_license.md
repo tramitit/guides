@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Guide to obtaining a firearms license in Croatia"
 description: "Comprehensive guide to obtaining a firearms license in Croatia"
 draft: false
+translationKey: "croatia-obtaining_a_firearms_license"
 ---
 
 ## Description

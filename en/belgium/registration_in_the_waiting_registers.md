@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "belgium-registration_in_the_waiting_registers"
 ---
 
 ## Description

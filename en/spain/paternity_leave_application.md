@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "This is a step-by-step guide for applying for paternity leave in Spain"
 draft: false
+translationKey: "spain-paternity_leave_application"
 ---
 
 ## Description

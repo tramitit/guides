@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Guide to Opening a Bank Account in Czech Republic"
 description: "Detailed step-by-step guide on opening a bank account in the Czech Republic, suitable for residents and non-residents."
 draft: false
+translationKey: "czech-republic-opening_a_bank_account"
 ---
 
 ## Description

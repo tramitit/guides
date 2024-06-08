@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Issuance of Croatian Citizenship Certificate Guide"
 description: "Detailed steps for obtaining a Croatian citizenship certificate."
 draft: false
+translationKey: "croatia-issuance_of_citizenship_certificate"
 ---
 
 ## Description

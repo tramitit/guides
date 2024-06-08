@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "This is a guide on how to request a pre-1895 birth certificate, presumably from Hungary. Note that church records are often used for this time period as governmental registration was not yet universal."
 draft: false
+translationKey: "hungary-request_for_birth_certificates"
 ---
 
 ## Description

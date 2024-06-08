@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "How to Change Your Name in Austria"
 description: "This is a comprehensive guide about how to change your name in Austria, including the detailed procedure, required documents, service providers and relevant tips."
 draft: false
+translationKey: "austria-name_change_application"
 ---
 ## Description
 ### What is it?

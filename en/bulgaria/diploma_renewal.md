@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Diploma Renewal Procedure"
 description: "This guide provides a detailed, step-by-step explanation about the diploma renewal process."
 draft: false
+translationKey: "bulgaria-diploma_renewal"
 ---
 
 ## Description

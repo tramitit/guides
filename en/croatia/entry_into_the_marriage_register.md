@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Step by Step Guide for Entry into the Marriage Register in Croatia"
 description: "This guide outlines the process of officially registering a marriage in Croatia."
 draft: false
+translationKey: "croatia-entry_into_the_marriage_register"
 ---
 
 ## Description

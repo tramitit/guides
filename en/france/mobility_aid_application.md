@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Guide to Applying for Mobility Aids in France"
 description: "Comprehensive guide to apply for mobility aid in France"
 draft: false
+translationKey: "france-mobility_aid_application"
 ---
 
 ## Description

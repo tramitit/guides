@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "Guide on how to apply for maternity leave in Slovakia"
 draft: false
+translationKey: "slovakia-application_for_maternity_leave"
 ---
 
 ## Description

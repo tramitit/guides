@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Language Exam Certificate Request Guide"
 description: "A comprehensive guide on how to request a language exam certificate in Hungary based on multiple sources."
 draft: false
+translationKey: "hungary-language_exam_certificate_request"
 ---
 
 ## Description

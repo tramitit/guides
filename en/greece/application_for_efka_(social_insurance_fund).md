@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Applying for EFKA in Greece"
 description: "Step by step guide on applying for EFKA (Social Insurance Fund) in Greece"
 draft: false
+translationKey: "greece-application_for_efka_(social_insurance_fund)"
 ---
 
 ## Description

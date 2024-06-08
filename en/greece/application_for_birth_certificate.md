@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "Instructions on how to apply for a birth certificate in Greece for the purposes of documenting identity, citizenship, or genealogical history."
 draft: false
+translationKey: "greece-application_for_birth_certificate"
 ---
 
 ## Description

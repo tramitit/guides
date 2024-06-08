@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Procedure for Applying for Permanent Residence Certificate in Greece"
 description: "This post outlines the process of applying for a permanent residence certificate in Greece."
 draft: false
+translationKey: "greece-application_for_permanent_residence_certificate"
 ---
 
 ## Description

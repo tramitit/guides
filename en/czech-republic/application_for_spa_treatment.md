@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Spa Treatment in Czech Republic"
 description: "Detailed procedure guide for applying for spa treatments in Czech Republic."
 draft: false
+translationKey: "czech-republic-application_for_spa_treatment"
 ---
 
 ## Description

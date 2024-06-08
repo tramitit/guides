@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Marriage Certificate Application Guide in Hungary"
 description: "A comprehensive guide on how to apply for a Marriage Certificate in Hungary."
 draft: false
+translationKey: "hungary-marriage_certificate_application"
 ---
 
 ## Description

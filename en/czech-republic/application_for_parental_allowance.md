@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "Detailed guide on applying for parental allowance in the Czech Republic"
 draft: false
+translationKey: "czech-republic-application_for_parental_allowance"
 ---
 
 ## Description

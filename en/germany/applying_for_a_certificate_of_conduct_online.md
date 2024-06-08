@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Apply for a Certificate of Conduct Online in Germany"
 description: "A detailed guide on how to apply for a German Certificate of Conduct (Führungszeugnis) online."
 draft: false
+translationKey: "germany-applying_for_a_certificate_of_conduct_online"
 ---
 
 ## Description

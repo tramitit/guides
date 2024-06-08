@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Applying for a Residence Permit in Germany"
 description: "Detailed guide on the procedure, requirements and additional steps for applying for a residence permit in Germany."
 draft: false
+translationKey: "germany-applying_for_a_residence_permit"
 ---
 
 ## Description

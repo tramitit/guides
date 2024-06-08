@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Change of Residence Notification in Poland"
 description: "This is a simplified guide of everything you need to know about reporting a change of residence in Poland."
 draft: false
+translationKey: "poland-change_of_residence_notification"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "Comprehensive guide on how to issue a Slovak Identity Card"
 draft: false
+translationKey: "slovakia-issuance_of_identity_card"
 ---
 
 ## Description

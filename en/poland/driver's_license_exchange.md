@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Driver's License Exchange In Poland: Step-By-Step Guide"
 description: "Detailed guide to exchange your foreign driver's license in Poland"
 draft: false
+translationKey: "poland-driver's_license_exchange"
 ---
 
 ## Description

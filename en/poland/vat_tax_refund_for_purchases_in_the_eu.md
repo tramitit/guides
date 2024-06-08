@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Detailed Guidance on VAT Refund in EU"
 description: "An in-depth guide to understanding and obtaining VAT refunds for purchases made in the EU, particularly focusing on Poland."
 draft: false
+translationKey: "poland-vat_tax_refund_for_purchases_in_the_eu"
 ---
 
 ## Description

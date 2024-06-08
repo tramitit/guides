@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Guide to Registering Foreign Vehicles in Croatia"
 description: "A comprehensive guide on how to successfully register a foreign vehicle in Croatia."
 draft: false
+translationKey: "croatia-registration_of_foreign_vehicles"
 ---
 
 ## Description

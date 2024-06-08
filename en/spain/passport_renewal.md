@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "Guide to renewing your passport while in Spain"
 draft: false
+translationKey: "spain-passport_renewal"
 ---
 
 ## Description

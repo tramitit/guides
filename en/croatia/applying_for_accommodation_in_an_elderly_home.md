@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "This is a step-by-step guide on how to apply for accommodation in an elderly home"
 draft: false
+translationKey: "croatia-applying_for_accommodation_in_an_elderly_home"
 ---
 
 ## Description

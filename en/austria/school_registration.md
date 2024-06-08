@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "This is a guide on how to register in a School in Austria, specifically for international students. It also provides details on the cost of living in Austria, and the process of securing a residence permit."
 draft: false
+translationKey: "austria-school_registration"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "Request for Belgian Visa: A Comprehensive Guide"
 description: "This guide outlines the procedure for the application of a Belgian Visa"
 draft: false
+translationKey: "belgium-request_for_visa"
 ---
 
 ## Description

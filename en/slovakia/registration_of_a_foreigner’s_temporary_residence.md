@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "slovakia-registration_of_a_foreigner’s_temporary_residence"
 ---
 
 ## Description

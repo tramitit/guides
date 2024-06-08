@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "How to Apply for a Criminal Record Certificate"
 description: "This guide provides detailed steps on how to apply for a Criminal Record Certificate."
 draft: false
+translationKey: "austria-criminal_record_certificate_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "How to Request an Italian Tax Code"
 description: "Step by step guide to request an Italian tax code, also known as Codice Fiscale"
 draft: false
+translationKey: "italy-tax_code_request"
 ---
 
 ## Description

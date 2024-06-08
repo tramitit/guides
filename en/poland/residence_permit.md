@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Guide to Obtaining a Residence Permit in Poland"
 description: "An overview on what a Polish residence permit is, who needs it, the procedure of getting one, and essential documents required."
 draft: false
+translationKey: "poland-residence_permit"
 ---
 
 ## Description

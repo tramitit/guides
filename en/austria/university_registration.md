@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Step-by-step Procedure to Register for University in Austria"
 description: "Detailed guide on the procedure for admission into Austrian Universities for EU and Non-EU students."
 draft: false
+translationKey: "austria-university_registration"
 ---
 
 ## Description

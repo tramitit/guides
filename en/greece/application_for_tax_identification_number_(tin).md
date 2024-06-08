@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "Step-by-step guide on how to apply for a Tax Identification Number (TIN) in Greece."
 draft: false
+translationKey: "greece-application_for_tax_identification_number_(tin)"
 ---
 
 ## Description

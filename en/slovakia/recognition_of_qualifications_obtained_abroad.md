@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Guide to Recognition of Qualifications obtained Abroad"
 description: "A step-by-step guide to get your international qualifications recognized abroad."
 draft: false
+translationKey: "slovakia-recognition_of_qualifications_obtained_abroad"
 ---
 
 ## Description

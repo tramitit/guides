@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Guide to Requesting a Tax Identification Number (NIF) in Portugal"
 description: "A step-by-step guide on how to request for a NIF, who needs it, the required documents, and additional details to help simplify the process for you."
 draft: false
+translationKey: "portugal-request_for_tax_identification_number_(nif)"
 ---
 
 ## Description

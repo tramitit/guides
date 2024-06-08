@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "A step-by-step guide on how to apply for child benefit in Germany."
 draft: false
+translationKey: "germany-applying_for_child_benefit"
 ---
 
 ## Description

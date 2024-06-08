@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "This is a comprehensive guide to help individuals understand and navigate the process of acquiring a certificate of registration of residence in Poland."
 draft: false
+translationKey: "poland-certificate_of_registration_of_residence"
 ---
 
 ## Description

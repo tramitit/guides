@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Guide to Requesting IRPEF Refund in Italy"
 description: "A comprehensive guide detailing step by step how to request an IRPEF refund in Italy."
 draft: false
+translationKey: "italy-irpef_refund_request"
 ---
 
 ## Description

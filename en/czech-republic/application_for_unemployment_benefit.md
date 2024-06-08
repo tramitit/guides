@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Applying for unemployment benefits in the Czech Republic"
 description: "A step by step guide on how to apply for unemployment benefits in the Czech Republic"
 draft: false
+translationKey: "czech-republic-application_for_unemployment_benefit"
 ---
 
 ## Description

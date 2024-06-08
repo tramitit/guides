@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "This guide will help you understand how to change your address."
 draft: false
+translationKey: "france-change_of_address"
 ---
 
 ## Description

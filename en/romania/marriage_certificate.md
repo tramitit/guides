@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "Step-by-step guide on obtaining a Marriage Certificate in Romania"
 draft: false
+translationKey: "romania-marriage_certificate"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "This guide provides a detailed procedure on vehicle re-registration in Austria."
 draft: false
+translationKey: "austria-vehicle_re-registration"
 ---
 
 ## Description

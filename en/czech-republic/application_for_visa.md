@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "This is a step-by-step guide on how to apply for a Czech Republic Visa."
 draft: false
+translationKey: "czech-republic-application_for_visa"
 ---
 
 ## Description

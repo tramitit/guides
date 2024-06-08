@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "Step by step guide on how to apply for social housing in France"
 draft: false
+translationKey: "france-application_for_social_housing"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "A comprehensive guide detailing the steps to apply for registration in the Greek Tax Office"
 draft: false
+translationKey: "greece-application_for_registration_in_the_tax_office"
 ---
 
 ## Description

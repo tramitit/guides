@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Guide for Exams Registration"
 description: "This is a comprehensive guide on exam registration"
 draft: false
+translationKey: "austria-exam_registration"
 ---
 
 ## Description

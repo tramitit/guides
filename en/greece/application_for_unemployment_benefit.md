@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Application for Unemployment Benefit in Greece: A Guide"
 description: "A comprehensive guide on how to apply for Unemployment Benefit in Greece"
 draft: false
+translationKey: "greece-application_for_unemployment_benefit"
 ---
 
 ## Description

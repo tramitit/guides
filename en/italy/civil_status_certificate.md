@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This guide details the necessary steps to obtain a Civil Status Certificate in Italy, along with essential information such as required documents, providers, and additional details."
 draft: false
+translationKey: "italy-civil_status_certificate"
 ---
 
 ## Description

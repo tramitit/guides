@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "Step by step guide on applying for residence permit with work permit in Slovakia"
 draft: false
+translationKey: "slovakia-application_for_residence_with_work_permit"
 ---
 
 ## Description

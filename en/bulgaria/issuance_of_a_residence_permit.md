@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Step-by-Step Guide to the Issuance of a Residence Permit"
 description: "Detailed guide for obtaining a residence permit in Bulgaria"
 draft: false
+translationKey: "bulgaria-issuance_of_a_residence_permit"
 ---
 
 ## Description

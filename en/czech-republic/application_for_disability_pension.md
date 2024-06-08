@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "This guide outlines how to apply for a disability pension, featuring the benefits, process, required documents, and service providers."
 draft: false
+translationKey: "czech-republic-application_for_disability_pension"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Guide to University Enrollment Management"
 description: "A comprehensive guide on how to handle university enrollment process."
 draft: false
+translationKey: "hungary-university_enrollment_management"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "Detailed information on obtaining operating permits for companies in Romania"
 draft: false
+translationKey: "romania-operating_permit_for_companies"
 ---
 
 ## Description

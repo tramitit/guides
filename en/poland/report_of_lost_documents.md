@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "This is a guide on how to report and replace lost documents in Poland such as karta pobytu, ID card, or passport."
 draft: false
+translationKey: "poland-report_of_lost_documents"
 ---
 
 ## Description

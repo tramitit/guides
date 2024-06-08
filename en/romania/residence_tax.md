@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "Residence Tax Guide"
 description: "A simplified guide on handling residence tax for both local and foreign residents in Romania."
 draft: false
+translationKey: "romania-residence_tax"
 ---
 
 ## Description

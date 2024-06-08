@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "German Visa Application Guide"
 description: "A comprehensive guide on how to apply for a German visa"
 draft: false
+translationKey: "germany-visa_application"
 ---
 
 ## Description

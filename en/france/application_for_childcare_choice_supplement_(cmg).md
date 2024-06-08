@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Apply for Childcare Choice Supplement (CMG) in France"
 description: "A step by step guide on how to apply for the Childcare Choice Supplement (CMG) in France."
 draft: false
+translationKey: "france-application_for_childcare_choice_supplement_(cmg)"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Guide to School Enrollment in Italy"
 description: "An informative guide on the process of enrolling in Italian schools and universities."
 draft: false
+translationKey: "italy-school_enrollment"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Exchanging Your Driver's License in the Czech Republic"
 description: "A comprehensive guide on how to exchange your foreign driver's license in the Czech Republic."
 draft: false
+translationKey: "czech-republic-driving_licence_exchange"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "Guide on how to apply for a Health insurance card in France, Ireland, and Poland"
 draft: false
+translationKey: "france-health_insurance_card_application"
 ---
 
 ## Description

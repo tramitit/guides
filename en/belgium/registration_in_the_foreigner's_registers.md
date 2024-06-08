@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "Registration in the Foreigner's Registers - A Concise Guide"
 description: "This article is a concise guide on how to register in the foreigner's registers for different countries."
 draft: false
+translationKey: "belgium-registration_in_the_foreigner's_registers"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Step by Step Guide to Issuing a Passport in Bulgaria"
 description: "This blog post details the process of obtaining a Bulgarian passport."
 draft: false
+translationKey: "bulgaria-issuance_of_a_passport"
 ---
 
 ## Description

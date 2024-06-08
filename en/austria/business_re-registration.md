@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "This is a detailed guide on how to re-register a business in Austria, ideal for individuals who initially registered their businesses as freelancers and now wish to change or develop their business model."
 draft: false
+translationKey: "austria-business_re-registration"
 ---
 
 ## Description

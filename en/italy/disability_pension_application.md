@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "Detailed guide on applying for a Disability Pension in Italy"
 draft: false
+translationKey: "italy-disability_pension_application"
 ---
 
 ## Description

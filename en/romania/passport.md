@@ -7,6 +7,7 @@ categories: ["Romania"]
 meta_title: "Romanian Passport Procedure"
 description: "Detailed process for securing a Romanian passport"
 draft: false
+translationKey: "romania-passport"
 ---
 
 ## Description

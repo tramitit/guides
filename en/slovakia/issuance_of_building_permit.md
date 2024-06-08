@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "Step-by-step guide on how to obtain a building permit in Slovakia"
 draft: false
+translationKey: "slovakia-issuance_of_building_permit"
 ---
 
 ## Description

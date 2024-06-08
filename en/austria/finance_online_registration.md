@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Online Financial Services Registration Guide for Austria"
 description: "A comprehensive guide to registering for online financial services in Austria."
 draft: false
+translationKey: "austria-finance_online_registration"
 ---
 
 ## Description

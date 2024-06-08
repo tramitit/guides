@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Hungarian Citizenship Applications"
 description: "A step-by-step guide to applying for Hungarian citizenship."
 draft: false
+translationKey: "hungary-citizenship_applications"
 ---
 
 ## Description

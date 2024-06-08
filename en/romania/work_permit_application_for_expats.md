@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "Detailed Procedure for Work Permit Application in Romania for Expatriates"
 draft: false
+translationKey: "romania-work_permit_application_for_expats"
 ---
 
 ## Description

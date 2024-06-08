@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "This is a succinct guide about applying for child care allowance"
 draft: false
+translationKey: "austria-child_care_allowance_application"
 ---
 
 ## Description

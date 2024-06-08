@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Guide to Building Permit Application in Germany"
 description: "Step-by-step guide on how to apply for a building permit in Germany, what documents are required, and additional help."
 draft: false
+translationKey: "germany-applying_for_a_building_permit"
 ---
 
 ## Description

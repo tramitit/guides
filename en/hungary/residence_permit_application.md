@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "" 
 description: "This guide provides a step-by-step procedure to apply for a residence permit in Hungary." 
 draft: false 
+translationKey: "hungary-residence_permit_application"
 ---
 
 ## Description

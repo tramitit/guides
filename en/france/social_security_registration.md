@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Registration guide for the French Social Security"
 description: "A comprehensive guide on how to register for the French Social Security system"
 draft: false
+translationKey: "france-social_security_registration"
 ---
 
 ## Description

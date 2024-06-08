@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Guide to Complementary Health Insurance in France"
 description: "Step by step guide to applying for a complementary health insurance in France"
 draft: false
+translationKey: "france-complementary_health_insurance_application"
 ---
 
 ## Description

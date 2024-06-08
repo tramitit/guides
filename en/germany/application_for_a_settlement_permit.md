@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Step-by-step Guide to Applying for Settlement Permit in Germany"
 description: "This is a comprehensive guide for procedures, documents, and timelines when applying for a settlement permit in Germany."
 draft: false
+translationKey: "germany-application_for_a_settlement_permit"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "portugal-renewal_of_student_card_for_foreigners"
 ---
 
 ## Description

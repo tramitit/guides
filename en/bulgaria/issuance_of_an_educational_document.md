@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Guidelines for Issuing Educational Documents in Bulgaria: A Step-By-Step Process"
 description: "A comprehensive guide on how to issue educational documents in Bulgaria."
 draft: false
+translationKey: "bulgaria-issuance_of_an_educational_document"
 ---
 
 ## Description

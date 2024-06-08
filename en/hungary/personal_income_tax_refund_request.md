@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Guide on Personal Income Tax Refund Request"
 description: "Complete guide on how to request a personal income tax refund."
 draft: false
+translationKey: "hungary-personal_income_tax_refund_request"
 ---
 
 ## Description

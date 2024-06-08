@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "This is a guide on how to announce a new hire to your team effectively and professionally"
 draft: false
+translationKey: "greece-notification_of_employee_hiring"
 ---
 
 ## Description

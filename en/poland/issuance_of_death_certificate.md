@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "A guide on how to obtain a death certificate in Poland"
 draft: false
+translationKey: "poland-issuance_of_death_certificate"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "A comprehensive guide on how to go about the Registration of Marriage in Portugal involving a Foreign Citizen."
 draft: false
+translationKey: "portugal-registration_of_marriage_of_foreign_citizen_in_portugal"
 ---
 
 ## Description

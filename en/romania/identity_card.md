@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "Detailed Guide on Romania's Identity Card"
 description: "In this guide, we share the steps on how to obtain, renew, and change details on a Romanian identity card"
 draft: false
+translationKey: "romania-identity_card"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "A step-by-step guide on how to register a business in Bulgaria"
 draft: false
+translationKey: "bulgaria-business_registration"
 ---
 
 ## Description

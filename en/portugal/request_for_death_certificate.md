@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Request for Death Certificate in Portugal: A Step-By-Step Guide"
 description: "A detailed instruction to request and obtain a death certificate in Portugal."
 draft: false
+translationKey: "portugal-request_for_death_certificate"
 ---
 
 ## Description

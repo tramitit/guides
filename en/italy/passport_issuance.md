@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Italian Passport Issuance - Step-by-Step Guide "
 description: "A comprehensive guide on how to apply for an Italian passport"
 draft: false
+translationKey: "italy-passport_issuance"
 ---
 
 ## Description

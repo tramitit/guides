@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Guide on Applying for a Residence Permit in Greece"
 description: "In this guide, you will learn the necessary steps you need to take in order to apply for a residence permit in Greece."
 draft: false
+translationKey: "greece-application_for_residence_permit"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This is a step-by-step guide to request for naturalization in Belgium, sourced from reliable first-hand accounts."
 draft: false
+translationKey: "belgium-request_for_naturalization"
 ---
 
 ## Description

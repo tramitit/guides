@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "University Enrollment Documentation"
 description: "Detailed guidance on required documentation for enrolling in universities abroad"
 draft: false
+translationKey: "croatia-documentation_for_university_enrollment"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "This is a guide on how to apply for a marriage certificate in Greece."
 draft: false
+translationKey: "greece-application_for_marriage_certificate"
 ---
 
 ## Description

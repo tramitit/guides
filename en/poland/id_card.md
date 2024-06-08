@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "Detailed guide on how to obtain an ID card in Poland"
 draft: false
+translationKey: "poland-id_card"
 ---
 
 ## Description

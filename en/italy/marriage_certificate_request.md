@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This guide provides a step-by-step process on how to request a Marriage Certificate in Italy."
 draft: false
+translationKey: "italy-marriage_certificate_request"
 ---
 
 ## Description

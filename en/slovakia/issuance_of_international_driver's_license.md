@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Step by Step Guide for Issuing an International Driver's License for Driving in Slovakia"
 description: "Detailed process for obtaining an International Driving Permit (IDP), primarily for driving in Slovakia and other European countries."
 draft: false
+translationKey: "slovakia-issuance_of_international_driver's_license"
 ---
 
 ## Description

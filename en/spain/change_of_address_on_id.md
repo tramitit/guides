@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "A step-by-step guide to change the address on your ID in Spain."
 draft: false
+translationKey: "spain-change_of_address_on_id"
 ---
 
 ## Description

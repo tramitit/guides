@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This guide provides a step-by-step procedure on how to request for a work permit in Belgium."
 draft: false
+translationKey: "belgium-request_for_work_permit"
 ---
 
 ## Description

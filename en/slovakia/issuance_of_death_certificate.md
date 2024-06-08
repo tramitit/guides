@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "slovakia-issuance_of_death_certificate"
 ---
 
 ## Description

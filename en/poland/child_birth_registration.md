@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "A step-by-step guideline on how to register a child's birth in Poland."
 draft: false
+translationKey: "poland-child_birth_registration"
 ---
 
 ## Description

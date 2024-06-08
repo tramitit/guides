@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Detailed Guide on Renewal of Resident Card for Foreign Citizens"
 description: "This guide offers a step by step process on renewing resident cards for foreign citizens living in Portugal."
 draft: false
+translationKey: "portugal-renewal_of_resident_card_for_foreign_citizens"
 ---
 
 ## Description

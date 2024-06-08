@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "In-depth guide one how to change business registration in Germany."
 draft: false
+translationKey: "germany-change_of_business_registration"
 ---
 
 ## Description

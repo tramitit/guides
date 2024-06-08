@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This guide provides a detailed step-by-step procedure on how to request a building permit in Italy"
 draft: false
+translationKey: "italy-building_permit_request"
 ---
 
 ## Description

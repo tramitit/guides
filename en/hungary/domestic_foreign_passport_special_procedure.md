@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "hungary-domestic_foreign_passport_special_procedure"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Procedure for Issuing a Duplicate Birth Certificate in Poland"
 description: "Step-by-step guide on how to obtain a duplicate birth certificate in Poland"
 draft: false
+translationKey: "poland-issuance_of_duplicate_birth_certificate"
 ---
 
 ## Description

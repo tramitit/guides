@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "This is a guide on how to apply for an International Certificate of Good Conduct."
 draft: false
+translationKey: "germany-application_for_an_international_certificate_of_conduct"
 ---
 
 ## Description

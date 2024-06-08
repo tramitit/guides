@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Greek Citizenship Application Guide"
 description: "A comprehensive guide on how to apply for Greek citizenship."
 draft: false
+translationKey: "greece-application_for_greek_citizenship"
 ---
 
 ## **Description**

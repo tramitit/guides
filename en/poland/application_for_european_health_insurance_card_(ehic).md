@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "How to apply for European Health Insurance Card (EHIC)"
 description: "Detailed guide on how to apply for EHIC which gives the cardholder access to state-provided healthcare during a temporary stay in another EU country."
 draft: false
+translationKey: "poland-application_for_european_health_insurance_card_(ehic)"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Guide on acquiring work permits for foreigners in Poland"
 description: "This comprehensive guide takes you through the steps to get a working permit in Poland as a foreigner"
 draft: false
+translationKey: "poland-work_permit_for_foreigners"
 ---
 
 ## Description

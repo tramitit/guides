@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "A detailed guide on how to prove your Austrian citizenship."
 draft: false
+translationKey: "austria-proof_of_citizenship"
 ---
 
 ## Description

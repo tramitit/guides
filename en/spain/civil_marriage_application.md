@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Civil Marriage Application in Spain: A Step-by-Step Guide"
 description: "A comprehensive guide on how to apply for a civil marriage in Spain, understanding the procedures, required documents, and potential providers."
 draft: false
+translationKey: "spain-civil_marriage_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Understanding the Broadcasting Fee Registration in Germany"
 description: "A step by step guide to help you understand and navigate the registration process for the broadcasting fee in Germany."
 draft: false
+translationKey: "germany-registering_for_the_broadcasting_fee"
 ---
 
 ## Description

@@ -7,6 +7,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "Detailed guidance on how to deregister from health insurance when relocating to another country or region."
 draft: false
+translationKey: "slovakia-deregistering_from_health_insurance"
 ---
 
 ## Description

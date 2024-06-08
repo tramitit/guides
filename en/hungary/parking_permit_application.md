@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Parking permit application in Budapest, Hungary"
 description: "A comprehensive guide on how to apply for a parking permit in Budapest, Hungary."
 draft: false
+translationKey: "hungary-parking_permit_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Vehicle Registration in Germany: A Guide"
 description: "A practical guide on how to register your vehicle in Germany"
 draft: false
+translationKey: "germany-vehicle_registration"
 ---
 
 ## Description

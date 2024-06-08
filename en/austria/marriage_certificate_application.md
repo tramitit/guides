@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Marriage Certificate Application in Austria"
 description: "A step-by-step guide to the marriage certificate application process in Austria for both EU and non-EU citizens."
 draft: false
+translationKey: "austria-marriage_certificate_application"
 ---
 
 ## Description

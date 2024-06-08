@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Guide to Residence Permit Application in Austria"
 description: "A step-by-step guide on applying for a residence permit in Austria, based on first-hand experiences and advice."
 draft: false
+translationKey: "austria-residence_permit_application"
 ---
 
 ## Description

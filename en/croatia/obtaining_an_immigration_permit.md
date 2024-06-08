@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Guide to Obtaining an Immigration Permit in Croatia"
 description: "Step-by-step guide on how to go about the process of obtaining an immigration permit in Croatia"
 draft: false
+translationKey: "croatia-obtaining_an_immigration_permit"
 ---
 
 ## Description

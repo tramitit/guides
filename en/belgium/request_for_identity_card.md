@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "How to Request for an Identity Card in Belgium"
 description: "Step by step procedure on how to request for a Belgian identity card."
 draft: false
+translationKey: "belgium-request_for_identity_card"
 ---
 
 ## Description

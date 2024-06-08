@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "Comprehensive guide on applying for housing assistance in France"
 draft: false
+translationKey: "france-housing_assistance_application"
 ---
 
 ## Description

@@ -7,6 +7,7 @@ categories: ["Hungary"]
 meta_title: "Detailed Guide on Student Loan Application"
 description: "Comprehensive step-by-step guide to help students apply for loans"
 draft: false
+translationKey: "hungary-student_loan_application"
 ---
 
 ## Description

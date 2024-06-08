@@ -7,6 +7,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "This detailed guide walks you through the process of obtaining a student visa, including eligibility criteria, procedure, required documents, and more."
 draft: false
+translationKey: "romania-obtaining_study_visa"
 ---
 
 ## Description

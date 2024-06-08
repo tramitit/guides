@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Complete guide on renewing your driver's license"
 draft: false
+translationKey: "austria-driver's_license_renewal"
 ---
 
 ## Description

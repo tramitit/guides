@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "This is a comprehensive guide on how to apply for a driver's license in Slovakia. Covering from general requirements to application procedure details, this guide aims to provide all the necessary information for both locals and foreigners looking to drive legally in Slovakia."
 draft: false
+translationKey: "slovakia-issuance_of_driver's_license"
 ---
 
 ## Description

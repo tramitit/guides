@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "germany-applying_for_a_death_certificate"
 ---
 
 ## Description

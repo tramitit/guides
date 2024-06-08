@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "Steps to declare a death in France"
 draft: false
+translationKey: "france-death_declaration"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Minimum Security Application in Austria: A Step-by-step Guide"
 description: "Detailed information on navigating the minimum security application process in Austria."
 draft: false
+translationKey: "austria-minimum_security_application"
 ---
 
 ## Description

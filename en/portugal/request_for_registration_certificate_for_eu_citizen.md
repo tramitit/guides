@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "Detailed guide on how to request a Registration Certificate for EU citizens in Portugal"
 draft: false
+translationKey: "portugal-request_for_registration_certificate_for_eu_citizen"
 ---
 
 ## Description

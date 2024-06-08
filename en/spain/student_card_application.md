@@ -7,6 +7,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "A comprehensive guide to walk you through the application process for a student card in Spain."
 draft: false
+translationKey: "spain-student_card_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This guide explains how to subscribe to mobile internet service, especially in Portugal and while traveling."
 draft: false
+translationKey: "portugal-request_for_mobile_internet_service_subscription"
 ---
 
 ## Description

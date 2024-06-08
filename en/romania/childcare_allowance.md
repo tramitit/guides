@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "A comprehensive guide to accessing childcare allowance in Romania"
 draft: false
+translationKey: "romania-childcare_allowance"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Guide to Changing Your Surname in Slovakia"
 description: "This comprehensive guide provides a step by step procedure on how to change your surname in Slovakia. It includes a list of required documents, the legal procedure, as well as potential providers that can help with the process."
 draft: false
+translationKey: "slovakia-change_of_surname"
 ---
 
 ## Description

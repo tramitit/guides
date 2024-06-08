@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "This simple guide walks you through application process of an ID card in Hungary"
 draft: false
+translationKey: "hungary-id_card_application"
 ---
 
 ## Description

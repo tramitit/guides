@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "Detailed Guide to Request Child Benefits in Belgium"
 description: "Guide that gives a step-by-step procedure on the process of requesting child benefits in Belgium."
 draft: false
+translationKey: "belgium-request_for_child_benefits"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "belgium-request_for_student_discount_public_transport"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Spain Unemployment Benefit Application Guide"
 description: "An easy guide to applying for unemployment benefits in Spain."
 draft: false
+translationKey: "spain-unemployment_benefit_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Guide to Child Benefit Application in Spain"
 description: "A step-by-step guide on applying for Child Benefit in Spain"
 draft: false
+translationKey: "spain-child_benefit_application"
 ---
 
 ## Description

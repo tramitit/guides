@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Guide to Change of Car Ownership in Portugal"
 description: "Detailed step-by-step procedure on Change of Car Ownership in Portugal"
 draft: false
+translationKey: "portugal-change_of_car_ownership"
 ---
 
 ## Description

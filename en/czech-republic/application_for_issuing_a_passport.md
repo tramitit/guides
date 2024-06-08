@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Passport Application Process for Czech Republic"
 description: "A step-by-step guide on applying for a Czech Republic passport."
 draft: false
+translationKey: "czech-republic-application_for_issuing_a_passport"
 ---
 
 ## Description

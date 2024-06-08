@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "france-daily_allowance_application"
 ---
 
 ## Description

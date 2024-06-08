@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Guide to Tax Payments in The Czech Republic"
 description: "A step-by-step guide on the tax payment procedure in The Czech Republic."
 draft: false
+translationKey: "czech-republic-tax_payment"
 ---
 
 ## Description

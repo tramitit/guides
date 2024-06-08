@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "Your comprehensive guide to registering your residence as a foreigner in the Czech Republic"
 draft: false
+translationKey: "czech-republic-residence_registration_for_foreigners"
 ---
 
 ## Description

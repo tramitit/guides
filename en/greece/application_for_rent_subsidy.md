@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Guide to Applying for Rent Subsidy in Greece"
 description: "This guide explains how to apply for a rent subsidy in Greece, including the necessary documents and steps."
 draft: false
+translationKey: "greece-application_for_rent_subsidy"
 ---
 
 ## Description

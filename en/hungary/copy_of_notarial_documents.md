@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Guide to Obtaining Copies of Notarial Documents in Hungary"
 description: "A step-by-step guide on how to obtain certified copies of notarial documents in Hungary."
 draft: false
+translationKey: "hungary-copy_of_notarial_documents"
 ---
 
 ## Description

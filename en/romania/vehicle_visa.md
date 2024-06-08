@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "This is a guide on how to apply for a Vehicle Visa (officially known as a vehicle registration) in Romania."
 draft: false
+translationKey: "romania-vehicle_visa"
 ---
 
 ## Description

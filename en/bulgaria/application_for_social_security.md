@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Apply for Social Security in Bulgaria"
 description: "Comprehensive guide to apply for Social Security in Bulgaria"
 draft: false
+translationKey: "bulgaria-application_for_social_security"
 ---
 
 ## Description

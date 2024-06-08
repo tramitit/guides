@@ -5,6 +5,7 @@ date: "2024-06-07"
 categories: ["Czech Republic"]
 description: "This is a guide on how to report a death to the registry office in the Czech Republic - from document preparation to the procedure process."
 draft: false
+translationKey: "czech-republic-registry_office_-_death"
 ---
 
 ## Description

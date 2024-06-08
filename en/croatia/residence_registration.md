@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "This is a comprehensive guide for the residence registration procedure in Croatia."
 draft: false
+translationKey: "croatia-residence_registration"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "This step-by-step guide provides information on how to declare income tax in Austria."
 draft: false
+translationKey: "austria-income_tax_declaration"
 ---
 
 ## Description

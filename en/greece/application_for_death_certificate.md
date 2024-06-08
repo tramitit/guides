@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "Process of obtaining death certificate in Greece"
 draft: false
+translationKey: "greece-application_for_death_certificate"
 ---
 
 ## Description

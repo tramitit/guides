@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This step by step guide provides information on how to request for IMI exemption in Portugal."
 draft: false
+translationKey: "portugal-request_for_imi_exemption"
 ---
 
 ## Description

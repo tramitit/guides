@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "This is a guide on obtaining a marriage certificate in Poland"
 draft: false
+translationKey: "poland-marriage_certificate"
 ---
 
 ## Description

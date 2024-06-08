@@ -7,6 +7,7 @@ categories: ["Poland"]
 meta_title: "Detailed Steps to Obtain a Gun Permit in Poland"
 description: "An organized procedure for acquiring a gun permit in Poland encompassing all important steps, required documents and potential providers."
 draft: false
+translationKey: "poland-gun_permit"
 ---
 
 ## Description

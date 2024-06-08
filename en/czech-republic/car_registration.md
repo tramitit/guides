@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Car registration guide for newcomers"
 description: "Step-by-step guide on how to register your car in the Czech Republic"
 draft: false
+translationKey: "czech-republic-car_registration"
 ---
 
 ## Description

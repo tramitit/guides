@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "A step-by-step guide on how to change the address on your driving license."
 draft: false
+translationKey: "portugal-change_of_address_on_driving_license"
 ---
 
 ## Description

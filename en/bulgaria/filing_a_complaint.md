@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Step by Step procedure of Filing a Complaint in Bulgaria"
 description: "Useful guide to assist anyone seeking how to register a complaint in Bulgaria"
 draft: false
+translationKey: "bulgaria-filing_a_complaint"
 ---
 
 ## Description

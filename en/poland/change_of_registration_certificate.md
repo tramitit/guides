@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "A thorough guide on how to change your registration certificate in Poland, covering steps, required documents, and more."
 draft: false
+translationKey: "poland-change_of_registration_certificate"
 ---
 
 ## Description

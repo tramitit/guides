@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "bulgaria-payment_declaration_for_local_taxes_and_fees"
 ---
 
 ## Description

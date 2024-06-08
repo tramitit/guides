@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Guide to Obtaining Slovakian Citizenship"
 description: "Step by step guide on how to apply for Slovakian citizenship including aspects such as procedure, required documents, potential providers and more."
 draft: false
+translationKey: "slovakia-application_for_citizenship"
 ---
 
 ## Description

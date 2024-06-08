@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Marriage registration in Bulgaria"
 description: "Detailed step-by-step guide on how to register a marriage in Bulgaria"
 draft: false
+translationKey: "bulgaria-marriage_registration"
 ---
 
 ## Description

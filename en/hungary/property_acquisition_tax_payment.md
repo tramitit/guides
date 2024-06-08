@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Comprehensive Guide on Property Acquisition Tax Payment in Hungary"
 description: "An easy-to-follow guide on understanding and paying property acquisition taxes in Hungary"
 draft: false
+translationKey: "hungary-property_acquisition_tax_payment"
 ---
 
 ## Description

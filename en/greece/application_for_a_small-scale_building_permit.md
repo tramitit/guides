@@ -7,6 +7,7 @@ categories: ["Greece"]
 meta_title: "Complete Guide to Applying for a Small-Scale Building Permit"
 description: "This guide provides a comprehensive step by step process to obtaining a small-scale building permit."
 draft: false
+translationKey: "greece-application_for_a_small-scale_building_permit"
 ---
 
 ## Description

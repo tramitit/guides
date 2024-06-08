@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "This is a comprehensive guide to immigrating to Spain with a focus on the digital nomad visa."
 draft: false
+translationKey: "spain-immigration_application"
 ---
 
 ## Description

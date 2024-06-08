@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Renewing your Spanish ID Card: A Comprehensive Guide"
 description: "This guide provides a comprehensive step-by-step process of renewing your Spanish ID Card"
 draft: false
+translationKey: "spain-id_card_renewal"
 ---
 
 ## Description

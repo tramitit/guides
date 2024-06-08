@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Guide to Apply for Residence Permit in Italy"
 description: "Step-by-step guide on how to apply for a residence permit in Italy including procedure, required documents, and service providers."
 draft: false
+translationKey: "italy-residence_permit_application"
 ---
 
 ## Description

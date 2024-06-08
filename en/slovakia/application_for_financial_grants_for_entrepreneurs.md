@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Application for Financial Grants for Entrepreneurs - Step-by-Step Guide"
 description: "A comprehensive guide on how to apply for financial grants for entrepreneurs."
 draft: false
+translationKey: "slovakia-application_for_financial_grants_for_entrepreneurs"
 ---
 
 ## Description

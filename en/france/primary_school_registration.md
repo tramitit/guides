@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Guide to Registering a Child for Primary School in France"
 description: "This guide outlines the steps to register a child for primary school in France, including necessary documents and useful tips."
 draft: false
+translationKey: "france-primary_school_registration"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Guide to Applying for Temporary License Plates in Germany"
 description: "A comprehensive guide to applying for temporary license plates in Germany"
 draft: false
+translationKey: "germany-applying_for_temporary_license_plates"
 ---
 
 ## Description

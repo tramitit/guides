@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Registration of name change after divorce in Bulgaria"
 description: "Guide on how to register a name change after divorce in Bulgaria"
 draft: false
+translationKey: "bulgaria-registration_of_name_change_after_divorce"
 ---
 
 ## Description

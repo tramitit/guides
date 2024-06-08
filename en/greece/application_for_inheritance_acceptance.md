@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "Guide to accepting inheritance, specifically focusing on property in Greece"
 draft: false
+translationKey: "greece-application_for_inheritance_acceptance"
 ---
 
 ## Description

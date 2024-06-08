@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Birth Registration Process in Croatia"
 description: "Guide on how to register a birth in Croatia"
 draft: false
+translationKey: "croatia-entry_into_the_birth_register"
 ---
 
 ## Description

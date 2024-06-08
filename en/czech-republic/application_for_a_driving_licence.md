@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "czech-republic-application_for_a_driving_licence"
 ---
 
 ## Description

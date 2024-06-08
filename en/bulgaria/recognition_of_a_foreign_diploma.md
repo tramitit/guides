@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Recognition of Foreign Diplomas in Bulgaria"
 description: "Step by step guide for the recognition of foreign academic credentials in Bulgaria."
 draft: false
+translationKey: "bulgaria-recognition_of_a_foreign_diploma"
 ---
 
 ## Description

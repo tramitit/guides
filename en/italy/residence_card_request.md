@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "A comprehensive guide on how to request a residence card (Carta di Soggiorno/Permesso di Soggiorno) in Italy."
 draft: false
+translationKey: "italy-residence_card_request"
 ---
 
 ## Description

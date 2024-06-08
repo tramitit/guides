@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Registering for e-Government Services - A Comprehensive Guide"
 description: "A step by step guide to help individuals and businesses register for e-government services."
 draft: false
+translationKey: "greece-registration_for_e-government_services"
 ---
 
 ## Description

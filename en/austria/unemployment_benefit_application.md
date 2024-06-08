@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Step by step on how to apply for unemployment benefits in Austria."
 draft: false
+translationKey: "austria-unemployment_benefit_application"
 ---
 
 ## Description

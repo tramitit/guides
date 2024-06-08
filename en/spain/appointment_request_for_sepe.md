@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Guide for SEPE Appointment Booking"
 description: "Detailed guide on how to ask for an appointment with SEPE in Spain"
 draft: false
+translationKey: "spain-appointment_request_for_sepe"
 ---
 
 ## Description

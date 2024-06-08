@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Residence Registration in Germany"
 description: "A step-by-step guide to registering your residence in Germany as required by law"
 draft: false
+translationKey: "germany-registration_of_residence"
 ---
 
 ## Description

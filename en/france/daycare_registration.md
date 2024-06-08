@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "A guide on how to register your child for daycare"
 draft: false
+translationKey: "france-daycare_registration"
 ---
 
 ## Description

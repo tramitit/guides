@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This is a detailed guide on how to request a vehicle registration certificate in Portugal"
 draft: false
+translationKey: "portugal-request_for_registration_certificate"
 ---
 
 ## Description

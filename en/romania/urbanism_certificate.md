@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "A comprehensive guide outlining how to obtain an urbanism certificate."
 draft: false
+translationKey: "romania-urbanism_certificate"
 ---
 
 ## Description

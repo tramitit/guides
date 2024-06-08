@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "A guide to getting registered in the population registers in Belgium"
 draft: false
+translationKey: "belgium-registration_in_the_population_registers"
 ---
 
 ## Description

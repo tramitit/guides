@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "Guide detailing the steps and requirements for obtaining a Certificate of Authenticity in Romania."
 draft: false
+translationKey: "romania-certificate_of_authenticity"
 ---
 
 ## Description

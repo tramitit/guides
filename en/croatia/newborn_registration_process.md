@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Step-by-step Guide: Newborn Registration in Croatia"
 description: "Detailed guide on how to register a newborn in Croatia. Contains procedure, required documents, and possible service providers."
 draft: false
+translationKey: "croatia-newborn_registration_process"
 ---
 
 ## Description

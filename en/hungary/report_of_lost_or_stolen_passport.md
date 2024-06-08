@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "This guide provides detailed instructions on how to report and replace a lost or stolen passport."
 draft: false
+translationKey: "hungary-report_of_lost_or_stolen_passport"
 ---
 
 ## Description

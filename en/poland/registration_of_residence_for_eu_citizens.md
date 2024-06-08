@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "EU residence registration in Poland"
 description: "Step-by-step process for residence registration in Poland for EU citizens"
 draft: false
+translationKey: "poland-registration_of_residence_for_eu_citizens"
 ---
 
 ## Description

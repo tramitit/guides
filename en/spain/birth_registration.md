@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Birth Registration in Spain: A Comprehensive Guide"
 description: "A step-by-step guide on how to register a birth in Spain, including the required documents and relevant institutions."
 draft: false
+translationKey: "spain-birth_registration"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "This is a step by step guide on how to apply for a criminal record extract in Slovakia."
 draft: false
+translationKey: "slovakia-application_for_a_criminal_record_extract"
 ---
 
 ## Description

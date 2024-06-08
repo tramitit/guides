@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This article guides you through the process of obtaining a passport in Belgium."
 draft: false
+translationKey: "belgium-request_for_passport"
 ---
 
 ## Description

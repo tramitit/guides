@@ -7,6 +7,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "bulgaria-educational_institution_registration"
 ---
 
 ## Description

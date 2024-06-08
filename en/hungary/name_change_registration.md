@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Guide to Name Change Registration in Hungary"
 description: "A comprehensive guide to registering a name change in Hungary, including the necessary procedures, required documents, and service providers."
 draft: false
+translationKey: "hungary-name_change_registration"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Request for Medical Appointment at SNS in Portugal"
 description: "Comprehensive guide to request for a medical appointment at SNS in Portugal"
 draft: false
+translationKey: "portugal-request_for_medical_appointment_at_sns"
 ---
 
 ## Description

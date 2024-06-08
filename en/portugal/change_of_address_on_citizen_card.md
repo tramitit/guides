@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Change of Address on Citizen Card in Portugal: A Step-by-Step Guide"
 description: "This guide outlines the procedure to change the address on a Citizen Card in Portugal, including required documents, and service providers."
 draft: false
+translationKey: "portugal-change_of_address_on_citizen_card"
 ---
 
 ## Description

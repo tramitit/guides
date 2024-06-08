@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "France Demolition Permit Application Guide"
 description: "This guide provides step-by-step instructions on how to apply for a demolition permit in France."
 draft: false
+translationKey: "france-demolition_permit_application"
 ---
 
 ## Description

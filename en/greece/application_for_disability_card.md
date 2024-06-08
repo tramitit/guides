@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Step-By-Step Guide to Apply for a Disability Card in Greece"
 description: "This guide provides a comprehensive step-by-step procedure to apply for a disability card in Greece."
 draft: false
+translationKey: "greece-application_for_disability_card"
 ---
 
 ## Description

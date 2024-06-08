@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "How to Register in the Unemployed Register in Greece"
 description: "Step-by-step guide to register as unemployed in Greece and avail related benefits"
 draft: false
+translationKey: "greece-registration_in_the_unemployed_register"
 ---
 
 ## Description

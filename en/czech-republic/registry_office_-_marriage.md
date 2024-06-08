@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "Guide on how to register your marriage in a registry office"
 draft: false
+translationKey: "czech-republic-registry_office_-_marriage"
 ---
 
 ## Description

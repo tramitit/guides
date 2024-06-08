@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Applying for Unemployment Allowance in Italy"
 description: "Detailed guide on the Unemployment Allowance Application procedures, required documents, and various service provider details."
 draft: false
+translationKey: "italy-unemployment_allowance_application"
 ---
 
 ## Description

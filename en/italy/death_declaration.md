@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "A comprehensive guide to filing a death declaration in Italy"
 draft: false
+translationKey: "italy-death_declaration"
 ---
 
 ## Description

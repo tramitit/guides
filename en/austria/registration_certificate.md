@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "How to get a Registration Certificate in Austria"
 description: "A comprehensive guide on obtaining a Registration Certificate or Meldezettel in Austria."
 draft: false
+translationKey: "austria-registration_certificate"
 ---
 
 ## Description

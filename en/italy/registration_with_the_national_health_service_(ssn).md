@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This guide details the process of registration with the Italian National Health Service (Servizio Sanitario Nazionale, SSN)"
 draft: false
+translationKey: "italy-registration_with_the_national_health_service_(ssn)"
 ---
 
 ## Description

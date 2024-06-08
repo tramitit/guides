@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Applying for Alimony in France: A Comprehensive Guide"
 description: "This comprehensive guide illuminates the alimony application process in France"
 draft: false
+translationKey: "france-alimony_application"
 ---
 
 ## Description

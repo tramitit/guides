@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Guide to Cancel Your Mobile Internet Service"
 description: "A step-by-step guide on how to cancel your mobile internet service"
 draft: false
+translationKey: "portugal-cancellation_of_mobile_internet_service"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Passport Application Procedure"
 description: "Detailed guide on the passport application process with necessary documentation and timelines."
 draft: false
+translationKey: "austria-passport_application"
 ---
 
 ## Description

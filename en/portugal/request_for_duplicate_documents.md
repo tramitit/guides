@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Procedure for Requesting Duplicate Documents in Portugal"
 description: "A comprehensive guide on how to request for duplicate documents in Portugal."
 draft: false
+translationKey: "portugal-request_for_duplicate_documents"
 ---
 
 ## Description

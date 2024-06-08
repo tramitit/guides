@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Paternity Acknowledgment - Step by Step Guide and Required Documents"
 description: "This guide provides detailed information on the procedure for acknowledgment of paternity in Germany"
 draft: false
+translationKey: "germany-paternity_acknowledgment"
 ---
 
 ## Description

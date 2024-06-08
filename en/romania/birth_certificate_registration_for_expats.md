@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "This article provides a step-by-step guide to Birth Certificate Registration for expats in Romania."
 draft: false
+translationKey: "romania-birth_certificate_registration_for_expats"
 ---
 
 ## Description

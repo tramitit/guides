@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Step-by-step Guide to Request for Residence Permit Renewal"
 description: "This helpful guide explains in detail the procedure for the renewal of residence permits in Portugal."
 draft: false
+translationKey: "portugal-request_for_residence_permit_renewal"
 ---
 
 ## Description

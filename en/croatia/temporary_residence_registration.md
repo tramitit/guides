@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "This guide describes the process of temporary residence registration for foreigners living in Croatia."
 draft: false
+translationKey: "croatia-temporary_residence_registration"
 ---
 
 ## Description

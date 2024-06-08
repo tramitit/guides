@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Unemployment Benefits Request in Italy"
 description: "A detailed guide on how to request for unemployment benefits in Italy"
 draft: false
+translationKey: "italy-unemployment_benefits_request"
 ---
 
 ## Description

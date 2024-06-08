@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "greece-application_for_id_issuance"
 ---
 
 ## Description

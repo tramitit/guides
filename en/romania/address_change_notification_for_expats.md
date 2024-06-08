@@ -7,6 +7,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "A comprehensive guide for expatriates on how to notify relevant entities about an address change"
 draft: false
+translationKey: "romania-address_change_notification_for_expats"
 ---
 
 ## Description

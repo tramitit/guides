@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "Guide to filing Income Tax Returns in Spain"
 draft: false
+translationKey: "spain-income_tax_return_filing"
 ---
 
 ## Description

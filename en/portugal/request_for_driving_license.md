@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "portugal-request_for_driving_license"
 ---
 
 ## Description

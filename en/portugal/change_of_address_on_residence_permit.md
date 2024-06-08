@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "A comprehensive guide on how to change the address on your Portuguese Residence Permit."
 draft: false
+translationKey: "portugal-change_of_address_on_residence_permit"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Health insurance registration in Slovakia"
 description: "A comprehensive guide to health insurance registration in Slovakia."
 draft: false
+translationKey: "slovakia-health_insurance_registration"
 ---
 
 ## Description

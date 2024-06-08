@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Application for a German Passport"
 description: "A detailed guide on how to apply for a German Passport"
 draft: false
+translationKey: "germany-application_for_a_passport"
 ---
 
 ## Description

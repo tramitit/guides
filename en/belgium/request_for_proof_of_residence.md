@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This is a detailed guide on how to request and obtain a proof of residence, which may be required for a number of administrative procedures, including opening a bank account, immigrating to a new country, or applying for citizenship."
 draft: false
+translationKey: "belgium-request_for_proof_of_residence"
 ---
 
 ## Description

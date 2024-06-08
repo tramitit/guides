@@ -7,6 +7,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "A comprehensive guide on how to apply for Italian citizenship."
 draft: false
+translationKey: "italy-italian_citizenship_application"
 ---
 
 ## Description

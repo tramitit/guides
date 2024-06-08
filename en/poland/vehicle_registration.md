@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Vehicle Registration in Poland"
 description: "This blog details the process of registering a vehicle, specifically focused on Poland."
 draft: false
+translationKey: "poland-vehicle_registration"
 ---
 
 ## Description

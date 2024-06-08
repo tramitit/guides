@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This comprehensive step-by-step guide informs you on how to apply for travel authorization. Ideal for travelers planning a trip to Europe or any other place that requires travel authorization."
 draft: false
+translationKey: "belgium-request_for_travel_authorization"
 ---
 
 ## Description

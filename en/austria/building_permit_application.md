@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Step by Step Guide to Applying for a Building Permit in Austria"
 description: "A comprehensive guide on how to apply for a building permit in Austria, from the initial proposal to the final approval."
 draft: false
+translationKey: "austria-building_permit_application"
 ---
 
 ## Description

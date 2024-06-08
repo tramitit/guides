@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "A guide to applying for a German ID card."
 draft: false
+translationKey: "germany-application_for_an_id_card"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "This guide outlines how one can perform PIT tax declaration in Poland, including the required documents and step-by-step procedure."
 draft: false
+translationKey: "poland-pit_tax_declaration"
 ---
 
 ## Description

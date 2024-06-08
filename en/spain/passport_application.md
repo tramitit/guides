@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "This is a comprehensive guide on how to apply for a Spanish passport"
 draft: false
+translationKey: "spain-passport_application"
 ---
 
 ## Description

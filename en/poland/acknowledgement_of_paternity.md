@@ -7,6 +7,7 @@ categories: ["Poland"]
 meta_title: "Acknowledgement of Paternity in Poland"
 description: "This is a step-by-step guide to understanding the process of acknowledgement of paternity in Poland."
 draft: false
+translationKey: "poland-acknowledgement_of_paternity"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "A Guide to Apostille Application"
 description: "A comprehensive guide on the Apostille application for various purposes"
 draft: false
+translationKey: "austria-apostille_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Guide for Portuguese Passport Renewal"
 description: "Step-by-step guide to renew your Portuguese passport."
 draft: false
+translationKey: "portugal-passport_renewal"
 ---
 
 ## Description

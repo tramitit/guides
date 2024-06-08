@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "Learn how to renew your driving license when living overseas."
 draft: false
+translationKey: "portugal-renewal_of_driving_license"
 ---
 
 ## Description

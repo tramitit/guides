@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "How to Apply for Personalized Autonomy Allowance"
 description: "An explanatory guide on how to apply for France's Personalized Autonomy Allowance (APA)."
 draft: false
+translationKey: "france-application_for_personalized_autonomy_allowance_(apa)"
 ---
 
 ## Description

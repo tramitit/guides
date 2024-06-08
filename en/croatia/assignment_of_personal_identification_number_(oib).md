@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "This is a step-by-step guide on how to acquire the Personal Identification Number, also known as OIB, in Croatia."
 draft: false
+translationKey: "croatia-assignment_of_personal_identification_number_(oib)"
 ---
 
 ## Description

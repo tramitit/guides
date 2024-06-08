@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Guide to applying for a foreign Tax Identification Number (TIN)"
 description: "Step-by-step guidance on how to apply for a foreign TIN, who requires it, the procedure to follow, and required documents."
 draft: false
+translationKey: "germany-application_for_a_foreign_tax_identification_number"
 ---
 
 ## Description

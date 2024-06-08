@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Vehicle Registration in Austria"
 description: "A comprehensive guide on how to register your vehicle in Austria"
 draft: false
+translationKey: "austria-vehicle_registration"
 ---
 
 ## Description

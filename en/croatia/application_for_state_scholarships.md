@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "Detailed guide on how to apply for state scholarships"
 draft: false
+translationKey: "croatia-application_for_state_scholarships"
 ---
 
 ## Description

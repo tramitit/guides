@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "This is a comprehensive guide on how to acquire a parking permit in the Czech Republic, specifically in the region of Prague."
 draft: false
+translationKey: "czech-republic-application_for_issuing_a_parking_permit"
 ---
 
 ## Description

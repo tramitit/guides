@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "How to apply for a business travel permit in France"
 description: "A comprehensive guide on the business travel permit application in France."
 draft: false
+translationKey: "france-business_travel_permit_application"
 ---
 
 ## Description

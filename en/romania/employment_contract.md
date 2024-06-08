@@ -7,6 +7,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "Guidelines for drafting an employment contract in Romania."
 draft: false
+translationKey: "romania-employment_contract"
 ---
 
 ## Description

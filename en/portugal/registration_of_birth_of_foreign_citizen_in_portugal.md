@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Registration of Birth of Foreign Citizen in Portugal Guide"
 description: "A comprehensive guide illustrating the various steps necessary to register a foreigner's birth in Portugal."
 draft: false
+translationKey: "portugal-registration_of_birth_of_foreign_citizen_in_portugal"
 ---
 
 ## Description

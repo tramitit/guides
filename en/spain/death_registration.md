@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Steps for Death Registration in Spain"
 description: "Detailed process to register a death and obtain a death certificate in Spain"
 draft: false
+translationKey: "spain-death_registration"
 ---
 
 ## Description

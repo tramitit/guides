@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "italy-driver's_license_renewal"
 ---
 
 ## Description

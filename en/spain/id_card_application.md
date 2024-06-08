@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "spain-id_card_application"
 ---
 
 ## Description

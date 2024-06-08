@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Employer registration for social insurance in the Czech Republic"
 description: "This is a comprehensive guide on how to register for social insurance as an employer in the Czech Republic"
 draft: false
+translationKey: "czech-republic-employer_registration_for_social_insurance"
 ---
 
 ## Description

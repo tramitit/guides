@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "National identity card application"
 description: "Detailed step-by-step guide on how to apply for a National Identity Card"
 draft: false
+translationKey: "france-national_identity_card_application"
 ---
 
 ## Description

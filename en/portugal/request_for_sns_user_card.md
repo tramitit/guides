@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "A detailed step-by-step guide on how to request for the SNS User card, an essential health service card in Portugal."
 draft: false
+translationKey: "portugal-request_for_sns_user_card"
 ---
 
 ## Description

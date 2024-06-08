@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Guide to Requesting Educational Scholarships"
 description: "A detailed guide on how to navigate the process of requesting educational scholarships, based on information available online."
 draft: false
+translationKey: "spain-request_educational_scholarships"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "An overview of the process to change your permanent residence within Slovakia"
 draft: false
+translationKey: "slovakia-change_of_permanent_residence"
 ---
 
 ## Description

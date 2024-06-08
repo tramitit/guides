@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Asylum Application in Spain"
 description: "A detailed guide on how to apply for asylum in Spain"
 draft: false
+translationKey: "spain-asylum_application"
 ---
 
 ## Description

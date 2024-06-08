@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Detailed guide on how to apply for a study grant in Austria."
 draft: false
+translationKey: "austria-study_grant_application"
 ---
 
 ## Description

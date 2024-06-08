@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "This guide offers an overview of the process and requirements related to the formation of a company in Austria."
 draft: false
+translationKey: "austria-company_formation"
 ---
 
 ## Description

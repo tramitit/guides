@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Unemployment Benefit in Poland: A Detailed Guide"
 description: "A comprehensive guide to understanding and claiming unemployment benefits in Poland."
 draft: false
+translationKey: "poland-unemployment_benefit"
 ---
 
 ## Description

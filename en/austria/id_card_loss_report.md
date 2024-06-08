@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Detailed information regarding the procedure of reporting a lost or stolen ID Card in Austria."
 draft: false
+translationKey: "austria-id_card_loss_report"
 ---
 
 ## Description

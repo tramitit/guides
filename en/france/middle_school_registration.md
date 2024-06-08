@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Middle School Registration Guide for France"
 description: "A step-by-step guide on how to register your child for middle school in France"
 draft: false
+translationKey: "france-middle_school_registration"
 ---
 
 ## Description

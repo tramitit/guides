@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Guide to Spain Citizenship Application"
 description: "A comprehensive guide to applying for Spanish citizenship"
 draft: false
+translationKey: "spain-citizenship_application"
 ---
 
 ## Description

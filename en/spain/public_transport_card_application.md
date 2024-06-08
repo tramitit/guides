@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "Comprehensive guide on how to apply for a public transport card in Madrid and Barcelona"
 draft: false
+translationKey: "spain-public_transport_card_application"
 ---
 
 ## Description

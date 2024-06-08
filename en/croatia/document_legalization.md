@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Step by Step Guide for Document Legalization in Croatia"
 description: "A comprehensive guide detailing the process to get your documents legalized in Croatia."
 draft: false
+translationKey: "croatia-document_legalization"
 ---
 
 ## Description

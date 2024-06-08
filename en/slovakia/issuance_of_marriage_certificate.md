@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Process to Obtain a Marriage Certificate in Slovakia"
 description: "This guide explains the step-by-step procedure to obtain a Marriage Certificate in Slovakia. Includes profile of applicant, information on required documentation and helpful additional details."
 draft: false
+translationKey: "slovakia-issuance_of_marriage_certificate"
 ---
 
 ## Description

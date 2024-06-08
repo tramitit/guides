@@ -8,6 +8,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "This is a guide on how to apply for Airbnb hosting permit"
 draft: false
+translationKey: "hungary-airbnb_permit_application"
 ---
 
 ## Description

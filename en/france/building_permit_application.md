@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "A comprehensive guide on how to apply for a building permit in France"
 draft: false
+translationKey: "france-building_permit_application"
 ---
 
 ## Description

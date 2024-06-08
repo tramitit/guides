@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "This is a comprehensive guide to registering a business in Germany."
 draft: false
+translationKey: "germany-business_registration"
 ---
 
 ## Description

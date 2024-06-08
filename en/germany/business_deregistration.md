@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "How to Deregister a business in Germany"
 description: "Step-by-step guide to deregister a business in Germany"
 draft: false
+translationKey: "germany-business_deregistration"
 ---
 
 ## Description

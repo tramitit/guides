@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "This is a comprehensive guide on how to obtain a death certificate in Romania following the demise of a family member."
 draft: false
+translationKey: "romania-death_certificate"
 ---
 
 ## Description

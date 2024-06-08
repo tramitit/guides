@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Guide for Sick Leave Application"
 description: "Detailed guide on how to apply for a sick leave in France."
 draft: false
+translationKey: "france-sick_leave_application"
 ---
 
 ## Description

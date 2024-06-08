@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Step-by-step guide on how to report a missing passport"
 description: "A comprehensive guide explaining how to report a missing passport, necessary documents, and additional details."
 draft: false
+translationKey: "croatia-report_of_missing_passport"
 ---
 
 ## Description

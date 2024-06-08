@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This is the meta description"
 draft: false
+translationKey: "italy-income_support_application"
 ---
 
 ## Description

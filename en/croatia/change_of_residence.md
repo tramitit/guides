@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Step by step guide to Changing Your Residence"
 description: "Useful guide for residents who wish to change their address in Croatia and other countries"
 draft: false
+translationKey: "croatia-change_of_residence"
 ---
 
 

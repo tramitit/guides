@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Applying for a Tax Card in Germany - Step by Step"
 description: "Learn how to apply for a tax card (Steuerkarte) in Germany, why you need it and what documents are required."
 draft: false
+translationKey: "germany-applying_for_a_tax_card"
 ---
 
 ## Description

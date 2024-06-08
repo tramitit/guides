@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This guide includes a step-by-step process on how to request a Land Registry Certificate in Portugal."
 draft: false
+translationKey: "portugal-request_for_land_registry_certificate"
 ---
 
 ## Description

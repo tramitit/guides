@@ -7,6 +7,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "This guide provides detailed information about the registration procedure for a foreign national in Slovakia."
 draft: false
+translationKey: "slovakia-registration_of_a_foreign_national"
 ---
 
 ## Description

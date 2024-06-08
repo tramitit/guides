@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Guide to Obtain a Taxi License in Poland"
 description: "Detailed guide outlining the process for obtaining a taxi license in Poland"
 draft: false
+translationKey: "poland-taxi_license"
 ---
 
 ## Description

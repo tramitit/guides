@@ -7,6 +7,7 @@ categories: ["Austria"]
 meta_title: "Registration Information in Austria"
 description: "This guide provides a step-by-step process and the required documents for registration in Austria."
 draft: false
+translationKey: "austria-registration_information"
 ---
 
 ## Description

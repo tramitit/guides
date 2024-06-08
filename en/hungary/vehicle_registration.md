@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Vehicle Registration in Hungary: A Comprehensive Guide"
 description: "Step-by-step guide on how to register a vehicle in Hungary"
 draft: false
+translationKey: "hungary-vehicle_registration"
 ---
 
 ## Description

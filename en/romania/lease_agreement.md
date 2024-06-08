@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "Understanding Lease Agreement in Romania"
 description: "Guide on how to formulate legal and binding lease agreement contracts in Romania"
 draft: false
+translationKey: "romania-lease_agreement"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Vehicle deregistration in Germany"
 description: "A guide on how to deregister a vehicle in Germany and required procedures."
 draft: false
+translationKey: "germany-vehicle_deregistration"
 ---
 
 ## Description

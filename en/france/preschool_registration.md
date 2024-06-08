@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "How to register your child for Preschool in France"
 description: "This is a detailed guide on how to enroll your child in a Preschool in France"
 draft: false
+translationKey: "france-preschool_registration"
 ---
 
 ## Description

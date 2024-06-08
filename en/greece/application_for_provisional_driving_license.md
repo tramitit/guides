@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "A step-by-step guide on how to apply for a Provisional Driving License in the UK for someone residing in Greece"
 draft: false
+translationKey: "greece-application_for_provisional_driving_license"
 ---
 
 ## Description

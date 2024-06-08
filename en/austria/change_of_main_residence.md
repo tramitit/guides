@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "A comprehensive guide to changing your main residence in Austria."
 draft: false
+translationKey: "austria-change_of_main_residence"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "Step-by-step guide on how to apply for a social security card in Germany"
 draft: false
+translationKey: "germany-applying_for_a_social_security_card"
 ---
 
 ## Description

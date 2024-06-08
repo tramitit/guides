@@ -7,6 +7,7 @@ categories: ["Italy"]
 meta_title: "Applying for an Italian Birth Certificate"
 description: "Detailed guide on how to request an Italian birth certificate"
 draft: false
+translationKey: "italy-birth_certificate_request"
 ---
 
 ## Description

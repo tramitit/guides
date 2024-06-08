@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This guide provides step-by-step instructions on how to apply for unemployment benefits in Belgium."
 draft: false
+translationKey: "belgium-request_for_unemployment_benefits"
 ---
 
 ## Description

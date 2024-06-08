@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "Step by step guide on how to complete Census registration in Spain"
 draft: false
+translationKey: "spain-census_registration"
 ---
 
 ## Description

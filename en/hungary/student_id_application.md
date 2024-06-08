@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Step by Step Guide on Applying for Student ID in Hungary"
 description: "This guide provides a detailed overview of how to apply for a Student ID in Hungary."
 draft: false
+translationKey: "hungary-student_id_application"
 ---
 
 ## Description

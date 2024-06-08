@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "Guide on how to request for an Italian Identity Card also known as Carta d'Identità"
 draft: false
+translationKey: "italy-identity_card_request"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This is a guide to obtaining a Medical Certificate in Italy, often required for participation in athletic activities such as marathons or cycling events."
 draft: false
+translationKey: "italy-medical_certificate_request"
 ---
 
 ## Description

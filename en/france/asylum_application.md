@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Asylum Application in France"
 description: "Step-by-step guide on how to apply for Asylum in France"
 draft: false
+translationKey: "france-asylum_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "How to Apply for a Name Change Certificate in Greece"
 description: "Comprehensive guide on the procedure to apply for a name change certificate in Greece. Includes steps, requirements, timeline and cost."
 draft: false
+translationKey: "greece-application_for_name_change_certificate"
 ---
 
 ## Description

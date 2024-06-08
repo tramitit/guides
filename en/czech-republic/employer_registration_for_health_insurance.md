@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Guide to Employer registration for health insurance in Czech Republic"
 description: "A detailed guide on how to register for Health Insurance as an employer in Czech Republic"
 draft: false
+translationKey: "czech-republic-employer_registration_for_health_insurance"
 ---
 
 ## Description

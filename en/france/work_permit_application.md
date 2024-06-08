@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "Detailed procedures for a Work Permit Application in France to facilitate your employment transition."
 draft: false
+translationKey: "france-work_permit_application"
 ---
 
 ## Description

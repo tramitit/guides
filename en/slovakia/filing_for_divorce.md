@@ -7,6 +7,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "This is a detailed guide on how to file for a divorce in Slovakia."
 draft: false
+translationKey: "slovakia-filing_for_divorce"
 ---
 
 ## Description

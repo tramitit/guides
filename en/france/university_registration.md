@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Guide to University Registration in France for International Students"
 description: "This is a comprehensive guide to understanding how to register as an international student at a French university, including the steps, requirements, and fees."
 draft: false
+translationKey: "france-university_registration"
 ---
 
 ## Description

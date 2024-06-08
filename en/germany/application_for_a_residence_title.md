@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Application for a Residence Title in Germany: A Complete Guide"
 description: "A comprehensive guide on how to apply for a residence title in Germany, detailing all the necessary steps, documents needed, and other pertinent information."
 draft: false
+translationKey: "germany-application_for_a_residence_title"
 ---
 
 ## Description

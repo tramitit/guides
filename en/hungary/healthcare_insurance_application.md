@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Healthcare Insurance Application in Hungary"
 description: "Step-by-step guide on how to apply for a healthcare insurance in Hungary"
 draft: false
+translationKey: "hungary-healthcare_insurance_application"
 ---
 
 ## Description

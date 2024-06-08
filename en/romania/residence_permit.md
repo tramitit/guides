@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "Guide on obtaining a Residence Permit in Romania"
 draft: false
+translationKey: "romania-residence_permit"
 ---
 
 ## Description

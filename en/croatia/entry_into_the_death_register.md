@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "Detailing the procedure for entry into the death register in Croatia"
 draft: false
+translationKey: "croatia-entry_into_the_death_register"
 ---
 
 ## Description

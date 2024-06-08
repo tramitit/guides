@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "A comprehensive guide to assist you through the process of applying for a residence permit extension in Greece."
 draft: false
+translationKey: "greece-application_for_residence_permit_extension"
 ---
 
 ## Description

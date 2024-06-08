@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Changing Your Name Step-by-Step Guide"
 description: "Detailed step-by-step guide to get you through the process of how to change your name or alter details that represent your identity."
 draft: false
+translationKey: "croatia-change_of_name"
 ---
 
 ## Description

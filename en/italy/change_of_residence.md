@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Guide to Change of Residence in Italy"
 description: "Step by step guide to manage change of residence, adjust to new financial regulations and update your details with service providers."
 draft: false
+translationKey: "italy-change_of_residence"
 ---
 
 ## Description

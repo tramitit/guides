@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Guide to Applying for Retirement Pension in France"
 description: "Step by step procedure on applying for retirement pension in France, including required documents, procedures, and potential providers."
 draft: false
+translationKey: "france-retirement_pension_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "How to do Real Estate Purchase Agreement in Romania"
 description: "Step by step guide to understanding and executing real estate purchase agreements in Romania."
 draft: false
+translationKey: "romania-real_estate_purchase_agreement"
 ---
 
 ## Description

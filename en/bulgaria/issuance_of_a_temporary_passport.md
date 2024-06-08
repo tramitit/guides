@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "This is a step-by-step guide on how to get a temporary passport"
 draft: false
+translationKey: "bulgaria-issuance_of_a_temporary_passport"
 ---
 
 ## Description

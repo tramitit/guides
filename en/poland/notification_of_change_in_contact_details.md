@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Notification of Change in Contact Details: A Comprehensive Guide"
 description: "This comprehensive guide details how to notify entities about a change in your contact details like phone number, email, or address."
 draft: false
+translationKey: "poland-notification_of_change_in_contact_details"
 ---
 
 ## Description

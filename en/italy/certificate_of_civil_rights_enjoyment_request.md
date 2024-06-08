@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "A guide to obtaining a Certificate of Civil Rights Enjoyment in Italy."
 draft: false
+translationKey: "italy-certificate_of_civil_rights_enjoyment_request"
 ---
 
 ## Description

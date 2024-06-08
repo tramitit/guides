@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "A detailed guide on how to apply for a social scholarship in Slovakia."
 draft: false
+translationKey: "slovakia-application_for_social_scholarship"
 ---
 
 ## Description

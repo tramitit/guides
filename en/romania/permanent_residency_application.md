@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "This guide will enlighten you on the process of Permanent Residency application"
 draft: false
+translationKey: "romania-permanent_residency_application"
 ---
 
 ## Description

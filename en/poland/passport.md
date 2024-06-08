@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Applying for a Polish Passport"
 description: "Step-by-step guide on how to apply for a Polish passport"
 draft: false
+translationKey: "poland-passport"
 ---
 
 ## Description

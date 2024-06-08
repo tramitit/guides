@@ -7,6 +7,7 @@ categories: ["Croatia"]
 meta_title: "Guide to Acquiring Croatian Health Insurance"
 description: "In-depth guidance on how to obtain health insurance coverage in Croatia, including the necessary requirements, and step-by-step procedure."
 draft: false
+translationKey: "croatia-obtaining_health_insurance"
 ---
 
 ## Description

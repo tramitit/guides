@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Detailed instructions for reporting obligation (Meldezettel) in Austria"
 draft: false
+translationKey: "austria-reporting_obligation"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "A comprehensive guide to applying for a driver's license in Austria"
 draft: false
+translationKey: "austria-driver's_license_application"
 ---
 
 ## Description

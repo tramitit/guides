@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Guide on Issuance of Residence Permit for Foreigners"
 description: "A detailed guide on how to obtain a residence permit for foreigners in various countries."
 draft: false
+translationKey: "croatia-issuance_of_residence_permit_for_foreigners"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Guide to Legally Changing Your Name in Germany"
 description: "A comprehensive guide on the process and requirements of legally changing your name in Germany."
 draft: false
+translationKey: "germany-declaration_of_name_change"
 ---
 
 ## Description

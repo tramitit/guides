@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "This guide provides detailed instructions on how to submit pregnancy confirmation in different scenarios such as in workplaces and during travels."
 draft: false
+translationKey: "germany-submitting_pregnancy_confirmation"
 ---
 
 ## Description

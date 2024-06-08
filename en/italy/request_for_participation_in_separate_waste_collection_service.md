@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Step by Step Guide to Participate in Separate Waste Collection"
 description: "An easy guide to participate in separate waste collection and start recycling. Learn how to start the procedure, required documents and service providers."
 draft: false
+translationKey: "italy-request_for_participation_in_separate_waste_collection_service"
 ---
 
 ## Description

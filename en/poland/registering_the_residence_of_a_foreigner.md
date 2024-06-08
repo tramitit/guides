@@ -7,6 +7,7 @@ categories: ["Poland"]
 meta_title: "Registering the residence of a foreigner in Poland"
 description: "Detailed guide on how a foreigner can register their residence in Poland"
 draft: false
+translationKey: "poland-registering_the_residence_of_a_foreigner"
 ---
 
 ## Description

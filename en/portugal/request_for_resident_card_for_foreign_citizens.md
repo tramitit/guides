@@ -7,6 +7,7 @@ categories: ["Portugal"]
 meta_title: "Resident Card Application for Foreign Citizens"
 description: "This comprehensive guide helps foreigners understand the process of applying for a resident card in Portugal."
 draft: false
+translationKey: "portugal-request_for_resident_card_for_foreign_citizens"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "A comprehensive guide on how to apply for a work permit permit in Spain."
 draft: false
+translationKey: "spain-work_permit_application"
 ---
 
 ## Description

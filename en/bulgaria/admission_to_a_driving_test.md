@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Driving Test Admission in Bulgaria"
 description: "Guide to gaining admission to a driving test in Bulgaria"
 draft: false
+translationKey: "bulgaria-admission_to_a_driving_test"
 ---
 
 ## Description

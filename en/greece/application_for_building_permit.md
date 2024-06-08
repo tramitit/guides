@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Application for Building Permit in Greece"
 description: "Detailed step by step guide on how to apply for a building permit in Greece."
 draft: false
+translationKey: "greece-application_for_building_permit"
 ---
 
 ## Description 

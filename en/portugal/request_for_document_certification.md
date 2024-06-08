@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "Step-by-step guide on how to request for document certification."
 draft: false
+translationKey: "portugal-request_for_document_certification"
 ---
 
 ## Description

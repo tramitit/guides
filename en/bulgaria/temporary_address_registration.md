@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Temporary address registration in Bulgaria"
 description: "A step by step guide to the process of temporary address registration in Bulgaria, its requirements and procedure"
 draft: false
+translationKey: "bulgaria-temporary_address_registration"
 ---
 
 ## Description

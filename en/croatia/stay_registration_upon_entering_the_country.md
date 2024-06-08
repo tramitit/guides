@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Stay Registration Guide for Croatia"
 description: "Detailed guide on the stay registration process upon entering Croatia"
 draft: false
+translationKey: "croatia-stay_registration_upon_entering_the_country"
 ---
 
 ## Description

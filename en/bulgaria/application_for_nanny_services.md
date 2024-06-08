@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "This is a guide on how to apply for nanny services. It offers a step-by-step procedure to assist families in hiring a suitable nanny."
 draft: false
+translationKey: "bulgaria-application_for_nanny_services"
 ---
 
 ## Description

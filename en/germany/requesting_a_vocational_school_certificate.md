@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Requesting a Vocational School Certificate for Foreign Students in Germany"
 description: "Guide on how to request a vocational school certificate in Germany for foreign students"
 draft: false
+translationKey: "germany-requesting_a_vocational_school_certificate"
 ---
 
 ## Description

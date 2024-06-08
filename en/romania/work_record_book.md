@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "A comprehensive guide on how to maintain and manage a Work Record Book."
 draft: false
+translationKey: "romania-work_record_book"
 ---
 
 ## Description

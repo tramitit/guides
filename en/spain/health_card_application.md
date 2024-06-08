@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "How to Apply for a Health Card in Spain"
 description: "Step by step guide on how to apply for a health card in Spain, also known as the 'Tarjeta Sanitaria Europea'."
 draft: false
+translationKey: "spain-health_card_application"
 ---
 
 ## Description

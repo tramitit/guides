@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Process of Changing Family Name in Hungary"
 description: "This guide provides you with complete details on how to change your family name in Hungary."
 draft: false
+translationKey: "hungary-change_of_family_name"
 ---
 
 ## Description

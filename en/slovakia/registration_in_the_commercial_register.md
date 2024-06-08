@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Commercial Register Registration in Slovakia: A Step-by-Step Guide"
 description: "Direct, straightforward guide for registering in the commercial register in Slovakia"
 draft: false
+translationKey: "slovakia-registration_in_the_commercial_register"
 ---
 
 ## Description

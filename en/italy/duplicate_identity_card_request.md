@@ -7,6 +7,7 @@ categories: ["Italy"]
 meta_title: "Duplicate Italian Identity Card Request"
 description: "Guide on how to request a duplicate of your Italian Identity Card"
 draft: false
+translationKey: "italy-duplicate_identity_card_request"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Income Tax Declaration in France"
 description: "A guide to income tax declaration in France covering stocks, foreign income, and two-country income situations."
 draft: false
+translationKey: "france-income_tax_declaration"
 ---
 
 ## Description

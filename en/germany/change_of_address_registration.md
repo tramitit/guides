@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "Local registration (Anmeldung) is a mandatory, lawful procedure in Germany upon your arrival or when you change your address in the country."
 draft: false
+translationKey: "germany-change_of_address_registration"
 ---
 
 ## Description

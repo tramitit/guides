@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Guide to Issuing a Marriage Certificate in Croatia"
 description: "This is a comprehensive guide on how to issue a marriage certificate in Croatia, covering the process, required documents, and potential service providers."
 draft: false
+translationKey: "croatia-issuance_of_marriage_certificate"
 ---
 
 ## Description

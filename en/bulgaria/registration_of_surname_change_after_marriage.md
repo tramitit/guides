@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Surname Change Registration After Marriage"
 description: "A comprehensive guide to Registration of surname change after the marriage"
 draft: false
+translationKey: "bulgaria-registration_of_surname_change_after_marriage"
 ---
 
 ## Description

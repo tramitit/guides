@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "germany-certificate_of_free_movement"
 ---
 
 ## Description

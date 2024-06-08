@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Applying for Unemployment Benefits in France"
 description: "A comprehensive guide on applying for unemployment benefits in France, including the required documents and steps."
 draft: false
+translationKey: "france-unemployment_benefit_application"
 ---
 
 ## Description

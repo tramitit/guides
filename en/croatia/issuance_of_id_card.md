@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "This is a step by step guide on how to apply for an ID card in Croatia"
 draft: false
+translationKey: "croatia-issuance_of_id_card"
 ---
 
 ## Description

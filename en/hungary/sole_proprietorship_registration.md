@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "A comprehensive guide on how to register a Sole Proprietorship in Hungary"
 draft: false
+translationKey: "hungary-sole_proprietorship_registration"
 ---
 
 ## Description

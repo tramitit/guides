@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "czech-republic-announcement_of_change_of_surname"
 ---
 
 ## Description

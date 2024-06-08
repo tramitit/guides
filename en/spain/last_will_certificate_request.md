@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "This is a guide on how to request a Last Will Certificate in Spain."
 draft: false
+translationKey: "spain-last_will_certificate_request"
 ---
 
 ## Description

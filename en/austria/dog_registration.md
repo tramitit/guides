@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Detailed instructions on how to register your dog in Austria."
 draft: false
+translationKey: "austria-dog_registration"
 ---
 
 ## Description

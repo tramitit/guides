@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "How to get your NIE in Spain"
 description: "A step by step guide on the procedure for applying for a NIE in Spain"
 draft: false
+translationKey: "spain-nie_application"
 ---
 
 ## Description

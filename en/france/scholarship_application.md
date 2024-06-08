@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Scholarship Application Guide"
 description: "Your guide on how to apply for scholarships in France"
 draft: false
+translationKey: "france-scholarship_application"
 ---
 
 ## Description

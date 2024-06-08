@@ -7,6 +7,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "Guidance on reporting copyright infringement on Reddit"
 draft: false
+translationKey: "poland-report_of_copyright_infringement"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Guide to French Naturalization Application"
 description: "Step by Step Guide to apply for French Naturalization including procedures and required documents"
 draft: false
+translationKey: "france-naturalization_application"
 ---
 
 ## Description

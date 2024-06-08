@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "Residence Visa Process"
 description: "Complete guide to obtaining a Romanian residence visa."
 draft: false
+translationKey: "romania-residence_visa"
 ---
 
 ## Description

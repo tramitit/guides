@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Health Insurance in Bulgaria"
 description: "A comprehensive guide to apply for health insurance in Bulgaria."
 draft: false
+translationKey: "bulgaria-application_for_health_insurance"
 ---
 
 ## Description

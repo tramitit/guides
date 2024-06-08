@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "Here's everything you need to make a successful rental announcement in Greece"
 draft: false
+translationKey: "greece-rental_announcement"
 ---
 
 ## Description

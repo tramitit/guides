@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Guide to Proof of Residence in Austria"
 description: "An easy-to-follow guide for international students in Austria looking to acquire proof of residence."
 draft: false
+translationKey: "austria-proof_of_residence"
 ---
 
 ## Description

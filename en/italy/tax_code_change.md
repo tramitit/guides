@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "Guide on how to change your tax code in Italy"
 draft: false
+translationKey: "italy-tax_code_change"
 ---
 
 ## Description

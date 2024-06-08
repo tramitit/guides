@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: " Guide on How to Pay Traffic Fines in Hungary"
 description: "Detailed instructions on how to pay traffic fines in Hungary"
 draft: false
+translationKey: "hungary-traffic_fine_payment"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Guide to Old Age Pension Application in Italy"
 description: "Detailed guide on how to apply for an old-age pension in Italy, understanding the required documents, procedure, and potential service providers that can assist you."
 draft: false
+translationKey: "italy-old_age_pension_application"
 ---
 
 ## Description

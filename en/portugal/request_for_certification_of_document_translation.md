@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta title: "Certification of Document Translation - Detailed Request Procedure"
 description: "A step by step guide on how to request for certification of document translation."
 draft: false
+translationKey: "portugal-request_for_certification_of_document_translation"
 ---
 
 ## Description

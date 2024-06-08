@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "bulgaria-change_of_current_address"
 ---
 
 ## Description

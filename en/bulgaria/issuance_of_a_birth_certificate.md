@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Issuing Birth Certificate in Bulgaria: A Detailed Guide"
 description: "A comprehensive guide on how to get a birth certificate issued in Bulgaria. We outline the steps, documents required and the costs involved."
 draft: false
+translationKey: "bulgaria-issuance_of_a_birth_certificate"
 ---
 
 ## Description

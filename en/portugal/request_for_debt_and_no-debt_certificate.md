@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This guide provides step-by-step procedures to request debt and no-debt certificates."
 draft: false
+translationKey: "portugal-request_for_debt_and_no-debt_certificate"
 ---
 
 ## Description

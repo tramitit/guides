@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "A step by step guide to apply for Disability Allowance"
 draft: false
+translationKey: "romania-disability_allowance"
 ---
 
 ## Description

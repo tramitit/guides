@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Vanity License Plate Process in Czech Republic"
 description: "This guide provides comprehensive information on how to get a Vanity License Plate in the Czech Republic. Including detailed procedures, needed documents and potential service providers."
 draft: false
+translationKey: "czech-republic-vanity_license_plate"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Steps to Request for Health Certificate for Marathon in Hungary"
 description: "A comprehensive guide on how to request for a health certificate, including the necessary steps and key information needed."
 draft: false
+translationKey: "hungary-request_for_health_certificate"
 ---
 
 ## Description

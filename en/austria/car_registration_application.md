@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Car Registration in Austria Guide"
 description: "Step by step guide to car registration in Austria."
 draft: false
+translationKey: "austria-car_registration_application"
 ---
 
 ## Description

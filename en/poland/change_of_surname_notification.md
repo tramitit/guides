@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "Guide to change of surname notification in Poland"
 draft: false
+translationKey: "poland-change_of_surname_notification"
 ---
 
 ## Description

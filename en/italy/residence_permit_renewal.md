@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Residence Permit Renewal in Italy"
 description: "Detailed guide on renewing your residence permit (Permesso di Soggiorno) in Italy"
 draft: false
+translationKey: "italy-residence_permit_renewal"
 ---
 
 ## Description

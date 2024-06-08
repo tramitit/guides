@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Step-by-step residence registration procedure in Austria and Germany"
 description: "This guide provides step-by-step information on residency registration requirements and procedure in Austria and Germany."
 draft: false
+translationKey: "austria-residence_registration"
 ---
 
 ## Description

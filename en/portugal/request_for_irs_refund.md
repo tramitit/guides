@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "A comprehensive guide on how to request an IRS refund in the United States."
 draft: false
+translationKey: "portugal-request_for_irs_refund"
 ---
 
 ## Description

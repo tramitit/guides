@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Detailed step-by-step guide on how to apply for a Birth Certificate in Austria"
 draft: false
+translationKey: "austria-birth_certificate_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "Replacement request for driving license in Belgium"
 description: "Detailed step-by-step procedure to replace a lost or stolen driver's license in Belgium"
 draft: false
+translationKey: "belgium-replacement_request_for_driving_license"
 ---
 
 ## Description

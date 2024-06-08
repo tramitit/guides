@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Application for legal aid in Bulgaria"
 description: "A guide on how to apply for legal aid in Bulgaria"
 draft: false
+translationKey: "bulgaria-application_for_legal_aid"
 ---
 
 ## Description

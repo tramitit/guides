@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Extend Your Passport Easily From Anywhere"
 description: "Step-by-step guide on how to extend your passport"
 draft: false
+translationKey: "germany-extension_of_passport"
 ---
 
 ## Description

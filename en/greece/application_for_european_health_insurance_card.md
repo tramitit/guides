@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: "Step-by-step Guide to Apply for European Health Insurance Card"
 description: "A comprehensive guide on how to apply for European Health Insurance Card, who needs it, required documents, and relevant providers."
 draft: false
+translationKey: "greece-application_for_european_health_insurance_card"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "spain-resident_card_application_for_family_member_of_an_eu_citizen"
 ---
 
 ## Description

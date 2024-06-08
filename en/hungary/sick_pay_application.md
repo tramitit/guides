@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "How to Apply for Sick Pay"
 description: "Step-by-step procedure on how to apply for sick pay"
 draft: false
+translationKey: "hungary-sick_pay_application"
 ---
 
 ## Description

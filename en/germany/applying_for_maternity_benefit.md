@@ -7,6 +7,7 @@ categories: ["Germany"]
 meta_title: "Guide to Apply for Maternity Benefit in Germany"
 description: "This is a detailed guide on the process of applying for maternity benefit in Germany."
 draft: false
+translationKey: "germany-applying_for_maternity_benefit"
 ---
 
 ## Description

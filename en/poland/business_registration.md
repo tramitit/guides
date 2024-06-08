@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Register Your Business In Poland: Step-By-Step Guide"
 description: "This guide provides a comprehensive overview of how to register a business in Poland."
 draft: false
+translationKey: "poland-business_registration"
 ---
 
 ## Description

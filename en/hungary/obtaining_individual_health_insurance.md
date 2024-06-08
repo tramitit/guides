@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "How to Obtain Individual Health Insurance in Hungary"
 description: "A comprehensive guide on procuring health insurance as an individual in Hungary."
 draft: false
+translationKey: "hungary-obtaining_individual_health_insurance"
 ---
 
 ## Description

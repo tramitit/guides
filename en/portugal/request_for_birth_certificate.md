@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "A step-by-step guide on how to request a birth certificate in Portugal."
 draft: false
+translationKey: "portugal-request_for_birth_certificate"
 ---
 
 ## Description

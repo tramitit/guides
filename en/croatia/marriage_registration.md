@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Marriage Registration in Croatia: A Comprehensive Guide"
 description: "Detailing the step by step procedure for marriage registration in Croatia, all required documents and important points to remember"
 draft: false
+translationKey: "croatia-marriage_registration"
 ---
 
 ## Description

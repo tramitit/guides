@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Driver's License Renewal"
 description: "Step by step guide to renewing your driver's license in Spain"
 draft: false
+translationKey: "spain-driver's_license_renewal"
 ---
 
 ## Description

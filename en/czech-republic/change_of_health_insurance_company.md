@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "This guide provides detailed steps on how to change your health insurance provider in the Czech Republic"
 draft: false
+translationKey: "czech-republic-change_of_health_insurance_company"
 ---
 
 ## Description

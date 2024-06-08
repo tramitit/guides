@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "A comprehensive guide on how to register for a health card in Croatia as a foreigner."
 draft: false
+translationKey: "croatia-registration_for_the_health_card_of_a_foreigner"
 ---
 
 ## Description

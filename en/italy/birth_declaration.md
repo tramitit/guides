@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Guide on Declaring Birth in Italy"
 description: "Detailed procedure on declaring birth in Italy including required documents, providers and additional details"
 draft: false
+translationKey: "italy-birth_declaration"
 ---
 
 ## Description

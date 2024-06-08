@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "EU Resident Card Application Guide"
 description: "A comprehensive guide on how to apply for EU Resident Card."
 draft: false
+translationKey: "spain-eu_resident_card_application"
 ---
 
 ## Description

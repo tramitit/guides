@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "How to get a Driver's License in Romania"
 description: "A step-by-step guide on how to acquire a driver's license in Romania."
 draft: false
+translationKey: "romania-driver's_license"
 ---
 
 ## Description

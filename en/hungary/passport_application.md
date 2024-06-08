@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Step by Step Guide to Hungarian Passport Application"
 description: "A comprehensive guide detailing how to apply for a Hungarian passport."
 draft: false
+translationKey: "hungary-passport_application"
 ---
 
 ## Description

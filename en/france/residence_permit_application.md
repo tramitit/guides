@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Applying for French Residence Permit: An Essential Guide"
 description: "Detailed guide on how to apply for a residence permit in France, covering all required steps and necessary documentation."
 draft: false
+translationKey: "france-residence_permit_application"
 ---
 
 ## Description

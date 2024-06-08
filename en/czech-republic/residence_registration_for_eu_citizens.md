@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "A guide to residence registration for EU citizens in the Czech Republic."
 draft: false
+translationKey: "czech-republic-residence_registration_for_eu_citizens"
 ---
 
 ## Description

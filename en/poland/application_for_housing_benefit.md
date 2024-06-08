@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "Step by step guide on how to apply for housing benefit in the UK"
 draft: false
+translationKey: "poland-application_for_housing_benefit"
 ---
 
 ## Description

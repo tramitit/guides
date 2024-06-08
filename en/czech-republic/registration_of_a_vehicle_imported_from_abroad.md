@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Registration of a Vehicle Imported from Abroad"
 description: "Step by step guide on how to register an imported vehicle in your home country, specifically for cars imported from Czech Republic."
 draft: false
+translationKey: "czech-republic-registration_of_a_vehicle_imported_from_abroad"
 ---
 
 ## Description

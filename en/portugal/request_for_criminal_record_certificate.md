@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This guide provides step by step procedure on how to request a Criminal Record Certificate in Portugal."
 draft: false
+translationKey: "portugal-request_for_criminal_record_certificate"
 ---
 
 ## Description

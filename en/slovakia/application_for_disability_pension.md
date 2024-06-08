@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "Comprehensive guide on how to apply for a disability pension"
 draft: false
+translationKey: "slovakia-application_for_disability_pension"
 ---
 
 ## Description

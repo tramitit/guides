@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "Guide on how to apply for Polish citizenship"
 draft: false
+translationKey: "poland-application_for_citizenship"
 ---
 
 ## Description

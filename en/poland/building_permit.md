@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Guide to Acquiring a Building Permit in Poland"
 description: "A comprehensive guide to obtaining a building permit in Poland including procedure, required documents, and other essential details."
 draft: false
+translationKey: "poland-building_permit"
 ---
 
 ## Description

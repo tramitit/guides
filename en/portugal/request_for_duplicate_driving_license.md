@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This is a detailed guide on how to request a duplicate driving license in Portugal, including the documents required, the procedure to follow, and the costs."
 draft: false
+translationKey: "portugal-request_for_duplicate_driving_license"
 ---
 
 ## Description

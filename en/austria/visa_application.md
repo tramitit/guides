@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "austria-visa_application"
 ---
 
 ## Description

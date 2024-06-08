@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "This guide outlines the procedure and key points to keep in mind while issuing travel tickets."
 draft: false
+translationKey: "slovakia-issuance_of_travel_ticket"
 ---
 
 ## Description

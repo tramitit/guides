@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Registering in the Italy Civil Registry: Step-by-Step Guide"
 description: "A detailed guide on how to register in the Italian Civil Registry, including the required documents, procedure, and potential service providers."
 draft: false
+translationKey: "italy-registration_in_the_civil_registry"
 ---
 
 ## Description

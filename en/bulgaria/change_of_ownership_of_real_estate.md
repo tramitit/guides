@@ -7,6 +7,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "A detailed guide on the processes and requirements involved in changing the ownership of real estate properties in Bulgaria."
 draft: false
+translationKey: "bulgaria-change_of_ownership_of_real_estate"
 ---
 
 ## Description

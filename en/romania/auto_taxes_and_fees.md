@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "This guide provides details on auto taxes and fees in Romania, including a step-by-step procedure on how to calculate and process them."
 draft: false
+translationKey: "romania-auto_taxes_and_fees"
 ---
 
 ## Description

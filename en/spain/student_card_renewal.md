@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Step-by-step Guide to Student Card Renewal in Spain"
 description: "Detailed guide on how to renew your student card in Spain"
 draft: false
+translationKey: "spain-student_card_renewal"
 ---
 
 ## Description

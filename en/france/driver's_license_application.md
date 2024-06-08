@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Step-by-step Guide to Apply for a Driver's License in France"
 description: "This is a comprehensive guide detailing the process of applying for a driver's license in France."
 draft: false
+translationKey: "france-driver's_license_application"
 ---
 
 ## Description

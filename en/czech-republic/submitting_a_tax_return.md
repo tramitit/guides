@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Guide for Submitting a Tax Return in Czech Republic"
 description: "A step-by-step-guide on how to file your tax return in the Czech Republic."
 draft: false
+translationKey: "czech-republic-submitting_a_tax_return"
 ---
 
 ## Description

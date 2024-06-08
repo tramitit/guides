@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "Step by step guide on how to do Family Status Certificate request in Italy"
 draft: false
+translationKey: "italy-family_status_certificate_request"
 ---
 
 ## Description

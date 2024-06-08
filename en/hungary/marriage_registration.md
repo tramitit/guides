@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Marriage registration in Hungary"
 description: "A detailed guide on how to register your marriage in Hungary."
 draft: false
+translationKey: "hungary-marriage_registration"
 ---
 
 ## Description

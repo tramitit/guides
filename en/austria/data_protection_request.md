@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Understand the step by step procedure on initiating a data protection request under GDPR"
 draft: false
+translationKey: "austria-data_protection_request"
 ---
 
 ## Description

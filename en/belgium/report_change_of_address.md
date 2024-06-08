@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "How to Report a Change of Address in Belgium"
 description: "Step by step procedure on how to report a change of address in Belgium."
 draft: false
+translationKey: "belgium-report_change_of_address"
 ---
 
 ## Description

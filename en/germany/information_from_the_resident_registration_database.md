@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "germany-information_from_the_resident_registration_database"
 ---
 
 ## Description

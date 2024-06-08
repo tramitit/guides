@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "A guide to the partnership registration procedure in Spain"
 draft: false
+translationKey: "spain-partnership_registration"
 ---
 
 ## Description

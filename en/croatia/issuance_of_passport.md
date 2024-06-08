@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "croatia-issuance_of_passport"
 ---
 
 ## Description

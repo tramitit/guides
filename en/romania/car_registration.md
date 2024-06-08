@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "A comprehensive guide on how to register a car in Romania covering required documents, procedure, providers who can assist, and additional details."
 draft: false
+translationKey: "romania-car_registration"
 ---
 
 ## Description

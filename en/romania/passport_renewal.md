@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "Guide to Passport Renewal in Romania"
 description: "An informative guide covering steps and procedures for renewing your Romanian passport."
 draft: false
+translationKey: "romania-passport_renewal"
 ---
 
 ## Description

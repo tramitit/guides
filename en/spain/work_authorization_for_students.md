@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Work Authorization for Students in Spain"
 description: "A comprehensive guide on how to gain work authorization for students in Spain."
 draft: false
+translationKey: "spain-work_authorization_for_students"
 ---
 
 ## Description

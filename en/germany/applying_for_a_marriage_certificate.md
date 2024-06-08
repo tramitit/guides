@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "This is a guide to apply for a marriage certificate for marriages performed outside of Germany."
 draft: false
+translationKey: "germany-applying_for_a_marriage_certificate"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "A comprehensive guide on how to request for Portuguese Nationality"
 draft: false
+translationKey: "portugal-request_for_portuguese_nationality"
 ---
 
 ## Description

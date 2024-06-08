@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "A comprehensive guide to document office appointment booking in Hungary."
 draft: false
+translationKey: "hungary-document_office_appointment_booking"
 ---
 
 ## Description

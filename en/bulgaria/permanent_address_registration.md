@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Permanent Address Registration in Bulgaria: Procedure and Requirements"
 description: "Guide to registering a permanent address in Bulgaria for foreigners and EU citizens."
 draft: false
+translationKey: "bulgaria-permanent_address_registration"
 ---
 
 ## Description

@@ -7,6 +7,7 @@ categories: ["Spain"]
 meta_title: "Economic Support for Large Families"
 description: "This guide provides step-by-step instructions for accessing economic assistance programs designed for large families."
 draft: false
+translationKey: "spain-economic_assistance_for_large_families"
 ---
 
 ## Description

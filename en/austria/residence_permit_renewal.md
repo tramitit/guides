@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "A detailed guide on how to renew your residence permit in Austria"
 draft: false
+translationKey: "austria-residence_permit_renewal"
 ---
 
 ## Description

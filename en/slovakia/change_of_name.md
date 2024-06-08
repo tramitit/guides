@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "This is a guide on how to formally go through a name change in Slovakia."
 draft: false
+translationKey: "slovakia-change_of_name"
 ---
 
 ## Description

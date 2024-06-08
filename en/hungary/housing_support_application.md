@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Application guide for Housing Support in Hungary"
 description: "This guide provides a step-by-step process on how to apply for housing support in Hungary, including required documents and service providers."
 draft: false
+translationKey: "hungary-housing_support_application"
 ---
 
 ## Description

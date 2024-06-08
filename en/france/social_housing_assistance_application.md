@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "A step by step guide to understanding what social housing assistance is, who it’s for and how to apply for it in France."
 draft: false
+translationKey: "france-social_housing_assistance_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "A detailed guide on how to renew your Spanish health card."
 draft: false
+translationKey: "spain-health_card_renewal"
 ---
 
 ## Description

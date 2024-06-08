@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "A step by step guide on how to register your residence in Hungary."
 draft: false
+translationKey: "hungary-residence_registration"
 ---
 
 ## Description

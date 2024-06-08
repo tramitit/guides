@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "This is a step-by-step guide on how you can deregister your residence in Germany."
 draft: false
+translationKey: "germany-deregistration_of_residence"
 ---
 
 ## Description

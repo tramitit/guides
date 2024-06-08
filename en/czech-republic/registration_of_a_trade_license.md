@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: "Trade License Registration in the Czech Republic"
 description: "A guide on the procedure and required documents for trade license registration in the Czech Republic"
 draft: false
+translationKey: "czech-republic-registration_of_a_trade_license"
 ---
 
 ## Description

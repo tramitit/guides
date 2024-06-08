@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "poland-asylum_application"
 ---
 
 ## Description

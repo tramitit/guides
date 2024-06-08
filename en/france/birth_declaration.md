@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Birth declaration in France"
 description: "Detailed guide on how to declare a birth in France"
 draft: false
+translationKey: "france-birth_declaration"
 ---
 
 ## Description

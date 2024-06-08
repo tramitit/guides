@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "Guide to obtaining a Certificate of Slovak Ancestry"
 draft: false
+translationKey: "slovakia-certificate_of_slovak_ancestry"
 ---
 
 ## Description

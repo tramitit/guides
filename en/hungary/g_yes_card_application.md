@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Guide to Applying for G YES Card"
 description: "Step by step guide on how to apply for G YES card"
 draft: false
+translationKey: "hungary-g_yes_card_application"
 ---
 
 ## Description

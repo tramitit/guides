@@ -7,6 +7,7 @@ categories: ["France"]
 meta_title: "Guide on renewing your residence permit in France"
 description: "This is a comprehensive guide on how to renew your French residence permit, including the various steps involved, required documents, and service providers who can assist with the process."
 draft: false
+translationKey: "france-residence_permit_renewal"
 ---
 
 ## Description

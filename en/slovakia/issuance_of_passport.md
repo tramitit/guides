@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Issuance of Slovak Passport"
 description: "A comprehensive guide on how to issue a Slovak passport."
 draft: false
+translationKey: "slovakia-issuance_of_passport"
 ---
 
 ## Description

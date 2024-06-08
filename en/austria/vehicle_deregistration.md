@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "A guide to deregistering a vehicle in Austria"
 draft: false
+translationKey: "austria-vehicle_deregistration"
 ---
 
 ## Description

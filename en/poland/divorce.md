@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: ""
 description: "Comprehensive Guide to Getting a Divorce in Poland"
 draft: false
+translationKey: "poland-divorce"
 ---
 
 ## Description

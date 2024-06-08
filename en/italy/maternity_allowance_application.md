@@ -7,6 +7,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "Comprehensive guide on applying for maternity leave allowance in Italy."
 draft: false
+translationKey: "italy-maternity_allowance_application"
 ---
 
 ## Description

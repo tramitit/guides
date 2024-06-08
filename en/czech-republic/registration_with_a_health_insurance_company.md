@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "Step by step guide to registering with a health insurance company in the Czech Republic "
 draft: false
+translationKey: "czech-republic-registration_with_a_health_insurance_company"
 ---
 
 ## Description

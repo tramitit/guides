@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "This is a guide to understanding and navigating the Medical Legal Institute in Romania, as well as details regarding legal statuses and rights in various European countries."
 draft: false
+translationKey: "romania-medical_legal_institute"
 ---
 
 ## Description

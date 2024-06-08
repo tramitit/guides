@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Process for Requesting Health Ticket Exemptions in Italy"
 description: "A comprehensive guide on how to request health ticket exemptions in Italy, including required documents, procedure, and reliable providers." 
 draft: false
+translationKey: "italy-health_ticket_exemption_request"
 ---
 
 ## Description

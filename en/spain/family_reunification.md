@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Step by Step Guide for Family Reunification in Spain"
 description: "A guide detailing the process of family reunification in Spain, from the required paperwork to possible hurdles on the way."
 draft: false
+translationKey: "spain-family_reunification"
 ---
 
 ## Description

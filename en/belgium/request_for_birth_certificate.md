@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "Guide on how to request a birth certificate in Belgium"
 draft: false
+translationKey: "belgium-request_for_birth_certificate"
 ---
 
 ## Description

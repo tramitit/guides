@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Retirement Pension Application"
 description: "A step-by-step guide on how to apply for retirement pension in Spain"
 draft: false
+translationKey: "spain-retirement_pension_application"
 ---
 
 ## Description

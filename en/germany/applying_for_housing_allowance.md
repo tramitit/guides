@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Guide to Applying for Housing Allowance in Germany"
 description: "Step-by-step guide on how to apply for housing allowance (Wohngeld in Germany)"
 draft: false
+translationKey: "germany-applying_for_housing_allowance"
 ---
 
 ## Description

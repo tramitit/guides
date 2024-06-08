@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "How to Apply for Maternity Leave in Spain"
 description: "Step-by-step procedure on how to apply for maternity leave in Spain."
 draft: false
+translationKey: "spain-maternity_leave_application"
 ---
 
 ## Description

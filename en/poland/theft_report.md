@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Theft Report in Poland"
 description: "A detailed guide on how to report a theft in Poland."
 draft: false
+translationKey: "poland-theft_report"
 ---
 
 ## Description

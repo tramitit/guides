@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "This article outlines the procedure for applying for an ID card in the Czech Republic."
 draft: false
+translationKey: "czech-republic-application_for_issuing_an_id_card"
 ---
 
 ## Description

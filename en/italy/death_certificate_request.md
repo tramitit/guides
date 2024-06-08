@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Step By Step Guide to Requesting a Death Certificate in Italy"
 description: "This guide provides a comprehensive step-by-step approach to request a death certificate in Italy."
 draft: false
+translationKey: "italy-death_certificate_request"
 ---
 
 ## Description

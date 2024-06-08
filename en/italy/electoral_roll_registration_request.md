@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "italy-electoral_roll_registration_request"
 ---
 
 ## Description

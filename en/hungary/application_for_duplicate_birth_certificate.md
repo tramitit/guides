@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "This guide provides the details on how to apply for a duplicate birth certificate in Hungary"
 draft: false
+translationKey: "hungary-application_for_duplicate_birth_certificate"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "This guide provides a step by step procedure on how to register for social insurance in Austria."
 draft: false
+translationKey: "austria-social_insurance_registration"
 ---
 
 ## Description

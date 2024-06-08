@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "Obtain a Belgian Driving License - Step by Step Guide"
 description: "A step by step guide on how to obtain a driving license in Belgium."
 draft: false
+translationKey: "belgium-request_for_a_driving_license"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "Detailed guide on how to reorder a marriage certificate."
 draft: false
+translationKey: "austria-reorder_marriage_certificate"
 ---
 
 ## Description

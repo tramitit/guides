@@ -14,6 +14,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "This is meta description"
 draft: false
+translationKey: "italy-pending_charges_request"
 ---
 
 ## Description

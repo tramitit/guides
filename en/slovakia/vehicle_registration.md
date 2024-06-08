@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "A comprehensive guide on how to register a vehicle in Slovakia"
 draft: false
+translationKey: "slovakia-vehicle_registration"
 ---
 
 ## Description

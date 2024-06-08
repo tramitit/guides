@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "How to Request a Sex Offense Certificate"
 description: "A guide on the common steps to request a Sex Offense Certificate"
 draft: false
+translationKey: "spain-sex_offense_certificate_request"
 ---
 
 ## Description

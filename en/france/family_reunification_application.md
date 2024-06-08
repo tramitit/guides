@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Family Reunification in France: Step-by-step Guide"
 description: "Detailed guide on how to apply for family reunification in France"
 draft: false
+translationKey: "france-family_reunification_application"
 ---
 
 ## Description

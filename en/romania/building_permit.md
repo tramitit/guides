@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "Detailed guide to obtaining a Building Permit in Romania"
 description: "This is a step-by-step procedure on how to obtain a Building Permit in Romania, list of required documents and providers who can do it for you"
 draft: false
+translationKey: "romania-building_permit"
 ---
 
 ## Description

@@ -7,6 +7,7 @@ categories: ["France"]
 meta_title: "High School Registration in France: A step by step guide"
 description: "Guide to registering for High Schools in France"
 draft: false
+translationKey: "france-high_school_registration"
 ---
 
 ## Description

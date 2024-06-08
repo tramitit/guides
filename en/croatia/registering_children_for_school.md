@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Register your children for school in Croatia"
 description: "An in-depth guide on how to register your children for school in Croatia"
 draft: false
+translationKey: "croatia-registering_children_for_school"
 ---
 
 ## Description

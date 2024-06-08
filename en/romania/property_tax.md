@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "Property Tax in Romania: A Comprehensive Guide"
 description: "Learn about what property tax is, who needs to pay it, what the procedure is, and more."
 draft: false
+translationKey: "romania-property_tax"
 ---
 
 ## Description

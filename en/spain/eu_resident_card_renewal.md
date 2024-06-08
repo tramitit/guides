@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "A comprehensive guide on how to renew the EU Resident Card in Spain."
 draft: false
+translationKey: "spain-eu_resident_card_renewal"
 ---
 
 ## Description

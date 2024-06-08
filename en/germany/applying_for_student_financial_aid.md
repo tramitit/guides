@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "Detailed guide to applying for student financial aid (BAföG) in Germany"
 draft: false
+translationKey: "germany-applying_for_student_financial_aid"
 ---
 
 ## Description

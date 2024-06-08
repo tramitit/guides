@@ -6,6 +6,7 @@ categories: ["Italy", "Germany"]
 meta_title: "Requesting Military Service Completion Certificate for Genealogy & Citizenship purposes"
 description: "Step by step guide on how to request a Military Service Completion Certificate in Italy and Germany."
 draft: false
+translationKey: "italy-military_service_completion_certificate_request"
 ---
 
 ## Description

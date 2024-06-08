@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Guide to Applying for Unemployment Benefits in Germany"
 description: "Step by step guide on how to apply for unemployment benefits in Germany and the necessary requirements"
 draft: false
+translationKey: "germany-applying_for_unemployment_benefit"
 ---
 
 ## Description

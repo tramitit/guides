@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This is a step by step guide on how to request for income tax declaration."
 draft: false
+translationKey: "portugal-request_for_income_tax_declaration"
 ---
 
 ## Description

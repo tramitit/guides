@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: "Guide on Work Permit Renewal in Spain"
 description: "Detailed guide providing information about the renewal of a work permit in Spain."
 draft: false
+translationKey: "spain-work_permit_renewal"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "Steps in issuing a family status certificate for adoption or immigration processes in Bulgaria"
 draft: false
+translationKey: "bulgaria-issuance_of_a_family_status_certificate"
 ---
 
 ## Description

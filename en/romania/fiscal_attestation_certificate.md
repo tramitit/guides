@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "Step by step guide on how to get a Fiscal Attestation Certificate"
 draft: false
+translationKey: "romania-fiscal_attestation_certificate"
 ---
 
 ## Description

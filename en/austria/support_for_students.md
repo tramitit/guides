@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "A detailed guide to assist students based on experiences shared in Austria and how to budget in Vienna"
 draft: false
+translationKey: "austria-support_for_students"
 ---
 
 ## Description

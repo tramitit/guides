@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This is a guide on how to request a change in your Number Identification Fiscal (NIF) Data in Portugal."
 draft: false
+translationKey: "portugal-request_for_change_of_nif_data"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: ""
 description: "A detailed guide on obtaining Tax Residency Certificate in Romania."
 draft: false
+translationKey: "romania-tax_certificate"
 ---
 
 ## Description

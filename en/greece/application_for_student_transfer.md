@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "A detailed step-by-step guide to apply for student transfer in Greece, including the procedure, required documents, and potential service providers."
 draft: false
+translationKey: "greece-application_for_student_transfer"
 ---
 
 ## Description

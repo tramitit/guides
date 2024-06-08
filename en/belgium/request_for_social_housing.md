@@ -8,6 +8,7 @@ categories: "Housing, Netherlands"
 meta_title: ""
 description: "This is a guide on how to request social housing in the Netherlands."
 draft: false
+translationKey: "belgium-request_for_social_housing"
 ---
 
 ## Description

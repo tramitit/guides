@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "A comprehensive guide for obtaining a Certificate of Residence in Spain"
 draft: false
+translationKey: "spain-certificate_of_residence"
 ---
 
 ## Description

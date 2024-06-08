@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This is a guide on how to apply for a User Card for foreigners in Portugal."
 draft: false
+translationKey: "portugal-request_for_user_card_for_foreigners"
 ---
 
 ## Description

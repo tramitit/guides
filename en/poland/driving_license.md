@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "How to get a Driving License in Poland"
 description: "Detailed procedure on how to obtain a Polish driving license"
 draft: false
+translationKey: "poland-driving_license"
 ---
 
 ## Description

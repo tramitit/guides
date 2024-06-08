@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Guide to Housing Allowance Application in Austria"
 description: "This article provides a step-by-step guide on how to apply for a housing allowance in Austria"
 draft: false
+translationKey: "austria-housing_allowance_application"
 ---
 
 ## Description

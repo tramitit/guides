@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Procedure for Extension of Residence Permit in Germany"
 description: "A comprehensive guide on how to extend your residence permit in Germany."
 draft: false
+translationKey: "germany-extension_of_residence_permit"
 ---
 
 ## Description

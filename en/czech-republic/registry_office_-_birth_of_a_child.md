@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "A guide on how to register the birth of your child in the Czech Republic. This process is vital for ensuring your child's citizenship and social benefits in the future."
 draft: false
+translationKey: "czech-republic-registry_office_-_birth_of_a_child"
 ---
 
 ## Description

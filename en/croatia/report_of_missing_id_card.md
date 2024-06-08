@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Report of Missing ID Card in Croatia"
 description: "Details instructions on how to report a missing Identification Card in Croatia"
 draft: false
+translationKey: "croatia-report_of_missing_id_card"
 ---
 
 ## Description

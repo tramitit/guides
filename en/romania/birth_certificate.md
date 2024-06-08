@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "Procedure to Obtain Birth Certificate in Romania"
 description: "A comprehensive guide to understanding the documents and procedure required to obtain a birth certificate."
 draft: false
+translationKey: "romania-birth_certificate"
 ---
 
 ## Description

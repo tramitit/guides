@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "Detailed information on how to request for a residence permit"
 description: "A comprehensive guide for foreigners seeking work and residency in Belgium"
 draft: false
+translationKey: "belgium-request_for_residence_permit"
 ---
 
 ## Description

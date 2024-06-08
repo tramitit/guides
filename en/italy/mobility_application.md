@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "Complete guide in how to apply for the Youth Mobility Visa"
 draft: false
+translationKey: "italy-mobility_application"
 ---
 
 ## Description

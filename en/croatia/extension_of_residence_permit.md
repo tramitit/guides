@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Extension of Residence Permit in Croatia"
 description: "A detailed step-by-step guide on how to extend your residence permit in Croatia"
 draft: false
+translationKey: "croatia-extension_of_residence_permit"
 ---
 
 ## Description

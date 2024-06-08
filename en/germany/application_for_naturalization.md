@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Naturalization Process for German Citizenship"
 description: "Guidance on the step-by-step process of applying for German citizenship through naturalization."
 draft: false
+translationKey: "germany-application_for_naturalization"
 ---
 
 ## Description

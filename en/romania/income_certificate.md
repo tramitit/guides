@@ -6,6 +6,7 @@ categories: ["Romania"]
 meta_title: "" 
 description: "A detailed guide on how to apply for an Income Certificate in Romania" 
 draft: false 
+translationKey: "romania-income_certificate"
 ---
 
 ## Description

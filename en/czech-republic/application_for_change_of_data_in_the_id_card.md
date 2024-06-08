@@ -6,6 +6,7 @@ categories: ["Czech Republic"]
 meta_title: ""
 description: "Step-by-step guide for applying for a change of data in an ID card"
 draft: false
+translationKey: "czech-republic-application_for_change_of_data_in_the_id_card"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "This guide provides step-by-step instructions on how to apply for a death certificate in Austria."
 draft: false
+translationKey: "austria-death_certificate_application"
 ---
 
 ## Description

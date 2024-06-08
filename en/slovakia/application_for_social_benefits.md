@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "Guide to applying for social benefits in Slovakia"
 draft: false
+translationKey: "slovakia-application_for_social_benefits"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "A step-by-step guide on how to de-register a vehicle in Hungary."
 draft: false
+translationKey: "hungary-vehicle_de-registration"
 ---
 
 ## Description

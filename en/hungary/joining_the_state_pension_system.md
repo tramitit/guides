@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "Joining the state pension system is a crucial step towards securing a stable income for your retirement years. This guide outlines the procedure, necessary documents and additional details on how to join the system."
 draft: false
+translationKey: "hungary-joining_the_state_pension_system"
 ---
 
 ## Description

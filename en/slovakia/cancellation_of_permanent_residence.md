@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "How to Cancel Your Permanent Residence"
 description: "Step by step guide on how to cancel your Permanent Residence"
 draft: false
+translationKey: "slovakia-cancellation_of_permanent_residence"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Jobseeker's allowance application guide"
 description: "A comprehensive step-by-step guide to applying for Jobseeker's allowance"
 draft: false
+translationKey: "hungary-jobseeker's_allowance_application"
 ---
 
 ## Description

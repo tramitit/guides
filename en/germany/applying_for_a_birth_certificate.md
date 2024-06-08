@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: "Step-by-step Guide to Applying for a Birth Certificate in Germany"
 description: "A comprehensive guide to applying for a birth certificate in Germany, the required documents, and the procedure involved."
 draft: false
+translationKey: "germany-applying_for_a_birth_certificate"
 ---
 
 ## Description

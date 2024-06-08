@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Guide on Health Insurance in Poland"
 description: "A comprehensive step-by-step guide on how to do health insurance in Poland."
 draft: false
+translationKey: "poland-health_insurance"
 ---
 
 ## Description

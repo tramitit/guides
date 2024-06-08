@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: "Issuance of Croatian Birth Certificate"
 description: "Your comprehensive guide to applying for a birth certificate in Croatia"
 draft: false
+translationKey: "croatia-issuance_of_birth_certificate"
 ---
 
 ## Description

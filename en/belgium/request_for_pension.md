@@ -6,6 +6,7 @@ categories: ["Belgium"]
 meta_title: "Comprehensive Guide to Request for Pension in Belgium"
 description: "In this post, we simplify the seemingly daunting process of applying for a pension in Belgium using a step-by-step guideline."
 draft: false
+translationKey: "belgium-request_for_pension"
 ---
 
 ## Description

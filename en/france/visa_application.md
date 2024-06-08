@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: ""
 description: "Comprehensive guide to applying for a France Visa, covering the procedure, required documents, and providers that can assist you."
 draft: false
+translationKey: "france-visa_application"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Issuance of Birth Certificate in Slovakia: A Comprehensive Guide"
 description: "Detailing the steps required to acquire a birth certificate in Slovakia for both residents and Slovak citizens living abroad."
 draft: false
+translationKey: "slovakia-issuance_of_birth_certificate"
 ---
 
 ## Description

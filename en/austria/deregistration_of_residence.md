@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: ""
 description: "A step by step guide to deregistering residence in Germany and Austria."
 draft: false
+translationKey: "austria-deregistration_of_residence"
 ---
 
 ## Description

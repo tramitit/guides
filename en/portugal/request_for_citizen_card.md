@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: ""
 description: "This is a guide on how to request for a citizen card in Portugal"
 draft: false
+translationKey: "portugal-request_for_citizen_card"
 ---
 
 ## Description

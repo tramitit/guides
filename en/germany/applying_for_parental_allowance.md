@@ -6,6 +6,7 @@ categories: ["Germany"]
 meta_title: ""
 description: "A step-by-step guide on applying for parental allowance"
 draft: false
+translationKey: "germany-applying_for_parental_allowance"
 ---
 
 ## Description

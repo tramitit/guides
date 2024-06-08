@@ -6,6 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "Step-by-step guide to Income tax declaration in Croatia"
 draft: false
+translationKey: "croatia-income_tax_declaration"
 ---
 
 ## Description

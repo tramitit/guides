@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Passport Renewal Process"
 description: "Detailed guide on how to renew your passport."
 draft: false
+translationKey: "france-passport_renewal"
 ---
 
 ## Description

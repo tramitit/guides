@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "Guide on how to renew your citizen card in Portugal"
 description: "Detailed steps on how to renew your Portuguese Citizen Card"
 draft: false
+translationKey: "portugal-renewal_of_citizen_card"
 ---
 
 ## Description

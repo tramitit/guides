@@ -6,6 +6,7 @@ categories: ["Portugal"]
 meta_title: "How to register a business in Portugal"
 description: "Detailed step-by-step guide on how to register a business in Portugal"
 draft: false
+translationKey: "portugal-request_for_business_registration"
 ---
 
 ## Description

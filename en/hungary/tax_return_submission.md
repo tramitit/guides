@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Guide to Submitting Tax Returns in Hungary"
 description: "A step-by-step guide on how to submit tax returns in Hungary, including information on crypto taxes."
 draft: false
+translationKey: "hungary-tax_return_submission"
 ---
 
 ## Description

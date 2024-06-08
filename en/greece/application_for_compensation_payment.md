@@ -6,6 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "Understanding and applying for compensation payments"
 draft: false
+translationKey: "greece-application_for_compensation_payment"
 ---
 
 ## Description

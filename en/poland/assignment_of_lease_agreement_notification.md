@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Notification of Assignment of Lease Agreement"
 description: "This steps guide will take you through the process of notifying a lease agreement assignment"
 draft: false
+translationKey: "poland-assignment_of_lease_agreement_notification"
 ---
 
 ## Description

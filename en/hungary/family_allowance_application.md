@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: ""
 description: "This is a guide to help with the application for family allowance in Hungary."
 draft: false
+translationKey: "hungary-family_allowance_application"
 ---
 
 ## Description

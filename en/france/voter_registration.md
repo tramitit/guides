@@ -6,6 +6,7 @@ categories: ["France"]
 meta_title: "Voter Registration in France: A Step-by-Step Guide"
 description: "A comprehensive guide to help you understand and navigate the process of voter registration in France."
 draft: false
+translationKey: "france-voter_registration"
 ---
 
 ## Description

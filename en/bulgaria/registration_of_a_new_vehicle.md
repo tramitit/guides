@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "A guide on how to register a new vehicle in Bulgaria."
 draft: false
+translationKey: "bulgaria-registration_of_a_new_vehicle"
 ---
 
 ## Description

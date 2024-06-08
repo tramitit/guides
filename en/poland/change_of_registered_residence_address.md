@@ -6,6 +6,7 @@ categories: ["Poland"]
 meta_title: "Change of registered residence address in Poland"
 description: "Comprehensive guide on how to change a registered residence address in Poland"
 draft: false
+translationKey: "poland-change_of_registered_residence_address"
 ---
 
 ## Description

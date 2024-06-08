@@ -7,6 +7,7 @@ categories: ["Belgium"]
 meta_title: ""
 description: "This is a guide on how to request for family reunification."
 draft: false
+translationKey: "belgium-request_for_family_reunification"
 ---
 
 ## Description

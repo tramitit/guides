@@ -6,6 +6,7 @@ categories: ["Spain"]
 meta_title: ""
 description: "Detailed step by step guide on how to do Return Authorization for products from different providers."
 draft: false
+translationKey: "spain-return_authorization"
 ---
 
 ## Description

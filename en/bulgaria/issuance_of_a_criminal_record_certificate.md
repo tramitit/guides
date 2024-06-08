@@ -6,6 +6,7 @@ categories: ["Bulgaria"]
 meta_title: ""
 description: "This guide describes how to issue a criminal record certificate in Bulgaria"
 draft: false
+translationKey: "bulgaria-issuance_of_a_criminal_record_certificate"
 ---
 
 ## Description

@@ -6,6 +6,7 @@ categories: ["Hungary"]
 meta_title: "Pension application in Hungary guide"
 description: "A step-by-step guide to applying for a pension in Hungary."
 draft: false
+translationKey: "hungary-pension_application"
 ---
 
 ## Description

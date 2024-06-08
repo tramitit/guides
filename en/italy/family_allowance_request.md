@@ -6,6 +6,7 @@ categories: ["Italy"]
 meta_title: "Requesting Family Allowance in Italy"
 description: "A procedural guide to applying for a family allowance in Italy"
 draft: false
+translationKey: "italy-family_allowance_request"
 ---
 
 ## Description

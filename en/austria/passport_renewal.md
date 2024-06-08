@@ -6,6 +6,7 @@ categories: ["Austria"]
 meta_title: "Passport Renewal - A Step by Step Guide"
 description: "A comprehensive guide on how to renew your passport in Austria."
 draft: false
+translationKey: "austria-passport_renewal"
 ---
 
 ## Description
