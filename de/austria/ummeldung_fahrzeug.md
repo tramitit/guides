@@ -34,7 +34,7 @@ Alle Personen, die in Österreich wohnhaft sind und entweder kürzlich innerhalb
 
 | Anbieter    |     Website           |    Bearbeitungszeiten   |       Kosten |
 | ----------- | --------------------- | :---------------------: | :----------: |
-| OAMTC      |  [OAMTC](https://www.oeamtc.at/thema/fahrzeugueberstellung/zo/)  |      Variabel      |     Variabel     |
+| OAMTC      |  N/A  |      Variabel      |     Variabel     |
 
 ## Weitere Details
 Möglicherweise benötigen Sie eine Versicherung für Ihr Fahrzeug während des Umzugs oder beim Import eines Autos nach Österreich aus einem anderen Land. Es wird empfohlen, sich mit lokalen Versicherungsanbietern in Verbindung zu setzen oder Ihre aktuelle Versicherung auf Auslandsdeckung zu überprüfen.

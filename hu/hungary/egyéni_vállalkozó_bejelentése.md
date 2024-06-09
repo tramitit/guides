@@ -20,7 +20,7 @@ Ideális szabadúszók, vállalkozók vagy bárki számára, aki saját vállalk
 
 1. Válassza ki vállalkozása nevét. Győződjön meg róla, hogy megfelel a magyar kormány által meghatározott irányelveknek.
 2. Kérjen vállalkozási engedélyt az Ön által választott vállalkozási helyi kormányhivatalától.
-3. Miután megkapta az engedélyt, regisztrálja vállalkozását a magyar adóhatóságnál (https://en.nav.gov.hu/).
+3. Miután megkapta az engedélyt, regisztrálja vállalkozását a magyar adóhatóságnál (https://nav.gov.hu/en).
 4. Nyisson egy vállalati bankszámlát.
 5. Regisztráljon ÁFA fizetésre.
 6. Győződjön meg róla, hogy megfelel a helyi és országos törvényeknek és szabályozásoknak, amelyek az Ön konkrét vállalkozására vonatkoznak.

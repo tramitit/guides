@@ -19,7 +19,7 @@ Toute personne craignant la persécution ou le préjudice dans son pays d'origin
 ## Procédure
 1. Exprimez votre intention de demander l'asile à un point de passage frontalier ou sur le territoire français.
 2. Vous recevrez un document appelé `Certificat de demande d'asile` qui confirmera votre statut de demandeur d'asile et vous permettra de séjourner en France pendant l'évaluation de votre demande.
-3. Un entretien sera mené par l'`Office français de protection des réfugiés et apatrides (OFPRA)` pour évaluer votre situation et motivations. Vous pouvez consulter ce [guide](https://www.ofpra.gouv.fr/en/asylum/the-rights-and-duties-of-asylum-seekers) sur la préparation de votre entretien. 
+3. Un entretien sera mené par l'`Office français de protection des réfugiés et apatrides (OFPRA)` pour évaluer votre situation et motivations.
 4. Si votre demande est rejetée par l'OFPRA, vous pouvez faire appel de cette décision devant la Cour nationale du droit d'asile (CNDA).
 
 ## Documents requis

@@ -18,7 +18,7 @@ Registrácia humanitárneho pobytu je proces, v rámci ktorého jednotlivci, kto
 
 ## Postup
 1. Identifikujte krajinu, v ktorej by ste chceli požiadať o humanitárny pobyt.
-2. Kontaktujte príslušný imigračný úrad vo vybranej krajine. Na Slovensku je to [Úrad pre cudzincov Ministerstva vnútra](https://www.minv.sk/?oc-foreigners).
+2. Kontaktujte príslušný imigračný úrad vo vybranej krajine. Na Slovensku je to [Úrad pre cudzincov Ministerstva vnútra](https://www.minv.sk/).
 3. Predložte žiadosť o azyl, ktorá zvyčajne zahŕňa osobný pohovor a poskytnutie dôkazov o situácii vo vašej domovskej krajine.
 4. Čakajte na spracovanie žiadosti, počas ktorého sa môžete musieť dočasne zdržiavať v krajine.
 5. Ak je žiadosť schválená, budete priznaní humanitárny pobyt.

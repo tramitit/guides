@@ -40,4 +40,4 @@ This procedure is obligatory for all individuals who were born, married, or have
 ## Additional details
 - AIRE registration: Italian citizens living abroad can register their status and changes in their civil state with the AIRE (Registry of Italians Resident Abroad).
 - Photocopies and scanned documents are generally not accepted. Original documents are always best.
-- Documents could be requested in “formato internazionale” or multilanguage. You can use the [European e-Justice portal as a guide](https://e-justice.europa.eu/content_public_documents-165-en.do).
+- Documents could be requested in “formato internazionale” or multilanguage. You can use the [European e-Justice portal as a guide](https://e-justice.europa.eu/).

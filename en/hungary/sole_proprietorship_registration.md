@@ -20,7 +20,7 @@ This is ideal for freelancers, entrepreneurs, or anyone looking to start their o
 
 1. Choose your business name. Make sure it fits the guidelines set by the Hungarian Government.
 2. Apply for an Entrepreneurial License at the local government office of your chosen business location.
-3. Once you receive your license, register your business with the Hungarian Tax Authority (https://en.nav.gov.hu/).
+3. Once you receive your license, register your business with the Hungarian Tax Authority (https://nav.gov.hu/en).
 4. Open a business bank account.
 5. Register for VAT.
 6. Ensure that you are compliant with local and national laws and regulations pertaining to your particular business.

@@ -17,7 +17,7 @@ O Pedido de Declaração de Imposto de Renda é um processo no qual um indivídu
 Este processo é necessário para todos os indivíduos que tenham recebido rendimentos durante o ano fiscal. Tradicionalmente, é necessário para assalariados, autônomos e proprietários de empresas que tenham gerado algum rendimento durante o ano fiscal.
 
 ## Procedimento
-1. Reúna todos os documentos necessários, como contracheques, o Formulário 836 para residentes fora da Irlanda na Alemanha e outras documentações financeiras pertinentes para o ano fiscal.
+1. Reúna todos os documentos necessários, como contracheques e outras documentações financeiras pertinentes para o ano fiscal.
 2. Preencha o formulário necessário com seus detalhes fiscais. Em Portugal, será o formulário IRS disponível no **Portal das Finanças**.
 3. Envie o formulário preenchido digitalmente através do portal fiscal ou manualmente no seu escritório fiscal local.
 4. Aguarde a notificação das autoridades fiscais sobre o status de sua declaração.
@@ -26,7 +26,6 @@ Este processo é necessário para todos os indivíduos que tenham recebido rendi
 - Comprovante de renda, como contracheques
 - Detalhes de quaisquer benefícios, subsídios ou deduções não padronizadas
 - Formulário de declaração de imposto anterior (se aplicável)
-- Formulário 836 para residentes fora da Irlanda na Alemanha ([link](https://ibkr.info/node/23334))
 
 ## Prestadores que podem fazer isso por você
 

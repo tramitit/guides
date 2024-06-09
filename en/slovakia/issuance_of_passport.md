@@ -19,7 +19,7 @@ It is essential for individuals who are Slovak citizens and need to travel out o
 ## Procedure
 1. Verify your Slovak citizenship. This is essential for applying for a Slovak Passport.
 2. Apply for verification of Slovak Living Abroad status, if applicable.
-3. Go to the local district office, 'Úrad' in Slovak, and request for the application form. Further details about local authorities can be found [here](https://www.minv.sk/?resort-leadership&pred=220).
+3. Go to the local district office, 'Úrad' in Slovak, and request for the application form.
 4. Fill the application form accurately and don't miss any mandatory fields. 
 5. Attach all the necessary documents (listed below in the "Required Documents" section).
 6. Pay the fee and submit the application form.

@@ -18,7 +18,7 @@ Jakýkoli jednotlivec s úmyslem vykonávat samostatnou práci nebo provozovat p
 
 ## Postup
 
-1. **Žádost o Zivno:** Navštivte jakýkoli živnostenský úřad a zažádejte o Zivno, nebo to můžete udělat také online [zde](https://www.businessinfo.cz/en/start-ups/self-employed/zivnostensky-list-trade-licence/).
+1. **Žádost o Zivno:** Navštivte jakýkoli živnostenský úřad a zažádejte o Zivno.
 
 
 2. **Získání odpovědnostního pojištění:** Přihlaste se k odpovědnostnímu pojištění. To lze získat od většiny velkých pojišťoven v České republice.

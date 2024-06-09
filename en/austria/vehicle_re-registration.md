@@ -34,7 +34,7 @@ Any individuals who reside in Austria and have either recently moved within the 
 
 | Provider    |     Website           |    Timelines   |       Cost |
 | ----------- | --------------------- | :------------: | :--------: |
-| OAMTC      |  [OAMTC](https://www.oeamtc.at/thema/fahrzeugueberstellung/zo/)  |      Varies      |     Varies     |
+| OAMTC      |  N/A  |      Varies      |     Varies     |
 
 ## Additional details
 You may need insurance coverage for your vehicle during the move, or when bringing a car into Austria from another country. It's advised to check with local insurance providers or consult your current insurance for overseas coverage.

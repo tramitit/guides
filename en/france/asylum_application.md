@@ -19,7 +19,7 @@ Any individual fearing persecution or harm in their home country due to factors 
 ## Procedure
 1. Express your intent to apply for asylum at a border point or in the territory of France.
 2. You will be given a document named `Asylum application certificate` which will confirm your status as an asylum seeker and permit you to stay in France while your application is assessed.
-3. An interview will be conducted by the `French Office for the Protection of Refugees and Stateless Persons (OFPRA)` to evaluate your situation and motivations. You may consult this [guide](https://www.ofpra.gouv.fr/en/asylum/the-rights-and-duties-of-asylum-seekers) on how to prepare for your interview. 
+3. An interview will be conducted by the `French Office for the Protection of Refugees and Stateless Persons (OFPRA)` to evaluate your situation and motivations.
 4. If your application is rejected by OFPRA, you may appeal this decision to the National Court of Asylum Law (CNDA).
 
 ## Required Documents

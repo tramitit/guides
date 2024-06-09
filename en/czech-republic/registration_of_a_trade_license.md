@@ -18,7 +18,7 @@ Any individual intending to perform independent work or operate a business in th
 
 ## Procedure
 
-1. **Apply for a Zivno:** Visit any živnostenský úřad (Trade Licensing Office) and apply for a Zivno or you can also do it online [here](https://www.businessinfo.cz/en/start-ups/self-employed/zivnostensky-list-trade-licence/).
+1. **Apply for a Zivno:** Visit any živnostenský úřad (Trade Licensing Office) and apply for a Zivno.
 
 2. **Obtain Liability Insurance:** Sign up for liability insurance. This can be obtained from most large insurance companies in the Czech Republic. 
 

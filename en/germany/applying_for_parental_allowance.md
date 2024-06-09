@@ -42,5 +42,4 @@ Any parent who is currently residing in Germany and has a newborn or adopted chi
 - The allowance can be split among parents and may be received simultaneously or individually. Parents who simultaneously receive the allowance reduce their individual eligibility period but can receive a higher total amount.
 - Parents can work up to 30 hours a week and still be eligible for the allowance.
 - The parental allowance is tax-free, however, it is subject to a "progression clause". This means that while the allowance itself is not taxed, it can increase the tax rate on your other income.
-- Further information about the parental allowance and the application procedure can be found on the [Federal Ministry for Family Affairs, Senior Citizens, Women and Youth website](https://www.bmfsfj.de/bmfsfj/themen/familie/familienleistungen/elterngeld/elterngeld-und-elterngeldplus).
-- It's important to note that receiving parental allowance might have an impact on other family benefits you receive, like Kindergeld (Child Benefit). More on Child Benefit can be found [here](https://www.arbeitsagentur.de/familie-und-kinder/child-benefit-claiming-depends-on-income).
+- It's important to note that receiving parental allowance might have an impact on other family benefits you receive, like Kindergeld (Child Benefit).

@@ -19,7 +19,7 @@ Je nevyhnutný pre jednotlivcov, ktorí sú občanmi Slovenska a potrebujú cest
 ## Postup
 1. Overte si svoje slovenské občianstvo. Toto je nevyhnutné pre žiadosť o slovenský pas.
 2. Ak je to vhodné, podajte žiadosť o overenie statusu Slovákov žijúcich v zahraničí.
-3. Choďte na miestny obvodný úrad a požiadajte o žiadosť. Ďalšie podrobnosti o miestnych úradoch nájdete [tu](https://www.minv.sk/?resort-leadership&pred=220).
+3. Choďte na miestny obvodný úrad a požiadajte o žiadosť.
 4. Vyplňte žiadosť presne a nevynechajte žiadne povinné polia.
 5. Pridajte všetky potrebné dokumenty (uvedené nižšie v časti "Požadované dokumenty").
 6. Zaplaťte poplatok a odovzdajte žiadosť.

@@ -20,13 +20,13 @@ Any foreign nationals - students, workers, or other individuals - who plan to st
 ## Procedure
 1. Start the renewal process at least three months before your current Residence Permit expires.
 
-2. Request an appointment with the MA35, the immigration authority, through their [official website](https://www.wien.gv.at/english/administration/civilstatus/migration/). You may need to try several times to get an appointment, so don't get discouraged.
+2. Request an appointment with the MA35, the immigration authority. You may need to try several times to get an appointment, so don't get discouraged.
 
 3. Make sure to go for your appointment with all the necessary documents.
 
-5. After successfully submitting your application and documents, you will have to wait for a while until your permit is processed. Waiting times can vary, between few weeks to several months. The MA35 don't usually specify how long it takes.
+4. After successfully submitting your application and documents, you will have to wait for a while until your permit is processed. Waiting times can vary, between few weeks to several months. The MA35 don't usually specify how long it takes.
 
-6. Once your application is approved, you will receive a notification. Your renewed residence permit can then be picked up from the appointed office.
+5. Once your application is approved, you will receive a notification. Your renewed residence permit can then be picked up from the appointed office.
 
 ## Required Documents
 * Valid passport
@@ -35,8 +35,6 @@ Any foreign nationals - students, workers, or other individuals - who plan to st
 * Evidence of personal health insurance
 * Rental contract or proof of accommodation
 * For students, proof of enrollment in school/university might be additionally required
-
-Please visit the [official website](https://www.wien.gv.at/english/administration/civilstatus/migration/) for a comprehensive list of documents.
 
 ## Providers that can do it for you
 

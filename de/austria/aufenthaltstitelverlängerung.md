@@ -19,13 +19,13 @@ Alle ausländischen Staatsangehörigen - Studenten, Arbeitnehmer oder andere Per
 ## Verfahren
 1. Beginnen Sie den Erneuerungsprozess mindestens drei Monate bevor Ihre derzeitige Aufenthaltserlaubnis abläuft.
 
-2. Vereinbaren Sie einen Termin mit dem MA35, der Einwanderungsbehörde, über ihre [offizielle Website](https://www.wien.gv.at/english/administration/civilstatus/migration/). Es kann sein, dass Sie mehrere Male versuchen müssen, um einen Termin zu bekommen, also lassen Sie sich nicht entmutigen.
+2. Vereinbaren Sie einen Termin mit dem MA35, der Einwanderungsbehörde. Es kann sein, dass Sie mehrere Male versuchen müssen, um einen Termin zu bekommen, also lassen Sie sich nicht entmutigen.
 
 3. Stellen Sie sicher, dass Sie zu Ihrem Termin alle erforderlichen Dokumente mitbringen.
 
-5. Nachdem Sie Ihren Antrag und die Dokumente erfolgreich eingereicht haben, müssen Sie eine Weile warten, bis Ihre Erlaubnis bearbeitet wird. Die Wartezeiten können variieren, von wenigen Wochen bis zu mehreren Monaten. Der MA35 gibt normalerweise nicht an, wie lange es dauern wird.
+4. Nachdem Sie Ihren Antrag und die Dokumente erfolgreich eingereicht haben, müssen Sie eine Weile warten, bis Ihre Erlaubnis bearbeitet wird. Die Wartezeiten können variieren, von wenigen Wochen bis zu mehreren Monaten. Der MA35 gibt normalerweise nicht an, wie lange es dauern wird.
 
-6. Sobald Ihr Antrag genehmigt ist, erhalten Sie eine Benachrichtigung. Ihre erneuerte Aufenthaltserlaubnis kann dann im vereinbarten Büro abgeholt werden.
+5. Sobald Ihr Antrag genehmigt ist, erhalten Sie eine Benachrichtigung. Ihre erneuerte Aufenthaltserlaubnis kann dann im vereinbarten Büro abgeholt werden.
 
 ## Erforderliche Dokumente
 * Gültiger Reisepass
@@ -34,8 +34,6 @@ Alle ausländischen Staatsangehörigen - Studenten, Arbeitnehmer oder andere Per
 * Nachweis einer persönlichen Krankenversicherung
 * Mietvertrag oder Nachweis über Unterkunft
 * Für Studenten könnte ein Nachweis der Einschreibung an einer Schule/Universität zusätzlich erforderlich sein
-
-Bitte besuchen Sie die [offizielle Website](https://www.wien.gv.at/english/administration/civilstatus/migration/) für eine umfassende Liste der Dokumente.
 
 ## Anbieter, die es für Sie erledigen können
 

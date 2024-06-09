@@ -40,4 +40,4 @@ Questa procedura è obbligatoria per tutti gli individui nati, sposati o decedut
 ## Dettagli Aggiuntivi
 - Registrazione AIRE: I cittadini italiani residenti all'estero possono registrare il loro stato e le modifiche nel loro stato civile con l'AIRE (Anagrafe degli Italiani Residenti all'Estero).
 - Fotocopie e documenti scannerizzati non sono generalmente accettati. I documenti originali sono sempre i migliori.
-- I documenti potrebbero essere richiesti in "formato internazionale" o multilingue. Puoi utilizzare il [portale europeo della giustizia elettronica come guida](https://e-justice.europa.eu/content_public_documents-165-en.do).
+- I documenti potrebbero essere richiesti in "formato internazionale" o multilingue. Puoi utilizzare il [portale europeo della giustizia elettronica come guida](https://e-justice.europa.eu/).

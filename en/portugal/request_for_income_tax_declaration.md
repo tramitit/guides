@@ -17,7 +17,7 @@ The Request for Income Tax Declaration is a process where an individual submits 
 This process is necessary for all individuals who have earned an income within the fiscal year. Traditionally, it is needed by salaried or self-employed individuals as well as business owners who have generated some income during the tax year.
 
 ## Procedure
-1. Gather all necessary documents such as payslips, Form 836 for non-Ireland residents in Germany, and other pertinent financial documentation for the fiscal year. 
+1. Gather all necessary documents such as payslips and other pertinent financial documentation for the fiscal year. 
 2. Complete the necessary form with your tax details. In Portugal, it'll be the IRS form available on the **Portal das Finanças**. 
 3. Submit the completed form either digitally through the tax portal or manually at your local tax office. 
 4. Await notification from the tax authorities about the status of your declaration. 
@@ -26,7 +26,6 @@ This process is necessary for all individuals who have earned an income within t
 - Proof of income such as payslips
 - Details of any benefits, allowances, or non-standard deductions 
 - Previous Tax declaration form (if applicable)
-- Form 836 for non-Ireland residents in Germany ([link](https://ibkr.info/node/23334))
 
 ## Providers that can do it for you
 

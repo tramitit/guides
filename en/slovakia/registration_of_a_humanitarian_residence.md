@@ -18,7 +18,7 @@ People who are facing extreme hardship, danger, or persecution in their home cou
 
 ## Procedure
 1. Identify the country in which you would like to seek humanitarian residence.
-2. Contact the appropriate immigration authority in the chosen country. In Slovakia, [this is the Migration Office of the Ministry of Interior](https://www.minv.sk/?oc-foreigners).
+2. Contact the appropriate immigration authority in the chosen country. In Slovakia, [this is the Migration Office of the Ministry of Interior](https://www.minv.sk/).
 3. Submit an asylum application, which normally includes a personal interview and providing evidence of the situation in your home country.
 4. Await processing of the application, during which time you may have to reside within the country on a temporary basis.
 5. If the application is approved, you will be granted humanitarian residence.

@@ -42,5 +42,4 @@ Jeder Elternteil, der derzeit in Deutschland wohnt und ein neugeborenes oder ado
 - Der Zuschuss kann zwischen den Eltern aufgeteilt werden und kann gleichzeitig oder individuell erhalten werden. Eltern, die den Zuschuss gleichzeitig erhalten, verkürzen ihre individuelle Berechtigungsfrist, können jedoch insgesamt einen höheren Betrag erhalten.
 - Eltern können bis zu 30 Stunden pro Woche arbeiten und trotzdem anspruchsberechtigt sein.
 - Das Elterngeld ist steuerfrei, unterliegt jedoch einer "Progressionsklausel". Dies bedeutet, dass obwohl das Elterngeld selbst nicht besteuert wird, es den Steuersatz auf Ihr anderes Einkommen erhöhen kann.
-- Weitere Informationen zum Elterngeld und zum Antragsverfahren finden Sie auf der [Website des Bundesministeriums für Familie, Senioren, Frauen und Jugend](https://www.bmfsfj.de/bmfsfj/themen/familie/familienleistungen/elterngeld/elterngeld-und-elterngeldplus).
-- Es ist wichtig zu beachten, dass der Bezug von Elterngeld Auswirkungen auf andere Familienleistungen haben kann, die Sie erhalten, wie zum Beispiel Kindergeld. Mehr zum Kindergeld finden Sie [hier](https://www.arbeitsagentur.de/familie-und-kinder/child-benefit-claiming-depends-on-income).
+- Es ist wichtig zu beachten, dass der Bezug von Elterngeld Auswirkungen auf andere Familienleistungen haben kann, die Sie erhalten, wie zum Beispiel Kindergeld.
