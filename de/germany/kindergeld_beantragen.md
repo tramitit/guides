@@ -17,7 +17,7 @@ Kindergeld ist eine monatliche Zahlung, die vom deutschen Staat an Eltern in Deu
 Alle Eltern oder Erziehungsberechtigten, die in Deutschland wohnhaft oder beschäftigt sind, haben Anspruch darauf, diese Leistung für ihre Kinder zu erhalten.
 
 ## Verfahren
-1. Füllen Sie das [Antragsformular](https://www.arbeitsagentur.de/datei/ba146148.pdf) für das Kindergeld (KG1) aus. Das Formular wird nach Details über Sie und Ihr Kind fragen.
+1. Füllen Sie das [Antragsformular](https://www.arbeitsagentur.de/en/child-allowance) für das Kindergeld (KG1) aus. Das Formular wird nach Details über Sie und Ihr Kind fragen.
 2. Fügen Sie Details Ihres Bankkontos hinzu, auf das die Zahlung überwiesen werden soll.
 3. Reichen Sie den Antrag bei Ihrer örtlichen Familienkasse ein. Wenn Sie nicht sicher sind, wo sich diese befindet, versuchen Sie, Ihre örtliche Agentur für Arbeit oder Ihre örtliche Stadtverwaltung (Rathaus) zu kontaktieren und fragen Sie, wo Sie den Antrag einreichen können.
 4. Wenn Sie für mehr als ein Kind beantragen, füllen Sie den Antrag auf Kindergeld-Zusatz für weitere Kinder aus (KG1K).

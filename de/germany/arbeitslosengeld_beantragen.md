@@ -18,7 +18,7 @@ Diese Leistung gilt in der Regel für Personen, die in Deutschland gearbeitet ha
 
 ## Verfahren
 
-1. Registrieren Sie sich als Jobsuchender bei der Bundesagentur für Arbeit entweder [online](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslos-melden) oder in einem örtlichen Jobcenter.
+1. Registrieren Sie sich als Jobsuchender bei der Bundesagentur für Arbeit entweder [online](https://www.arbeitsagentur.de/) oder in einem örtlichen Jobcenter.
 2. Nach der Registrierung erhalten Sie innerhalb von etwa 2-3 Wochen eine Bestätigung vom Jobcenter.
 3. Nach Erhalt der Bestätigung können Sie online Arbeitslosengeld beantragen auf dem [Online-Portal der Bundesagentur für Arbeit](https://www.arbeitsagentur.de/en/Welcome)
 4. Ihr Antrag wird überprüft und eine Genehmigung oder Ablehnung wird üblicherweise innerhalb von 4-6 Wochen verschickt.

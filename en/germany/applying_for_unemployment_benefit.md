@@ -18,7 +18,7 @@ This benefit is typically for people who have been working in Germany and have l
 
 ## Procedure
 
-1. Register as a job seeker with Bundesagentur für Arbeit (Federal Employment Agency) either [online](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslos-melden) or at a local job center.
+1. Register as a job seeker with Bundesagentur für Arbeit (Federal Employment Agency) either [online](https://www.arbeitsagentur.de/) or at a local job center.
 2. After registering, you should receive confirmation from the job center in about 2-3 weeks. 
 3. After getting confirmation, apply for unemployment benefit online at the [online portal of Federal Employment Agency](https://www.arbeitsagentur.de/en/Welcome)
 4. Your application will be reviewed and an approval or denial is typically sent within 4-6 weeks. 

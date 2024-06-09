@@ -17,7 +17,7 @@ Child Benefit, known as Kindergeld, is a monthly payment given by the German sta
 All parents or guardians who are residents or employees in Germany are entitled to receive this benefit for their children.
 
 ## Procedure
-1. Fill up [the application form](https://www.arbeitsagentur.de/datei/ba146148.pdf) for the Child Benefit(KG1). The form will ask for details about you and your child.
+1. Fill up [the application form](https://www.arbeitsagentur.de/en/child-allowance) for the Child Benefit(KG1). The form will ask for details about you and your child.
 2. Include details of your bank account where the payment will be transferred to.
 3. Submit the application to your local Family Benefits Office (Familienkasse). If you are unsure where this is located, try contacting your local Agentur für Arbeit or your local town administration (Rathaus) and ask them where you can file the application.
 4. If you are applying for more than one child, complete the Kindergeld Additional Child supplement application (KG1K).
