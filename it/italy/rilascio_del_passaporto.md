@@ -3,7 +3,7 @@ translationKey: italy-passport_issuance
 title: "Emissione del Passaporto"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Italia"]
+categories: ["Italy"]
 meta_title: "Emissione del Passaporto Italiano - Guida Passo-passo"
 description: "Una guida completa su come richiedere un passaporto italiano"
 draft: false

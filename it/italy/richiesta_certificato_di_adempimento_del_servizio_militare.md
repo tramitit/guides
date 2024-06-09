@@ -3,7 +3,7 @@ translationKey: italy-military_service_completion_certificate_request
 title: "Richiesta di certificato di completamento del servizio militare"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Italy", "Germany"]
+categories: ["Italy"]
 meta_title: "Richiesta di certificato di completamento del servizio militare per scopi genealogici e di cittadinanza"
 description: "Guida passo passo su come richiedere un certificato di completamento del servizio militare in Italia e in Germania."
 draft: false

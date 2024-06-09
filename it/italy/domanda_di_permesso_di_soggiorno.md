@@ -3,7 +3,7 @@ translationKey: italy-residence_permit_application
 title: "Domanda di Permesso di Soggiorno in Italia"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Italia"]
+categories: ["Italy"]
 meta_title: "Guida per Richiedere il Permesso di Soggiorno in Italia"
 description: "Guida passo dopo passo su come richiedere un permesso di soggiorno in Italia, comprensiva di procedura, documenti necessari e fornitori di servizi."
 draft: false

@@ -3,7 +3,7 @@ translationKey: spain-eu_resident_card_application
 title: "Solicitud de Tarjeta de Residencia de la UE"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["España"]
+categories: ["Spain"]
 meta_title: "Guía de Solicitud de Tarjeta de Residencia de la UE"
 description: "Una guía completa sobre cómo solicitar la Tarjeta de Residencia de la UE."
 draft: false

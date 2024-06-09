@@ -2,7 +2,7 @@
 title: "Child birth registration abroad"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Poland", "Germany"]
+categories: ["Poland"]
 meta_title: "Child' Birth Registration in Poland and Germany for those born abroad"
 description: "Detailed information on how to register your newborn's birth in Poland and Germany when they are born abroad."
 draft: false

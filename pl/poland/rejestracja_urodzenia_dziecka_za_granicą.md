@@ -3,7 +3,7 @@ translationKey: poland-child_birth_registration_abroad
 title: "Rejestracja urodzenia dziecka za granicą"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Poland", "Germany"]
+categories: ["Poland"]
 meta_title: "Rejestracja urodzenia dziecka w Polsce i Niemczech dla osób urodzonych za granicą"
 description: "Szczegółowe informacje na temat rejestracji urodzenia noworodka w Polsce i Niemczech, gdy zostali urodzeni za granicą."
 draft: false

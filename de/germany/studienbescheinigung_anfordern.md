@@ -3,7 +3,7 @@ translationKey: germany-requesting_a_certificate_of_enrollment
 title: "Anforderung eines Anmeldebescheinigung"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Education"]
+categories: ["Germany"]
 meta_title: "Wie man eine Anmeldebescheinigung beantragt"
 description: "Ein umfassender Leitfaden, wie man eine Anmeldebescheinigung beantragt, die als Nachweis dient, dass ein Student an einer Bildungseinrichtung eingeschrieben ist."
 draft: false

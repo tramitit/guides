@@ -3,7 +3,7 @@ translationKey: italy-tax_code_request
 title: "Richiesta Codice Fiscale in Italia"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Italia"]
+categories: ["Italy"]
 meta_title: "Come Richiedere un Codice Fiscale Italiano"
 description: "Guida passo-passo per richiedere un codice fiscale italiano, conosciuto anche come Codice Fiscale"
 draft: false

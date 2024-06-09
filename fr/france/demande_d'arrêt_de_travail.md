@@ -3,7 +3,7 @@ translationKey: france-sick_leave_application
 title: "Demande de congé maladie"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["France", "Switzerland"]
+categories: ["France"]
 meta_title: "Guide pour la Demande de Congé Maladie"
 description: "Guide détaillé sur la façon de demander un congé maladie en France et en Suisse."
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Issuance of a Birth Certificate"
-author: "John Doe"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Issuing Birth Certificate in Bulgaria: A Detailed Guide"

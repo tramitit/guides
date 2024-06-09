@@ -1,7 +1,7 @@
 ---
 translationKey: spain-nie_application
 title: "Solicitud de NIE"
-author: "Jane Doe"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Spain"]
 meta_title: "Cómo obtener tu NIE en España"

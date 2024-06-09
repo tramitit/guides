@@ -29,8 +29,8 @@ This guide is ideal for individuals living in the Czech Republic who wish to cha
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| VZP            |  [www.vzp.cz](www.vzp.cz)     |      90 days      |        Check website        |
-| OZP           |  [www.ozp.cz](www.ozp.cz)      |      90 days      |        Check website        |
+| VZP            |  [VZP](https://www.vzp.cz)     |      90 days      |        Check website        |
+| OZP           |  [OZP](https://www.ozp.cz)      |      90 days      |        Check website        |
 
 *Note: The table above is illustrative and actual timelines and costs may vary. Please check the insurance company's website for actual details.
 

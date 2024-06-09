@@ -1,6 +1,6 @@
 ---
 title: "Submitting a Tax Return in Czech Republic"
-author: "John Doe"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Czech Republic"]
 meta_title: "Guide for Submitting a Tax Return in Czech Republic"

@@ -2,7 +2,7 @@
 title: "Driver's License Exchange"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Austria", "Germany"]
+categories: ["Austria"]
 meta_title: ""
 description: "Details and procedures for exchanging an international driver's license in Austria and Germany"
 draft: false

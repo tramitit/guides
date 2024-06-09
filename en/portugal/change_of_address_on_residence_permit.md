@@ -33,7 +33,7 @@ Please note, all the documents need to be in Portuguese or translated to Portugu
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Immigration and Borders Service (SEF)     |  [SEF](www.sef.pt)       |      Varies      |        Free       |
+| Immigration and Borders Service (SEF)     |  [SEF](https://www.sef.pt/)       |      Varies      |        Free       |
 
 ## Additional details
 Remember to make the address change notification as soon as possible after you move. It helps to stay in compliance with the immigration law of Portugal. Be aware that failing to do so might lead to legal implications.

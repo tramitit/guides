@@ -3,7 +3,7 @@ translationKey: austria-drivers_license_exchange
 title: "Führerschein Umtausch"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Austria", "Germany"]
+categories: ["Austria"]
 meta_title: ""
 description: "Details und Verfahren zum Umtausch eines internationalen Führerscheins in Österreich und Deutschland"
 draft: false

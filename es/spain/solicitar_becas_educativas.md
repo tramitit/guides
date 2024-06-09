@@ -3,7 +3,7 @@ translationKey: spain-request_educational_scholarships
 title: "Solicitar Becas Educativas"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Education"]
+categories: ["Spain"]
 meta_title: "Guía para Solicitar Becas Educativas"
 description: "Una guía detallada sobre cómo navegar el proceso de solicitar becas educativas, basada en información disponible en línea."
 draft: false

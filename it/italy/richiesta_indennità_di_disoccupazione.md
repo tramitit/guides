@@ -3,7 +3,7 @@ translationKey: italy-unemployment_benefits_request
 title: "Richiesta di sussidio di disoccupazione"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Italia"]
+categories: ["Italy"]
 meta_title: "Richiesta di sussidio di disoccupazione in Italia"
 description: "Una guida dettagliata su come richiedere il sussidio di disoccupazione in Italia"
 draft: false

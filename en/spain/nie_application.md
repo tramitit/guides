@@ -1,6 +1,6 @@
 ---
 title: "NIE Application"
-author: "Jane Doe"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Spain"]
 meta_title: "How to get your NIE in Spain"

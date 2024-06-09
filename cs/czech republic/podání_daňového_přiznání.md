@@ -1,7 +1,7 @@
 ---
 translationKey: czech republic-submitting_a_tax_return
 title: "Podání daňového přiznání v České republice"
-author: "John Doe"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Czech Republic"]
 meta_title: "Průvodce podáním daňového přiznání v České republice"

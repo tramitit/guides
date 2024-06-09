@@ -2,7 +2,7 @@
 translationKey: france-application_for_personalized_autonomy_allowance_(apa)
 
 title: "Demande d'Allocation Personnalisée d'Autonomie (APA)"
-author: "JOHN DOE"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["France"]
 meta_title: "Comment demander l'Allocation Personnalisée d'Autonomie"

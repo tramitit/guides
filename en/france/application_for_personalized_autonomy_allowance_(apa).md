@@ -1,6 +1,6 @@
 ---
 title: "Application for Personalized Autonomy Allowance (APA)"
-author: "JOHN DOE"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["France"]
 meta_title: "How to Apply for Personalized Autonomy Allowance"
