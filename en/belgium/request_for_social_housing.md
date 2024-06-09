@@ -1,10 +1,8 @@
-Based on the available information, the social housing request process in the Netherlands that can be used as a guide is as follows:
-
 ---
 title: "Request for Social Housing in the Netherlands"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: "Housing, Netherlands"
+categories: ["Netherlands"]
 meta_title: ""
 description: "This is a guide on how to request social housing in the Netherlands."
 draft: false

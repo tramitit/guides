@@ -3,7 +3,7 @@ translationKey: belgium-request_for_social_housing
 title: "Aanvraag voor Sociale Huurwoningen in Nederland"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: "Housing, Netherlands"
+categories: ["Netherlands"]
 meta_title: ""
 description: "Dit is een gids over hoe je sociale huurwoningen kunt aanvragen in Nederland."
 draft: false
