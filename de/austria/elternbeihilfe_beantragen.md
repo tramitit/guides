@@ -3,7 +3,7 @@ translationKey: austria-parental_allowance_application
 title: "Elternzeit Antrag"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Österreich"]
+categories: ["Austria"]
 meta_title: ""
 description: "Dies ist die Meta-Beschreibung"
 draft: false

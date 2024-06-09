@@ -4,7 +4,7 @@ translationKey: belgium-request_for_family_reunification
 title: "Demande de regroupement familial"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Belgique"]
+categories: ["Belgium"]
 meta_title: ""
 description: "Ceci est un guide sur comment demander un regroupement familial."
 draft: false

@@ -3,7 +3,7 @@ translationKey: czech republic-registry_office_-_birth_of_a_child
 title: "Matriční úřad - narození dítěte"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Česká republika"]
+categories: ["Czech Republic"]
 meta_title: ""
 description: "Průvodce, jak zapsat narození vašeho dítěte v České republice. Tento proces je klíčový pro zajištění občanství vašeho dítěte a sociálních výhod v budoucnosti."
 draft: false

@@ -3,7 +3,7 @@ translationKey: poland-notification_of_change_in_contact_details
 title: "Powiadomienie o zmianie danych kontaktowych"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Miscellaneous"]
+categories: ["Poland"]
 meta_title: "Powiadomienie o zmianie danych kontaktowych: Kompleksowy przewodnik"
 description: "Ten kompleksowy przewodnik szczegółowo omawia, jak poinformować podmioty o zmianie danych kontaktowych, takich jak numer telefonu, adres e-mail czy adres." 
 draft: false

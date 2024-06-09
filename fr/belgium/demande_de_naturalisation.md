@@ -3,7 +3,7 @@ translationKey: belgium-request_for_naturalization
 title: "Demande de naturalisation"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Belgique"]
+categories: ["Belgium"]
 meta_title: ""
 description: "Il s'agit d'un guide étape par étape pour demander la naturalisation en Belgique, provenant de témoignages fiables de première main."
 draft: false

@@ -3,7 +3,7 @@ translationKey: hungary-sick_pay_application
 title: "Betegszabadság kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Betegszabadság"]
+categories: ["Hungary"]
 meta_title: "Hogyan lehet jelentkezni betegszabadságra"
 description: "Lépésről lépésre eljárás, hogyan lehet jelentkezni betegszabadságra"
 draft: false

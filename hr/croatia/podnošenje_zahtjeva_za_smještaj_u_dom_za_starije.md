@@ -3,7 +3,7 @@ translationKey: croatia-applying_for_accommodation_in_an_elderly_home
 title: "Prijava za smještaj u dom za starije osobe"
 author: "Ricardo Batista"
 date: "2024-06-08"
-categories: ["Smjernice"]
+categories: ["Croatia"]
 meta_title: ""
 description: "Ovo je korak-po-korak vodič o tome kako se prijaviti za smještaj u domu za starije osobe"
 draft: false

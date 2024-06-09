@@ -4,7 +4,7 @@ translationKey: romania-citizenship_confirmation
 title: "Confirmarea cetățeniei"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Romania", "Citizenship"]
+categories: ["Romania"]
 meta_title: "Ghid pentru confirmarea cetățeniei"
 description: "Un ghid pas cu pas despre cum să vă confirmați statutul de cetățean."
 draft: false

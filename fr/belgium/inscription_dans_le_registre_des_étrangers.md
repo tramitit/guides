@@ -3,7 +3,7 @@ translationKey: belgium-registration_in_the_foreigners_registers
 title: "Inscription dans les registres des étrangers"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Belgique"]
+categories: ["Belgium"]
 meta_title: "Inscription dans les Registres des Étrangers - Un Guide Concis"
 description: "Cet article est un guide concis sur comment s'inscrire dans les registres des étrangers de différents pays."
 draft: false

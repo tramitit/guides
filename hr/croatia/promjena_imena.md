@@ -3,7 +3,7 @@ translationKey: croatia-change_of_name
 title: "Promjena Imena"
 author: "Ricardo Batista"
 date: "2024-06-08"
-categories: ["Promjena Osobnih Podataka"]
+categories: ["Croatia"]
 meta_title: "Vodič Korak po Korak za Promjenu Imena"
 description: "Detaljan vodič korak po korak koji će vas provesti kroz proces kako promijeniti ime ili izmijeniti detalje koji predstavljaju vaš identitet."
 draft: false

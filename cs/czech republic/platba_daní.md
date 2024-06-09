@@ -3,7 +3,7 @@ translationKey: czech republic-tax_payment
 title: "Daňové platby v České republice"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Česká republika"]
+categories: ["Czech Republic"]
 meta_title: "Průvodce daňovými platbami v České republice"
 description: "Krok za krokem průvodce postupem placení daní v České republice."
 draft: false

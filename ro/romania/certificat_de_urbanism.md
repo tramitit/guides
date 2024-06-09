@@ -3,7 +3,7 @@ translationKey: romania-urbanism_certificate
 title: "Certificat de Urbanism: Ghid pas cu pas"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Urban Planning"]
+categories: ["Romania"]
 meta_title: ""
 description: "Un ghid cuprinzător care detaliază modul de obținere a unui certificat de urbanism."
 draft: false

@@ -4,7 +4,7 @@ translationKey: poland-registering_the_residence_of_a_foreigner
 title: "Rejestracja zamieszkania obcokrajowca w Polsce"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Polska"]
+categories: ["Poland"]
 meta_title: "Rejestracja zamieszkania obcokrajowca w Polsce"
 description: "Szczegółowy przewodnik dotyczący rejestracji miejsca zamieszkania obcokrajowca w Polsce"
 draft: false

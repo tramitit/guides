@@ -3,7 +3,7 @@ translationKey: croatia-issuance_of_residence_permit_for_foreigners
 title: "Izdavanje boravišne dozvole za strance"
 author: "Ricardo Batista"
 date: "2024-06-08"
-categories: ["Legal"]
+categories: ["Croatia"]
 meta_title: "Vodič za Izdavanje boravišne dozvole za strance"
 description: "Detaljan vodič o tome kako dobiti boravišnu dozvolu za strance u različitim zemljama."
 draft: false

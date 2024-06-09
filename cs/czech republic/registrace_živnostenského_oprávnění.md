@@ -3,7 +3,7 @@ translationKey: czech republic-registration_of_a_trade_license
 title: "Registrace živnostenského oprávnění"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Česká republika"]
+categories: ["Czech Republic"]
 meta_title: "Registrace živnostenského oprávnění v České republice"
 description: "Průvodce postupem a požadovanými dokumenty pro registraci živnostenského oprávnění v České republice"
 draft: false

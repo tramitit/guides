@@ -3,7 +3,7 @@ translationKey: romania-work_record_book
 title: "Carte de Muncă"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Documentare"]
+categories: ["Romania"]
 meta_title: ""
 description: "Un ghid cuprinzător despre cum să mențineți și să gestionați o Carte de Muncă."
 draft: false

@@ -3,7 +3,7 @@ translationKey: czech republic-application_for_disability_pension
 title: "Žádost o invalidní důchod"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Česká republika"]
+categories: ["Czech Republic"]
 meta_title: ""
 description: "Tento průvodce popisuje, jak podat žádost o invalidní důchod, uvádí výhody, proces, požadované dokumenty a poskytovatele služeb."
 draft: false

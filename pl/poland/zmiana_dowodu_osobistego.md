@@ -3,7 +3,7 @@ translationKey: poland-change_of_id_card
 title: "Zmiana dowodu osobistego"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Legal"]
+categories: ["Poland"]
 meta_title: "Jak zmienić swój dowód osobisty"
 description: "Ten przewodnik zawiera szczegółową procedurę zmiany istniejącego dowodu osobistego."
 draft: false

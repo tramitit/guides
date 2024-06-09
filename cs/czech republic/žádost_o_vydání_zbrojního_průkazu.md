@@ -3,7 +3,7 @@ translationKey: czech republic-application_for_a_firearms_licence
 title: "Žádost o zbrojní průkaz v České republice"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Česká republika"]
+categories: ["Czech Republic"]
 meta_title: "Jak získat zbrojní průkaz v České republice"
 description: "Podrobný průvodce procesem získání zbrojního průkazu v České republice"
 draft: false

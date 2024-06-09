@@ -3,7 +3,7 @@ translationKey: slovakia-recognition_of_qualifications_obtained_abroad
 title: "Uznávanie kvalifikácií získaných v zahraničí"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Slovakia", "International Education"]
+categories: ["Slovakia"]
 meta_title: "Sprievodca uznávaním kvalifikácií získaných v zahraničí"
 description: "Krok za krokom sprievodca získaním uznanie vašich medzinárodných kvalifikácií v zahraničí."
 draft: false

@@ -3,7 +3,7 @@ translationKey: belgium-request_for_visa
 title: "Aanvraag voor visum"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["België"]
+categories: ["Belgium"]
 meta_title: "Aanvraag voor Belgisch Visum: Een uitgebreide gids"
 description: "Deze gids geeft een overzicht van de procedure voor de aanvraag van een Belgisch visum"
 draft: false

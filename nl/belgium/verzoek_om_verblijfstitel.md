@@ -3,7 +3,7 @@ translationKey: belgium-request_for_residence_permit
 title: "Aanvraag voor verblijfsvergunning"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["België"]
+categories: ["Belgium"]
 meta_title: "Gedetailleerde informatie over hoe u een verblijfsvergunning kunt aanvragen"
 description: "Een uitgebreide gids voor buitenlanders die werk en verblijf zoeken in België"
 draft: false

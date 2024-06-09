@@ -3,7 +3,7 @@ translationKey: slovakia-application_for_residence_with_work_permit
 title: "Žiadosť o trvalý pobyt s pracovným povolením na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Slovensko"]
+categories: ["Slovakia"]
 meta_title: ""
 description: "Krok za krokom sprievodca pri žiadosti o trvalý pobyt s pracovným povolením na Slovensku"
 draft: false

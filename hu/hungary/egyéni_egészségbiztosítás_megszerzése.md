@@ -3,7 +3,7 @@ translationKey: hungary-obtaining_individual_health_insurance
 title: "Egyéni egészségbiztosítás megszerzése Magyarországon"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Magyarország"]
+categories: ["Hungary"]
 meta_title: "Hogyan szerezhetünk egyéni egészségbiztosítást Magyarországon"
 description: "Egy átfogó útmutató az egészségbiztosítás beszerzéséről egyénként Magyarországon."
 draft: false

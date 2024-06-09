@@ -3,7 +3,7 @@ translationKey: belgium-request_for_student_discount_public_transport
 title: "Demande de réduction étudiante transport en commun"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Belgique"]
+categories: ["Belgium"]
 meta_title: ""
 description: "Il s'agit de la description meta"
 draft: false

@@ -3,7 +3,7 @@ translationKey: slovakia-certificate_of_slovak_ancestry
 title: "Osvedčenie o slovenskom pôvode"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Slovensko"]
+categories: ["Slovakia"]
 meta_title: ""
 description: "Sprievodca získaním Osvedčenia o slovenskom pôvode"
 draft: false

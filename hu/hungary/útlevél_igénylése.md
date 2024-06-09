@@ -3,7 +3,7 @@ translationKey: hungary-passport_application
 title: "Útlevél kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Magyarország"]
+categories: ["Hungary"]
 meta_title: "Lépésről lépésre útmutató a magyar útlevél igényléshez"
 description: "Egy átfogó útmutató részletezve, hogyan lehet magyar útlevélért folyamodni."
 draft: false

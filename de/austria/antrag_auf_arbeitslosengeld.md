@@ -3,7 +3,7 @@ translationKey: austria-unemployment_benefit_application
 title: "Arbeitslosengeld-Antrag: Österreich"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Österreich"]
+categories: ["Austria"]
 meta_title: ""
 description: "Schritt-für-Schritt-Anleitung zur Beantragung von Arbeitslosengeld in Österreich."
 draft: false

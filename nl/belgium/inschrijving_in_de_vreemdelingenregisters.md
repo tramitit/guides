@@ -3,7 +3,7 @@ translationKey: belgium-registration_in_the_foreigners_registers
 title: "Inschrijving in het vreemdelingenregister"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["België"]
+categories: ["Belgium"]
 meta_title: "Inschrijving in het Vreemdelingenregister - Een beknopte handleiding"
 description: "Dit artikel is een beknopte handleiding over hoe je je kunt inschrijven in de vreemdelingenregisters voor verschillende landen."
 draft: false

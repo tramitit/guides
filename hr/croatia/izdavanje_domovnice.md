@@ -3,7 +3,7 @@ translationKey: croatia-issuance_of_citizenship_certificate
 title: "Izdavanje Potvrde o Hrvatskom Državljanstvu"
 author: "Ricardo Batista"
 date: "2024-06-08"
-categories: ["Hrvatska"]
+categories: ["Croatia"]
 meta_title: "Vodič za Izdavanje Potvrde o Hrvatskom Državljanstvu"
 description: "Detaljni koraci za dobivanje potvrde o hrvatskom državljanstvu."
 draft: false

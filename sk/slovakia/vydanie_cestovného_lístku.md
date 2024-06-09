@@ -3,7 +3,7 @@ translationKey: slovakia-issuance_of_travel_ticket
 title: "Vydávanie cestovných lístkov"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Cestovanie"]
+categories: ["Slovakia"]
 meta_title: ""
 description: "Tento sprievodca zhrňuje postup a kľúčové body, ktoré je potrebné mať na pamäti pri vydávaní cestovných lístkov."
 draft: false

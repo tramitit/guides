@@ -3,7 +3,7 @@ translationKey: romania-permanent_residency_application
 title: "Cerere de Rezidență Permanentă"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Imigrație"]
+categories: ["Romania"]
 meta_title: ""
 description: "Acest ghid îți va ilumina procesul de aplicare pentru Rezidența Permanentă"
 draft: false

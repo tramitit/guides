@@ -3,7 +3,7 @@ translationKey: germany-application_for_a_foreign_tax_identification_number
 title: "Antrag auf eine ausländische Steueridentifikationsnummer"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Internationale Finanzberatung"]
+categories: ["Germany"]
 meta_title: "Leitfaden zur Beantragung einer ausländischen Steueridentifikationsnummer (TIN)"
 description: "Schritt-für-Schritt-Anleitung zur Beantragung einer ausländischen TIN, wer sie benötigt, das Verfahren, das zu befolgen ist, und die erforderlichen Dokumente."
 draft: false

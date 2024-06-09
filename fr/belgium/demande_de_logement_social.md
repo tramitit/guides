@@ -3,7 +3,7 @@ translationKey: belgium-request_for_social_housing
 title: "Demande de logement social aux Pays-Bas"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Pays-Bas"]
+categories: ["Netherlands"]
 meta_title: ""
 description: "Ceci est un guide sur la façon de demander un logement social aux Pays-Bas."
 draft: false

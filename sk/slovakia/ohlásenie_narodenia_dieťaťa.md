@@ -3,7 +3,7 @@ translationKey: slovakia-notification_of_childs_birth
 title: "Oznámenie narodenia dieťaťa"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Výchova"]
+categories: ["Slovakia"]
 meta_title: ""
 description: "Toto je komplexný sprievodca o tom, ako oznámiť narodenie dieťaťa, s užitočnými podrobnosťami pre miestnych Slovákov aj pre imigrantov."
 draft: false

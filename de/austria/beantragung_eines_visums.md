@@ -3,7 +3,7 @@ translationKey: austria-visa_application
 title: "Visumbeantragung"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Österreich"]
+categories: ["Austria"]
 meta_title: ""
 description: "Dies ist eine Meta-Beschreibung"
 draft: false

@@ -3,7 +3,7 @@ translationKey: czech republic-registry_office_-_death
 title: "Matriční úřad - úmrtí"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Česká republika"]
+categories: ["Czech Republic"]
 description: "Toto je průvodce, jak nahlásit úmrtí na matričním úřadě v České republice - od přípravy dokumentů po samotný proces procedury."
 draft: false
 ---

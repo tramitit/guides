@@ -3,7 +3,7 @@ translationKey: belgium-request_for_marriage_certificate
 title: "Aanvraag voor huwelijksakte"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["België"]
+categories: ["Belgium"]
 meta_title: "Hoe een huwelijksakte aanvragen in België"
 description: "Gedetailleerde stappen over hoe een huwelijksakte aan te vragen in België"
 draft: false

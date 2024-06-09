@@ -3,7 +3,7 @@ translationKey: slovakia-cancellation_of_permanent_residence
 title: "Zrušenie trvalého pobytu"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Emigrácia"]
+categories: ["Slovakia"]
 meta_title: "Ako zrušiť váš trvalý pobyt"
 description: "Krok za krokom sprievodca, ako zrušiť váš trvalý pobyt"
 draft: false

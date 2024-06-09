@@ -3,7 +3,7 @@ translationKey: czech republic-application_for_permanent_residence_permit
 title: "Žádost o trvalý pobytový status v České republice"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Česká republika", "Přestěhování"]
+categories: ["Czech Republic"]
 meta_title: "Pokyny pro žádost o trvalý pobyt v České republice"
 description: "Postupné postupy pro podání žádosti o trvalý pobyt v České republice."
 draft: false

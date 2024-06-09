@@ -3,7 +3,7 @@ translationKey: poland-change_of_first_name_notification
 title: "Powiadomienie o zmianie imienia"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Legal Procedures"]
+categories: ["Poland"]
 meta_title: "Procedura powiadomienia o zmianie imienia"
 description: "Krok po kroku przewodnik po procesie powiadomienia o zmianie imienia"
 draft: false

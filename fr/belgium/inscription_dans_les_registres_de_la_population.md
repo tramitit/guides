@@ -3,7 +3,7 @@ translationKey: belgium-registration_in_the_population_registers
 title: "Inscription dans les registres de population"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Belgique"]
+categories: ["Belgium"]
 meta_title: ""
 description: "Un guide pour s'inscrire dans les registres de population en Belgique"
 draft: false

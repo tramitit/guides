@@ -4,7 +4,7 @@ translationKey: hungary-student_loan_application
 title: "Diákhitel igénylés"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Oktatási Pénzügyek"]
+categories: ["Hungary"]
 meta_title: "Részletes útmutató a diákhitel igényléshez"
 description: "Átfogó lépésről lépésre útmutató a diákoknak a hitel igényléséhez"
 draft: false

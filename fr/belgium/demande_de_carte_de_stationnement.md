@@ -3,7 +3,7 @@ translationKey: belgium-request_for_parking_card
 title: "Demande de carte de stationnement"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Belgique"]
+categories: ["Belgium"]
 meta_title: ""
 description: "Guide étape par étape sur la manière de demander une carte de stationnement."
 draft: false

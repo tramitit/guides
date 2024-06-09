@@ -3,7 +3,7 @@ translationKey: czech republic-application_for_unemployment_benefit
 title: "Žádost o podporu v nezaměstnanosti"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Česká republika"]
+categories: ["Czech Republic"]
 meta_title: "Jak požádat o podporu v nezaměstnanosti v České republice"
 description: "Krok za krokem průvodce, jak požádat o podporu v nezaměstnanosti v České republice"
 draft: false

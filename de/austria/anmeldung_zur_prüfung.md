@@ -3,7 +3,7 @@ translationKey: austria-exam_registration
 title: "Prüfungsanmeldung"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Bildung"]
+categories: ["Austria"]
 meta_title: "Anleitung zur Prüfungsanmeldung"
 description: "Dies ist ein umfassender Leitfaden zur Prüfungsanmeldung"
 draft: false

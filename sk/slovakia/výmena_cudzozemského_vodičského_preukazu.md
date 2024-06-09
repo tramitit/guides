@@ -3,7 +3,7 @@ translationKey: slovakia-exchange_of_foreign_drivers_license
 title: "Výmena zahraničného vodičského preukazu"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Driving Abroad"]
+categories: ["Slovakia"]
 meta_title: "Sprievodca výmenou zahraničného vodičského preukazu"
 description: "Tento sprievodca poskytuje podrobný postup krok za krokom, ako vymeniť zahraničný vodičský preukaz."
 draft: false

@@ -3,7 +3,7 @@ translationKey: czech republic-application_for_change_of_data_in_the_id_card
 title: "Žádost o změnu údajů na občanském průkazu"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Česká republika"]
+categories: ["Czech Republic"]
 meta_title: ""
 description: "Postupný průvodce pro žádost o změnu údajů na občanském průkazu"
 draft: false

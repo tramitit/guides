@@ -3,7 +3,7 @@ translationKey: belgium-request_for_travel_authorization
 title: "Demande d'autorisation de voyage"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Belgique"]
+categories: ["Belgium"]
 meta_title: ""
 description: "Ce guide complet étape par étape vous informe sur la manière de demander une autorisation de voyage. Idéal pour les voyageurs planifiant un voyage en Europe ou dans tout autre endroit nécessitant une autorisation de voyage."
 draft: false

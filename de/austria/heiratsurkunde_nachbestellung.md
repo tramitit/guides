@@ -3,7 +3,7 @@ translationKey: austria-reorder_marriage_certificate
 title: "Heiratsurkunde neu bestellen"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Dokumentendienste"]
+categories: ["Austria"]
 meta_title: ""
 description: "Detaillierte Anleitung zum Neu bestellen einer Heiratsurkunde."
 draft: false

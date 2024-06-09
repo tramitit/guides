@@ -3,7 +3,7 @@ translationKey: croatia-documentation_for_university_enrollment
 title: "Dokumentacija za upis na sveučilište"
 author: "Ricardo Batista"
 date: "2024-06-08"
-categories: ["Croatia", "Poland", "India"]
+categories: ["Croatia", "Poland"]
 meta_title: "Dokumentacija za upis na sveučilište"
 description: "Detaljno uputstvo o potrebnoj dokumentaciji za upis na sveučilišta u inozemstvu"
 draft: false
@@ -11,10 +11,10 @@ draft: false
 
 ## Opis
 ### Što je to?
-Vodič za pripremu dokumentacije za upis na sveučilište. To uključuje prikupljanje potrebne dokumentacije i zahtjeva za međunarodne studente koji žele upisati sveučilišta u Hrvatskoj, Poljskoj i Indiji.
+Vodič za pripremu dokumentacije za upis na sveučilište. To uključuje prikupljanje potrebne dokumentacije i zahtjeva za međunarodne studente koji žele upisati sveučilišta u Hrvatskoj i Poljskoj.
 
 ### Tko ga treba?
-Međunarodni studenti, posebno oni koji planiraju studirati preddiplomske ili diplomske programe u Poljskoj, Hrvatskoj i Indiji.
+Međunarodni studenti, posebno oni koji planiraju studirati preddiplomske ili diplomske programe u Poljskoj i Hrvatskoj.
 
 ## Postupak
 1. Istražite određeni studij i sveučilište na koje želite aplicirati. Provjerite njihove zahtjeve za međunarodne aplikante.
@@ -43,6 +43,5 @@ Međunarodni studenti, posebno oni koji planiraju studirati preddiplomske ili di
 ## Dodatne informacije
 - Originalni dokumenti mogu biti potrebno "legalizirati ili apostilizirati". To ovisi o tome je li zemlja potpisnica Haške konvencije ili ne.
 - Za Poljsku, neki studijski programi zahtijevaju specifične prijemne testove, osim dokaza o znanju jezika. Provjerite specifične programske stranice na web stranici sveučilišta.
-- Za Indiju, međunarodnim studentima se savjetuje da se prijave preko indijskih misija u svojoj zemlji.
 - Provjerite rok prijave za svako sveučilište kako biste izbjegli paniku u zadnji trenutak.
 - Provjerite web stranicu veleposlanstva ili konzulata specifične zemlje za točne informacije o procesima dobivanja studentske vize.

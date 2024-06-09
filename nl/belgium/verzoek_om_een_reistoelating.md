@@ -3,7 +3,7 @@ translationKey: belgium-request_for_travel_authorization
 title: "Aanvraag voor reisautorisatie"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["België"]
+categories: ["Belgium"]
 meta_title: ""
 description: "Deze uitgebreide stapsgewijze handleiding informeert u over hoe u een reisautorisatie kunt aanvragen. Ideaal voor reizigers die van plan zijn een reis naar Europa of een andere plaats te maken die reisautorisatie vereist."
 draft: false

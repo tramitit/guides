@@ -3,7 +3,7 @@ translationKey: romania-economic_activity_authorization
 title: "Autorizare Activitate Economică"
 author: "Numele tău"
 date: "Data curentă"
-categories: ["Ghid"]
+categories: ["Romania"]
 meta_title: "Ghid pas cu pas pentru Autorizarea Activității Economice"
 description: "Un ghid cuprinzător care detaliază procesul, actele necesare și furnizorii pentru procesarea Autorizării Activității Economice."
 draft: false

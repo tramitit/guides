@@ -3,7 +3,7 @@ translationKey: hungary-university_enrollment_management
 title: "Egyetemi felvételi kezelés"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Oktatás"]
+categories: ["Hungary"]
 meta_title: "Útmutató az egyetemi felvételi kezeléshez"
 description: "Egy átfogó útmutató arról, hogyan kezeljük az egyetemi felvételi folyamatot."
 draft: false
