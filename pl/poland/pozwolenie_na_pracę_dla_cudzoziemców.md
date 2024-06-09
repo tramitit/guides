@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-work_permit_for_foreigners'
+translationKey: poland-work_permit_for_foreigners
 title: "Zezwolenie na pracę dla obcokrajowców w Polsce"
 author: "Ricardo Batista"
 date: "2024-06-07"

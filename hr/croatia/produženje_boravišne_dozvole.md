@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-extension_of_residence_permit'
+translationKey: croatia-extension_of_residence_permit
 title: "Produženje boravišne dozvole"
 author: "Ricardo Batista"
 date: "2024-06-08"

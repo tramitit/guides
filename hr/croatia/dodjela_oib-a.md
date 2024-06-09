@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-assignment_of_personal_identification_number_(oib)'
+translationKey: croatia-assignment_of_personal_identification_number_(oib)
 title: "Dodjela Osobnog Identifikacijskog Broja (OIB)"
 author: "Ricardo Batista"
 date: "2024-06-08"

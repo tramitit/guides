@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_criminal_record_extract'
+translationKey: belgium-request_for_criminal_record_extract
 title: "Demande d'extrait de casier judiciaire"
 author: "Ricardo Batista"
 date: "2024-06-07"

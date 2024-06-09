@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-health_ticket_exemption_request'
+translationKey: italy-health_ticket_exemption_request
 title: "Richiesta di Esenzione dal Ticket Sanitario"
 author: "Ricardo Batista"
 date: "2024-06-07"

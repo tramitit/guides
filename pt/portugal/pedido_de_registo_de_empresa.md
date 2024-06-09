@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_business_registration'
+translationKey: portugal-request_for_business_registration
 title: "Pedido de Registo Comercial em Portugal"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_permanent_residence_permit'
+translationKey: czech republic-application_for_permanent_residence_permit
 title: "Žádost o trvalý pobytový status v České republice"
 author: "Ricardo Batista"
 date: "2024-06-07"

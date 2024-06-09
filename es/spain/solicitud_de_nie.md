@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-nie_application'
+translationKey: spain-nie_application
 title: "Solicitud de NIE"
 author: "Jane Doe"
 date: "2024-06-07"

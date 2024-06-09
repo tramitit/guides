@@ -6,7 +6,7 @@ categories: ["Bulgaria"]
 meta_title: "Getting a Driver's License in Bulgaria"
 description: "A comprehensive guide on how to obtain a driver's license in Bulgaria"
 draft: false
-translationKey: "bulgaria-issuance_of_a_driver's_license"
+translationKey: "bulgaria-issuance_of_a_drivers_license"
 ---
 
 ## Description

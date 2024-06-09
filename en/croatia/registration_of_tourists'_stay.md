@@ -6,7 +6,7 @@ categories: ["Croatia"]
 meta_title: ""
 description: "This is a comprehensive guide on how tourists can safely and legally register their stay while visiting Croatia."
 draft: false
-translationKey: "croatia-registration_of_tourists'_stay"
+translationKey: "croatia-registration_of_tourists_stay"
 ---
 
 ## Description

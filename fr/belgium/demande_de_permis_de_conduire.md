@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_a_driving_license'
+translationKey: belgium-request_for_a_driving_license
 title: "Demande de permis de conduire en Belgique"
 author: "Ricardo Batista"
 date: "2024-06-07"

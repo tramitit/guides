@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-university_registration'
+translationKey: austria-university_registration
 title: "Universitätsanmeldung in Österreich"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-information_from_the_resident_registration_database'
+translationKey: germany-information_from_the_resident_registration_database
 title: "Informationen aus dem Melderegister"
 author: "Ricardo Batista"
 date: "2024-06-07"

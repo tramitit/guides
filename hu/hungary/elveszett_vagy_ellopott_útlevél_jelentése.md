@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-report_of_lost_or_stolen_passport'
+translationKey: hungary-report_of_lost_or_stolen_passport
 title: "Elveszett vagy ellopett útlevél jelentése"
 author: "Ricardo Batista"
 date: "2024-06-07"

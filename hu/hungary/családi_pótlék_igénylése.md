@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-family_allowance_application'
+translationKey: hungary-family_allowance_application
 title: "Családi pótlék igénylés"
 author: "Ricardo Batista"
 date: "2024-06-07"

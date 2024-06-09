@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-paternity_leave_application'
+translationKey: spain-paternity_leave_application
 title: "Solicitud de Licencia de Paternidad"
 author: "Ricardo Batista"
 date: "2024-06-07"

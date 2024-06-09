@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-registry_office_-_birth_of_a_child'
+translationKey: czech republic-registry_office_-_birth_of_a_child
 title: "Matriční úřad - narození dítěte"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-birth_declaration'
+translationKey: france-birth_declaration
 title: "Déclaration de naissance en France"
 author: "Ricardo Batista"
 date: "2024-06-07"

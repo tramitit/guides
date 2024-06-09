@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_disability_pension'
+translationKey: czech republic-application_for_disability_pension
 title: "Žádost o invalidní důchod"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-change_of_family_name'
+translationKey: hungary-change_of_family_name
 title: "Családnév Változtatás"
 author: "Ricardo Batista"
 date: "2024-06-07"

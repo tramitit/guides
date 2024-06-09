@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-social_housing_assistance_application'
+translationKey: france-social_housing_assistance_application
 title: "Demande d'aide au logement social"
 author: "Ricardo Batista"
 date: "2022-11-02"

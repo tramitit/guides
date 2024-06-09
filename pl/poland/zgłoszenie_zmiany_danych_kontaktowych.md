@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-notification_of_change_in_contact_details'
+translationKey: poland-notification_of_change_in_contact_details
 title: "Powiadomienie o zmianie danych kontaktowych"
 author: "Ricardo Batista"
 date: "2024-06-07"

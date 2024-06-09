@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-urbanism_certificate'
+translationKey: romania-urbanism_certificate
 title: "Certificat de Urbanism: Ghid pas cu pas"
 author: "Ricardo Batista"
 date: "2024-06-07"

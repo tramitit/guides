@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-request_for_death_certificates'
+translationKey: hungary-request_for_death_certificates
 title: "Kérés halálozási okiratokért"
 author: "Ricardo Batista"
 date: "2024-06-07"

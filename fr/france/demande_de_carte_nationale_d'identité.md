@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-national_identity_card_application'
+translationKey: france-national_identity_card_application
 title: "Demande de carte d'identité nationale"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_death_certificate'
+translationKey: portugal-request_for_death_certificate
 title: "Pedido de Certidão de Óbito"
 author: "Ricardo Batista"
 date: "2024-06-07"

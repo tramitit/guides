@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-entry_into_the_birth_register'
+translationKey: croatia-entry_into_the_birth_register
 title: "Upis u rodni registar u Hrvatskoj"
 author: "Ricardo Batista"
 date: "2024-06-08"

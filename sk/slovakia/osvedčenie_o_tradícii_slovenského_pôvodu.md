@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-certificate_of_slovak_ancestry'
+translationKey: slovakia-certificate_of_slovak_ancestry
 title: "Osvedčenie o slovenskom pôvode"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-building_permit'
+translationKey: romania-building_permit
 title: "Autorizație de construcție în România"
 author: "Ricardo Batista"
 date: "2024-06-07"

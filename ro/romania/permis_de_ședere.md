@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-residence_permit'
+translationKey: romania-residence_permit
 title: "Permis de ședere"
 author: "Ricardo Batista"
 date: "2024-06-07"

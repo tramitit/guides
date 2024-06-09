@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-application_for_residence_with_work_permit'
+translationKey: slovakia-application_for_residence_with_work_permit
 title: "Žiadosť o trvalý pobyt s pracovným povolením na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"

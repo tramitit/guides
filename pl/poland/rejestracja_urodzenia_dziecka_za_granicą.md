@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-child_birth_registration_abroad'
+translationKey: poland-child_birth_registration_abroad
 title: "Rejestracja urodzenia dziecka za granicą"
 author: "Ricardo Batista"
 date: "2024-06-07"

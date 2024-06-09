@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-unemployment_return-to-work_assistance_(are)_application'
+translationKey: france-unemployment_return-to-work_assistance_(are)_application
 title: "Demande d'aide au retour au travail (ARE) pour le chômage"
 author: "Ricardo Batista"
 date: "2024-06-07"

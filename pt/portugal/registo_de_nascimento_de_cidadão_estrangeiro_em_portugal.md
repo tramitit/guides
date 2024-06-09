@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-registration_of_birth_of_foreign_citizen_in_portugal'
+translationKey: portugal-registration_of_birth_of_foreign_citizen_in_portugal
 title: "Registo de Nascimento de Cidadão Estrangeiro em Portugal"
 author: "Ricardo Batista"
 date: "2024-06-07"

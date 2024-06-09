@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-change_of_address_on_citizen_card'
+translationKey: portugal-change_of_address_on_citizen_card
 title: "Alteração de Endereço no Cartão de Cidadão"
 author: "Ricardo Batista"
 date: "2024-06-07"

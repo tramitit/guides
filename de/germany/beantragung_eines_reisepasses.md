@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-application_for_a_passport'
+translationKey: germany-application_for_a_passport
 title: "Antrag auf einen deutschen Reisepass"
 author: "Ricardo Batista"
 date: "2024-06-07"

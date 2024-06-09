@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-child_care_allowance_application'
+translationKey: austria-child_care_allowance_application
 title: "Kinderbetreuungsgeld Antragsstellung"
 author: "Ricardo Batista"
 date: "2024-06-07"

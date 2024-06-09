@@ -1,5 +1,5 @@
 --- 
-translationKey: 'hungary-residence_permit_application'
+translationKey: hungary-residence_permit_application
 title: "Tartózkodási engedély kérelme" 
 author: "Ricardo Batista" 
 date: "2024-06-07" 

@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-temporary_residence_registration'
+translationKey: croatia-temporary_residence_registration
 title: "Privremena registracija boravka"
 author: "Ricardo Batista"
 date: "2024-06-07"

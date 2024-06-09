@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-request_for_refugee_status'
+translationKey: hungary-request_for_refugee_status
 
 title: "Menekültstátusz iránti kérelem"
 author: "Ricardo Batista"

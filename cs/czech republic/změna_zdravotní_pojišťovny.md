@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-change_of_health_insurance_company'
+translationKey: czech republic-change_of_health_insurance_company
 title: "Změna zdravotní pojišťovny v České republice"
 author: "Ricardo Batista"
 date: "2024-06-07"

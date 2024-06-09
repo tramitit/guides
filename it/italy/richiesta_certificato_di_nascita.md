@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-birth_certificate_request'
+translationKey: italy-birth_certificate_request
 
 title: "Richiesta di Certificato di Nascita (Italia)"
 author: "Ricardo Batista"

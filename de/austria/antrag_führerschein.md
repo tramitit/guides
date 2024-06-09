@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-drivers_license_application'
+translationKey: austria-drivers_license_application
 title: "Fahrerlaubnisbeantragung"
 author: "Ricardo Batista"
 date: "2024-06-07"

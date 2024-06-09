@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-passport_application'
+translationKey: spain-passport_application
 title: "Solicitud de un Pasaporte Español"
 author: "Ricardo Batista"
 date: "2024-06-07"

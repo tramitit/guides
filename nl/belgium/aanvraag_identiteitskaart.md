@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_identity_card'
+translationKey: belgium-request_for_identity_card
 title: "Aanvraag voor identiteitskaart"
 author: "Ricardo Batista"
 date: "2024-06-07"

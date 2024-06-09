@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-apostille_application'
+translationKey: austria-apostille_application
 title: "Apostille Antrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

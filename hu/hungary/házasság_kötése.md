@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-marriage_registration'
+translationKey: hungary-marriage_registration
 title: "Házasság bejegyzése Magyarországon"
 author: "Ricardo Batista"
 date: "2024-06-07"

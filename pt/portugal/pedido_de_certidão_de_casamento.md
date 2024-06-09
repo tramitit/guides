@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_marriage_certificate'
+translationKey: portugal-request_for_marriage_certificate
 title: "Pedido de Certidão de Casamento"
 author: "Ricardo Batista"
 date: "2024-06-07"

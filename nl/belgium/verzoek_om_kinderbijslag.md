@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_child_benefits'
+translationKey: belgium-request_for_child_benefits
 title: "Aanvraag voor Kinderbijslag"
 author: "Ricardo Batista"
 date: "2024-06-07"

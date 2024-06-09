@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-passport'
+translationKey: poland-passport
 title: "Paszport"
 author: "Ricardo Batista"
 date: "2024-06-07"

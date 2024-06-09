@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-issuance_of_building_permit'
+translationKey: slovakia-issuance_of_building_permit
 title: "Vydanie stavebného povolenia na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"

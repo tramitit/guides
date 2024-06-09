@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-maternity_leave_application'
+translationKey: spain-maternity_leave_application
 title: "Solicitud de Permiso de Maternidad en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

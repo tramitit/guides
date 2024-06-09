@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-voluntary_contribution_application'
+translationKey: italy-voluntary_contribution_application
 title: "Domanda di Contributo Volontario"
 author: "Ricardo Batista"
 date: "2024-06-07"

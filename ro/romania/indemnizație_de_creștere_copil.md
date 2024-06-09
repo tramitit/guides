@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-childcare_allowance'
+translationKey: romania-childcare_allowance
 title: "Indemnizație pentru îngrijirea copilului"
 author: "Ricardo Batista"
 date: "2024-06-07"

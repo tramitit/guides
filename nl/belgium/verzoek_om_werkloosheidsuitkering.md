@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_unemployment_benefits'
+translationKey: belgium-request_for_unemployment_benefits
 title: "Aanvraag voor Werkloosheidsuitkeringen"
 author: "Ricardo Batista"
 date: "2024-06-07"

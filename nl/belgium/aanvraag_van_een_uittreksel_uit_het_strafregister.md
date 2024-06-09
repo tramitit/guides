@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_criminal_record_extract'
+translationKey: belgium-request_for_criminal_record_extract
 title: "Aanvraag tot uittreksel uit het strafregister"
 author: "Ricardo Batista"
 date: "2024-06-07"

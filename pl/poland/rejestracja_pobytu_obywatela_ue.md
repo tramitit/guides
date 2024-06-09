@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-registration_of_residence_for_eu_citizens'
+translationKey: poland-registration_of_residence_for_eu_citizens
 title: "Rejestracja zamieszkania dla obywateli UE"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-marriage_registration'
+translationKey: germany-marriage_registration
 title: "Eheschließung in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

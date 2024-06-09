@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-partnership_registration'
+translationKey: spain-partnership_registration
 title: "Registro de Sociedades"
 author: "Ricardo Batista"
 date: "2024-06-07"

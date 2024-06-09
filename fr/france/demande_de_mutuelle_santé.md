@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-complementary_health_insurance_application'
+translationKey: france-complementary_health_insurance_application
 title: "Demande d'Assurance Complémentaire Santé"
 author: "Ricardo Batista"
 date: "2024-06-07"

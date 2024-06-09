@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_criminal_record_certificate'
+translationKey: portugal-request_for_criminal_record_certificate
 title: "Pedido de Certificado de Antecedentes Criminais"
 author: "Ricardo Batista"
 date: "2024-06-07"

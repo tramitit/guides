@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-family_reunification'
+translationKey: spain-family_reunification
 title: "Proceso de Reunificación Familiar para España"
 author: "Ricardo Batista"
 date: "2024-06-07"

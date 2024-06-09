@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_parental_allowance'
+translationKey: germany-applying_for_parental_allowance
 title: "Elterngeld beantragen in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

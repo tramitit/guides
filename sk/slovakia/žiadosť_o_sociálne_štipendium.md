@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-application_for_social_scholarship'
+translationKey: slovakia-application_for_social_scholarship
 title: "Žiadosť o Sociálnu Stipendiu na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"

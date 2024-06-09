@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-registration_with_the_national_health_service_(ssn)'
+translationKey: italy-registration_with_the_national_health_service_(ssn)
 title: "Registrazione con il Servizio Sanitario Nazionale (SSN)"
 author: "Ricardo Batista"
 date: "2024-06-07"

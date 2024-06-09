@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-death_certificate_request'
+translationKey: italy-death_certificate_request
 title: "Richiesta di certificato di morte"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_spa_treatment'
+translationKey: czech republic-application_for_spa_treatment
 title: "Žádost o lázeňskou léčbu"
 author: "Ricardo Batista"
 date: "2024-06-07"

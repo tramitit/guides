@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-extension_of_residence_permit'
+translationKey: germany-extension_of_residence_permit
 title: "Verlängerung der Aufenthaltserlaubnis"
 author: "Ricardo Batista"
 date: "2022-10-16"

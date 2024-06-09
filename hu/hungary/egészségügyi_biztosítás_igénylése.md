@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-healthcare_insurance_application'
+translationKey: hungary-healthcare_insurance_application
 title: "Egészségügyi biztosítás igénylése"
 author: "Ricardo Batista"
 date: "2024-06-07"

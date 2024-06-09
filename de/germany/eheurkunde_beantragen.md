@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_a_marriage_certificate'
+translationKey: germany-applying_for_a_marriage_certificate
 title: "Beantragung einer Heiratsurkunde"
 author: "Ricardo Batista"
 date: "2024-06-07"

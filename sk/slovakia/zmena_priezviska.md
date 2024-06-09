@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-change_of_surname'
+translationKey: slovakia-change_of_surname
 title: "Zmena priezviska na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"

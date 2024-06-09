@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-issuance_of_travel_ticket'
+translationKey: slovakia-issuance_of_travel_ticket
 title: "Vydávanie cestovných lístkov"
 author: "Ricardo Batista"
 date: "2024-06-07"

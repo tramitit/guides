@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-obtaining_a_visa_for_foreigners'
+translationKey: croatia-obtaining_a_visa_for_foreigners
 title: "Pribavljanje vize za strance"
 author: "Ricardo Batista"
 date: "2024-06-08"

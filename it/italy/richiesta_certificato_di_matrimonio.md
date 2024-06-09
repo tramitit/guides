@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-marriage_certificate_request'
+translationKey: italy-marriage_certificate_request
 title: "Richiesta di Certificato di Matrimonio"
 author: "Ricardo Batista"
 date: "2024-06-07"

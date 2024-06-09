@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-birth_certificate_registration_for_expats'
+translationKey: romania-birth_certificate_registration_for_expats
 title: "Înregistrarea certificatului de naștere pentru expatriați"
 author: "Ricardo Batista"
 date: "2024-06-07"

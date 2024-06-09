@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-public_transport_card_application'
+translationKey: spain-public_transport_card_application
 title: "Solicitud de Tarjeta de Transporte Público"
 author: "Ricardo Batista"
 date: "2024-06-07"

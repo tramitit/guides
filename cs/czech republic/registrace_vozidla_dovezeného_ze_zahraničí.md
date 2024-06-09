@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-registration_of_a_vehicle_imported_from_abroad'
+translationKey: czech republic-registration_of_a_vehicle_imported_from_abroad
 title: "Registrace vozidla dovezeného zahraničí"
 author: "Ricardo Batista"
 date: "2024-06-07"

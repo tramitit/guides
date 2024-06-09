@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-jobseeker's_allowance_application'
+translationKey: hungary-jobseekers_allowance_application
 title: "Álláskeresési segély igénylés"
 author: "Ricardo Batista"
 date: "2024-06-07"

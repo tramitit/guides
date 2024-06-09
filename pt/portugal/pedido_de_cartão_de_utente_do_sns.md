@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_sns_user_card'
+translationKey: portugal-request_for_sns_user_card
 title: "Pedido do Cartão de Utilizador do SNS"
 author: "Ricardo Batista"
 date: "2024-06-07"

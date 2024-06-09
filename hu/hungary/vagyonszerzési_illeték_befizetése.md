@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-property_acquisition_tax_payment'
+translationKey: hungary-property_acquisition_tax_payment
 title: "Ingatlanvásárlási illeték fizetése"
 author: "Ricardo Batista"
 date: "2024-06-07"

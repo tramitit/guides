@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-return_authorization'
+translationKey: spain-return_authorization
 title: "Autorización de Devolución"
 author: "Ricardo Batista"
 date: "2024-06-07"

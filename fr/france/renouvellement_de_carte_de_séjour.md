@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-residence_permit_renewal'
+translationKey: france-residence_permit_renewal
 
 title: "Renouvellement de titre de séjour en France"
 author: "Ricardo Batista"

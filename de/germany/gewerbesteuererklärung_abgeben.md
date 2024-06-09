@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-filing_a_trade_tax_return'
+translationKey: germany-filing_a_trade_tax_return
 title: "Ein Gewerbesteuererklärung einreichen"
 author: "Ricardo Batista"
 date: "2024-06-07"

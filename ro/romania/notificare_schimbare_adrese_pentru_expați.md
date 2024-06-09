@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-address_change_notification_for_expats'
+translationKey: romania-address_change_notification_for_expats
 
 title: "Notificare de Schimbare a Adresei pentru Expatriați"
 author: "Ricardo Batista"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-residence_permit_renewal'
+translationKey: italy-residence_permit_renewal
 title: "Rinnovo del Permesso di Soggiorno"
 author: "Ricardo Batista"
 date: "2024-06-07"

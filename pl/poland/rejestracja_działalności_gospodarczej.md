@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-business_registration'
+translationKey: poland-business_registration
 title: "Rejestracja firmy w Polsce"
 author: "Ricardo Batista"
 date: "2024-06-07"

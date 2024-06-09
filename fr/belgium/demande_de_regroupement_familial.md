@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_family_reunification'
+translationKey: belgium-request_for_family_reunification
 
 title: "Demande de regroupement familial"
 author: "Ricardo Batista"

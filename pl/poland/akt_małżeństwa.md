@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-marriage_certificate'
+translationKey: poland-marriage_certificate
 title: "Akte ślubu w Polsce"
 author: "Ricardo Batista"
 date: "2024-06-07"

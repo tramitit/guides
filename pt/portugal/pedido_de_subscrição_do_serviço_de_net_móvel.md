@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_mobile_internet_service_subscription'
+translationKey: portugal-request_for_mobile_internet_service_subscription
 title: "Pedido de Assinatura de Serviço de Internet Móvel"
 author: "Ricardo Batista"
 date: "2024-06-07"

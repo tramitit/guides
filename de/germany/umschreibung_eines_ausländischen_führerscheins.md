@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-conversion_of_a_foreign_drivers_license'
+translationKey: germany-conversion_of_a_foreign_drivers_license
 title: "Umwandlung eines ausländischen Führerscheins"
 author: "Ricardo Batista"
 date: "2024-06-07"

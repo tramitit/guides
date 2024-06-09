@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-renewal_of_student_card_for_foreigners'
+translationKey: portugal-renewal_of_student_card_for_foreigners
 title: "Renovação do Cartão de Estudante para Estrangeiros"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-change_of_address_on_driving_license'
+translationKey: portugal-change_of_address_on_driving_license
 title: "Alteração de Endereço na Carta de Condução"
 author: "Ricardo Batista"
 date: "2024-06-07"

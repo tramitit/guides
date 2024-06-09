@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_a_building_permit'
+translationKey: czech republic-application_for_a_building_permit
 title: "Žádost o stavební povolení"
 author: "Ricardo Batista"
 date: "2024-06-07"

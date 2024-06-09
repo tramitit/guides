@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-identity_card'
+translationKey: romania-identity_card
 title: "Carte de identitate"
 author: "Ricardo Batista"
 date: "2024-06-07"

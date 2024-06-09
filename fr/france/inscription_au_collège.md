@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-middle_school_registration'
+translationKey: france-middle_school_registration
 title: "Inscription au collège en France"
 author: "Ricardo Batista"
 date: "2024-06-07"

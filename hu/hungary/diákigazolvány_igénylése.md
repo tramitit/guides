@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-student_id_application'
+translationKey: hungary-student_id_application
 title: "Diákigazolvány igénylés"
 author: "Ricardo Batista"
 date: "2024-06-07"

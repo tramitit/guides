@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-parental_allowance_application'
+translationKey: austria-parental_allowance_application
 title: "Elternzeit Antrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

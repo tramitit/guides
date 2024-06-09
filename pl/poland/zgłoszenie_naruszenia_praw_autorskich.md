@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-report_of_copyright_infringement'
+translationKey: poland-report_of_copyright_infringement
 
 title: "Raportowanie naruszeń praw autorskich"
 author: "Ricardo Batista"

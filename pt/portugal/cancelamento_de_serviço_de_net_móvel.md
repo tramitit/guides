@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-cancellation_of_mobile_internet_service'
+translationKey: portugal-cancellation_of_mobile_internet_service
 title: "Cancelamento do Serviço de Internet Móvel"
 author: "Ricardo Batista"
 date: "2024-06-07"

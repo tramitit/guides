@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-employer_registration_for_health_insurance'
+translationKey: czech republic-employer_registration_for_health_insurance
 title: "Registrace zaměstnavatele pro zdravotní pojištění"
 author: "Ricardo Batista"
 date: "2024-06-07"

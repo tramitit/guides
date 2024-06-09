@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-registration_information'
+translationKey: austria-registration_information
 title: "Registrierungsinformationen"
 author: "Ricardo Batista"
 date: "2024-06-07"

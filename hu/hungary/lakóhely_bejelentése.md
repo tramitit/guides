@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-residence_registration'
+translationKey: hungary-residence_registration
 title: "Lakcím bejelentés"
 author: "Ricardo Batista"
 date: "2024-06-07"

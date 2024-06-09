@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-child_benefit_application'
+translationKey: spain-child_benefit_application
 title: "Solicitud de Prestación por Hijo/a"
 author: "Ricardo Batista"
 date: "2024-06-07"

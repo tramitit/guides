@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-passport_application'
+translationKey: austria-passport_application
 title: "Passantrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

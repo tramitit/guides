@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-change_of_id_card'
+translationKey: poland-change_of_id_card
 title: "Zmiana dowodu osobistego"
 author: "Ricardo Batista"
 date: "2024-06-07"

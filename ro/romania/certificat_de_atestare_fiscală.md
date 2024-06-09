@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-fiscal_attestation_certificate'
+translationKey: romania-fiscal_attestation_certificate
 title: "Certificat de Atestare Fiscala"
 author: "Ricardo Batista"
 date: "2024-06-07"

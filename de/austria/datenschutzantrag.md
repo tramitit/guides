@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-data_protection_request'
+translationKey: austria-data_protection_request
 title: "Datenschutzanfrage"
 author: "Ricardo Batista"
 date: "2024-06-07"

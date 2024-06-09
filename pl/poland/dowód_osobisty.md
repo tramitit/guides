@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-id_card'
+translationKey: poland-id_card
 title: "Dowód osobisty"
 author: "Ricardo Batista"
 date: "2024-06-07"

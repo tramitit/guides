@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-birth_certificate'
+translationKey: romania-birth_certificate
 title: "Obținerea certificatului de naștere"
 author: "Ricardo Batista"
 date: "2024-06-07"

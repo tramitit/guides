@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-application_for_housing_benefit'
+translationKey: poland-application_for_housing_benefit
 title: "Wnioskowanie o Świadczenie Mieszkaniowe"
 author: "Ricardo Batista"
 date: "2024-06-07"

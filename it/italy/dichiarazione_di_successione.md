@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-succession_declaration'
+translationKey: italy-succession_declaration
 
 title: "Dichiarazione di Successione"
 author: "Ricardo Batista"

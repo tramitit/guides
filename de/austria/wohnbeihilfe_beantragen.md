@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-housing_allowance_application'
+translationKey: austria-housing_allowance_application
 title: "Wohnungszulagenantrag in Österreich und den Niederlanden"
 author: "Ricardo Batista"
 date: "2024-06-07"

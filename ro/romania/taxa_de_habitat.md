@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-residence_tax'
+translationKey: romania-residence_tax
 title: "Impozitul de Rezidență"
 author: "Ricardo Batista"
 date: "2024-06-07"

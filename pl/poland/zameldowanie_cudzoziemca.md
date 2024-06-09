@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-registering_the_residence_of_a_foreigner'
+translationKey: poland-registering_the_residence_of_a_foreigner
 
 title: "Rejestracja zamieszkania obcokrajowca w Polsce"
 author: "Ricardo Batista"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-g_yes_card_application'
+translationKey: hungary-g_yes_card_application
 title: "G YES kártya kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

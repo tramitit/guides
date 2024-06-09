@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-issuance_of_no_criminal_record_certificate'
+translationKey: croatia-issuance_of_no_criminal_record_certificate
 title: "Izdavanje potvrde o nepostojanju kaznene evidencije"
 author: "Ricardo Batista"
 date: "2024-06-08"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-application_for_european_health_insurance_card_(ehic)'
+translationKey: poland-application_for_european_health_insurance_card_(ehic)
 title: "Wniosek o Europejską Kartę Ubezpieczenia Zdrowotnego (EHIC)"
 author: "Ricardo Batista"
 date: "2024-06-07"

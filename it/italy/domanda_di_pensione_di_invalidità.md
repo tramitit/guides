@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-disability_pension_application'
+translationKey: italy-disability_pension_application
 title: "Domanda di Pensione di Invalidità"
 author: "Ricardo Batista"
 date: "2024-06-07"

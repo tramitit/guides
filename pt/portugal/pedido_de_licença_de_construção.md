@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_building_permit'
+translationKey: portugal-request_for_building_permit
 title: "Pedido de Licença de Construção em Portugal"
 author: "Ricardo Batista"
 date: "2024-06-07"

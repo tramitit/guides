@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-digital_certificate_application'
+translationKey: spain-digital_certificate_application
 title: "Solicitud de Certificado Digital"
 author: "Ricardo Batista"
 date: "2024-06-07"

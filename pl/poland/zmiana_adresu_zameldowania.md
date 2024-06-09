@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-change_of_registered_residence_address'
+translationKey: poland-change_of_registered_residence_address
 title: "Zmiana adresu zameldowania w Polsce"
 author: "Ricardo Batista"
 date: "2024-06-07"

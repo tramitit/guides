@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-registration_of_foreigners'_residence'
+translationKey: croatia-registration_of_foreigners_residence
 title: "Registracija boravka stranaca"
 author: "Ricardo Batista"
 date: "2024-06-08"

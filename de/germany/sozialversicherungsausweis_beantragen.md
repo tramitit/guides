@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_a_social_security_card'
+translationKey: germany-applying_for_a_social_security_card
 title: "Beantragung einer Sozialversicherungskarte in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-application_for_childcare_choice_supplement_(cmg)'
+translationKey: france-application_for_childcare_choice_supplement_(cmg)
 title: "Demande de Supplément de choix de garde d'enfants (CMG)"
 author: "Ricardo Batista"
 date: "2024-06-07"

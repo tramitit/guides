@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-certificate_of_residence'
+translationKey: spain-certificate_of_residence
 title: "Certificado de Residencia"
 author: "Ricardo Batista"
 date: "2024-06-07"

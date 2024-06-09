@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-application_for_a_settlement_permit'
+translationKey: germany-application_for_a_settlement_permit
 title: "Antrag auf eine Niederlassungserlaubnis in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

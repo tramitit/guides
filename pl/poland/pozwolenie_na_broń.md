@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-gun_permit'
+translationKey: poland-gun_permit
 
 title: "Zezwolenie na broń w Polsce"
 author: "Ricardo Batista"

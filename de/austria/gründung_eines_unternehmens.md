@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-company_formation'
+translationKey: austria-company_formation
 title: "Firmengründung"
 author: "Ricardo Batista"
 date: "2024-06-07"

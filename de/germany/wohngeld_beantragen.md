@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_housing_allowance'
+translationKey: germany-applying_for_housing_allowance
 title: "Antrag auf Wohnungsbeihilfe"
 author: "Ricardo Batista"
 date: "2024-06-07"

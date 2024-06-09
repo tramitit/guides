@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-tax_return_submission'
+translationKey: hungary-tax_return_submission
 title: "Adóbevallás benyújtása"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-report_of_missing_passport'
+translationKey: croatia-report_of_missing_passport
 title: "Izvještaj o nestalom putovnici"
 author: "Ricardo Batista"
 date: "2024-06-08"

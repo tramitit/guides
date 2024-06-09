@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_pension'
+translationKey: belgium-request_for_pension
 title: "Demande de Pension"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-obtaining_a_drivers_license_for_newcomers'
+translationKey: croatia-obtaining_a_drivers_license_for_newcomers
 title: "Dobivanje vozačke dozvole za novajlije"
 author: "Ricardo Batista"
 date: "2024-06-08"

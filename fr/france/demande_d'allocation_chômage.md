@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-unemployment_benefit_application'
+translationKey: france-unemployment_benefit_application
 title: "Demande d'allocation chômage en France"
 author: "Ricardo Batista"
 date: "2024-06-07"

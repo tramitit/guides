@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-military_service_completion_certificate_request'
+translationKey: italy-military_service_completion_certificate_request
 title: "Richiesta di certificato di completamento del servizio militare"
 author: "Ricardo Batista"
 date: "2024-06-07"

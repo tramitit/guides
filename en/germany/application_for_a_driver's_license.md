@@ -6,7 +6,7 @@ categories: ["Germany"]
 meta_title: "How to Apply for a German Driver's License"
 description: "A step-by-step guide on how to apply for a driver's license in Germany"
 draft: false
-translationKey: "germany-application_for_a_driver's_license"
+translationKey: "germany-application_for_a_drivers_license"
 ---
 
 ## Description

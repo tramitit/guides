@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-registration_for_the_health_card_of_a_foreigner'
+translationKey: croatia-registration_for_the_health_card_of_a_foreigner
 title: "Registracija zdravstvenog kartona stranca u Hrvatskoj"
 author: "Ricardo Batista"
 date: "2024-06-08"

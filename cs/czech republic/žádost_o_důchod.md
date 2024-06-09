@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_pension'
+translationKey: czech republic-application_for_pension
 title: "Žádost o penzi"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-issuance_of_death_certificate'
+translationKey: slovakia-issuance_of_death_certificate
 title: "Vydávanie úmrtných listov"
 author: "Ricardo Batista"
 date: "2024-06-07"

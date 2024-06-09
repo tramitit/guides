@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-requesting_a_vocational_school_certificate'
+translationKey: germany-requesting_a_vocational_school_certificate
 title: "Anforderung eines Berufsschulzeugnisses"
 author: "Ricardo Batista"
 date: "2024-06-07"

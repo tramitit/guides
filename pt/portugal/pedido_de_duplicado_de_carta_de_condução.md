@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_duplicate_driving_license'
+translationKey: portugal-request_for_duplicate_driving_license
 title: "Pedido de Carta de Condução Duplicada"
 author: "Ricardo Batista"
 date: "2024-06-07"

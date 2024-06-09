@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-change_of_registration_certificate'
+translationKey: poland-change_of_registration_certificate
 title: "Zmiana świadectwa rejestracyjnego"
 author: "Ricardo Batista"
 date: "2024-06-07"

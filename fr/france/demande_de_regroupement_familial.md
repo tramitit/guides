@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-family_reunification_application'
+translationKey: france-family_reunification_application
 title: "Demande de regroupement familial"
 author: "Ricardo Batista"
 date: "2024-06-07"

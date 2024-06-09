@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_a_death_certificate'
+translationKey: germany-applying_for_a_death_certificate
 title: "Beantragung einer Sterbeurkunde in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

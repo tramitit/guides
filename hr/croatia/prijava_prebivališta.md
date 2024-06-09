@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-residence_registration'
+translationKey: croatia-residence_registration
 title: "Registracija prebivališta"
 author: "Ricardo Batista"
 date: "2024-06-07"

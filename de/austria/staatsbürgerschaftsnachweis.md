@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-proof_of_citizenship'
+translationKey: austria-proof_of_citizenship
 title: "Nachweis der Staatsbürgerschaft"
 author: "Ricardo Batista"
 date: "2024-06-07"

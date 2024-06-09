@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_a_firearms_licence'
+translationKey: czech republic-application_for_a_firearms_licence
 title: "Žádost o zbrojní průkaz v České republice"
 author: "Ricardo Batista"
 date: "2024-06-07"

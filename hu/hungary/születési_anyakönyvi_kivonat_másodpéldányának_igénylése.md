@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-application_for_duplicate_birth_certificate'
+translationKey: hungary-application_for_duplicate_birth_certificate
 title: "Kérelem a Megismételt Születési Bizonyítványhoz"
 author: "Ricardo Batista"
 date: "2024-06-07"

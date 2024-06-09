@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_tax_identification_number_(nif)'
+translationKey: portugal-request_for_tax_identification_number_(nif)
 title: "Pedido de Número de Identificação Fiscal (NIF)"
 author: "Ricardo Batista"
 date: "2024-06-07"

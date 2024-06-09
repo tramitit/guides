@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_residence_permit_renewal'
+translationKey: portugal-request_for_residence_permit_renewal
 title: "Pedido de Renovação de Autorização de Residência"
 author: "Ricardo Batista"
 date: "2024-06-07"

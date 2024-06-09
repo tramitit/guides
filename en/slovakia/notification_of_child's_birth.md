@@ -6,7 +6,7 @@ categories: ["Slovakia"]
 meta_title: ""
 description: "This is a comprehensive guide on how to notify a child's birth, with helpful details for both Slovakian locals and immigrants."
 draft: false
-translationKey: "slovakia-notification_of_child's_birth"
+translationKey: "slovakia-notification_of_childs_birth"
 ---
 
 ## Description

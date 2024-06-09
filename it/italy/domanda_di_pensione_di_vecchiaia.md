@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-old_age_pension_application'
+translationKey: italy-old_age_pension_application
 title: "Domanda di Pensione di Vecchiaia"
 author: "Ricardo Batista"
 date: "2024-06-07"

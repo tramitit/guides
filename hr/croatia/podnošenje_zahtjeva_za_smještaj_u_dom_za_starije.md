@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-applying_for_accommodation_in_an_elderly_home'
+translationKey: croatia-applying_for_accommodation_in_an_elderly_home
 title: "Prijava za smještaj u dom za starije osobe"
 author: "Ricardo Batista"
 date: "2024-06-08"

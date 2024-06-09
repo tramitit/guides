@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-death_declaration'
+translationKey: france-death_declaration
 title: "Déclaration de décès"
 author: "Ricardo Batista"
 date: "2024-06-07"

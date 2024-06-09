@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-income_support_application'
+translationKey: italy-income_support_application
 title: "{Domanda di Supporto al Reddito"
 author: "Ricardo Batista"
 date: "2024-06-07"

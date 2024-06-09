@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-economic_assistance_for_large_families'
+translationKey: spain-economic_assistance_for_large_families
 
 title: "Asistencia Económica para Familias Numerosas"
 author: "Ricardo Batista"

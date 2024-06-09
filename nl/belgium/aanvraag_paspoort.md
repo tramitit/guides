@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_passport'
+translationKey: belgium-request_for_passport
 title: "Aanvraag voor paspoort"
 author: "Ricardo Batista"
 date: "2024-06-07"

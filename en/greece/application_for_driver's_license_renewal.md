@@ -6,7 +6,7 @@ categories: ["Greece"]
 meta_title: ""
 description: "This is meta description"
 draft: false
-translationKey: "greece-application_for_driver's_license_renewal"
+translationKey: "greece-application_for_drivers_license_renewal"
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-passport_renewal'
+translationKey: portugal-passport_renewal
 title: "Renovação de Passaporte"
 author: "Ricardo Batista"
 date: "2024-06-07"

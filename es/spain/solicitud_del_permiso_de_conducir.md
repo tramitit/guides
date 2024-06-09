@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-drivers_license_application'
+translationKey: spain-drivers_license_application
 title: "Solicitud de Licencia de Conducir en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

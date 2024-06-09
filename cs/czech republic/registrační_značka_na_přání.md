@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-vanity_license_plate'
+translationKey: czech republic-vanity_license_plate
 title: "Vanity licence plate"
 author: "Ricardo Batista"
 date: "2024-06-07"

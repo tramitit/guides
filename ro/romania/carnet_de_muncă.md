@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-work_record_book'
+translationKey: romania-work_record_book
 title: "Carte de Muncă"
 author: "Ricardo Batista"
 date: "2024-06-07"

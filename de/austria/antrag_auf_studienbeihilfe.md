@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-study_grant_application'
+translationKey: austria-study_grant_application
 title: "Stipendienantrag für Studien"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-renewal_of_resident_card_for_foreign_citizens'
+translationKey: portugal-renewal_of_resident_card_for_foreign_citizens
 title: "Renovação do Cartão de Residência para Cidadãos Estrangeiros"
 author: "Ricardo Batista"
 date: "2024-06-07"

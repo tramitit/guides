@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_certification_of_document_translation'
+translationKey: portugal-request_for_certification_of_document_translation
 title: "Pedido de Certificação de Tradução de Documento"
 author: "Ricardo Batista"
 date: "2022-12-16"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-registry_office_-_death'
+translationKey: czech republic-registry_office_-_death
 title: "Matriční úřad - úmrtí"
 author: "Ricardo Batista"
 date: "2024-06-07"

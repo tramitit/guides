@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_issuing_a_parking_permit'
+translationKey: czech republic-application_for_issuing_a_parking_permit
 title: "Žádost o vystavení parkovacího povolení"
 author: "Ricardo Batista"
 date: "2024-06-07"

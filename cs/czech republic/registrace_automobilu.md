@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-car_registration'
+translationKey: czech republic-car_registration
 title: "Registrace vozidla"
 author: "Ricardo Batista"
 date: "2024-06-07"

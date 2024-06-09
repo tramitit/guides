@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-issuance_of_id_card'
+translationKey: croatia-issuance_of_id_card
 title: "Izdavanje osobne iskaznice"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-civil_marriage_application'
+translationKey: spain-civil_marriage_application
 title: "Solicitud de Matrimonio Civil en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

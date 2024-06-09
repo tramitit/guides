@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-building_permit_request'
+translationKey: italy-building_permit_request
 title: "Richiesta di Permesso di Costruire"
 author: "Ricardo Batista"
 date: "2024-06-07"

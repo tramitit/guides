@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-stay_registration_upon_entering_the_country'
+translationKey: croatia-stay_registration_upon_entering_the_country
 title: "Registracija boravka prilikom ulaska u zemlju"
 author: "Ricardo Batista"
 date: "2024-06-08"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-registration_of_a_humanitarian_residence'
+translationKey: slovakia-registration_of_a_humanitarian_residence
 title: "Registrácia humanitárnej rezidencie"
 author: "Ricardo Batista"
 date: "2024-06-07"

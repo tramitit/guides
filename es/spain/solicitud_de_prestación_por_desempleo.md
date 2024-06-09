@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-unemployment_benefit_application'
+translationKey: spain-unemployment_benefit_application
 title: "Solicitud de prestación por desempleo"
 author: "Ricardo Batista"
 date: "2024-06-07"

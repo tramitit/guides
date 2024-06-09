@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_unemployment_benefit'
+translationKey: germany-applying_for_unemployment_benefit
 title: "Beantragung von Arbeitslosengeld in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

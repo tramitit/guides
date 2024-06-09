@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-application_for_a_certificate_of_conduct'
+translationKey: germany-application_for_a_certificate_of_conduct
 title: "Antrag auf ein Führungszeugnis"
 author: "Ricardo Batista"
 date: "2024-06-07"

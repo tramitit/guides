@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-health_card_application'
+translationKey: spain-health_card_application
 title: "Solicitud de Tarjeta Sanitaria"
 author: "Ricardo Batista"
 date: "2024-06-07"

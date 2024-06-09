@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-urban_destination_certificate_request'
+translationKey: italy-urban_destination_certificate_request
 
 title: "Richiesta del Certificato di Destinazione Urbana"
 author: "Ricardo Batista"

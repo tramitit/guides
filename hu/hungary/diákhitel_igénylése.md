@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-student_loan_application'
+translationKey: hungary-student_loan_application
 
 title: "Diákhitel igénylés"
 author: "Ricardo Batista"

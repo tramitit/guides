@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-primary_school_registration'
+translationKey: france-primary_school_registration
 title: "Inscription à l'école primaire"
 author: "Ricardo Batista"
 date: "2024-06-07"

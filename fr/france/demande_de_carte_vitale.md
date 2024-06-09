@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-health_insurance_card_application'
+translationKey: france-health_insurance_card_application
 title: "Demande de carte d'assurance maladie"
 author: "Ricardo Batista"
 date: "2024-06-07"

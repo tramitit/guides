@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-obtaining_individual_health_insurance'
+translationKey: hungary-obtaining_individual_health_insurance
 title: "Egyéni egészségbiztosítás megszerzése Magyarországon"
 author: "Ricardo Batista"
 date: "2024-06-07"

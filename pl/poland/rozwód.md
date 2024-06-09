@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-divorce'
+translationKey: poland-divorce
 title: "Rozwód"
 author: "Ricardo Batista"
 date: "2024-06-07"

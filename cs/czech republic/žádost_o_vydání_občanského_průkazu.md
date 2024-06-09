@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_issuing_an_id_card'
+translationKey: czech republic-application_for_issuing_an_id_card
 title: "Žádost o vydání průkazu totožnosti"
 author: "Ricardo Batista"
 date: "2024-06-07"

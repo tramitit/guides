@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-drivers_license_renewal'
+translationKey: france-drivers_license_renewal
 title: "Renouvellement de permis de conduire"
 author: "Ricardo Batista"
 date: "2024-06-07"

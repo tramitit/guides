@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-residence_permit_application'
+translationKey: italy-residence_permit_application
 title: "Domanda di Permesso di Soggiorno in Italia"
 author: "Ricardo Batista"
 date: "2024-06-07"

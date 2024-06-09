@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-visa_application'
+translationKey: germany-visa_application
 title: "Visa-Antrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

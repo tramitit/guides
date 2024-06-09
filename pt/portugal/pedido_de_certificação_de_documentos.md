@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_document_certification'
+translationKey: portugal-request_for_document_certification
 title: "Pedido de Certificação de Documento"
 author: "Ricardo Batista"
 date: "2024-06-07"

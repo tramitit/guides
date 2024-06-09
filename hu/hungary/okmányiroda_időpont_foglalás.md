@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-document_office_appointment_booking'
+translationKey: hungary-document_office_appointment_booking
 title: "Dokumentum Irodai Időpont Foglalás"
 author: "Ricardo Batista"
 date: "2024-06-07"

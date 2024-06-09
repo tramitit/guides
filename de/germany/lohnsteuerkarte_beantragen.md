@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_a_tax_card'
+translationKey: germany-applying_for_a_tax_card
 title: "Beantragung einer Steuerkarte"
 author: "Ricardo Batista"
 date: "2024-06-07"

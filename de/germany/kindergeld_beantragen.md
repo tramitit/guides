@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_child_benefit'
+translationKey: germany-applying_for_child_benefit
 title: "Kindergeld beantragen in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

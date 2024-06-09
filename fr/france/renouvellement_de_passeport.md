@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-passport_renewal'
+translationKey: france-passport_renewal
 title: "Renouvellement de passeport"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-visa_application'
+translationKey: france-visa_application
 title: "Demande de visa"
 author: "Ricardo Batista"
 date: "2024-06-07"

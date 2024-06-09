@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-acknowledgement_of_paternity'
+translationKey: poland-acknowledgement_of_paternity
 
 title: "Uznanie Ojcostwa"
 author: "Ricardo Batista"

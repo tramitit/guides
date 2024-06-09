@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-requesting_a_certificate_of_enrollment'
+translationKey: germany-requesting_a_certificate_of_enrollment
 title: "Anforderung eines Anmeldebescheinigung"
 author: "Ricardo Batista"
 date: "2024-06-07"

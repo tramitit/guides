@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-work_visa_extension'
+translationKey: romania-work_visa_extension
 title: "Prelungirea vizelor de muncă"
 author: "Ricardo Batista"
 date: "2024-06-07"

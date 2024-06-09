@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_housing_permit'
+translationKey: portugal-request_for_housing_permit
 title: "Pedido de Licença de Habitação"
 author: "Ricardo Batista"
 date: "2024-06-07"

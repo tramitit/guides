@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-student_card_application'
+translationKey: spain-student_card_application
 
 title: "Solicitud de Tarjeta de Estudiante"
 author: "Ricardo Batista"

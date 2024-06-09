@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-application_for_state_scholarships'
+translationKey: croatia-application_for_state_scholarships
 title: "Prijava za državne stipendije"
 author: "Ricardo Batista"
 date: "2024-06-08"

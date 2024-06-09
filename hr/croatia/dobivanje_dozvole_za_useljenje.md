@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-obtaining_an_immigration_permit'
+translationKey: croatia-obtaining_an_immigration_permit
 title: "Dobivanje Imigracijske Dozvole"
 author: "Ricardo Batista"
 date: "2024-06-08"

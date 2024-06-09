@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-pit_tax_declaration'
+translationKey: poland-pit_tax_declaration
 title: "Deklaracja podatkowa PIT"
 author: "Ricardo Batista"
 date: "2024-06-07"

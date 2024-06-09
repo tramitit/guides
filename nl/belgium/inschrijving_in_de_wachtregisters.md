@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-registration_in_the_waiting_registers'
+translationKey: belgium-registration_in_the_waiting_registers
 title: "Inschrijving in de wachtregisters"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-vehicle_registration'
+translationKey: slovakia-vehicle_registration
 title: "Registrácia vozidla na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"

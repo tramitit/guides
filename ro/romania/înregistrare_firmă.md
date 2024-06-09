@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-company_registration'
+translationKey: romania-company_registration
 title: "Înregistrarea Companiei"
 author: "Ricardo Batista"
 date: "2024-06-07"

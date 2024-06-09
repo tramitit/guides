@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-support_for_students'
+translationKey: austria-support_for_students
 title: "Unterstützung für Studenten"
 author: "Ricardo Batista"
 date: "2024-06-07"

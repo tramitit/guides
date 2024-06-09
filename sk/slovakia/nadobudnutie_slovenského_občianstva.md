@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-acquisition_of_slovak_citizenship'
+translationKey: slovakia-acquisition_of_slovak_citizenship
 title: "Získanie slovenského občianstva"
 author: "Ricardo Batista"
 date: "2024-06-07"

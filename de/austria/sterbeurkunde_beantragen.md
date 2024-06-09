@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-death_certificate_application'
+translationKey: austria-death_certificate_application
 title: "Sterbeurkunde Antrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

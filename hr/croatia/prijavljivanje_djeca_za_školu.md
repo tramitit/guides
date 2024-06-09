@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-registering_children_for_school'
+translationKey: croatia-registering_children_for_school
 title: "Registracija djece za školu"
 author: "Ricardo Batista"
 date: "2024-06-08"

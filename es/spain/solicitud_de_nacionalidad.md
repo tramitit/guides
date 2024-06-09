@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-citizenship_application'
+translationKey: spain-citizenship_application
 title: "Solicitud de Ciudadanía"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-appointment_request_for_sepe'
+translationKey: spain-appointment_request_for_sepe
 title: "Solicitud de cita para SEPE (Servicio Público de Empleo Estatal) en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

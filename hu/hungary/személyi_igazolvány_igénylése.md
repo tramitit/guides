@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-id_card_application'
+translationKey: hungary-id_card_application
 title: "Személyi igazolvány kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

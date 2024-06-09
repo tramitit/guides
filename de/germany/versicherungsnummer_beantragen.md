@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_an_insurance_number'
+translationKey: germany-applying_for_an_insurance_number
 title: "Beantragung einer Versicherungsnummer in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

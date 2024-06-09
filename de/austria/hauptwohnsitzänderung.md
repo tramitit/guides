@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-change_of_main_residence'
+translationKey: austria-change_of_main_residence
 title: "Änderung des Hauptwohnsitzes"
 author: "Ricardo Batista"
 date: "2024-06-07"

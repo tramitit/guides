@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-certificate_of_civil_rights_enjoyment_request'
+translationKey: italy-certificate_of_civil_rights_enjoyment_request
 title: "Richiesta di Certificato di Godimento dei Diritti Civili"
 author: "Ricardo Batista"
 date: "2024-06-07"

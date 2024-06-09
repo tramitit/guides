@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-criminal_record'
+translationKey: romania-criminal_record
 title: "Antecedente Penale"
 author: "Ricardo Batista"
 date: "2024-06-07"

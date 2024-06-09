@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-sick_leave_application'
+translationKey: france-sick_leave_application
 title: "Demande de congé maladie"
 author: "Ricardo Batista"
 date: "2024-06-07"

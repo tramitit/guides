@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-sole_proprietorship_registration'
+translationKey: hungary-sole_proprietorship_registration
 title: "Egyéni Vállalkozói Regisztráció"
 author: "Ricardo Batista"
 date: "2024-06-07"

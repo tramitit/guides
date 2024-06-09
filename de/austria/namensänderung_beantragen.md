@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-name_change_application'
+translationKey: austria-name_change_application
 title: "Namensänderungsantrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

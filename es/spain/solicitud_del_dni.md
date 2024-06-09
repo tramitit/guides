@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-id_card_application'
+translationKey: spain-id_card_application
 title: "Solicitud de Tarjeta de Identificación"
 author: "Ricardo Batista"
 date: "2024-06-07"

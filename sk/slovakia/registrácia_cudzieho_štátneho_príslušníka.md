@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-registration_of_a_foreign_national'
+translationKey: slovakia-registration_of_a_foreign_national
 
 title: "Registrácia cudzinca na Slovensku"
 author: "Ricardo Batista"

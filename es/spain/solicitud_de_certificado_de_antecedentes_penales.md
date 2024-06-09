@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-criminal_background_certificate_request'
+translationKey: spain-criminal_background_certificate_request
 title: "Solicitud de Certificado de Antecedentes Penales"
 author: "Ricardo Batista"
 date: "2024-06-07"

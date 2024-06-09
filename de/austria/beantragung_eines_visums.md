@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-visa_application'
+translationKey: austria-visa_application
 title: "Visumbeantragung"
 author: "Ricardo Batista"
 date: "2024-06-07"

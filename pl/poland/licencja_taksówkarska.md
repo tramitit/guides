@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-taxi_license'
+translationKey: poland-taxi_license
 title: "Uzyskanie licencji na taksówkę w Polsce"
 author: "Ricardo Batista"
 date: "2024-06-07"

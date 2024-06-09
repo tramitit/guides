@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-extension_of_passport'
+translationKey: germany-extension_of_passport
 title: "Verlängerung des Reisepasses"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-mobility_aid_application'
+translationKey: france-mobility_aid_application
 title: "Demande d'aide à la mobilité"
 author: "Ricardo Batista"
 date: "2024-06-07"

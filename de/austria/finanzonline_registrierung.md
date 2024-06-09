@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-finance_online_registration'
+translationKey: austria-finance_online_registration
 title: "Finanz Online Anmeldung"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -6,7 +6,7 @@ categories: ["Germany"]
 meta_title: "Conversion of a foreign driver's license in Germany and United States"
 description: "A step-by-step guide on how to convert a foreign driver's license in major jurisdictions."
 draft: false
-translationKey: "germany-conversion_of_a_foreign_driver's_license"
+translationKey: "germany-conversion_of_a_foreign_drivers_license"
 ---
 
 ## Description

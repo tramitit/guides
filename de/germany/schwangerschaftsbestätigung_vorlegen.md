@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-submitting_pregnancy_confirmation'
+translationKey: germany-submitting_pregnancy_confirmation
 title: "Einreichung der Schwangerschaftsbestätigung"
 author: "Ricardo Batista"
 date: "2024-06-07"

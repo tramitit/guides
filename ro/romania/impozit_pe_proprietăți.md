@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-property_tax'
+translationKey: romania-property_tax
 title: "Impozitul pe proprietate"
 author: "Ricardo Batista"
 date: "2024-06-07"

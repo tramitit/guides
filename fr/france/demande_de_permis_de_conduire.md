@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-drivers_license_application'
+translationKey: france-drivers_license_application
 title: "Demande de permis de conduire en France"
 author: "Ricardo Batista"
 date: "2024-06-07"

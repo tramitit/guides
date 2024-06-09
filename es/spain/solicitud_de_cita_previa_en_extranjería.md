@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-appointment_request_for_immigration_office'
+translationKey: spain-appointment_request_for_immigration_office
 title: "Solicitud de cita para la Oficina de Inmigración"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -6,7 +6,7 @@ categories: ["Greece"]
 meta_title: "Step by step guide to apply for spouse's name change in Greece"
 description: "An in-depth guide showing you how to go through with a spouse's name change after marriage in Greece"
 draft: false
-translationKey: "greece-application_for_spouse's_name_change"
+translationKey: "greece-application_for_spouses_name_change"
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-residence_registration'
+translationKey: austria-residence_registration
 title: "Anmeldung des Wohnsitzes"
 author: "Ricardo Batista"
 date: "2024-06-07"

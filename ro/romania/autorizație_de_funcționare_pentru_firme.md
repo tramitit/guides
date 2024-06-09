@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-operating_permit_for_companies'
+translationKey: romania-operating_permit_for_companies
 title: "Autorizație de Funcționare pentru Companii"
 author: "Ricardo Batista"
 date: "2024-06-07"

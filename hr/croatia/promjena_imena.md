@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-change_of_name'
+translationKey: croatia-change_of_name
 title: "Promjena Imena"
 author: "Ricardo Batista"
 date: "2024-06-08"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-census_registration'
+translationKey: spain-census_registration
 title: "Registro del censo en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-maternity_allowance_application'
+translationKey: italy-maternity_allowance_application
 
 title: "Domanda per l'Assegno di Maternità"
 author: "Ricardo Batista"

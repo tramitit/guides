@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-dog_registration'
+translationKey: austria-dog_registration
 title: "Hunde Registrierung"
 author: "Ricardo Batista"
 date: "2024-06-07"

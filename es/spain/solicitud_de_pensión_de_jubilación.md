@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-retirement_pension_application'
+translationKey: spain-retirement_pension_application
 title: "Solicitud de Pensión de Jubilación en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

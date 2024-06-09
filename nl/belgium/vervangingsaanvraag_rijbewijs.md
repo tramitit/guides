@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-replacement_request_for_driving_license'
+translationKey: belgium-replacement_request_for_driving_license
 title: "Vervangingsverzoek voor rijbewijs"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-disability_allowance'
+translationKey: romania-disability_allowance
 title: "Indemnizație de Invaliditate"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_duplicate_documents'
+translationKey: portugal-request_for_duplicate_documents
 title: "Pedido de Documentos Duplicados"
 author: "Ricardo Batista"
 date: "2024-06-07"

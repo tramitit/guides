@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-real_estate_purchase_agreement'
+translationKey: romania-real_estate_purchase_agreement
 title: "Contract de Achiziție Imobiliară"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-registration_of_tourists'_stay'
+translationKey: croatia-registration_of_tourists_stay
 title: "Registracija boravka turista"
 author: "Ricardo Batista"
 date: "2024-06-08"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-renewal_of_citizen_card'
+translationKey: portugal-renewal_of_citizen_card
 title: "Renovação do Cartão de Cidadão"
 author: "Ricardo Batista"
 date: "2024-06-07"

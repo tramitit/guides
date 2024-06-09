@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-application_for_citizenship'
+translationKey: poland-application_for_citizenship
 title: "Wniosek o obywatelstwo"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-residence_registration_for_eu_citizens'
+translationKey: czech republic-residence_registration_for_eu_citizens
 title: "Registrace pobytu pro občany EU"
 author: "Ricardo Batista"
 date: "2024-06-07"

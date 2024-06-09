@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-issuance_of_identity_card'
+translationKey: slovakia-issuance_of_identity_card
 title: "Vydanie slovenského občianskeho preukazu"
 author: "Ricardo Batista"
 date: "2024-06-07"

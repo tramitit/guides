@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-request_for_participation_in_separate_waste_collection_service'
+translationKey: italy-request_for_participation_in_separate_waste_collection_service
 title: "Richiesta di Partecipazione al Servizio di Raccolta Differenziata"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-traffic_fine_payment'
+translationKey: hungary-traffic_fine_payment
 title: "Közlekedési bírság fizetése Magyarországon"
 author: "Ricardo Batista"
 date: "2024-06-07"

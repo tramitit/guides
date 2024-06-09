@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_a_driving_licence'
+translationKey: czech republic-application_for_a_driving_licence
 title: "Žádost o řidičský průkaz"
 author: "Ricardo Batista"
 date: "2024-06-07"

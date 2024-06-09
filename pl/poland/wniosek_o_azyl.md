@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-asylum_application'
+translationKey: poland-asylum_application
 title: "Wniosek o azyl"
 author: "Ricardo Batista"
 date: "2024-06-07"

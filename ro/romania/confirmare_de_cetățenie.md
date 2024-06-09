@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-citizenship_confirmation'
+translationKey: romania-citizenship_confirmation
 
 title: "Confirmarea cetățeniei"
 author: "Ricardo Batista"

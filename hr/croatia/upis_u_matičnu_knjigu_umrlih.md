@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-entry_into_the_death_register'
+translationKey: croatia-entry_into_the_death_register
 title: "Upis u mrtvozapisnik"
 author: "Ricardo Batista"
 date: "2024-06-08"

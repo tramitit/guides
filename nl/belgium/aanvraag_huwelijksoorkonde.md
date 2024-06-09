@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_marriage_certificate'
+translationKey: belgium-request_for_marriage_certificate
 title: "Aanvraag voor huwelijksakte"
 author: "Ricardo Batista"
 date: "2024-06-07"

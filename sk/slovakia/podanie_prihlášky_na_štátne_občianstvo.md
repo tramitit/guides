@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-application_for_citizenship'
+translationKey: slovakia-application_for_citizenship
 title: "Žiadosť o slovenské občianstvo"
 author: "Ricardo Batista"
 date: "2024-06-07"

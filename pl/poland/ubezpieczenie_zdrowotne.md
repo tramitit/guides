@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-health_insurance'
+translationKey: poland-health_insurance
 title: "Ubezpieczenie zdrowotne w Polsce"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-income_tax_declaration'
+translationKey: austria-income_tax_declaration
 title: "Einkommenssteuererklärung"
 author: "Ricardo Batista"
 date: "2024-06-07"

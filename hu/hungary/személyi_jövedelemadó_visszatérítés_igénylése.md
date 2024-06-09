@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-personal_income_tax_refund_request'
+translationKey: hungary-personal_income_tax_refund_request
 title: "Személyes jövedelemadó-visszatérítés kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

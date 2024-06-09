@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-id_card_application'
+translationKey: austria-id_card_application
 title: "Personalausweis beantragen"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-sex_offense_certificate_request'
+translationKey: spain-sex_offense_certificate_request
 title: "Solicitud de Certificado de Delito Sexual"
 author: "Ricardo Batista"
 date: "2024-06-07"

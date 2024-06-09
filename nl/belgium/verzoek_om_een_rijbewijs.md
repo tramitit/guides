@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_a_driving_license'
+translationKey: belgium-request_for_a_driving_license
 title: "Aanvraag voor een Rijbewijs in België"
 author: "Ricardo Batista"
 date: "2024-06-07"

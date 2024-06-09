@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-domestic_foreign_passport_special_procedure'
+translationKey: hungary-domestic_foreign_passport_special_procedure
 title: "Belföldi külföldútlevél speciális eljárás"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-minimum_security_application'
+translationKey: austria-minimum_security_application
 title: "Minimale Sicherheitsanwendung"
 author: "Ricardo Batista"
 date: "2024-06-07"

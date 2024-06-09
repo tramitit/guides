@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_work_permit'
+translationKey: belgium-request_for_work_permit
 title: "Demande de permis de travail"
 author: "Ricardo Batista"
 date: "2024-06-07"

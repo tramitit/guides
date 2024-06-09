@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_proof_of_residence'
+translationKey: belgium-request_for_proof_of_residence
 title: "Demande de preuve de résidence"
 author: "Ricardo Batista"
 date: "2024-06-07"

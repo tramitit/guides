@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-application_for_a_drivers_license'
+translationKey: germany-application_for_a_drivers_license
 title: "Beantragung eines Führerscheins in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

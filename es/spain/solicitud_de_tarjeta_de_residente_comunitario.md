@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-eu_resident_card_application'
+translationKey: spain-eu_resident_card_application
 title: "Solicitud de Tarjeta de Residencia de la UE"
 author: "Ricardo Batista"
 date: "2024-06-07"

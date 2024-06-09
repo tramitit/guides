@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-application_for_a_foreign_tax_identification_number'
+translationKey: germany-application_for_a_foreign_tax_identification_number
 title: "Antrag auf eine ausländische Steueridentifikationsnummer"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -6,7 +6,7 @@ categories: ["Croatia"]
 meta_title: "How to Register a Foreigner's Residence in Croatia"
 description: "Detailed guide on the process of registering a foreigner's residence in Croatia. Covers procedure, required documents, and service providers."
 draft: false
-translationKey: "croatia-registration_of_foreigners'_residence"
+translationKey: "croatia-registration_of_foreigners_residence"
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-last_will_certificate_request'
+translationKey: spain-last_will_certificate_request
 title: "Solicitud de Certificado de Última Voluntad"
 author: "Ricardo Batista"
 date: "2024-06-07"

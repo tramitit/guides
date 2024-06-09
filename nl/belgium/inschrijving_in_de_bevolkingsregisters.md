@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-registration_in_the_population_registers'
+translationKey: belgium-registration_in_the_population_registers
 title: "Inschrijving in de bevolkingsregisters"
 author: "Ricardo Batista"
 date: "2024-06-07"

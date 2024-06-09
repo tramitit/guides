@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-irpef_refund_request'
+translationKey: italy-irpef_refund_request
 title: "Richiesta di Rimborso IRPEF"
 author: "Ricardo Batista"
 date: "2024-06-07"

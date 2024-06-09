@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-naturalization_application'
+translationKey: france-naturalization_application
 title: "Demande de naturalisation"
 author: "Ricardo Batista"
 date: "2024-06-07"

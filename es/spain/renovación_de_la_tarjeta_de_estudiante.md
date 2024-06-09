@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-student_card_renewal'
+translationKey: spain-student_card_renewal
 title: "Renovación de Tarjeta de Estudiante"
 author: "Ricardo Batista"
 date: "2024-06-07"

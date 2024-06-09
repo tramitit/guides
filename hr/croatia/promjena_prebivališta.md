@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-change_of_residence'
+translationKey: croatia-change_of_residence
 title: "Promjena prebivališta"
 author: "Ricardo Batista"
 date: "2024-06-07"

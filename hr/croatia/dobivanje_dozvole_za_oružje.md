@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-obtaining_a_firearms_license'
+translationKey: croatia-obtaining_a_firearms_license
 title: "Dobivanje dozvole za oružje"
 author: "Ricardo Batista"
 date: "2024-06-08"

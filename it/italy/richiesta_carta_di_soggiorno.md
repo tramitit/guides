@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-residence_card_request'
+translationKey: italy-residence_card_request
 title: "Richiesta di Carta di Residenza"
 author: "Ricardo Batista"
 date: "2024-06-07"

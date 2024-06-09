@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-obtaining_study_visa'
+translationKey: romania-obtaining_study_visa
 
 title: "Obținerea Vizei de Studiu"
 author: "Ricardo Batista"

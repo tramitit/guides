@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-application_for_financial_grants_for_entrepreneurs'
+translationKey: slovakia-application_for_financial_grants_for_entrepreneurs
 
 title: "Žiadosť o finančné granty pre podnikateľov"
 author: "Ricardo Batista"

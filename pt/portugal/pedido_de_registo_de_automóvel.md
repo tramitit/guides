@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_car_registration'
+translationKey: portugal-request_for_car_registration
 title: "Pedido de Registo de Automóvel"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_resident_card_for_foreign_citizens'
+translationKey: portugal-request_for_resident_card_for_foreign_citizens
 
 title: "Pedido de Cartão de Residente para Cidadãos Estrangeiros"
 author: "Ricardo Batista"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-language_exam_certificate_request'
+translationKey: hungary-language_exam_certificate_request
 title: "Nyelvvizsga igazolás kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

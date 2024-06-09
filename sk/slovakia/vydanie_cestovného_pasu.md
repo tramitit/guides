@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-issuance_of_passport'
+translationKey: slovakia-issuance_of_passport
 title: "Vydanie slovenského pasu"
 author: "Ricardo Batista"
 date: "2024-06-07"

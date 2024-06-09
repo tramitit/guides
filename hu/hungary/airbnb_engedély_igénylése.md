@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-airbnb_permit_application'
+translationKey: hungary-airbnb_permit_application
 title: "Airbnb engedélykérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

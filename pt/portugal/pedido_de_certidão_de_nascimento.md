@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_birth_certificate'
+translationKey: portugal-request_for_birth_certificate
 title: "Pedido de Certidão de Nascimento"
 author: "Ricardo Batista"
 date: "2024-06-07"

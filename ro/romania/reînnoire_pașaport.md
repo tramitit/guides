@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-passport_renewal'
+translationKey: romania-passport_renewal
 title: "Reînnoirea pașaportului"
 author: "Ricardo Batista"
 date: "2024-06-07"

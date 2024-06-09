@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-daycare_registration'
+translationKey: france-daycare_registration
 title: "Inscription à la garderie"
 author: "Ricardo Batista"
 date: "2024-06-07"

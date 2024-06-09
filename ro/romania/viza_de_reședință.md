@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-residence_visa'
+translationKey: romania-residence_visa
 title: "Viză de Rezidență"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-request_for_health_certificate'
+translationKey: hungary-request_for_health_certificate
 title: "Egészségi igazolás kérelme"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-issuance_of_citizenship_certificate'
+translationKey: croatia-issuance_of_citizenship_certificate
 title: "Izdavanje Potvrde o Hrvatskom Državljanstvu"
 author: "Ricardo Batista"
 date: "2024-06-08"

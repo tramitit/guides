@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-joining_the_state_pension_system'
+translationKey: hungary-joining_the_state_pension_system
 title: "Csatlakozás az Állami Nyugdíjrendszerhez"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_medical_appointment_at_sns'
+translationKey: portugal-request_for_medical_appointment_at_sns
 title: "Pedido de Consulta Médica no SNS"
 author: "Ricardo Batista"
 date: "2024-06-07"

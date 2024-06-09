@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-marriage_certificate_application'
+translationKey: austria-marriage_certificate_application
 title: "Heiratsurkundenantrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

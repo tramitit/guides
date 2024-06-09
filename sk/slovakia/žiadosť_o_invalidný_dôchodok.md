@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-application_for_disability_pension'
+translationKey: slovakia-application_for_disability_pension
 title: "Žiadosť o invalidný dôchodok"
 author: "Ricardo Batista"
 date: "2024-06-07"

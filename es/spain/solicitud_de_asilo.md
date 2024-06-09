@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-asylum_application'
+translationKey: spain-asylum_application
 title: "Solicitud de Asilo en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

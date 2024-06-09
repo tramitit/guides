@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-family_allowance_application'
+translationKey: france-family_allowance_application
 title: "Demande d'allocation familiale"
 author: "Ricardo Batista"
 date: "2024-06-07"

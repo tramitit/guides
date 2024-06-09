@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-id_card_loss_report'
+translationKey: austria-id_card_loss_report
 title: "Verlustmeldung Personalausweis"
 author: "Ricardo Batista"
 date: "2024-06-07"

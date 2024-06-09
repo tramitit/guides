@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-university_enrollment_management'
+translationKey: hungary-university_enrollment_management
 title: "Egyetemi felvételi kezelés"
 author: "Ricardo Batista"
 date: "2024-06-07"

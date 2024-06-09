@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-rental_assistance_application'
+translationKey: spain-rental_assistance_application
 title: "Solicitud de Asistencia de Alquiler"
 author: "Ricardo Batista"
 date: "2024-06-07"

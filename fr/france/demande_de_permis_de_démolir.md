@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-demolition_permit_application'
+translationKey: france-demolition_permit_application
 title: "Demande de permis de démolition"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_residence_permit'
+translationKey: belgium-request_for_residence_permit
 title: "Demande de permis de séjour"
 author: "Ricardo Batista"
 date: "2024-06-07"

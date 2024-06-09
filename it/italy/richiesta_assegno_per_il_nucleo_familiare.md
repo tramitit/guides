@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-family_allowance_request'
+translationKey: italy-family_allowance_request
 title: "Richiesta di Assegno Familiare"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-birth_certificate_application'
+translationKey: austria-birth_certificate_application
 title: "Geburtsurkunde Antrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

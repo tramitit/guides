@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-school_enrollment'
+translationKey: italy-school_enrollment
 title: "Iscrizione a Scuola in Italia"
 author: "Ricardo Batista"
 date: "2024-06-07"

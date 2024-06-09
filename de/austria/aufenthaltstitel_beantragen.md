@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-residence_permit_application'
+translationKey: austria-residence_permit_application
 title: "Aufenthaltstitelantrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

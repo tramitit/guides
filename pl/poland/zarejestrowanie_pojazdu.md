@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-vehicle_registration'
+translationKey: poland-vehicle_registration
 title: "Rejestracja pojazdów"
 author: "Ricardo Batista"
 date: "2024-06-07"

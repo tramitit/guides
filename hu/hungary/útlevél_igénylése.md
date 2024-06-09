@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-passport_application'
+translationKey: hungary-passport_application
 title: "Útlevél kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

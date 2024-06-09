@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-vehicle_technical_inspection_appointment_booking'
+translationKey: hungary-vehicle_technical_inspection_appointment_booking
 title: "Jármű műszaki vizsgára időpont foglalás"
 author: "Ricardo Batista"
 date: "2024-06-07"

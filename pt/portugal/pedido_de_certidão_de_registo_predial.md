@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_land_registry_certificate'
+translationKey: portugal-request_for_land_registry_certificate
 title: "Pedido de Certidão de Registo Predial"
 author: "Ricardo Batista"
 date: "2024-06-07"

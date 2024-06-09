@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-death_registration'
+translationKey: spain-death_registration
 title: "Registro de Defunción en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

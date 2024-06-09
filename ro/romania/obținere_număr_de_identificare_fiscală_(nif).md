@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-obtaining_tax_identification_number_(tin)'
+translationKey: romania-obtaining_tax_identification_number_(tin)
 title: "Obținerea Numărului de Identificare Fiscală (NIF)"
 author: "Ricardo Batista"
 date: "2024-06-07"

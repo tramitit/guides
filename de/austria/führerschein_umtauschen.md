@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-drivers_license_exchange'
+translationKey: austria-drivers_license_exchange
 title: "Führerschein Umtausch"
 author: "Ricardo Batista"
 date: "2024-06-07"

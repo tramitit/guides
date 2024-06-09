@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-lease_agreement'
+translationKey: romania-lease_agreement
 title: "Acord de Închiriere"
 author: "Ricardo Batista"
 date: "2024-06-07"

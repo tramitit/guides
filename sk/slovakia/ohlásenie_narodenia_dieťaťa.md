@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-notification_of_child's_birth'
+translationKey: slovakia-notification_of_childs_birth
 title: "Oznámenie narodenia dieťaťa"
 author: "Ricardo Batista"
 date: "2024-06-07"

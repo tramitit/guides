@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-certificate_of_registration_of_residence'
+translationKey: poland-certificate_of_registration_of_residence
 title: "Świadectwo zameldowania"
 author: "Ricardo Batista"
 date: "2024-06-07"

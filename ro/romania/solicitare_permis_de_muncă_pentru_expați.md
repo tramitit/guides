@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-work_permit_application_for_expats'
+translationKey: romania-work_permit_application_for_expats
 title: "Cerere de permis de muncă pentru expați"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_portuguese_passport'
+translationKey: portugal-request_for_portuguese_passport
 title: "Pedido de Passaporte Português"
 author: "Ricardo Batista"
 date: "2024-06-07"

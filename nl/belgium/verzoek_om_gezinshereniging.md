@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_family_reunification'
+translationKey: belgium-request_for_family_reunification
 
 title: "Verzoek om familiehereniging"
 author: "Ricardo Batista"

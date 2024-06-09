@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-drivers_license'
+translationKey: romania-drivers_license
 title: "Permis de conducere în România"
 author: "Ricardo Batista"
 date: "2024-06-07"

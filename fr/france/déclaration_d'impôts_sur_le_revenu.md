@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-income_tax_declaration'
+translationKey: france-income_tax_declaration
 title: "Déclaration de revenus"
 author: "Ricardo Batista"
 date: "2024-06-07"

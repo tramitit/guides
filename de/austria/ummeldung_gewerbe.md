@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-business_re-registration'
+translationKey: austria-business_re-registration
 title: "Geschäftsummeldung in Österreich"
 author: "Ricardo Batista"
 date: "2024-06-07"

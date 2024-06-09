@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-exam_registration'
+translationKey: austria-exam_registration
 title: "Prüfungsanmeldung"
 author: "Ricardo Batista"
 date: "2024-06-07"

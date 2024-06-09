@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-duplicate_identity_card_request'
+translationKey: italy-duplicate_identity_card_request
 
 title: "Richiesta di duplicato della carta d'identità"
 author: "Ricardo Batista"

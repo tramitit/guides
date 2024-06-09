@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-filing_for_divorce'
+translationKey: slovakia-filing_for_divorce
 
 title: "Podanie žiadosti o rozvod"
 author: "Ricardo Batista"

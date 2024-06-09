@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-registration_certificate'
+translationKey: austria-registration_certificate
 title: "Meldebescheinigung (Meldezettel)"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-criminal_record_certificate_application'
+translationKey: austria-criminal_record_certificate_application
 title: "Antrag auf ein Führungszeugnis"
 author: "Ricardo Batista"
 date: "2024-06-07"

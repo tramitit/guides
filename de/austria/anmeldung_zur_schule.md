@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-school_registration'
+translationKey: austria-school_registration
 title: "Schulanmeldung in Österreich"
 author: "Ricardo Batista"
 date: "2024-06-07"

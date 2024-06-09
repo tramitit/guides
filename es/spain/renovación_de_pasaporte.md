@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-passport_renewal'
+translationKey: spain-passport_renewal
 title: "Renovación de Pasaporte"
 author: "Ricardo Batista"
 date: "2024-06-07"

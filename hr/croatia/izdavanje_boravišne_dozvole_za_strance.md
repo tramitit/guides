@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-issuance_of_residence_permit_for_foreigners'
+translationKey: croatia-issuance_of_residence_permit_for_foreigners
 title: "Izdavanje boravišne dozvole za strance"
 author: "Ricardo Batista"
 date: "2024-06-08"

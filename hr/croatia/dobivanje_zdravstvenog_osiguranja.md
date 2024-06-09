@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-obtaining_health_insurance'
+translationKey: croatia-obtaining_health_insurance
 title: "Dobivanje zdravstvenog osiguranja u Hrvatskoj"
 author: "Ricardo Batista"
 date: "2024-06-08"

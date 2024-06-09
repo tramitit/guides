@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-employment_contract'
+translationKey: romania-employment_contract
 
 title: "Contract de angajare"
 author: "Ricardo Batista"

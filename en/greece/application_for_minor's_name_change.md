@@ -6,7 +6,7 @@ categories: ["Greece"]
 meta_title: "Procedure for Applying for a Minor's Name Change"
 description: "A detailed guide on how to apply for a minor's name change procedure"
 draft: false
-translationKey: "greece-application_for_minor's_name_change"
+translationKey: "greece-application_for_minors_name_change"
 ---
 
 ## Description

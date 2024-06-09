@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-marriage_registration'
+translationKey: croatia-marriage_registration
 title: "Registracija braka"
 author: "Ricardo Batista"
 date: "2024-06-07"

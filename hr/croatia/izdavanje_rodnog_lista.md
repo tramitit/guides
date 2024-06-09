@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-issuance_of_birth_certificate'
+translationKey: croatia-issuance_of_birth_certificate
 title: "Izdavanje rodne svjedodžbe"
 author: "Ricardo Batista"
 date: "2024-06-08"

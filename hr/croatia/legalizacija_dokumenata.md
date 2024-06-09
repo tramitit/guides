@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-document_legalization'
+translationKey: croatia-document_legalization
 title: "Legalizacija dokumenata"
 author: "Ricardo Batista"
 date: "2024-06-08"

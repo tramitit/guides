@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-issuance_of_marriage_certificate'
+translationKey: slovakia-issuance_of_marriage_certificate
 title: "Vydanie sobášneho osvedčenia na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"

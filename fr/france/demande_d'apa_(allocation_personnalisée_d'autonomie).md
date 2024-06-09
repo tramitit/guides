@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-application_for_personalized_autonomy_allowance_(apa)'
+translationKey: france-application_for_personalized_autonomy_allowance_(apa)
 
 title: "Demande d'Allocation Personnalisée d'Autonomie (APA)"
 author: "JOHN DOE"

@@ -1,5 +1,5 @@
 --- 
-translationKey: 'romania-passport'
+translationKey: romania-passport
 
 title: "Pașaport"
 author: "Ricardo Batista"

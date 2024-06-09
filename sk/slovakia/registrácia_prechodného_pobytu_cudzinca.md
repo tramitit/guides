@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-registration_of_a_foreigner’s_temporary_residence'
+translationKey: slovakia-registration_of_a_foreigner’s_temporary_residence
 title: "Registrácia dočasného pobytu cudzinca"
 author: "Ricardo Batista"
 date: "2024-06-07"

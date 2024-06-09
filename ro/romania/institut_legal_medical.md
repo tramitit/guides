@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-medical_legal_institute'
+translationKey: romania-medical_legal_institute
 title: "Institutul Medical Legal"
 author: "Ricardo Batista"
 date: "2024-06-07"

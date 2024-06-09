@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-application_for_maternity_leave'
+translationKey: slovakia-application_for_maternity_leave
 title: "Žiadosť o materskú dovolenku"
 author: "Ricardo Batista"
 date: "2024-06-07"

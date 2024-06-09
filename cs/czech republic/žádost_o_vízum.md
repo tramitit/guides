@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_visa'
+translationKey: czech republic-application_for_visa
 title: "Žádost o vízum do České republiky"
 author: "Ricardo Batista"
 date: "2024-06-07"

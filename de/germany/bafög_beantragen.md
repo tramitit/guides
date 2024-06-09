@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_student_financial_aid'
+translationKey: germany-applying_for_student_financial_aid
 title: "Beantragung von Studienfinanzierung in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

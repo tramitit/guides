@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-sick_pay_application'
+translationKey: hungary-sick_pay_application
 title: "Betegszabadság kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

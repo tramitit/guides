@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-report_change_of_address'
+translationKey: belgium-report_change_of_address
 title: "Signaler un changement d'adresse"
 author: "Ricardo Batista"
 date: "2024-06-07"

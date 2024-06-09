@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-preschool_registration'
+translationKey: france-preschool_registration
 title: "Inscription à la maternelle"
 author: "Ricardo Batista"
 date: "2024-06-07"

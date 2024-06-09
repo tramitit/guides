@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-reporting_obligation'
+translationKey: austria-reporting_obligation
 title: "Meldepflicht"
 author: "Ricardo Batista"
 date: "2024-06-07"

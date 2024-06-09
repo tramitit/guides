@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-change_of_surname_notification'
+translationKey: poland-change_of_surname_notification
 title: "Powiadomienie o zmianie nazwiska"
 author: "Ricardo Batista"
 date: "2024-06-07"

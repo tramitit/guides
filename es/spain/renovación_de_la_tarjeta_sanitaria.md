@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-health_card_renewal'
+translationKey: spain-health_card_renewal
 title: "Renovación de Tarjeta Sanitaria"
 author: "Ricardo Batista"
 date: "2024-06-07"

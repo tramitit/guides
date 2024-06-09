@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_naturalization'
+translationKey: belgium-request_for_naturalization
 title: "Demande de naturalisation"
 author: "Ricardo Batista"
 date: "2024-06-07"

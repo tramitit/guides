@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-university_registration'
+translationKey: france-university_registration
 title: "Inscription universitaire"
 author: "Ricardo Batista"
 date: "2024-06-07"

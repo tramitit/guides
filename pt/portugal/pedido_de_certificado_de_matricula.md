@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_registration_certificate'
+translationKey: portugal-request_for_registration_certificate
 title: "Pedido de Certificado de Registo"
 author: "Ricardo Batista"
 date: "2024-06-07"

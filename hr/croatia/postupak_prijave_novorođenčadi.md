@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-newborn_registration_process'
+translationKey: croatia-newborn_registration_process
 title: "Postupak registracije novorođenčeta"
 author: "Ricardo Batista"
 date: "2024-06-07"

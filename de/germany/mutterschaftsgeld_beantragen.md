@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_maternity_benefit'
+translationKey: germany-applying_for_maternity_benefit
 
 title: "Beantragung von Mutterschaftsgeld"
 author: "Ricardo Batista"

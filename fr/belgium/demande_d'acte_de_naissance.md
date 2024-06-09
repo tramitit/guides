@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_birth_certificate'
+translationKey: belgium-request_for_birth_certificate
 title: "Demande d'extrait de naissance"
 author: "Ricardo Batista"
 date: "2024-06-07"

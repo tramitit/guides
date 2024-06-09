@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-change_of_residence_notification'
+translationKey: poland-change_of_residence_notification
 title: "Zawiadomienie o zmianie miejsca zamieszkania w Polsce"
 author: "Ricardo Batista"
 date: "2024-06-07"

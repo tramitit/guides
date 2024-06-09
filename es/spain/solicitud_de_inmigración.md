@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-immigration_application'
+translationKey: spain-immigration_application
 title: "Solicitud de Inmigración"
 author: "Ricardo Batista"
 date: "2024-06-07"

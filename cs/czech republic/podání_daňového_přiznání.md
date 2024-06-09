@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-submitting_a_tax_return'
+translationKey: czech republic-submitting_a_tax_return
 title: "Podání daňového přiznání v České republice"
 author: "John Doe"
 date: "2024-06-07"

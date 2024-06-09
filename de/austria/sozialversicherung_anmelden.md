@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-social_insurance_registration'
+translationKey: austria-social_insurance_registration
 title: "Sozialversicherungsregistrierung"
 author: "Ricardo Batista"
 date: "2024-06-07"

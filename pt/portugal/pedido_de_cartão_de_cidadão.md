@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_citizen_card'
+translationKey: portugal-request_for_citizen_card
 title: "Pedido de Cartão de Cidadão"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_residence_certificate'
+translationKey: portugal-request_for_residence_certificate
 title: "Pedido de Certificado de Residência"
 author: "Ricardo Batista"
 date: "2024-06-07"

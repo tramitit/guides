@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_a_residence_permit'
+translationKey: germany-applying_for_a_residence_permit
 title: "Aufenthaltserlaubnis in Deutschland beantragen"
 author: "Ricardo Batista"
 date: "2024-06-07"

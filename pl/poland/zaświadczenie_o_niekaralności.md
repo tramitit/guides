@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-certificate_of_no_criminal_record'
+translationKey: poland-certificate_of_no_criminal_record
 title: "Oświadczenie o braku przeszłości kryminalnej"
 author: "Ricardo Batista"
 date: "2024-06-07"

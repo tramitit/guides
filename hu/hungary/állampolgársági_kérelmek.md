@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-citizenship_applications'
+translationKey: hungary-citizenship_applications
 title: "Magyar Állampolgárságigénylések"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-copy_of_notarial_documents'
+translationKey: hungary-copy_of_notarial_documents
 title: "Notáriusi dokumentumok másolata"
 author: "Ricardo Batista"
 date: "2024-06-07"

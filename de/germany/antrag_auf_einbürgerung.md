@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-application_for_naturalization'
+translationKey: germany-application_for_naturalization
 title: "Antrag auf Einbürgerung in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

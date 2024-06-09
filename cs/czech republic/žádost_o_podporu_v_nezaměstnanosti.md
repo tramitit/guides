@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_unemployment_benefit'
+translationKey: czech republic-application_for_unemployment_benefit
 title: "Žádost o podporu v nezaměstnanosti"
 author: "Ricardo Batista"
 date: "2024-06-07"

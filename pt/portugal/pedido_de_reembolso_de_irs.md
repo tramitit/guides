@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_irs_refund'
+translationKey: portugal-request_for_irs_refund
 title: "Pedido de Reembolso do IRS"
 author: "Ricardo Batista"
 date: "2024-06-07"

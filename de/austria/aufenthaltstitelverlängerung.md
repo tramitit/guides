@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-residence_permit_renewal'
+translationKey: austria-residence_permit_renewal
 title: "Aufenthaltserneuerung"
 author: "Ricardo Batista"
 date: "2024-06-07"

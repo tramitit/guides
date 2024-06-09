@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-application_for_social_housing'
+translationKey: france-application_for_social_housing
 title: "Demande de logement social"
 author: "Ricardo Batista"
 date: "2024-06-07"

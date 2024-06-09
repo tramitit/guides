@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-application_for_social_benefits'
+translationKey: slovakia-application_for_social_benefits
 title: "Žiadosť o sociálne dávky"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-change_of_car_ownership'
+translationKey: portugal-change_of_car_ownership
 title: "Mudança de Propriedade de Veículo"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-tax_code_change'
+translationKey: italy-tax_code_change
 title: "Cambio del Codice Fiscale"
 author: "Ricardo Batista"
 date: "2024-06-07"

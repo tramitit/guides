@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-vehicle_visa'
+translationKey: romania-vehicle_visa
 title: "Viza de Vehicul"
 author: "Ricardo Batista"
 date: "2024-06-07"

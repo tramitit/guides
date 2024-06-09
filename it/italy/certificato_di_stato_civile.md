@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-civil_status_certificate'
+translationKey: italy-civil_status_certificate
 title: "Certificato di Stato Civile"
 author: "Ricardo Batista"
 date: "2024-06-07"

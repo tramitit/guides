@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-vehicle_registration'
+translationKey: germany-vehicle_registration
 title: "Fahrzeuganmeldung in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

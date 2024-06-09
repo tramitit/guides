@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-passport_renewal'
+translationKey: austria-passport_renewal
 title: "Reisepassverlängerung"
 author: "Ricardo Batista"
 date: "2024-06-07"

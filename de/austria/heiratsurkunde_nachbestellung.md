@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-reorder_marriage_certificate'
+translationKey: austria-reorder_marriage_certificate
 title: "Heiratsurkunde neu bestellen"
 author: "Ricardo Batista"
 date: "2024-06-07"

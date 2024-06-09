@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-tax_payment'
+translationKey: czech republic-tax_payment
 title: "Daňové platby v České republice"
 author: "Ricardo Batista"
 date: "2024-06-07"

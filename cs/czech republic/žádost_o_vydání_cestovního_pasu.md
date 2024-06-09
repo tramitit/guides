@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_issuing_a_passport'
+translationKey: czech republic-application_for_issuing_a_passport
 title: "Žádost o vydání pasu"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-pension_application'
+translationKey: hungary-pension_application
 title: "Nyugdíj kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

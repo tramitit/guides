@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-retirement_pension_application'
+translationKey: france-retirement_pension_application
 title: "Demande de pension de retraite en France"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-vehicle_deregistration'
+translationKey: germany-vehicle_deregistration
 title: "Fahrzeugabmeldung"
 author: "Ricardo Batista"
 date: "2024-06-07"

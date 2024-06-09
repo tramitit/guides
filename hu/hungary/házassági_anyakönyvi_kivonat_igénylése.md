@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-marriage_certificate_application'
+translationKey: hungary-marriage_certificate_application
 title: "Házassági anyakönyvi kivonat kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

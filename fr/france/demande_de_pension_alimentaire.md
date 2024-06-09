@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-alimony_application'
+translationKey: france-alimony_application
 title: "Demande de pension alimentaire en France"
 author: "Ricardo Batista"
 date: "2024-06-07"

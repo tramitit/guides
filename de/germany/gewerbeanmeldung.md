@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-business_registration'
+translationKey: germany-business_registration
 title: "Gewerbeanmeldung in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

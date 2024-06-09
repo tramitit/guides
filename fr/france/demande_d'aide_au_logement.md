@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-housing_assistance_application'
+translationKey: france-housing_assistance_application
 title: "Demande d'aide au logement"
 author: "Ricardo Batista"
 date: "2024-06-07"

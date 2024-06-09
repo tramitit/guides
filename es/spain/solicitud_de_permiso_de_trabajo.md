@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-work_permit_application'
+translationKey: spain-work_permit_application
 title: "Solicitud de Permiso de Trabajo"
 author: "Ricardo Batista"
 date: "2024-06-07"

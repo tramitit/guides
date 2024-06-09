@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-income_certificate'
+translationKey: romania-income_certificate
 title: "Certificat de Venit" 
 author: "Ricardo Batista"
 date: "2024-06-07"

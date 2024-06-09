@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_imi_exemption'
+translationKey: portugal-request_for_imi_exemption
 title: "Pedido de Isenção de IMI"
 author: "Ricardo Batista"
 date: "2024-06-07"

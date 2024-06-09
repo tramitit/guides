@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-registering_for_the_broadcasting_fee'
+translationKey: germany-registering_for_the_broadcasting_fee
 title: "Anmeldung zum Rundfunkbeitrag in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

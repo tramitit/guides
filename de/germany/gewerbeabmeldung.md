@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-business_deregistration'
+translationKey: germany-business_deregistration
 title: "Gewerbeabmeldung in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

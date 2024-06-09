@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_acquiring_a_building_plot'
+translationKey: czech republic-application_for_acquiring_a_building_plot
 title: "Žádost o získání stavební parcely"
 author: "Ricardo Batista"
 date: "2024-06-07"

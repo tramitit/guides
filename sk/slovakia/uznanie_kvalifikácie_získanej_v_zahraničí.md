@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-recognition_of_qualifications_obtained_abroad'
+translationKey: slovakia-recognition_of_qualifications_obtained_abroad
 title: "Uznávanie kvalifikácií získaných v zahraničí"
 author: "Ricardo Batista"
 date: "2024-06-07"

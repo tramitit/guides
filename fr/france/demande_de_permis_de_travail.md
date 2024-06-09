@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-work_permit_application'
+translationKey: france-work_permit_application
 title: "Demande de permis de travail"
 author: "Ricardo Batista"
 date: "2024-06-07"

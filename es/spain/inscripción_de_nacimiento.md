@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-birth_registration'
+translationKey: spain-birth_registration
 title: "Registro de Nacimiento en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

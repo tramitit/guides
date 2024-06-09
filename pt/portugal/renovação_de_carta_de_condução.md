@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-renewal_of_driving_license'
+translationKey: portugal-renewal_of_driving_license
 title: "Renovação da Carta de Condução"
 author: "Ricardo Batista"
 date: "2024-06-07"

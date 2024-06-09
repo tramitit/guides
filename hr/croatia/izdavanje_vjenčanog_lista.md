@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-issuance_of_marriage_certificate'
+translationKey: croatia-issuance_of_marriage_certificate
 title: "Izdavanje vjenčane potvrde u Hrvatskoj"
 author: "Ricardo Batista"
 date: "2024-06-08"

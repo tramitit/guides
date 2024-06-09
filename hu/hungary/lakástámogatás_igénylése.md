@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-housing_support_application'
+translationKey: hungary-housing_support_application
 title: "Lakhatástámogatási kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

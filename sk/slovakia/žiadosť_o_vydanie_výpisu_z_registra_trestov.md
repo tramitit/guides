@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-application_for_a_criminal_record_extract'
+translationKey: slovakia-application_for_a_criminal_record_extract
 title: "Žiadosť o výpis z registra trestov na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"

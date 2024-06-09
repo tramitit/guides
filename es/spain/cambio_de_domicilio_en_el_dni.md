@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-change_of_address_on_id'
+translationKey: spain-change_of_address_on_id
 title: "Cambio de dirección en el DNI"
 author: "Ricardo Batista"
 date: "2024-06-07"

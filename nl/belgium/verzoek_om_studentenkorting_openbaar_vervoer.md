@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_student_discount_public_transport'
+translationKey: belgium-request_for_student_discount_public_transport
 title: "Aanvraag voor studentenkorting openbaar vervoer"
 author: "Ricardo Batista"
 date: "2024-06-07"

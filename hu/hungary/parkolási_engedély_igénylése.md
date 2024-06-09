@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-parking_permit_application'
+translationKey: hungary-parking_permit_application
 title: "Parkolási engedély kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

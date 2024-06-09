@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-registration_in_the_commercial_register'
+translationKey: slovakia-registration_in_the_commercial_register
 title: "Registrácia v obchodnom registri"
 author: "Ricardo Batista"
 date: "2024-06-07"

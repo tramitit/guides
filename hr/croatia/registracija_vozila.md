@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-vehicle_registration'
+translationKey: croatia-vehicle_registration
 title: "Registracija vozila u Hrvatskoj"
 author: "Ricardo Batista"
 date: "2024-06-07"

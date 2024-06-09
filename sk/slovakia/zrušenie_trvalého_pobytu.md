@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-cancellation_of_permanent_residence'
+translationKey: slovakia-cancellation_of_permanent_residence
 title: "Zrušenie trvalého pobytu"
 author: "Ricardo Batista"
 date: "2024-06-07"

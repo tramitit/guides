@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_a_building_permit'
+translationKey: germany-applying_for_a_building_permit
 title: "Beantragung einer Baugenehmigung in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

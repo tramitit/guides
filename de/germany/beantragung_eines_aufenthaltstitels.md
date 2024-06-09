@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-application_for_a_residence_title'
+translationKey: germany-application_for_a_residence_title
 title: "Antrag auf einen Aufenthaltstitel in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

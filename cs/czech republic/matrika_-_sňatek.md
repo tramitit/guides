@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-registry_office_-_marriage'
+translationKey: czech republic-registry_office_-_marriage
 title: "Matriční úřad - manželství"
 author: "Ricardo Batista"
 date: "2024-06-07"

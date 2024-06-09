@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-certificate_of_authenticity'
+translationKey: romania-certificate_of_authenticity
 title: "Certificat de autenticitate"
 author: "Ricardo Batista"
 date: "2024-06-07"

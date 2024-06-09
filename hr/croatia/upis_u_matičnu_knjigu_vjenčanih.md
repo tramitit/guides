@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-entry_into_the_marriage_register'
+translationKey: croatia-entry_into_the_marriage_register
 title: "Upis u Registar brakova u Hrvatskoj"
 author: "Ricardo Batista"
 date: "2024-06-08"

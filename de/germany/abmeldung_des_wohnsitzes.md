@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-deregistration_of_residence'
+translationKey: germany-deregistration_of_residence
 title: "Abmeldung des Wohnsitzes in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

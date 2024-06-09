@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-building_permit_application'
+translationKey: france-building_permit_application
 title: "Demande de permis de construire"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-passport_issuance'
+translationKey: italy-passport_issuance
 title: "Emissione del Passaporto"
 author: "Ricardo Batista"
 date: "2024-06-07"

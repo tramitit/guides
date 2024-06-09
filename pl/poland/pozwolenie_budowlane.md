@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-building_permit'
+translationKey: poland-building_permit
 title: "Pozwolenie na Budowę"
 author: "Ricardo Batista"
 date: "2024-06-07"

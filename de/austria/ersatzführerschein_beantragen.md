@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-replacement_drivers_license_application'
+translationKey: austria-replacement_drivers_license_application
 title: "Antrag auf Ersatzführerschein"
 author: "Ricardo Batista"
 date: "2024-06-07"

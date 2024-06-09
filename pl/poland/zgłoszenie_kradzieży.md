@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-theft_report'
+translationKey: poland-theft_report
 title: "Raport o kradzieży"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-change_of_address_on_residence_permit'
+translationKey: portugal-change_of_address_on_residence_permit
 title: "Alteração de Endereço no Título de Residência"
 author: "Ricardo Batista"
 date: "2024-06-07"

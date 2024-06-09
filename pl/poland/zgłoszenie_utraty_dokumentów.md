@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-report_of_lost_documents'
+translationKey: poland-report_of_lost_documents
 title: "Raport o zgubionych dokumentach"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-exchange_of_foreign_driver's_license'
+translationKey: slovakia-exchange_of_foreign_drivers_license
 title: "Výmena zahraničného vodičského preukazu"
 author: "Ricardo Batista"
 date: "2024-06-07"

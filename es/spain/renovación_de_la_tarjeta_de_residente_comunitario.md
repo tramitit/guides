@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-eu_resident_card_renewal'
+translationKey: spain-eu_resident_card_renewal
 title: "Renovación de la Tarjeta de Residencia de la UE"
 author: "Ricardo Batista"
 date: "2024-06-07"

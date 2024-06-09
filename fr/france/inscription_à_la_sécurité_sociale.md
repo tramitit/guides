@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-social_security_registration'
+translationKey: france-social_security_registration
 title: "Inscription à la Sécurité sociale en France"
 author: "Ricardo Batista"
 date: "2024-06-07"

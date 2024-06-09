@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_portuguese_nationality'
+translationKey: portugal-request_for_portuguese_nationality
 title: "Pedido de Nacionalidade Portuguesa"
 author: "Ricardo Batista"
 date: "2024-06-07"

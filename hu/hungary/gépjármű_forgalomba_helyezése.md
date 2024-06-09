@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-vehicle_registration'
+translationKey: hungary-vehicle_registration
 title: "Jármű regisztráció Magyarországon"
 author: "Ricardo Batista"
 date: "2024-06-07"

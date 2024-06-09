@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-high_school_registration'
+translationKey: france-high_school_registration
 
 title: "Inscription au lycée"
 author: "Ricardo Batista"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-change_of_business_registration'
+translationKey: germany-change_of_business_registration
 title: "Änderung der Geschäftsanmeldung"
 author: "Ricardo Batista"
 date: "2024-06-07"

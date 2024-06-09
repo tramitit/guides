@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_debt_and_no-debt_certificate'
+translationKey: portugal-request_for_debt_and_no-debt_certificate
 title: "Pedido de Certidão de Dívida e Não Dívida"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-registration_of_residence'
+translationKey: germany-registration_of_residence
 title: "Anmeldung des Wohnsitzes"
 author: "Ricardo Batista"
 date: "2024-06-07"

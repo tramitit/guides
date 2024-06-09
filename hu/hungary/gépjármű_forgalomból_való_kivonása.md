@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-vehicle_de-registration'
+translationKey: hungary-vehicle_de-registration
 title: "Jármű lejelentése"
 author: "Ricardo Batista"
 date: "2024-06-07"

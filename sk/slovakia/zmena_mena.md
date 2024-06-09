@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-change_of_name'
+translationKey: slovakia-change_of_name
 title: "Zmena Mená"
 author: "Ricardo Batista"
 date: "2024-06-07"

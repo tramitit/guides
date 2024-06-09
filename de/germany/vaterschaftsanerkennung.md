@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-paternity_acknowledgment'
+translationKey: germany-paternity_acknowledgment
 title: "Vaterschaftsanerkennung"
 author: "Ricardo Batista"
 date: "2024-06-07"

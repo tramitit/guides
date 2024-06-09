@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-income_tax_return_filing'
+translationKey: spain-income_tax_return_filing
 title: "Declaración de impuestos sobre la renta en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

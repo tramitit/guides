@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-permanent_residency_application'
+translationKey: romania-permanent_residency_application
 title: "Cerere de Rezidență Permanentă"
 author: "Ricardo Batista"
 date: "2024-06-07"

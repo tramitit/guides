@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_a_certificate_of_conduct_online'
+translationKey: germany-applying_for_a_certificate_of_conduct_online
 title: "Online-Antrag auf ein Führungszeugnis in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

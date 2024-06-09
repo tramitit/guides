@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-tax_certificate'
+translationKey: romania-tax_certificate
 title: "Certificat fiscal"
 author: "Ricardo Batista"
 date: "2024-06-07"

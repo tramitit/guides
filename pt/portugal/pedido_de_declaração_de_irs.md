@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_income_tax_declaration'
+translationKey: portugal-request_for_income_tax_declaration
 title: "Pedido de Declaração de Imposto de Renda"
 author: "Ricardo Batista"
 date: "2024-06-07"

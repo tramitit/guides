@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-issuance_of_passport'
+translationKey: croatia-issuance_of_passport
 title: "Izdavanje putovnice"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-change_of_address'
+translationKey: france-change_of_address
 title: "Changement d'adresse"
 author: "Ricardo Batista"
 date: "2024-06-07"

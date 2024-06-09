@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-report_of_missing_id_card'
+translationKey: croatia-report_of_missing_id_card
 title: "Izvještaj o nestaloj osobnoj iskaznici"
 author: "Ricardo Batista"
 date: "2024-06-08"

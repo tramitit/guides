@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-tax_code_request'
+translationKey: italy-tax_code_request
 title: "Richiesta Codice Fiscale in Italia"
 author: "Ricardo Batista"
 date: "2024-06-07"

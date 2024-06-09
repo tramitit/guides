@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_registration_certificate_for_eu_citizen'
+translationKey: portugal-request_for_registration_certificate_for_eu_citizen
 title: "Pedido de Certificado de Registro para Cidadão da UE"
 author: "Ricardo Batista"
 date: "2024-06-07"

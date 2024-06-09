@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-vat_tax_refund_for_purchases_in_the_eu'
+translationKey: poland-vat_tax_refund_for_purchases_in_the_eu
 title: "Zwrot podatku VAT za zakupy w UE"
 author: "Ricardo Batista"
 date: "2024-06-07"

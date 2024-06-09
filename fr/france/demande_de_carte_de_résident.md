@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-resident_card_application'
+translationKey: france-resident_card_application
 title: "Guide de la demande de carte de résident"
 author: "Ricardo Batista"
 date: "2024-06-07"

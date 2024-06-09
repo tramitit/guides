@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_temporary_license_plates'
+translationKey: germany-applying_for_temporary_license_plates
 title: "Beantragung von Kurzzeitkennzeichen"
 author: "Ricardo Batista"
 date: "2024-06-07"

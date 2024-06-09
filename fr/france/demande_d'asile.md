@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-asylum_application'
+translationKey: france-asylum_application
 title: "Demande d'asile"
 author: "Ricardo Batista"
 date: "2024-06-07"

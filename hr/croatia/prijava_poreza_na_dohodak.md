@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-income_tax_declaration'
+translationKey: croatia-income_tax_declaration
 title: "Obrazac za porez na dohodak"
 author: "Ricardo Batista"
 date: "2024-06-08"

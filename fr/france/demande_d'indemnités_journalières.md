@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-daily_allowance_application'
+translationKey: france-daily_allowance_application
 title: "Demande d'indemnité journalière (Indemnités journalières)"
 author: "Ricardo Batista"
 date: "2024-06-07"

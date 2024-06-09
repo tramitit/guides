@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-name_change_registration'
+translationKey: hungary-name_change_registration
 title: "Névváltozás regisztráció Magyarországon"
 author: "Ricardo Batista"
 date: "2024-06-07"

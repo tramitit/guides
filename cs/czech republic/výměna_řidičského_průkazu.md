@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-driving_licence_exchange'
+translationKey: czech republic-driving_licence_exchange
 title: "Výměna řidičského průkazu"
 author: "Ricardo Batista"
 date: "2024-06-07"

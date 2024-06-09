@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-marriage_certificate'
+translationKey: romania-marriage_certificate
 title: "Certificat de căsătorie"
 author: "Ricardo Batista"
 date: "2024-06-07"

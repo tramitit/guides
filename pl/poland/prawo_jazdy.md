@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-driving_license'
+translationKey: poland-driving_license
 title: "Prawo jazdy"
 author: "Ricardo Batista"
 date: "2024-06-07"

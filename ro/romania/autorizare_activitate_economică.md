@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-economic_activity_authorization'
+translationKey: romania-economic_activity_authorization
 title: "Autorizare Activitate Economică"
 author: "Numele tău"
 date: "Data curentă"

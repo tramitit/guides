@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-request_educational_scholarships'
+translationKey: spain-request_educational_scholarships
 title: "Solicitar Becas Educativas"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-business_travel_permit_application'
+translationKey: france-business_travel_permit_application
 title: "Demande de permis de voyage d'affaires"
 author: "Ricardo Batista"
 date: "2024-06-07"

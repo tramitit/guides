@@ -6,7 +6,7 @@ categories: ["Slovakia"]
 meta_title: "Guide on How to Exchange Foreign Driver’s License"
 description: "This guide provides a detailed step-by-step procedure on how to exchange a foreign driver's license."
 draft: false
-translationKey: "slovakia-exchange_of_foreign_driver's_license"
+translationKey: "slovakia-exchange_of_foreign_drivers_license"
 ---
 
 ## Description

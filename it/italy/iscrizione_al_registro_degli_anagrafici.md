@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-registration_in_the_civil_registry'
+translationKey: italy-registration_in_the_civil_registry
 title: "Iscrizione all'Anagrafe"
 author: "Ricardo Batista"
 date: "2024-06-07"

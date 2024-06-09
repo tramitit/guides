@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_travel_authorization'
+translationKey: belgium-request_for_travel_authorization
 title: "Demande d'autorisation de voyage"
 author: "Ricardo Batista"
 date: "2024-06-07"

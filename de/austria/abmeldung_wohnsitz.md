@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-deregistration_of_residence'
+translationKey: austria-deregistration_of_residence
 title: "Abmeldung des Wohnsitzes"
 author: "Ricardo Batista"
 date: "2024-06-07"

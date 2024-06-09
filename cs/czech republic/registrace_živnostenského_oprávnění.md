@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-registration_of_a_trade_license'
+translationKey: czech republic-registration_of_a_trade_license
 title: "Registrace živnostenského oprávnění"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-pending_charges_request'
+translationKey: italy-pending_charges_request
 title: "Richiesta di Certificati Penali in Italia"
 author: "Ricardo Batista"
 date: "2024-06-07"

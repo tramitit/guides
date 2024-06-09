@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-id_card_renewal'
+translationKey: spain-id_card_renewal
 title: "Renovación de la Tarjeta de Identificación"
 author: "Ricardo Batista"
 date: "2024-06-07"

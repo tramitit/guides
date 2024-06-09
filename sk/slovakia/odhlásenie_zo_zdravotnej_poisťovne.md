@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-deregistering_from_health_insurance'
+translationKey: slovakia-deregistering_from_health_insurance
 
 title: "Odhlásenie z zdravotného poistenia"
 author: "Ricardo Batista"

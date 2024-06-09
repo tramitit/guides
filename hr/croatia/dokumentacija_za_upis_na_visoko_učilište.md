@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-documentation_for_university_enrollment'
+translationKey: croatia-documentation_for_university_enrollment
 title: "Dokumentacija za upis na sveučilište"
 author: "Ricardo Batista"
 date: "2024-06-08"

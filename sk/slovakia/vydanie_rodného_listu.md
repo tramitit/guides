@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-issuance_of_birth_certificate'
+translationKey: slovakia-issuance_of_birth_certificate
 title: "Vydanie rodného listu na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"

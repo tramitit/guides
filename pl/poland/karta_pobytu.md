@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-residence_permit'
+translationKey: poland-residence_permit
 title: "Zezwolenie na pobyt stały (Karta Pobytu) w Polsce"
 author: "Ricardo Batista"
 date: "2024-06-07"

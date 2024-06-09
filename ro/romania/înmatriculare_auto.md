@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-car_registration'
+translationKey: romania-car_registration
 title: "Înregistrarea mașinii"
 author: "Ricardo Batista"
 date: "2024-06-07"

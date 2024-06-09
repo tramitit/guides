@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-assignment_of_lease_agreement_notification'
+translationKey: poland-assignment_of_lease_agreement_notification
 title: "Powiadomienie o przypisaniu umowy najmu"
 author: "Ricardo Batista"
 date: "2024-06-07"

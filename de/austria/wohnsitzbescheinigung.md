@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-proof_of_residence'
+translationKey: austria-proof_of_residence
 title: "Nachweis des Wohnsitzes"
 author: "Ricardo Batista"
 date: "2024-06-07"

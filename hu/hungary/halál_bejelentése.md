@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-death_registration'
+translationKey: hungary-death_registration
 title: "Halálozás bejelentése Magyarországon"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-submitting_an_exemption_order'
+translationKey: germany-submitting_an_exemption_order
 title: "Ein Exemption Order einreichen"
 author: "Ricardo Batista"
 date: "2024-06-07"

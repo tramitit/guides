@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-change_of_residence'
+translationKey: italy-change_of_residence
 title: "Cambio di Residenza"
 author: "Ricardo Batista"
 date: "2024-06-07"

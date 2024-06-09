@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-certificate_of_free_movement'
+translationKey: germany-certificate_of_free_movement
 title: "Zertifikat der Freizügigkeit"
 author: "Ricardo Batista"
 date: "2024-06-07"

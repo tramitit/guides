@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-change_of_permanent_residence'
+translationKey: czech republic-change_of_permanent_residence
 title: "Změna trvalého bydliště"
 author: "Ricardo Batista"
 date: "2024-06-07"

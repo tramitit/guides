@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-issuance_of_drivers_license'
+translationKey: croatia-issuance_of_drivers_license
 title: "Izdavanje vozačke dozvole u Hrvatskoj"
 author: "Ricardo Batista"
 date: "2024-06-07"

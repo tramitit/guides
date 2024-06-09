@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-mobility_application'
+translationKey: italy-mobility_application
 title: "Applicazione di Mobilità"
 author: "Ricardo Batista"
 date: "2024-06-07"

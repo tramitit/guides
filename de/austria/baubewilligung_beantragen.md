@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-building_permit_application'
+translationKey: austria-building_permit_application
 title: "Baugenehmigungsantrag"
 author: "Ricardo Batista"
 date: "2024-06-07"

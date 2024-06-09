@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-unemployment_benefit'
+translationKey: poland-unemployment_benefit
 title: "Zasiłek dla bezrobotnych"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-issuance_of_duplicate_birth_certificate'
+translationKey: poland-issuance_of_duplicate_birth_certificate
 title: "Wydanie duplikatu świadectwa urodzenia"
 author: "Ricardo Batista"
 date: "2024-06-07"

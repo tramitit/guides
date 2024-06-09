@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_change_of_nif_data'
+translationKey: portugal-request_for_change_of_nif_data
 title: "Pedido de Alteração de Dados NIF"
 author: "Ricardo Batista"
 date: "2024-06-07"

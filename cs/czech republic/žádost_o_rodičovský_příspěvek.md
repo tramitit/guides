@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-application_for_parental_allowance'
+translationKey: czech republic-application_for_parental_allowance
 title: "Žádost o rodičovský příspěvek"
 author: "Ricardo Batista"
 date: "2024-06-07"

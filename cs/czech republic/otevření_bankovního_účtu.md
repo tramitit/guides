@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-opening_a_bank_account'
+translationKey: czech republic-opening_a_bank_account
 title: "Otevření bankovního účtu"
 author: "Ricardo Batista"
 date: "2024-06-07"

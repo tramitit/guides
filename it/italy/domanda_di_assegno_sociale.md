@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-social_allowance_application'
+translationKey: italy-social_allowance_application
 
 title: "Domanda di Assegno Sociale"
 author: "Ricardo Batista"

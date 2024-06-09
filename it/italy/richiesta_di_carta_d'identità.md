@@ -1,5 +1,5 @@
 --- 
-translationKey: 'italy-identity_card_request'
+translationKey: italy-identity_card_request
 title: "Richiesta di Carta d'Identità in Italia"
 author: "Ricardo Batista"
 date: "2024-06-07"

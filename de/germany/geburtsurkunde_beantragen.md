@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-applying_for_a_birth_certificate'
+translationKey: germany-applying_for_a_birth_certificate
 title: "Beantragung einer Geburtsurkunde in Deutschland"
 author: "Ricardo Batista"
 date: "2024-06-07"

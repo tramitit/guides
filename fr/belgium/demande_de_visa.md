@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_visa'
+translationKey: belgium-request_for_visa
 title: "Demande de visa"
 author: "Ricardo Batista"
 date: "2024-06-07"

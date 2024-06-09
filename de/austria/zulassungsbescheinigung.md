@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-vehicle_registration'
+translationKey: austria-vehicle_registration
 title: "Fahrzeuganmeldung"
 author: "Ricardo Batista"
 date: "2024-06-07"

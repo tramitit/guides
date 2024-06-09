@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-child_birth_registration'
+translationKey: poland-child_birth_registration
 title: "Rejestracja urodzenia dziecka"
 author: "Ricardo Batista"
 date: "2024-06-07"

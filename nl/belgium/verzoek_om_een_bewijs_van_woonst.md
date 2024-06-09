@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_proof_of_residence'
+translationKey: belgium-request_for_proof_of_residence
 title: "Verzoek om bewijs van verblijfplaats"
 author: "Ricardo Batista"
 date: "2024-06-07"

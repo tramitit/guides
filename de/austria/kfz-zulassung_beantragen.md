@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-car_registration_application'
+translationKey: austria-car_registration_application
 title: "Autoanmeldung in Österreich"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-unemployment_benefits_request'
+translationKey: italy-unemployment_benefits_request
 title: "Richiesta di sussidio di disoccupazione"
 author: "Ricardo Batista"
 date: "2024-06-07"

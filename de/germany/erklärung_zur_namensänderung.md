@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-declaration_of_name_change'
+translationKey: germany-declaration_of_name_change
 title: "Erklärung zur Namensänderung"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-university_scholarship_application'
+translationKey: france-university_scholarship_application
 title: "Demande de bourse universitaire"
 author: "Ricardo Batista"
 date: "2024-06-07"

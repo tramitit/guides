@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-medical_certificate_request'
+translationKey: italy-medical_certificate_request
 title: "Richiesta di Certificato Medico"
 author: "Ricardo Batista"
 date: "2024-06-07"

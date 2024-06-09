@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-electoral_roll_registration_request'
+translationKey: italy-electoral_roll_registration_request
 title: "Richiesta di registrazione al registro elettorale"
 author: "Ricardo Batista"
 date: "2024-06-07"

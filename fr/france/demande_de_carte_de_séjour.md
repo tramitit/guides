@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-residence_permit_application'
+translationKey: france-residence_permit_application
 title: "Demande de permis de séjour"
 author: "Ricardo Batista"
 date: "2024-06-07"

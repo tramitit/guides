@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-unemployment_allowance_application'
+translationKey: italy-unemployment_allowance_application
 title: "Domanda di Indennità di Disoccupazione"
 author: "Ricardo Batista"
 date: "2024-06-07"

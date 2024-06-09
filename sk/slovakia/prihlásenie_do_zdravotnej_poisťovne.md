@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-health_insurance_registration'
+translationKey: slovakia-health_insurance_registration
 title: "Registrácia zdravotného poistenia"
 author: "Ricardo Batista"
 date: "2024-06-07"

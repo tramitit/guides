@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-change_of_permanent_residence'
+translationKey: slovakia-change_of_permanent_residence
 title: "Zmena trvalého pobytu"
 author: "Ricardo Batista"
 date: "2024-06-07"

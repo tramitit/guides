@@ -1,5 +1,5 @@
 ---
-translationKey: 'germany-change_of_address_registration'
+translationKey: germany-change_of_address_registration
 title: "Adressänderungsregistrierung"
 author: "Ricardo Batista"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-translationKey: 'portugal-request_for_user_card_for_foreigners'
+translationKey: portugal-request_for_user_card_for_foreigners
 title: "Pedido de Cartão de Usuário para Estrangeiros"
 author: "Ricardo Batista"
 date: "2024-06-07"

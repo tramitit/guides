@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-request_for_parking_card'
+translationKey: belgium-request_for_parking_card
 title: "Aanvraag voor parkeerkaart"
 author: "Ricardo Batista"
 date: "2024-06-07"

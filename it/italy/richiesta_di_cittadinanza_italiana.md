@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-italian_citizenship_application'
+translationKey: italy-italian_citizenship_application
 
 title: "Domanda di Cittadinanza Italiana"
 author: "Ricardo Batista"

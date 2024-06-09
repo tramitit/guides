@@ -1,5 +1,5 @@
 ---
-translationKey: 'romania-death_certificate'
+translationKey: romania-death_certificate
 title: "Certificat de deces"
 author: "Ricardo Batista"
 date: "2024-06-07"

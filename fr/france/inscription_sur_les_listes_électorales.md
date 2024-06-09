@@ -1,5 +1,5 @@
 ---
-translationKey: 'france-voter_registration'
+translationKey: france-voter_registration
 title: "Inscription des électeurs"
 author: "Ricardo Batista"
 date: "2024-06-07"

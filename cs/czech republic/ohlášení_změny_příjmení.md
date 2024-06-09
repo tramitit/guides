@@ -1,5 +1,5 @@
 ---
-translationKey: 'czech republic-announcement_of_change_of_surname'
+translationKey: czech republic-announcement_of_change_of_surname
 title: "Oznámení o změně příjmení"
 author: "Ricardo Batista"
 date: "2024-06-07"
