@@ -1,5 +1,5 @@
 ---
-translationKey: 'belgium-registration_in_the_foreigner's_registers'
+translationKey: 'belgium-registration_in_the_foreigners_registers'
 title: "Inschrijving in het vreemdelingenregister"
 author: "Ricardo Batista"
 date: "2024-06-07"
