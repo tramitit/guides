@@ -6,7 +6,7 @@ categories: ["Austria"]
 meta_title: "Detailed Steps to Apply for a Replacement Driver's License in Austria"
 description: "In this guide, we provide step by step process on how to apply for a replacement driver's license in Austria."
 draft: false
-translationKey: "austria-replacement_driver's_license_application"
+translationKey: "austria-replacement_drivers_license_application"
 ---
 
 ## Description

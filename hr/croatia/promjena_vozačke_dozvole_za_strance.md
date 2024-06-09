@@ -1,5 +1,5 @@
 ---
-translationKey: 'croatia-change_of_driver's_license_for_foreigners'
+translationKey: 'croatia-change_of_drivers_license_for_foreigners'
 title: "Promjena vozačke dozvole za strance"
 author: "Ricardo Batista"
 date: "2024-06-08"

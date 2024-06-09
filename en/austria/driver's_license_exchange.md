@@ -6,7 +6,7 @@ categories: ["Austria", "Germany"]
 meta_title: ""
 description: "Details and procedures for exchanging an international driver's license in Austria and Germany"
 draft: false
-translationKey: "austria-driver's_license_exchange"
+translationKey: "austria-drivers_license_exchange"
 ---
 
 ## Description

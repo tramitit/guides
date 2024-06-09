@@ -6,7 +6,7 @@ categories: ["Italy"]
 meta_title: ""
 description: "Detailed guide on obtaining a Driver's License in Italy"
 draft: false
-translationKey: "italy-driver's_license_request"
+translationKey: "italy-drivers_license_request"
 ---
 
 ## Description

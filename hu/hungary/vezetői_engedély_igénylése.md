@@ -1,5 +1,5 @@
 ---
-translationKey: 'hungary-driver's_license_application'
+translationKey: 'hungary-drivers_license_application'
 title: "Jogosítvány kérelem"
 author: "Ricardo Batista"
 date: "2024-06-07"

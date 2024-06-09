@@ -6,7 +6,7 @@ categories: ["Croatia"]
 meta_title: "Transfer of driver's license for expats in Croatia"
 description: "A detailed guide on how you can change or transfer your foreign driver's license to a Croatian one."
 draft: false
-translationKey: "croatia-change_of_driver's_license_for_foreigners"
+translationKey: "croatia-change_of_drivers_license_for_foreigners"
 ---
 
 ## Description

@@ -6,7 +6,7 @@ categories: ["Croatia"]
 meta_title: "Obtaining a Driver's License in Croatia for Newcomers"
 description: "A detailed guide to obtaining a driver's license in Croatia for newcomers."
 draft: false
-translationKey: "croatia-obtaining_a_driver's_license_for_newcomers"
+translationKey: "croatia-obtaining_a_drivers_license_for_newcomers"
 ---
 
 ## Description

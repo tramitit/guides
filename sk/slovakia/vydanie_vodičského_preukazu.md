@@ -1,5 +1,5 @@
 ---
-translationKey: 'slovakia-issuance_of_driver's_license'
+translationKey: 'slovakia-issuance_of_drivers_license'
 title: "Vydanie vodičského preukazu na Slovensku"
 author: "Ricardo Batista"
 date: "2024-06-07"

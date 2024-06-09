@@ -6,7 +6,7 @@ categories: ["Hungary"]
 meta_title: "Driver's license application in Hungary"
 description: "A detailed guide on how to apply for a driver's license in Hungary."
 draft: false
-translationKey: "hungary-driver's_license_application"
+translationKey: "hungary-drivers_license_application"
 ---
 
 ## Description

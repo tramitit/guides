@@ -1,5 +1,5 @@
 ---
-translationKey: 'austria-driver's_license_renewal'
+translationKey: 'austria-drivers_license_renewal'
 title: "Führerscheinverlängerung"
 author: "Ricardo Batista"
 date: "2024-06-07"

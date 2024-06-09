@@ -6,7 +6,7 @@ categories: ["Spain"]
 meta_title: "Spain Driver's License Application Process"
 description: "A comprehensive guide on how to apply for a driver's license in Spain, including the necessary steps, required documents, and service providers."
 draft: false
-translationKey: "spain-driver's_license_application"
+translationKey: "spain-drivers_license_application"
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-translationKey: 'italy-driver's_license_renewal'
+translationKey: 'italy-drivers_license_renewal'
 title: "Rinnovo della Patente di Guida"
 author: "Ricardo Batista"
 date: "2024-06-07"

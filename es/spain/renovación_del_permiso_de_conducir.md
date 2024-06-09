@@ -1,5 +1,5 @@
 ---
-translationKey: 'spain-driver's_license_renewal'
+translationKey: 'spain-drivers_license_renewal'
 title: "Renovación de Licencia de Conducir en España"
 author: "Ricardo Batista"
 date: "2024-06-07"

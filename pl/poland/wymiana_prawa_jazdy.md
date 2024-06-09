@@ -1,5 +1,5 @@
 ---
-translationKey: 'poland-driver's_license_exchange'
+translationKey: 'poland-drivers_license_exchange'
 title: "Wymiana prawo jazdy"
 author: "Ricardo Batista"
 date: "2024-06-07"
