@@ -18,7 +18,7 @@ Familiares e partes relevantes que precisam processar assuntos legais (reivindic
 
 ## Procedimento
 
-1. Visite o 'Civil Online' do site do "Instituto dos Registos e do Notariado". [link para IRN](https://www.irn.mj.pt/)
+1. Visite o 'Civil Online' do site do "Instituto dos Registos e do Notariado". [link para IRN](https://www.irn.justica.gov.pt/)
 2. Escolha 'Atestados de Óbito' na opção de menu.
 3. Forneça todos os detalhes necessários, como nome completo conforme consta no registro de óbito, data de óbito e local de óbito.
 4. Envie o formulário e conclua o processo de pagamento.
@@ -33,7 +33,7 @@ Familiares e partes relevantes que precisam processar assuntos legais (reivindic
 
 | Provedor            |     Site                |     Prazos    |       Custo           |
 | --------------- | ------------------- |  :-------------: | :-------------: |
-| IRN Portugal  |  [IRN](https://www.irn.mj.pt/)  | Até 10 dias úteis | Varia de acordo com o tipo de pedido |
+| IRN Portugal  |  [IRN](https://www.irn.justica.gov.pt/)  | Até 10 dias úteis | Varia de acordo com o tipo de pedido |
 
 ## Detalhes adicionais
 Lembre-se, para obter um atestado de óbito em Portugal, é crucial que a morte tenha sido primeiro comunicada e registrada neste país.

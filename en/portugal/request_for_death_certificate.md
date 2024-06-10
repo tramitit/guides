@@ -18,7 +18,7 @@ Family members and relevant parties who need to process legal affairs (inheritan
 
 ## Procedure
 
-1. Visit the 'Civil Online' of the "Instituto dos Registos e do Notariado" website. [link to IRN](https://www.irn.mj.pt/)
+1. Visit the 'Civil Online' of the "Instituto dos Registos e do Notariado" website. [link to IRN](https://www.irn.justica.gov.pt/)
 2. Choose 'Death Certificates' from the menu option.
 3. Provide all necessary details such as full name as it appears on the death register, date of death and place of death.
 4. Submit the form and complete the payment process.
@@ -33,7 +33,7 @@ Family members and relevant parties who need to process legal affairs (inheritan
 
 | Provider            |     Website                |     Timelines    |       Cost           |
 | --------------- | ------------------- |  :-------------: | :-------------: |
-| IRN Portugal  |  [IRN](https://www.irn.mj.pt/)  | Up to 10 working days | Varies on the type of request |
+| IRN Portugal  |  [IRN](https://www.irn.justica.gov.pt/)  | Up to 10 working days | Varies on the type of request |
 
 ## Additional details
 Remember, to obtain a death certificate in Portugal, it's crucial that the death was first reported and registered in this country.

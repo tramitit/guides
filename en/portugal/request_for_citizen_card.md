@@ -32,7 +32,7 @@ Any person who is a legal resident or citizen of Portugal, including children, i
 
 | Provider        |     Website            |     Timelines    |       Cost          |
 | --------------- | ------------------- |  :-------------: | :-------------: |
-| IRN                 |  [https://www.irn.mj.pt/](https://www.irn.mj.pt/) | Depends on case  |   Check website   |
+| IRN                 |  [https://www.irn.justica.gov.pt/](https://www.irn.justica.gov.pt/) | Depends on case  |   Check website   |
 
 ## Additional details
 - The cost of the Citizen Card varies per case.

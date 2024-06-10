@@ -30,7 +30,7 @@ Any Portuguese citizen with an expiring or expired citizen card must go through 
 
 | Provider        |     Website                        |     Timelines    |       Cost      |
 | --------------- | ---------------                    |  :-------------: | :-------------: |
-| IRN             |  www.irn.mj.pt                     |      7-10 days   |        ~$18     |
+| IRN             |  www.irn.justica.gov.pt                     |      7-10 days   |        ~$18     |
 | Post Office     |  www.ctt.pt                        |      Varies      |    Price Varies |
 
 ## Additional details

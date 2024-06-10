@@ -35,7 +35,7 @@ Anyone who meets the following criteria:
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Central Registry Office      |  [Website](https://www.irn.mj.pt/sections/irn/a_registral/registos-centrais/docs-da-nacionalidade/processo-da-nacionalidade)      |  6-12 months      |   To be determined        |
+| Central Registry Office      |  [Website](https://www.irn.justica.gov.pt/sections/irn/a_registral/registos-centrais/docs-da-nacionalidade/processo-da-nacionalidade)      |  6-12 months      |   To be determined        |
 
 ## Additional details
 - The procedure may vary slightly depending on your individual situation, so it is crucial to thoroughly research and understand the process.

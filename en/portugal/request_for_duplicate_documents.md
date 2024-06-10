@@ -20,7 +20,7 @@ This service can be needed by any resident in Portugal who has lost or misplaced
 
 1. Identify the document that you need to replace and gather all the required information related to it.
 2. Visit the relevant authority's website or office, depending on the document.
-     - For passports and ID cards, you can request a duplicate through the website of the [Portuguese Institute of Registries and Notaries](https://www.irn.mj.pt/IRN/sections/irn/).
+     - For passports and ID cards, you can request a duplicate through the website of the [Portuguese Institute of Registries and Notaries](https://www.irn.justica.gov.pt/IRN/sections/irn/).
      - For the driving license, the [Instituto da Mobilidade e dos Transportes (IMT)](https://www.imtonline.pt/) is responsible for issuing duplicates.
      - For the citizen card, you can apply online on the [Citizen's Portal](https://www.portaldocidadao.pt/) or in person at a Citizen's store or IRN Registry office.
 3. Fill out the correct duplicate document request form with accurate details.
@@ -39,7 +39,7 @@ The documents required may vary depending on the type of document you want to du
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Portuguese Institute of Registries and Notaries      |  [Website](https://www.irn.mj.pt/IRN/sections/irn/)       |      Varies      |        Varies       |
+| Portuguese Institute of Registries and Notaries      |  [Website](https://www.irn.justica.gov.pt/IRN/sections/irn/)       |      Varies      |        Varies       |
 | Instituto da Mobilidade e dos Transportes      |  [Website](https://www.imtonline.pt/)       |      Varies      |        Varies       |
 
 ## Additional details

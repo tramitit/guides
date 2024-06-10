@@ -20,7 +20,7 @@ Este serviço pode ser necessário para qualquer residente em Portugal que tenha
 
 1. Identifique o documento que precisa ser substituído e reúna todas as informações necessárias relacionadas a ele.
 2. Visite o site ou escritório da autoridade relevante, dependendo do documento.
-     - Para passaportes e cartões de identificação, você pode solicitar uma duplicata através do site do [Instituto dos Registos e do Notariado (IRN)](https://www.irn.mj.pt/IRN/sections/irn/).
+     - Para passaportes e cartões de identificação, você pode solicitar uma duplicata através do site do [Instituto dos Registos e do Notariado (IRN)](https://www.irn.justica.gov.pt/IRN/sections/irn/).
      - Para a carta de condução, o [Instituto da Mobilidade e dos Transportes (IMT)](https://www.imtonline.pt/) é responsável pela emissão de duplicatas.
      - Para o cartão de cidadão, você pode solicitar online no [Portal do Cidadão](https://www.portaldocidadao.pt/) ou pessoalmente em uma Loja do Cidadão ou escritório do IRN.
 3. Preencha o formulário correto de solicitação de documento duplicado com informações precisas.
@@ -39,7 +39,7 @@ Os documentos necessários podem variar dependendo do tipo de documento que voc�
 
 | Prestador        |     Site     |     Prazos    |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Instituto dos Registos e do Notariado      |  [Site](https://www.irn.mj.pt/IRN/sections/irn/)       |      Varia      |        Varia       |
+| Instituto dos Registos e do Notariado      |  [Site](https://www.irn.justica.gov.pt/IRN/sections/irn/)       |      Varia      |        Varia       |
 | Instituto da Mobilidade e dos Transportes      |  [Site](https://www.imtonline.pt/)       |      Varia      |        Varia       |
 
 ## Detalhes adicionais

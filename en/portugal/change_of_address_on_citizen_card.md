@@ -16,7 +16,7 @@ The process for changing the address on a Citizen Card in Portugal, usually nece
 Those who have moved to a new address in Portugal and need to update their Citizen Card accordingly.
 
 ## Procedure
-1. First, schedule an appointment online at [IRN](https://agendamento.irn.mj.pt/menu) (Institute of Registers and Notary).
+1. First, schedule an appointment online at [IRN](https://agendamento.irn.justica.gov.pt/menu) (Institute of Registers and Notary).
 2. Visit the selected registration office on the day of appointment to request a change of address.
 3. Provide the necessary documents.
 4. Pay the required fee for the operation.
@@ -31,7 +31,7 @@ To change the address, the following documents need to be provided:
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IRN      | [IRN Website](https://www.irn.mj.pt/)       |     Variable based on appointment date   |    Varies depending on service      |
+| IRN      | [IRN Website](https://www.irn.justica.gov.pt/)       |     Variable based on appointment date   |    Varies depending on service      |
 
 ## Additional details
 Ensure that the information on the proof of address document accurately reflects your new place of living. Depending on the service chosen, you may be required to have a PIN for online authentication. 

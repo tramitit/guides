@@ -16,7 +16,7 @@ O processo para alterar o endereço do Cartão de Cidadão em Portugal, geralmen
 Aqueles que se mudaram para um novo endereço em Portugal e precisam atualizar seu Cartão de Cidadão de acordo.
 
 ## Procedimento
-1. Primeiro, agende um horário online no [IRN](https://agendamento.irn.mj.pt/menu) (Instituto dos Registos e do Notariado).
+1. Primeiro, agende um horário online no [IRN](https://agendamento.irn.justica.gov.pt/menu) (Instituto dos Registos e do Notariado).
 2. Visite o posto de registo selecionado no dia da consulta para solicitar a alteração de endereço.
 3. Forneça os documentos necessários.
 4. Pague a taxa requerida pela operação.
@@ -31,7 +31,7 @@ Para alterar o endereço, os seguintes documentos precisam ser fornecidos:
 
 | Prestador        |     Website     |     Prazos    |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IRN      | [Website do IRN](https://www.irn.mj.pt/)       |     Variável com base na data da consulta   |    Variável dependendo do serviço      |
+| IRN      | [Website do IRN](https://www.irn.justica.gov.pt/)       |     Variável com base na data da consulta   |    Variável dependendo do serviço      |
 
 ## Detalhes Adicionais
 Certifique-se de que as informações no comprovante de endereço refletem com precisão seu novo local de residência. Dependendo do serviço escolhido, pode ser necessário ter um PIN para autenticação online. Os prazos e taxas podem diferir dependendo do caso individual e da localização. Certifique-se de verificar os detalhes de custo e prazo ao enviar seus documentos para a mudança de endereço.

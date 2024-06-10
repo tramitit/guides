@@ -30,7 +30,7 @@ Qualquer cidadão português com um Cartão de Cidadão expirado ou prestes a ex
 
 | Prestador           |     Website                        |     Prazos       |       Custos     |
 | --------------- | ---------------                    |  :-------------:  | :-------------: |
-| IRN             |  www.irn.mj.pt                     |      7-10 dias    |        ~$18     |
+| IRN             |  www.irn.justica.gov.pt                     |      7-10 dias    |        ~$18     |
 | Correios        |  www.ctt.pt                        |      Variável     |    Preço Variável |
 
 ## Detalhes Adicionais

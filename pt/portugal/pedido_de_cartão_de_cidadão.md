@@ -32,7 +32,7 @@ Qualquer pessoa que seja residente legal ou cidadão de Portugal, incluindo cria
 
 | Prestador        |     Website            |     Prazos    |       Custo          |
 | --------------- | ------------------- |  :-------------: | :-------------: |
-| IRN                 |  [https://www.irn.mj.pt/](https://www.irn.mj.pt/) | Depende do caso  |   Consultar o website   |
+| IRN                 |  [https://www.irn.justica.gov.pt/](https://www.irn.justica.gov.pt/) | Depende do caso  |   Consultar o website   |
 
 ## Detalhes Adicionais
 - O custo do Cartão de Cidadão varia consoante o caso.

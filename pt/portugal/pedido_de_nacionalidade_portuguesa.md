@@ -35,7 +35,7 @@ Qualquer pessoa que cumpra os seguintes critérios:
 
 | Prestador       |     Website     |     Prazos    |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Registo Central      |  [Website](https://www.irn.mj.pt/sections/irn/a_registral/registos-centrais/docs-da-nacionalidade/processo-da-nacionalidade)      |  6-12 meses      |   A determinar        |
+| Registo Central      |  [Website](https://www.irn.justica.gov.pt/sections/irn/a_registral/registos-centrais/docs-da-nacionalidade/processo-da-nacionalidade)      |  6-12 meses      |   A determinar        |
 
 ## Detalhes adicionais
 - O procedimento pode variar ligeiramente dependendo da sua situação individual, por isso é crucial investigar e entender completamente o processo.
