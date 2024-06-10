@@ -21,9 +21,9 @@ This certificate is essential for those who need to settle an estate in Spain, p
 
 1. Wait 15 working days after the death of the person before applying for the certificate. This allows time for the will to be registered.
 2. Write an application to the Ministry of Justice. The application should be in Spanish and include the deceased's full name, date of birth, and the date and place of death.
-3. You will need to provide an original death certificate with a Hague Apostille. If you do not have this, you can request it from the [Central Civil Registry Office](https://www.mjusticia.gob.es/cs/Satellite/Portal/en/inicio).
+3. You will need to provide an original death certificate with a Hague Apostille. If you do not have this, you can request it from the [Central Civil Registry Office](https://www.mpr.gob.es/Paginas/index.aspx).
 4. Pay a small fee for the certificate. The fee can be paid at a bank or online.
-5. Submit the application and the receipt of the fee payment to the registry office. You can do this by post or in person. The [address](https://www.mjusticia.gob.es/cs/Satellite/Portal/en/inicio) is:
+5. Submit the application and the receipt of the fee payment to the registry office. You can do this by post or in person. The [address](https://www.mpr.gob.es/Paginas/index.aspx) is:
     Ministry of Justice
     Central Office of Citizen Services
     Plaza Jacinto Benavente, 3

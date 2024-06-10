@@ -17,7 +17,7 @@ Ein Namensänderungsantrag ist ein rechtlicher Prozess in Österreich für Perso
 Dieser Prozess wird in der Regel von Personen benötigt, die mit ihrem aktuellen Namen aus Gründen wie persönlicher Präferenz, Geschlechtswechsel, religiöser Konversion oder um Stigmatisierung zu entkommen, nicht zufrieden sind.
 
 ## Verfahren
-1. Sie müssen einen persönlichen Antrag bei Ihrem örtlichen Bezirksamt in Österreich stellen. Finden Sie Ihr örtliches Amt [hier](https://www.oesterreich.gv.at/kontakte/).
+1. Sie müssen einen persönlichen Antrag bei Ihrem örtlichen Bezirksamt in Österreich stellen. Finden Sie Ihr örtliches Amt [hier](https://www.oesterreich.gv.at/public.html).
 2. Begründen Sie den Grund für die Namensänderung und legen Sie alle erforderlichen Dokumente vor.
 3. Bezahlen Sie die erforderliche Gebühr.
 4. Warten Sie auf die Genehmigung des örtlichen Bezirksamts.
@@ -34,7 +34,7 @@ Sie benötigen möglicherweise die folgenden Dokumente, unter anderem:
 
 | Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Bezirksamt      |  [Offizielle Webseite](https://www.oesterreich.gv.at/kontakte/)       |      Variabel      |        Variabel       |
+| Bezirksamt      |  [Offizielle Webseite](https://www.oesterreich.gv.at/public.html)       |      Variabel      |        Variabel       |
 
 ## Weitere Details
 - Die Namensänderung ist in Österreich eine ernste Angelegenheit und Anträge werden nicht leicht genehmigt. Die Behörden genehmigen in der Regel nur aus zwingenden Gründen eine Namensänderung.

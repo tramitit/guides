@@ -18,7 +18,7 @@ Každý, kdo plánuje používat vozidlo v rámci České republiky déle než 1
 
 ## Postup
 1. Sežeňte všechny potřebné dokumenty (uvedené níže).
-2. Navštivte místní registrační úřad. Seznam místních úřadů naleznete [zde](https://www.gov.uk/guidance/import-a-vehicle-into-the-uk/register-the-vehicle-in-the-uk).
+2. Navštivte místní registrační úřad. Seznam místních úřadů naleznete [zde](https://www.gov.uk/vehicle-registration).
 3. Odevzdejte všechny dokumenty k posouzení.
 4. Zaplaťte registrační poplatky. Poplatky se liší podle typu a věku vozidla.
 5. Očekávejte, že dostanete váš registrační certifikát do 7-30 dní.
@@ -35,7 +35,7 @@ Každý, kdo plánuje používat vozidlo v rámci České republiky déle než 1
 ## Poskytovatelé, kteří to mohou udělat za vás
 | Poskytovatel        |     Webová stránka     |     Časové plány    |       Náklady      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Český automobilový svaz      |  [oca.cz](http://www.oca.cz/en/)       |      14 dní      |        Proměnné v závislosti na typu vozidla       |
+| Český automobilový svaz      |  [oca.cz](https://www.oca.cz/)       |      14 dní      |        Proměnné v závislosti na typu vozidla       |
 
 ## Další podrobnosti
 - Dokud není vozidlo zaregistrováno v České republice, není legální jezdit s ním na veřejných silnicích.

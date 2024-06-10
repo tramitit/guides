@@ -22,7 +22,7 @@ Every individual who earns income in Poland needs to submit a PIT tax declaratio
    
 2. Prepare all the information on your income and deductions. For instance, if you made profits on platforms such as eToro, make sure to include these earnings.
    
-3. Head to the [e-Deklaracje website](https://www.podatki.gov.pl/ezd/), a platform provided by the Ministry of Finance in Poland, to submit your tax returns. An account creation may be necessary if you're a first-time user.
+3. Head to the [e-Deklaracje website](https://www.podatki.gov.pl/), a platform provided by the Ministry of Finance in Poland, to submit your tax returns. An account creation may be necessary if you're a first-time user.
    
 4. Fill out the tax return form carefully, ensuring all data including income details, tax relief details (if any), personal information, and bank account details are included. Be careful not to leave any mandatory field empty.
    
@@ -39,7 +39,7 @@ Every individual who earns income in Poland needs to submit a PIT tax declaratio
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| e-Deklaracje      |  [e-Deklaracje](https://www.podatki.gov.pl/ezd/)       |      Depends on individual responsiveness      |        Free       |
+| e-Deklaracje      |  [e-Deklaracje](https://www.podatki.gov.pl/)       |      Depends on individual responsiveness      |        Free       |
 
 ## Additional details
 

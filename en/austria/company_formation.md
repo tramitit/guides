@@ -23,7 +23,7 @@ This guide is suitable for entrepreneurs, small business owners, or anyone plann
 
 3. Prepare the necessary documents including the articles of association, memorandum of association, and others.
 
-4. Register the company with the [Austrian Business Register](https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b73af3c13a8.en.html). 
+4. Register the company with the [Austrian Business Register](https://www.justiz.gv.at/). 
 
 5. Obtain necessary permissions and licenses from relevant Austrian authorities, depending on the company's activities. For example, if you're starting a business that involves food service, you'll need to obtain necessary permits from regional health and safety authorities.
 

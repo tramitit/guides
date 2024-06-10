@@ -21,9 +21,9 @@ Este certificado es esencial para aquellos que necesitan liquidar una herencia e
 
 1. Espera 15 días laborales después de la muerte de la persona antes de solicitar el certificado. Esto permite tiempo para que el testamento sea registrado.
 2. Redacta una solicitud al Ministerio de Justicia. La solicitud debe estar en español e incluir el nombre completo del fallecido, fecha de nacimiento, fecha y lugar de fallecimiento.
-3. Deberás proporcionar un certificado de defunción original con Apostilla de la Haya. Si no lo tienes, puedes solicitarlo en la [Oficina Central del Registro Civil](https://www.mjusticia.gob.es/cs/Satellite/Portal/en/inicio).
+3. Deberás proporcionar un certificado de defunción original con Apostilla de la Haya. Si no lo tienes, puedes solicitarlo en la [Oficina Central del Registro Civil](https://www.mpr.gob.es/Paginas/index.aspx).
 4. Abona una pequeña tarifa por el certificado. La tarifa se puede pagar en un banco u online.
-5. Envía la solicitud y el recibo del pago de la tarifa a la oficina del registro. Puedes hacerlo por correo o en persona. La [dirección](https://www.mjusticia.gob.es/cs/Satellite/Portal/en/inicio) es:
+5. Envía la solicitud y el recibo del pago de la tarifa a la oficina del registro. Puedes hacerlo por correo o en persona. La [dirección](https://www.mpr.gob.es/Paginas/index.aspx) es:
     Ministerio de Justicia
     Oficina Central de Atención al Ciudadano
     Plaza Jacinto Benavente, 3

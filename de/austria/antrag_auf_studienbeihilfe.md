@@ -18,7 +18,7 @@ Die finanzielle Unterstützung richtet sich an Studierende, die in Österreich a
 
 ## Verfahren
 1. Überprüfen Sie Ihre Berechtigung: Es ist wichtig, dass Sie die Berechtigungskriterien für einen Studienzuschuss in Österreich erfüllen. Diese umfassen im Allgemeinen Altersgrenzen, akademische Leistungen, Aufenthaltsstatus und Einkommensgrenzen.
-2. Online bewerben: Anträge für den Studienzuschuss werden nur online über das folgende Portal akzeptiert: [Studienbeihilfe Portal](https://www.stipendium.at/english-information/).
+2. Online bewerben: Anträge für den Studienzuschuss werden nur online über das folgende Portal akzeptiert: [Studienbeihilfe Portal](https://www.stipendium.at/).
 3. Förderzeitraum: Der Förderzeitraum für das akademische Jahr beginnt am 1. Oktober und endet am 30. September des folgenden Jahres. Studierende können jedoch das ganze Jahr über einen Antrag stellen.
 4. Dokumenteneinreichung: Nach dem Online-Antrag müssen bestimmte Dokumente an die Österreichische Agentur für Internationale Zusammenarbeit in Bildung & Forschung (OeAD) eingereicht werden. Dazu gehören ein Identitätsnachweis, ein Einkommensnachweis oder Nachweis des Aufenthaltsstatus und akademische Leistungen.
 5. Bearbeitungszeit: Einreichungs- und Antwortzeiten können variieren, aber die Entscheidung sollte innerhalb weniger Wochen erwartet werden.

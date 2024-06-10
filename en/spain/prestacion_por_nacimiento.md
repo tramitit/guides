@@ -34,7 +34,7 @@ In general, no documents are required. However, providing a copy of parents' ID 
 
 | Provider               | Website                                                                                                                                 | Timelines | Cost |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--: |
-| Ministerio de Justicia | [Website](https://www.mjusticia.gob.es/cs/Satellite/Portal/es/servicios-ciudadano/tramites-gestiones-personales/certificado-nacimiento) |  Varies   | Free |
+| Ministerio de Justicia | [Website](https://sede.mjusticia.gob.es/es/tramites/certificado-nacimiento) |  Varies   | Free |
 
 ## Additional details
 

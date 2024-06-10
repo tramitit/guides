@@ -18,7 +18,7 @@ Toute personne vivant et travaillant en France doit s'inscrire à la Sécurité 
 
 ## Procédure
 1. Dès votre arrivée en France, assurez-vous d'être enregistré auprès des autorités françaises, y compris la résidence si vous venez d'un pays non membre de l'UE. Cela implique de fournir une preuve d'emploi sous forme de contrat de travail signé, ou une preuve d'études, etc.
-2. Demandez votre numéro de Sécurité sociale sur le site de la Sécurité sociale en France [ici](https://www.ameli.fr/) pour l'assurance maladie, ou [ici](https://www.cleiss.fr/particuliers/venir/vie_privee/secu.html) pour des informations générales dans différents domaines.
+2. Demandez votre numéro de Sécurité sociale sur le site de la Sécurité sociale en France [ici](https://www.ameli.fr/) pour l'assurance maladie, ou [ici](https://www.cleiss.fr/) pour des informations générales dans différents domaines.
 3. Après avoir fait votre demande en ligne, vous devrez attendre qu'elle soit traitée. Cela prend généralement plusieurs mois avant de recevoir votre numéro de Sécurité sociale.
 4. Une fois que vous avez reçu votre numéro, créez un compte sur [Ameli](https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true), le site officiel de l'Assurance maladie française.
 

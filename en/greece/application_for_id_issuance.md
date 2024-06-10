@@ -46,7 +46,7 @@ The ID card application procedure is necessary for all Greek residents needing a
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
 | Local Police Station      |  Not applicable       |    Varies      |        Varies       |
-| Citizen Service Center (KEP)      |  [https://www.kep.gov.gr/portalpage/portal/kep](https://www.kep.gov.gr/portalpage/portal/kep)       |     Varies       |        Varies       |
+| Citizen Service Center (KEP)      |  https://www.kep.gov.gr/       |     Varies       |        Varies       |
 
    ## Additional details
    - In Greece, ID cards are important and required for various purposes like opening a bank account or accessing health services. Ensure it's kept safe and in good condition.

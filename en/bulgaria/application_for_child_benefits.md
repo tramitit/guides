@@ -20,7 +20,7 @@ Anyone responsible for a child (under 16 years old, or under 20 if they remain i
 
 1. Firstly, you need to ascertain your eligibility. The rules are complex and it could be beneficial to get individual advice for your situation from agencies or welfare rights organizations who specialize in these facts.
 
-2. Once you’ve established that you are indeed eligible for child benefits, the next step is to apply for them. The application can be initiated via this [link](https://www.gov.uk/child-benefits/eligibility). 
+2. Once you’ve established that you are indeed eligible for child benefits, the next step is to apply for them. The application can be initiated via this [link](https://www.gov.uk/child-benefit). 
 
 3. Fill out the form accurately. Make sure all details are correctly filled in to avoid any delays in the processing of your application.
 

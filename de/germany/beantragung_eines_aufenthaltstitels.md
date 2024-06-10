@@ -43,5 +43,5 @@ Nicht-europäische Bürger, die vorhaben, länger als drei Monate in Deutschland
 - Die Anträge werden in der Regel innerhalb weniger Wochen bearbeitet, es kann jedoch in stark frequentierten Zeiten länger dauern. Es ist wichtig, rechtzeitig einen Antrag zu stellen.
 - Es gibt verschiedene Arten von Aufenthaltstiteln je nach Zweck Ihres Aufenthalts (z. B. Studium, Arbeit usw.), stellen Sie also sicher, dass Sie den richtigen beantragen.
 - Einige ausländische Qualifikationen müssen in Deutschland anerkannt werden. Weitere Informationen dazu finden Sie [hier](https://www.anerkennung-in-deutschland.de/html/en/index.php).
-- Es ist wichtig, sicherzustellen, dass Sie eine ausreichende Krankenversicherung haben, was eine obligatorische Anforderung ist. Mehr über die Krankenversicherung in Deutschland finden Sie [hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-gkv/aok/aok-bundesverband/).
+- Es ist wichtig, sicherzustellen, dass Sie eine ausreichende Krankenversicherung haben, was eine obligatorische Anforderung ist. Mehr über die Krankenversicherung in Deutschland finden Sie [hier](https://www.krankenkassen.de/).
 - Die Gebühren variieren je nach Art des beantragten Aufenthaltstitels. Die Website der Ausländerbehörde gibt Ihnen die genaueste Gebührenstruktur.

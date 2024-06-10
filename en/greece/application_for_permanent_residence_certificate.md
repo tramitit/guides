@@ -32,7 +32,7 @@ Non-native individuals who have been living in Greece for a significant period (
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| KEP             |  [https://www.kep.gov.gr/portalpage](https://www.kep.gov.gr/portalpage) |      Depends on individual case      |        Free       |
+| KEP             |  https://www.kep.gov.gr/ |      Depends on individual case      |        Free       |
 
 ## Additional details
 * This process can take several weeks or even months, depending on the backlog of applications and the thoroughness of local authorities.

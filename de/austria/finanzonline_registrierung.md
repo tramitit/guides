@@ -16,7 +16,7 @@ Finance Online ist eine von der Regierung bereitgestellte Online-Plattform in Ö
 Diese Plattform kann für alle Einwohner Österreichs nützlich sein, die Steuererklärungen einreichen müssen.
 
 ## Verfahren
-1. Gehen Sie auf die [FinanzOnline](https://finanzonline.bmf.gv.at/fon/index.jsp) Webseite.
+1. Gehen Sie auf die [FinanzOnline](https://finanzonline.bmf.gv.at/fon/login.do) Webseite.
 2. Klicken Sie auf "Registrieren" und wählen Sie dann "Privatperson", wenn Sie die Plattform für persönliche Finanzen nutzen.
 3. Geben Sie Ihre persönlichen Informationen wie Ihren Vor- und Nachnamen, Geburtsdatum und Ihre Sozialversicherungsnummer ein.
 4. Legen Sie eine persönliche Benutzerkennung und ein Passwort fest. Merken Sie sich diese für zukünftige Anmeldungen.

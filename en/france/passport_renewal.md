@@ -18,7 +18,7 @@ Any passport holder needing to extend its validity.
 
 ## Procedure
 1. Determine if your passport can be renewed. Most passports can be renewed if they are expiring within six months, or have already expired.
-2. Complete your passport renewal application. For French citizens, you can do it [online](https://www.service-public.fr/particuliers/vosdroits/F1348)
+2. Complete your passport renewal application. For French citizens, you can do it [online](https://www.service-public.fr/)
 3. Take a new passport photo that meets the passport photo requirements.
 4. Collate the required documents, including your previous passport.
 5. Pay the applicable passport renewal fee.
@@ -33,7 +33,7 @@ Any passport holder needing to extend its validity.
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| French Government      |  [https://www.service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F1348)      |      varies      |        varies       |
+| French Government      |  [https://www.service-public.fr](https://www.service-public.fr/)      |      varies      |        varies       |
 
 ## Additional details
 - Passport renewal fees will depend on the type of passport (biometric or not, adults or children, etc.)

@@ -34,7 +34,7 @@ Any man who wishes to be legally recognized as the biological father of a child 
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Youth Welfare Office      |  [Jugendamt's Website](https://www.bmfsfj.de/bmfsfj/themen/jugendhilfe/jugendaemter)      |      Varies      |        Free       |
+| Local Youth Welfare Office      |  [Jugendamt's Website](https://www.bmfsfj.de/bmfsfj)      |      Varies      |        Free       |
 
 ## Additional details
 The acknowledgment of paternity can be done either before or after the birth of the child; however, it also implies a financial commitment until the child has completed their education, including any further studies. So it is a decision that should not be taken lightly. If the parents are unwed, it also grants joint custody of the child.

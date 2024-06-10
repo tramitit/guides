@@ -30,7 +30,7 @@ Qualsiasi individuo che attualmente non è impiegato ma sta cercando attivamente
 
 | Fornitore        |     Sito Web     |     Tempi    |       Costi      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| INPS      |  [https://www.inps.it/](https://www.inps.it/)       |      Variabili     |        Gratuito       |
+| INPS      |  https://www.inps.it/       |      Variabili     |        Gratuito       |
 
 ## Dettagli aggiuntivi
 * Sono offerti diversi tipi di prestazioni di disoccupazione in base a potenziali diversi aspetti della storia lavorativa dell'individuo.

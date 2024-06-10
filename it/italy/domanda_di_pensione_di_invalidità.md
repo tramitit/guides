@@ -17,7 +17,7 @@ Una pensione di invalidità è un'assistenza finanziaria fornita a individui che
 Questo servizio è richiesto da individui che hanno malattie croniche, disabilità permanenti o gravi condizioni di salute che impediscono loro di guadagnare un reddito sufficiente.
 
 ## Procedura
-1. Accedi al sito web dell'INPS (https://www.inps.it/).
+1. Accedi al [sito web dell'INPS](https://www.inps.it/).
 2. Registrati per un account personale sul sito.
 3. Richiedi la Pensione di Invalidità selezionando il modulo appropriato.
 4. Compila tutte le informazioni richieste, che includono dettagli personali e dettagli sulla tua condizione di salute.

@@ -32,7 +32,7 @@ Oto oficjalne strony internetowe do aplikacji o kartę EHIC w zależności od kr
 
 - [National Health Service (NHS) dla obywateli UK](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/)
 - [Health Service Executive (HSE) dla obywateli Irlandii](https://www2.hse.ie/services/ehic/ehic.html)
-- [National Health Fund (NFZ) dla obywateli Polski](https://www.nfz.gov.pl/ue/ewg/)
+- [National Health Fund (NFZ) dla obywateli Polski](https://www.nfz.gov.pl/)
 
 ## Dostawcy, którzy mogą załatwić to za Ciebie
 
@@ -40,7 +40,7 @@ Oto oficjalne strony internetowe do aplikacji o kartę EHIC w zależności od kr
 | -----------------------------------------------------| -------------------------|  :-------------------: | :-------------------: |
 | National Health Service (NHS) - UK                   |  [Link tutaj](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/) |      Różni się          |        Bezpłatnie     |
 | Health Service Executive (HSE) - Irlandia            | [Link tutaj](https://www2.hse.ie/services/ehic/ehic.html)     |      Różni się          |        Bezpłatnie     |
-| National Health Fund (NFZ) - Polska                  |  [Link tutaj](https://www.nfz.gov.pl/ue/ewg/)      |      Różni się          |        Bezpłatnie     |
+| National Health Fund (NFZ) - Polska                  |  [Link tutaj](https://www.nfz.gov.pl/)      |      Różni się          |        Bezpłatnie     |
 
 ## Dodatkowe informacje
 Pamiętaj, że EHIC nie zastępuje ubezpieczenia podróżnego. Nie obejmuje on prywatnej opieki zdrowotnej ani kosztów takich jak powrót do kraju zamieszkania czy utracone/skradzione przedmioty. Dlatego zaleca się posiadanie zarówno EHIC, jak i ważnej polisy ubezpieczenia podróżnego.

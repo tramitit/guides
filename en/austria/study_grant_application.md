@@ -18,7 +18,7 @@ The financial aid is aimed at students who are residents of Austria, or who meet
 
 ## Procedure
 1. Check your eligibility: It is important that you meet the eligibility criteria for a study grant in Austria. Generally, these include age limits, academic achievement, residency status, and income limits.
-2. Apply online: Applications for the study grant are only accepted online through the following portal: [Studienbeihilfe Portal](https://www.stipendium.at/english-information/).
+2. Apply online: Applications for the study grant are only accepted online through the following portal: [Studienbeihilfe Portal](https://www.stipendium.at/).
 3. Funding period: The funding period for the academic year starts on October 1st and ends on September 30th of the following year. However, students can apply for the grant throughout the year. 
 4. Document submission: After the online application, certain documents must be submitted to the Austrian Agency for International Cooperation in Education & Research (OeAD). These include proof of identity, proof of income or residency status, and academic achievement.
 5. Response Time: Submission and response times may vary but the decision should be expected within a few weeks.

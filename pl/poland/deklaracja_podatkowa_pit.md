@@ -22,7 +22,7 @@ Każda osoba, która osiąga dochód w Polsce, musi złożyć deklarację podatk
    
 2. Przygotuj wszystkie informacje dotyczące swoich dochodów i odliczeń. Na przykład, jeśli osiągnąłeś zyski na platformach takich jak eToro, upewnij się, że uwzględniłeś te zarobki.
    
-3. Udaj się na stronę [e-Deklaracje](https://www.podatki.gov.pl/ezd/), platformę dostarczaną przez Ministerstwo Finansów w Polsce, aby złożyć swoje zeznanie podatkowe. Może być konieczne utworzenie konta, jeśli jesteś nowym użytkownikiem.
+3. Udaj się na stronę [e-Deklaracje](https://www.podatki.gov.pl/), platformę dostarczaną przez Ministerstwo Finansów w Polsce, aby złożyć swoje zeznanie podatkowe. Może być konieczne utworzenie konta, jeśli jesteś nowym użytkownikiem.
    
 4. Starannie wypełnij formularz zeznania podatkowego, upewniając się, że wszystkie dane, w tym szczegóły dochodów, szczegóły ulg podatkowych (jeśli takowe są), dane osobowe i dane konta bankowego, są uwzględnione. Upewnij się, że nie zostawisz żadnego obowiązkowego pola puste.
    
@@ -39,7 +39,7 @@ Każda osoba, która osiąga dochód w Polsce, musi złożyć deklarację podatk
 
 | Dostawca        |     Strona     |     Terminy    |       Koszty      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| e-Deklaracje      |  [e-Deklaracje](https://www.podatki.gov.pl/ezd/)       |      Zależne od responsywności indywidualnej      |        Bezpłatnie       |
+| e-Deklaracje      |  [e-Deklaracje](https://www.podatki.gov.pl/)       |      Zależne od responsywności indywidualnej      |        Bezpłatnie       |
 
 ## Dodatkowe informacje
 

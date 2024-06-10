@@ -17,7 +17,7 @@ A Criminal Record Certificate is a document that shows any criminal offenses tha
 Anyone who is required to disclose their criminal history for purposes such as employment, studies, visa applications, etc.
 
 ## Procedure
-1. Go to the [Portuguese Justice Portal](https://justica.gov.pt/Como-pedir-um-registo-criminal).
+1. Go to the [Portuguese Justice Portal](https://justica.gov.pt/Registos/Criminal/Registo-Criminal).
 2. Select "Citizens" if you are requesting your own record or "Entities" if you are an organization requesting the certificate.
 3. Fill in the required information and verify it.
 4. Pay the applicable fee through the available online payment methods.
@@ -33,7 +33,7 @@ All these documents should be handy during the process as detailed information w
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Portuguese Justice Portal      |  [https://justica.gov.pt/](https://justica.gov.pt/Como-pedir-um-registo-criminal)       |      1-3 business days      |        To be confirmed during the request process       |
+| Portuguese Justice Portal      |  [https://justica.gov.pt/](https://justica.gov.pt/Registos/Criminal/Registo-Criminal)       |      1-3 business days      |        To be confirmed during the request process       |
 
 ## Additional details
 If you are outside Portugal, you can still request this through the Portuguese Consulate in your country or via the Portuguese Justice Portal, as the certificate is provided electronically. If you are applying for a job as a driver or a recruitment company is asking for it, it is likely they need to ensure you have no criminal history that may affect your role.

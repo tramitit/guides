@@ -17,7 +17,7 @@ A Disability Pension is financial assistance provided to individuals who live wi
 This service is required by individuals who have chronic illnesses, permanent disabilities, or serious health conditions that prevent them from earning a sufficient living. 
 
 ## Procedure
-1. Go to the INPS website (https://www.inps.it/).
+1. Go to the [INPS website](https://www.inps.it/).
 2. Register a personal account on the website.
 3. Apply for the Disability Pension by selecting the appropriate form.
 4. Fill out all the required information, which includes personal details and details about your health condition.

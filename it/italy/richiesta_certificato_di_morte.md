@@ -36,6 +36,6 @@ Membri della famiglia, genealogisti, professionisti legali o individui coinvolti
 | Vitalchek        |  [Link](https://www.vitalchek.com/)      |      Variabili     |        Variabile    |
 
 ## Dettagli aggiuntivi
-- È importante che la lettera di richiesta sia in italiano. Puoi trovare [lettere campione](https://www.circolocalabrese.org/resources/letters/) per aiutarti a creare la tua.
+- È importante che la lettera di richiesta sia in italiano.
 - Se stai richiedendo il certificato di morte per scopi genealogici, può essere utile includere qualsiasi legame familiare con la regione. Informazioni come i nomi dei genitori del defunto, del coniuge e dei figli possono velocizzare il processo.
 - Tieni presente che alcuni comuni potrebbero addebitare una tassa per l'emissione di questi certificati.

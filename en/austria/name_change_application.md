@@ -16,7 +16,7 @@ A Name Change Application is a legal process in Austria for individuals who wish
 This process is typically needed by those who are not content with their current name, for reasons such as personal preference, gender transition, religious conversion, or to escape stigmatization. 
 
 ## Procedure
-1. You must make a personal request to your local Municipal District Office (Bezirksamt) in Austria. Find your local office [here](https://www.oesterreich.gv.at/kontakte/).
+1. You must make a personal request to your local Municipal District Office (Bezirksamt) in Austria. Find your local office [here](https://www.oesterreich.gv.at/public.html).
 2. Justify the reason for changing the name, and provide any necessary documentation.
 3. Pay the required fee.
 4. Wait for the approval from the local Municipal District Office.
@@ -33,7 +33,7 @@ You may need the following documents, among others:
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Municipal District Office      |  [Official Website](https://www.oesterreich.gv.at/kontakte/)       |      Varies      |        Varies       |
+| Municipal District Office      |  [Official Website](https://www.oesterreich.gv.at/public.html)       |      Varies      |        Varies       |
 
 ## Additional details
 - The change of name is a serious matter in Austria and requests are not easily approved. The rulers typically only permit a name change for compelling reasons.

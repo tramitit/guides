@@ -43,5 +43,5 @@ Non-European citizens planning to stay in Germany for longer than three months n
 - The applications are usually processed within a few weeks, but it may take longer in busy periods. It is essential to apply in good time.
 - There are different types of residence titles depending on the purpose of your stay (e.g., studying, working, etc.), so ensure you apply for the correct one.
 - Some foreign qualifications may need to be recognized in Germany. More on this can be found [here](https://www.anerkennung-in-deutschland.de/html/en/index.php). 
-- It's important to ensure you have adequate health insurance, which is a mandatory requirement. More about health insurance in Germany can be read [here](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-gkv/aok/aok-bundesverband/). 
+- It's important to ensure you have adequate health insurance, which is a mandatory requirement. More about health insurance in Germany can be read [here](https://www.krankenkassen.de/). 
 - Fees vary depending on the specific type of residence title you are applying for. The Foreigners Authority website will provide the most accurate fee structure.

@@ -18,7 +18,7 @@ Tout titulaire de passeport ayant besoin de prolonger sa validité.
 
 ## Procédure
 1. Déterminez si votre passeport peut être renouvelé. La plupart des passeports peuvent être renouvelés s'ils expirent dans les six mois, ou s'ils ont déjà expiré.
-2. Remplissez votre demande de renouvellement de passeport. Pour les citoyens français, vous pouvez le faire en ligne [ici](https://www.service-public.fr/particuliers/vosdroits/F1348).
+2. Remplissez votre demande de renouvellement de passeport. Pour les citoyens français, vous pouvez le faire en ligne [ici](https://www.service-public.fr/).
 3. Prenez une nouvelle photo d'identité répondant aux exigences.
 4. Rassemblez les documents requis, y compris votre ancien passeport.
 5. Payez les frais de renouvellement de passeport applicables.
@@ -33,7 +33,7 @@ Tout titulaire de passeport ayant besoin de prolonger sa validité.
 
 | Fournisseur        |     Site Web     |     Délais    |       Coût      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Gouvernement Français     |  [https://www.service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F1348)      |      variables      |        variables       |
+| Gouvernement Français     |  [https://www.service-public.fr](https://www.service-public.fr/)      |      variables      |        variables       |
 
 ## Détails supplémentaires
 - Les frais de renouvellement de passeport dépendront du type de passeport (biométrique ou non, adultes ou enfants, etc.).

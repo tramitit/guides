@@ -30,7 +30,7 @@ Any individual who is not currently employed but is actively seeking work, and f
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| INPS      |  [https://www.inps.it/](https://www.inps.it/)       |      Varies     |        Free       |
+| INPS      |  https://www.inps.it/      |      Varies     |        Free       |
 
 ## Additional details
 * Several types of unemployment benefits are offered based on potential different aspects of the individual's employment history.

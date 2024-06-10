@@ -33,7 +33,7 @@ Každá osoba, ktorá si kúpi nové alebo použité vozidlo, alebo dovezie vozi
 ## Poskytovatelia, ktorí môžu za vás vybaviť
 | Poskytovateľ   | Webová Stránka  | Časový rámec     | Náklady         |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Obvodný Úrad    | [Oficiálna webová stránka Slovenska](https://www.slovakia.com/information/)  |      7 dní       | Rôznorodé - závisí od typu, veku a veľkosti vozidla |
+| Obvodný Úrad    | [Oficiálna webová stránka Slovenska](https://www.slovakia.com/)  |      7 dní       | Rôznorodé - závisí od typu, veku a veľkosti vozidla |
 
 ## Ďalšie podrobnosti
 - Upozorňujeme, že dovozené vozidlá môžu mať ďalšie náklady súvisiace s rozdielmi v štandardoch alebo emisných normách.

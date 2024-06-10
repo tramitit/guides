@@ -18,7 +18,7 @@ This guide is perfect for both local and foreign individuals or entities who wis
 ## Procedure
 1. Decide on a company name and check its availability in the National Register of Legal Persons (RNPC). 
 2. Prepare the Articles of Association, which will outline key information about your business including what it does and how it will operate.
-3. Submit your registration request to the "On the Spot Firm" (Empresa na Hora) program, which will simplify the business registration process. More information can be found [here](https://justica.gov.pt/Como-fazer-pedidos/Empresa-em-Portugal).
+3. Submit your registration request to the "On the Spot Firm" (Empresa na Hora) program, which will simplify the business registration process. More information can be found [here](https://justica.gov.pt/Servicos/Empresa-na-Hora).
 4. Apply for a corporate taxpayer card at any local tax office, or the Finanças.
 5. Register your company in the Portuguese Social Security.
 
@@ -33,7 +33,7 @@ This guide is perfect for both local and foreign individuals or entities who wis
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Empresa na Hora  |  [Empresa na Hora](https://justica.gov.pt/Como-fazer-pedidos/Empresa-em-Portugal)       |      1-2 days      |        € 360      |
+| Empresa na Hora  |  [Empresa na Hora](https://justica.gov.pt/Servicos/Empresa-na-Hora)       |      1-2 days      |        € 360      |
 
 ## Additional details
 - Business registration can be done by an individual or through the use of a legal representative if the process needs to be accomplished remotely.

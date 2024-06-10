@@ -36,6 +36,6 @@ Family members, genealogists, legal practitioners, or individuals involved in se
 | Vitalchek        |  [Link](https://www.vitalchek.com/)      |      Varies      |        Varies      |
 
 ## Additional details
-- It's important for the letter of request to be in Italian. You can find [sample letters](https://www.circolocalabrese.org/resources/letters/) to help you create your own.
+- It's important for the letter of request to be in Italian.
 - If you're requesting the death certificate for genealogy purposes, it can be helpful to include any known familial ties in the region. Information such as the deceased's parents' names, spouse, and children can expedite the process.
 - Be aware that some comunes may charge a fee for the issuance of these certificates.

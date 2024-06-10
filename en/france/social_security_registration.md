@@ -18,7 +18,7 @@ Anyone who is living and working in France needs to register for French Social S
 
 ## Procedure
 1. As soon as you arrive in France, make sure you are registered with the French authorities, including residency if you're from a non-EU country. This will include providing proof of employment in the form of a signed work contract, or proof of study, etc.
-2. Apply for your Social Security number through France's Social Security website [here](https://www.ameli.fr/) for health insurance, or [here](https://www.cleiss.fr/particuliers/venir/vie_privee/secu.html) for broad information in various areas.
+2. Apply for your Social Security number through France's Social Security website [here](https://www.ameli.fr/) for health insurance, or [here](https://www.cleiss.fr/) for broad information in various areas.
 3. After applying online, you will have to wait for them to process your request. It usually takes several months before you receive your Social Security number.
 4. Once you receive your number, you must then create an account on [Ameli](https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true), the official website of the French Health Insurance. 
 

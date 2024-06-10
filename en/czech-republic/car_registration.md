@@ -18,7 +18,7 @@ Anyone intending to use a vehicle within the Czech Republic for longer than 185 
 
 ## Procedure
 1. Gather all required documents (listed below).
-2. Visit the local registration authority. Find a list of local authorities [here](https://www.gov.uk/guidance/import-a-vehicle-into-the-uk/register-the-vehicle-in-the-uk).
+2. Visit the local registration authority. Find a list of local authorities [here](https://www.gov.uk/vehicle-registration).
 3. Submit all documents for review.
 4. Pay registration fees. Fees differ based on the type and age of the vehicle.
 5. Expect to receive your registration certificate within 7-30 days.
@@ -35,7 +35,7 @@ Anyone intending to use a vehicle within the Czech Republic for longer than 185 
 ## Providers that can do it for you
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Czech Automobile Association      |  [oca.cz](http://www.oca.cz/en/)       |      14 days      |        Variable depending on type of vehicle       |
+| Czech Automobile Association      |  [oca.cz](https://www.oca.cz/)       |      14 days      |        Variable depending on type of vehicle       |
 
 ## Additional details
 - Until the vehicle is registered in the Czech Republic, it is not legal to drive it on public roads.

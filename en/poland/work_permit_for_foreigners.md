@@ -18,7 +18,7 @@ Any non-European Union citizen who wants to work in Poland needs a work permit, 
 ## Procedure
 1. Find a job in Poland. The work permit is issued to the request of the employer.
 2. The employer initiates the application for the work permit for his prospective employee. 
-3. The application is submitted to the relevant Voivodship Office (https://www.gov.pl/web/gov/urzedy-wojewodzkie) in Poland.
+3. The application is submitted to the relevant Voivodship Office (https://www.gov.pl/) in Poland.
 4. Once the application is approved, a copy of the decision is sent to the employer and another one to the prospective foreign employee. 
 
 ## Required Documents
@@ -33,7 +33,7 @@ The following documents are generally needed:
 
 | Provider        |     Website                                     |     Timelines    |       Cost      |
 | --------------- | ----------------------------------------------- |  :-------------: | :-------------: |
-| Voivodship Office | https://www.gov.pl/web/gov/urzedy-wojewodzkie    |    Varies     |    Varies  |
+| Voivodship Office | https://www.gov.pl/    |    Varies     |    Varies  |
 
 ## Additional details
 Note that non-EU residents can only work in Poland if they hold a work permit and the employer starts the process. The duration of this permit is usually tied to the duration of the respective employment agreement, however, it does not exceed 3 years and can be extended. 

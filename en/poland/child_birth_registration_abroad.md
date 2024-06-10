@@ -17,7 +17,7 @@ Birth registration involves the official recording of a child's birth by the gov
 This procedure is necessary for citizens of Poland and Germany who have children born abroad and want to register their child's birth with the home country's government.
 
 ## Procedure
-1. **Polish birth registration procedure**: contact your local national office via the e-mail or phone number provided on their website. Inform the officer about the situation and ask for further instruction based on your circumstances. [Polish National Office Website](https://obywatel.gov.pl/dzieci/zglaszanie-narodzin-dziecka)
+1. **Polish birth registration procedure**: contact your local national office via the e-mail or phone number provided on their website. Inform the officer about the situation and ask for further instruction based on your circumstances. [Polish National Office Website](https://obywatel.gov.pl/)
 2. **German birth registration procedure**: You need to inform your local Standesamt (Registrar's Office) of the birth. If you're not residing in Germany, you can contact the German mission (embassy or consulate) closest to you.  [German Registrar's Office Website](http://www.standesamt.com)
 
 ## Required Documents
@@ -33,7 +33,7 @@ Remember, the documents might need to be translated into German or Polish and no
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Polish National Office      | [Link](https://obywatel.gov.pl/dzieci/zglaszanie-narodzin-dziecka)       |  Variable, reach out directly for information      |        Varies based on specific needs       |
+| Polish National Office      | [Link](https://obywatel.gov.pl/)       |  Variable, reach out directly for information      |        Varies based on specific needs       |
 |German Registrar's Office | [Link](http://www.standesamt.com) | Variable, reach out directly for information | Varies based on specific needs |
 
 ## Additional details

@@ -16,7 +16,7 @@ Finance Online is a government-provided online platform in Austria, which allows
 This platform can be beneficial for all residents of Austria who need to file tax returns.
 
 ## Procedure
-1. Go to the [FinanzOnline](https://finanzonline.bmf.gv.at/fon/index.jsp) website.
+1. Go to the [FinanzOnline](https://finanzonline.bmf.gv.at/fon/login.do) website.
 2. Click on "Register" and then select "Private Individual" if using for personal finances.
 3. Enter your personal information such as your first and last name, date of birth and social insurance number.
 4. Set up a personal user identification and password. Be sure to remember these for future logins.

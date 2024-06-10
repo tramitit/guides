@@ -18,7 +18,7 @@ Każdy obywatel spoza Unii Europejskiej, który chce pracować w Polsce, potrzeb
 ## Procedura
 1. Znajdź pracę w Polsce. Zezwolenie na pracę jest wydawane na wniosek pracodawcy.
 2. Pracodawca inicjuje złożenie wniosku o zezwolenie na pracę dla swojego potencjalnego pracownika.
-3. Wniosek jest składany w odpowiednim Urzędzie Wojewódzkim (https://www.gov.pl/web/gov/urzedy-wojewodzkie) w Polsce.
+3. Wniosek jest składany w odpowiednim Urzędzie Wojewódzkim (https://www.gov.pl/) w Polsce.
 4. Po zatwierdzeniu wniosku, kopia decyzji jest wysyłana do pracodawcy oraz do potencjalnego obcokrajowca.
 
 ## Wymagane Dokumenty
@@ -33,7 +33,7 @@ Zazwyczaj potrzebne są następujące dokumenty:
 
 | Dostawca        |     Strona internetowa                         |     Terminy     |       Koszt     |
 | --------------- | ----------------------------------------------- |  :-------------:|  :-------------:|
-| Urząd Wojewódzki | https://www.gov.pl/web/gov/urzedy-wojewodzkie |    Różnie       |    Różnie      |
+| Urząd Wojewódzki | https://www.gov.pl/ |    Różnie       |    Różnie      |
 
 ## Dodatkowe szczegóły
 Zauważ, że mieszkańcy spoza UE mogą pracować w Polsce tylko jeśli posiadają zezwolenie na pracę i pracodawca rozpoczyna proces. Czas trwania tego zezwolenia jest zazwyczaj związany z czasem trwania umowy o pracę, jednak nie przekracza 3 lat i może być przedłużone. 

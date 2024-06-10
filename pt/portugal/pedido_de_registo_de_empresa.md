@@ -18,7 +18,7 @@ Este guia é perfeito tanto para indivíduos ou entidades locais quanto estrange
 ## Procedimento
 1. Decidir sobre um nome da empresa e verificar sua disponibilidade no Registro Nacional de Pessoas Jurídicas (RNPC).
 2. Preparar os Estatutos da Empresa, que irão descrever informações importantes sobre o seu negócio, incluindo o que faz e como irá operar.
-3. Enviar seu pedido de registro ao programa "Empresa na Hora", que simplificará o processo de registro da empresa. Mais informações podem ser encontradas [aqui](https://justica.gov.pt/Como-fazer-pedidos/Empresa-em-Portugal).
+3. Enviar seu pedido de registro ao programa "Empresa na Hora", que simplificará o processo de registro da empresa. Mais informações podem ser encontradas [aqui](https://justica.gov.pt/Servicos/Empresa-na-Hora).
 4. Solicitar um cartão de contribuinte coletivo em qualquer repartição de finanças local, ou nas Finanças.
 5. Registrar sua empresa na Segurança Social Portuguesa.
 
@@ -33,7 +33,7 @@ Este guia é perfeito tanto para indivíduos ou entidades locais quanto estrange
 
 | Prestador       |     Site        |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Empresa na Hora  |  [Empresa na Hora](https://justica.gov.pt/Como-fazer-pedidos/Empresa-em-Portugal)       |      1-2 dias      |        €360      |
+| Empresa na Hora  |  [Empresa na Hora](https://justica.gov.pt/Servicos/Empresa-na-Hora)       |      1-2 dias      |        €360      |
 
 ## Detalhes Adicionais
 - O registro da empresa pode ser feito por um indivíduo ou através do uso de um representante legal se o processo precisar ser feito remotamente.

@@ -36,7 +36,7 @@ Certain cases, like marriage or gender transition, might require additional docu
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| National Citizen Service Greece      |  https://www.ypes.gr/userportal/      |      1-3 months      |   Varies depending on the case       |
+| National Citizen Service Greece      |  https://www.ypes.gr/      |      1-3 months      |   Varies depending on the case       |
 
 ## Additional details
 It's important to note that the process may vary slightly depending on your specific circumstances. It's always best to check with the relevant legal authorities before proceeding. Once your name change is officially recognized, ensure to update all your personal documentation to reflect this change. Some costs, such as updated documents or processing fees, may not be included in the initial filing fee.
