@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist es?
+### Was ist es?
 Ein schrittweiser Leitfaden, der Sie durch den Prozess der Beantragung eines deutschen Visums führt.
 
-#### Wer braucht es?
+### Wer braucht es?
 Nicht-deutsche Einwohner, die ein Langzeit- oder Kurzzeitbesuchsvisum oder eine Arbeitserlaubnis in Deutschland suchen.
 
 ## Verfahren

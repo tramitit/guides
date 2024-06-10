@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist es?
+### Was ist es?
 Die Anmeldung Ihres Wohnsitzes, oder "Anmeldung", ist in Deutschland für jeden verpflichtend - sowohl für Deutsche als auch für Ausländer -, die für mehr als nur ein paar Monate im Land leben. Der Prozess beinhaltet die Erklärung Ihres regelmäßigen, festen Wohnsitzes gegenüber der örtlichen Regierung.
 
-#### Wer braucht es?
+### Wer braucht es?
 Jede Person, die vorhat, für mehr als nur ein paar Wochen in Deutschland zu bleiben. Dazu gehören Studenten, Angestellte, Geschäftsleute und sogar Arbeitslose.
 
 ## Verfahren

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Um Atestado de Residência é um documento oficial que comprova a sua residência em um determinado endereço em Portugal.
 
-#### Quem precisa?
+### Quem precisa?
 Este documento é geralmente solicitado por instituições como bancos, tribunais e o departamento de impostos, entre outros. Qualquer pessoa residente em Portugal pode precisar dele para completar determinadas formalidades ou procedimentos legais.
 
 ## Procedimento

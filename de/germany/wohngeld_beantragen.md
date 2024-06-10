@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Das Wohngeld ist ein staatliches Finanzierungsschema, das von Regierungen entworfen wurde, um berechtigten Einzelpersonen oder Haushalten zu helfen, die Probleme mit ihrer Miete oder ihren Wohnkosten haben. Diese Unterstützung kann in Form von Wohngeld in Deutschland oder Huurtoeslag in den Niederlanden erfolgen.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Ideale Empfänger sind Einzelpersonen oder Familien mit niedrigem Einkommen, Arbeitslose, Studenten oder Selbstständige, die in Deutschland oder den Niederlanden leben und möglicherweise Schwierigkeiten haben, ihre Wohnkosten zu decken.
 
 ## Verfahren

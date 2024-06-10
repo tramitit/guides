@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Dieser Service ist der Prozess zur Beantragung eines deutschen Führerscheins.
-#### Wer braucht es?
+### Wer braucht es?
 Er richtet sich an ausländische Bewohner in Deutschland, insbesondere an diejenigen, die aus Nicht-EU-Ländern und einigen EU-Ländern umziehen, deren Führerscheine in Deutschland nicht automatisch anerkannt werden. Technisch gesehen können Bewohner von anerkannten Ländern ihre bestehenden Führerscheine frei verwenden, aber es wird im Allgemeinen empfohlen, einen deutschen Führerschein zu erhalten, wenn Sie planen, langfristig im Land zu bleiben.
 
 ## Verfahren

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 Une demande de permis de travail est une demande légale soumise au gouvernement français pour obtenir le droit de travailler en France en tant qu'étranger.
 
-#### Pour qui est-ce ?
+### Pour qui est-ce ?
 Ce guide est essentiel pour toute personne non européenne ayant obtenu un emploi en France et ayant besoin de postuler formellement pour le droit de travailler dans le pays.
 
 ## Procédure

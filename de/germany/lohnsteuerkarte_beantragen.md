@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Eine Steuerkarte oder Steuerkarte wird in Deutschland aus steuerlichen Gründen benötigt. Sie enthält Ihre persönliche Steueridentifikationsnummer, die Nummer, die jedem für steuerliche Zwecke zugewiesen wird, und Ihre Steuerklasse je nach ehelichem und beruflichem Status.
 
-#### Wer benötigt sie?
+### Wer benötigt sie?
 Jede Person, die in Deutschland arbeitet und Einkommen erzielt, benötigt eine Steuerkarte.
 
 ## Verfahren

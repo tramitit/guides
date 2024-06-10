@@ -12,10 +12,10 @@ draft: false
 
 ## Descripción
 
-#### ¿Qué es?
+### ¿Qué es?
 Una Tarjeta de Estudiante o TIE (Tarjeta de Identidad de Extranjero) es el documento de identidad para extranjeros en España. Como documento esencial, sirve como prueba de tu residencia legal y tu condición de estudiante en España.
 
-#### ¿Quién la necesita?
+### ¿Quién la necesita?
 Los estudiantes no pertenecientes a la Unión Europea que se encuentren en España para un programa de estudios de más de seis meses deben solicitar una tarjeta de estudiante.
 
 ## Procedimiento

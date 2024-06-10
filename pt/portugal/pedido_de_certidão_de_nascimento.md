@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Uma certidão de nascimento é um documento oficial fornecido pelo governo, certificando os detalhes do nascimento de um indivíduo. Inclui informações como o nome completo do indivíduo, data e local de nascimento e nomes dos pais.
 
-#### Quem precisa?
+### Quem precisa?
 Este documento é necessário para vários procedimentos legais, verificação de identidade, matrícula escolar, solicitação de passaporte, entre outros.
 
 ## Procedimento

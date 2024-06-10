@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Un certificato di stato di famiglia, o 'Stato di Famiglia', è un documento rilasciato dal comune italiano in cui la persona è residente. Contiene i nomi dei membri della famiglia che risiedono insieme, il loro rapporto tra di loro e le loro date di nascita.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Chiunque abbia bisogno di fornire prove del proprio stato di famiglia per vari motivi legali e amministrativi, come ad esempio per richiedere la cittadinanza, ottenere visti o tracciare l'albero genealogico, per esempio.
 
 ## Procedura

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Esta es una guía paso a paso sobre cómo programar una cita con la Oficina de Inmigración en España. Esto puede ser para diversos fines como organizar tus documentos, permiso de residencia, permiso de trabajo, etc.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este servicio es necesario para cualquier persona que esté planeando emigrar a España o que esté viviendo en España como inmigrante y necesita organizar su documentación con respecto a su estadía.
 
 ## Procedimiento

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O processo de registrar um casamento em Portugal envolvendo um cidadão estrangeiro, com ênfase em entender as questões legais, documentos necessários e procedimentos.
 
-#### Quem precisa?
+### Quem precisa?
 Qualquer estrangeiro que pretende se casar com um cidadão português, ou qualquer cidadão português que pretenda se casar com um estrangeiro.
 
 ## Procedimento

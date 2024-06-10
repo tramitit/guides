@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Il servizio di raccolta differenziata dei rifiuti è un programma che separa i rifiuti in categorie come carta, metallo, plastica e rifiuti organici. La separazione viene effettuata dalle famiglie e dalle imprese prima del ritiro e poi viene raccolta dalle autorità o dalle aziende di raccolta rifiuti in diversi momenti o giorni a seconda del tipo di rifiuto.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Ogni famiglia, individuo o impresa che desidera essere più responsabile dal punto di vista ambientale e contribuire a ridurre complessivamente i rifiuti che vanno in discarica.
 
 ## Procedura

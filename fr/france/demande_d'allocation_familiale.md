@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Les allocations familiales sont des paiements du gouvernement destinés aux familles ayant un ou plusieurs enfants à charge. Ces paiements visent à aider les familles à couvrir les coûts liés à l'éducation des enfants.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Les familles avec des enfants à charge ayant besoin d'une aide financière.
 
 ## Procédure

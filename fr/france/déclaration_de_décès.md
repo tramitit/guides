@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Une déclaration de décès est une notification formelle du décès de quelqu'un aux autorités. En France, cette procédure commence par un certificat médical de décès, suivi d'un rapport au registre civil de la mairie du lieu de décès.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Les proches parents ou les personnes en charge des arrangements funéraires du défunt doivent faire une déclaration de décès. C'est également une exigence pour les personnes qui doivent régler la succession du défunt ou toute affaire légale connexe.
 
 ## Procédure

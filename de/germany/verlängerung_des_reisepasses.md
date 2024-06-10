@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist es?
+### Was ist es?
 Falls die Gültigkeit Ihres Reisepasses kurz vor dem Ablauf steht, müssen Sie den Prozess zur Verlängerung oder Erneuerung des Passes einleiten, um sicherzustellen, dass Sie weiterhin international reisen können. Dieser Leitfaden bietet detaillierte Schritte zur Verlängerung Ihres Passes.
 
-#### Wer braucht es?
+### Wer braucht es?
 Jede Person mit einem ablaufenden Reisepass, die internationale Reisen plant, benötigt einen aktualisierten Pass - dieser Leitfaden ist für solche Personen nützlich.
 
 ## Verfahren

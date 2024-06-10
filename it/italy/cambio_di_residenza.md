@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Il cambio di residenza coinvolge il processo di trasferire ufficialmente il proprio domicilio da una località all'altra. Questo può comportare diversi procedimenti burocratici, coinvolgendo varie istituzioni e potenziali cambiamenti nei regimi fiscali, nelle normative finanziarie e nei documenti di identificazione personale.
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Qualsiasi individuo che pianifichi di trasferirsi in una nuova località, in particolare coloro che si trasferiscono all'estero o gli espatriati in transizione in un nuovo paese o stato, avranno bisogno di effettuare un cambio di residenza.
 
 ## Procedura

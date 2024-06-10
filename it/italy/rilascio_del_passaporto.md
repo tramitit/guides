@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Un passaporto italiano è un documento imperativo per viaggiare, che permette ai cittadini di spostarsi attraverso i confini internazionali con facilità. Questa guida illustra il processo passo dopo passo per ottenere un Passaporto Biometrico Italiano, che migliora le procedure di immigrazione e sicurezza con la sua caratteristica di memorizzazione digitale delle informazioni personali.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Questo procedimento è destinato a tutti i cittadini italiani che stanno pianificando di viaggiare all'estero e attualmente non posseggono un passaporto valido. Questo include i richiedenti per la prima volta così come gli individui che devono rinnovare un passaporto scaduto o in procinto di scadere.
 
 ## Procedura

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O Cartão de Cidadão é o documento oficial de identificação em Portugal. Ele tem múltiplas finalidades, como prova de identidade, cartão de contribuinte, cartão de segurança social e cartão de saúde.
 
-#### Quem precisa?
+### Quem precisa?
 Qualquer pessoa que seja residente legal ou cidadão de Portugal, incluindo crianças, imigrantes e indivíduos que reivindicam a cidadania por ascendência.
 
 ## Procedimento

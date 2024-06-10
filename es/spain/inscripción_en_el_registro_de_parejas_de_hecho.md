@@ -11,10 +11,10 @@ draft: false
 
 ## Descripción
 
-#### ¿Qué es?
+### ¿Qué es?
 El registro de pareja o 'pareja de hecho' en España es una relación legalmente reconocida entre dos personas que viven juntas como pareja. Concede varios derechos a los socios, como compartir bienes, derechos de herencia y beneficios de inmigración para parejas no pertenecientes a la UE.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier pareja que viva junta y desee que su relación sea legalmente reconocida puede optar por el registro de pareja. Es especialmente beneficioso para parejas en las que uno de los socios es ciudadano no perteneciente a la UE, ya que los hace elegibles para obtener un permiso de residencia.
 
 ## Procedimiento

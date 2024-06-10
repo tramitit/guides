@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O Cartão de Utente do SNS é um cartão emitido pelo Serviço Nacional de Saúde de Portugal, que fornece acesso aos serviços de saúde dentro de Portugal.
 
-#### Quem precisa?
+### Quem precisa?
 Este cartão é necessário para qualquer residente em Portugal, independentemente da nacionalidade, que deseje utilizar os serviços fornecidos pelo Sistema de Saúde Português (SNS).
 
 ## Procedimento

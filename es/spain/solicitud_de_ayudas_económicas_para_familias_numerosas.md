@@ -11,10 +11,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Ayudas financias disponibles para familias numerosas para ayudarles a gestionar sus desafíos financieros. Estas ayudas suelen venir en forma de subvenciones, subsidios, servicios con descuento, etc.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Las familias numerosas que luchan con cargas financieras, especialmente aquellas con varios hijos y solo uno o dos generadores de ingresos podrían beneficiarse enormemente de esto.
 
 ## Procedimiento

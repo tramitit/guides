@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Solicitar becas educativas es un proceso en el que los estudiantes solicitan ayuda financiera para ayudar a cubrir los costos de su educación.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este servicio es ideal para estudiantes que no pueden cubrir el costo total de su educación o que encuentran difícil hacerlo. Esto puede incluir desde estudiantes de secundaria que planean asistir a la universidad, hasta estudiantes universitarios actuales, e incluso adultos que buscan regresar a la escuela.
 
 ## Procedimiento

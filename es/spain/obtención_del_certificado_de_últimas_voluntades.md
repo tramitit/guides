@@ -11,10 +11,10 @@ draft: false
 
 ## Descripción
 
-#### ¿Qué es?
+### ¿Qué es?
 Un Certificado de Últimas Voluntades es un documento que certifica si una persona ha realizado un testamento en España y dónde se encuentra ubicado.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este certificado es esencial para aquellos que necesitan liquidar una herencia en España, especialmente si el fallecido tenía activos o propiedades en el país.
 
 ## Procedimiento

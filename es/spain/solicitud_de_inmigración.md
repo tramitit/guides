@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Esta es una guía completa para obtener una visa de nómada digital en España. Incluye instrucciones paso a paso sobre cómo solicitar la visa y manejarse en el sistema de inmigración español para obtener los documentos necesarios.
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Nómadas digitales, trabajadores remotos o cualquier persona que tenga la intención de trabajar legalmente desde España sin un contrato de empleo tradicional.
 
 ## Procedimiento

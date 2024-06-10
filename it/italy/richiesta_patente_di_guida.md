@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Una patente di guida in Italia, o 'patente di guida', è un documento legale che permette al titolare di operare veicoli a motore nel Paese. È necessario per chiunque desideri guidare in Italia.
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Chiunque intenda guidare in Italia, sia come residente che come turista, deve possedere un regolare permesso di guida. Se sei un turista, puoi utilizzare una Patente Internazionale per un breve periodo di tempo, ma i residenti permanenti sono tenuti a possedere una patente di guida italiana.
 
 ## Procedura

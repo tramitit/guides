@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Il reddito di cittadinanza è un'assistenza finanziaria fornita dal governo italiano a individui e famiglie che vivono in povertà.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 È principalmente destinato ai cittadini italiani, ai cittadini dell'Unione Europea e ad alcuni cittadini non UE che possiedono un permesso di soggiorno valido e che vivono in Italia da almeno due anni.
 
 ## Procedura

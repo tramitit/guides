@@ -11,10 +11,10 @@ draft: false
 
 
 ## Descrição
-#### O que é?
+### O que é?
 A matrícula de um veículo é o processo de registar a identificação de um carro e do seu proprietário no registo nacional de veículos.
 
-#### Quem precisa?
+### Quem precisa?
 Qualquer indivíduo que compre um veículo novo ou usado.
 
 ## Procedimento

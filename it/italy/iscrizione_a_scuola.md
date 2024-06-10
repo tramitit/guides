@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 L'iscrizione scolastica è il processo di ammissione a un istituto educativo in Italia. Questa guida copre sia l'iscrizione alla scuola primaria/secondaria che all'università.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Questa guida può essere utile agli studenti stranieri che desiderano studiare in Italia o a coloro che si sono trasferiti di recente in Italia.
 
 ## Procedura

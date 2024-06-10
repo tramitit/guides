@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Esta guía proporciona instrucciones detalladas sobre cómo solicitar una licencia de conducir en España. El proceso implica pasos tanto en línea como en persona, que se llevan a cabo a través del Departamento de Tráfico de España (DGT).
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Esta guía es especialmente valiosa para los no residentes y residentes extranjeros que planean conducir en España.
 
 ## Procedimiento

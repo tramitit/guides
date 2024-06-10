@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 SEPE es el Servicio Público de Empleo Estatal en España. Es responsable de la gestión y control de varios beneficios por desempleo. Hacer una cita con ellos es esencial para cualquier persona que necesite aclarar cuestiones sobre su situación de desempleo o beneficios.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier persona que haya sido despedida, o que esté desempleada y necesite asesoramiento sobre sus beneficios y las ayudas que pueden obtener del gobierno español podría necesitar una cita con SEPE.
 
 ## Procedimiento

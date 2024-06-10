@@ -11,10 +11,10 @@ draft: false
 
 ## Descrição
 
-#### O que é?
+### O que é?
 A renovação do título de residência é um procedimento implementado pelo Serviço de Estrangeiros e Fronteiras (SEF) em Portugal. Esse processo permite que os habitantes estrangeiros estendam sua estadia em Portugal. É importante solicitar essa renovação antes do vencimento do seu título atual.
 
-#### Quem precisa?
+### Quem precisa?
 Esse procedimento é necessário para estrangeiros que vivem em Portugal cujos títulos de residência estão prestes a expirar.
 
 ## Procedimento

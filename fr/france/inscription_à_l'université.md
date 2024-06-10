@@ -11,9 +11,9 @@ draft: false
 
 
 ## Description
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 L'inscription universitaire est le processus d'inscription officielle d'un étudiant à l'université. Cela concerne spécifiquement les universités françaises et couvre les étapes nécessaires pour que les étudiants internationaux s'inscrivent avec succès.
-#### Qui en a besoin ?
+### Qui en a besoin ?
 Ce guide est conçu pour les étudiants internationaux qui souhaitent poursuivre des études supérieures en France. Ce guide complet couvre les détails concernant la candidature, l'acceptation et l'inscription.
 
 ## Procédure

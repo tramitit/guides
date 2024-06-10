@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La baja por maternidad es un derecho legal para las mujeres embarazadas de tomar ciertas semanas de descanso antes y después del nacimiento de su hijo. En España, esta duración es típicamente de 16 semanas, y puede ser extendida bajo ciertas condiciones.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier mujer trabajadora que esté esperando un hijo y desee tomar tiempo libre del trabajo para el nacimiento y cuidado de su hijo necesita solicitar la baja por maternidad.
 
 ## Procedimiento

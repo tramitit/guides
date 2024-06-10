@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Una domanda di Contribuzione Volontaria è un processo attraverso il quale gli individui possono fare contributi aggiuntivi ai loro fondi pensione o alla previdenza sociale, spesso allo scopo di aumentare i loro benefici futuri o coprire periodi di basso reddito o disoccupazione.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Ogni individuo che pianifica il pensionamento o che desidera garantire di avere un fondo pensione sufficiente, specialmente coloro che hanno avuto periodi nella loro storia lavorativa in cui non sono riusciti a contribuire regolarmente.
 
 ## Procedura

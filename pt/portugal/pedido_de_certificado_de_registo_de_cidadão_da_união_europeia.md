@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O Certificado de Registo para Cidadãos da UE é um documento que reconhece o direito de um cidadão da UE viver em Portugal. Este certificado é necessário para cidadãos da UE que permaneçam em Portugal por mais de três meses.
 
-#### Quem precisa?
+### Quem precisa?
 Qualquer cidadão da UE que planeje viver em Portugal por mais de três meses deve solicitar um Certificado de Registo.
 
 ## Procedimento

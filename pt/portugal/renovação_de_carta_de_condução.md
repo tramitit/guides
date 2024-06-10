@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 A renovação da carta de condução refere-se ao processo de prolongar a validade da sua carta de condução atual. Isto é extremamente importante para aqueles que residem no exterior, uma vez que as cartas expiradas podem não ser universalmente aceites e podem criar problemas legais ao conduzir num país estrangeiro. 
 
-#### Quem precisa disso?
+### Quem precisa disso?
 Este serviço é necessário para qualquer indivíduo que esteja a viver no estrangeiro, especialmente em Portugal, no Reino Unido ou no Brasil, e cuja carta de condução esteja próxima da expiração.
 
 ## Procedimento

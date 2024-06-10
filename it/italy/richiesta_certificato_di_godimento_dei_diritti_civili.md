@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Il Certificato di godimento dei diritti politici e civili è un documento che attesta che una persona non è stata privata dei propri diritti civili e politici.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Questo documento è di solito richiesto da coloro che richiedono la cittadinanza italiana o per determinate esigenze specifiche di impiego o licenza.
 
 ## Procedura

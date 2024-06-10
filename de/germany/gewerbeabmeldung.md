@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Die Geschäftsauflösung ist ein rechtlicher Prozess, bei dem die Beendigung und Schließung eines Unternehmens gegenüber den zuständigen Behörden in Deutschland angekündigt wird und als "Gewerbeabmeldung" bezeichnet wird.
 
-#### Wer braucht es?
+### Wer braucht es?
 Jeder Unternehmenseigentümer, der den Geschäftsbetrieb oder freiberufliche Tätigkeiten in Deutschland einstellt, muss den Abmeldeprozess durchlaufen.
 
 ## Verfahren

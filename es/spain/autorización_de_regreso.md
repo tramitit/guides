@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La Autorización de Devolución es un proceso necesario si deseas devolver un producto comprado para obtener un reembolso o un intercambio. Esto implica informar al vendedor sobre el problema del producto y obtener su consentimiento para devolverlo.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier persona que haya comprado un producto, lo haya encontrado insatisfactorio, dañado o que no cumpla con sus necesidades personales. También se necesita autorización de devolución para aquellas personas que necesiten regresar a España sin tener la documentación necesaria en ocasiones.
 
 ## Procedimiento

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Il Rinnovo della Patente di Guida è il processo di aggiornamento dell'autorizzazione a guidare legalmente un veicolo su strade pubbliche. In Italia, la procedura coinvolge diversi passaggi e potrebbe richiedere la certificazione medica.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Ogni individuo che possiede una patente di guida italiana che sta per scadere deve sottoporsi al processo di rinnovo. È fondamentale rinnovare la tua patente prima che scada per poter continuare a guidare legalmente.
 
 ## Procedura

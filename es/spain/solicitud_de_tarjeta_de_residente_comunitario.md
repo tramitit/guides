@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Solicitar una Tarjeta de Residente de la UE es el proceso por el cual los residentes no pertenecientes a la Unión Europea pueden residir legalmente en un estado miembro de la UE. Esta guía específicamente describe el proceso para España, pero puede involucrar pasos similares para otros países de la UE.
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este procedimiento es requerido para cualquier ciudadano no perteneciente a la Unión Europea que tenga la intención de vivir, trabajar o estudiar en un estado miembro de la UE por un período superior a 90 días.
 
 ## Procedimiento

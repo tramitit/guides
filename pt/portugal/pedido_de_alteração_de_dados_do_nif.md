@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O NIF (Número de Identificação Fiscal) funciona essencialmente como o seu número de identificação fiscal. Às vezes, devido a várias circunstâncias como mudança de residência ou nome da empresa, etc., pode ser necessário solicitar uma alteração nos seus Dados de NIF.
 
-#### Quem precisa?
+### Quem precisa?
 Qualquer pessoa (indivíduos ou organizações) registada em Portugal que precise de alterar ou atualizar suas informações fiscais, incluindo endereço de residência, nome da empresa, estado civil, etc., necessita desta alteração nos Dados de NIF.
 
 ## Procedimento

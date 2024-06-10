@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 La maternelle, ou maternelle, comme on l'appelle en France, est une forme d'éducation pour les enfants en dessous de l'âge scolaire obligatoire. Cela constitue une étape cruciale dans la préparation de votre enfant à l'environnement d'apprentissage plus structuré de l'école primaire.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Ce service est nécessaire pour les parents d'enfants qui ont atteint l'âge où ils sont prêts à commencer leur parcours éducatif. Cela se produit généralement lorsque l'enfant a 2-3 ans.
 
 ## Procédure

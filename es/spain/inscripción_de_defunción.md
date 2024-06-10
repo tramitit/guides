@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 El Registro de Defunción en España implica notificar al Registro Civil local sobre una defunción para obtener un certificado de defunción oficial. Este certificado es necesario para varios trámites administrativos, incluyendo reclamaciones de herencia y seguros. Valida que una persona ha fallecido y registra oficialmente la fecha, ubicación y causa de la muerte.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier persona que sea responsable de gestionar los asuntos después de la muerte de una persona, como familiares, herederos, representantes legales o albaceas, necesita registrar la defunción. Es especialmente importante en España para aquellos que necesitan confirmar y verificar la muerte para propósitos legales y administrativos.
 
 ## Procedimiento

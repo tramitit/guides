@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist es?
+### Was ist es?
 Kindergeld ist eine monatliche Zahlung, die vom deutschen Staat an Eltern in Deutschland geleistet wird, um einen Teil der Kosten für die Erziehung ihrer Kinder zu decken.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Alle Eltern oder Erziehungsberechtigten, die in Deutschland wohnhaft oder beschäftigt sind, haben Anspruch darauf, diese Leistung für ihre Kinder zu erhalten.
 
 ## Verfahren

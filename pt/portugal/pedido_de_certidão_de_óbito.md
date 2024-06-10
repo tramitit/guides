@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Um atestado de óbito é um documento oficial emitido pelo governo, que certifica a morte de uma pessoa, detalhando a data, local e causa da morte.
 
-#### Quem precisa?
+### Quem precisa?
 Familiares e partes relevantes que precisam processar assuntos legais (reivindicações de herança, pagamentos de seguros, etc.) relacionados ao falecido.
 
 ## Procedimento

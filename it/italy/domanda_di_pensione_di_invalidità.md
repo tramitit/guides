@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Una pensione di invalidità è un'assistenza finanziaria fornita a individui che vivono con disabilità fisica o mentale e non sono in grado di lavorare a causa di questa disabilità.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Questo servizio è richiesto da individui che hanno malattie croniche, disabilità permanenti o gravi condizioni di salute che impediscono loro di guadagnare un reddito sufficiente.
 
 ## Procedura

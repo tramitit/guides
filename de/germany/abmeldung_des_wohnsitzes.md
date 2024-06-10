@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Die Abmeldung des Wohnsitzes, oder 'Abmeldung', ist der Prozess, bei dem Sie die lokalen Behörden in Deutschland offiziell darüber informieren, dass Sie nicht mehr in Ihrem aktuellen Wohnsitz wohnen, den Bezirk verlassen oder Deutschland verlassen.
 
-#### Wer braucht es?
+### Wer braucht es?
 Jeder, der einen Wohnsitz in Deutschland gemeldet hat und plant, aus diesem Wohnsitz, dem Bezirk oder dem Land auszuziehen, ist gesetzlich verpflichtet, seinen Wohnsitz abzumelden.
 
 ## Verfahren

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Una pensión de jubilación en España es un sistema mediante el cual los trabajadores pueden proveerse a sí mismos una vez que dejan de trabajar debido a la edad de jubilación alcanzada o por discapacidad.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este servicio es ideal para personas que han estado trabajando en España y están planeando jubilarse, incluyendo a expatriados y nómadas digitales.
 
 ## Procedimiento

@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 La déclaration de revenus est une obligation légale dans laquelle vous informez les autorités fiscales françaises de l'ensemble de vos revenus, en fournissant des détails sur vos sources de revenus, vos déductions et les impôts déjà payés. Cela englobe les gains provenant de stocks, les revenus étrangers et les revenus provenant du travail dans plusieurs pays au cours d'une même année fiscale.
-#### Qui en a besoin?
+### Qui en a besoin?
 Toute personne résidant en France, générant des revenus et remplissant certaines conditions de revenus est tenue de déclarer ses revenus, qu'ils soient d'origine nationale ou internationale.
 
 ## Procédure

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 L'inscription sur les listes électorales en France est un processus qui permet aux citoyens éligibles de participer aux procédures électorales du pays. L'inscription vous assure une place sur la liste électorale.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Tout citoyen français qui a au moins 18 ans le jour de l'élection et n'a pas été privé de ses droits civiques.
 
 ## Procédure

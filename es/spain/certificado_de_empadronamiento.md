@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Un Certificado de Residencia, o 'Certificado de Empadronamiento', es un documento oficial que confirma su residencia permanente en España. Es esencial para varios procedimientos administrativos como obtener un NIE/TIE (Número de Identificación de Extranjero/Tarjeta de Identidad de Extranjero), inscribirse en ciertos tipos de seguros, y más.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier extranjero que viva en España, ya sea ciudadano de un país miembro de la UE o no, necesita este certificado si tiene la intención de quedarse en el país por más de 3 meses.
 
 ## Procedimiento

@@ -11,10 +11,10 @@ draft: false
 
 ## Descripción
 
-#### ¿Qué es?
+### ¿Qué es?
 Un Certificado de Delitos Sexuales, comúnmente conocido como Certificado de Delitos de Naturaleza Sexual, es un documento que representa si un individuo ha sido condenado por algún delito sexual.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este documento suele ser necesario para personas que solicitan ciertos trabajos o posiciones de voluntariado, especialmente aquellos que involucran a menores o a poblaciones vulnerables. También puede ser utilizado en ciertos procesos de inmigración o legales.
 
 ## Procedimiento

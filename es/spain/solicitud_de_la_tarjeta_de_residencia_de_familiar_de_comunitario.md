@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La Solicitud de Tarjeta de Residencia para Familiares de un Ciudadano de la UE es un proceso que permite a los familiares no pertenecientes a la UE de ciudadanos de la UE que residen en España establecer su residencia legal en el país.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este proceso es necesario para los familiares no pertenecientes a la UE de un ciudadano de la UE que tengan la intención de vivir, trabajar o estudiar en España por más de 90 días.
 
 ## Procedimiento

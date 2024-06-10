@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 La demande d'arrêt maladie est un processus formel nécessaire pour informer son employeur de la période de son absence en raison d'un problème de santé, qu'il s'agisse de maladies physiques ou mentales. Cela nécessite généralement un document médical prouvant la condition et précisant la durée estimée de la maladie.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Tout travailleur employé en France ou en Suisse sous contrat légal qui se trouve dans l'incapacité d'exercer son travail en raison d'un problème de santé, physique ou mental, et qui a besoin de prendre une pause du travail pour récupérer sa santé.
 
 ## Procédure

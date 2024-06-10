@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Il Servizio Sanitario Nazionale (SSN) in Italia è un sistema sanitario pubblico che offre una copertura sanitaria completa ai residenti.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Tutti i residenti in Italia possono registrarsi con il SSN. Questo include cittadini italiani, cittadini dell'UE e cittadini non-UE con un permesso di soggiorno.
 
 ## Procedura

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Le Complément de Mode de Garde (CMG) est un complément de garde d'enfants qui aide les familles à couvrir une partie des coûts associés à l'emploi d'une assistante maternelle agréée ou à l'utilisation d'une micro-crèche accréditée.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Ce complément est idéal pour les parents actifs ou étudiants ayant des enfants de moins de six ans et vivant en France.
 
 ## Procédure

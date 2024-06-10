@@ -11,10 +11,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Richiedere un certificato di nascita dall'Italia di solito comporta la corrispondenza con il comune italiano specifico in cui la persona è nata. I certificati di nascita sono vitali per vari processi burocratici, tra cui richieste di cittadinanza e ricerche genealogiche.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Le persone con ascendenza italiana che devono dimostrare la discendenza per determinati processi. Questo potrebbe essere per domande di cittadinanza per il "Jure Sanguinis" (diritto di sangue), ricerche genealogiche o altri processi burocratici.
 
 ## Procedura

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Un permis de voyage d'affaires est un document qui permet de voyager légalement à l'étranger pour des activités liées aux affaires. Propre à chaque pays, il est souvent requis par les travailleurs qui ont besoin de séjours prolongés dans des pays étrangers à des fins professionnelles.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Les personnes qui pourraient avoir besoin d'un permis de voyage d'affaires sont celles dont le travail nécessite des voyages fréquents ou de longue durée, telles que les employés de sociétés multinationales, les travailleurs indépendants, les nomades digitaux, les entrepreneurs et les propriétaires d'entreprises.
 
 ## Procédure

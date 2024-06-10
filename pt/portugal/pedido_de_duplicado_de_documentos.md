@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O processo de solicitação de documentos duplicados em Portugal refere-se ao procedimento de obtenção de cópias secundárias de documentos importantes que foram perdidos, roubados ou danificados. Estes podem incluir o Cartão de Cidadão, Cartão de Contribuinte, Cartão de Segurança Social, Carta de Condução, Passaporte e outros.
 
-#### Quem precisa?
+### Quem precisa?
 Este serviço pode ser necessário para qualquer residente em Portugal que tenha perdido ou extraviado algum documento significativo ou necessita de uma cópia do documento por algum motivo. Pode ser mais direcionado para indivíduos que recentemente perderam um documento e precisam substituí-lo.
 
 ## Procedimento

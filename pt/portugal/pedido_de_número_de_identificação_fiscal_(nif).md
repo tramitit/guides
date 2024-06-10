@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O Número de Identificação Fiscal, conhecido como Número de Identificação Fiscal (NIF) em Portugal, é um número de nove dígitos usado em Portugal para fins fiscais. O primeiro número representa o tipo de titular (pessoa, empresa, etc.).
 
-#### Quem precisa?
+### Quem precisa?
 É obrigatório para todos que realizam transações financeiras em Portugal, como abrir uma conta bancária, assinar contratos de aluguel, comprar ou vender propriedades, para declarações de imposto, etc. Indivíduos que não são residentes de Portugal, mas precisam lidar com tais atividades financeiras, também necessitam de um NIF.
 
 ## Procedimento

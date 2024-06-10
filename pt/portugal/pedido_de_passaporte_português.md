@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O passaporte português é um documento de viagem emitido aos cidadãos de Portugal, que lhes permite viajar internacionalmente.
-#### Quem precisa dele?
+### Quem precisa dele?
 Qualquer cidadão de Portugal que deseje viajar para fora de Portugal e não tenha um passaporte válido.
 
 ## Procedimento

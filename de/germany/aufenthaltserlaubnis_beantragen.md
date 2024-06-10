@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Ein Aufenthaltstitel, bekannt als "Aufenthaltserlaubnis" auf Deutsch, ist ein Dokument, das ausländischen Staatsangehörigen das Recht gibt, entweder vorübergehend oder dauerhaft in Deutschland zu bleiben. 
 
-#### Wer braucht es?
+### Wer braucht es?
 Jeder Staatsangehörige außerhalb der Europäischen Union, der vorhat, für mehr als 90 Tage in Deutschland zu bleiben oder dort zu arbeiten, muss einen Aufenthaltstitel beantragen.
 
 ## Verfahren

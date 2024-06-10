@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 L'assurance santé complémentaire, également connue sous le nom de "mutuelle", est une couverture d'assurance volontaire en France qui complète la couverture fournie par le système de sécurité sociale. Elle vise à rembourser la partie des frais de santé qui ne sont pas entièrement couverts par la Sécurité sociale française.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Cette assurance est idéale pour toute personne résidant en France car les frais de santé peuvent être importants même après la couverture initiale de la Sécurité sociale. En particulier, elle peut être très bénéfique pour les personnes ayant des dépenses médicales récurrentes ou les familles avec enfants.
 
 ## Procédure

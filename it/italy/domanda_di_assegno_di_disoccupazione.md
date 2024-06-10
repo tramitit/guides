@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 L'Indennità di Disoccupazione è un sostegno finanziario fornito dal governo agli individui che attualmente non sono impiegati e stanno attivamente cercando lavoro.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Qualsiasi individuo che attualmente non è impiegato ma sta cercando attivamente lavoro e soddisfa le specifiche disposizioni e condizioni stabilite dal governo potrebbe avere bisogno di richiedere un'Indennità di Disoccupazione.
 
 ## Procedura

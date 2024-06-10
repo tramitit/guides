@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 El "paro", o beneficio por desempleo, es un tipo de red de seguridad social proporcionada por el gobierno español para personas que se han quedado desempleadas involuntariamente. Esto proporciona una fuente de ingresos mientras los buscadores de empleo buscan otro trabajo.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier persona que se haya quedado desempleada involuntariamente en España y haya contribuido al Seguro Social español durante un mínimo de un año (360 días) es elegible para solicitar el beneficio por desempleo.
 
 ## Procedimiento

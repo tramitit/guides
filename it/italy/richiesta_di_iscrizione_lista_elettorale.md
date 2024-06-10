@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 La registrazione al Registro Elettorale è il processo attraverso il quale i cittadini idonei si registrano nel registro elettorale al fine di votare alle elezioni. In Italia, è gestito principalmente tramite l'Anagrafe degli Italiani Residenti all'Estero (A.I.R.E), che è un registro importante per i cittadini italiani che vivono all'estero.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 È richiesto a tutti gli italiani idonei che abbiano compiuto 18 anni e ad altri cittadini riconosciuti dallo Stato Italiano.
 
 ## Procedura

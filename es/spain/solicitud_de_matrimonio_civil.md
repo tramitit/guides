@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Una solicitud de matrimonio civil es un procedimiento que debes iniciar para legalizar un matrimonio civil en España. Involucra la presentación de formularios de solicitud, ciertos documentos requeridos y el cumplimiento de varios requisitos legales.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este proceso es necesario para aquellos que tienen la intención de casarse en España, así como para parejas extranjeras que desean que su matrimonio, que ocurrió fuera de España, sea registrado y reconocido por la ley española.
 
 ## Procedimiento

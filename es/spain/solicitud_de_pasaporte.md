@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Un pasaporte español permite viajar internacionalmente y sirve como prueba de ciudadanía e identidad. Es emitido por el gobierno español a sus ciudadanos.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier ciudadano español que planea viajar al extranjero necesita un pasaporte.
 
 ## Procedimiento

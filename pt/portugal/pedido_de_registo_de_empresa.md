@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Registrar uma empresa em Portugal envolve o processo de legalização da empresa para que possa operar livremente no país. Essa jornada inclui decidir sobre o nome da empresa, realizar documentos legais e financeiros, e lidar com os requisitos do governo local e nacional.
-#### Quem precisa?
+### Quem precisa?
 Este guia é perfeito tanto para indivíduos ou entidades locais quanto estrangeiras que desejam iniciar um negócio em Portugal.
 
 ## Procedimento

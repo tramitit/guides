@@ -11,10 +11,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 L'assegno sociale è una forma di aiuto finanziario fornito dal governo a individui o famiglie che soddisfano determinati criteri, come basso reddito, disoccupazione, disabilità o anzianità.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Qualsiasi individuo o famiglia che soddisfi i criteri stabiliti dalle autorità competenti potrebbe aver bisogno di richiedere il sostegno sociale.
 
 ## Procedura

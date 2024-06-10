@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Uma carteira de habilitação é um documento oficial, muitas vezes em plástico e do tamanho de um cartão de crédito, que permite a um indivíduo específico operar um ou mais tipos de veículos motorizados.
 
-#### Quem precisa?
+### Quem precisa?
 Qualquer pessoa que pretende operar um veículo motorizado, seja para fins pessoais ou profissionais, precisa de uma carteira de habilitação.
 
 ## Procedimento

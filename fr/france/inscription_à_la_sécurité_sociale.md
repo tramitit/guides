@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 L'inscription à la Sécurité sociale française fait référence au processus d'inscription au système de Sécurité sociale française afin d'avoir accès aux soins de santé, à la couverture de certains risques (maladie, maternité, invalidité, vieillesse), aux prestations familiales et plus encore.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Toute personne vivant et travaillant en France doit s'inscrire à la Sécurité sociale française.
 
 ## Procédure

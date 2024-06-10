@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Il Codice Fiscale italiano, anche conosciuto come Codice Fiscale, è un numero di identificazione personale utilizzato in tutte le interazioni con i servizi e gli enti governativi italiani. È un requisito per una varietà di attività come aprire un conto in banca, firmare un contratto di locazione e persino acquistare una SIM card.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Chiunque abbia intenzione di risiedere, lavorare o svolgere qualsiasi tipo di attività che coinvolga il settore bancario o governativo in Italia avrà bisogno di un Codice Fiscale. Questo include visitatori a breve termine, residenti a lungo termine e aziende.
 
 ## Procedura

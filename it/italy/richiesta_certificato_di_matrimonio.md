@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Un certificato di matrimonio è un documento che attesta la registrazione legale di un matrimonio tra due individui. In questo contesto, stiamo descrivendo il processo per ottenere questo certificato dalle autorità italiane.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Chiunque si sia sposato in Italia e necessiti di una prova del proprio matrimonio per scopi legali, di immigrazione o personali.
 
 ## Procedura

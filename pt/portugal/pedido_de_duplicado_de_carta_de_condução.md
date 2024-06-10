@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Uma carta de condução duplicada é uma cópia da sua carta de condução original, necessária em caso de perda, roubo ou dano da carta original.
-#### Quem precisa?
+### Quem precisa?
 Qualquer condutor licenciado que tenha perdido, tido roubado ou danificado a sua carta de condução original e necessite de uma substituição.
 
 ## Procedimento

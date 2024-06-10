@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 IRPEF sta per "Imposta sul Reddito delle Persone Fisiche", che è l'Imposta sul Reddito Individuale in Italia. A volte un individuo potrebbe aver pagato più tasse del dovuto e in tali casi, si ha il diritto di richiedere un rimborso per l'importo in eccesso pagato.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Questa guida è utile per qualsiasi individuo residente in Italia che abbia identificato un sovrapagamento sulle tasse IRPEF e desideri richiedere un rimborso.
 
 ## Procedura

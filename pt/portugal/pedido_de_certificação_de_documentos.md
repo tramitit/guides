@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 A certificação de documentos é um processo no qual uma pessoa autorizada ou entidade confirma a autenticidade de um documento. Isso geralmente é necessário para documentos que precisam ser reconhecidos legalmente em países estrangeiros ou quando solicitados por diversas instituições.
 
-#### Quem precisa?
+### Quem precisa?
 Indivíduos que estão no processo de imigração, estudando no exterior, questões fiscais e transações comerciais internacionais geralmente precisam de documentos certificados.
 
 ## Procedimento

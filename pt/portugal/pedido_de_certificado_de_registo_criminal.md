@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Um Certificado de Registo Criminal é um documento que mostra quaisquer infrações criminais pelas quais um indivíduo tenha sido condenado.
 
-#### Quem precisa dele?
+### Quem precisa dele?
 Qualquer pessoa que seja obrigada a divulgar seu histórico criminal para fins como emprego, estudos, solicitações de visto, etc.
 
 ## Procedimento

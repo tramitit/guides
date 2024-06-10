@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Die Änderung der Gewerbeanmeldung beinhaltet den Prozess der Aktualisierung Ihrer Geschäftsdaten beim deutschen örtlichen Gewerbeamt. Dies ist in der Regel erforderlich, wenn Änderungen an Ihrem Unternehmen vorgenommen werden, wie z.B. Standortwechsel oder Änderung der Art des Unternehmens.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Jedes Unternehmen, das in Deutschland tätig ist und eine wesentliche Änderung wie Umzug, Änderung der primären Geschäftstätigkeiten oder eine Änderung der Unternehmensstruktur durchläuft.
 
 ## Verfahren

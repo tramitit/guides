@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist es?
+### Was ist es?
 Das Elterngeld ist eine staatliche Unterstützung in Deutschland, die Eltern nach der Geburt eines Kindes gewährt wird, um ihnen die Möglichkeit zu geben, sich eine Auszeit von der Arbeit zu nehmen und sich um das Kind zu kümmern. Der Zuschuss kann für bis zu 14 Monate beantragt werden.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Jeder Elternteil, der derzeit in Deutschland wohnt und ein neugeborenes oder adoptiertes Kind hat. Beide Elternteile können den Anspruch aufteilen.
 
 ## Verfahren

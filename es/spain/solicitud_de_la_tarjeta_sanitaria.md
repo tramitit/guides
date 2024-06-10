@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La Tarjeta Sanitaria, o la 'Tarjeta Sanitaria Europea' (TSE), es un documento personalizado e individual que certifica tus derechos a recibir los beneficios de atención médica necesarios en España.
 
-#### ¿Quién la necesita?
+### ¿Quién la necesita?
 La tarjeta sanitaria es esencial para cualquier persona que resida en España, ya sea ciudadano, residente permanente o nómada digital con visa.
 
 ## Procedimiento

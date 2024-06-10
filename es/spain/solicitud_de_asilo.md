@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Una solicitud de asilo es una petición hecha por una persona para recibir protección en un país extranjero debido al temor de persecución en su país de origen. En España, esta solicitud es manejada por la Oficina de Asilo y Refugio (OAR).
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Una solicitud de asilo es ideal para individuos que enfrentan amenazas creíbles de persecución en sus países de origen debido a motivos de raza, religión, nacionalidad, pertenencia a un grupo social en particular u opinión política.
 
 ## Procedimiento

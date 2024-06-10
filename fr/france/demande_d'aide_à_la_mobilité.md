@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Les aides à la mobilité comprennent des dispositifs conçus pour aider à la marche ou améliorer la mobilité des personnes ayant une incapacité de déplacement. En France, elles peuvent aller des dispositifs simples comme les cannes blanches aux machines complexes comme les fauteuils roulants ou les scooters de mobilité.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Toute personne ayant une incapacité de déplacement limitant sa capacité à se déplacer, que ce soit en raison d'un handicap permanent, d'une blessure ou de l'âge.
 
 ## Procédure

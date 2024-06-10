@@ -11,10 +11,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist es?
+### Was ist es?
 Mutterschaftsgeld ist eine finanzielle Leistung, die von der gesetzlichen Krankenversicherung in Deutschland während der Mutterschutzfrist gezahlt wird und dazu dient, eventuelle Verdienstausfälle auszugleichen, die eine Mutter aufgrund der Geburt eines Kindes erleiden könnte.
 
-#### Wer braucht es?
+### Wer braucht es?
 Diese Leistung richtet sich idealerweise an alle werdenden Mütter in Deutschland, die Mitglieder der gesetzlichen Krankenversicherung sind und die aufgrund des Kündigungsschutzes ab Beginn der Schwangerschaft mit einem Einkommensverlust konfrontiert sind.
 
 ## Verfahren

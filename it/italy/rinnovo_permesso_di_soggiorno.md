@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Questo servizio riguarda il rinnovo del tuo permesso di soggiorno, noto anche come Permesso di Soggiorno in Italia.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Chiunque non sia un cittadino dell'UE e preveda di rimanere in Italia per più di 90 giorni deve richiedere il Permesso di Soggiorno. Se ne hai già uno ma sta per scadere, devi rinnovarlo.
 
 ## Procedura

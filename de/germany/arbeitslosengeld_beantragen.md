@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist es?
+### Was ist es?
 Arbeitslosengeld ist eine finanzielle Unterstützung, die Personen gewährt wird, die ihren Job verloren haben und aktiv nach einer neuen Beschäftigung suchen.
 
-#### Wer braucht es?
+### Wer braucht es?
 Diese Leistung gilt in der Regel für Personen, die in Deutschland gearbeitet haben und ihren Job verloren haben. Es spielt keine Rolle, ob Sie Ausländer oder Einheimischer sind, solange Sie mindestens 12 Monate in Deutschland gearbeitet und Arbeitslosenversicherungsbeiträge gezahlt haben, können Sie sich bewerben.
 
 ## Verfahren

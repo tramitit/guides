@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Ce guide fournit des informations étape par étape sur la manière d'inscrire votre enfant au collège en France, un système conçu pour offrir une éducation de base aux enfants de onze à quinze ans.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Ce guide s'adresse aux parents ou tuteurs légaux qui envisagent d'inscrire leur enfant dans un collège du système éducatif français.
 
 ## Procédure

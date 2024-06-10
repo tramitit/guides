@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Agendar uma consulta médica no SNS refere-se ao agendamento de serviços de saúde através do sistema de saúde nacional de Portugal, o Serviço Nacional de Saúde (SNS). Esse sistema de saúde oferece cuidados médicos gratuitos ou a baixo custo aos residentes de Portugal.
 
-#### Quem precisa?
+### Quem precisa?
 Qualquer pessoa que esteja residindo em Portugal e esteja registrada no SNS pode fazer uso desse serviço, incluindo tanto os locais quanto expatriados. É especialmente benéfico para indivíduos que procuram serviços de saúde regulares, consultas de especialistas, ou testes e procedimentos sob o SNS.
 
 ## Procedimento

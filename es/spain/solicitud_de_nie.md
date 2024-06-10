@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 El NIE (Número de Identificación de Extranjero) es un número de identificación para extranjeros en España. Sirve como tu identificación para muchos trámites mientras te encuentras en el país, por ejemplo, abrir una cuenta bancaria o firmar cualquier tipo de contrato.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier extranjero que planea vivir en España por más de tres meses, o por razones profesionales, económicas o sociales.
 
 ## Procedimiento

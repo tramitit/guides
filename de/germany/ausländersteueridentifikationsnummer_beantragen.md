@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Eine ausländische Steueridentifikationsnummer oder TIN ist eine einzigartige Zeichenkombination, die von dem Land vergeben wird, in dem die Person steuerpflichtig ist. Sie wird international anerkannt und ist oft für steuerliche Zwecke und Geschäfte im Ausland erforderlich.
 
-#### Wer braucht es?
+### Wer braucht es?
 Eine TIN ist notwendig für Einzelpersonen und Unternehmen, die an finanziellen Transaktionen oder Geschäftstätigkeiten in ausländischen Ländern beteiligt sind, in denen Steuerpflichten bestehen. Dazu gehören digitale Inhaltsanbieter, freiberufliche Softwareentwickler, Musiker und multinationale Unternehmen.
 
 ## Verfahren

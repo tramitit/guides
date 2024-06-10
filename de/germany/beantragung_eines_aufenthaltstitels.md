@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Ein Aufenthaltstitel gewährt Nicht-EU-/EWR-Personen einen legalen Status, um in Deutschland zu leben. Dies kann von vorübergehenden Aufenthalten (Visum) bis hin zum dauerhaften Aufenthaltsrecht reichen.
 
-#### Wer braucht es?
+### Wer braucht es?
 Nicht-europäische Bürger, die vorhaben, länger als drei Monate in Deutschland zu bleiben, müssen einen Aufenthaltstitel beantragen.
 
 ## Verfahren

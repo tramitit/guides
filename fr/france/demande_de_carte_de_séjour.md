@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 Un permis de résidence, ou Titre de Séjour, est un document qui vous autorise légalement à résider en France pendant une certaine période. Il est nécessaire pour les ressortissants non-UE qui ont l'intention de rester en France pendant plus de trois mois.
 
-#### Qui en a besoin ?
+### Qui en a besoin ?
 Toute personne ayant l'intention de vivre et de travailler en France pendant une longue période, en particulier celles qui ne sont pas citoyennes de l'UE, a besoin d'un permis de résidence.
 
 ## Procédure

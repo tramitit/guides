@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Une carte de résident, également connue sous le nom de 'Carte de Résident', est un document qui valide le statut légal d'un individu étranger résidant en France pour une période prolongée. Cette carte accorde généralement à son détenteur le droit de vivre et de travailler en France.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Tout citoyen non-français prévoyant de vivre en France pendant une période de plus de trois mois a besoin d'une carte de résident. Cela est particulièrement pertinent pour ceux qui ont l'intention de travailler ou d'étudier dans le pays.
 
 ## Procédure

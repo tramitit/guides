@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La declaración de impuestos sobre la renta es un documento que se presenta a la autoridad nacional de ingresos, en el que se declara su ingreso anual, deducciones, responsabilidades fiscales y pagos. Esta guía se enfoca específicamente en el proceso en España.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Todo residente en España que haya obtenido ingresos en el año anterior debe presentar una declaración de impuestos sobre la renta. Los no residentes que hayan obtenido ingresos en España también pueden tener la obligación de presentar una declaración.
 
 ## Procedimiento

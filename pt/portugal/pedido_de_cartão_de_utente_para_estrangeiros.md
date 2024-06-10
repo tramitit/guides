@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Um Cartão de Utilizador para estrangeiros, também conhecido como Autorização de Residência, é um documento que permite que cidadãos não pertencentes à UE residam legalmente em Portugal. Este cartão é obrigatório para qualquer estrangeiro que pretenda viver em Portugal por um período superior a seis meses.
 
-#### Quem precisa dele?
+### Quem precisa dele?
 Qualquer cidadão não pertencente à UE que planeie ficar em Portugal por mais de seis meses precisa deste cartão. Seja para estudar, trabalhar ou se aposentar em Portugal, este cartão é necessário.
 
 ## Procedimento

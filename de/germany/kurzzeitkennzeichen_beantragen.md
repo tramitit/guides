@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Ein Kurzzeitkennzeichen, auch bekannt als "Zulassungsstelle", ist eine vorübergehende Registrierung, die es Einzelpersonen ermöglicht, ein Fahrzeug zu betreiben, während sie auf dauerhafte Kennzeichen warten.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Es ist ideal für Personen, die kürzlich ein Fahrzeug gekauft haben und auf ihre offiziellen Kennzeichen warten oder für Personen, die ein Fahrzeug importieren und den Registrierungsprozess durchlaufen müssen.
 
 ## Verfahren

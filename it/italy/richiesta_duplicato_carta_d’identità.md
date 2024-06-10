@@ -11,10 +11,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Questo documento fornisce una guida passo dopo passo su come ottenere una duplicata della carta d'identità italiana. Questo processo è adatto a coloro che hanno perso le proprie carte o per carte danneggiate o rubate.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Il pubblico principale di questa guida è costituito da italiani o residenti in Italia che hanno perso le proprie carte d'identità originali e hanno bisogno di richiedere duplicati, o individui che cercano di sostituire carte danneggiate o rubate.
 
 ## Procedura

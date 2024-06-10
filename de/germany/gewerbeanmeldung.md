@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Die Gewerbeanmeldung, oder Gewerbeanmeldung, ist ein Prozess in Deutschland, der eine gewerbliche Tätigkeit rechtlich festlegt. Dies dient der staatlichen Aufsicht und Besteuerung.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Personen oder Unternehmen, die in Deutschland ein unternehmerisches Vorhaben starten oder erweitern möchten, entweder auf selbstständiger oder gesellschaftlicher Basis.
 
 ## Verfahren

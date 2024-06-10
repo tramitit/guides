@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Um certificado de matrícula é um documento oficial que registra a propriedade e detalhes específicos de um veículo. É obrigatório para todos os veículos em operação em Portugal.
-#### Quem precisa?
+### Quem precisa?
 Qualquer pessoa que possua um veículo em Portugal ou esteja procurando importar um veículo para Portugal precisará disso.
 
 ## Procedimento

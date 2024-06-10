@@ -11,11 +11,11 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 
 Un certificato di destinazione urbana è un documento che verifica alcuni aspetti dello stato di una proprietà in relazione agli ordinamenti urbanistici della città.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 
 Il certificato è di solito richiesto da privati o enti che intendono apportare modifiche a una proprietà, come costruzioni o ristrutturazioni. Potrebbe anche essere richiesto durante il processo di transazione di acquisto o vendita di una proprietà.
 

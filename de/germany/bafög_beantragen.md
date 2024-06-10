@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 BAföG ist ein von der deutschen Regierung bereitgestellter finanzieller Beihilfedienst für Studierende, die ihr Studium in Deutschland beginnen oder fortsetzen möchten. Dieser Service soll es den Studierenden erleichtern, ihr Studium zu finanzieren, ohne sich um finanzielle Einschränkungen sorgen zu müssen.
 
-#### Wer braucht es?
+### Wer braucht es?
 Studierende, die in Deutschland ansässig sind (entweder EU-Bürger oder Nicht-EU-Bürger) und internationale Studierende, die in Deutschland studieren möchten, können BAföG beantragen. Besonders vorteilhaft kann dies für diejenigen sein, die über begrenzte finanzielle Mittel verfügen oder deren Familienressourcen nicht ausreichen, um ihr Studium zu finanzieren.
 
 ## Verfahren

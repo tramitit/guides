@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Una Dichiarazione di Nascita è una procedura obbligatoria per registrare i neonati in Italia. Questa registrazione stabilisce l'identità legale del bambino e conferma la sua nazionalità italiana.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 La dichiarazione di nascita è di solito fatta dai genitori o altri rappresentanti legali di un neonato, nato in Italia o da un residente italiano.
 
 ## Procedura

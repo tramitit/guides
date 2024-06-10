@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Un Certificato di Stato Civile è un documento ufficiale che conferma lo stato civile di una persona - questo potrebbe dettagliare se sono single, sposati, divorziati o vedovi. La certificazione potrebbe essere richiesta per vari scopi, tra cui matrimonio, domanda di visto, procedimenti di successione e altro ancora.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Chiunque abbia bisogno di fornire una prova certificata del proprio attuale stato civile potrebbe avere bisogno di questo certificato.
 
 ## Procedura

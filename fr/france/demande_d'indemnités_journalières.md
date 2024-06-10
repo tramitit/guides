@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 L'indemnité journalière est une partie du salaire versée à un employé qui est incapable de travailler en raison d'une maladie ou d'un accident. Cela fait partie du système de sécurité sociale en France.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 C'est idéal pour tout employé incapable de travailler en raison de problèmes de santé et souhaitant demander un congé maladie. Cela aide à maintenir une certaine stabilité financière pendant cette période.
 
 ## Procédure

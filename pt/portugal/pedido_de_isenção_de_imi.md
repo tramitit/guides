@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Refere-se à isenção do IMI (Imposto Municipal sobre Imóveis), um imposto municipal em Portugal. Essa isenção pode ser total ou parcial, e pode ser aplicada a propriedades destinadas à habitação própria e permanente.
 
-#### Quem precisa disso?
+### Quem precisa disso?
 Donos de propriedades em Portugal que residem em sua própria propriedade como residência permanente.
 
 ## Procedimento

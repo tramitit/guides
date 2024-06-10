@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 L'allocation de retour à l'emploi (ARE) est un régime d'indemnisation du chômage fourni par la France aux personnes qui ont perdu leur emploi, les aidant financièrement jusqu'à ce qu'ils trouvent un nouveau travail.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Toute personne ayant perdu son emploi et recherchant activement un emploi peut avoir besoin de demander ces allocations de chômage.
 
 ## Procédure

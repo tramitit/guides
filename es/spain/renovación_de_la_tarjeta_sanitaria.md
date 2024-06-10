@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La Tarjeta Sanitaria Europea (TSE) es un documento individual que certifica al titular el derecho a recibir beneficios de atención médica necesarios durante una estancia temporal en cualquiera de los estados miembros de la Unión Europea, del Espacio Económico Europeo y de Suiza.
 
-#### ¿Quién la necesita?
+### ¿Quién la necesita?
 Principalmente para ciudadanos españoles o residentes que tengan planeado viajar por la UE, el EEE y Suiza y deseen estar cubiertos para atención médica.
 
 ## Procedimiento

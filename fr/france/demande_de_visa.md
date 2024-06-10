@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 Un processus par lequel un individu obtient la permission officielle d'entrer et de séjourner en France pour une période et une raison spécifiques.
-#### Qui en a besoin ?
+### Qui en a besoin ?
 Tout individu i) ne possédant pas la citoyenneté française, ii) résidant en dehors de l'Union européenne, et iii) souhaitant travailler, étudier ou visiter la France pendant plus de 90 jours.
 
 ## Procédure

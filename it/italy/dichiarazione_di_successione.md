@@ -11,10 +11,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Una Dichiarazione di Successione è un documento legalmente vincolante che indica chi riceve i beni e le proprietà di una persona dopo la sua morte. In Italia, le leggi sull'eredità stabiliscono che gli asset devono essere distribuiti tra la famiglia secondo regole specifiche. Per gestire correttamente questo processo, è necessario fare una dichiarazione.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Chiunque abbia inaspettatamente o potenzialmente ricevuto un'eredità dopo la morte di un caro in Italia.
 
 ## Procedura

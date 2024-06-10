@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Richiedere i registri penali in Italia comporta ottenere il certificato penale, o 'Certificato Penale', che è un documento ufficiale che elenca eventuali condanne penali di una persona.
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Questo documento può essere richiesto per vari scopi, come domande di visto, controlli sull'impiego o domande di cittadinanza.
 
 ## Procedura

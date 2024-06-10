@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 Une déclaration de naissance en France est une procédure formelle qui consiste à reconnaître la naissance d'un enfant auprès des autorités civiles en France.
 
-#### Qui en a besoin ?
+### Qui en a besoin ?
 Cette procédure est essentielle pour tout parent ayant accouché en France.
 
 ## Procédure

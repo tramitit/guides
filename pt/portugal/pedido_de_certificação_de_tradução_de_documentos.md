@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 A Certificação de Tradução de Documentos é um ato em que autoridades como notários, tradutores certificados ou entidades especializadas em serviços de tradução verificam a precisão e semelhança entre o documento traduzido e o original.
 
-#### Quem precisa?
+### Quem precisa?
 Pessoas que precisam de traduções oficiais para seus documentos. Estes podem incluir acadêmicos que desejam estudar no exterior, imigrantes que precisam traduzir seus certificados para vários processos de inscrição, empresas que lidam com clientes ou mercados internacionais, ou qualquer pessoa que necessite de uma tradução oficialmente reconhecida de seus documentos.
 
 ## Procedimento

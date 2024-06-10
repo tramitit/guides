@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 In Deutschland wird der öffentlich-rechtliche Rundfunk durch eine obligatorische Rundfunkgebühr finanziert, die als "Rundfunkbeitrag" bekannt ist. Es handelt sich um eine monatliche Gebühr, die von den Bewohnern innerhalb Deutschlands unabhhängig davon gezahlt werden muss, ob sie öffentlich-rechtliche Rundfunkdienste nutzen oder nicht.
 
-#### Wer braucht es?
+### Wer braucht es?
 Jeder Haushalt in Deutschland muss die Rundfunkgebühr bezahlen. Dies bedeutet nicht zwangsläufig, dass jede Person zahlen muss. Wenn mehrere Personen zusammen in einer gemeinsamen Unterkunft leben, bilden sie einen einzigen "Haushalt", und es ist nur eine Gebühr fällig. Auch ausländische Studenten und Fachleute, die in Deutschland leben, müssen sich registrieren und die Gebühr bezahlen.
 
 ## Verfahren

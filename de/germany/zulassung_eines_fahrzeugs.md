@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Die Fahrzeugzulassung bezieht sich auf den Prozess, ein neu gekauftes Fahrzeug auf Ihren Namen zu registrieren oder den Fahrzeugbesitz von einem früheren Besitzer auf Sie zu übertragen. Dieser Prozess ist in Deutschland obligatorisch, wenn Sie ein neues oder gebrauchtes Fahrzeug kaufen.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Sowohl Einwohner Deutschlands als auch Ausländer, die sich im Land aufhalten, und ein Fahrzeug gekauft haben und es auf deutschen Straßen benutzen möchten.
 
 ## Verfahren

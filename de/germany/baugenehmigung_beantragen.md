@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Eine Baugenehmigung ist eine offizielle Genehmigung, die in Deutschland benötigt wird, um Gebäude zu bauen oder sogar bestehende Gebäude zu ändern. Es ist wichtig, sicherzustellen, dass das Projekt den Bauvorschriften, örtlichen Verordnungen, Baubestimmungen und ähnlichen Vorschriften entspricht.
 
-#### Wer benötigt sie?
+### Wer benötigt sie?
 Diese Genehmigung ist erforderlich für Einzelpersonen, Unternehmen oder Organisationen, die planen, innerhalb der deutschen Gerichtsbarkeit neue Immobilien zu bauen oder bestehende Immobilien zu modifizieren.
 
 ## Verfahren

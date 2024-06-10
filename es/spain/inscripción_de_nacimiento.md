@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 El registro de nacimiento en España es un requisito legal para todos los recién nacidos, y formalmente reconoce el nacimiento y la ciudadanía de un bebé. Este registro resulta en un certificado de nacimiento, que es un documento legal vital necesario a lo largo de la vida de una persona.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este servicio es necesario para todos los padres o tutores que han tenido recientemente un bebé en España. También es requerido para aquellos que necesitan utilizar su certificado de nacimiento para procesos legales, como adquirir un pasaporte o casarse.
 
 ## Procedimiento

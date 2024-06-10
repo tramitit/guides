@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Um processo através do qual indivíduos de ascendência portuguesa ou que preencham determinados critérios podem adquirir a nacionalidade portuguesa.
-#### Quem precisa disso?
+### Quem precisa disso?
 Qualquer pessoa que cumpra os seguintes critérios:
 - Indivíduos de ascendência portuguesa
 - Indivíduos cujos pais eram residentes portugueses no momento do seu nascimento

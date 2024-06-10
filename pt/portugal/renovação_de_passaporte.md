@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 A renovação do passaporte é o processo de atualização/expiração do passaporte atual obtendo um novo.
 
-#### Quem precisa?
+### Quem precisa?
 Este serviço é necessário para cidadãos portugueses que vivem no exterior cujos passaportes expiraram ou estão próximos da renovação.
 
 ## Procedimento

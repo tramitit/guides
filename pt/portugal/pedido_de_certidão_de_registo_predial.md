@@ -11,10 +11,10 @@ draft: false
 
 ## Descrição
 
-#### O que é?
+### O que é?
 Um Certificado de Registo Predial em Portugal (também conhecido como Certidão Predial Permanente) é um documento oficial que contém todas as informações significativas sobre um imóvel, como o nome do proprietário, os detalhes do imóvel e quaisquer direitos, encargos ou ônus sobre ele.
 
-#### Quem precisa disso?
+### Quem precisa disso?
 Qualquer pessoa que esteja comprando, alugando ou gerenciando imóveis em Portugal. É especialmente importante para aqueles que estão finalizando um acordo de compra de propriedade para garantir que o imóvel não esteja legalmente ocupado ou pertença a outra pessoa, e não tenha dívidas ou encargos existentes.
 
 ## Procedimento

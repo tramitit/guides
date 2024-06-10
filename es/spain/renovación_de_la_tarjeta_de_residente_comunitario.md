@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La Tarjeta de Identidad de Extranjero de la UE o Tarjeta de Residente (TIE) es la identificación de residencia para ciudadanos no pertenecientes a la Unión Europea en España. Esta tarjeta se emite por la duración de su estancia, y debe ser renovada según corresponda.
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Ciudadanos no pertenecientes a la Unión Europea que residan en España por un periodo prolongado de tiempo y tengan su tarjeta próxima a vencer.
 
 ## Procedimiento

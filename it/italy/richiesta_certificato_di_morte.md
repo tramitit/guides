@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Un certificato di morte è un documento ufficiale emesso dal governo, che indica la data, il luogo e la causa della morte di un individuo.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Membri della famiglia, genealogisti, professionisti legali o individui coinvolti nella liquidazione dell'eredità del defunto ne avrebbero bisogno.
 
 ## Procedura

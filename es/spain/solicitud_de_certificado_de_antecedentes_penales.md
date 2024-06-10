@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Un Certificado de Antecedentes Penales es un documento que certifica si una persona tiene antecedentes penales o no.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Las personas que solicitan ciertos empleos, visados o permisos oficiales pueden ser requeridos a presentar un Certificado de Antecedentes Penales.
 
 ## Procedimiento

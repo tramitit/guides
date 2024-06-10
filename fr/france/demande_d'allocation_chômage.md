@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Les allocations de chômage sont un soutien financier fourni par le gouvernement français aux individus actuellement au chômage sans culpabilité de leur part, et qui recherchent activement un emploi.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Le service est adapté aux personnes récemment devenues chômeurs, suite à des circonstances telles que licenciement, faillite de l'entreprise ou fin de contrat. Il sert d'aide financière temporaire jusqu'à ce qu'ils puissent retrouver un emploi.
 
 ## Procédure

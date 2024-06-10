@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Il certificato di residenza è un documento ufficiale che verifica il luogo della tua residenza in Italia. Questo documento è necessario per vari scopi come stabilire la cittadinanza, per scopi legali o per motivi personali.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Qualsiasi individuo che desidera stabilire la propria residenza in Italia, compresi gli immigrati o coloro che sperano di ottenere la cittadinanza italiana.
 
 ## Procedura

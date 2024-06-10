@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Uma Certidão de Casamento é um documento que registra oficialmente a união de duas pessoas. É emitido pelo registro civil da jurisdição onde o casamento ocorreu.
 
-#### Quem precisa?
+### Quem precisa?
 Certificados de casamento podem ser solicitados pelo próprio casal, seus descendentes diretos ou qualquer pessoa com interesse legítimo.
 
 ## Procedimento

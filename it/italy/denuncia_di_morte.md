@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Una Dichiarazione di Morte in Italia è una procedura legale finalizzata a informare le autorità della morte di un individuo. Lo Stato ha bisogno di queste informazioni per aggiornare ogni questione amministrativa legata alla successione del defunto e ad altri obblighi.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Ogni individuo responsabile della gestione della successione del defunto, come stretti parenti o esecutori testamentari legali, deve seguire questa procedura.
 
 ## Procedura

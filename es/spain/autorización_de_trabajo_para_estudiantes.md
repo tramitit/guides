@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La autorización de trabajo para estudiantes es una disposición legal que permite a los estudiantes internacionales trabajar en España, sujeto a ciertas condiciones. Permite a los ciudadanos no pertenecientes a la UE tanto estudiar como trabajar en el país.
 
-#### ¿Quién la necesita?
+### ¿Quién la necesita?
 Esto es ideal para estudiantes internacionales (no pertenecientes a la UE) que desean estudiar en España y al mismo tiempo desean ganarse la vida o adquirir experiencia laboral en el país.
 
 ## Procedimiento

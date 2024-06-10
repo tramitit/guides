@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Modifier votre adresse fait référence au processus de mise à jour de vos informations de localisation sur différentes plateformes ou services comme Revolut, les Jeux olympiques, Vinted, etc. Le processus varie en fonction de la plateforme.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Ce guide peut être bénéfique pour ceux qui ont déménagé d'un endroit à un autre et doivent mettre à jour leurs informations de profil sur différentes plateformes ou pour ceux qui cherchent à changer leur adresse e-mail.
 
 ## Procédure

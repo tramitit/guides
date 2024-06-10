@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Un certificato medico è un documento rilasciato da un operatore sanitario che attesta che un individuo è fisicamente idoneo a partecipare a determinate attività o eventi. In Italia, questo può includere spesso attività come maratone, gare in bicicletta e altre competizioni sportive.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Qualsiasi individuo che pianifica di partecipare a un'attività che richiede la prova della forma fisica o dello stato di salute. Questo potrebbe includere atleti, dipendenti d'ufficio che devono presentarlo ai datori di lavoro o persone che pianificano di unirsi a programmi di fitness.
 
 ## Procedura

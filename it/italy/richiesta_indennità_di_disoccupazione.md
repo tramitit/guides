@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 L'indennità di disoccupazione in Italia, nota anche come NASpI (Nuova Assicurazione Sociale per l'Impiego), è un tipo di pagamento effettuato dal governo a individui disoccupati che soddisfano determinati requisiti di idoneità.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 È specialmente destinato a persone che hanno perso il lavoro e che attualmente sono alla ricerca di un'occupazione.
 
 ## Procedura

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 La registrazione nell'Anagrafe in Italia prevede l'istituzione di un registro ufficiale degli eventi vitali di un individuo - come la nascita, il matrimonio o la morte. Questo è cruciale per stabilire l'identità legale, la cittadinanza e l'accesso ai servizi pubblici.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Questa procedura è obbligatoria per tutti gli individui nati, sposati o deceduti in Italia. È inoltre necessaria per i cittadini italiani all'estero che desiderano registrare il proprio stato e le modifiche nel loro stato civile.
 
 ## Procedura

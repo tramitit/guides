@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Il Certificato di Completamento del Servizio Militare è un documento ufficiale che attesta il congedo di un individuo dal servizio militare attivo. È un documento storico spesso richiesto per ricerche genealogiche o domande di cittadinanza per discendenza.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Principalmente coloro che stanno cercando la storia della propria famiglia e individui che stanno richiedendo la cittadinanza per discendenza in Italia o in Germania dovranno accedere a questi documenti.
 
 ## Procedura

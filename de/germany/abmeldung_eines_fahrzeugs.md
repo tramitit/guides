@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Die Abmeldung eines Fahrzeugs oder 'Abmeldung' ist der Prozess, bei dem ein Fahrzeug offiziell aus dem Verkehrszentralregister gestrichen wird. Dies ist in der Regel erforderlich, wenn das Eigentum übertragen, das Fahrzeug verschrottet oder in ein anderes Land exportiert wird.
 
-#### Wer braucht das?
+### Wer braucht das?
 Jeder Fahrzeughalter in Deutschland, der beabsichtigt, sein Auto zu verkaufen, zu verschrotten oder es dauerhaft aus dem Land zu entfernen, muss den Abmeldeprozess durchlaufen.
 
 ## Verfahren

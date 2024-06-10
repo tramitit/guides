@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Un permiso de trabajo es un documento emitido por las autoridades de inmigración del gobierno que permite a los no ciudadanos trabajar legalmente en España.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier ciudadano no español que desee trabajar legalmente en España necesita solicitar un permiso de trabajo.
 
 ## Procedimiento

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La Renovación de Permiso de Trabajo es el proceso de extender tu autorización de trabajo existente cuando tu permiso actual está a punto de expirar. Esto te permite seguir trabajando y residiendo legalmente en España.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Los extranjeros que actualmente están trabajando en España y tienen un permiso de residencia válido que está cerca de su fecha de caducidad necesitan esto.
 
 ## Procedimiento

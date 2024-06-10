@@ -11,10 +11,10 @@ draft: false
 
 ## Description
 
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 La réunification familiale est un processus qui permet à certains membres de la famille étrangère résidant en dehors de l'UE d'immigrer en France pour rester avec leur famille déjà présente.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Ce processus est idéal pour les résidents hors UE ayant des membres de leur famille vivant en France, tels qu'un conjoint ou des enfants mineurs.
 
 ## Procédure

@@ -11,10 +11,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 La domanda di cittadinanza italiana si riferisce al processo attraverso il quale qualcuno con ascendenza italiana o residenti stranieri con requisiti specifici richiedono di acquisire la cittadinanza italiana.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Chiunque abbia ascendenza italiana fino alla seconda generazione, residenti stranieri che hanno risieduto legalmente in Italia per 10 anni, e coniugi di cittadini italiani, tra gli altri, possono richiedere la cittadinanza italiana.
 
 ## Procedura

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist es?
+### Was ist es?
 Eine Sterbeurkunde ist ein offizielles Dokument, das den Tod einer Person bescheinigt. Es kann für verschiedene rechtliche und logistische Prozesse nach dem Tod einer Person erforderlich sein.
 
-#### Wer benötigt sie?
+### Wer benötigt sie?
 Jeder, der sich mit den rechtlichen und logistischen Angelegenheiten nach dem Tod einer Person befasst, muss möglicherweise eine Sterbeurkunde beantragen. Dies betrifft oft nahe Verwandte oder rechtliche Vertreter des Verstorbenen.
 
 ## Verfahren

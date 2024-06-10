@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Un permis de construire est un document officiel requis par le gouvernement local ou national qui permet la construction ou la modification majeure d'une structure de bâtiment dans sa juridiction. Le processus implique une revue détaillée d'un projet de construction proposé pour s'assurer qu'il est conforme à tous les codes de zonage et de construction.
-#### Qui en a besoin?
+### Qui en a besoin?
 Un permis de construire est crucial pour les propriétaires, les entrepreneurs ou les promoteurs qui prévoient de construire un nouveau bâtiment, d'effectuer des réparations importantes, des rénovations ou de modifier l'utilisation d'un bâtiment existant.
 
 ## Procédure

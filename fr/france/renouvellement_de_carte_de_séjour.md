@@ -12,10 +12,10 @@ draft: false
 
 ## Description
 
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 Un titre de séjour français, ou "titre de séjour", est un document officiel qui permet aux non-citoyens français de vivre en France pour une période spécifique. Ce guide explique comment renouveler ce permis.
 
-#### Qui en a besoin ?
+### Qui en a besoin ?
 Les non-citoyens français vivant en France avec un titre de séjour approchant de sa date d'expiration.
 
 ## Procédure

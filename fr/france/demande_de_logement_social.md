@@ -11,11 +11,11 @@ draft: false
 
 ## Description
 
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 
 Le logement social, ou social housing en anglais, est une forme de logement destinée aux individus et aux familles aux revenus plus faibles. Ils sont fournis par des associations de logement et comprennent des appartements, des maisons, des chambres, entre autres.
 
-#### Qui en a besoin ?
+### Qui en a besoin ?
 
 Ce service est conçu pour ceux qui sont financièrement contraints et ne peuvent pas se permettre les tarifs du marché pour le logement. Il est particulièrement bénéfique pour les chômeurs, les travailleurs intermittents, les jeunes professionnels et les grandes familles, entre autres.
 

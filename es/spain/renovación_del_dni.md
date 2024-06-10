@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 El proceso de renovar su DNI español (Documento Nacional de Identidad) cuando ha caducado o está cerca de caducar.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Ciudadanos españoles, tanto residentes como no residentes, que poseen un DNI caducado o que pronto caducará.
 
 ## Procedimiento

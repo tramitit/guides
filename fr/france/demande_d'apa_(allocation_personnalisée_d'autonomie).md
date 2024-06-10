@@ -11,10 +11,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 L'Allocation Personnalisée d'Autonomie (APA) est une allocation d'aide française destinée aux personnes âgées qui ont perdu leur indépendance en raison de problèmes de santé physique ou mentale. Cette allocation aide à couvrir les coûts liés à l'assistance et aux soins.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 L'allocation est idéale pour les personnes de plus de 60 ans ayant besoin d'aide dans les activités de la vie quotidienne en raison d'une perte d'autonomie.
 
 ## Procédure

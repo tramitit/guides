@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Une carte d'assurance maladie est une carte délivrée par un prestataire de soins de santé qui accorde au titulaire l'accès à certains types de services médicaux. Dans ce contexte, nous nous concentrerons principalement sur la Carte Vitale en France, la Carte Européenne d'Assurance Maladie (CEAM) en Irlande et la carte d'assurance maladie de l'UE en Pologne.
-#### Qui en a besoin?
+### Qui en a besoin?
 Le service est requis par tous les résidents légaux en France, en Pologne et en Irlande. Notamment, les personnes travaillant temporairement ou de manière permanente dans ces juridictions.
 
 ## Procédure

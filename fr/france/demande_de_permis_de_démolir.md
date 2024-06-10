@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Un permis de démolition est un document légal qui accorde la permission de démolir une structure existante. Il garantit que le processus de démolition respecte les réglementations locales et les normes, y compris les mesures de sécurité, l'élimination des déchets et l'impact sur les propriétés voisines.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Toute personne envisageant de démolir un bâtiment résidentiel ou commercial existant en France a besoin d'un permis de démolition. Cela inclut les propriétaires, les promoteurs immobiliers, les entreprises de construction et les entrepreneurs.
 
 ## Procédure

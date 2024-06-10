@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Un permesso di soggiorno, altrimenti noto come 'permesso di soggiorno', è un documento legale che autorizza un cittadino straniero a vivere in Italia.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 È richiesto dai cittadini non appartenenti all'UE che intendono rimanere in Italia per più di 90 giorni.
 
 ## Procedura

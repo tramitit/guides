@@ -11,10 +11,10 @@ draft: false
 
 ## Description
 
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 La pension alimentaire, également connue sous le nom de soutien conjugal, est une provision de soutien financier accordée par un tribunal à un conjoint après une séparation ou un divorce. En France, cela est désigné comme "pension alimentaire".
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Toute personne en cours de séparation ou de divorce et ayant besoin d'un soutien financier de la part de l'ex-conjoint peut demander une pension alimentaire. En particulier, cela est utile lorsque la personne n'a pas suffisamment de moyens pour maintenir un niveau de vie acceptable après la séparation.
 
 ## Procédure

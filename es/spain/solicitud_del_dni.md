@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Un documento de identificación o carnet de identidad, especialmente para ciudadanos en España, es conocido como el Documento Nacional de Identidad (DNI). Es un documento oficial que todos los ciudadanos españoles están obligados a adquirir a una edad temprana, y sirve como una herramienta de identificación general y prueba de ciudadanía.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier residente o ciudadano de España, incluyendo inmigrantes que deseen adquirir una identificación oficial.
 
 ## Procedimiento

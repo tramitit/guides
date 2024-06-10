@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 El Subsidio por Hijo es una ayuda financiera proporcionada por el gobierno para familias con niños. El objetivo de esta ayuda es ayudar con los costos de criar a un niño.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Este beneficio es ideal para familias con niños que residen en España, incluyendo expatriados e inmigrantes.
 
 ## Procedimiento

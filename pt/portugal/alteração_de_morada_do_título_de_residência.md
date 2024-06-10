@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrição
-#### O que é isso?
+### O que é isso?
 É um procedimento para atualizar o seu endereço residencial nos registros do Cartão de Residência. É essencial manter o endereço do seu cartão de residência atualizado quando você muda de residência dentro de Portugal.
-#### Quem precisa disso?
+### Quem precisa disso?
 Pessoas que possuem um Cartão de Residência de Portugal e mudaram seu endereço residencial dentro de Portugal.
 
 ## Procedimento

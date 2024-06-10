@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 L'aide au logement social est un service fourni par le gouvernement pour offrir un logement abordable aux personnes et aux familles qui ne peuvent pas se permettre un logement aux prix du marché. Il peut s'agir soit d'un logement permanent, soit d'un logement temporaire.
 
-#### Qui en a besoin ?
+### Qui en a besoin ?
 Idéalement, ce service est disponible pour les personnes à faible revenu, les parents célibataires, les personnes âgées, les personnes handicapées et toute personne incapable de se permettre des logements au prix du marché.
 
 ## Procédure

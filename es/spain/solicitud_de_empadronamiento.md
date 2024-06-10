@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 El empadronamiento, o Registro de Censo, es un proceso que verifica tu residencia en un municipio en particular en España. Estos registros son utilizados por el gobierno con propósitos administrativos y también para establecer tu derecho a utilizar ciertos servicios locales.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier persona que planea quedarse en España por más de seis meses necesita completar el empadronamiento. Esto aplica tanto a ciudadanos españoles como extranjeros.
 
 ## Procedimiento

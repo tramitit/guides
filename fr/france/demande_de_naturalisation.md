@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 La naturalisation est le processus légal par lequel un non-citoyen d'un pays peut acquérir la citoyenneté ou la nationalité de ce pays. Dans le cadre de ce guide, nous nous concentrerons sur le processus de naturalisation en France.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Cela peut être requis par des étrangers qui vivent en France depuis un certain temps et qui remplissent des critères spécifiques les rendant éligibles à la naturalisation.
 
 ## Procédure

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O Pedido de Declaração de Imposto de Renda é um processo no qual um indivíduo apresenta sua declaração de rendimentos às autoridades fiscais. Geralmente, é um processo anual, usado pelas autoridades fiscais para avaliar a quantia de imposto que se deve pagar com base na renda do ano fiscal anterior.
 
-#### Quem precisa?
+### Quem precisa?
 Este processo é necessário para todos os indivíduos que tenham recebido rendimentos durante o ano fiscal. Tradicionalmente, é necessário para assalariados, autônomos e proprietários de empresas que tenham gerado algum rendimento durante o ano fiscal.
 
 ## Procedimento

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 La Carta d'Identità italiana è un documento ufficiale rilasciato dal governo italiano. Verifica l'identificazione di un individuo che vive e viaggia in Italia e nell'UE. Potrebbe anche essere richiesta in alcuni luoghi per scopi di identificazione.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Questo documento è necessario per i residenti italiani, cittadini e non cittadini. È anche necessario per coloro che pianificano di viaggiare all'interno dell'UE.
 
 ## Procedura

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La Tarjeta de Transporte Público en España es una tarjeta sin contacto utilizada para acceder a los servicios de metro, autobús y tranvía dentro de regiones específicas como Madrid y Barcelona. Estas tarjetas hacen que el transporte público sea mucho más accesible y conveniente.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Ideal para turistas, residentes temporales y residentes a largo plazo que utilizan frecuentemente el transporte público dentro de la región.
 
 ## Procedimiento

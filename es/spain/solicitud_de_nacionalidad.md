@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La solicitud de ciudadanía española es un proceso legal a través del cual los no nacionales pueden adquirir la nacionalidad española. Esto generalmente conlleva beneficios adicionales como la participación en la vida política, económica, social y cultural en España.
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Los no nacionales que hayan residido legal y continuamente en el territorio español durante diez años, o individuos que cumplan con criterios de circunstancias especiales.
 
 ## Procedimiento

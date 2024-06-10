@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Esta es una guía completa sobre cómo renovar tu tarjeta de estudiante (TIE) en España. El proceso de renovación implica varios pasos, incluida una solicitud, presentación de documentación y pago de tarifas.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Todos los estudiantes extranjeros que estudian en España y tienen una tarjeta de estudiante próxima a vencer o que ha expirado necesitan pasar por el proceso de renovación.
 
 ## Procedimiento

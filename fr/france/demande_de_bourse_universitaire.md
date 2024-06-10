@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Ce guide fournit des étapes détaillées pour postuler à des bourses universitaires, en particulier celles visant des études en France. Les bourses peuvent être un mécanisme crucial de soutien financier pour les étudiants de divers milieux, leur permettant d'accéder à une éducation de haut niveau à la fois localement et internationalement.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Ce guide s'adresse principalement aux étudiants recherchant une aide financière sous forme de bourses pour poursuivre des études universitaires en France. Cela inclut les étudiants internationaux et en particulier ceux des pays en développement.
 
 ## Procédure

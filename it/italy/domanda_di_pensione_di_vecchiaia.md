@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 La pensione di vecchiaia, spesso indicata come pensione statale, è un reddito regolare erogato dal governo alle persone che raggiungono una certa età, al fine di garantire loro stabilità finanziaria dopo il pensionamento.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Ogni individuo che ha raggiunto l'età ufficiale del pensionamento (67 anni in Italia) e ha contribuito al sistema pensionistico per un periodo di qualifica minimo (20 anni in Italia).
 
 ## Procedura

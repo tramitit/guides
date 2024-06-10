@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Ein Internationales Führungszeugnis, auch bekannt als 'Führungszeugnis' auf Deutsch, ist ein offizielles Dokument, das das Vorstrafenregister oder das Fehlen davon einer Person nachweist.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Dieses Dokument wird in der Regel von internationalen Arbeitgebern, Vermietern oder Bildungseinrichtungen benötigt. Es kann auch für Einwanderungsvisum-Anträge erforderlich sein.
 
 ## Verfahren

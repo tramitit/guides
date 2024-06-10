@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Refere-se ao processo através do qual um recém-nascido não português pode ser registrado em Portugal, tornando-se efetivamente um cidadão português.
-#### Quem precisa disso?
+### Quem precisa disso?
 Este serviço é necessário para pais que são cidadãos estrangeiros, mas desejam registar o nascimento de seu filho em Portugal. Isso pode ser porque estão vivendo no país, porque um ou ambos os pais têm nacionalidade portuguesa, ou desejam solicitar a cidadania portuguesa para seu filho.
 
 ## Procedimento

@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Um alvará de construção é um documento legal obrigatório em Portugal, que deve ser obtido antes de realizar qualquer trabalho de construção ou renovação em uma propriedade. Ele garante que o seu projeto esteja em conformidade com as leis de zoneamento local, regulamentações ambientais e padrões de segurança.
-#### Quem precisa?
+### Quem precisa?
 Qualquer pessoa que planeje realizar atividades de construção em Portugal - sejam proprietários que desejam renovar, promotores imobiliários planejando construir, ou empresas buscando expandir.
 
 ## Procedimento

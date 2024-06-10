@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Un cambio de dirección en el documento de identidad es un requisito legal cuando te mudas a una nueva dirección residencial. Este proceso actualiza tus detalles en la base de datos nacional, asegurando que recibas correspondencia relevante del gobierno. Esta guía se enfoca en el proceso en España, especialmente para los titulares de NIE (Número de Identificación de Extranjero).
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier persona que se mude de casa necesita actualizar su documento de identidad con su nueva dirección. Esto es especialmente importante para los residentes extranjeros en España que tienen un NIE. Si te has mudado recientemente dentro del país, debes actualizar tu NIE con tu nueva dirección.
 
 ## Procedimiento

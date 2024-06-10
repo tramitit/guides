@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Die Verlängerung der Aufenthaltserlaubnis ist ein Verfahren, das einer Person, die nicht Bürger/in Deutschlands ist, ermöglicht, ihren Aufenthalt im Land über das Ablaufdatum ihrer ursprünglichen Aufenthaltserlaubnis hinaus zu verlängern.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Jede ausländische Person, die in Deutschland lebt und über den gültigen Zeitraum ihrer Aufenthaltserlaubnis hinaus im Land bleiben möchte, muss eine Verlängerung beantragen.
 
 ## Verfahren

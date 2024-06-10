@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrizione
-#### Cos'è?
+### Cos'è?
 Il visto per la mobilità giovanile è un tipo di visto che consente a giovani individui (età compresa tra i 18 e i 30 anni) di determinati paesi di vivere, lavorare e viaggiare nel Regno Unito per un massimo di 2 anni.
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Giovani individui che stanno pianificando di viaggiare, lavorare o vivere temporaneamente nel Regno Unito.
 
 ## Procedura

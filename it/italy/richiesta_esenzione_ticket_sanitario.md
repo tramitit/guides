@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Il "Health Ticket Exemption" in Italia è un beneficio concesso a determinati gruppi, come i pazienti affetti da malattie croniche o specifiche condizioni, che li esentano parzialmente o totalmente dal pagamento dei costi sanitari nel Sistema Sanitario Italiano.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 È ideale per persone residenti in Italia che sono affette da determinate condizioni di salute classificate nelle liste di esenzione del Sistema Sanitario Italiano o che rientrano nei criteri di reddito per l'esenzione.
 
 ## Procedura

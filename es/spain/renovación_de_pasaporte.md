@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 Renovar un pasaporte es básicamente obtener un nuevo pasaporte emitido una vez que su pasaporte anterior ha expirado o está a punto de expirar. Esta guía le guiará a través del proceso de renovación de su pasaporte en España.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Personas con un pasaporte que está a punto de expirar o tiene menos de 6 meses de validez restante, y aquellos que están a punto de viajar internacionalmente.
 
 ## Procedimiento

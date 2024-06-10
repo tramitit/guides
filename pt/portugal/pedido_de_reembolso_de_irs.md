@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Um reembolso do IRS é um reembolso do Internal Revenue Service (IRS) por impostos pagos a mais ou se você for elegível para determinados créditos fiscais. Os contribuintes geralmente recebem seus reembolsos após a entrega das declarações de impostos.
 
-#### Quem precisa disso?
+### Quem precisa disso?
 Qualquer pessoa que pague impostos a mais ou que se qualifique para determinados créditos fiscais é elegível para um reembolso do IRS, conforme determinado ao entregar declarações de impostos anuais.
 
 ## Procedimento

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O Cartão de Cidadão é um documento de identificação para cidadãos portugueses. Ele contém detalhes pessoais e pode ser usado para vários fins, como viagens, acesso a serviços públicos e privados, e autenticação digital.
 
-#### Quem precisa dele?
+### Quem precisa dele?
 Qualquer cidadão português com um Cartão de Cidadão expirado ou prestes a expirar deve passar pelo processo de renovação.
 
 ## Procedimento

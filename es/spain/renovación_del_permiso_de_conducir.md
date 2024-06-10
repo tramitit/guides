@@ -11,10 +11,10 @@ draft: false
 
 ## Descripción
 
-#### ¿Qué es?
+### ¿Qué es?
 En España, la renovación de la licencia de conducir es un proceso necesario para renovar la validez de su licencia de conducir una vez que ha caducado. Incluye la verificación de la identidad, un examen de la vista y, dependiendo de la edad, un chequeo de salud básico.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Cualquier conductor cuya licencia de conducir esté a punto de caducar o ya haya caducado.
 
 ## Procedimiento

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist es?
+### Was ist es?
 Ein deutscher Personalausweis ist in Deutschland ein gültiges Identifikationsdokument und ein Reisedokument innerhalb der meisten europäischen Länder.
 
-#### Wer braucht es?
+### Wer braucht es?
 Deutsche Staatsbürger (einschließlich Menschen, die erfolgreich in Deutschland eingebürgert wurden) ab 16 Jahren müssen entweder einen Reisepass oder einen Personalausweis besitzen. Der Ausweis kann auch an Minderjährige ausgestellt werden, und für Kinder unter 10 Jahren wird er ohne biometrische Merkmale ausgestellt.
 
 ## Verfahren

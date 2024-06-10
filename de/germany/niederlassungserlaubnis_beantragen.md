@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Eine Niederlassungserlaubnis, auch bekannt als Settlement Permit, ist eine Aufenthaltserlaubnis für ausländische Staatsangehörige, die dauerhaft in Deutschland bleiben möchten.
 
-#### Wer benötigt es?
+### Wer benötigt es?
 Dieses Permit ist für diejenigen gedacht, die bereits seit einer bestimmten Anzahl von Jahren in Deutschland leben und bestimmte Anforderungen wie finanzielle Stabilität, ausreichend Wohnraum und ausreichende Kenntnisse der deutschen Sprache erfüllen.
 
 ## Verfahren

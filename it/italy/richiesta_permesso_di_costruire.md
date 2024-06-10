@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrizione
-#### Che cos'è?
+### Che cos'è?
 Un permesso di costruzione è un documento richiesto dalla legge italiana per chiunque intenda realizzare lavori edilizi. Questo include modifiche a strutture esistenti, costruzione di nuovi edifici e altri cambiamenti significativi alla proprietà.
 
-#### Chi ne ha bisogno?
+### Chi ne ha bisogno?
 Chiunque pianifichi di costruire, ristrutturare in modo sostanziale o modificare l'uso di una proprietà in Italia, che siano cittadini locali o stranieri, deve richiedere questo permesso.
 
 ## Procedura

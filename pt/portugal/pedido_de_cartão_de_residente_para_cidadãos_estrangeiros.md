@@ -11,10 +11,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Uma aplicação para um cartão de residência para cidadãos estrangeiros em Portugal. Isso é geralmente necessário para indivíduos não portugueses que pretendem ficar no país por longos períodos, frequentemente excedendo seis meses.
 
-#### Quem precisa?
+### Quem precisa?
 Principalmente exigido por cidadãos não pertencentes à UE, incluindo estudantes, trabalhadores, trabalhadores independentes, estagiários, voluntários ou membros da família, que planejam viver em Portugal por longo prazo.
 
 ## Procedimento

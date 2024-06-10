@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 L'inscription à la garderie est le processus par lequel les parents inscrivent leurs enfants pour fréquenter un centre de garderie ou un programme. Dans ce contexte, nous détaillerons le processus tel qu'il s'applique au Canada, notamment au Québec et en Ontario.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 Ce processus est généralement nécessaire pour les parents qui travaillent et qui ont besoin de soins fiables et de qualité pour leurs enfants pendant les heures de travail.
 
 ## Procédure

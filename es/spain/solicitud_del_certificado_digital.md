@@ -11,10 +11,10 @@ draft: false
 
 ## Descripción
 
-#### ¿Qué es?
+### ¿Qué es?
 Un Certificado Digital, también conocido como Certificado Digital, es un certificado electrónico que verifica la identidad de una persona u organización en redes digitales, típicamente utilizado por el gobierno español para diversos procesos administrativos.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 Ideal para personas que planean mudarse o realizar actividades comerciales en España con regularidad. Permite el procesamiento en línea de trámites con la administración española.
 
 ## Procedimiento

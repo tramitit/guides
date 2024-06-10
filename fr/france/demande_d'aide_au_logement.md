@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 La demande d'aide au logement est un processus permettant de bénéficier d'une aide financière de la CAF (Caisse d'Allocations Familiales) pour couvrir une partie de votre loyer ou de vos frais de logement. On l'appelle souvent Aide au Logement.
 
-#### Qui en a besoin ?
+### Qui en a besoin ?
 Cette aide est essentielle pour les personnes ou les familles disposant de revenus limités, qu'ils soient locataires, colocataires ou propriétaires remboursant un prêt pour leur résidence principale. Elle s'applique également aux étudiants et aux étrangers résidant en France.
 
 ## Procédure

@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 A renovação do cartão de estudante (ou cartão de estudante) é um processo que permite aos estudantes internacionais residentes em Portugal renovar a sua identificação estudantil que tenha expirado ou esteja prestes a expirar.
-#### Quem precisa?
+### Quem precisa?
 Este serviço é essencial para estudantes internacionais que estudam em Portugal e precisam renovar o seu cartão de estudante.
 
 ## Procedimento

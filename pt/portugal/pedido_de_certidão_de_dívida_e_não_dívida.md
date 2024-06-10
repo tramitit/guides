@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 Um certificado de dívida é um documento que confirma as dívidas existentes de um indivíduo ou entidade. Já um certificado de ausência de dívidas certifica que não há dívidas/obrigações pendentes contra um indivíduo ou entidade.
 
-#### Quem precisa?
+### Quem precisa?
 Esses certificados podem ser benéficos para indivíduos em planejamento financeiro, gestão de dívidas e solicitações de empréstimo. Eles também podem ser necessários por empresas durante auditorias ou devida diligência.
 
 ## Procedimento

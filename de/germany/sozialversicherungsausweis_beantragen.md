@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 In Deutschland wird eine Sozialversicherungskarte benötigt für jeden, der arbeitet. Sie enthält Ihre Sozialversicherungsnummer, die eine eindeutige Identifikationsnummer für soziale Sicherheitszwecke ist.
 
-#### Wer benötigt sie?
+### Wer benötigt sie?
 Jeder Arbeitnehmer, der in Deutschland lebt, einschließlich internationaler Studenten und Expatriates.
 
 ## Verfahren

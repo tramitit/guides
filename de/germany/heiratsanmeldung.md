@@ -10,9 +10,9 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Die Eheschließung in Deutschland ist ein Prozess, bei dem zwei Personen, die beabsichtigen, zu heiraten, offiziell ihre Absicht beim örtlichen Standesamt anmelden. Dies stellt die Rechtmäßigkeit ihrer Vereinigung gemäß deutschem Recht sicher.
-#### Wer benötigt es?
+### Wer benötigt es?
 Personen, die in Deutschland heiraten möchten, ob Bürger, Einwohner oder Ausländer, müssen ihre Ehe anmelden.
 
 ## Verfahren

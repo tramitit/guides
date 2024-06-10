@@ -11,9 +11,9 @@ draft: false
 
 
 ## Descrição
-#### O que é?
+### O que é?
 Um Licença de Habitação, também conhecido como 'Licença de Habitação' em Portugal, é um documento legal que certifica a adequação de uma propriedade específica para habitação humana.
-#### Quem precisa?
+### Quem precisa?
 A licença é necessária para quem pretende comprar, vender ou alugar propriedades em Portugal.
 
 ## Procedimento

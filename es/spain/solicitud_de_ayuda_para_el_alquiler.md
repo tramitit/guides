@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descripción
-#### ¿Qué es?
+### ¿Qué es?
 La solicitud de asistencia para el alquiler es un proceso por el cual uno debe pasar para recibir asistencia financiera para pagar el alquiler. Este proceso implica verificar los ingresos y las necesidades de alquiler de uno, completar un formulario de solicitud de asistencia para el alquiler y presentar el formulario a la autoridad emisora.
 
-#### ¿Quién lo necesita?
+### ¿Quién lo necesita?
 La asistencia para el alquiler puede ser necesaria para individuos o familias que tienen dificultades para pagar su alquiler o han enfrentado dificultades financieras inesperadas. Este servicio puede aliviar significativamente el estrés financiero y asegurar que las personas mantengan una situación de vivienda segura y asequible.
 
 ## Procedimiento

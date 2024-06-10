@@ -13,10 +13,10 @@ draft: false
 
 ## Description
 
-#### Qu'est-ce que c'est ?
+### Qu'est-ce que c'est ?
 L'inscription au lycée est le processus d'inscription et de sécurisation d'une place au lycée. Ce processus varie d'un pays à l'autre, et ce guide fournit des détails sur l'inscription en France.
 
-#### Qui en a besoin ?
+### Qui en a besoin ?
 Ce guide est idéal pour les parents ou tuteurs qui souhaitent inscrire leurs enfants dans des lycées français, ainsi que pour les personnes désirant poursuivre leurs études.
 
 ## Procédure

@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Beschreibung
-#### Was ist das?
+### Was ist das?
 Ein Geburtsurkunde ist ein wichtiger Nachweis, der die Geburt eines Kindes dokumentiert. Es enthält in der Regel Details wie das Geburtsdatum, das Geschlecht des Kindes, den Namen der Eltern und den Geburtsort.
 
-#### Wer braucht es?
+### Wer braucht es?
 Jeder, der in Deutschland geboren wurde und seine Staatsbürgerschaft, Identität oder andere mit der persönlichen Identität zusammenhängende Angelegenheiten nachweisen muss, oder Personen, die die deutsche Staatsbürgerschaft durch Abstammung beantragen.
 
 ## Verfahren

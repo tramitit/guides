@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Descrição
-#### O que é?
+### O que é?
 O processo de renovação do Cartão de Residente é um procedimento necessário para os estrangeiros residentes em Portugal atualizarem sua permissão legal de residência.
 
-#### Quem precisa?
+### Quem precisa?
 Estrangeiros que vivem em Portugal cuja validade do cartão de residente está chegando ao fim.
 
 ## Procedimento

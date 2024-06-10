@@ -10,10 +10,10 @@ draft: false
 ---
 
 ## Description
-#### Qu'est-ce que c'est?
+### Qu'est-ce que c'est?
 Une bourse est une aide financière offerte aux étudiants pour poursuivre leurs études. Le fonds de bourse n'est pas remboursable et est principalement attribué en fonction des résultats académiques ou des réalisations extrascolaires de l'étudiant.
 
-#### Qui en a besoin?
+### Qui en a besoin?
 C'est idéal pour les étudiants ayant besoin d'une aide financière pour couvrir les frais de scolarité et autres dépenses liées aux études. Les bourses conviennent aux étudiants de tous niveaux d'étude, y compris les pré-diplômes, les cycles universitaires, les Masters, les doctorats ou les post-doctorats.
 
 ## Procédure
