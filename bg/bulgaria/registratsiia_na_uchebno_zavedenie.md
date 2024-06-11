@@ -2,7 +2,7 @@
 translationKey: bulgaria-educational_institution_registration
 
 title: "Регистрация на образователно заведение"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: ""

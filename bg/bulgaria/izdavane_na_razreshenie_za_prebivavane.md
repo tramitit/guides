@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-issuance_of_a_residence_permit
 title: "Издаване на разрешително за пребиваване"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "По стъпково ръководство за издаване на разрешително за пребиваване"

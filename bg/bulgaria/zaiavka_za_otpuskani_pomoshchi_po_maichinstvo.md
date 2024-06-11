@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-application_for_maternity_benefits
 title: "Приложение за майчински пособия"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: ""

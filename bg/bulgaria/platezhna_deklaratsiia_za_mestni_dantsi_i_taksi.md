@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-payment_declaration_for_local_taxes_and_fees
 title: "Декларация за плащане на местни данъци и такси"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: ""

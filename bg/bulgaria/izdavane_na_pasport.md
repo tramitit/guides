@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-issuance_of_a_passport
 title: "Издаване на паспорт"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Подробно ръководство за издаване на паспорт в България"

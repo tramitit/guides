@@ -33,7 +33,7 @@ Por favor, note que todos os documentos precisam estar em português ou traduzid
 
 | Provedor        |     Website     |     Prazos    |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Serviço de Estrangeiros e Fronteiras (SEF)     |  [SEF](www.sef.pt)       |      Variável      |        Gratuito       |
+| Serviço de Estrangeiros e Fronteiras (SEF)     |  [SEF](https://www.sef.pt/)       |      Variável      |        Gratuito       |
 
 ## Detalhes Adicionais
 Lembre-se de fazer a notificação de mudança de endereço o mais rápido possível após se mudar. Isso ajuda a estar em conformidade com a lei de imigração de Portugal. Esteja ciente de que a falta de fazê-lo pode levar a implicações legais.

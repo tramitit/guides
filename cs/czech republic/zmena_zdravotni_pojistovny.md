@@ -29,8 +29,6 @@ Tento průvodce je ideální pro jednotlivce žijící v České republice, kte�
 
 | Poskytovatel        |     Webová stránka     |     Časové termíny    |       Náklady      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| VZP            |  [www.vzp.cz](www.vzp.cz)     |      90 dní      |        Zkontrolujte webovou stránku        |
-| OZP           |  [www.ozp.cz](www.ozp.cz)      |      90 dní      |        Zkontrolujte webovou stránku        |
 
 *Poznámka: Tabulka výše je ilustrativní a skutečné časové rámce a náklady se mohou lišit. Prosím, zkontrolujte webové stránky pojišťovny pro aktuální informace.
 

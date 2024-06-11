@@ -18,7 +18,7 @@ Uma aplicação para um cartão de residência para cidadãos estrangeiros em Po
 Principalmente exigido por cidadãos não pertencentes à UE, incluindo estudantes, trabalhadores, trabalhadores independentes, estagiários, voluntários ou membros da família, que planejam viver em Portugal por longo prazo.
 
 ## Procedimento
-1. Primeiramente, inicie a aplicação no Serviço de Estrangeiros e Fronteiras (SEF) de Portugal. Isso é feito fazendo um agendamento online em [SEF](https://www.sef.pt/pt/).
+1. Primeiramente, inicie a aplicação no Serviço de Estrangeiros e Fronteiras (SEF) de Portugal. Isso é feito fazendo um agendamento online em [SEF](https://www.sef.pt/).
 
 2. Compareça à sua consulta pessoalmente para apresentar a sua aplicação. Cidadãos não pertencentes à UE devem fornecer seu passaporte, duas fotos recentes de tamanho passaporte, seguro de viagem válido, comprovante de meios de subsistência suficientes e comprovativo de alojamento.
 

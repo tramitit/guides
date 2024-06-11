@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-application_for_heating_assistance
 title: "Заявление за помощ при отопление"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: ""

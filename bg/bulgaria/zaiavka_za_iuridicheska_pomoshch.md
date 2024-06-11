@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-application_for_legal_aid
 title: "Приложение за юридическа помощ"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Приложение за юридическа помощ в България"

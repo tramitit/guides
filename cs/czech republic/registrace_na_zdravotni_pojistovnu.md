@@ -41,9 +41,7 @@ Každý jednotlivec žijící v České republice potřebuje zdravotní pojišt�
 
 | Poskytovatel   |     Webová stránka     |     Doba trvání    |       Cena      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| VZP            |  [vzp.cz](http://www.vzp.cz/)       |      Různé      |        Různé       |
-| Slavia         | [slavia-pojistovna.cz](https://www.slavia-pojistovna.cz/)        |    Různé    |    Různé    |
-| Uniqua      | [uniqa.cz](https://www.uniqa.cz/)   |    Různé  |   Různé   |
+
 
 ## Další podrobnosti
 Mějte prosím na paměti, že cena měsíčních pojistných poplatků závisí na typu krytí a konkrétní zdravotní pojišťovně. Vždy ověřujte aktuální platné podmínky a ceny na webových stránkách pojišťovny.

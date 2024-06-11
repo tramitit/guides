@@ -1,7 +1,7 @@
 ---
 title: "Economic Activity Authorization"
-author: "Your Name"
-date: "Current Date"
+author: "Ricardo Batista Name"
+date: "2024-06-07"
 categories: ["Romania"]
 meta_title: "Step-by-step guide for Economic Activity Authorization"
 description: "A comprehensive guide detailing the process, paperwork, and providers for processing an Economic Activity Authorization."
@@ -31,8 +31,7 @@ translationKey: "romania-economic_activity_authorization"
 
 | Provider        |     Website        |     Timelines   |       Cost       |
 | --------------- |  ----------------  |  :------------: | :-------------: |
-| Provider 1      |  https://provider1.com | 10 days  |      $100      |
-| Provider 2      |  https://provider2.com| 7 days |     $80     |
+
 
 ## Additional details
 {other details extracted from the source that might be relevant for the user. This may include links to related laws or regulations, FAQs, tips, potential challenges, solutions, etc.}

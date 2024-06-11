@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-issuance_of_an_educational_document
 title: "Издаване на образователен документ"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Насоки за Издаване на Образователни Документи в България: По Стъпков Процес"

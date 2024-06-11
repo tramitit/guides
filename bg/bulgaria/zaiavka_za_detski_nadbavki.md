@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-application_for_child_benefits
 title: "Приложение за детски издържки"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Подробно ръководство за кандидатстване за детски издържки"

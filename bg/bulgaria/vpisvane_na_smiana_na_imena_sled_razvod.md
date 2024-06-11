@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-registration_of_name_change_after_divorce
 title: "Регистрация на промяна на името след развод"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Регистрация на промяна на името след развод в България"

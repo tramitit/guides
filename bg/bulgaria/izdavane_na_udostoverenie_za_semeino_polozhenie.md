@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-issuance_of_a_family_status_certificate
 title: "Издаване на удостоверение за семейно положение"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: ""

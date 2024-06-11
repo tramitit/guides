@@ -41,9 +41,6 @@ Every individual living in the Czech Republic needs health insurance. This inclu
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| VZP            |  [vzp.cz](http://www.vzp.cz/)       |      Varies      |        Varies       |
-| Slavia         | [slavia-pojistovna.cz](https://www.slavia-pojistovna.cz/)        |    Varies    |    Varies    |
-| Uniqua      | [uniqa.cz](https://www.uniqa.cz/)   |    Varies  |   Varies   |
 
 ## Additional details
 Please note that the cost of monthly health insurance premiums depend on the type of coverage and the specific health insurance company. Always verify the currently valid conditions and prices on the insurer's website.

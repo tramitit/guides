@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-registration_of_a_new_vehicle
 title: "Регистрация на ново превозно средство"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: ""

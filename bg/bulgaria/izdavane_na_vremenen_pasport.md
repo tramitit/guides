@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-issuance_of_a_temporary_passport
 title: "Издаване на временен паспорт"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: ""

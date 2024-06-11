@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-issuance_of_an_identity_card
 title: "Издаване на лична карта"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Подробно ръководство за издаване на лична карта в България"

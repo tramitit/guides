@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-application_for_social_security
 title: "Заявление за социално осигуряване"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Кандидатствайте за социално осигуряване в България"

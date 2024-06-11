@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-issuance_of_a_european_health_insurance_card
 title: "Издаване на европейска здравна карта"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Пошагово ръководство за получаване на европейска здравна карта за България"

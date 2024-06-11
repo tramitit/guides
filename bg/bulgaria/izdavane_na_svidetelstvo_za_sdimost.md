@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-issuance_of_a_criminal_record_certificate
 title: "Издаване на удостоверение за криминален регистър"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: ""

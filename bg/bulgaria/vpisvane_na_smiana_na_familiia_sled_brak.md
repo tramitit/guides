@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-registration_of_surname_change_after_marriage
 title: "Регистрация на промяна на фамилия след брак"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Регистрация на промяна на фамилия след брак"

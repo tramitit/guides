@@ -1,7 +1,7 @@
 ---
 translationKey: bulgaria-filing_a_complaint
 title: "Подаване на жалба"
-author: "Рикардо Батиста"
+author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Bulgaria"]
 meta_title: "Стъпка по стъпка процедура за подаване на жалба в България"
