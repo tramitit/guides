@@ -33,7 +33,6 @@ Kérjük, vedd figyelembe, hogy ezek általános követelmények, és az adott v
 ## Szolgáltatók, akik ezt megtehetik helyetted
 
 | Szolgáltató | Weboldal | Időkeretek | Költség |
-| Airbnb Post | https://www.airbnbpost.com/ | Változó | Változó |
 
 ## További részletek
 Néhány városban lehet, hogy üzleti engedélyre van szükség az Airbnb működtetéséhez. Győződj meg róla, hogy konkrét információkat szereztél-e a helyi önkormányzattól.

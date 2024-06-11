@@ -1,5 +1,3 @@
-Your task made mention of Airbnb, however, the links provided are related to the Hungarian Residence Permit and White Card, not Airbnb. This seems to be a mismatch and I would require correct or more specific links to proceed with accurate Airbnb permit application procedures. However, I can provide a basic idea on how Airbnb permit applications generally work:
-
 ---
 title: "Airbnb permit application"
 author: "Ricardo Batista"
@@ -35,7 +33,6 @@ Please note that these are general requirements and there might be specific docu
 ## Providers that can do it for you
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| Airbnb Post      |  https://www.airbnbpost.com/       |      Varies      |        Varies       |
 
 ## Additional details
 Some cities may require you to have a business license in order to operate an Airbnb. Be sure to check with your local city council for specific information.
