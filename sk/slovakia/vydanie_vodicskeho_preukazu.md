@@ -1,13 +1,17 @@
 ---
-translationKey: slovakia-issuance_of_drivers_license
-title: "Vydanie vodičského preukazu na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Toto je komplexný sprievodca, ako požiadať o vodičský preukaz na Slovensku. Zaoberá sa všeobecnými požiadavkami a podrobnosťami postupu pri podávaní žiadosti. Cieľom tohto sprievodcu je poskytnúť všetky potrebné informácie pre domácich aj cudzincov, ktorí sa chcú legálne šoférovať na Slovensku."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: 'Získajte oficiálny vodičský preukaz v Slovensku: autoškola, skúšky,
+  dokumenty. Dôležité informácie pre obyvateľov, cudzincov a medzinárodných jazdcov.'
 draft: false
+meta_title: 'Získajte oficiálny vodičský preukaz v Slovensku: autoškola, skúšky, dokumenty.
+  Dôležité informácie pre obyvateľov, cudzincov a medzinárodných jazdcov.'
+title: 'Vodičský preukaz na Slovensku: Získanie, požadované dokumenty a postup'
+translationKey: slovakia-issuance_of_drivers_license
 ---
+
 
 
 ## Popis
