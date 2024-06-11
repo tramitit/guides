@@ -1,13 +1,16 @@
 ---
-title: "Residence Permit Application in Italy"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guide to Apply for Residence Permit in Italy"
-description: "Step-by-step guide on how to apply for a residence permit in Italy including procedure, required documents, and service providers."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere il permesso di soggiorno in Italia. Procedura dettagliata,
+  documenti necessari e informazioni utili.
 draft: false
-translationKey: "italy-residence_permit_application"
+meta_title: 'Guida al Permesso di Soggiorno in Italia: Procedura e Documenti'
+title: 'Guida al Permesso di Soggiorno in Italia: Procedura e Documenti'
+translationKey: italy-residence_permit_application
 ---
+
 
 ## Description
 ### What is it?

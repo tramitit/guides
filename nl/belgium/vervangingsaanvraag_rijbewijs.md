@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-replacement_request_for_driving_license
-title: "Vervangingsverzoek voor rijbewijs"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Vervangingsverzoek voor rijbewijs in België"
-description: "Gedetailleerde stapsgewijze procedure voor het vervangen van een verloren of gestolen rijbewijs in België"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Leer hoe u een verloren of gestolen rijbewijs in België vervangt. Stapsgewijze
+  procedure bij politie en gemeente, vereiste documenten, kosten en wachttijd.
 draft: false
+meta_title: 'Rijbewijsvervanging België: Procedure, Documenten en Kosten'
+title: 'Rijbewijsvervanging België: Procedure, Documenten en Kosten'
+translationKey: belgium-replacement_request_for_driving_license
 ---
+
 
 ## Beschrijving
 ### Wat is het?

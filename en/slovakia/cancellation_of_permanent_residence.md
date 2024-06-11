@@ -1,13 +1,16 @@
 ---
-title: "Cancellation of Permanent Residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "How to Cancel Your Permanent Residence"
-description: "Step by step guide on how to cancel your Permanent Residence"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Understand how to cancel permanent residence, required documents, procedures,
+  and providers. Be aware of potential rights loss and country-specific regulations.
 draft: false
-translationKey: "slovakia-cancellation_of_permanent_residence"
+meta_title: 'Cancel Permanent Residence: Process, Requirements & Providers'
+title: 'Cancel Permanent Residence: Process, Requirements & Providers'
+translationKey: slovakia-cancellation_of_permanent_residence
 ---
+
 
 ## Description
 ### What is it?

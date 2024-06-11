@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-change_of_family_name
-title: "Családnév Változtatás"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Családnév Változtatás Folyamata Magyarországon"
-description: "Ez a útmutató teljes részletekkel szolgál arról, hogyan változtathatja meg családnevének Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Vezetéknév módosításának folyamata Magyarországon házasság vagy személyes
+  okok miatt. Tájékoztatás az szükséges dokumentumokról és szolgáltatókról.
 draft: false
+meta_title: 'Névváltoztatás Magyarországon: Eljárás, dokumentumok, szolgáltatók'
+title: 'Névváltoztatás Magyarországon: Eljárás, dokumentumok, szolgáltatók'
+translationKey: hungary-change_of_family_name
 ---
+
 
 ## Leírás
 ### Mi is ez?

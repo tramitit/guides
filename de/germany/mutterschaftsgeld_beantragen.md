@@ -1,14 +1,17 @@
 ---
-translationKey: germany-applying_for_maternity_benefit
-
-title: "Beantragung von Mutterschaftsgeld"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Leitfaden zur Beantragung von Mutterschaftsgeld in Deutschland"
-description: "Dies ist ein detaillierter Leitfaden zum Prozess der Beantragung von Mutterschaftsgeld in Deutschland."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wer in Deutschland Anspruch auf Mutterschaftsgeld hat,
+  wie man es beantragt und welche weiteren Schutzbestimmungen gelten. Alle Details
+  hier.
 draft: false
+meta_title: 'Mutterschaftsgeld in Deutschland: Anspruch, Beantragung und mehr'
+title: 'Mutterschaftsgeld in Deutschland: Anspruch, Beantragung und mehr'
+translationKey: germany-applying_for_maternity_benefit
 ---
+
 
 ## Beschreibung
 ### Was ist es?

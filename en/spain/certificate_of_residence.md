@@ -1,13 +1,16 @@
 ---
-title: "Certificate of Residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "A comprehensive guide for obtaining a Certificate of Residence in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to get a Certificado de Empadronamiento in Spain, essential
+  for administrative tasks. Includes procedure steps and required documents info.
 draft: false
-translationKey: "spain-certificate_of_residence"
+meta_title: 'Certificate of Residence in Spain: Procedure & Required Docs'
+title: 'Certificate of Residence in Spain: Procedure & Required Docs'
+translationKey: spain-certificate_of_residence
 ---
+
 
 ## Description
 ### What is it?

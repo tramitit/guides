@@ -1,14 +1,16 @@
 ---
-
-title: "Issuance of an Identity Card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Comprehensive Guide to Issuing an Identity Card in Bulgaria"
-description: "A step-by-step guide to help you understand the process of getting an identity card in Bulgaria."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to apply for a Bulgarian identity card, required documents,
+  the application process, and important details about issuance and fees.
 draft: false
-translationKey: "bulgaria-issuance_of_an_identity_card"
+meta_title: 'Bulgarian Identity Card: Application, Requirements, and Process'
+title: 'Bulgarian Identity Card: Application, Requirements, and Process'
+translationKey: bulgaria-issuance_of_an_identity_card
 ---
+
 
 ## Description
 ### What is it?

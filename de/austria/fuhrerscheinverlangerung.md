@@ -1,13 +1,16 @@
 ---
-translationKey: austria-drivers_license_renewal
-title: "Führerscheinverlängerung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Vollständiger Leitfaden zur Verlängerung Ihres Führerscheins"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihren Führerschein in Österreich rechtzeitig erneuern.
+  Schutz vor Strafen und Versicherungsproblemen durch aktuelle Lizenzdaten.
 draft: false
+meta_title: 'Führerschein in Österreich erneuern: Ablauf, Dokumente & Tipps'
+title: 'Führerschein in Österreich erneuern: Ablauf, Dokumente & Tipps'
+translationKey: austria-drivers_license_renewal
 ---
+
 
 ## Beschreibung
 ### Was ist das?

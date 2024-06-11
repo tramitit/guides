@@ -1,13 +1,16 @@
 ---
-title: "Social Allowance Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn who qualifies for social assistance, complete the application process
+  with required documents, and find government providers for support in your area.
 draft: false
-translationKey: "italy-social_allowance_application"
+meta_title: 'Social Allowance Application: Eligibility, Process, & Providers'
+title: 'Social Allowance Application: Eligibility, Process, & Providers'
+translationKey: italy-social_allowance_application
 ---
+
 
 ## Description
 ### What is it?

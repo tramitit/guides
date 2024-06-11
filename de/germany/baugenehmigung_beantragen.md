@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_a_building_permit
-title: "Beantragung einer Baugenehmigung in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Leitfaden zur Beantragung einer Baugenehmigung in Deutschland"
-description: "Schritt-für-Schritt-Anleitung, wie man eine Baugenehmigung in Deutschland beantragt, welche Dokumente erforderlich sind und zusätzliche Hilfe."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wer eine Baugenehmigung benötigt und wie Sie sie beantragen.
+  Wichtige Unterlagen, Verfahrensschritte und Anbieter in Deutschland.
 draft: false
+meta_title: 'Baugenehmigung in Deutschland: Verfahren und Anforderungen'
+title: 'Baugenehmigung in Deutschland: Verfahren und Anforderungen'
+translationKey: germany-applying_for_a_building_permit
 ---
+
 
 ## Beschreibung
 ### Was ist das?

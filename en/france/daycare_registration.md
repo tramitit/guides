@@ -1,13 +1,16 @@
 ---
-title: "Daycare registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "A guide on how to register your child for daycare"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to register your child for daycare in Canada, criteria, application
+  process, documents needed. Discover daycare providers in Ontario and Québec.
 draft: false
-translationKey: "france-daycare_registration"
+meta_title: 'Daycare Registration in Canada: Process, Providers & Requirements'
+title: 'Daycare Registration in Canada: Process, Providers & Requirements'
+translationKey: france-daycare_registration
 ---
+
 
 ## Description
 ### What is it?

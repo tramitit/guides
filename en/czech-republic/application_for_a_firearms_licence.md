@@ -1,13 +1,16 @@
 ---
-title: "Application for a firearms licence in the Czech Republic"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "How to Obtain a Firearms License in the Czech Republic"
-description: "Detailed guide on the process of obtaining a firearms license in the Czech Republic"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to get a firearms license in Czech Republic for residents and
+  non-residents. Includes application process, exams, and required documents.
 draft: false
-translationKey: "czech-republic-application_for_a_firearms_licence"
+meta_title: 'Obtaining a Firearms License in Czech Republic: Complete Guide'
+title: 'Obtaining a Firearms License in Czech Republic: Complete Guide'
+translationKey: czech-republic-application_for_a_firearms_licence
 ---
+
 
 ## Description
 ### What is it?

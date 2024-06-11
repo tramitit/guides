@@ -1,13 +1,16 @@
 ---
-title: "Company Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Step-by-step process for establishing business entities like LLCs or
+  PLCs, including required documents, fees, and compliance procedures.
 draft: false
-translationKey: "romania-company_registration"
+meta_title: 'How to Legally Establish a Business Entity: Detailed Guide'
+title: 'How to Legally Establish a Business Entity: Detailed Guide'
+translationKey: romania-company_registration
 ---
+
 
 ## Description
 ### What is it?

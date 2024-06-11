@@ -1,13 +1,17 @@
 ---
-translationKey: czech republic-submitting_a_tax_return
-title: "Podání daňového přiznání v České republice"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Průvodce podáním daňového přiznání v České republice"
-description: "Krok za krokem průvodce, jak podat daňové přiznání v České republice."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Získání formulářů, vyplnění, odevzdání a termíny pro daňové přiznání
+  v České republice. Podrobnosti o požadovaných dokumentech a možnostech prodloužení
+  termínu.
 draft: false
+meta_title: 'Daňové přiznání v České republice: Postup a Požadované dokumenty'
+title: 'Daňové přiznání v České republice: Postup a Požadované dokumenty'
+translationKey: czech republic-submitting_a_tax_return
 ---
+
 
 ## Popis
 ### Co to je?

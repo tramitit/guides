@@ -1,13 +1,16 @@
 ---
-title: "Application for change of data in the ID card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Step-by-step guide for applying for a change of data in an ID card"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to update personal info on ID card. Gather documents, follow
+  steps at local authorities, and wait for new card. Verification may vary by location.
 draft: false
-translationKey: "czech-republic-application_for_change_of_data_in_the_id_card"
+meta_title: 'Change of Data in ID Card: Procedure & Required Documents'
+title: 'Change of Data in ID Card: Procedure & Required Documents'
+translationKey: czech-republic-application_for_change_of_data_in_the_id_card
 ---
+
 
 ## Description
 ### What is it?

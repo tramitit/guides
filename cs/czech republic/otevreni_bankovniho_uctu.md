@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-opening_a_bank_account
-title: "Otevření bankovního účtu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Průvodce otevíráním bankovního účtu v České republice"
-description: "Podrobný krok za krokem průvodce otevíráním bankovního účtu v České republice, vhodný pro obyvatele i neobyvatele."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Otevřete si bankovní účet v České republice! Zjistěte postup, dokumenty,
+  tips na banky a informace o poplatcích a službách. Ideální pro rezidenty a nerezidenty.
 draft: false
+meta_title: Jak otevřít bankovní účet v České republice - Postup a dokumenty
+title: Jak otevřít bankovní účet v České republice - Postup a dokumenty
+translationKey: czech republic-opening_a_bank_account
 ---
+
 
 ## Popis
 ### Co to je?

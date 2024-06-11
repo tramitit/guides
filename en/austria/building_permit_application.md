@@ -1,13 +1,17 @@
 ---
-title: "Building Permit Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Step by Step Guide to Applying for a Building Permit in Austria"
-description: "A comprehensive guide on how to apply for a building permit in Austria, from the initial proposal to the final approval."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn about building permits in Austria - requirements, procedure, documents,
+  and providers. Ensure compliance with local laws and regulations for hassle-free
+  approval.
 draft: false
-translationKey: "austria-building_permit_application"
+meta_title: 'Building Permits in Austria: Who Needs Them and How to Apply'
+title: 'Building Permits in Austria: Who Needs Them and How to Apply'
+translationKey: austria-building_permit_application
 ---
+
 
 ## Description
 ### What is it?

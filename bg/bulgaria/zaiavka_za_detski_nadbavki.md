@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-application_for_child_benefits
-title: "Приложение за детски издържки"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Подробно ръководство за кандидатстване за детски издържки"
-description: "Изчерпателно ръководство, което ще ви помогне да разберете и кандидатствате за детски издържки."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Ръководство за получаване на детски надбавки за децата ви. Изисквания
+  за документи, процедури за кандидатстване и съвети за успешно получаване на тях.
 draft: false
+meta_title: 'Детски надбавки: Как да кандидатствате и какво трябва да знаете'
+title: 'Детски надбавки: Как да кандидатствате и какво трябва да знаете'
+translationKey: bulgaria-application_for_child_benefits
 ---
+
 
 ## Описание
 ### Какво е това?

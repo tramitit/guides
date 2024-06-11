@@ -1,13 +1,16 @@
 ---
-title: "Document legalization"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Step by Step Guide for Document Legalization in Croatia"
-description: "A comprehensive guide detailing the process to get your documents legalized in Croatia."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to legalize your documents for use in Croatia. Discover the
+  required steps, documents, and providers. Ensure compliance effortlessly!
 draft: false
-translationKey: "croatia-document_legalization"
+meta_title: 'Croatia Legalization Guide: Authenticate Your Legal Documents'
+title: 'Croatia Legalization Guide: Authenticate Your Legal Documents'
+translationKey: croatia-document_legalization
 ---
+
 
 ## Description
 ### What is it?

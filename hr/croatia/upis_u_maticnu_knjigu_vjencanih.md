@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-entry_into_the_marriage_register
-title: "Upis u Registar brakova u Hrvatskoj"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Korak po korak vodič za upis u Registar brakova u Hrvatskoj"
-description: "Ovaj vodič detaljno opisuje proces službenog registriranja braka u Hrvatskoj."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako službeno registrirati brak u Hrvatskoj, potrebne dokumente,
+  postupak ovjere i troškove. Informacije o davateljima usluga i dodatne savjete.
 draft: false
+meta_title: 'Vjenčanje u Hrvatskoj: Postupak za službeno registriranje braka'
+title: 'Vjenčanje u Hrvatskoj: Postupak za službeno registriranje braka'
+translationKey: croatia-entry_into_the_marriage_register
 ---
+
 
 ## Opis
 ### Što je to?

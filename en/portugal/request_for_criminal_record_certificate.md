@@ -1,13 +1,16 @@
 ---
-title: "Request for Criminal Record Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This guide provides step by step procedure on how to request a Criminal Record Certificate in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to get a Criminal Record Certificate in Portugal for employment,
+  studies, or visa applications. Detailed process and required documents included.
 draft: false
-translationKey: "portugal-request_for_criminal_record_certificate"
+meta_title: 'Criminal Record Certificate in Portugal: How to Obtain'
+title: 'Criminal Record Certificate in Portugal: How to Obtain'
+translationKey: portugal-request_for_criminal_record_certificate
 ---
+
 
 ## Description
 ### What is it?

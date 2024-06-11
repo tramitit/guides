@@ -1,13 +1,16 @@
 ---
-title: "Application for Provisional Driving License"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "A step-by-step guide on how to apply for a Provisional Driving License in the UK for someone residing in Greece"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn to drive in the UK with a Provisional Driving License. Eligibility
+  criteria and required documents for Greek residents, plus application process details.
 draft: false
-translationKey: "greece-application_for_provisional_driving_license"
+meta_title: UK Provisional Driving License for Greek Residents
+title: UK Provisional Driving License for Greek Residents
+translationKey: greece-application_for_provisional_driving_license
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: italy-health_ticket_exemption_request
-title: "Richiesta di Esenzione dal Ticket Sanitario"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Procedura per Richiedere Esenzioni dal Ticket Sanitario in Italia"
-description: "Una guida completa su come richiedere esenzioni dal ticket sanitario in Italia, incluse documenti necessari, procedura e fornitori affidabili."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn about the Health Ticket Exemption in Italy, eligibility criteria,
+  application process, and necessary documents to provide. Ensure accuracy for approval.
 draft: false
+meta_title: 'Health Ticket Exemption in Italy: How to Apply and Required Documents'
+title: 'Health Ticket Exemption in Italy: How to Apply and Required Documents'
+translationKey: italy-health_ticket_exemption_request
 ---
+
 
 ## Descrizione
 ### Che cos'è?

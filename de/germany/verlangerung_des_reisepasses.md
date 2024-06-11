@@ -1,13 +1,17 @@
 ---
-translationKey: germany-extension_of_passport
-title: "Verlängerung des Reisepasses"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Verlängern Sie Ihren Reisepass einfach von überall aus"
-description: "Schritt-für-Schritt-Anleitung, wie Sie Ihren Reisepass verlängern können"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie detaillierte Schritte zur Verlängerung oder Erneuerung Ihres
+  Reisepasses für internationale Reisen. Anleitung für Passinhaber mit ablaufendem
+  Pass.
 draft: false
+meta_title: 'Passverlängerung und -erneuerung: Schritte für internationales Reisen'
+title: 'Passverlängerung und -erneuerung: Schritte für internationales Reisen'
+translationKey: germany-extension_of_passport
 ---
+
 
 ## Beschreibung
 ### Was ist es?

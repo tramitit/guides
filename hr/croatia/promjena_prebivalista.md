@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-change_of_residence
-title: "Promjena prebivališta"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: "Korak po korak vodič za promjenu prebivališta"
-description: "Korisni vodič za stanovnike koji žele promijeniti adresu u Hrvatskoj i drugim zemljama"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Saznajte postupak promjene prebivališta sa svoje trenutačne adrese na
+  novu, potrebnu dokumentaciju i praktične savjete za lokalna i međunarodna preseljenja.
 draft: false
+meta_title: 'Promjena prebivališta: Kako ažurirati adresu i dokumente'
+title: 'Promjena prebivališta: Kako ažurirati adresu i dokumente'
+translationKey: croatia-change_of_residence
 ---
+
 
 ## Opis
 ### Što je to?

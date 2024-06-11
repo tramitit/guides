@@ -1,13 +1,17 @@
 ---
-title: "Demolition Permit Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "France Demolition Permit Application Guide"
-description: "This guide provides step-by-step instructions on how to apply for a demolition permit in France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to obtain a demolition permit in France for residential or
+  commercial buildings. Procedure, required documents, providers & regulations outlined
+  here.
 draft: false
-translationKey: "france-demolition_permit_application"
+meta_title: 'Demolition Permit in France: Procedure & Required Documents'
+title: 'Demolition Permit in France: Procedure & Required Documents'
+translationKey: france-demolition_permit_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: austria-minimum_security_application
-title: "Minimale Sicherheitsanwendung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Minimale Sicherheitsanwendung in Österreich: Ein Schritt-für-Schritt-Leitfaden"
-description: "Ausführliche Informationen zum Navigieren des Antragsverfahrens für minimale Sicherheit in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie österreichische Bürger Mindestsicherung beantragen.
+  Schritte, benötigte Dokumente, Anbieter und wichtige Details zum Bewerbungsverfahren.
 draft: false
+meta_title: 'Mindestsicherungsantrag in Österreich: Verfahren und Erfordernisse'
+title: 'Mindestsicherungsantrag in Österreich: Verfahren und Erfordernisse'
+translationKey: austria-minimum_security_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

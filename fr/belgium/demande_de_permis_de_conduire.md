@@ -1,13 +1,17 @@
 ---
-translationKey: belgium-request_for_a_driving_license
-title: "Demande de permis de conduire en Belgique"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Obtenir un permis de conduire belge - Guide étape par étape"
-description: "Un guide étape par étape sur la façon d'obtenir un permis de conduire en Belgique."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to legally drive on Belgian roads, whether you're a resident
+  or a foreigner. Understand the procedure, documents needed, and potential costs
+  involved.
 draft: false
+meta_title: 'Obtaining a Driver''s License in Belgium: Process and Requirements'
+title: 'Obtaining a Driver''s License in Belgium: Process and Requirements'
+translationKey: belgium-request_for_a_driving_license
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

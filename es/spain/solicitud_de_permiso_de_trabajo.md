@@ -1,13 +1,16 @@
 ---
-translationKey: spain-work_permit_application
-title: "Solicitud de Permiso de Trabajo"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Una guía completa sobre cómo solicitar un permiso de trabajo en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to obtain a work permit in Spain with detailed eligibility
+  criteria, application steps, required documents, and provider information.
 draft: false
+meta_title: 'Spain Work Permit: Requirements, Procedure, Documents'
+title: 'Spain Work Permit: Requirements, Procedure, Documents'
+translationKey: spain-work_permit_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

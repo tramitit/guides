@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-newborn_registration_process
-title: "Postupak registracije novorođenčeta"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: "Vodič korak po korak: Registracija novorođenčeta u Hrvatskoj"
-description: "Detaljan vodič o tome kako registrirati novorođenče u Hrvatskoj. Sadrži postupak, potrebne dokumente i moguće pružatelje usluga."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Saznajte kako i zašto registrirati novorođenče u Hrvatskoj. Postupak,
+  potrebni dokumenti i rokovi. Važno za svakog roditelja u zemlji.
 draft: false
+meta_title: 'Registracija Novorođenčadi u Hrvatskoj: Postupak i Dokumenti'
+title: 'Registracija Novorođenčadi u Hrvatskoj: Postupak i Dokumenti'
+translationKey: croatia-newborn_registration_process
 ---
+
 
 ## Opis
 ### Što je to?

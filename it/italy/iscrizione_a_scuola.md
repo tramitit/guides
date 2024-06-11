@@ -1,13 +1,16 @@
 ---
-translationKey: italy-school_enrollment
-title: "Iscrizione a Scuola in Italia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guida all'Iscrizione Scolastica in Italia"
-description: "Una guida informativa sul processo di iscrizione nelle scuole e università italiane."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri la procedura di iscrizione, documenti richiesti e fornitori che
+  possono aiutarti. Consigli per studenti stranieri e nuovi residenti in Italia.
 draft: false
+meta_title: Guida all'Iscrizione Scolastica e Universitaria in Italia
+title: Guida all'Iscrizione Scolastica e Universitaria in Italia
+translationKey: italy-school_enrollment
 ---
+
 
 ## Descrizione
 ### Cos'è?

@@ -1,13 +1,16 @@
 ---
-title: "Registration of a foreigner’s temporary residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn the essentials of registering as a temporary resident abroad, from
+  documentation to application submission, and follow our step-by-step guide.
 draft: false
-translationKey: "slovakia-registration_of_a_foreigner’s_temporary_residence"
+meta_title: Guidelines for Temporary Residence Registration Abroad
+title: Guidelines for Temporary Residence Registration Abroad
+translationKey: slovakia-registration_of_a_foreigner’s_temporary_residence
 ---
+
 
 ## Description
 ### What is it?

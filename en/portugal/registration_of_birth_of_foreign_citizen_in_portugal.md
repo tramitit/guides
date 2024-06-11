@@ -1,13 +1,17 @@
 ---
-title: "Registration of Birth of Foreign Citizen in Portugal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Registration of Birth of Foreign Citizen in Portugal Guide"
-description: "A comprehensive guide illustrating the various steps necessary to register a foreigner's birth in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how foreign parents can register a newborn's birth in Portugal,
+  granting Portuguese citizenship. Get detailed steps, requirements, and provider
+  options.
 draft: false
-translationKey: "portugal-registration_of_birth_of_foreign_citizen_in_portugal"
+meta_title: Registering Non-Portuguese Newborns as Portuguese Citizens
+title: Registering Non-Portuguese Newborns as Portuguese Citizens
+translationKey: portugal-registration_of_birth_of_foreign_citizen_in_portugal
 ---
+
 
 ## Description
 ### What is it?

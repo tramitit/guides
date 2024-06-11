@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_portuguese_nationality
-title: "Pedido de Nacionalidade Portuguesa"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Um guia abrangente sobre como solicitar a Nacionalidade Portuguesa"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Descubra como adquirir a cidadania portuguesa, incluindo critérios, documentos
+  necessários e orientação sobre o processo. Saiba mais aqui!
 draft: false
+meta_title: 'Adquirir Nacionalidade Portuguesa: Procedimento e Requisitos'
+title: 'Adquirir Nacionalidade Portuguesa: Procedimento e Requisitos'
+translationKey: portugal-request_for_portuguese_nationality
 ---
+
 
 ## Descrição
 ### O que é?

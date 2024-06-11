@@ -1,13 +1,16 @@
 ---
-translationKey: poland-issuance_of_duplicate_birth_certificate
-title: "Wydanie duplikatu świadectwa urodzenia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Procedura wydawania duplikatu świadectwa urodzenia w Polsce"
-description: "Krok po kroku jak uzyskać duplikat świadectwa urodzenia w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: 'Dowiedz się, jak uzyskać duplikat świadectwa urodzenia: procedura składania
+  wniosku, wymagane dokumenty, dostępni dostawcy usług, czas oczekiwania i koszty.'
 draft: false
+meta_title: 'Duplikat Świadectwa Urodzenia: Procedura, Wymagane Dokumenty, Dostawcy'
+title: 'Duplikat Świadectwa Urodzenia: Procedura, Wymagane Dokumenty, Dostawcy'
+translationKey: poland-issuance_of_duplicate_birth_certificate
 ---
+
 
 ## Opis
 ### Co to jest?

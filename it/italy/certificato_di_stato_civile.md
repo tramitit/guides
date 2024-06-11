@@ -1,13 +1,16 @@
 ---
-translationKey: italy-civil_status_certificate
-title: "Certificato di Stato Civile"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa guida illustra i passaggi necessari per ottenere un Certificato di Stato Civile in Italia, insieme a informazioni essenziali come documenti richiesti, fornitori e dettagli aggiuntivi."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere un Certificato di Stato Civile confermando il tuo
+  attuale status civile. Procedura, documenti richiesti, costi e tempi variabili inclusi.
 draft: false
+meta_title: 'Certificato di Stato Civile: Procedura e Documenti Richiesti'
+title: 'Certificato di Stato Civile: Procedura e Documenti Richiesti'
+translationKey: italy-civil_status_certificate
 ---
+
 
 ## Descrizione
 ### Che cos'è?

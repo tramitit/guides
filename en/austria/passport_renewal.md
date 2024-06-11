@@ -1,13 +1,16 @@
 ---
-title: "Passport Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Passport Renewal - A Step by Step Guide"
-description: "A comprehensive guide on how to renew your passport in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn the steps to renew your expired passport in Austria. Find out the
+  required documents, processing timelines, and service providers.
 draft: false
-translationKey: "austria-passport_renewal"
+meta_title: 'Austrian Passport Renewal: Required Steps and Documentation'
+title: 'Austrian Passport Renewal: Required Steps and Documentation'
+translationKey: austria-passport_renewal
 ---
+
 
 ## Description
 ### What is it?

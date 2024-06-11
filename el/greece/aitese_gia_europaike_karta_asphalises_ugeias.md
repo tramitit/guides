@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_european_health_insurance_card
-title: "Αίτηση για την Ευρωπαϊκή Κάρτα Υγείας"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Οδηγός βήμα προς βήμα για την Αίτηση της Ευρωπαϊκής Κάρτας Υγείας"
-description: "Ένας περιεκτικός οδηγός για το πώς να υποβάλετε αίτηση για την Ευρωπαϊκή Κάρτα Υγείας, ποιοι την χρειάζονται, τα απαιτούμενα έγγραφα και σχετικοί πάροχοι." 
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε πώς να αιτηθείτε την Ευρωπαϊκή Κάρτα Υγείας, ποιοι μπορούν να
+  τη χρησιμοποιήσουν και τι απαιτείται. Ασφάλεια υγείας σε όλη την ΕΕ και πέρα!
 draft: false
+meta_title: 'Ευρωπαϊκή Κάρτα Υγείας (EHIC): Αίτηση, Πληροφορίες και Προϋποθέσεις'
+title: 'Ευρωπαϊκή Κάρτα Υγείας (EHIC): Αίτηση, Πληροφορίες και Προϋποθέσεις'
+translationKey: greece-application_for_european_health_insurance_card
 ---
+
 
 
 ## Περιγραφή

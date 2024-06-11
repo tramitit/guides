@@ -1,14 +1,17 @@
 ---
-translationKey: belgium-request_for_family_reunification
-
-title: "Demande de regroupement familial"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Ceci est un guide sur comment demander un regroupement familial."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez la procédure, documents requis et fournisseurs spécialisés
+  pour la réunification familiale, une raison d'immigration reconnue dans de nombreux
+  pays.
 draft: false
+meta_title: 'Réunification Familiale: Procédure, Documents, Fournisseurs'
+title: 'Réunification Familiale: Procédure, Documents, Fournisseurs'
+translationKey: belgium-request_for_family_reunification
 ---
+
 
 ## Description
 

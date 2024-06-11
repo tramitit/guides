@@ -1,13 +1,16 @@
 ---
-translationKey: italy-disability_pension_application
-title: "Domanda di Pensione di Invalidità"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Guida dettagliata sulla domanda di Pensione di Invalidità in Italia"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere una pensione di invalidità per disabilità fisiche
+  o mentali. Segui la procedura sul sito web INPS e prepara i documenti richiesti.
 draft: false
+meta_title: 'Pensione di Invalidità: Come Richiederla e Documenti Necessari'
+title: 'Pensione di Invalidità: Come Richiederla e Documenti Necessari'
+translationKey: italy-disability_pension_application
 ---
+
 
 ## Descrizione
 ### Cos'è?

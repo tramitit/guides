@@ -1,13 +1,16 @@
 ---
-translationKey: italy-registration_in_the_civil_registry
-title: "Iscrizione all'Anagrafe"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Registrazione nell'Anagrafe Italiana: Guida Step-by-Step"
-description: "Una guida dettagliata su come registrarsi nell'Anagrafe Italiana, inclusi i documenti necessari, la procedura e potenziali fornitori di servizi."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come registrarti nell'Anagrafe italiana per eventi vitali come
+  nascita, matrimonio o morte. Procedura obbligatoria per cittadini in Italia e all'estero.
 draft: false
+meta_title: 'Registrazione Anagrafe in Italia: Procedura e Documenti Richiesti'
+title: 'Registrazione Anagrafe in Italia: Procedura e Documenti Richiesti'
+translationKey: italy-registration_in_the_civil_registry
 ---
+
 
 ## Descrizione
 ### Cos'è?

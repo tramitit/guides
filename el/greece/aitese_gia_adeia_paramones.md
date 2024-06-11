@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_residence_permit
-title: "Αίτηση για Άδεια Διαμονής στην Ελλάδα"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Οδηγός για την υποβολή αίτησης για Άδεια Διαμονής στην Ελλάδα"
-description: "Σε αυτόν τον οδηγό, θα μάθετε τα απαραίτητα βήματα που πρέπει να ακολουθήσετε για να υποβάλετε αίτηση για άδεια διαμονής στην Ελλάδα."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Ανακαλύψτε τι απαιτείται από μη πολίτες ΕΕ για νόμιμη διαμονή στην Ελλάδα
+  πάνω από τρεις μήνες. Διαδικασίες, έγγραφα, παρόχοι και προϋποθέσεις.
 draft: false
+meta_title: 'Αίτηση Άδειας Παραμονής στην Ελλάδα: Όλα όσα πρέπει να γνωρίζετε'
+title: 'Αίτηση Άδειας Παραμονής στην Ελλάδα: Όλα όσα πρέπει να γνωρίζετε'
+translationKey: greece-application_for_residence_permit
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

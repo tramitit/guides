@@ -1,13 +1,16 @@
 ---
-translationKey: france-asylum_application
-title: "Demande d'asile"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Demande d'asile en France"
-description: "Guide étape par étape sur comment faire une demande d'asile en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment demander l'asile en France, les étapes à suivre, les
+  documents nécessaires, et les conseils pour obtenir de l'aide juridique gratuitement.
 draft: false
+meta_title: 'Demander l''asile en France: Procédure et documents requis'
+title: 'Demander l''asile en France: Procédure et documents requis'
+translationKey: france-asylum_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

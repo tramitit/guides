@@ -1,13 +1,16 @@
 ---
-title: "Marriage Certificate Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This guide provides a step-by-step process on how to request a Marriage Certificate in Italy."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn the steps to request an Italian marriage certificate, required
+  documents, and tips for a smooth process.
 draft: false
-translationKey: "italy-marriage_certificate_request"
+meta_title: How to Obtain Your Italian Marriage Certificate Easily
+title: How to Obtain Your Italian Marriage Certificate Easily
+translationKey: italy-marriage_certificate_request
 ---
+
 
 ## Description
 ### What is it?

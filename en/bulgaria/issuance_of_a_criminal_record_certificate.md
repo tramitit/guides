@@ -1,13 +1,16 @@
 ---
-title: "Issuance of a Criminal Record Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "This guide describes how to issue a criminal record certificate in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn the steps and requirements to get a criminal record certificate
+  in Bulgaria for work, immigration, and other purposes.
 draft: false
-translationKey: "bulgaria-issuance_of_a_criminal_record_certificate"
+meta_title: How to Obtain a Criminal Record Certificate in Bulgaria
+title: How to Obtain a Criminal Record Certificate in Bulgaria
+translationKey: bulgaria-issuance_of_a_criminal_record_certificate
 ---
+
 
 ## Description
 ### What is it?

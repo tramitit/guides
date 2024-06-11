@@ -1,13 +1,16 @@
 ---
-title: "Application for name change certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "How to Apply for a Name Change Certificate in Greece"
-description: "Comprehensive guide on the procedure to apply for a name change certificate in Greece. Includes steps, requirements, timeline and cost."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to get a name change certificate in Greece, including required
+  documents, process steps, and providers. Ensure compliance and update vital records.
 draft: false
-translationKey: "greece-application_for_name_change_certificate"
+meta_title: 'Name Change Certificate in Greece: Process and Requirements'
+title: 'Name Change Certificate in Greece: Process and Requirements'
+translationKey: greece-application_for_name_change_certificate
 ---
+
 
 ## Description
 ### What is it?

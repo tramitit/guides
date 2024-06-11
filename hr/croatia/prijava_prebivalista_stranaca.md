@@ -1,13 +1,17 @@
 ---
-translationKey: croatia-registration_of_foreigners_residence
-title: "Registracija boravka stranaca"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Kako registrirati boravak stranaca u Hrvatskoj"
-description: "Detaljan vodič o postupku registracije boravka stranaca u Hrvatskoj. Obuhvaća postupak, potrebne dokumente i pružatelje usluga."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Sve što trebate znati o registraciji boravišta stranaca u Hrvatskoj,
+  potrebni dokumenti, postupak i pružatelji usluga. Rokovi i korisne informacije o
+  procesu.
 draft: false
+meta_title: 'Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti'
+title: 'Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti'
+translationKey: croatia-registration_of_foreigners_residence
 ---
+
 
 ## Opis
 ### Što je to?

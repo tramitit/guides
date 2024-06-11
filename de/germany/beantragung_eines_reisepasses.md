@@ -1,13 +1,16 @@
 ---
-translationKey: germany-application_for_a_passport
-title: "Antrag auf einen deutschen Reisepass"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Antrag auf einen deutschen Reisepass"
-description: "Ein ausführlicher Leitfaden, wie man einen deutschen Reisepass beantragt"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie deutsche Bürger oder Personen mit deutscher Abstammung
+  den deutschen Reisepass beantragen können. Schritte, Dokumente, Kosten und Tipps.
 draft: false
+meta_title: 'Beantragung eines deutschen Reisepasses: Verfahren und Anforderungen'
+title: 'Beantragung eines deutschen Reisepasses: Verfahren und Anforderungen'
+translationKey: germany-application_for_a_passport
 ---
+
 
 ## Beschreibung
 ### Was ist das?

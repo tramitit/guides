@@ -1,13 +1,17 @@
 ---
-translationKey: slovakia-exchange_of_foreign_drivers_license
-title: "Výmena zahraničného vodičského preukazu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Sprievodca výmenou zahraničného vodičského preukazu"
-description: "Tento sprievodca poskytuje podrobný postup krok za krokom, ako vymeniť zahraničný vodičský preukaz."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to exchange your foreign driver's license for an equivalent
+  one in another country. Process steps, required documents, and service providers
+  included.
 draft: false
+meta_title: 'Exchange Foreign Driver''s License: Process, Documents, & Providers'
+title: 'Exchange Foreign Driver''s License: Process, Documents, & Providers'
+translationKey: slovakia-exchange_of_foreign_drivers_license
 ---
+
 
 ## Popis
 ### Čo to je?

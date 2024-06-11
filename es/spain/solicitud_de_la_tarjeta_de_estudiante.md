@@ -1,14 +1,16 @@
 ---
-translationKey: spain-student_card_application
-
-title: "Solicitud de Tarjeta de Estudiante"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Una guía completa para ayudarte a través del proceso de solicitud de una tarjeta de estudiante en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: 'Guía para estudiantes extranjeros en España: cómo obtener la Tarjeta
+  de Identidad de Extranjero, requisitos y proceso completo.'
 draft: false
+meta_title: Obtener la Tarjeta de Identidad de Extranjero en España
+title: Obtener la Tarjeta de Identidad de Extranjero en España
+translationKey: spain-student_card_application
 ---
+
 
 ## Descripción
 

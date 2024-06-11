@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_sns_user_card
-title: "Pedido do Cartão de Utilizador do SNS"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Um guia detalhado passo a passo sobre como solicitar o cartão de utilizador do SNS, um cartão de serviço de saúde essencial em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como obter o Cartão de Utente do SNS, necessário para acessar serviços
+  de saúde em Portugal. Procedimentos, documentos e detalhes importantes incluídos.
 draft: false
+meta_title: 'Cartão de Utente do SNS em Portugal: Procedimento e Documentos'
+title: 'Cartão de Utente do SNS em Portugal: Procedimento e Documentos'
+translationKey: portugal-request_for_sns_user_card
 ---
+
 
 ## Descrição
 ### O que é?

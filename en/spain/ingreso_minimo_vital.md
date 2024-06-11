@@ -1,13 +1,18 @@
 ---
-title: "Ingreso Mínimo Vital Application"
-meta_title: "Procedure to Apply for Ingreso Mínimo Vital in Spain"
-description: "A step-by-step guide on how to apply for the Ingreso Mínimo Vital in Spain."
-date: 2024-05-22T05:00:00Z
-categories: ["Spain"]
-author: "Ricardo Batista"
-tags: ["Social Security"]
+author: Ricardo Batista
+categories:
+- Spain
+date: 2024-05-22 05:00:00+00:00
+description: Learn about Ingreso Mínimo Vital, a social aid in Spain for those in
+  economic vulnerability. Find out who's eligible, required documents, and application
+  steps.
 draft: false
+meta_title: 'Ingreso Mínimo Vital in Spain: Requirements & Application Process'
+tags:
+- Social Security
+title: 'Ingreso Mínimo Vital in Spain: Requirements & Application Process'
 ---
+
 
 ## Description
 

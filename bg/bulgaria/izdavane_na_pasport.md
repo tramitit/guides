@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-issuance_of_a_passport
-title: "Издаване на паспорт"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Подробно ръководство за издаване на паспорт в България"
-description: "Този блог публикува подробности за процеса на получаване на български паспорт."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да получите паспорт в България – процес, необходими документи,
+  срокове. Важно за пътуващи в чужбина. Изпълнете стъпка по стъпка процедурата.
 draft: false
+meta_title: 'Издаване на паспорт в България: Процедура, Документи, Доставчици'
+title: 'Издаване на паспорт в България: Процедура, Документи, Доставчици'
+translationKey: bulgaria-issuance_of_a_passport
 ---
+
 
 ## Описание
 ### Какво е това?

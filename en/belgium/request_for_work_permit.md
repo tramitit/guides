@@ -1,13 +1,16 @@
 ---
-title: "Request for work permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This guide provides a step-by-step procedure on how to request for a work permit in Belgium."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Understand the process, required documents, and key providers for getting
+  a work permit in Belgium if you are a Non-EU resident. Learn more now.
 draft: false
-translationKey: "belgium-request_for_work_permit"
+meta_title: Guide to Obtaining a Work Permit for Non-EU Citizens in Belgium
+title: Guide to Obtaining a Work Permit for Non-EU Citizens in Belgium
+translationKey: belgium-request_for_work_permit
 ---
+
 
 ## Description
 ### What is it?

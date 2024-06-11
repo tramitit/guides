@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-application_for_health_insurance
-title: "Приложение за здравно осигуряване"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Здравно осигуряване в България"
-description: "Подробно ръководство за кандидатстване за здравно осигуряване в България."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете какво е здравно застраховане, кой има нужда от него и как да
+  се застраховате в България. Изследвайте доставчиците и документите, които са необходими.
 draft: false
+meta_title: 'Здравно застраховане в България: Нужда, Процедура и Доставчици'
+title: 'Здравно застраховане в България: Нужда, Процедура и Доставчици'
+translationKey: bulgaria-application_for_health_insurance
 ---
+
 
 ## Описание
 ### Какво е това?

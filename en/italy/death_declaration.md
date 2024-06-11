@@ -1,13 +1,16 @@
 ---
-title: "Death Declaration in Italy"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "A comprehensive guide to filing a death declaration in Italy"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn the steps and documents required for a Death Declaration in Italy,
+  including who needs it and how to register the death legally.
 draft: false
-translationKey: "italy-death_declaration"
+meta_title: 'Italian Death Declaration Procedure: Steps and Requirements'
+title: 'Italian Death Declaration Procedure: Steps and Requirements'
+translationKey: italy-death_declaration
 ---
+
 
 ## Description
 ### What is it?

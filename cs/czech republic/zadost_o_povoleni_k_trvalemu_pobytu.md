@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_permanent_residence_permit
-title: "Žádost o trvalý pobytový status v České republice"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Pokyny pro žádost o trvalý pobyt v České republice"
-description: "Postupné postupy pro podání žádosti o trvalý pobyt v České republice."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, jak získat trvalý pobytový povolení v České republice pro cizince
+  včetně potřebných dokumentů, postupu a možností pomocných poskytovatelů.
 draft: false
+meta_title: 'Trvalý pobyt v České republice: Požadavky a postup pro získání'
+title: 'Trvalý pobyt v České republice: Požadavky a postup pro získání'
+translationKey: czech republic-application_for_permanent_residence_permit
 ---
+
 
 ## Popis
 ### Co to je?

@@ -1,14 +1,16 @@
 ---
-translationKey: romania-address_change_notification_for_expats
-
-title: "Notificare de Schimbare a Adresei pentru Expatriați"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Ghid cuprinzător pentru expatriați despre cum să notifice entitățile relevante despre o schimbare de adresă"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați cum să vă actualizați adresa atunci când vă mutați în altă țară
+  sau locație. Proceduri, documente necesare și furnizori recomandați pentru expatriați.
 draft: false
+meta_title: Schimbarea Notificării de Adresă pentru Expatriați
+title: Schimbarea Notificării de Adresă pentru Expatriați
+translationKey: romania-address_change_notification_for_expats
 ---
+
 
 ## Descriere
 ### Ce este?

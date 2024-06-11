@@ -1,13 +1,16 @@
 ---
-title: "Voluntary Contribution Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to contribute more to your pension fund for better benefits.
+  Process, required documents, providers. Get personalized advice for a secure retirement!
 draft: false
-translationKey: "italy-voluntary_contribution_application"
+meta_title: Voluntary Contribution Application for Enhanced Pension Benefits
+title: Voluntary Contribution Application for Enhanced Pension Benefits
+translationKey: italy-voluntary_contribution_application
 ---
+
 
 ## Description
 ### What is it?

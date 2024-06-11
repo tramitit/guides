@@ -1,13 +1,16 @@
 ---
-title: "Income tax declaration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Income Tax Declaration in France"
-description: "A guide to income tax declaration in France covering stocks, foreign income, and two-country income situations."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to declare income to French tax authorities, including sources,
+  deductions, and tax treaties. Use online portal for ease. Keep records for 3 years.
 draft: false
-translationKey: "france-income_tax_declaration"
+meta_title: 'French Income Tax Declaration: Procedure, Providers & Docs'
+title: 'French Income Tax Declaration: Procedure, Providers & Docs'
+translationKey: france-income_tax_declaration
 ---
+
 
 ## Description
 ### What is it?

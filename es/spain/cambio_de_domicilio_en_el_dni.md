@@ -1,13 +1,16 @@
 ---
-translationKey: spain-change_of_address_on_id
-title: "Cambio de dirección en el DNI"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Una guía paso a paso para cambiar la dirección en tu DNI en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo actualizar tu dirección en el documento de identidad en
+  España si tienes NIE. Proceso, documentos necesarios y proveedores disponibles.
 draft: false
+meta_title: Cómo Cambiar Dirección de Identidad en España para Titulares de NIE
+title: Cómo Cambiar Dirección de Identidad en España para Titulares de NIE
+translationKey: spain-change_of_address_on_id
 ---
+
 
 ## Descripción
 ### ¿Qué es?

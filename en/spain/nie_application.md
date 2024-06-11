@@ -1,13 +1,16 @@
 ---
-title: "NIE Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "How to get your NIE in Spain"
-description: "A step by step guide on the procedure for applying for a NIE in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to obtain a NIE in Spain for living or working purposes, including
+  required documents, detailed procedure, providers, costs, and validity information.
 draft: false
-translationKey: "spain-nie_application"
+meta_title: 'NIE in Spain: Procedure for Foreigners | Documents, Providers & Costs'
+title: 'NIE in Spain: Procedure for Foreigners | Documents, Providers & Costs'
+translationKey: spain-nie_application
 ---
+
 
 ## Description
 ### What is it?

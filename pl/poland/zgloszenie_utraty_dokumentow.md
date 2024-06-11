@@ -1,13 +1,16 @@
 ---
-translationKey: poland-report_of_lost_documents
-title: "Raport o zgubionych dokumentach"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "To jest przewodnik dotyczący zgłaszania i wymiany zgubionych dokumentów w Polsce, takich jak karta pobytu, dowód osobisty czy paszport."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zgłosić utratę oficjalnych dokumentów i uzyskać zastępcze
+  w Polsce. Krok po kroku, wymagane dokumenty i dostawcy. Zaplanuj wcześniej!
 draft: false
+meta_title: 'Zastępstwo utraconych dokumentów w Polsce: Procedura i Wymagane kroki'
+title: 'Zastępstwo utraconych dokumentów w Polsce: Procedura i Wymagane kroki'
+translationKey: poland-report_of_lost_documents
 ---
+
 
 ## Opis
 ### Co to jest?

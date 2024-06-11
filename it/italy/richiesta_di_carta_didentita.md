@@ -1,13 +1,16 @@
---- 
-translationKey: italy-identity_card_request
-title: "Richiesta di Carta d'Identità in Italia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Guida su come richiedere una Carta d'Identità italiana, nota anche come Carta d'Identità"
-draft: false
 ---
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: 'Scopri tutto sulla Carta d''Identità italiana: procedura per ottenerla,
+  documenti necessari e consigli utili. Chi ne ha bisogno e come conservarla in sicurezza.'
+draft: false
+meta_title: 'Carta d''Identità Italiana: Procedura, Documenti e Informazioni Utili'
+title: 'Carta d''Identità Italiana: Procedura, Documenti e Informazioni Utili'
+translationKey: italy-identity_card_request
+---
+
 
 ## Descrizione
 ### Cos'è?

@@ -1,13 +1,17 @@
 ---
-translationKey: croatia-applying_for_accommodation_in_an_elderly_home
-title: "Prijava za smještaj u dom za starije osobe"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Ovo je korak-po-korak vodič o tome kako se prijaviti za smještaj u domu za starije osobe"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: 'Sve što trebate znati o prijavi za smještaj u dom za starije osobe:
+  postupak, potrebni dokumenti, pružatelji usluga, i dodatne informacije za donošenje
+  odluke.'
 draft: false
+meta_title: 'Smještaj u dom za starije osobe: Vodič za prijavu i dokumente'
+title: 'Smještaj u dom za starije osobe: Vodič za prijavu i dokumente'
+translationKey: croatia-applying_for_accommodation_in_an_elderly_home
 ---
+
 
 ## Opis
 ### Što je to?

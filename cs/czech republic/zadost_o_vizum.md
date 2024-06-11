@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_visa
-title: "Žádost o vízum do České republiky"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Toto je postupný průvodce, jak zažádat o vízum do České republiky."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, kdo potřebuje vízum do České republiky a jaký je postup pro
+  získání. Seznamte se s požadavky na dokumenty a doporučeními pro žádost o vízum.
 draft: false
----  
+meta_title: 'Vízum do České republiky: Požadavky, postup a podrobnosti'
+title: 'Vízum do České republiky: Požadavky, postup a podrobnosti'
+translationKey: czech republic-application_for_visa
+---
+  
 
 ## Popis
 ### Co to je?

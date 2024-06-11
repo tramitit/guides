@@ -1,13 +1,17 @@
 ---
-translationKey: france-voter_registration
-title: "Inscription des électeurs"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Inscription des électeurs en France: Un guide étape par étape"
-description: "Un guide complet pour vous aider à comprendre et naviguer le processus d'inscription des électeurs en France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez le processus d'inscription électorale en France, les documents
+  requis et les délais pour participer aux élections. Inscrivez-vous en ligne ou en
+  mairie.
 draft: false
+meta_title: Comment S'inscrire sur les Listes Électorales en France
+title: Comment S'inscrire sur les Listes Électorales en France
+translationKey: france-voter_registration
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

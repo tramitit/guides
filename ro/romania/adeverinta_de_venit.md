@@ -1,13 +1,16 @@
 ---
-translationKey: romania-income_certificate
-title: "Certificat de Venit" 
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Un ghid detaliat despre cum să obții un Certificat de Venit în România"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum să obții un certificat de venit în România, necesar pentru împrumuturi,
+  scopuri fiscale și Cardul de ședere. Vezi procedura și documentele obligatorii.
 draft: false
+meta_title: 'Certificat de Venit în România: Proceduri și Documente Necesare'
+title: 'Certificat de Venit în România: Proceduri și Documente Necesare'
+translationKey: romania-income_certificate
 ---
+
 
 ## Descriere
 ### Ce este?

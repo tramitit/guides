@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_student_transfer
-title: "Αίτηση για μεταφορά φοιτητή"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Ένα λεπτομερές οδηγό βήμα προς βήμα για την υποβολή αίτησης μεταφοράς φοιτητών στην Ελλάδα, συμπεριλαμβανομένης της διαδικασίας, των απαιτούμενων εγγράφων και των πιθανών παρόχων υπηρεσιών."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Αξιολόγηση αρχείων, διαδικασίες μεταφοράς φοιτητή και απαιτήσεις για
+  μετάβαση εντός της Ελλάδας. Οδηγός για εγχώριους και διεθνείς φοιτητές.
 draft: false
+meta_title: Οδηγός Μετάβασης Φοιτητών Εκπαιδευτικών Ιδρυμάτων στην Ελλάδα
+title: Οδηγός Μετάβασης Φοιτητών Εκπαιδευτικών Ιδρυμάτων στην Ελλάδα
+translationKey: greece-application_for_student_transfer
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

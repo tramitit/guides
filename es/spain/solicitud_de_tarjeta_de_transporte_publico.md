@@ -1,13 +1,16 @@
 ---
-translationKey: spain-public_transport_card_application
-title: "Solicitud de Tarjeta de Transporte Público"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Guía completa sobre cómo solicitar una tarjeta de transporte público en Madrid y Barcelona"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo obtener y usar la tarjeta de transporte público en Madrid
+  y Barcelona para turistas y residentes, con procedimientos y costos detallados.
 draft: false
+meta_title: 'Tarjeta de Transporte Público en España: Guía Completa'
+title: 'Tarjeta de Transporte Público en España: Guía Completa'
+translationKey: spain-public_transport_card_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

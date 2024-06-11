@@ -1,13 +1,16 @@
 ---
-title: "Change of Address on Residence Permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "A comprehensive guide on how to change the address on your Portuguese Residence Permit."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to update your residential address in Portugal Residence Permit
+  records using the Citizen's Portal. Keep it current to avoid legal complications.
 draft: false
-translationKey: "portugal-change_of_address_on_residence_permit"
+meta_title: Update Portugal Residence Permit Address Procedure
+title: Update Portugal Residence Permit Address Procedure
+translationKey: portugal-change_of_address_on_residence_permit
 ---
+
 
 ## Description
 ### What is it?

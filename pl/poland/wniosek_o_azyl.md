@@ -1,13 +1,16 @@
 ---
-translationKey: poland-asylum_application
-title: "Wniosek o azyl"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "To jest meta opis"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się jak złożyć wniosek o azyl w Polsce, krok po kroku. Wymagane
+  dokumenty tożsamości i dowody na prześladowania. Polska, UE, azyl.
 draft: false
+meta_title: 'Procedura ubiegania się o azyl w Polsce: kroki i wymagane dokumenty'
+title: 'Procedura ubiegania się o azyl w Polsce: kroki i wymagane dokumenty'
+translationKey: poland-asylum_application
 ---
+
 
 ## Opis
 ### Co to jest?

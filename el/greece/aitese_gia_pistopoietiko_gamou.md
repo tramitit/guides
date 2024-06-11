@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_marriage_certificate
-title: "Αίτηση για πιστοποιητικό γάμου"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Αυτός είναι ένας οδηγός για το πώς να υποβάλετε αίτηση για πιστοποιητικό γάμου στην Ελλάδα."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Ανακαλύψτε τη διαδικασία και τα απαραίτητα έγγραφα για το πιστοποιητικό
+  γάμου στην Ελλάδα, από την υποβολή αίτησης έως την απόκτησή του.
 draft: false
+meta_title: 'Πιστοποιητικό Γάμου στην Ελλάδα: Απαιτούμενα Έγγραφα και Διαδικασία'
+title: 'Πιστοποιητικό Γάμου στην Ελλάδα: Απαιτούμενα Έγγραφα και Διαδικασία'
+translationKey: greece-application_for_marriage_certificate
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

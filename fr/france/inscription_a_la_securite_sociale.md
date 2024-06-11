@@ -1,13 +1,16 @@
 ---
-translationKey: france-social_security_registration
-title: "Inscription à la Sécurité sociale en France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide d'inscription pour la Sécurité sociale française"
-description: "Un guide complet sur la façon de s'inscrire au système de sécurité sociale français"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment vous inscrire à la Sécurité sociale française pour
+  bénéficier de la couverture santé, des prestations familiales et plus encore.
 draft: false
+meta_title: 'Inscription à la Sécurité sociale française: Guide complet'
+title: 'Inscription à la Sécurité sociale française: Guide complet'
+translationKey: france-social_security_registration
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

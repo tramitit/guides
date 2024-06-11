@@ -1,13 +1,16 @@
 ---
-translationKey: spain-immigration_application
-title: "Solicitud de Inmigración"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Esta es una guía completa para inmigrar a España con un enfoque en la visa de nómada digital."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Una guía detallada para solicitar una visa de nómada digital en España,
+  incluyendo requisitos, procedimientos y consejos para el proceso burocrático.
 draft: false
+meta_title: Guía para obtener visa de nómada digital en España
+title: Guía para obtener visa de nómada digital en España
+translationKey: spain-immigration_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

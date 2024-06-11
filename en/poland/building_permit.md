@@ -1,13 +1,16 @@
 ---
-title: "Building Permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Guide to Acquiring a Building Permit in Poland"
-description: "A comprehensive guide to obtaining a building permit in Poland including procedure, required documents, and other essential details."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn about obtaining building permits in Poland, including who needs
+  it, required documents, procedures, and tips. Provider details included for assistance.
 draft: false
-translationKey: "poland-building_permit"
+meta_title: 'Building Permits in Poland: Process, Requirements & Providers'
+title: 'Building Permits in Poland: Process, Requirements & Providers'
+translationKey: poland-building_permit
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: austria-marriage_certificate_application
-title: "Heiratsurkunde Antrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Heiratsurkunde Antrag in Österreich"
-description: "Eine schrittweise Anleitung zum Heiratsurkunde-Antragsverfahren in Österreich für EU- und Nicht-EU-Bürger." 
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Paare in Österreich ihre Ehe rechtlich anerkennen lassen
+  können. Schritte, Dokumente, Kosten und wichtige Details berücksichtigen.
 draft: false
+meta_title: 'Heiratsurkundenanwendung in Österreich: Prozess & Anforderungen'
+title: 'Heiratsurkundenanwendung in Österreich: Prozess & Anforderungen'
+translationKey: austria-marriage_certificate_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

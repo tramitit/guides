@@ -1,13 +1,16 @@
 ---
-title: "Registration of a Vehicle Imported from Abroad"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Registration of a Vehicle Imported from Abroad"
-description: "Step by step guide on how to register an imported vehicle in your home country, specifically for cars imported from Czech Republic."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn the steps and required documents for legal vehicle registration
+  when importing a car from abroad, including costs and alternative considerations.
 draft: false
-translationKey: "czech-republic-registration_of_a_vehicle_imported_from_abroad"
+meta_title: 'Vehicle Registration Process: Importing a Car from Abroad'
+title: 'Vehicle Registration Process: Importing a Car from Abroad'
+translationKey: czech-republic-registration_of_a_vehicle_imported_from_abroad
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Issuance of a temporary passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "This is a step-by-step guide on how to get a temporary passport"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to get a temporary passport when your full validity one is
+  unavailable. A detailed guide with 9 steps and necessary documents for the process.
 draft: false
-translationKey: "bulgaria-issuance_of_a_temporary_passport"
+meta_title: 'Temporary Passport: How to Obtain in 9 Steps & Required Documents'
+title: 'Temporary Passport: How to Obtain in 9 Steps & Required Documents'
+translationKey: bulgaria-issuance_of_a_temporary_passport
 ---
+
 
 ## Description
 ### What is it?

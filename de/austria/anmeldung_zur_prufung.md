@@ -1,13 +1,16 @@
 ---
-translationKey: austria-exam_registration
-title: "Prüfungsanmeldung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Anleitung zur Prüfungsanmeldung"
-description: "Dies ist ein umfassender Leitfaden zur Prüfungsanmeldung"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: 'Erfahren Sie, wie Sie sich für Prüfungen anmelden: Schritte, Dokumente,
+  Anbieter wie Goethe-Institut. Wichtige Termine & Tipps für erfolgreiche Anmeldung.'
 draft: false
+meta_title: 'Prüfungsanmeldung: Anleitung, Dokumente, Anbieter & Einzelheiten'
+title: 'Prüfungsanmeldung: Anleitung, Dokumente, Anbieter & Einzelheiten'
+translationKey: austria-exam_registration
 ---
+
 
 ## Beschreibung
 ### Was ist es?

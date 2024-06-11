@@ -1,13 +1,16 @@
 ---
-title: "Request for Marriage Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is a guide on how to request for a marriage certificate in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to request a Marriage Certificate in Portugal through the Civil
+  Registry Online. Find out the process, required documents, and provider details.
 draft: false
-translationKey: "portugal-request_for_marriage_certificate"
+meta_title: 'Obtaining a Marriage Certificate in Portugal: Process and Requirements'
+title: 'Obtaining a Marriage Certificate in Portugal: Process and Requirements'
+translationKey: portugal-request_for_marriage_certificate
 ---
+
 
 ## Description
 ### What is it?

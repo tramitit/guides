@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-g_yes_card_application
-title: "G YES kártya kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Útmutató a G YES kártya kérvényezéséhez"
-description: "Lépésről lépésre útmutató a G YES kártya kérvényezéséhez"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg, mi is pontosan a 'G YES kártya' és kik az ideális vásárlói!
+  További információk hiányában javasoljuk konkrétabb források keresését.
 draft: false
+meta_title: G YES Kártya Teljes Körű Magyarázata és Vásárlói Profilja
+title: G YES Kártya Teljes Körű Magyarázata és Vásárlói Profilja
+translationKey: hungary-g_yes_card_application
 ---
+
 
 ## Leírás
 ### Mi ez?

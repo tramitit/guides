@@ -1,13 +1,17 @@
 ---
-title: "Request for Residence Permit Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Step-by-step Guide to Request for Residence Permit Renewal"
-description: "This helpful guide explains in detail the procedure for the renewal of residence permits in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to extend your stay in Portugal by renewing your residence
+  permit through SEF. Find the procedure, required documents, costs, and timelines
+  here.
 draft: false
-translationKey: "portugal-request_for_residence_permit_renewal"
+meta_title: 'Portugal Residence Permit Renewal: How-to Guide & Providers'
+title: 'Portugal Residence Permit Renewal: How-to Guide & Providers'
+translationKey: portugal-request_for_residence_permit_renewal
 ---
+
 
 ## Description
 

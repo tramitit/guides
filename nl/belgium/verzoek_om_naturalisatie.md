@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_naturalization
-title: "Aanvraag voor naturalisatie"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Dit is een stapsgewijze gids voor het aanvragen van naturalisatie in België, gebaseerd op betrouwbare first-hand accounts."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek hoe naturalisatie werkt, benodigde documenten, stappen & kosten.
+  Leer wie het nodig heeft en juridisch advies voor een succesvolle aanvraag.
 draft: false
+meta_title: 'Naturalisatieproces: Vereisten, Procedure & Advies'
+title: 'Naturalisatieproces: Vereisten, Procedure & Advies'
+translationKey: belgium-request_for_naturalization
 ---
+
 
 ## Beschrijving
 ### Wat is het?

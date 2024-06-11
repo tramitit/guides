@@ -1,13 +1,16 @@
 ---
-title: "Request for visa"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Request for Belgian Visa: A Comprehensive Guide"
-description: "This guide outlines the procedure for the application of a Belgian Visa"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Conoce los requisitos y procedimientos para obtener una visa belga ya
+  sea por turismo, trabajo o estudio. Detalles sobre documentos y tiempos de procesamiento.
 draft: false
-translationKey: "belgium-request_for_visa"
+meta_title: 'Guía Completa para Obtener una Visa Belga: Requisitos y Procedimiento'
+title: 'Guía Completa para Obtener una Visa Belga: Requisitos y Procedimiento'
+translationKey: belgium-request_for_visa
 ---
+
 
 ## Description
 ### What is it?

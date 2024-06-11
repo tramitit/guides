@@ -1,13 +1,16 @@
 ---
-title: "Income Support Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This is the meta description"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn about Reddito di Cittadinanza, eligibility criteria, required documents,
+  application process through CAF or INPS, and compliance details in Italy.
 draft: false
-translationKey: "italy-income_support_application"
+meta_title: 'Italian Citizen’s Income: Eligibility, Application & Providers'
+title: 'Italian Citizen’s Income: Eligibility, Application & Providers'
+translationKey: italy-income_support_application
 ---
+
 
 ## Description
 ### What is it?

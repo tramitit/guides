@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-parking_permit_application
-title: "Parkolási engedély kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Parkolási engedély kérelem Budapesten, Magyarországon"
-description: "Egy átfogó útmutató arról, hogyan lehet jelentkezni parkolási engedélyért Budapesten, Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg, hogyan lehet parkolási engedélyt szerezni Budapest kijelölt
+  zónáiban. További részletek a szükséges dokumentumokról és a szolgáltatókról.
 draft: false
+meta_title: 'Budapest Parkolási Engedélyek: Szükséges Dokumentumok és Eljárás'
+title: 'Budapest Parkolási Engedélyek: Szükséges Dokumentumok és Eljárás'
+translationKey: hungary-parking_permit_application
 ---
+
 
 ## Leírás
 ### Mi ez?

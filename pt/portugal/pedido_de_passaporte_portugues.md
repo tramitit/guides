@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_portuguese_passport
-title: "Pedido de Passaporte Português"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Esta é a descrição meta"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como solicitar o passaporte português. Procedimentos necessários,
+  documentos exigidos e custos associados. Informações atualizadas do SEF de Portugal.
 draft: false
+meta_title: 'Passaporte Português: Procedimento, Documentos e Custos'
+title: 'Passaporte Português: Procedimento, Documentos e Custos'
+translationKey: portugal-request_for_portuguese_passport
 ---
+
 
 ## Descrição
 ### O que é?

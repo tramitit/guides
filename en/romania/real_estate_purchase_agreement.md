@@ -1,13 +1,16 @@
 ---
-title: "Real Estate Purchase Agreement"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "How to do Real Estate Purchase Agreement in Romania"
-description: "Step by step guide to understanding and executing real estate purchase agreements in Romania."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Understand the steps to finalize a property sale in Romania through a
+  legal Real Estate Purchase Agreement. Required documents and providers included.
 draft: false
-translationKey: "romania-real_estate_purchase_agreement"
+meta_title: 'Romania Real Estate Purchase Agreement: Steps & Documents'
+title: 'Romania Real Estate Purchase Agreement: Steps & Documents'
+translationKey: romania-real_estate_purchase_agreement
 ---
+
 
 ## Description
 ### What is it?

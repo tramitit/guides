@@ -1,13 +1,16 @@
---- 
-translationKey: hungary-residence_permit_application
-title: "Tartózkodási engedély kérelme" 
-author: "Ricardo Batista" 
-date: "2024-06-07" 
-categories: ["Hungary"] 
-meta_title: "" 
-description: "Ez az útmutató lépésről lépésre bemutatja, hogyan lehet tartózkodási engedélyt kérvényezni Magyarországon." 
-draft: false 
 ---
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to apply for a Hungary residence permit as a digital nomad,
+  including required documents and process steps. Find out if you need a visa first.
+draft: false
+meta_title: 'Hungary Residence Permit: How to Apply as a Digital Nomad'
+title: 'Hungary Residence Permit: How to Apply as a Digital Nomad'
+translationKey: hungary-residence_permit_application
+---
+
 
 ## Leírás
 ### Mi is az?

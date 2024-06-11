@@ -1,13 +1,16 @@
 ---
-translationKey: spain-last_will_certificate_request
-title: "Solicitud de Certificado de Última Voluntad"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Esta es una guía sobre cómo solicitar un Certificado de Última Voluntad en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar un Certificado de Últimas Voluntades en España,
+  paso a paso. Requisitos, proveedores, plazos y costos explicados en detalle.
 draft: false
+meta_title: Cómo obtener un Certificado de Últimas Voluntades en España
+title: Cómo obtener un Certificado de Últimas Voluntades en España
+translationKey: spain-last_will_certificate_request
 ---
+
 
 ## Descripción
 

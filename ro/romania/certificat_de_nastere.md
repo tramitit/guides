@@ -1,13 +1,16 @@
 ---
-translationKey: romania-birth_certificate
-title: "Obținerea certificatului de naștere"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Procedura de obținere a certificatului de naștere în România"
-description: "Un ghid cuprinzător pentru înțelegerea documentelor și procedurilor necesare pentru obținerea unui certificat de naștere."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Obțineți un certificat de naștere necesar pentru acte oficiale în România.
+  Aflați procedura, documentele necesare și furnizorii disponibili pentru asistență.
 draft: false
+meta_title: 'Certificat de naștere în România: Procedură, Documente și Furnizori'
+title: 'Certificat de naștere în România: Procedură, Documente și Furnizori'
+translationKey: romania-birth_certificate
 ---
+
 
 ## Descriere
 ### Ce este?

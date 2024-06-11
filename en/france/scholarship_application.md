@@ -1,13 +1,17 @@
 ---
-title: "Scholarship application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Scholarship Application Guide"
-description: "Your guide on how to apply for scholarships in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn about scholarships - financial aid for education. Find out who
+  needs it, required documents, how to apply, and providers for assistance. Explore
+  now!
 draft: false
-translationKey: "france-scholarship_application"
+meta_title: 'Scholarships Guide: Requirements, Providers, and Application Procedure'
+title: 'Scholarships Guide: Requirements, Providers, and Application Procedure'
+translationKey: france-scholarship_application
 ---
+
 
 ## Description
 ### What is it?

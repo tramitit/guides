@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-traffic_fine_payment
-title: "Közlekedési bírság fizetése Magyarországon"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Útmutató arról, hogyan fizessék a közlekedési bírságokat Magyarországon"
-description: "Részletes utasítások arról, hogyan fizessék a közlekedési bírságokat Magyarországon"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Közlekedési bírságok kifizetésének lépésről lépésre útmutatója Magyarországon.
+  Fizessen gyorsan és egyszerűen online, hogy elkerülje további szankciókat.
 draft: false
+meta_title: Hogyan Fizetse ki Közlekedési Bírságát Magyarországon
+title: Hogyan Fizetse ki Közlekedési Bírságát Magyarországon
+translationKey: hungary-traffic_fine_payment
 ---
+
 
 ## Leírás
 ### Mi ez?

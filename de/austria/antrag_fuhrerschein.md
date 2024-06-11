@@ -1,13 +1,16 @@
 ---
-translationKey: austria-drivers_license_application
-title: "Fahrerlaubnisbeantragung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Ein umfassender Leitfaden zur Beantragung eines Führerscheins in Österreich"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie man einen gültigen Führerschein für die Fahrt in Österreich
+  erlangt. Schritt-für-Schritt-Anleitung, benötigte Dokumente, Kosten und Anbieter.
 draft: false
+meta_title: 'Einen Führerschein in Österreich bekommen: Verfahren und Dokumente'
+title: 'Einen Führerschein in Österreich bekommen: Verfahren und Dokumente'
+translationKey: austria-drivers_license_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

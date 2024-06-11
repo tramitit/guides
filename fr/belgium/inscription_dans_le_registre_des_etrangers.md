@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-registration_in_the_foreigners_registers
-title: "Inscription dans les registres des étrangers"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Inscription dans les Registres des Étrangers - Un Guide Concis"
-description: "Cet article est un guide concis sur comment s'inscrire dans les registres des étrangers de différents pays."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: 'Tout sur l''inscription au registre des étrangers: procédures, documents
+  requis, et conseils pour expatriés et étudiants en 2023.'
 draft: false
+meta_title: Guide de l'inscription au registre des étrangers en 2023
+title: Guide de l'inscription au registre des étrangers en 2023
+translationKey: belgium-registration_in_the_foreigners_registers
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

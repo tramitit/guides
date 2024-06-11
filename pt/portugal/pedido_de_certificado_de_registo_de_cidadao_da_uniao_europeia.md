@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_registration_certificate_for_eu_citizen
-title: "Pedido de Certificado de Registro para Cidadão da UE"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Guia detalhado sobre como solicitar um Certificado de Registro para cidadãos da UE em Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como obter o Certificado de Registo para viver em Portugal como
+  cidadão da UE. Procedimentos, documentos necessários e entidades envolvidas no processo.
 draft: false
+meta_title: Certificado de Registo para Cidadãos da UE em Portugal
+title: Certificado de Registo para Cidadãos da UE em Portugal
+translationKey: portugal-request_for_registration_certificate_for_eu_citizen
 ---
+
 
 ## Descrição
 ### O que é?

@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_pension
-title: "Demande de Pension"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Guide complet pour la demande de pension en Belgique"
-description: "Dans cet article, nous simplifions le processus apparemment intimidant de demande de pension en Belgique en utilisant un guide étape par étape."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez comment demander une pension en Belgique. Conditions, procédures
+  et documents requis pour une retraite sécurisée, expliqués en détail.
 draft: false
+meta_title: Comment Demander une Pension de Retraite en Belgique
+title: Comment Demander une Pension de Retraite en Belgique
+translationKey: belgium-request_for_pension
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

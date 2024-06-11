@@ -1,13 +1,16 @@
 ---
-title: "Registration of foreigners' residence"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "How to Register a Foreigner's Residence in Croatia"
-description: "Detailed guide on the process of registering a foreigner's residence in Croatia. Covers procedure, required documents, and service providers."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn the process of legally reporting and documenting a non-native person's
+  residence in Croatia. Required documents and steps explained clearly.
 draft: false
-translationKey: "croatia-registration_of_foreigners_residence"
+meta_title: 'Registering Foreigner''s Residence in Croatia: Procedure & Requirements'
+title: 'Registering Foreigner''s Residence in Croatia: Procedure & Requirements'
+translationKey: croatia-registration_of_foreigners_residence
 ---
+
 
 ## Description
 ### What is it?

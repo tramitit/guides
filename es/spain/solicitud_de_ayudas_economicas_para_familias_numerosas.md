@@ -1,14 +1,16 @@
 ---
-translationKey: spain-economic_assistance_for_large_families
-
-title: "Asistencia Económica para Familias Numerosas"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Apoyo Económico para Familias Numerosas"
-description: "Esta guía proporciona instrucciones paso a paso para acceder a programas de asistencia económica diseñados para familias numerosas."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo obtener subvenciones y servicios de ayuda financiera para
+  familias numerosas. Encuentra los programas, requisitos y proveedores clave.
 draft: false
+meta_title: 'Ayudas Financieras para Familias Numerosas: Cómo Solicitarlas'
+title: 'Ayudas Financieras para Familias Numerosas: Cómo Solicitarlas'
+translationKey: spain-economic_assistance_for_large_families
 ---
+
 
 ## Descripción
 ### ¿Qué es?

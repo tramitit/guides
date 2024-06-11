@@ -1,13 +1,16 @@
 ---
-title: "Driver's License Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "A comprehensive guide to applying for a driver's license in Austria"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to obtain a driver's license in Austria, including exams, medical
+  requirements, documents needed, costs, and timelines. Must for driving in Austria!
 draft: false
-translationKey: "austria-drivers_license_application"
+meta_title: 'Obtaining a Driver''s License in Austria: Requirements & Procedure'
+title: 'Obtaining a Driver''s License in Austria: Requirements & Procedure'
+translationKey: austria-drivers_license_application
 ---
+
 
 ## Description
 ### What is it?

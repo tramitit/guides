@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-issuance_of_building_permit
-title: "Vydanie stavebného povolenia na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Krok za krokom sprievodca, ako získať stavebné povolenie na Slovensku"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Získajte povolenie na výstavbu na Slovensku. Čakajte na schválenie plánov
+  stavebnej konštrukcie od stavebného úradu. Požiadavky a náklady na stavebné povolenie.
 draft: false
+meta_title: 'Stavebné povolenie na Slovensku: Postup a Požadované dokumenty'
+title: 'Stavebné povolenie na Slovensku: Postup a Požadované dokumenty'
+translationKey: slovakia-issuance_of_building_permit
 ---
+
 
 ## Popis
 ### Čo je to?

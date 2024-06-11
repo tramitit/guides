@@ -1,14 +1,16 @@
 ---
-
-title: "Registering the residence of a foreigner in Poland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Registering the residence of a foreigner in Poland"
-description: "Detailed guide on how a foreigner can register their residence in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to register your foreign address in Poland and access public
+  services. Get insights on required documents and tips for EU citizens.
 draft: false
-translationKey: "poland-registering_the_residence_of_a_foreigner"
+meta_title: 'Residence Registration in Poland: Procedure & Required Documents'
+title: 'Residence Registration in Poland: Procedure & Required Documents'
+translationKey: poland-registering_the_residence_of_a_foreigner
 ---
+
 
 ## Description
 ### What is it?

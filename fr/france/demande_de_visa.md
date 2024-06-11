@@ -1,13 +1,17 @@
 ---
-translationKey: france-visa_application
-title: "Demande de visa"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Guide complet pour demander un visa pour la France, couvrant la procédure, les documents requis et les prestataires pouvant vous aider."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez la procédure détaillée pour obtenir un visa pour la France,
+  y compris les documents requis et des astuces importantes pour un processus sans
+  accroc.
 draft: false
+meta_title: 'Obtenir un Visa pour la France : Procédure, Documents & Détails'
+title: 'Obtenir un Visa pour la France : Procédure, Documents & Détails'
+translationKey: france-visa_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est ?

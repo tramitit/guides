@@ -1,13 +1,16 @@
 ---
-title: "Notification of change in contact details"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Notification of Change in Contact Details: A Comprehensive Guide"
-description: "This comprehensive guide details how to notify entities about a change in your contact details like phone number, email, or address."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to update contact details online and offline for a smooth transition.
+  Required documents and provider examples included. Stay connected effortlessly.
 draft: false
-translationKey: "poland-notification_of_change_in_contact_details"
+meta_title: 'Updating Contact Details: Procedure & Required Documents'
+title: 'Updating Contact Details: Procedure & Required Documents'
+translationKey: poland-notification_of_change_in_contact_details
 ---
+
 
 ## Description
 ### What is it?

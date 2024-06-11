@@ -1,13 +1,16 @@
 ---
-title: "Request for Duplicate Documents"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Procedure for Requesting Duplicate Documents in Portugal"
-description: "A comprehensive guide on how to request for duplicate documents in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to obtain duplicate documents in Portugal if you lost important
+  IDs like Citizen Card, License, Passport. Follow steps & know providers' info.
 draft: false
-translationKey: "portugal-request_for_duplicate_documents"
+meta_title: 'Requesting Duplicate Documents in Portugal: Procedure & Providers'
+title: 'Requesting Duplicate Documents in Portugal: Procedure & Providers'
+translationKey: portugal-request_for_duplicate_documents
 ---
+
 
 ## Description
 ### What is it?

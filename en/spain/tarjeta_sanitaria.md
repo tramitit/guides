@@ -1,13 +1,17 @@
 ---
-title: "Tarjeta Sanitaria"
-meta_title: "How to get your Social Security Card (Tarjeta Sanitaria) in Spain"
-description: "A comprehensive guide for obtaining your Spanish Social Security Card called 'Tarjeta Sanitaria'."
-date: 2024-05-22T05:00:00Z
-categories: ["Spain"]
-author: "Ricardo Batista"
-tags: ["Social Security"]
+author: Ricardo Batista
+categories:
+- Spain
+date: 2024-05-22 05:00:00+00:00
+description: Learn about the non-transferable Health Card granting rights to Spanish
+  Social Security health benefits. Procedure, required docs, and providers included.
 draft: false
+meta_title: 'Spanish Tarjeta Sanitaria: Benefits, Procedure, and Providers'
+tags:
+- Social Security
+title: 'Spanish Tarjeta Sanitaria: Benefits, Procedure, and Providers'
 ---
+
 
 ## Description
 

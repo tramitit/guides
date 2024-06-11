@@ -1,13 +1,16 @@
 ---
-translationKey: italy-residence_card_request
-title: "Richiesta di Carta di Residenza"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Una guida esaustiva su come richiedere una carta di residenza (Carta di Soggiorno/Permesso di Soggiorno) in Italia."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere il Permesso di Soggiorno in Italia per non-UE. Procedura
+  dettagliata con documenti richiesti. Consigli utili e fornitori di assistenza.
 draft: false
+meta_title: 'Permesso di Soggiorno in Italia: Procedura e Documenti Richiesti'
+title: 'Permesso di Soggiorno in Italia: Procedura e Documenti Richiesti'
+translationKey: italy-residence_card_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

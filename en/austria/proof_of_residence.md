@@ -1,13 +1,16 @@
 ---
-title: "Proof of Residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Guide to Proof of Residence in Austria"
-description: "An easy-to-follow guide for international students in Austria looking to acquire proof of residence."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to obtain a Proof of Residence document and necessary documents
+  required. Necessary for immigrants, international students, citizenship seekers.
 draft: false
-translationKey: "austria-proof_of_residence"
+meta_title: 'Proof of Residence: How to Obtain it and Necessary Documents'
+title: 'Proof of Residence: How to Obtain it and Necessary Documents'
+translationKey: austria-proof_of_residence
 ---
+
 
 ## Description
 ### What is it?

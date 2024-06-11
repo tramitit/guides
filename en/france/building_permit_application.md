@@ -1,13 +1,16 @@
 ---
-title: "Building permit application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "A comprehensive guide on how to apply for a building permit in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn the steps involved in obtaining a building permit, required documents,
+  and providers that can assist. Ensure compliance to avoid penalties.
 draft: false
-translationKey: "france-building_permit_application"
+meta_title: 'Building Permit Application: Process, Documents, and Providers'
+title: 'Building Permit Application: Process, Documents, and Providers'
+translationKey: france-building_permit_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-tax_payment
-title: "Daňové platby v České republice"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Průvodce daňovými platbami v České republice"
-description: "Krok za krokem průvodce postupem placení daní v České republice."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, jak správně placení daní, určete své daňové bydliště, vypočítejte
+  daň, vyplňte přiznání a zaplaťte. Potřebná dokumentace a tipy od daňových expertů.
 draft: false
+meta_title: 'Placení daní v České republice: Postup a daňové povinnosti'
+title: 'Placení daní v České republice: Postup a daňové povinnosti'
+translationKey: czech republic-tax_payment
 ---
+
 
 ## Popis
 ### Co to je?

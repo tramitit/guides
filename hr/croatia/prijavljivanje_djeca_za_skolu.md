@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-registering_children_for_school
-title: "Registracija djece za školu"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Registrirajte svoju djecu za školu u Hrvatskoj"
-description: "Detaljan vodič o tome kako registrirati svoju djecu za školu u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Sve što trebate znati o upisu djeteta u hrvatsku školu, uključujući potrebne
+  korake, dokumente i preporuke. Dodatni savjeti za strane rezidente.
 draft: false
+meta_title: 'Registracija djece za školu u Hrvatskoj: Postupak i dokumenti'
+title: 'Registracija djece za školu u Hrvatskoj: Postupak i dokumenti'
+translationKey: croatia-registering_children_for_school
 ---
+
 
 ## Opis
 ### Što je to?

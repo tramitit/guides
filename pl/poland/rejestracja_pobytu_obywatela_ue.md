@@ -1,13 +1,16 @@
 ---
-translationKey: poland-registration_of_residence_for_eu_citizens
-title: "Rejestracja zamieszkania dla obywateli UE"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Rejestracja zamieszkania UE w Polsce"
-description: "Krok po kroku proces rejestracji zamieszkania w Polsce dla obywateli UE"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zarejestrować swoje miejsce zamieszkania w Polsce jako
+  obywatel UE. Procedura, wymagane dokumenty i ważne informacje dotyczące rejestracji.
 draft: false
+meta_title: Rejestracja miejsca zamieszkania dla obywateli UE w Polsce
+title: Rejestracja miejsca zamieszkania dla obywateli UE w Polsce
+translationKey: poland-registration_of_residence_for_eu_citizens
 ---
+
 
 ## Opis
 ### Co to jest?

@@ -1,13 +1,16 @@
 ---
-title: "Application for driver's license"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to obtain a driver's license in Greece, necessary documents,
+  and the complete application process. Essential info for residents and tourists.
 draft: false
-translationKey: "greece-application_for_drivers_license"
+meta_title: 'Driver''s License in Greece: Requirements and Procedure Guide'
+title: 'Driver''s License in Greece: Requirements and Procedure Guide'
+translationKey: greece-application_for_drivers_license
 ---
+
 
 ## Description
 ### What is it?

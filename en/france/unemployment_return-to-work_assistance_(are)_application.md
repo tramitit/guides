@@ -1,13 +1,16 @@
 ---
-title: "Unemployment return-to-work assistance (ARE) application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Discover how to apply for France's unemployment benefit scheme (ARE)
+  after job loss. Learn about eligibility, required documents, and provider details.
 draft: false
-translationKey: "france-unemployment_return-to-work_assistance_(are)_application"
+meta_title: France Unemployment Return-to-Work Assistance (ARE) Process
+title: France Unemployment Return-to-Work Assistance (ARE) Process
+translationKey: france-unemployment_return-to-work_assistance_(are)_application
 ---
+
 
 ## Description
 ### What is it?

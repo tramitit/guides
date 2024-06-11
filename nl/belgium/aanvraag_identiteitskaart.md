@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_identity_card
-title: "Aanvraag voor identiteitskaart"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Hoe een identiteitskaart aanvragen in België"
-description: "Stap voor stap procedure over hoe je een Belgische identiteitskaart kunt aanvragen."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to apply for the Belgian eID, a mandatory identity card for
+  residents of Belgium, including required documents, process steps, and cost details.
 draft: false
+meta_title: 'Belgische eID: Aanvraagprocedure en vereisten in België'
+title: 'Belgische eID: Aanvraagprocedure en vereisten in België'
+translationKey: belgium-request_for_identity_card
 ---
+
 
 ## Beschrijving
 ### Wat is het?

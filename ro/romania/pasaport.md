@@ -1,14 +1,16 @@
---- 
-translationKey: romania-passport
-
-title: "Pașaport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Procedura pentru obținerea pașaportului românesc"
-description: "Proces detaliat pentru obținerea unui pașaport românesc"
-draft: false
 ---
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: 'Aflați cum să obțineți un pașaport românesc: documente necesare, pași
+  de urmat, taxe și detalii importante pentru cetățenii români.'
+draft: false
+meta_title: Procedura și documentele necesare pentru pașaportul românesc
+title: Procedura și documentele necesare pentru pașaportul românesc
+translationKey: romania-passport
+---
+
 
 ## Descriere
 ### Ce este?

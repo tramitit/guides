@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-issuance_of_travel_ticket
-title: "Vydávanie cestovných lístkov"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Tento sprievodca zhrňuje postup a kľúčové body, ktoré je potrebné mať na pamäti pri vydávaní cestovných lístkov."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: 'Všetko, čo potrebujete vedieť: rezervovanie, platba, získanie fyzického
+  lístka. Dôležité dokumenty. Spoľahliví poskytovatelia a tipy pre cestujúcich.'
 draft: false
+meta_title: 'Cestovné lístky: Ako kúpiť, potrebné dokumenty a postup'
+title: 'Cestovné lístky: Ako kúpiť, potrebné dokumenty a postup'
+translationKey: slovakia-issuance_of_travel_ticket
 ---
+
 
 ## Popis
 ### Čo je to?

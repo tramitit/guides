@@ -1,14 +1,16 @@
 ---
-translationKey: poland-registering_the_residence_of_a_foreigner
-
-title: "Rejestracja zamieszkania obcokrajowca w Polsce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Rejestracja zamieszkania obcokrajowca w Polsce"
-description: "Szczegółowy przewodnik dotyczący rejestracji miejsca zamieszkania obcokrajowca w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zarejestrować adres zamieszkania w Polsce jako obcokrajowiec.
+  Wymagane dokumenty i proces rejestracji przedstawione krok po kroku.
 draft: false
+meta_title: 'Rejestracja Zamieszkania w Polsce: Procedura dla Obcokrajowców'
+title: 'Rejestracja Zamieszkania w Polsce: Procedura dla Obcokrajowców'
+translationKey: poland-registering_the_residence_of_a_foreigner
 ---
+
 
 ## Opis
 ### Co to jest?

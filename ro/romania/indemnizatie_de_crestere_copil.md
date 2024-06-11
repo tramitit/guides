@@ -1,13 +1,16 @@
 ---
-translationKey: romania-childcare_allowance
-title: "Indemnizație pentru îngrijirea copilului"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Un ghid cuprinzător pentru accesarea indemnizației pentru îngrijirea copilului în România"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum poți solicita și beneficia de indemnizația pentru creșterea
+  copilului. Documente necesare, procedură, furnizori și detalii legale importante.
 draft: false
+meta_title: 'Indemnizația pentru creșterea copiilor: ghid complet în România'
+title: 'Indemnizația pentru creșterea copiilor: ghid complet în România'
+translationKey: romania-childcare_allowance
 ---
+
 
 ## Descriere
 ### Ce este?

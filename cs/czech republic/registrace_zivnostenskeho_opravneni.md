@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-registration_of_a_trade_license
-title: "Registrace živnostenského oprávnění"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Registrace živnostenského oprávnění v České republice"
-description: "Průvodce postupem a požadovanými dokumenty pro registraci živnostenského oprávnění v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Postup pro získání živnostenského listu v České republice včetně dokumentů
+  a informací o povinném pojištění. Nápověda pro občany EU i ne-EU.
 draft: false
+meta_title: 'Živnostenský list v České republice: Jak ho získat a co je třeba vědět'
+title: 'Živnostenský list v České republice: Jak ho získat a co je třeba vědět'
+translationKey: czech republic-registration_of_a_trade_license
 ---
+
 
 ## Popis
 ### Co je to?

@@ -1,13 +1,16 @@
 ---
-translationKey: poland-passport
-title: "Paszport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Sposób na uzyskanie polskiego paszportu"
-description: "Krok po kroku przewodnik jak złożyć wniosek o polski paszport"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak złożyć wniosek o polski paszport jako obywatel polski,
+  w tym weryfikacja uprawnień, formularz, opłaty i odbiór. Sprawdź listę dokumentów.
 draft: false
+meta_title: 'Procedura uzyskiwania polskiego paszportu: kroki i wymagane dokumenty'
+title: 'Procedura uzyskiwania polskiego paszportu: kroki i wymagane dokumenty'
+translationKey: poland-passport
 ---
+
 
 ## Opis
 ### Co to jest?

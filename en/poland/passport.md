@@ -1,13 +1,17 @@
 ---
-title: "Passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Applying for a Polish Passport"
-description: "Step-by-step guide on how to apply for a Polish passport"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how Polish citizens can apply for a Polish Passport, including
+  eligibility verification, required documents, application submission, and processing
+  times.
 draft: false
-translationKey: "poland-passport"
+meta_title: 'How to Obtain a Polish Passport: Application Process & Requirements'
+title: 'How to Obtain a Polish Passport: Application Process & Requirements'
+translationKey: poland-passport
 ---
+
 
 ## Description
 ### What is it?

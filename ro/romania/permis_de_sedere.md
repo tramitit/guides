@@ -1,13 +1,16 @@
 ---
-translationKey: romania-residence_permit
-title: "Permis de ședere"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Ghid pentru obținerea unui permis de ședere în România"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum poți obține un permis de ședere în România, ce documente sunt
+  necesare și care sunt pașii de urmat. Informații despre termene, costuri și reînnoire.
 draft: false
+meta_title: 'Obținerea unui Permis de Ședere în România: Ghid complet'
+title: 'Obținerea unui Permis de Ședere în România: Ghid complet'
+translationKey: romania-residence_permit
 ---
+
 
 ## Descriere
 ### Ce este?

@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_building_permit
-title: "Pedido de Licença de Construção em Portugal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Pedido de Licença de Construção em Portugal: Guia Passo a Passo"
-description: "Guia passo a passo para solicitar uma licença de construção em Portugal. Desde entender os requisitos até concluir o processo."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Descubra como obter o alvará de construção em Portugal, desde a pesquisa
+  inicial até a aprovação final. Saiba quem precisa e os documentos necessários.
 draft: false
+meta_title: 'Alvará de Construção em Portugal: Procedimento e Documentos'
+title: 'Alvará de Construção em Portugal: Procedimento e Documentos'
+translationKey: portugal-request_for_building_permit
 ---
+
 
 ## Descrição
 ### O que é?

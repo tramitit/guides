@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-copy_of_notarial_documents
-title: "Notáriusi dokumentumok másolata"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Útmutató a notáriusi dokumentumok másolatának beszerzéséhez Magyarországon"
-description: "Egy lépésről lépésre útmutató arról, hogyan szerezhetünk hiteles másolatokat notáriusi dokumentumokról Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg az egyházi okirat hiteles másolatának jelentőségét és az
+  ehhez szükséges eljárást. Tájékozódjon az szükséges dokumentumokról és szolgáltatókról.
 draft: false
+meta_title: Egyházi Okirat Hiteles Másolatának Beszerzése Magyarországon
+title: Egyházi Okirat Hiteles Másolatának Beszerzése Magyarországon
+translationKey: hungary-copy_of_notarial_documents
 ---
+
 
 ## Leírás
 ### Mi ez?

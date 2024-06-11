@@ -1,13 +1,17 @@
 ---
-translationKey: romania-residence_tax
-title: "Impozitul de Rezidență"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Ghidul Impozitului de Rezidență"
-description: "Un ghid simplificat despre gestionarea impozitului de rezidență pentru rezidenții locali și străini din România."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: 'Descoperiți procedura de plată a impozitului de rezidență: formulare
+  necesare, furnizori, documente și detalii suplimentare pentru contribuabilii din
+  România.'
 draft: false
+meta_title: 'Impozitul de Rezidență în România: Ce Este și Cine Este Vizat'
+title: 'Impozitul de Rezidență în România: Ce Este și Cine Este Vizat'
+translationKey: romania-residence_tax
 ---
+
 
 ## Descriere
 ### Ce este?

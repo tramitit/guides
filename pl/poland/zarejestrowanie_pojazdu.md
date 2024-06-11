@@ -1,13 +1,16 @@
 ---
-translationKey: poland-vehicle_registration
-title: "Rejestracja pojazdów"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Rejestracja pojazdów w Polsce"
-description: "Ten blog przedstawia proces rejestracji pojazdu, ze szczególnym uwzględnieniem Polski."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zarejestrować pojazd w Polsce po zakupie lub sprowadzeniu.
+  Poznaj procedurę, wymagane dokumenty i usługodawców pomocnych w rejestracji.
 draft: false
+meta_title: 'Rejestracja pojazdu w Polsce: Procedura i wymagane dokumenty'
+title: 'Rejestracja pojazdu w Polsce: Procedura i wymagane dokumenty'
+translationKey: poland-vehicle_registration
 ---
+
 
 ## Opis
 ### Co to jest?

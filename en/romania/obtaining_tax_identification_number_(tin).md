@@ -1,13 +1,16 @@
 ---
-title: "Obtaining Tax Identification Number (TIN)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "A step by step guide on how to obtain a TIN (Tax Identification Number)"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn who needs a TIN, required documents, procedure to apply for one,
+  and why keeping it confidential is crucial. Get your TIN hassle-free!
 draft: false
-translationKey: "romania-obtaining_tax_identification_number_(tin)"
+meta_title: 'How to Obtain a Tax Identification Number (TIN): Step-by-Step Guide'
+title: 'How to Obtain a Tax Identification Number (TIN): Step-by-Step Guide'
+translationKey: romania-obtaining_tax_identification_number_(tin)
 ---
+
 
 ## Description
 ### What is it?

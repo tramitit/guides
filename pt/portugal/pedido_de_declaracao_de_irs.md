@@ -1,13 +1,17 @@
 ---
-translationKey: portugal-request_for_income_tax_declaration
-title: "Pedido de Declaração de Imposto de Renda"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este é um guia passo a passo sobre como solicitar a declaração de imposto de renda."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba quem precisa fazer o pedido, procedimentos necessários, documentos
+  requeridos e prestadores de serviços em Portugal. Fique isento se sua renda for
+  baixa.
 draft: false
+meta_title: Pedido de Declaração de Imposto de Renda em Portugal
+title: Pedido de Declaração de Imposto de Renda em Portugal
+translationKey: portugal-request_for_income_tax_declaration
 ---
+
 
 ## Descrição
 ### O que é?

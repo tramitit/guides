@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_duplicate_documents
-title: "Pedido de Documentos Duplicados"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Procedimento para Solicitar Documentos Duplicados em Portugal"
-description: "Um guia abrangente sobre como solicitar documentos duplicados em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Aprenda como solicitar duplicados de documentos importantes em Portugal,
+  incluindo requisitos, procedimentos e prestadores de serviço.
 draft: false
+meta_title: 'Solicitação de Documentos Duplicados em Portugal: Guia Completo'
+title: 'Solicitação de Documentos Duplicados em Portugal: Guia Completo'
+translationKey: portugal-request_for_duplicate_documents
 ---
+
 
 ## Descrição
 ### O que é?

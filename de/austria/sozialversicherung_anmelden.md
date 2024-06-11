@@ -1,13 +1,16 @@
 ---
-translationKey: austria-social_insurance_registration
-title: "Sozialversicherungsregistrierung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Dieser Leitfaden bietet eine schrittweise Anleitung zum Registrieren für die Sozialversicherung in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie man sich in Österreich für die Sozialversicherung registriert.
+  Benötigte Unterlagen, Verfahren, Anbieter und wichtige Details im Überblick.
 draft: false
+meta_title: Anmeldung bei der Sozialversicherung in Österreich
+title: Anmeldung bei der Sozialversicherung in Österreich
+translationKey: austria-social_insurance_registration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

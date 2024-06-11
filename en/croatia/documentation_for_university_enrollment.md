@@ -1,13 +1,16 @@
 ---
-title: "Documentation for university enrollment"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "University Enrollment Documentation"
-description: "Detailed guidance on required documentation for enrolling in universities abroad"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Step-by-step process and required documents for international students
+  to enroll in universities in Croatia, Poland, and India. Visa application included.
 draft: false
-translationKey: "croatia-documentation_for_university_enrollment"
+meta_title: Guide for International Student Enrollment in Croatia, Poland, India
+title: Guide for International Student Enrollment in Croatia, Poland, India
+translationKey: croatia-documentation_for_university_enrollment
 ---
+
 
 ## Description
 ### What is it?

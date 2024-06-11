@@ -1,13 +1,16 @@
 ---
-translationKey: romania-medical_legal_institute
-title: "Institutul Medical Legal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Acesta este un ghid pentru înțelegerea și navigarea Institutului Medical Legal din România, precum și detalii referitoare la statuturile legale și drepturile în diverse țări europene."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați pașii esențiali pentru obținerea certificărilor medicale legale
+  în Europa, inclusiv documentele necesare și informații despre legi și drepturi locale.
 draft: false
+meta_title: Procedura pentru certificari medicale legale in Europa
+title: Procedura pentru certificari medicale legale in Europa
+translationKey: romania-medical_legal_institute
 ---
+
 
 ## Descriere
 ### Ce este?

@@ -1,13 +1,16 @@
 ---
-title: "Criminal Record Certificate Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "How to Apply for a Criminal Record Certificate"
-description: "This guide provides detailed steps on how to apply for a Criminal Record Certificate."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn why a Criminal Record Certificate is needed, who needs it, required
+  documents, and the procedure to obtain it. Essential for job and visa applications.
 draft: false
-translationKey: "austria-criminal_record_certificate_application"
+meta_title: 'Criminal Record Certificate: Essential Info and Procedure'
+title: 'Criminal Record Certificate: Essential Info and Procedure'
+translationKey: austria-criminal_record_certificate_application
 ---
+
 
 ## Description
 ### What is it?

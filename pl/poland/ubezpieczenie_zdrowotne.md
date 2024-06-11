@@ -1,13 +1,16 @@
 ---
-translationKey: poland-health_insurance
-title: "Ubezpieczenie zdrowotne w Polsce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Przewodnik po ubezpieczeniach zdrowotnych w Polsce"
-description: "Kompleksowy przewodnik krok po kroku dotyczący ubezpieczeń zdrowotnych w Polsce."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: 'Dowiedz się o potrzebie ubezpieczenia zdrowotnego w Polsce dla mieszkańców
+  i obcokrajowców. Procedury, wymagane dokumenty oraz dostawcy: NFZ, Luxmed, Medicover.'
 draft: false
+meta_title: 'Ubezpieczenie Zdrowotne w Polsce: Co, Kto, Procedura, Dokumenty'
+title: 'Ubezpieczenie Zdrowotne w Polsce: Co, Kto, Procedura, Dokumenty'
+translationKey: poland-health_insurance
 ---
+
 
 ## Opis
 ### Co to jest?

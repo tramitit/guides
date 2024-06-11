@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-diploma_renewal
-title: "Преиздаване на диплома"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Процедура за преиздаване на диплома"
-description: "Този ръководител предоставя подробно стъпково обяснение за процеса на преиздаване на дипломата."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да актуализирате образователната си сертификация. Стъпкова
+  процедура, необходими документи и доставчици за обновяване на академичния диплом.
 draft: false
+meta_title: 'Обновяване на диплома: Процедура, документи и доставчици'
+title: 'Обновяване на диплома: Процедура, документи и доставчици'
+translationKey: bulgaria-diploma_renewal
 ---
+
 
 ## Описание
 ### Какво е това?

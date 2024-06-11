@@ -1,13 +1,16 @@
 ---
-translationKey: romania-marriage_certificate
-title: "Certificat de căsătorie"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Ghid pas cu pas pentru obținerea unui certificat de căsătorie în România"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum să obții un certificat de căsătorie în România, procedura la
+  Primărie, documentele necesare și informații utile pentru cereri legale și internaționale.
 draft: false
+meta_title: 'Certificat de Căsătorie în România: Procedură și Documente Necesare'
+title: 'Certificat de Căsătorie în România: Procedură și Documente Necesare'
+translationKey: romania-marriage_certificate
 ---
+
 
 ## Descriere
 ### Ce este?

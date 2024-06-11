@@ -1,13 +1,17 @@
 ---
-title: "Housing Allowance Application in Austria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Guide to Housing Allowance Application in Austria"
-description: "This article provides a step-by-step guide on how to apply for a housing allowance in Austria"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn about Austria's housing allowance program, eligibility criteria,
+  application procedure, required documents, and providers such as Municipal Department
+  50.
 draft: false
-translationKey: "austria-housing_allowance_application"
+meta_title: 'Housing Allowance in Austria: Eligibility, Application & Providers'
+title: 'Housing Allowance in Austria: Eligibility, Application & Providers'
+translationKey: austria-housing_allowance_application
 ---
+
 
 ## Description
 ### What is it?

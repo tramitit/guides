@@ -1,13 +1,16 @@
 ---
-title: "Business Re-registration in Austria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This is a detailed guide on how to re-register a business in Austria, ideal for individuals who initially registered their businesses as freelancers and now wish to change or develop their business model."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to change your business form in Austria from freelancer to
+  company with required documents and providers. Stay compliant and avoid penalties.
 draft: false
-translationKey: "austria-business_re-registration"
+meta_title: 'Business Re-registration in Austria: Process and Providers'
+title: 'Business Re-registration in Austria: Process and Providers'
+translationKey: austria-business_re-registration
 ---
+
 
 ## Description
 ### What is it?

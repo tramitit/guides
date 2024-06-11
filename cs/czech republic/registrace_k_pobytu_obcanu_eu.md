@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-residence_registration_for_eu_citizens
-title: "Registrace pobytu pro občany EU"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Průvodce registrací pobytu pro občany EU v České republice."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how EU citizens can register residence in Czech Republic for stays
+  over 30 days. Steps, required documents, providers, and benefits. Stay informed!
 draft: false
+meta_title: EU Citizen Registration in Czech Republic (30+ Days)
+title: EU Citizen Registration in Czech Republic (30+ Days)
+translationKey: czech republic-residence_registration_for_eu_citizens
 ---
+
 
 ## Popis
 ### Co to je?

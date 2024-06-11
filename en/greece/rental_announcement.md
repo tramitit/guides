@@ -1,13 +1,16 @@
 ---
-title: "Rental announcement"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Here's everything you need to make a successful rental announcement in Greece"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to announce your property for rent in Greece, including steps
+  to prepare, essential documents, and legal requirements.
 draft: false
-translationKey: "greece-rental_announcement"
+meta_title: Rental Announcement Guide for Property Owners in Greece
+title: Rental Announcement Guide for Property Owners in Greece
+translationKey: greece-rental_announcement
 ---
+
 
 ## Description
 ### What is it?

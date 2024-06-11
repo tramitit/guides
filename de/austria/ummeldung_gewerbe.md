@@ -1,13 +1,16 @@
 ---
-translationKey: austria-business_re-registration
-title: "Geschäftsummeldung in Österreich"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Dies ist ein ausführlicher Leitfaden, wie man ein Unternehmen in Österreich ummeldet, ideal für Personen, die ihr Unternehmen zunächst als Freelancer angemeldet haben und jetzt ihren Geschäftsmodell ändern oder weiterentwickeln möchten."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie von einem Freiberufler zu einem eingetragenen Unternehmen
+  wechseln. Schritte, Dokumente und Anbieter für die Neuanmeldung in Österreich.
 draft: false
+meta_title: 'Unternehmensneuanmeldung in Österreich: Prozess und Anforderungen'
+title: 'Unternehmensneuanmeldung in Österreich: Prozess und Anforderungen'
+translationKey: austria-business_re-registration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

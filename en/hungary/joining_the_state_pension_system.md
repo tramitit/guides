@@ -1,13 +1,16 @@
 ---
-title: "Joining the State Pension System"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Joining the state pension system is a crucial step towards securing a stable income for your retirement years. This guide outlines the procedure, necessary documents and additional details on how to join the system."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn about the state pension system, eligibility requirements, contribution
+  process, necessary documents, and a provider for registration assistance.
 draft: false
-translationKey: "hungary-joining_the_state_pension_system"
+meta_title: 'State Pension System: Key Steps, Eligibility, & Providers'
+title: 'State Pension System: Key Steps, Eligibility, & Providers'
+translationKey: hungary-joining_the_state_pension_system
 ---
+
 
 ## Description
 ### What is it?

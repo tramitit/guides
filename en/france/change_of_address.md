@@ -1,13 +1,16 @@
 ---
-title: "Change of Address"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "This guide will help you understand how to change your address."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to update your address on Revolut, Vinted, and Olympics. Required
+  docs and provider options included. Keep your app updated for Revolut changes.
 draft: false
-translationKey: "france-change_of_address"
+meta_title: Guide to Changing Your Address on Revolut, Vinted, and Olympics
+title: Guide to Changing Your Address on Revolut, Vinted, and Olympics
+translationKey: france-change_of_address
 ---
+
 
 ## Description
 ### What is it?

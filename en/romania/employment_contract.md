@@ -1,14 +1,16 @@
 ---
-
-title: "Employment Contract"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Guidelines for drafting an employment contract in Romania."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: 'Tot ce trebuie să știi despre contractele de muncă în România: descriere,
+  responsabilități, beneficii și procedură detaliată pentru angajatori și angajați.'
 draft: false
-translationKey: "romania-employment_contract"
+meta_title: 'Ghid contract de muncă în România: Drepturi și obligații'
+title: 'Ghid contract de muncă în România: Drepturi și obligații'
+translationKey: romania-employment_contract
 ---
+
 
 ## Description
 ### What is it?

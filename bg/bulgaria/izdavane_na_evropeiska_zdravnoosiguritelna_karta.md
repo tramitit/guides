@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-issuance_of_a_european_health_insurance_card
-title: "Издаване на европейска здравна карта"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Пошагово ръководство за получаване на европейска здравна карта за България"
-description: "Подробно ръководство за разбиране на процеса и получаване на европейска здравна карта за България."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да получите и използвате Европейската здравна карта за медицинско
+  обслужване в региона. Необходими документи, процедури и важна информация.
 draft: false
+meta_title: 'Европейска здравна карта (ЕЗК): крачка по крачка ръководство'
+title: 'Европейска здравна карта (ЕЗК): крачка по крачка ръководство'
+translationKey: bulgaria-issuance_of_a_european_health_insurance_card
 ---
+
 
 ## Описание
 ### Какво е то?

@@ -1,13 +1,16 @@
 ---
-translationKey: austria-visa_application
-title: "Visumbeantragung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Dies ist eine Meta-Beschreibung"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie das Langzeitarbeitsuchendenvisum für Österreich
+  beantragen. Anleitung, erforderliche Dokumente, Prozess und Details zur Visumbeantragung.
 draft: false
+meta_title: 'Visumantrag Österreich: Langzeitarbeitsuchendenvisum Anleitung'
+title: 'Visumantrag Österreich: Langzeitarbeitsuchendenvisum Anleitung'
+translationKey: austria-visa_application
 ---
+
 
 ## Beschreibung
 ### Was ist es?

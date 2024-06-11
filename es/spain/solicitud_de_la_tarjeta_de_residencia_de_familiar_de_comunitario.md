@@ -1,13 +1,16 @@
 ---
-translationKey: spain-resident_card_application_for_family_member_of_an_eu_citizen
-title: "Solicitud de Tarjeta de Residente para Familiar de un Ciudadano de la UE"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Esta es la descripción meta"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo obtener la Tarjeta de Residencia en España para familiares
+  de ciudadanos de la UE. Procedimiento, documentos necesarios y recomendaciones clave.
 draft: false
+meta_title: Residencia para Familiares de Ciudadanos de la UE en España
+title: Residencia para Familiares de Ciudadanos de la UE en España
+translationKey: spain-resident_card_application_for_family_member_of_an_eu_citizen
 ---
+
 
 ## Descripción
 ### ¿Qué es?

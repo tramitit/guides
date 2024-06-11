@@ -1,13 +1,17 @@
 ---
-translationKey: slovakia-health_insurance_registration
-title: "Registrácia zdravotného poistenia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Registrácia zdravotného poistenia na Slovensku"
-description: "Komplexný sprievodca registráciou zdravotného poistenia na Slovensku."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to register for health insurance in Slovakia as a foreigner
+  and find out about the required documents. Get insights on providers and processing
+  times.
 draft: false
+meta_title: 'Registration of Health Insurance in Slovakia: Guide & Providers'
+title: 'Registration of Health Insurance in Slovakia: Guide & Providers'
+translationKey: slovakia-health_insurance_registration
 ---
+
 
 ## Popis
 ### Čo to je?

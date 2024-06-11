@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-death_registration
-title: "Halálozás bejelentése Magyarországon"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Útmutató a Halálozási Bejelentéshez Magyarországon"
-description: "Részletes lépések a halálozási bejelentéshez Magyarországon"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: A halálozási regisztráció fontossága, szükséges dokumentumok, eljárás
+  Magyarországon. Magyar genealógiai kutatás és további információk elérhetők.
 draft: false
+meta_title: 'Halálozási Regisztráció Magyarországon: Dokumentumok, Eljárás'
+title: 'Halálozási Regisztráció Magyarországon: Dokumentumok, Eljárás'
+translationKey: hungary-death_registration
 ---
+
 
 ## Leírás
 ### Miről van szó?

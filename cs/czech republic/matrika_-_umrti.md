@@ -1,12 +1,16 @@
 ---
-translationKey: czech republic-registry_office_-_death
-title: "Matriční úřad - úmrtí"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-description: "Toto je průvodce, jak nahlásit úmrtí na matričním úřadě v České republice - od přípravy dokumentů po samotný proces procedury."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, jak zaznamenat úmrtí v České republice, kdo to potřebuje a
+  jaké dokumenty jsou nutné. Důležité informace o termínech a povinnostech při úmrtí.
 draft: false
+meta_title: 'Zápis úmrtí v České republice: Postup a Požadované dokumenty'
+title: 'Zápis úmrtí v České republice: Postup a Požadované dokumenty'
+translationKey: czech republic-registry_office_-_death
 ---
+
 
 ## Popis
 ### Co to je?

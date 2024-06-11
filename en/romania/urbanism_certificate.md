@@ -1,13 +1,17 @@
 ---
-title: "Urbanism Certificate: A Step-by-Step Guide"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "A comprehensive guide outlining how to obtain an urbanism certificate."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how an Urbanism Certificate ensures compliance with zoning laws
+  for urban projects. Procedure, documents needed, providers, and key details covered
+  here.
 draft: false
-translationKey: "romania-urbanism_certificate"
+meta_title: 'Urbanism Certificate: Get Zoning Approval & Start Projects'
+title: 'Urbanism Certificate: Get Zoning Approval & Start Projects'
+translationKey: romania-urbanism_certificate
 ---
+
 
 ## Description
 ### What is it?

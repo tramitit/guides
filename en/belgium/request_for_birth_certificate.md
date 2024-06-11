@@ -1,13 +1,16 @@
 ---
-title: "Request for birth certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Guide on how to request a birth certificate in Belgium"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to get a Belgian birth certificate for official uses. Find
+  out the steps, required documents, and where to go for this essential document easily.
 draft: false
-translationKey: "belgium-request_for_birth_certificate"
+meta_title: 'How to Obtain a Birth Certificate in Belgium: Procedure & Providers'
+title: 'How to Obtain a Birth Certificate in Belgium: Procedure & Providers'
+translationKey: belgium-request_for_birth_certificate
 ---
+
 
 ## Description
 ### What is it?

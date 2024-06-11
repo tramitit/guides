@@ -1,13 +1,16 @@
 ---
-translationKey: spain-return_authorization
-title: "Autorización de Devolución"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Guía detallada paso a paso sobre cómo realizar una autorización de devolución para productos de diferentes proveedores."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Obtén una Autorización de Devolución al devolver un producto comprado.
+  Entérate del proceso, documentos necesarios y proveedores que ofrecen este servicio.
 draft: false
+meta_title: 'Autorización de Devolución: Procedimiento y Documentos Requeridos'
+title: 'Autorización de Devolución: Procedimiento y Documentos Requeridos'
+translationKey: spain-return_authorization
 ---
+
 
 ## Descripción
 ### ¿Qué es?

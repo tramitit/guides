@@ -1,13 +1,16 @@
 ---
-translationKey: romania-obtaining_tax_identification_number_(tin)
-title: "Obținerea Numărului de Identificare Fiscală (NIF)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Un ghid pas cu pas despre cum să obții un NIF (Număr de Identificare Fiscală)"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați cine are nevoie de TIN, cum să aplicați și ce documente sunt necesare.
+  Găsiți detalii despre furnizori și păstrarea confidențialității TIN-ului.
 draft: false
+meta_title: 'Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare'
+title: 'Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare'
+translationKey: romania-obtaining_tax_identification_number_(tin)
 ---
+
 
 ## Descriere
 ### Ce este?

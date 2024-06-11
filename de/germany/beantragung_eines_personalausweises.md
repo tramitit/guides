@@ -1,13 +1,16 @@
 ---
-translationKey: germany-application_for_an_id_card
-title: "Antrag auf einen deutschen Personalausweis"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Ein Leitfaden zur Beantragung eines deutschen Personalausweises."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie deutsche Staatsbürger ab 16 Jahren einen Personalausweis
+  erhalten. Schritte, erforderliche Unterlagen, Kosten und Bearbeitungszeit erklärt.
 draft: false
+meta_title: 'Deutscher Personalausweis: Beantragung und Anforderungen'
+title: 'Deutscher Personalausweis: Beantragung und Anforderungen'
+translationKey: germany-application_for_an_id_card
 ---
+
 
 ## Beschreibung
 ### Was ist es?

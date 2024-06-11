@@ -1,13 +1,16 @@
 ---
-title: "Military Service Completion Certificate Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Requesting Military Service Completion Certificate for Genealogy & Citizenship purposes"
-description: "Step by step guide on how to request a Military Service Completion Certificate in Italy and Germany."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to obtain the official document for genealogy or citizenship
+  by descent. Find procedures & providers in Italy and Germany with required documents.
 draft: false
-translationKey: "italy-military_service_completion_certificate_request"
+meta_title: Military Service Completion Certificate in Italy & Germany
+title: Military Service Completion Certificate in Italy & Germany
+translationKey: italy-military_service_completion_certificate_request
 ---
+
 
 ## Description
 ### What is it?

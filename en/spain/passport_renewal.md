@@ -1,13 +1,16 @@
 ---
-title: "Passport Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Guide to renewing your passport while in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Aprende cómo renovar tu pasaporte en España con nuestra guía detallada,
+  que incluye requisitos, documentos necesarios y pasos del procedimiento.
 draft: false
-translationKey: "spain-passport_renewal"
+meta_title: Guía Completa para Renovación de Pasaporte en España
+title: Guía Completa para Renovación de Pasaporte en España
+translationKey: spain-passport_renewal
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Income Tax Declaration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This step-by-step guide provides information on how to declare income tax in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to declare income tax in Austria accurately & timely. Gather
+  docs, fill forms, submit online, pay owed tax & use providers. Avoid penalties!
 draft: false
-translationKey: "austria-income_tax_declaration"
+meta_title: 'Austria Income Tax Declaration: Procedure, Required Docs & Providers'
+title: 'Austria Income Tax Declaration: Procedure, Required Docs & Providers'
+translationKey: austria-income_tax_declaration
 ---
+
 
 ## Description
 ### What is it?

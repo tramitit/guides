@@ -1,13 +1,16 @@
 ---
-translationKey: spain-drivers_license_application
-title: "Solicitud de Licencia de Conducir en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Proceso de Solicitud de Licencia de Conducir en España"
-description: "Una guía completa sobre cómo solicitar una licencia de conducir en España, incluyendo los pasos necesarios, documentos requeridos y proveedores de servicios."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar una licencia de conducir en España, paso a paso.
+  Requisitos, procedimientos y plazos para residentes y no residentes extranjeros.
 draft: false
+meta_title: 'Cómo obtener una licencia de conducir en España: guía paso a paso'
+title: 'Cómo obtener una licencia de conducir en España: guía paso a paso'
+translationKey: spain-drivers_license_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

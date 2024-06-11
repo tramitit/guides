@@ -1,13 +1,16 @@
 ---
-translationKey: spain-civil_marriage_application
-title: "Solicitud de Matrimonio Civil en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Solicitud de Matrimonio Civil en España: Una Guía Paso a Paso"
-description: "Una guía completa sobre cómo solicitar un matrimonio civil en España, comprendiendo los procedimientos, documentos requeridos y posibles proveedores."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre el proceso para legalizar un matrimonio civil en España, incluyendo
+  documentos requeridos, proveedores disponibles y recomendaciones importantes.
 draft: false
+meta_title: 'Matrimonio Civil en España: Procedimiento y Documentos'
+title: 'Matrimonio Civil en España: Procedimiento y Documentos'
+translationKey: spain-civil_marriage_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

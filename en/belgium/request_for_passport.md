@@ -1,13 +1,16 @@
 ---
-title: "Request for passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This article guides you through the process of obtaining a passport in Belgium."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to apply for a passport with detailed procedures, required
+  documents, and a list of providers. Ensure timely processing for international travel!
 draft: false
-translationKey: "belgium-request_for_passport"
+meta_title: 'Passport Application Guide: Procedures, Documents & Providers'
+title: 'Passport Application Guide: Procedures, Documents & Providers'
+translationKey: belgium-request_for_passport
 ---
+
 
 ## Description
 ### What is it?

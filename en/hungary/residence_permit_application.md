@@ -1,13 +1,16 @@
---- 
-title: "Residence Permit Application" 
-author: "Ricardo Batista" 
-date: "2024-06-07" 
-categories: ["Hungary"] 
-meta_title: "" 
-description: "This guide provides a step-by-step procedure to apply for a residence permit in Hungary." 
-draft: false 
-translationKey: "hungary-residence_permit_application"
 ---
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to obtain a Hungarian residence permit for digital nomads,
+  including required documents and application procedures.
+draft: false
+meta_title: Residence Permit Guide for Digital Nomads in Hungary
+title: Residence Permit Guide for Digital Nomads in Hungary
+translationKey: hungary-residence_permit_application
+---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: italy-medical_certificate_request
-title: "Richiesta di Certificato Medico"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa è una guida per ottenere un Certificato Medico in Italia, spesso richiesto per partecipare ad attività sportive come maratone o eventi di ciclismo."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere un certificato medico in Italia per partecipare
+  ad attività sportive o lavorative. Procedura, documenti richiesti e fornitori disponibili.
 draft: false
+meta_title: 'Certificato Medico: Procedura e Requisiti in Italia'
+title: 'Certificato Medico: Procedura e Requisiti in Italia'
+translationKey: italy-medical_certificate_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

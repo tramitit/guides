@@ -1,13 +1,16 @@
 ---
-translationKey: poland-child_birth_registration_abroad
-title: "Rejestracja urodzenia dziecka za granicą"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Rejestracja urodzenia dziecka w Polsce i Niemczech dla osób urodzonych za granicą"
-description: "Szczegółowe informacje na temat rejestracji urodzenia noworodka w Polsce i Niemczech, gdy zostali urodzeni za granicą."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zarejestrować urodzenie dziecka za granicą w Polsce
+  i Niemczech - wymagane procedury, dokumenty, dostawcy usług oraz dodatkowe wskazówki.
 draft: false
+meta_title: Rejestracja Urodzenia Dziecka w Polsce i Niemczech
+title: Rejestracja Urodzenia Dziecka w Polsce i Niemczech
+translationKey: poland-child_birth_registration_abroad
 ---
+
 
 ## Opis
 ### Co to jest?

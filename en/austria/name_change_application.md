@@ -1,13 +1,17 @@
 ---
-title: "Name Change Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "How to Change Your Name in Austria"
-description: "This is a comprehensive guide about how to change your name in Austria, including the detailed procedure, required documents, service providers and relevant tips."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn the steps for legal name change in Austria, including required
+  documents and providers who can assist. Understand the intricate process and fees
+  involved.
 draft: false
-translationKey: "austria-name_change_application"
+meta_title: 'Austrian Name Change Application: Process, Documents, Providers'
+title: 'Austrian Name Change Application: Process, Documents, Providers'
+translationKey: austria-name_change_application
 ---
+
 ## Description
 ### What is it?
 A Name Change Application is a legal process in Austria for individuals who wish to change their legal first or last name. 

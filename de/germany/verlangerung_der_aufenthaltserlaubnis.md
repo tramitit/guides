@@ -1,13 +1,16 @@
 ---
-translationKey: germany-extension_of_residence_permit
-title: "Verlängerung der Aufenthaltserlaubnis"
-author: "Ricardo Batista"
-date: "2022-10-16"
-categories: ["Germany"]
-meta_title: "Verfahren zur Verlängerung der Aufenthaltserlaubnis in Deutschland"
-description: "Ein umfassender Leitfaden, wie Sie Ihre Aufenthaltserlaubnis in Deutschland verlängern können."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2022-10-16'
+description: Erfahren Sie, wie man die Aufenthaltserlaubnis in Deutschland verlängert.
+  Anleitung, erforderliche Dokumente und wichtige Details zum Verfahren.
 draft: false
+meta_title: Verlängerung der Aufenthaltserlaubnis in Deutschland
+title: Verlängerung der Aufenthaltserlaubnis in Deutschland
+translationKey: germany-extension_of_residence_permit
 ---
+
 
 ## Beschreibung
 ### Was ist das?

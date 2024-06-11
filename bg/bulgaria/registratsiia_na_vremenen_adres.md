@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-temporary_address_registration
-title: "Регистрация на временен адрес"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Регистрация на временен адрес в България"
-description: "Подробно ръководство за процеса на регистриране на временен адрес в България, неговите изисквания и процедура"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как чужденци могат да се регистрират за краткосрочен адрес в
+  България. Изисквания за документи, процес, срокове и доставчици на услугата.
 draft: false
+meta_title: 'Регистрация на временен адрес в България: Процедура и Документи'
+title: 'Регистрация на временен адрес в България: Процедура и Документи'
+translationKey: bulgaria-temporary_address_registration
 ---
+
 
 ## Описание
 ### Какво е това?

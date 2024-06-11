@@ -1,13 +1,16 @@
 ---
-title: "Business Travel Permit Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "How to apply for a business travel permit in France"
-description: "A comprehensive guide on the business travel permit application in France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to obtain a business travel permit, necessary documents, interview
+  process, and processing times. Ensure legal entry and compliance abroad.
 draft: false
-translationKey: "france-business_travel_permit_application"
+meta_title: Business Travel Permit Procedures and Requirements
+title: Business Travel Permit Procedures and Requirements
+translationKey: france-business_travel_permit_application
 ---
+
 
 ## Description
 ### What is it?

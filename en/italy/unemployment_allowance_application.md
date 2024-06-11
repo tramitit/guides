@@ -1,13 +1,16 @@
 ---
-title: "Unemployment Allowance Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Applying for Unemployment Allowance in Italy"
-description: "Detailed guide on the Unemployment Allowance Application procedures, required documents, and various service provider details."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to apply for Unemployment Allowance, required documents, providers,
+  and additional details. Financial assistance for job seekers in need.
 draft: false
-translationKey: "italy-unemployment_allowance_application"
+meta_title: 'Unemployment Allowance: Eligibility, Application, and Benefits'
+title: 'Unemployment Allowance: Eligibility, Application, and Benefits'
+translationKey: italy-unemployment_allowance_application
 ---
+
 
 ## Description
 ### What is it?

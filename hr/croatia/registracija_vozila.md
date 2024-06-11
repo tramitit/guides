@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-vehicle_registration
-title: "Registracija vozila u Hrvatskoj"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: "Registracija vašeg vozila u Hrvatskoj"
-description: "Sveobuhvatni vodič za registraciju vozila u Hrvatskoj."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: 'Saznajte kako registrirati automobil u Hrvatskoj: inspekcija, osiguranje,
+  potrebni dokumenti, naknade i korisne savjete. Rokovi i davatelji usluga.'
 draft: false
+meta_title: 'Registracija Vozila U Hrvatskoj: Postupak, Dokumentacija i Informacije'
+title: 'Registracija Vozila U Hrvatskoj: Postupak, Dokumentacija i Informacije'
+translationKey: croatia-vehicle_registration
 ---
+
 
 ## Opis
 ### Što je to?

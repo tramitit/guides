@@ -1,13 +1,16 @@
 ---
-translationKey: italy-residence_permit_renewal
-title: "Rinnovo del Permesso di Soggiorno"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Rinnovo del Permesso di Soggiorno in Italia"
-description: "Guida dettagliata sul rinnovo del tuo permesso di soggiorno (Permesso di Soggiorno) in Italia"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come rinnovare il Permesso di Soggiorno in Italia e quali documenti
+  sono necessari. Procedura, appuntamento, documenti e dettagli aggiuntivi inclusi.
 draft: false
+meta_title: 'Rinnovo Permesso di Soggiorno in Italia: Guida e Documenti Richiesti'
+title: 'Rinnovo Permesso di Soggiorno in Italia: Guida e Documenti Richiesti'
+translationKey: italy-residence_permit_renewal
 ---
+
 
 ## Descrizione
 ### Che cos'è?

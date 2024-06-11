@@ -1,13 +1,17 @@
 ---
-title: "Renewal of Driving License"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Learn how to renew your driving license when living overseas."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Extend your expiring driver's license while living abroad in Portugal,
+  UK, or Brazil. Learn the renewal process & required documents from DVLA, IMT, and
+  DETRAN.
 draft: false
-translationKey: "portugal-renewal_of_driving_license"
+meta_title: 'Renewal of Driving License for Expats: Procedure & Providers'
+title: 'Renewal of Driving License for Expats: Procedure & Providers'
+translationKey: portugal-renewal_of_driving_license
 ---
+
 
 ## Description
 ### What is it?

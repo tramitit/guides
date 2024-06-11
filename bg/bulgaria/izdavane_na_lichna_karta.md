@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-issuance_of_an_identity_card
-title: "Издаване на лична карта"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Подробно ръководство за издаване на лична карта в България"
-description: "Постъпково ръководство, което ще ви помогне да разберете процеса на получаване на лична карта в България."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете какво е българската лична карта, кой се нуждае от нея и как да
+  я получите. Изисквания, процедура, документи, такси, срокове и допълнителни детайли.
 draft: false
+meta_title: 'Издаване на лична карта в България: процедура и изисквания'
+title: 'Издаване на лична карта в България: процедура и изисквания'
+translationKey: bulgaria-issuance_of_an_identity_card
 ---
+
 
 ## Описание
 ### Какво е това?

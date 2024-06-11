@@ -1,13 +1,16 @@
 ---
-title: "Submitting a Tax Return in Czech Republic"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Guide for Submitting a Tax Return in Czech Republic"
-description: "A step-by-step-guide on how to file your tax return in the Czech Republic."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to complete and submit your tax return in Czech Republic, important
+  steps, required documents, and penalty avoidance strategies included.
 draft: false
-translationKey: "czech-republic-submitting_a_tax_return"
+meta_title: 'Tax Return Procedure in Czech Republic: Guide for Income Earners'
+title: 'Tax Return Procedure in Czech Republic: Guide for Income Earners'
+translationKey: czech-republic-submitting_a_tax_return
 ---
+
 
 ## Description
 ### What is it?

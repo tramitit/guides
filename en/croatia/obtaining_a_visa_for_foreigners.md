@@ -1,13 +1,17 @@
 ---
-title: "Obtaining a Visa for Foreigners"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Guide to Obtaining a Visa for Foreigners in Croatia"
-description: "A comprehensive guide for foreigners looking to obtain a visa in Croatia."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to obtain a visa in Croatia for living, working, studying,
+  or visiting. Understand visa types, application process, and required documents
+  in detail.
 draft: false
-translationKey: "croatia-obtaining_a_visa_for_foreigners"
+meta_title: 'Guide to Obtaining a Visa in Croatia: Types, Process, Documents'
+title: 'Guide to Obtaining a Visa in Croatia: Types, Process, Documents'
+translationKey: croatia-obtaining_a_visa_for_foreigners
 ---
+
 
 ## Description
 ### What is it?

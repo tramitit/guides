@@ -1,13 +1,16 @@
 ---
-title: "Company Formation"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This guide offers an overview of the process and requirements related to the formation of a company in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn the steps to legally incorporate a business in Austria as a limited
+  company. Discover required documents & essential providers with cost details.
 draft: false
-translationKey: "austria-company_formation"
+meta_title: 'Company Formation in Austria: Procedures & Necessary Documents'
+title: 'Company Formation in Austria: Procedures & Necessary Documents'
+translationKey: austria-company_formation
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Application for Greek Citizenship"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Greek Citizenship Application Guide"
-description: "A comprehensive guide on how to apply for Greek citizenship."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to apply for Greek citizenship through descent, marriage, or
+  residence. Find out eligibility, required documents, and the step-by-step procedure.
 draft: false
-translationKey: "greece-application_for_greek_citizenship"
+meta_title: 'Applying for Greek Citizenship: Eligibility and Steps'
+title: 'Applying for Greek Citizenship: Eligibility and Steps'
+translationKey: greece-application_for_greek_citizenship
 ---
+
 
 ## **Description**
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-issuance_of_drivers_license
-title: "Izdavanje vozačke dozvole u Hrvatskoj"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: "Kako dobiti vozačku dozvolu u Hrvatskoj"
-description: "Ovaj vodič pruža informacije o postupku dobivanja vozačke dozvole u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Saznajte korake za stjecanje vozačke dozvole u Hrvatskoj, potrebne dokumente
+  i preporuke za međunarodne stanovnike. Pružatelji usluga i dodatne informacije.
 draft: false
+meta_title: 'Kako dobivati vozačku dozvolu u Hrvatskoj: Postupak, dokumenti i upute'
+title: 'Kako dobivati vozačku dozvolu u Hrvatskoj: Postupak, dokumenti i upute'
+translationKey: croatia-issuance_of_drivers_license
 ---
+
 
 ## Opis
 ### Što je to?

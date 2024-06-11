@@ -1,13 +1,16 @@
 ---
-title: "Submitting pregnancy confirmation"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "This guide provides detailed instructions on how to submit pregnancy confirmation in different scenarios such as in workplaces and during travels."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn why & how to submit pregnancy confirmation, required documents,
+  providers, & rights. Get tips on deadlines & additional info for a smooth process.
 draft: false
-translationKey: "germany-submitting_pregnancy_confirmation"
+meta_title: 'Pregnancy Confirmation Procedure & Providers: Essential Guide'
+title: 'Pregnancy Confirmation Procedure & Providers: Essential Guide'
+translationKey: germany-submitting_pregnancy_confirmation
 ---
+
 
 ## Description
 ### What is it?

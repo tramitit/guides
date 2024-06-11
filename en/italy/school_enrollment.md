@@ -1,13 +1,16 @@
 ---
-title: "School Enrollment in Italy"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guide to School Enrollment in Italy"
-description: "An informative guide on the process of enrolling in Italian schools and universities."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Comprehensive guide on enrollment in Italian schools and universities
+  for foreign students. Includes procedures, required documents, and provider information.
 draft: false
-translationKey: "italy-school_enrollment"
+meta_title: Italy School Enrollment Guide for Foreign Students
+title: Italy School Enrollment Guide for Foreign Students
+translationKey: italy-school_enrollment
 ---
+
 
 ## Description
 ### What is it?

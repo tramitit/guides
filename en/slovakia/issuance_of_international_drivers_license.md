@@ -1,13 +1,16 @@
 ---
-title: "Issuance of International Driver's License"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Step by Step Guide for Issuing an International Driver's License for Driving in Slovakia"
-description: "Detailed process for obtaining an International Driving Permit (IDP), primarily for driving in Slovakia and other European countries."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn who needs an IDP, the procedure to apply including required documents,
+  providers, costs, and important details for driving abroad with an IDP.
 draft: false
-translationKey: "slovakia-issuance_of_international_drivers_license"
+meta_title: 'International Driver''s Permit: Application Process and Eligibility'
+title: 'International Driver''s Permit: Application Process and Eligibility'
+translationKey: slovakia-issuance_of_international_drivers_license
 ---
+
 
 ## Description
 ### What is it?

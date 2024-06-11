@@ -1,13 +1,16 @@
 ---
-title: "Student ID application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Step by Step Guide on Applying for Student ID in Hungary"
-description: "This guide provides a detailed overview of how to apply for a Student ID in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to apply for a Student ID card in Hungary. Obtain discounts
+  on public transport and benefits at facilities. Renewal required annually.
 draft: false
-translationKey: "hungary-student_id_application"
+meta_title: 'Student ID Card in Hungary: Application Process & Benefits'
+title: 'Student ID Card in Hungary: Application Process & Benefits'
+translationKey: hungary-student_id_application
 ---
+
 
 ## Description
 ### What is it?

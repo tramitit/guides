@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-registry_office_-_marriage
-title: "Matriční úřad - manželství"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Průvodce, jak zaregistrovat své manželství na matričním úřadě"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Průvodce procesem registrace manželství na úřadu v České republice. Požadované
+  dokumenty, postup, překlad, obřad. Pro cizince a dodatečné informace o jménění.
 draft: false
+meta_title: Registrace manželství na matričním úřadu v České republice
+title: Registrace manželství na matričním úřadu v České republice
+translationKey: czech republic-registry_office_-_marriage
 ---
+
 
 ## Popis
 ### Co to je?

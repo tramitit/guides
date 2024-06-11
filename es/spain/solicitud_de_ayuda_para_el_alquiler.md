@@ -1,13 +1,17 @@
 ---
-translationKey: spain-rental_assistance_application
-title: "Solicitud de Asistencia de Alquiler"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Esta es la descripción meta"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo pedir asistencia para el alquiler, incluyendo elegibilidad,
+  procedimiento, documentos requeridos y proveedores disponibles. Asegura tu hogar
+  hoy.
 draft: false
+meta_title: 'Cómo Solicitar Asistencia para el Alquiler: Guía Completa'
+title: 'Cómo Solicitar Asistencia para el Alquiler: Guía Completa'
+translationKey: spain-rental_assistance_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

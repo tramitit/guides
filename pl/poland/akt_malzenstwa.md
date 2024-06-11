@@ -1,13 +1,16 @@
 ---
-translationKey: poland-marriage_certificate
-title: "Akte ślubu w Polsce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "To jest przewodnik dotyczący uzyskania aktu ślubu w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak uzyskać oficjalne świadectwo małżeństwa w Polsce. Procedura,
+  wymagane dokumenty i informacje dla osób wziętych ślub za granicą.
 draft: false
+meta_title: 'Świadectwo Małżeństwa w Polsce: Procedura i Wymagane Dokumenty'
+title: 'Świadectwo Małżeństwa w Polsce: Procedura i Wymagane Dokumenty'
+translationKey: poland-marriage_certificate
 ---
+
 
 ## Opis
 ### Co to jest?

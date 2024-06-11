@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-issuance_of_marriage_certificate
-title: "Vydanie sobášneho osvedčenia na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Postup získania sobášneho osvedčenia na Slovensku"
-description: "Táto príručka vysvetľuje postup krok za krokom pri získaní sobášneho osvedčenia na Slovensku. Obsahuje profil žiadateľa, informácie o požadovanej dokumentácii a užitočné doplnkové detaily."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Zistite, ako získať manželský certifikát v Slovenskej republike. Požadované
+  dokumenty a postup na matričnom úrade sú uvedené v tomto návode.
 draft: false
+meta_title: 'Manželský certifikát na Slovensku: Požiadavky a postup'
+title: 'Manželský certifikát na Slovensku: Požiadavky a postup'
+translationKey: slovakia-issuance_of_marriage_certificate
 ---
+
 
 ## Popis
 ### Čo je to?

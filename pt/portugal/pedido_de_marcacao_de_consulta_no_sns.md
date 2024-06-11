@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_medical_appointment_at_sns
-title: "Pedido de Consulta Médica no SNS"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Pedido de Consulta Médica no SNS em Portugal"
-description: "Guia completo para solicitar uma consulta médica no SNS em Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como agendar consultas médicas no SNS de Portugal. Passo a passo
+  para residentes e não residentes com lista de documentos necessários.
 draft: false
+meta_title: 'Agendar Consulta Médica no SNS: Guia Completo e Passo a Passo'
+title: 'Agendar Consulta Médica no SNS: Guia Completo e Passo a Passo'
+translationKey: portugal-request_for_medical_appointment_at_sns
 ---
+
 
 ## Descrição
 ### O que é?

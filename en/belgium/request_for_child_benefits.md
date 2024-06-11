@@ -1,13 +1,16 @@
 ---
-title: "Request for Child Benefits"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Detailed Guide to Request Child Benefits in Belgium"
-description: "Guide that gives a step-by-step procedure on the process of requesting child benefits in Belgium."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Discover how parents living in Belgium can claim child benefits, what
+  documents are needed, and key details like provider options and eligibility criteria.
 draft: false
-translationKey: "belgium-request_for_child_benefits"
+meta_title: 'Child Benefit in Belgium: How to Claim and Important Details'
+title: 'Child Benefit in Belgium: How to Claim and Important Details'
+translationKey: belgium-request_for_child_benefits
 ---
+
 
 ## Description
 ### What is it?

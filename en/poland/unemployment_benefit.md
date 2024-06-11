@@ -1,13 +1,16 @@
 ---
-title: "Unemployment benefit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Unemployment Benefit in Poland: A Detailed Guide"
-description: "A comprehensive guide to understanding and claiming unemployment benefits in Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn about eligibility, required documents, and providers for unemployment
+  benefits in Poland. Stay informed to navigate the job-hunting process smoothly.
 draft: false
-translationKey: "poland-unemployment_benefit"
+meta_title: 'Unemployment Benefit in Poland: Financial Support for Job Seekers'
+title: 'Unemployment Benefit in Poland: Financial Support for Job Seekers'
+translationKey: poland-unemployment_benefit
 ---
+
 
 ## Description
 ### What is it?

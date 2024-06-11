@@ -1,13 +1,17 @@
 ---
-translationKey: bulgaria-filing_a_complaint
-title: "Подаване на жалба"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Стъпка по стъпка процедура за подаване на жалба в България"
-description: "Полезно ръководство, което помага на всеки, който търси как да регистрира жалба в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Узнайте как да подадете жалба в България, кой има нужда от нея и как
+  да се свържете с различни органи. Изисквани документи и подходящи доставчици за
+  жалбите ви.
 draft: false
+meta_title: 'Подаване на жалба в България: Процедура и Доставчици'
+title: 'Подаване на жалба в България: Процедура и Доставчици'
+translationKey: bulgaria-filing_a_complaint
 ---
+
 
 ## Описание
 ### Какво е това?

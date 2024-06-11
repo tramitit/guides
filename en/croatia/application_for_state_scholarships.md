@@ -1,13 +1,17 @@
 ---
-title: "Application for State Scholarships"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Detailed guide on how to apply for state scholarships"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Discover state scholarships for college/university, learn application
+  steps, document requirements. Get tips for a successful scholarship application
+  process.
 draft: false
-translationKey: "croatia-application_for_state_scholarships"
+meta_title: 'State Scholarships Guide: How to Apply and Required Documents'
+title: 'State Scholarships Guide: How to Apply and Required Documents'
+translationKey: croatia-application_for_state_scholarships
 ---
+
 
 ## Description
 

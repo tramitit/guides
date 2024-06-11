@@ -1,13 +1,16 @@
 ---
-title: "Registration of a humanitarian residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn the steps to apply for humanitarian residence, including who needs
+  it, required documents, and where to seek help from expert providers.
 draft: false
-translationKey: "slovakia-registration_of_a_humanitarian_residence"
+meta_title: Understanding and Applying for Humanitarian Residence
+title: Understanding and Applying for Humanitarian Residence
+translationKey: slovakia-registration_of_a_humanitarian_residence
 ---
+
 
 ## Description
 ### What is it?

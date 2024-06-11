@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_proof_of_residence
-title: "Verzoek om bewijs van verblijfplaats"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Dit is een gedetailleerde gids over hoe u een bewijs van verblijfplaats kunt aanvragen en verkrijgen, wat vereist kan zijn voor een aantal administratieve procedures, waaronder het openen van een bankrekening, immigreren naar een nieuw land, of het aanvragen van burgerschap."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek hoe je een Bewijs van Woonplaats verkrijgt voor migratie, financiële
+  zaken of staatsburgerschap. Leer de procedure en benodigde documenten kennen.
 draft: false
+meta_title: 'Bewijs van Woonplaats: Procedure, Documenten, Dienstverleners'
+title: 'Bewijs van Woonplaats: Procedure, Documenten, Dienstverleners'
+translationKey: belgium-request_for_proof_of_residence
 ---
+
 
 ## Beschrijving
 ### Wat is het?

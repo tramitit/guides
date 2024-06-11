@@ -1,13 +1,16 @@
 ---
-translationKey: germany-application_for_a_drivers_license
-title: "Beantragung eines Führerscheins in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Wie man einen deutschen Führerschein beantragt"
-description: "Ein Schritt-für-Schritt-Leitfaden zur Beantragung eines Führerscheins in Deutschland"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie ausländische Bewohner in Deutschland einen deutschen
+  Führerschein beantragen können. Schritte, Dokumente und Anbieter im Detail erklärt.
 draft: false
+meta_title: 'Deutscher Führerschein beantragen: Prozess und Anforderungen'
+title: 'Deutscher Führerschein beantragen: Prozess und Anforderungen'
+translationKey: germany-application_for_a_drivers_license
 ---
+
 
 ## Beschreibung
 ### Was ist das?

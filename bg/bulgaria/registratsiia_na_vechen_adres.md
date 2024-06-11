@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-permanent_address_registration
-title: "Регистрация на постоянен адрес в България"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Регистрация на постоянен адрес в България: Процедура и изисквания"
-description: "Ръководство за регистрация на постоянен адрес в България за чужденци и граждани на ЕС."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Изучете как да регистрирате постоянен адрес в България, кой го нуждае,
+  необходимите документи и процедурата. Получете съвет от провайдъри и срокове.
 draft: false
+meta_title: 'Регистрация на постоянен адрес в България: процедура и документи'
+title: 'Регистрация на постоянен адрес в България: процедура и документи'
+translationKey: bulgaria-permanent_address_registration
 ---
+
 
 ## Описание
 ### Какво е това?

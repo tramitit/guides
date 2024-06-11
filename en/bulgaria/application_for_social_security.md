@@ -1,13 +1,16 @@
 ---
-title: "Application for Social Security"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Apply for Social Security in Bulgaria"
-description: "Comprehensive guide to apply for Social Security in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Descubre cómo solicitar beneficios de Seguridad Social en Bulgaria, incluyendo
+  los documentos requeridos y los pasos del proceso.
 draft: false
-translationKey: "bulgaria-application_for_social_security"
+meta_title: 'Guía de Seguridad Social en Bulgaria: Beneficios y Procedimientos'
+title: 'Guía de Seguridad Social en Bulgaria: Beneficios y Procedimientos'
+translationKey: bulgaria-application_for_social_security
 ---
+
 
 ## Description
 ### What is it?

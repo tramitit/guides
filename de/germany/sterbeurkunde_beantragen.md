@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_a_death_certificate
-title: "Beantragung einer Sterbeurkunde in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dies ist die Metabeschreibung"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie man eine Sterbeurkunde beantragt. Schritt-für-Schritt
+  Anleitung, benötigte Dokumente und Unterstützungsdienste in Zeiten der Trauer.
 draft: false
+meta_title: 'Sterbeurkunde beantragen: Verfahren & erforderliche Dokumente'
+title: 'Sterbeurkunde beantragen: Verfahren & erforderliche Dokumente'
+translationKey: germany-applying_for_a_death_certificate
 ---
+
 
 ## Beschreibung
 ### Was ist es?

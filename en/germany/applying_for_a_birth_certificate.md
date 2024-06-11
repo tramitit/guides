@@ -1,13 +1,16 @@
 ---
-title: "Applying for a Birth Certificate in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Step-by-step Guide to Applying for a Birth Certificate in Germany"
-description: "A comprehensive guide to applying for a birth certificate in Germany, the required documents, and the procedure involved."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to request a birth certificate from a Standesamt in Germany
+  to prove citizenship & identity. Include required documents and procedure details.
 draft: false
-translationKey: "germany-applying_for_a_birth_certificate"
+meta_title: Obtaining a Birth Certificate in Germany for Citizenship Proof
+title: Obtaining a Birth Certificate in Germany for Citizenship Proof
+translationKey: germany-applying_for_a_birth_certificate
 ---
+
 
 ## Description
 ### What is it?

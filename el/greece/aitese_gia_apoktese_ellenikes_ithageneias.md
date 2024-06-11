@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_greek_citizenship
-title: "Αίτηση για Ελληνική Υπηκοότητα"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Οδηγός Αίτησης για Ελληνική Υπηκοότητα"
-description: "Ένας αναλυτικός οδηγός για το πως να υποβάλετε αίτηση για Ελληνική υπηκοότητα."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε ποιοι χρειάζονται την ελληνική υπηκοότητα και πώς να υποβάλετε
+  αίτηση. Απαιτούμενα έγγραφα και διαδικασία υποβολής αιτήσεων.
 draft: false
+meta_title: 'Αίτηση Ελληνικής Υπηκοότητας: Απαιτήσεις και Διαδικασία'
+title: 'Αίτηση Ελληνικής Υπηκοότητας: Απαιτήσεις και Διαδικασία'
+translationKey: greece-application_for_greek_citizenship
 ---
+
 
 ## **Περιγραφή**
 ### Τι είναι αυτό;

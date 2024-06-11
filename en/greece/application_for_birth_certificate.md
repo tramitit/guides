@@ -1,13 +1,16 @@
 ---
-title: "Application for Birth Certificate in Greece"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Instructions on how to apply for a birth certificate in Greece for the purposes of documenting identity, citizenship, or genealogical history."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to get a birth certificate in Greece, including procedures,
+  necessary documents, and where to apply. Find out more for dual citizenship.
 draft: false
-translationKey: "greece-application_for_birth_certificate"
+meta_title: 'Obtaining a Greek Birth Certificate: Process, Requirements'
+title: 'Obtaining a Greek Birth Certificate: Process, Requirements'
+translationKey: greece-application_for_birth_certificate
 ---
+
 
 ## Description
 ### What is it?

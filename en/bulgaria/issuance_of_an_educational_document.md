@@ -1,13 +1,16 @@
 ---
-title: "Issuance of an educational document"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Guidelines for Issuing Educational Documents in Bulgaria: A Step-By-Step Process"
-description: "A comprehensive guide on how to issue educational documents in Bulgaria."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to request official academic records from your educational
+  institution. Ensure you have the necessary documents and fees ready for processing.
 draft: false
-translationKey: "bulgaria-issuance_of_an_educational_document"
+meta_title: 'Issuing Educational Documents: Procedure and Requirements'
+title: 'Issuing Educational Documents: Procedure and Requirements'
+translationKey: bulgaria-issuance_of_an_educational_document
 ---
+
 
 ## Description
 ### What is it?

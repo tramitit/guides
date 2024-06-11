@@ -1,13 +1,16 @@
 ---
-title: "Request for death certificates"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Request for death certificates in Hungary"
-description: "Detailed steps on how to request for death certificates in Hungary"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to obtain a Hungarian death certificate from NYAK, including
+  required documents, timelines, costs. Details on genealogy research included.
 draft: false
-translationKey: "hungary-request_for_death_certificates"
+meta_title: 'Hungary Death Certificate: Procedure, Documents & Providers'
+title: 'Hungary Death Certificate: Procedure, Documents & Providers'
+translationKey: hungary-request_for_death_certificates
 ---
+
 
 ## Description
 ### What is it?

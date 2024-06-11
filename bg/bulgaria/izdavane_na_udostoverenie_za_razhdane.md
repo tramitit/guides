@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-issuance_of_a_birth_certificate
-title: "Издаване на рожден сертификат"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Издаване на рожден сертификат в България: Подробно ръководство"
-description: "Подробно ръководство за това как да се получи издаване на рожден сертификат в България. Определяме стъпките, необходимите документи и разходите, свързани с това."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да получите официално свидетелство за раждане в България.
+  Изисквани документи, процедури и важни детайли за българските граждани.
 draft: false
+meta_title: 'Свидетелство за раждане в България: процедура и документи'
+title: 'Свидетелство за раждане в България: процедура и документи'
+translationKey: bulgaria-issuance_of_a_birth_certificate
 ---
+
 
 ## Описание
 

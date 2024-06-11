@@ -1,13 +1,16 @@
 ---
-title: "Change of Residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guide to Change of Residence in Italy"
-description: "Step by step guide to manage change of residence, adjust to new financial regulations and update your details with service providers."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Guía completa sobre el cambio de residencia, pasos esenciales y documentos
+  necesarios para una transición sin problemas a un nuevo domicilio.
 draft: false
-translationKey: "italy-change_of_residence"
+meta_title: 'Cambio de residencia: Procedimientos y documentos necesarios'
+title: 'Cambio de residencia: Procedimientos y documentos necesarios'
+translationKey: italy-change_of_residence
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: france-daycare_registration
-title: "Inscription à la garderie"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Un guide sur la manière d'inscrire votre enfant à la garderie"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment inscrire vos enfants à une garderie canadienne, du
+  choix du fournisseur aux documents nécessaires. Assurance qualité et tarifs inclus.
 draft: false
+meta_title: 'Inscription à la Garderie au Canada: Processus et Docs Requis'
+title: 'Inscription à la Garderie au Canada: Processus et Docs Requis'
+translationKey: france-daycare_registration
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

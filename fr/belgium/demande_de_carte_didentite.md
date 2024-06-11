@@ -1,13 +1,17 @@
 ---
-translationKey: belgium-request_for_identity_card
-title: "Demande de carte d'identité"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Comment demander une carte d'identité en Belgique"
-description: "Procédure étape par étape sur la manière de demander une carte d'identité belge."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez comment obtenir la carte d'identité belge (eID), qui en a besoin,
+  la procédure, les documents requis et les détails à connaître. Renseignez-vous ici
+  !
 draft: false
+meta_title: 'Obtenir la Carte d''Identité Belge (eID) : Quoi, Qui, Comment'
+title: 'Obtenir la Carte d''Identité Belge (eID) : Quoi, Qui, Comment'
+translationKey: belgium-request_for_identity_card
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est ?

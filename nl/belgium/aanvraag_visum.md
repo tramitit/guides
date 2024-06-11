@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_visa
-title: "Aanvraag voor visum"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Aanvraag voor Belgisch Visum: Een uitgebreide gids"
-description: "Deze gids geeft een overzicht van de procedure voor de aanvraag van een Belgisch visum"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Leer hoe u een Belgisch visum aanvraagt, vereiste documenten, procedure
+  bij VFS Global, kosten en aanvullende details. Plan uw verblijf in België met gemak.
 draft: false
+meta_title: 'Belgisch Visum: Vereisten, Procedure & Dienstverleners'
+title: 'Belgisch Visum: Vereisten, Procedure & Dienstverleners'
+translationKey: belgium-request_for_visa
 ---
+
 
 ## Beschrijving
 ### Wat is het?

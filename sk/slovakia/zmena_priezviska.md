@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-change_of_surname
-title: "Zmena priezviska na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Sprievodca zmenou priezviska na Slovensku"
-description: "Tento komplexný sprievodca poskytuje postup krok za krokom, ako zmeniť svoje priezvisko na Slovensku. Obsahuje zoznam potrebných dokumentov, právne postupy, ako aj potenciálnych poskytovateľov, ktorí môžu pomôcť s procesom."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Zistite postup a potrebné dokumenty pre zmenu priezviska na Slovensku.
+  Dôležité informácie o časových harmonogramoch, nákladoch a dodatočných krokoch.
 draft: false
+meta_title: 'Zmena Priezviska na Slovensku: Postup, Doklady, Podrobnosti'
+title: 'Zmena Priezviska na Slovensku: Postup, Doklady, Podrobnosti'
+translationKey: slovakia-change_of_surname
 ---
+
 
 ## Popis
 ### Čo to je?

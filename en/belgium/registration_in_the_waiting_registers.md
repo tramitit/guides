@@ -1,13 +1,16 @@
 ---
-title: "Registration in the waiting registers"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to register for event waiting lists like Tomorrowland's, get
+  updates, and avoid scams. Requirements may vary, so follow official procedures.
 draft: false
-translationKey: "belgium-registration_in_the_waiting_registers"
+meta_title: 'Event Waiting List Registration: How to Sign Up and What to Expect'
+title: 'Event Waiting List Registration: How to Sign Up and What to Expect'
+translationKey: belgium-registration_in_the_waiting_registers
 ---
+
 
 ## Description
 ### What is it?

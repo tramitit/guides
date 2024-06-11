@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_provisional_driving_license
-title: "Αίτηση για Προσωρινή Άδεια Οδήγησης"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Οδηγός βήμα προς βήμα για την υποβολή αίτησης για Προσωρινή Άδεια Οδήγησης στο Ηνωμένο Βασίλειο για κάποιον που κατοικεί στην Ελλάδα"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε πώς να αποκτήσετε προσωρινό δίπλωμα οδήγησης στο Ηνωμένο Βασίλειο
+  αν είστε κάτοικος της Ελλάδας. Απαιτούμενα έγγραφα και χρονοδιαγράμματα.
 draft: false
+meta_title: Προσωρινό Δίπλωμα Οδήγησης για κατοίκους Ελλάδας στο Ηνωμένο Βασίλειο
+title: Προσωρινό Δίπλωμα Οδήγησης για κατοίκους Ελλάδας στο Ηνωμένο Βασίλειο
+translationKey: greece-application_for_provisional_driving_license
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

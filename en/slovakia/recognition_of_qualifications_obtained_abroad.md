@@ -1,13 +1,16 @@
 ---
-title: "Recognition of qualifications obtained abroad"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Guide to Recognition of Qualifications obtained Abroad"
-description: "A step-by-step guide to get your international qualifications recognized abroad."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Discover how to get your foreign qualifications validated for study or
+  work abroad. Learn about required documents and key steps in the recognition process.
 draft: false
-translationKey: "slovakia-recognition_of_qualifications_obtained_abroad"
+meta_title: 'Foreign Qualifications Recognition: Procedures and Providers'
+title: 'Foreign Qualifications Recognition: Procedures and Providers'
+translationKey: slovakia-recognition_of_qualifications_obtained_abroad
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Building Permit Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This guide provides a detailed step-by-step procedure on how to request a building permit in Italy"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to obtain a building permit in Italy, required documents, procedure
+  steps, and providers available. Prepare for the complex bureaucratic process.
 draft: false
-translationKey: "italy-building_permit_request"
+meta_title: 'Building Permit in Italy: Process, Documents & Providers'
+title: 'Building Permit in Italy: Process, Documents & Providers'
+translationKey: italy-building_permit_request
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "IRPEF Refund Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guide to Requesting IRPEF Refund in Italy"
-description: "A comprehensive guide detailing step by step how to request an IRPEF refund in Italy."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to claim a tax refund in Italy for overpaid IRPEF taxes. Steps,
+  required documents, timelines, and tips for a successful refund request included.
 draft: false
-translationKey: "italy-irpef_refund_request"
+meta_title: 'IRPEF Tax Refund in Italy: Request Process for Overpaid Taxes'
+title: 'IRPEF Tax Refund in Italy: Request Process for Overpaid Taxes'
+translationKey: italy-irpef_refund_request
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: spain-health_card_application
-title: "Solicitud de Tarjeta Sanitaria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Cómo Solicitar una Tarjeta Sanitaria en España"
-description: "Guía paso a paso sobre cómo solicitar una tarjeta sanitaria en España, también conocida como la 'Tarjeta Sanitaria Europea'."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar la Tarjeta Sanitaria Europea en España como residente,
+  trabajador o visitante, y los documentos necesarios para el proceso.
 draft: false
+meta_title: 'Tarjeta Sanitaria en España: Cómo obtenerla y requisitos'
+title: 'Tarjeta Sanitaria en España: Cómo obtenerla y requisitos'
+translationKey: spain-health_card_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

@@ -1,13 +1,16 @@
 ---
-title: "Application for disability card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Step-By-Step Guide to Apply for a Disability Card in Greece"
-description: "This guide provides a comprehensive step-by-step procedure to apply for a disability card in Greece."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τη διαδικασία έκδοσης κάρτας αναπηρίας στην Ελλάδα. Οδηγίες για
+  έγγραφα και απαιτούμενα βήματα για να επωφεληθείτε από τα προνόμια.
 draft: false
-translationKey: "greece-application_for_disability_card"
+meta_title: 'Πώς να πάρετε την κάρτα αναπηρίας στην Ελλάδα: Οδηγίες'
+title: 'Πώς να πάρετε την κάρτα αναπηρίας στην Ελλάδα: Οδηγίες'
+translationKey: greece-application_for_disability_card
 ---
+
 
 ## Description
 ### What is it?

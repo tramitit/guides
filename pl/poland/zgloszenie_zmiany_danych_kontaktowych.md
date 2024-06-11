@@ -1,13 +1,16 @@
 ---
-translationKey: poland-notification_of_change_in_contact_details
-title: "Powiadomienie o zmianie danych kontaktowych"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Powiadomienie o zmianie danych kontaktowych: Kompleksowy przewodnik"
-description: "Ten kompleksowy przewodnik szczegółowo omawia, jak poinformować podmioty o zmianie danych kontaktowych, takich jak numer telefonu, adres e-mail czy adres." 
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Przewodnik krok po kroku dla zmiany adresu, emaila, telefonu. Dostawcy,
+  dokumenty i dodatkowa uwaga. Zaktualizuj dane w instytucjach offline i online.
 draft: false
+meta_title: 'Aktualizacja Danych Kontaktowych: Procedura i Wymagane Dokumenty'
+title: 'Aktualizacja Danych Kontaktowych: Procedura i Wymagane Dokumenty'
+translationKey: poland-notification_of_change_in_contact_details
 ---
+
 
 ## Opis
 ### Co to jest?

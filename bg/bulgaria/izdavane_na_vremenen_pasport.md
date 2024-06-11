@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-issuance_of_a_temporary_passport
-title: "Издаване на временен паспорт"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Това е постъпково ръководство за получаване на временен паспорт"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да получите временен паспорт при загуба или повреда на стария
+  си. Изисквания за документи, процедура и важни детайли за валидността му.
 draft: false
+meta_title: 'Временен паспорт: Процедура, изисквания и допълнителни детайли'
+title: 'Временен паспорт: Процедура, изисквания и допълнителни детайли'
+translationKey: bulgaria-issuance_of_a_temporary_passport
 ---
+
 
 ## Описание
 ### Какво е това?

@@ -1,13 +1,16 @@
 ---
-title: "Social Insurance Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This guide provides a step by step procedure on how to register for social insurance in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to register for social insurance in Austria, required documents,
+  and procedures for both employed and self-employed individuals.
 draft: false
-translationKey: "austria-social_insurance_registration"
+meta_title: Comprehensive Guide to Social Insurance Registration in Austria
+title: Comprehensive Guide to Social Insurance Registration in Austria
+translationKey: austria-social_insurance_registration
 ---
+
 
 ## Description
 ### What is it?

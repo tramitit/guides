@@ -1,13 +1,16 @@
 ---
-translationKey: poland-building_permit
-title: "Pozwolenie na Budowę"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Przewodnik po Pozyskaniu Pozwolenia na Budowę w Polsce"
-description: "Kompleksowy przewodnik po uzyskaniu pozwolenia na budowę w Polsce, obejmujący procedurę, wymagane dokumenty i inne istotne szczegóły."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak uzyskać oficjalną zgodę na budowę od lokalnego organu
+  rządowego w Polsce. Wymagane dokumenty, procedury i istotne informacje.
 draft: false
+meta_title: 'Pozwolenie na Budowę w Polsce: Procedura, Dokumenty, Porady'
+title: 'Pozwolenie na Budowę w Polsce: Procedura, Dokumenty, Porady'
+translationKey: poland-building_permit
 ---
+
 
 ## Opis
 ### Co to jest?

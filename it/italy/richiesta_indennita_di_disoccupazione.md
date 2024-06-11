@@ -1,13 +1,16 @@
 ---
-translationKey: italy-unemployment_benefits_request
-title: "Richiesta di sussidio di disoccupazione"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Richiesta di sussidio di disoccupazione in Italia"
-description: "Una guida dettagliata su come richiedere il sussidio di disoccupazione in Italia"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: 'Scopri come richiedere l''indennità di disoccupazione in Italia (NASpI):
+  requisiti, procedura di domanda, documenti necessari e dettagli importanti da conoscere.'
 draft: false
+meta_title: 'Guida alla NASpI in Italia: Requisiti, Procedura e Documenti Richiesti'
+title: 'Guida alla NASpI in Italia: Requisiti, Procedura e Documenti Richiesti'
+translationKey: italy-unemployment_benefits_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

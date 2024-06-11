@@ -1,14 +1,16 @@
 ---
-
-title: "Filing for divorce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This is a detailed guide on how to file for a divorce in Slovakia."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn the divorce filing procedure, required documents, and providers.
+  Get legal advice before ending your marriage. Ensure all details are covered.
 draft: false
-translationKey: "slovakia-filing_for_divorce"
+meta_title: 'Divorce Filing: Procedure, Documents, and Providers'
+title: 'Divorce Filing: Procedure, Documents, and Providers'
+translationKey: slovakia-filing_for_divorce
 ---
+
 
 ## Description
 ### What is it?

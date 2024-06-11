@@ -1,13 +1,16 @@
 ---
-title: "Marriage certificate application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Marriage Certificate Application Guide in Hungary"
-description: "A comprehensive guide on how to apply for a Marriage Certificate in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to apply for a Marriage Certificate in Hungary. Understand
+  the steps, required documents, and essential information to complete the process.
 draft: false
-translationKey: "hungary-marriage_certificate_application"
+meta_title: Marriage Certificate Application Process in Hungary Explained
+title: Marriage Certificate Application Process in Hungary Explained
+translationKey: hungary-marriage_certificate_application
 ---
+
 
 ## Description
 ### What is it?

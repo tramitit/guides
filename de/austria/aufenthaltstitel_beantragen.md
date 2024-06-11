@@ -1,13 +1,16 @@
 ---
-translationKey: austria-residence_permit_application
-title: "Aufenthaltstitelantrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Leitfaden zum Aufenthaltstitelantrag in Österreich"
-description: "Ein Schritt-für-Schritt-Leitfaden zur Beantragung eines Aufenthaltstitels in Österreich, basierend auf eigenen Erfahrungen und Ratschlägen."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: 'Alles über Aufenthaltstitel in Österreich: Wer braucht ihn, erforderliche
+  Dokumente und Schritte zu einem reibungslosen Antragsprozess.'
 draft: false
+meta_title: Erhalten Sie Ihren Aufenthaltstitel für Österreich problemlos
+title: Erhalten Sie Ihren Aufenthaltstitel für Österreich problemlos
+translationKey: austria-residence_permit_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

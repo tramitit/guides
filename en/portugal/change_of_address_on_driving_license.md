@@ -1,13 +1,16 @@
 ---
-title: "Change of Address on Driving License"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "A step-by-step guide on how to change the address on your driving license."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to change your address on your driving license, including required
+  forms and documents. Failure to update may lead to fines or penalties.
 draft: false
-translationKey: "portugal-change_of_address_on_driving_license"
+meta_title: 'Updating Driving License Address: Procedure & Documents'
+title: 'Updating Driving License Address: Procedure & Documents'
+translationKey: portugal-change_of_address_on_driving_license
 ---
+
 
 ## Description
 ### What is it?

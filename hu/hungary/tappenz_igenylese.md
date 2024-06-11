@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-sick_pay_application
-title: "Betegszabadság kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Hogyan lehet jelentkezni betegszabadságra"
-description: "Lépésről lépésre eljárás, hogyan lehet jelentkezni betegszabadságra"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: 'Betegszabadság: betegség miatti alkalmazotti szabadság fizetéssel. Ismerd
+  meg a jelentkezés folyamatát. Orvosi igazolás, űrlap szükséges.'
 draft: false
+meta_title: Betegszabadság Eljárásai és Szükséges Dokumentumok
+title: Betegszabadság Eljárásai és Szükséges Dokumentumok
+translationKey: hungary-sick_pay_application
 ---
+
 
 ## Leírás
 ### Mi is ez?

@@ -1,13 +1,16 @@
 ---
-title: "Request for identity card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "How to Request for an Identity Card in Belgium"
-description: "Step by step procedure on how to request for a Belgian identity card."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to apply for a Belgian eID card, its importance, renewal procedures,
+  and regulations. Find out who needs it and where to get one.
 draft: false
-translationKey: "belgium-request_for_identity_card"
+meta_title: 'Belgian eID Card: Application, Renewal, and Regulations'
+title: 'Belgian eID Card: Application, Renewal, and Regulations'
+translationKey: belgium-request_for_identity_card
 ---
+
 
 ## Description
 ### What is it?

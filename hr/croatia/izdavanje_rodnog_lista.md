@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-issuance_of_birth_certificate
-title: "Izdavanje rodne svjedodžbe"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Izdavanje hrvatske rodne svjedodžbe"
-description: "Vaš sveobuhvatan vodič za podnošenje zahtjeva za rodnu svjedodžbu u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako dobiti hrvatski rodni list, potrebne dokumente i opcije
+  za posredovanje. Osigurajte valjanost identifikacije za pravne postupke.
 draft: false
+meta_title: 'Rodni list u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga'
+title: 'Rodni list u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga'
+translationKey: croatia-issuance_of_birth_certificate
 ---
+
 
 ## Opis
 ### Što je to?

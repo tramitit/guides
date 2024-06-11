@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_a_driving_license
-title: "Aanvraag voor een Rijbewijs in België"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Een Belgisch Rijbewijs verkrijgen - Stap voor Stap Gids"
-description: "Een stapsgewijze handleiding over hoe je een rijbewijs in België kunt verkrijgen."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek de stappen voor het verkrijgen van een Belgisch rijbewijs, vereiste
+  documenten en aanbieders. Informatie voor inwoners en buitenlanders in België.
 draft: false
+meta_title: 'Rijbewijs in België: Procedure, Benodigde Documenten & Aanbieders'
+title: 'Rijbewijs in België: Procedure, Benodigde Documenten & Aanbieders'
+translationKey: belgium-request_for_a_driving_license
 ---
+
 
 ## Beschrijving
 ### Wat is het?

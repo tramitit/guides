@@ -1,13 +1,16 @@
 ---
-title: "Naturalization application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide to French Naturalization Application"
-description: "Step by Step Guide to apply for French Naturalization including procedures and required documents"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Understand the steps, requirements, and timelines for the naturalization
+  process in France. Learn who needs it and the essential documents.
 draft: false
-translationKey: "france-naturalization_application"
+meta_title: 'French Naturalization Process: How to Become a Citizen'
+title: 'French Naturalization Process: How to Become a Citizen'
+translationKey: france-naturalization_application
 ---
+
 
 ## Description
 ### What is it?

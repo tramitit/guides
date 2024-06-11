@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_id_issuance
-title: "Αίτηση για έκδοση αστυνομικής ταυτότητας"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Αυτή είναι η μετα-περιγραφή"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Αναλύουμε τη διαδικασία αίτησης αστυνομικού διαβατηρίου στην Ελλάδα για
+  ελληνικούς και μη πολίτες. Απαιτούμενα έγγραφα, φορείς και χρήσιμες πληροφορίες.
 draft: false
+meta_title: Οδηγός για Απόκτηση Αστυνομικού Διαβατηρίου στην Ελλάδα
+title: Οδηγός για Απόκτηση Αστυνομικού Διαβατηρίου στην Ελλάδα
+translationKey: greece-application_for_id_issuance
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

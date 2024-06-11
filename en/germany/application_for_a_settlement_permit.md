@@ -1,13 +1,16 @@
 ---
-title: "Application for a Settlement Permit in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Step-by-step Guide to Applying for Settlement Permit in Germany"
-description: "This is a comprehensive guide for procedures, documents, and timelines when applying for a settlement permit in Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn the steps to obtain a Settlement Permit for Germany, including
+  required documents and procedures. Consult experts for personalized guidance.
 draft: false
-translationKey: "germany-application_for_a_settlement_permit"
+meta_title: German Settlement Permit (Niederlassungserlaubnis) Process
+title: German Settlement Permit (Niederlassungserlaubnis) Process
+translationKey: germany-application_for_a_settlement_permit
 ---
+
 
 ## Description
 ### What is it?

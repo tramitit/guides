@@ -1,13 +1,16 @@
 ---
-title: "Temporary address registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Temporary address registration in Bulgaria"
-description: "A step by step guide to the process of temporary address registration in Bulgaria, its requirements and procedure"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to register your temporary address in Bulgaria for short stays
+  as a foreigner. Process, required documents, and legal considerations included.
 draft: false
-translationKey: "bulgaria-temporary_address_registration"
+meta_title: 'Temporary Address Registration in Bulgaria: Procedure & Documents'
+title: 'Temporary Address Registration in Bulgaria: Procedure & Documents'
+translationKey: bulgaria-temporary_address_registration
 ---
+
 
 ## Description
 ### What is it?

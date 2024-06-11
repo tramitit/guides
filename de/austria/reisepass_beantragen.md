@@ -1,13 +1,17 @@
 ---
-translationKey: austria-passport_application
-title: "Passantrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Verfahren für die Passbeantragung"
-description: "Ausführlicher Leitfaden zum Passantragsprozess mit erforderlichen Dokumenten und Zeitplänen."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihren Reisepass beantragen oder erneuern. Alles
+  über erforderliche Dokumente, Verfahren, Zeitpläne und Kosten für internationale
+  Reisen.
 draft: false
+meta_title: Reisepass - Beantragung und Erneuerung für Auslandsreisen
+title: Reisepass - Beantragung und Erneuerung für Auslandsreisen
+translationKey: austria-passport_application
 ---
+
 
 ## Beschreibung
 ### Was ist es?

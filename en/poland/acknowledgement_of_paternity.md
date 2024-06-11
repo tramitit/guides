@@ -1,14 +1,16 @@
 ---
-
-title: "Acknowledgement of Paternity"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Acknowledgement of Paternity in Poland"
-description: "This is a step-by-step guide to understanding the process of acknowledgement of paternity in Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to claim paternal rights and responsibilities for a child through
+  acknowledgment of paternity. Find out who needs it and the procedures involved.
 draft: false
-translationKey: "poland-acknowledgement_of_paternity"
+meta_title: 'Acknowledgment of Paternity: Establishing Rights & Responsibilities'
+title: 'Acknowledgment of Paternity: Establishing Rights & Responsibilities'
+translationKey: poland-acknowledgement_of_paternity
 ---
+
 
 ## Description
 ### What is it?

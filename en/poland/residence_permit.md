@@ -1,13 +1,16 @@
 ---
-title: "Residence Permit (Karta Pobytu) in Poland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Guide to Obtaining a Residence Permit in Poland"
-description: "An overview on what a Polish residence permit is, who needs it, the procedure of getting one, and essential documents required."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to get a Karta Pobytu in Poland to stay legally, work, study,
+  and open a bank account. Find out the process, documents needed, and key details.
 draft: false
-translationKey: "poland-residence_permit"
+meta_title: 'Poland Residence Permit (Karta Pobytu): Guide & Requirements'
+title: 'Poland Residence Permit (Karta Pobytu): Guide & Requirements'
+translationKey: poland-residence_permit
 ---
+
 
 ## Description
 

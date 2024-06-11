@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-drivers_license_application
-title: "Jogosítvány kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Jogosítvány kérelem Magyarországon"
-description: "Egy részletes útmutató arról, hogyan lehet jogosítványt igényelni Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn about the process of obtaining a driver's license in Hungary, including
+  medical exams, theory and practical lessons, exams, and necessary documents.
 draft: false
+meta_title: 'How to Get a Hungarian Driver''s License: Process and Requirements'
+title: 'How to Get a Hungarian Driver''s License: Process and Requirements'
+translationKey: hungary-drivers_license_application
 ---
+
 
 ## Leírás
 ### Mi is ez?

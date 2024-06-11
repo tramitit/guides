@@ -1,13 +1,16 @@
 ---
-title: "Change of registration certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "A thorough guide on how to change your registration certificate in Poland, covering steps, required documents, and more."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to modify vehicle registration info in Poland due to relocation,
+  ownership change, or vehicle alterations. Find required docs and steps here.
 draft: false
-translationKey: "poland-change_of_registration_certificate"
+meta_title: 'Change of Registration Certificate in Poland: Process & Requirements'
+title: 'Change of Registration Certificate in Poland: Process & Requirements'
+translationKey: poland-change_of_registration_certificate
 ---
+
 
 ## Description
 ### What is it?

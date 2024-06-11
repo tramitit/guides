@@ -1,13 +1,16 @@
 ---
-title: "Paternity acknowledgment"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Paternity Acknowledgment - Step by Step Guide and Required Documents"
-description: "This guide provides detailed information on the procedure for acknowledgment of paternity in Germany"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to legally recognize paternity in Germany, impacting citizenship,
+  inheritance, and custody rights. Step-by-step guide and required documents.
 draft: false
-translationKey: "germany-paternity_acknowledgment"
+meta_title: 'Paternity Acknowledgment in Germany: Process and Documents'
+title: 'Paternity Acknowledgment in Germany: Process and Documents'
+translationKey: germany-paternity_acknowledgment
 ---
+
 
 ## Description
 ### What is it?

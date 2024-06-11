@@ -1,13 +1,16 @@
 ---
-title: "Applying for an Insurance Number in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn why every person in Germany needs a Sozialversicherungsnummer and
+  the step-by-step procedure to obtain this crucial insurance identification number.
 draft: false
-translationKey: "germany-applying_for_an_insurance_number"
+meta_title: 'Germany''s Sozialversicherungsnummer: Importance and Procedure'
+title: 'Germany''s Sozialversicherungsnummer: Importance and Procedure'
+translationKey: germany-applying_for_an_insurance_number
 ---
+
 
 ## Description
 ### What is it?

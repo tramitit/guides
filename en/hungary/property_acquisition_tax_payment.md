@@ -1,13 +1,16 @@
 ---
-title: "Property acquisition tax payment"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Comprehensive Guide on Property Acquisition Tax Payment in Hungary"
-description: "An easy-to-follow guide on understanding and paying property acquisition taxes in Hungary"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn about the one-time tax obligation when buying property in Hungary.
+  Follow steps to calculate & pay taxes. Find tax details & providers here.
 draft: false
-translationKey: "hungary-property_acquisition_tax_payment"
+meta_title: 'Hungary Property Acquisition Tax: Process & Providers'
+title: 'Hungary Property Acquisition Tax: Process & Providers'
+translationKey: hungary-property_acquisition_tax_payment
 ---
+
 
 ## Description
 ### What is it?

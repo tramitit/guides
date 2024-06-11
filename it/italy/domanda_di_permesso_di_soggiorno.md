@@ -1,13 +1,16 @@
 ---
-translationKey: italy-residence_permit_application
-title: "Domanda di Permesso di Soggiorno in Italia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guida per Richiedere il Permesso di Soggiorno in Italia"
-description: "Guida passo dopo passo su come richiedere un permesso di soggiorno in Italia, comprensiva di procedura, documenti necessari e fornitori di servizi."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere un permesso di soggiorno in Italia per cittadini
+  non-UE, con procedura dettagliata, documenti necessari e opzioni di assistenza.
 draft: false
+meta_title: 'Permesso di Soggiorno in Italia: Procedura, Documenti e Assistenza'
+title: 'Permesso di Soggiorno in Italia: Procedura, Documenti e Assistenza'
+translationKey: italy-residence_permit_application
 ---
+
 
 ## Descrizione
 ### Che cos'è?

@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-passport_application
-title: "Útlevél kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Lépésről lépésre útmutató a magyar útlevél igényléshez"
-description: "Egy átfogó útmutató részletezve, hogyan lehet magyar útlevélért folyamodni."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: 'Tudnivalók a magyar útlevélről: eljárás, szükséges dokumentumok, jogosultság
+  megszerzésének lépései. Kérje útlevelet könnyen a magyar nagykövetségen keresztül.'
 draft: false
+meta_title: Magyar Útlevél Igénylés - Eljárás, Dokumentumok, Szükséges lépések
+title: Magyar Útlevél Igénylés - Eljárás, Dokumentumok, Szükséges lépések
+translationKey: hungary-passport_application
 ---
+
 
 ## Leírás
 ### Mi ez?

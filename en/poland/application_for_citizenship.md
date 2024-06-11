@@ -1,13 +1,16 @@
 ---
-title: "Application for citizenship"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Guide on how to apply for Polish citizenship"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to qualify and apply for Polish citizenship, whether in Poland
+  or abroad. Obtain necessary documents and follow the application process in detail.
 draft: false
-translationKey: "poland-application_for_citizenship"
+meta_title: 'Applying for Polish Citizenship: A Step-by-Step Guide'
+title: 'Applying for Polish Citizenship: A Step-by-Step Guide'
+translationKey: poland-application_for_citizenship
 ---
+
 
 ## Description
 ### What is it?

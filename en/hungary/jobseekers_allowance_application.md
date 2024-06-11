@@ -1,13 +1,16 @@
 ---
-title: "Jobseeker's allowance application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Jobseeker's allowance application guide"
-description: "A comprehensive step-by-step guide to applying for Jobseeker's allowance"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn about Jobseeker's Allowance, get financial help while job hunting.
+  Find eligibility criteria, application procedure, and required documents.
 draft: false
-translationKey: "hungary-jobseekers_allowance_application"
+meta_title: 'Jobseeker''s Allowance: Financial Support for Unemployed'
+title: 'Jobseeker''s Allowance: Financial Support for Unemployed'
+translationKey: hungary-jobseekers_allowance_application
 ---
+
 
 ## Description
 ### What is it?

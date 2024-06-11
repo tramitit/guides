@@ -1,13 +1,16 @@
 ---
-title: "University registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide to University Registration in France for International Students"
-description: "This is a comprehensive guide to understanding how to register as an international student at a French university, including the steps, requirements, and fees."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Comprehensive guide for international students pursuing higher education
+  in France. Covers application, acceptance, registration steps and required documents.
 draft: false
-translationKey: "france-university_registration"
+meta_title: University Registration Guide in France for International Students
+title: University Registration Guide in France for International Students
+translationKey: france-university_registration
 ---
+
 
 ## Description
 ### What is it?

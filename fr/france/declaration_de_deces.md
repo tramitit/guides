@@ -1,13 +1,16 @@
 ---
-translationKey: france-death_declaration
-title: "Déclaration de décès"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Étapes pour déclarer un décès en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: 'Découvrez comment faire une déclaration de décès en France: certificat
+  médical, démarches à la mairie, documents nécessaires et informations complémentaires.'
 draft: false
+meta_title: 'Déclaration de Décès en France: Procédure et Documents Requis'
+title: 'Déclaration de Décès en France: Procédure et Documents Requis'
+translationKey: france-death_declaration
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-application_for_maternity_benefits
-title: "Приложение за майчински пособия"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Това е мета описание"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да получите майчински надбавки след раждане на дете. Съвети
+  за процедурата, необходимите документи и важни подробности за тях.
 draft: false
+meta_title: 'Майчински надбавки: Процедури, изисквания и документи'
+title: 'Майчински надбавки: Процедури, изисквания и документи'
+translationKey: bulgaria-application_for_maternity_benefits
 ---
+
 
 ## Описание
 ### Какво е това?

@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-issuance_of_a_residence_permit
-title: "Издаване на разрешително за пребиваване"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "По стъпково ръководство за издаване на разрешително за пребиваване"
-description: "Подробно ръководство за получаване на разрешително за пребиваване в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Узнайте как да получите разрешение за пребиваване в България за дългосрочно
+  пребиваване, работа или обучение. Изисквания, процес и необходими документи.
 draft: false
+meta_title: 'Издаване на Разрешение за Пребиваване в България: Подробно Ръководство'
+title: 'Издаване на Разрешение за Пребиваване в България: Подробно Ръководство'
+translationKey: bulgaria-issuance_of_a_residence_permit
 ---
+
 
 ## Описание
 ### Какво е това?

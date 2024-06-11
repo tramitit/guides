@@ -1,13 +1,16 @@
 ---
-title: "Work Permit Application for Expats"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Detailed Procedure for Work Permit Application in Romania for Expatriates"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how to apply for a work permit in Romania as a foreign national.
+  Find out the steps, required documents, and providers who can assist you efficiently.
 draft: false
-translationKey: "romania-work_permit_application_for_expats"
+meta_title: 'Obtaining a Work Permit in Romania: Procedure & Documents'
+title: 'Obtaining a Work Permit in Romania: Procedure & Documents'
+translationKey: romania-work_permit_application_for_expats
 ---
+
 
 ## Description
 ### What is it?

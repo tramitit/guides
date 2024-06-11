@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_death_certificate
-title: "Αίτηση για πιστοποιητικό θανάτου"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Διαδικασία απόκτησης πιστοποιητικού θανάτου στην Ελλάδα"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τι είναι το πιστοποιητικό θανάτου, ποιοι το χρειάζονται και πώς
+  να το αποκτήσετε. Απαιτούμενα έγγραφα και διαδικασία δήλωσης θανάτου.
 draft: false
+meta_title: 'Πιστοποιητικό Θανάτου: Απαραίτητη Διαδικασία & Απαιτούμενα Έγγραφα'
+title: 'Πιστοποιητικό Θανάτου: Απαραίτητη Διαδικασία & Απαιτούμενα Έγγραφα'
+translationKey: greece-application_for_death_certificate
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

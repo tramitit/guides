@@ -1,13 +1,16 @@
 ---
-title: "Middle school registration in France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Middle School Registration Guide for France"
-description: "A step-by-step guide on how to register your child for middle school in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Step-by-step process for parents to register children in French middle
+  schools including required documents and tips for international or bilingual schools.
 draft: false
-translationKey: "france-middle_school_registration"
+meta_title: 'Enrolling Your Child in Middle School in France: A Comprehensive Guide'
+title: 'Enrolling Your Child in Middle School in France: A Comprehensive Guide'
+translationKey: france-middle_school_registration
 ---
+
 
 ## Description
 ### What is it?

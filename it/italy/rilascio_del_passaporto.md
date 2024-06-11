@@ -1,13 +1,16 @@
 ---
-translationKey: italy-passport_issuance
-title: "Emissione del Passaporto"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Emissione del Passaporto Italiano - Guida Passo-passo"
-description: "Una guida completa su come richiedere un passaporto italiano"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere un passaporto italiano biometrico e quali documenti
+  sono necessari. Procedura, fornitori, tempi e costi per il ritiro personale.
 draft: false
+meta_title: Guida per ottenere un Passaporto Biometrico Italiano
+title: Guida per ottenere un Passaporto Biometrico Italiano
+translationKey: italy-passport_issuance
 ---
+
 
 ## Descrizione
 ### Cos'è?

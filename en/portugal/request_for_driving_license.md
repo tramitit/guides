@@ -1,13 +1,16 @@
 ---
-title: "Request for Driving License"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to obtain a driving license - from registration & exams to
+  required documents. Find out about age limitations & costs. IMT is a major provider.
 draft: false
-translationKey: "portugal-request_for_driving_license"
+meta_title: 'Getting a Driving License: Process, Requirements & Providers'
+title: 'Getting a Driving License: Process, Requirements & Providers'
+translationKey: portugal-request_for_driving_license
 ---
+
 
 ## Description
 ### What is it?

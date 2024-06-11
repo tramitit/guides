@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_birth_certificate
-title: "Pedido de Certidão de Nascimento"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Um guia passo a passo sobre como solicitar uma certidão de nascimento em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba tudo sobre a certidão de nascimento, como solicitá-la, documentos
+  necessários, prestadores de serviço e legalização para uso internacional em Portugal.
 draft: false
+meta_title: 'Certidão de Nascimento: Procedimentos e Documentos Necessários'
+title: 'Certidão de Nascimento: Procedimentos e Documentos Necessários'
+translationKey: portugal-request_for_birth_certificate
 ---
+
 
 ## Descrição
 ### O que é?

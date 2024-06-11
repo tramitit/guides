@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-personal_income_tax_refund_request
-title: "Személyes jövedelemadó-visszatérítés kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Útmutató a Személyes Jövedelemadó-visszatérítés Kérelméhez"
-description: "Teljes útmutató arról, hogyan kérheti vissza személyes jövedelemadóját." 
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: 'Találd meg, hogyan kérheted vissza túlfizetett jövedelemadód egyéni
+  adófizetőként! Lépésről lépésre: dokumentumok, eljárás, szolgáltatók, tippek.'
 draft: false
+meta_title: 'Jövedelemadó Visszatérítési Kérelem: Hogyan és Ki Igényelheti'
+title: 'Jövedelemadó Visszatérítési Kérelem: Hogyan és Ki Igényelheti'
+translationKey: hungary-personal_income_tax_refund_request
 ---
+
 
 ## Leírás
 ### Mi ez?

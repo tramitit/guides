@@ -1,14 +1,16 @@
 ---
-
-title: "Residence permit renewal in France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide on renewing your residence permit in France"
-description: "This is a comprehensive guide on how to renew your French residence permit, including the various steps involved, required documents, and service providers who can assist with the process."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn the steps to renew your 'titre de séjour' in France. Gather required
+  documents, attend appointment, and navigate renewal process smoothly. Tips included.
 draft: false
-translationKey: "france-residence_permit_renewal"
+meta_title: 'Renewing French Residence Permit: Guide for Non-French Citizens'
+title: 'Renewing French Residence Permit: Guide for Non-French Citizens'
+translationKey: france-residence_permit_renewal
 ---
+
 
 ## Description
 

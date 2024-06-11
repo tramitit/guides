@@ -1,13 +1,16 @@
 ---
-title: "Birth Certificate Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detailed step-by-step guide on how to apply for a Birth Certificate in Austria"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn the step-by-step procedure to obtain a birth certificate in Austria,
+  required documents, and service providers for assistance. Essential guide for residents.
 draft: false
-translationKey: "austria-birth_certificate_application"
+meta_title: 'How to Obtain a Birth Certificate in Austria: A Comprehensive Guide'
+title: 'How to Obtain a Birth Certificate in Austria: A Comprehensive Guide'
+translationKey: austria-birth_certificate_application
 ---
+
 
 ## Description
 ### What is it?

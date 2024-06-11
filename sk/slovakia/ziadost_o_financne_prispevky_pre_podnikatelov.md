@@ -1,14 +1,16 @@
 ---
-translationKey: slovakia-application_for_financial_grants_for_entrepreneurs
-
-title: "Žiadosť o finančné granty pre podnikateľov"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Žiadosť o finančné granty pre podnikateľov - Krok za krokom sprievodca"
-description: "Podrobný sprievodca, ako požiadať o finančné granty pre podnikateľov."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Získajte nenávratné financovanie na inovácie a rozvoj podnikania. Pozrite
+  si postup a požadované dokumenty pre žiadosť o granty pre rast vášho biznisu.
 draft: false
+meta_title: 'Granty pre podnikateľov: Obstarajte si finančnú podporu!'
+title: 'Granty pre podnikateľov: Obstarajte si finančnú podporu!'
+translationKey: slovakia-application_for_financial_grants_for_entrepreneurs
 ---
+
 
 ## Popis
 ### Čo to je?

@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-announcement_of_change_of_surname
-title: "Oznámení o změně příjmení"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Toto je meta popis"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Plánujete změnu příjmení? Zjistěte, jak postupovat od žádosti až po oficiální
+  oznámení. Seznamte se s dokumenty a poskytovateli služeb pro změnu příjmení.
 draft: false
+meta_title: 'Jak změnit příjmení: Postup a požadované dokumenty'
+title: 'Jak změnit příjmení: Postup a požadované dokumenty'
+translationKey: czech republic-announcement_of_change_of_surname
 ---
+
 
 ## Popis
 ### Co to je?

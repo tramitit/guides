@@ -1,13 +1,16 @@
 ---
-translationKey: austria-child_care_allowance_application
-title: "Kinderbetreuungsgeld Antragsstellung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Dies ist ein prägnanter Leitfaden zur Beantragung von Kinderbetreuungsgeld"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Kindergeld beantragen. Erforderliche Dokumente,
+  Prozessschritte und Dienstleister. Wichtige Details zur Bewertungskriterien beachten.
 draft: false
+meta_title: 'Kindergeld: Finanzielle Unterstützung für Eltern mit Kindern'
+title: 'Kindergeld: Finanzielle Unterstützung für Eltern mit Kindern'
+translationKey: austria-child_care_allowance_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

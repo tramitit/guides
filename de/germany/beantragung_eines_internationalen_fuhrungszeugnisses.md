@@ -1,13 +1,16 @@
 ---
-translationKey: germany-application_for_an_international_certificate_of_conduct
-title: "Antrag auf ein Internationales Führungszeugnis"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dies ist eine Anleitung, wie man ein Internationales Führungszeugnis beantragt."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie ein Internationales Führungszeugnis beantragen,
+  wer es benötigt, das Antragsverfahren, erforderliche Dokumente und Anbieterinformationen.
 draft: false
+meta_title: 'Internationales Führungszeugnis Beantragung: Ablauf und Dokumente'
+title: 'Internationales Führungszeugnis Beantragung: Ablauf und Dokumente'
+translationKey: germany-application_for_an_international_certificate_of_conduct
 ---
+
 
 ## Beschreibung
 ### Was ist das?

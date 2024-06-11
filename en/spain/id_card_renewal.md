@@ -1,13 +1,16 @@
 ---
-title: "ID Card Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Renewing your Spanish ID Card: A Comprehensive Guide"
-description: "This guide provides a comprehensive step-by-step process of renewing your Spanish ID Card"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Guide on how Spanish citizens renew their expired or soon-to-be expired
+  DNI, including required documents, procedure steps, and key details. Find out more!
 draft: false
-translationKey: "spain-id_card_renewal"
+meta_title: 'Renewing Your Expired Spanish ID (DNI): Procedures & Documents'
+title: 'Renewing Your Expired Spanish ID (DNI): Procedures & Documents'
+translationKey: spain-id_card_renewal
 ---
+
 
 ## Description
 ### What is it?

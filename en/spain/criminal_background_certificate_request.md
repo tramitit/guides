@@ -1,13 +1,17 @@
 ---
-title: "Criminal Background Certificate Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Requesting a Criminal Background Certificate in Spain"
-description: "A comprehensive guide on how to request a Criminal Background Certificate in Spain."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to request a Criminal Background Certificate in Spain online
+  or in person. Find out the procedure, required documents, provider details, and
+  more.
 draft: false
-translationKey: "spain-criminal_background_certificate_request"
+meta_title: Obtaining a Criminal Background Certificate in Spain
+title: Obtaining a Criminal Background Certificate in Spain
+translationKey: spain-criminal_background_certificate_request
 ---
+
 
 ## Description
 ### What is it?

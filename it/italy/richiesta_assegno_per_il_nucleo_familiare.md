@@ -1,13 +1,16 @@
 ---
-translationKey: italy-family_allowance_request
-title: "Richiesta di Assegno Familiare"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Richiesta di Assegno Familiare in Italia"
-description: "Una guida procedurale per richiedere un assegno familiare in Italia"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri chi ha diritto all'assegno familiare in Italia, come richiederlo,
+  i documenti necessari e l'importanza di aggiornare regolarmente i dati con l'INPS.
 draft: false
+meta_title: 'Assegno Familiare in Italia: Requisiti, Procedura, Documenti Richiesti'
+title: 'Assegno Familiare in Italia: Requisiti, Procedura, Documenti Richiesti'
+translationKey: italy-family_allowance_request
 ---
+
 
 ## Descrizione
 ### Che cos'è?

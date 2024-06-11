@@ -1,13 +1,16 @@
 ---
-title: "Mobility aid application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide to Applying for Mobility Aids in France"
-description: "Comprehensive guide to apply for mobility aid in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn about mobility aids for those with mobility impairments in France,
+  including the procedure, required documents, providers, and additional details.
 draft: false
-translationKey: "france-mobility_aid_application"
+meta_title: Mobility Aids for People with Mobility Impairments in France
+title: Mobility Aids for People with Mobility Impairments in France
+translationKey: france-mobility_aid_application
 ---
+
 
 ## Description
 ### What is it?

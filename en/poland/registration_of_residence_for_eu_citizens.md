@@ -1,13 +1,16 @@
 ---
-title: "Registration of residence for EU citizens"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "EU residence registration in Poland"
-description: "Step-by-step process for residence registration in Poland for EU citizens"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: A guide for EU citizens in Poland on registering their residence, including
+  required documents, process steps, and important details. Stay legal in Poland!
 draft: false
-translationKey: "poland-registration_of_residence_for_eu_citizens"
+meta_title: EU Citizen Residence Registration in Poland Procedure
+title: EU Citizen Residence Registration in Poland Procedure
+translationKey: poland-registration_of_residence_for_eu_citizens
 ---
+
 
 ## Description
 ### What is it?

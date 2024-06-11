@@ -1,13 +1,16 @@
 ---
-title: "Pension application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Pension application in Hungary guide"
-description: "A step-by-step guide to applying for a pension in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn the official procedures, required documents, and get help from
+  professionals to apply for your pension in Hungary. Plan ahead for a smooth process.
 draft: false
-translationKey: "hungary-pension_application"
+meta_title: Comprehensive Guide to Applying for Pension in Hungary
+title: Comprehensive Guide to Applying for Pension in Hungary
+translationKey: hungary-pension_application
 ---
+
 
 ## Description
 ### What is it?

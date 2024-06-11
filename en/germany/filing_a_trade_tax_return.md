@@ -1,13 +1,16 @@
 ---
-title: "Filing a Trade Tax Return"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "How to File a Trade Tax Return in Germany"
-description: "Step-by-step guide on how to file a trade tax return in Germany"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to file trade tax returns in Germany as a private investor,
+  avoiding legal issues. Includes procedures, required docs, and helpful service providers.
 draft: false
-translationKey: "germany-filing_a_trade_tax_return"
+meta_title: Germany Trade Tax Return Guide for Private Investors
+title: Germany Trade Tax Return Guide for Private Investors
+translationKey: germany-filing_a_trade_tax_return
 ---
+
 
 ## Description
 ### What is it?

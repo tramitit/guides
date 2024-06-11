@@ -1,14 +1,16 @@
 ---
-translationKey: poland-gun_permit
-
-title: "Zezwolenie na broń w Polsce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Szczegółowe kroki do uzyskania zezwolenia na broń w Polsce"
-description: "Zorganizowana procedura uzyskania zezwolenia na broń w Polsce obejmująca wszystkie ważne kroki, wymagane dokumenty i potencjalnych dostawców."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: 'Dowiedz się, jak uzyskać licencję na broń w Polsce: kroki, dokumenty,
+  terminy i koszty. Licencja wymagana dla myśliwych, strzelców i osób do obrony osobistej.'
 draft: false
+meta_title: 'Licencja na broń w Polsce: Procedura, wymagane dokumenty i usługodawca'
+title: 'Licencja na broń w Polsce: Procedura, wymagane dokumenty i usługodawca'
+translationKey: poland-gun_permit
 ---
+
 
 ## Opis
 ### Co to jest?

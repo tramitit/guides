@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_birth_certificate
-title: "Demande d'extrait de naissance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Guide sur la façon de demander un extrait de naissance en Belgique"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to obtain a birth certificate in Belgium, necessary for administrative
+  purposes. Details on required documents and providers available to assist you.
 draft: false
+meta_title: 'Obtaining a Birth Certificate in Belgium: Procedure & Details'
+title: 'Obtaining a Birth Certificate in Belgium: Procedure & Details'
+translationKey: belgium-request_for_birth_certificate
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

@@ -1,13 +1,16 @@
 ---
-title: "Exchange of Foreign Driver's License"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Guide on How to Exchange Foreign Driver’s License"
-description: "This guide provides a detailed step-by-step procedure on how to exchange a foreign driver's license."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Discover the process of exchanging a foreign driver's license, including
+  required documents and steps. Learn about providers who can assist you in this process.
 draft: false
-translationKey: "slovakia-exchange_of_foreign_drivers_license"
+meta_title: 'Foreign Driver''s License Exchange: Procedure & Providers'
+title: 'Foreign Driver''s License Exchange: Procedure & Providers'
+translationKey: slovakia-exchange_of_foreign_drivers_license
 ---
+
 
 ## Description
 ### What is it?

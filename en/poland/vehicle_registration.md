@@ -1,13 +1,16 @@
 ---
-title: "Vehicle registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Vehicle Registration in Poland"
-description: "This blog details the process of registering a vehicle, specifically focused on Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to register your car or motorcycle in Poland. Includes required
+  documents, procedure steps, and details on timelines and costs from PZU SA provider.
 draft: false
-translationKey: "poland-vehicle_registration"
+meta_title: 'Vehicle Registration Process in Poland: A Complete Guide'
+title: 'Vehicle Registration Process in Poland: A Complete Guide'
+translationKey: poland-vehicle_registration
 ---
+
 
 ## Description
 ### What is it?

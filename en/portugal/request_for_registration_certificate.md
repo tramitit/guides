@@ -1,13 +1,16 @@
 ---
-title: "Request for Registration Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is a detailed guide on how to request a vehicle registration certificate in Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to register and obtain a vehicle certificate in Portugal. Ensure
+  proper documents, pay fees, and follow emission standards for vehicle operation.
 draft: false
-translationKey: "portugal-request_for_registration_certificate"
+meta_title: 'Vehicle Registration in Portugal: Process and Requirements'
+title: 'Vehicle Registration in Portugal: Process and Requirements'
+translationKey: portugal-request_for_registration_certificate
 ---
+
 
 ## Description
 ### What is it?

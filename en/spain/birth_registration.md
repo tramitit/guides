@@ -1,13 +1,16 @@
 ---
-title: "Birth Registration in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Birth Registration in Spain: A Comprehensive Guide"
-description: "A step-by-step guide on how to register a birth in Spain, including the required documents and relevant institutions."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to register a newborn's birth in Spain, required documents,
+  procedure at Civil Registry, and details to note. Get birth certificate easily.
 draft: false
-translationKey: "spain-birth_registration"
+meta_title: 'Spain Birth Registration: How to Obtain Birth Certificate'
+title: 'Spain Birth Registration: How to Obtain Birth Certificate'
+translationKey: spain-birth_registration
 ---
+
 
 ## Description
 ### What is it?

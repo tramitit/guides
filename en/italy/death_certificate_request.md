@@ -1,13 +1,16 @@
 ---
-title: "Death Certificate Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Step By Step Guide to Requesting a Death Certificate in Italy"
-description: "This guide provides a comprehensive step-by-step approach to request a death certificate in Italy."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: 'Scopri come richiedere un certificato di morte in Italia: procedure,
+  documenti necessari e consigli utili per un processo rapido ed efficace.'
 draft: false
-translationKey: "italy-death_certificate_request"
+meta_title: 'Richiedere un Certificato di Morte in Italia: Procedura Dettagliata'
+title: 'Richiedere un Certificato di Morte in Italia: Procedura Dettagliata'
+translationKey: italy-death_certificate_request
 ---
+
 
 ## Description
 ### What is it?

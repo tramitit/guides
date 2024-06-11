@@ -1,13 +1,16 @@
 ---
-title: "Asylum Application in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Asylum Application in Spain"
-description: "A detailed guide on how to apply for asylum in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to apply for asylum in Spain through the OAR, requirements,
+  procedure, and needed documents. Legal protection for those facing persecution abroad.
 draft: false
-translationKey: "spain-asylum_application"
+meta_title: 'Asylum Application in Spain: Process, Documents, and Providers'
+title: 'Asylum Application in Spain: Process, Documents, and Providers'
+translationKey: spain-asylum_application
 ---
+
 
 ## Description
 ### What is it?

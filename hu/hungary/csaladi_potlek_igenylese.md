@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-family_allowance_application
-title: "Családi pótlék igénylés"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Ez egy útmutató a családi pótlék igényléshez Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: A családi pótlék segíti a Magyarországon élő szülőket abban, hogy támogathassák
+  gyermekeiket. Ismerd meg az igénylés folyamatát és előfeltételeit.
 draft: false
+meta_title: 'Családi Pótlék Magyarországon: Igénylési Eljárás és Részletek'
+title: 'Családi Pótlék Magyarországon: Igénylési Eljárás és Részletek'
+translationKey: hungary-family_allowance_application
 ---
+
 
 ## Leírás
 ### Mi ez?

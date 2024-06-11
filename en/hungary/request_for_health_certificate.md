@@ -1,13 +1,16 @@
 ---
-title: "Request for health certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Steps to Request for Health Certificate for Marathon in Hungary"
-description: "A comprehensive guide on how to request for a health certificate, including the necessary steps and key information needed."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn what a health certificate is, who needs it, and the steps to obtain
+  one for marathon participation. Ensure your safety with these guidelines.
 draft: false
-translationKey: "hungary-request_for_health_certificate"
+meta_title: 'Health Certificate for Marathon: Procedure and Requirements'
+title: 'Health Certificate for Marathon: Procedure and Requirements'
+translationKey: hungary-request_for_health_certificate
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Extension of Passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Extend Your Passport Easily From Anywhere"
-description: "Step-by-step guide on how to extend your passport"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to extend or renew your expiring passport for international
+  travel - steps, necessary documents, and helpful tips provided in detail.
 draft: false
-translationKey: "germany-extension_of_passport"
+meta_title: 'Passport Extension and Renewal Guide: Procedure and Required Documents'
+title: 'Passport Extension and Renewal Guide: Procedure and Required Documents'
+translationKey: germany-extension_of_passport
 ---
+
 
 ## Description
 ### What is it?

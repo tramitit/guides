@@ -1,13 +1,16 @@
 ---
-title: "Vehicle Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Vehicle Registration in Austria"
-description: "A comprehensive guide on how to register your vehicle in Austria"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Guía completa sobre el registro de vehículos en Austria, incluyendo requisitos,
+  documentos necesarios y los pasos a seguir para cumplir con las normas.
 draft: false
-translationKey: "austria-vehicle_registration"
+meta_title: 'Proceso de registro de vehículos en Austria: requisitos y pasos'
+title: 'Proceso de registro de vehículos en Austria: requisitos y pasos'
+translationKey: austria-vehicle_registration
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: italy-old_age_pension_application
-title: "Domanda di Pensione di Vecchiaia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guida alla Domanda di Pensione di Vecchiaia in Italia"
-description: "Guida dettagliata su come presentare domanda di pensione di vecchiaia in Italia, comprendendo i documenti richiesti, la procedura e i potenziali fornitori di servizi che possono assistervi."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: 'Scopri come ottenere la pensione di vecchiaia in Italia: requisiti,
+  procedura, documentazione e dettagli importanti per il tuo futuro finanziario.'
 draft: false
+meta_title: Guida Completa alla Pensione di Vecchiaia in Italia
+title: Guida Completa alla Pensione di Vecchiaia in Italia
+translationKey: italy-old_age_pension_application
 ---
+
 
 ## Descrizione
 ### Cos'è?

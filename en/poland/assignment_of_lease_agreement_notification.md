@@ -1,13 +1,16 @@
 ---
-title: "Assignment of Lease Agreement Notification"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Notification of Assignment of Lease Agreement"
-description: "This steps guide will take you through the process of notifying a lease agreement assignment"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to assign a lease to a new tenant, notify the landlord, and
+  sign necessary documents to ensure a smooth transfer. Important tips included.
 draft: false
-translationKey: "poland-assignment_of_lease_agreement_notification"
+meta_title: 'Lease Assignment Process: How to Transfer Your Lease Responsibly'
+title: 'Lease Assignment Process: How to Transfer Your Lease Responsibly'
+translationKey: poland-assignment_of_lease_agreement_notification
 ---
+
 
 ## Description
 ### What is it?

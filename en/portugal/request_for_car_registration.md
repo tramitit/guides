@@ -1,13 +1,16 @@
 ---
-title: "Request for Car Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to register a car in Portugal including necessary documents
+  & steps. Find providers like IMT offering varying timelines & costs for the service.
 draft: false
-translationKey: "portugal-request_for_car_registration"
+meta_title: 'Car Registration Process in Portugal: Steps, Documents & Providers'
+title: 'Car Registration Process in Portugal: Steps, Documents & Providers'
+translationKey: portugal-request_for_car_registration
 ---
+
 
 ## Description
 ### What is it?

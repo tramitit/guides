@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-report_change_of_address
-title: "Melding van adreswijziging"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Hoe meld je een adreswijziging in België"
-description: "Stapsgewijze procedure over hoe je een adreswijziging in België meldt."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Leer hoe u uw adreswijziging officieel meldt in België door persoonlijk
+  naar het gemeentehuis te gaan. Benodigde documenten en details van de dienstverleners.
 draft: false
+meta_title: 'Verhuisbericht in België: Procedure, Documenten en Dienstverleners'
+title: 'Verhuisbericht in België: Procedure, Documenten en Dienstverleners'
+translationKey: belgium-report_change_of_address
 ---
+
 
 ## Beschrijving
 ### Wat is het?

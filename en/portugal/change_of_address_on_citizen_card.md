@@ -1,13 +1,16 @@
 ---
-title: "Change of Address on Citizen Card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Change of Address on Citizen Card in Portugal: A Step-by-Step Guide"
-description: "This guide outlines the procedure to change the address on a Citizen Card in Portugal, including required documents, and service providers."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to update your Citizen Card with new address in Portugal. Follow
+  steps, provide necessary docs, and find IRN as a service provider.
 draft: false
-translationKey: "portugal-change_of_address_on_citizen_card"
+meta_title: 'Change Address on Citizen Card in Portugal: Procedure & Providers'
+title: 'Change Address on Citizen Card in Portugal: Procedure & Providers'
+translationKey: portugal-change_of_address_on_citizen_card
 ---
+
 
 ## Description
 ### What is it?

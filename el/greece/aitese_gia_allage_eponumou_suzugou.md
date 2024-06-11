@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_spouses_name_change
-title: "Αίτηση για αλλαγή ονόματος συζύγου"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Οδηγός βήμα προς βήμα για να υποβάλετε αίτηση για αλλαγή ονόματος συζύγου στην Ελλάδα"
-description: "Ένας αναλυτικός οδηγός που σας δείχνει πώς να προχωρήσετε στην αλλαγή ονόματος συζύγου μετά τον γάμο στην Ελλάδα"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Ακολουθήστε τα βήματα για αλλαγή ονόματος μετά τον γάμο στην Ελλάδα.
+  Απαιτούμενα έγγραφα, διαδικασία και παρόχοι υπηρεσιών. (Περίπλοκα Γάμου)
 draft: false
+meta_title: Οδηγός Υποβολής Αίτησης Αλλαγής Ονόματος Σύζυγου στην Ελλάδα
+title: Οδηγός Υποβολής Αίτησης Αλλαγής Ονόματος Σύζυγου στην Ελλάδα
+translationKey: greece-application_for_spouses_name_change
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

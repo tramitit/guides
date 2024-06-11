@@ -1,13 +1,17 @@
 ---
-translationKey: portugal-request_for_driving_license
-title: "Pedido de Carta de Condução"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Esta é a descrição meta"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Descubra o processo para obter sua carteira de habilitação em Portugal,
+  incluindo requisitos, documentos necessários e provedores disponíveis. Saiba mais
+  agora!
 draft: false
+meta_title: Como Obter uma Carteira de Habilitação em Portugal
+title: Como Obter uma Carteira de Habilitação em Portugal
+translationKey: portugal-request_for_driving_license
 ---
+
 
 ## Descrição
 ### O que é?

@@ -1,13 +1,16 @@
 ---
-translationKey: romania-vehicle_visa
-title: "Viza de Vehicul"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Acesta este un ghid despre cum să aplici pentru o Viza de Vehicul (cunoscută oficial ca înregistrare a vehiculului) în România."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Înțelege cerințele legale și documentele necesare pentru a înregistra
+  un vehicul în România. Consultă furnizorii și procedurile implicate.
 draft: false
+meta_title: Procedura de înregistrare a vehiculului în România
+title: Procedura de înregistrare a vehiculului în România
+translationKey: romania-vehicle_visa
 ---
+
 
 ## Descriere
 ### Ce este?

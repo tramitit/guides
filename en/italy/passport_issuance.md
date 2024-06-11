@@ -1,13 +1,16 @@
 ---
-title: "Passport Issuance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Italian Passport Issuance - Step-by-Step Guide "
-description: "A comprehensive guide on how to apply for an Italian passport"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to obtain an Italian Biometric Passport, essential for international
+  travel. Follow the detailed procedure and see required documents.
 draft: false
-translationKey: "italy-passport_issuance"
+meta_title: 'Italian Biometric Passport: Step-by-Step Guide and Requirements'
+title: 'Italian Biometric Passport: Step-by-Step Guide and Requirements'
+translationKey: italy-passport_issuance
 ---
+
 
 ## Description
 ### What is it?

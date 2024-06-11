@@ -1,13 +1,16 @@
 ---
-title: "Request for Residence Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: 'Learn how to obtain a Residence Certificate in Portugal through local
+  councils. Required docs: ID, proof of address, Tax Number. Varies by council.'
 draft: false
-translationKey: "portugal-request_for_residence_certificate"
+meta_title: 'Residence Certificate in Portugal: Procedure, Documents & Providers'
+title: 'Residence Certificate in Portugal: Procedure, Documents & Providers'
+translationKey: portugal-request_for_residence_certificate
 ---
+
 
 ## Description
 ### What is it?

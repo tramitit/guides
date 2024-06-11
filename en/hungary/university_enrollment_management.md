@@ -1,13 +1,16 @@
 ---
-title: "University enrollment management"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Guide to University Enrollment Management"
-description: "A comprehensive guide on how to handle university enrollment process."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to apply and secure admission into a university effectively.
+  Understand the required process steps and necessary documents for successful enrollment.
 draft: false
-translationKey: "hungary-university_enrollment_management"
+meta_title: 'University Enrollment Management Guide: Process & Documents'
+title: 'University Enrollment Management Guide: Process & Documents'
+translationKey: hungary-university_enrollment_management
 ---
+
 
 ## Description
 ### What is it?

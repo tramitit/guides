@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-issuance_of_no_criminal_record_certificate
-title: "Izdavanje potvrde o nepostojanju kaznene evidencije"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Postupak za dobivanje potvrde o nepostojanju kaznene evidencije"
-description: "Korak po korak vodič koji detaljno opisuje kako osoba može dobiti potvrdu o nepostojanju kaznene evidencije."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako dobiti potvrdu o nepostojanju kaznene evidencije, potrebne
+  dokumente i rokove. Važno za imigraciju, vize, radne dozvole i posvajanje djece.
 draft: false
+meta_title: 'Potvrda o nepostojanju kaznene evidencije: Postupak i dokumenti'
+title: 'Potvrda o nepostojanju kaznene evidencije: Postupak i dokumenti'
+translationKey: croatia-issuance_of_no_criminal_record_certificate
 ---
+
 
 ## Opis
 ### Što je to?

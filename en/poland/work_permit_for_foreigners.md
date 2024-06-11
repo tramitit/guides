@@ -1,13 +1,16 @@
 ---
-title: "Work permit for foreigners in Poland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Guide on acquiring work permits for foreigners in Poland"
-description: "This comprehensive guide takes you through the steps to get a working permit in Poland as a foreigner"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to get a work permit in Poland as a non-EU citizen. Understand
+  the process, required documents, and provider details. Stay legal to work in Poland!
 draft: false
-translationKey: "poland-work_permit_for_foreigners"
+meta_title: 'Work Permit in Poland: Application Process & Required Documents'
+title: 'Work Permit in Poland: Application Process & Required Documents'
+translationKey: poland-work_permit_for_foreigners
 ---
+
 
 ## Description
 ### What is it?

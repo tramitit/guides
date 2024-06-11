@@ -1,13 +1,16 @@
 ---
-title: "Applying for a Marriage Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "This is a guide to apply for a marriage certificate for marriages performed outside of Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to register your marriage performed outside Germany, including
+  required documents and timeline. Ensure legal compliance for bureaucratic matters.
 draft: false
-translationKey: "germany-applying_for_a_marriage_certificate"
+meta_title: Obtaining a Marriage Certificate in Germany for Foreign Marriages
+title: Obtaining a Marriage Certificate in Germany for Foreign Marriages
+translationKey: germany-applying_for_a_marriage_certificate
 ---
+
 
 ## Description
 ### What is it?

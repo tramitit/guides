@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-change_of_health_insurance_company
-title: "Změna zdravotní pojišťovny v České republice"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Tento průvodce poskytuje podrobné kroky, jak změnit poskytovatele zdravotního pojištění v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Průvodce změnou zdravotního pojištění pro obyvatele České republiky.
+  Postup, dokumenty, tipy na výběr a upozornění na důležité faktory pro rozhodnutí.
 draft: false
+meta_title: Jak změnit poskytovatele zdravotního pojištění v České republice
+title: Jak změnit poskytovatele zdravotního pojištění v České republice
+translationKey: czech republic-change_of_health_insurance_company
 ---
+
 
 ## Popis
 ### Co to je?

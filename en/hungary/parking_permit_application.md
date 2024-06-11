@@ -1,13 +1,16 @@
 ---
-title: "Parking permit application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Parking permit application in Budapest, Hungary"
-description: "A comprehensive guide on how to apply for a parking permit in Budapest, Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn the steps and required documents for obtaining a parking permit
+  in Budapest for residents, non-EU citizens, and disabled persons.
 draft: false
-translationKey: "hungary-parking_permit_application"
+meta_title: 'How to Get a Parking Permit in Budapest: Essential Guide'
+title: 'How to Get a Parking Permit in Budapest: Essential Guide'
+translationKey: hungary-parking_permit_application
 ---
+
 
 ## Description
 ### What is it?

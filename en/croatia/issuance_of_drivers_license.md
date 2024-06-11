@@ -1,13 +1,16 @@
 ---
-title: "Issuance of driver's license in Croatia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: "How to obtain a driver's license in Croatia"
-description: "This guide provides information about the procedure to obtain a driver's license in Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Learn how to obtain a driver's license in Croatia through a driving academy
+  & tests. Includes required documents & info for international residents.
 draft: false
-translationKey: "croatia-issuance_of_drivers_license"
+meta_title: 'Driver''s License Process in Croatia: A Complete Guide'
+title: 'Driver''s License Process in Croatia: A Complete Guide'
+translationKey: croatia-issuance_of_drivers_license
 ---
+
 
 ## Description
 ### What is it?

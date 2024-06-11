@@ -1,13 +1,16 @@
 ---
-title: "Admission to a driving test"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Driving Test Admission in Bulgaria"
-description: "Guide to gaining admission to a driving test in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to apply for a driving license in Bulgaria, including required
+  documents, exam process, course details, and considerations. Get started now!
 draft: false
-translationKey: "bulgaria-admission_to_a_driving_test"
+meta_title: 'Driving Test Admission Process in Bulgaria: Steps & Requirements'
+title: 'Driving Test Admission Process in Bulgaria: Steps & Requirements'
+translationKey: bulgaria-admission_to_a_driving_test
 ---
+
 
 ## Description
 ### What is it?

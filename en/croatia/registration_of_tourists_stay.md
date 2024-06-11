@@ -1,13 +1,16 @@
 ---
-title: "Registration of tourists' stay"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "This is a comprehensive guide on how tourists can safely and legally register their stay while visiting Croatia."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to comply with Croatia's mandatory tourist stay registration,
+  including procedure, required documents, and consequences of non-compliance.
 draft: false
-translationKey: "croatia-registration_of_tourists_stay"
+meta_title: 'Croatia Tourist Stay Registration: Procedure & Requirements'
+title: 'Croatia Tourist Stay Registration: Procedure & Requirements'
+translationKey: croatia-registration_of_tourists_stay
 ---
+
 
 ## Description
 ### What is it?

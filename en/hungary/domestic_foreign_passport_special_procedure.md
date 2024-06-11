@@ -1,13 +1,16 @@
 ---
-title: "Domestic foreign passport special procedure"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to obtain Slovakian citizenship by descent and Hungarian Emergency
+  Travel Documents. Required documents, procedures, and provider information included.
 draft: false
-translationKey: "hungary-domestic_foreign_passport_special_procedure"
+meta_title: Guide to Slovakian Citizenship and Hungarian Travel Documents
+title: Guide to Slovakian Citizenship and Hungarian Travel Documents
+translationKey: hungary-domestic_foreign_passport_special_procedure
 ---
+
 
 ## Description
 ### What is it?

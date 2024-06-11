@@ -1,13 +1,17 @@
 ---
-translationKey: slovakia-vehicle_registration
-title: "Registrácia vozidla na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Komplexný sprievodca ako zaregistrovať vozidlo na Slovensku"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to officially register a vehicle in Slovakia, whether new,
+  used, or imported. Steps, required documents, providers, and additional details
+  included.
 draft: false
+meta_title: 'Registration of Vehicles in Slovakia: Process, Documents & Providers'
+title: 'Registration of Vehicles in Slovakia: Process, Documents & Providers'
+translationKey: slovakia-vehicle_registration
 ---
+
 
 ## Popis
 ### Čo to je?

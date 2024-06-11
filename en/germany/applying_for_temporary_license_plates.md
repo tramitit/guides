@@ -1,13 +1,17 @@
 ---
-title: "Applying for Temporary License Plates"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Guide to Applying for Temporary License Plates in Germany"
-description: "A comprehensive guide to applying for temporary license plates in Germany"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to acquire temporary license plates for vehicles, essential
+  documents needed, and guidelines including where to go and costs involved in this
+  process.
 draft: false
-translationKey: "germany-applying_for_temporary_license_plates"
+meta_title: 'Temporary License Plate: How to Get and Use Zulassungsstelle'
+title: 'Temporary License Plate: How to Get and Use Zulassungsstelle'
+translationKey: germany-applying_for_temporary_license_plates
 ---
+
 
 ## Description
 ### What is it?

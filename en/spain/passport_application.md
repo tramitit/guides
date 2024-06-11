@@ -1,13 +1,16 @@
 ---
-title: "Applying for a Spanish Passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "This is a comprehensive guide on how to apply for a Spanish passport"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how Spanish citizens can apply for a passport, the steps involved,
+  required documents, validity periods, and costs involved in the process.
 draft: false
-translationKey: "spain-passport_application"
+meta_title: 'Spanish Passport: How to Apply & Required Documents'
+title: 'Spanish Passport: How to Apply & Required Documents'
+translationKey: spain-passport_application
 ---
+
 
 ## Description
 ### What is it?

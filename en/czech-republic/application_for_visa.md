@@ -1,13 +1,16 @@
 ---
-title: "Application for Czech Republic Visa"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This is a step-by-step guide on how to apply for a Czech Republic Visa."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to apply for a Czech Republic visa, including required documents
+  and procedures. Make sure to prepare in advance for a smooth application process.
 draft: false
-translationKey: "czech-republic-application_for_visa"
+meta_title: 'Czech Republic Visa Guide: Application Procedure & Requirements'
+title: 'Czech Republic Visa Guide: Application Procedure & Requirements'
+translationKey: czech-republic-application_for_visa
 ---
+
 
 ## Description
 ### What is it?

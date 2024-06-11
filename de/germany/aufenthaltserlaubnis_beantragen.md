@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_a_residence_permit
-title: "Aufenthaltserlaubnis in Deutschland beantragen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Aufenthaltserlaubnis in Deutschland beantragen"
-description: "Detaillierte Anleitung zum Verfahren, den Anforderungen und zusätzlichen Schritten für die Beantragung einer Aufenthaltserlaubnis in Deutschland."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie man einen Aufenthaltstitel in Deutschland beantragt
+  und welche Unterlagen benötigt werden. Ablauf, Anbieter und wichtige Details.
 draft: false
+meta_title: 'Aufenthaltstitel in Deutschland: Beantragung und Voraussetzungen'
+title: 'Aufenthaltstitel in Deutschland: Beantragung und Voraussetzungen'
+translationKey: germany-applying_for_a_residence_permit
 ---
+
 
 ## Beschreibung
 ### Was ist das?

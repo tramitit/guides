@@ -1,14 +1,16 @@
 ---
-translationKey: italy-italian_citizenship_application
-
-title: "Domanda di Cittadinanza Italiana"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Una guida completa su come fare domanda per la cittadinanza italiana."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: 'Scopri come richiedere la cittadinanza italiana: eleggibilità, documenti
+  necessari, traduzioni, apostille, interviste e costi. Pazienza e aggiornamenti chiave.'
 draft: false
+meta_title: 'Guida alla Cittadinanza Italiana: Procedura, Documenti e Fornitori'
+title: 'Guida alla Cittadinanza Italiana: Procedura, Documenti e Fornitori'
+translationKey: italy-italian_citizenship_application
 ---
+
 
 ## Descrizione
 ### Che cos'è?

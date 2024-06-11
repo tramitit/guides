@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_housing_permit
-title: "Pedido de Licença de Habitação"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Pedido de Licença de Habitação em Portugal"
-description: "Guia passo a passo para solicitar uma licença de habitação em Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba tudo sobre a obtenção da Licença de Habitação em Portugal, incluindo
+  procedimentos, documentos necessários, e dicas importantes para evitar penalidades.
 draft: false
+meta_title: 'Licença de Habitação em Portugal: Processo e Documentos'
+title: 'Licença de Habitação em Portugal: Processo e Documentos'
+translationKey: portugal-request_for_housing_permit
 ---
+
 
 
 ## Descrição

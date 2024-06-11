@@ -1,13 +1,16 @@
 ---
-title: "Application for disability pension"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Comprehensive guide on how to apply for a disability pension"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to apply for a disability pension due to injury or illness.
+  Get info on required documents, providers, and the application process.
 draft: false
-translationKey: "slovakia-application_for_disability_pension"
+meta_title: 'Disability Pension: Procedure, Documents & Providers'
+title: 'Disability Pension: Procedure, Documents & Providers'
+translationKey: slovakia-application_for_disability_pension
 ---
+
 
 ## Description
 ### What is it?

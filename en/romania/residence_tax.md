@@ -1,13 +1,16 @@
 ---
-title: "Residence Tax"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Residence Tax Guide"
-description: "A simplified guide on handling residence tax for both local and foreign residents in Romania."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn who needs to pay Residence Tax in Romania, the required documents,
+  and the procedure to ensure compliance with Romanian tax laws.
 draft: false
-translationKey: "romania-residence_tax"
+meta_title: Understanding and Complying with Residence Tax in Romania
+title: Understanding and Complying with Residence Tax in Romania
+translationKey: romania-residence_tax
 ---
+
 
 ## Description
 ### What is it?

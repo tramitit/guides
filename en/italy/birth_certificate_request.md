@@ -1,14 +1,16 @@
 ---
-
-title: "Birth Certificate Request (Italy)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Applying for an Italian Birth Certificate"
-description: "Detailed guide on how to request an Italian birth certificate"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere un certificato di nascita in Italia per cittadinanza,
+  ricerca genealogica e processi burocratici. Procedure dettagliate e documenti necessari.
 draft: false
-translationKey: "italy-birth_certificate_request"
+meta_title: 'Richiesta certificato di nascita in Italia: Procedura e Documenti'
+title: 'Richiesta certificato di nascita in Italia: Procedura e Documenti'
+translationKey: italy-birth_certificate_request
 ---
+
 
 ## Description
 ### What is it?

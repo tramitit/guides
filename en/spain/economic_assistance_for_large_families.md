@@ -1,14 +1,16 @@
 ---
-
-title: "Economic Assistance for Large Families"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Economic Support for Large Families"
-description: "This guide provides step-by-step instructions for accessing economic assistance programs designed for large families."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: 'Descubre cómo obtener ayudas económicas para familias numerosas: programas,
+  requisitos y proveedores para gestionar tu solicitud.'
 draft: false
-translationKey: "spain-economic_assistance_for_large_families"
+meta_title: Guía de ayudas financieras para familias numerosas
+title: Guía de ayudas financieras para familias numerosas
+translationKey: spain-economic_assistance_for_large_families
 ---
+
 
 ## Description
 ### What is it?

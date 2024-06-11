@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-application_for_social_benefits
-title: "Žiadosť o sociálne dávky"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Sprievodca pri žiadosti o sociálne dávky na Slovensku"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Zistite, kto má nárok na sociálne dávky, ako postupovať pri žiadosti
+  a aké dokumenty sú potrebné. Sezóna poskytovateľov pomoci a dôležité rady pre žiadateľov.
 draft: false
+meta_title: 'Sociálne dávky v Slovensku: Kritériá, Žiadosti a Doklady'
+title: 'Sociálne dávky v Slovensku: Kritériá, Žiadosti a Doklady'
+translationKey: slovakia-application_for_social_benefits
 ---
+
 
 ## Popis
 ### Čo je to?

@@ -1,13 +1,16 @@
 ---
-title: "Recognition of a foreign diploma in Bulgaria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Recognition of Foreign Diplomas in Bulgaria"
-description: "Step by step guide for the recognition of foreign academic credentials in Bulgaria."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn the process and requirements for recognizing foreign academic credentials
+  in Bulgaria for work, study, or professional practice.
 draft: false
-translationKey: "bulgaria-recognition_of_a_foreign_diploma"
+meta_title: 'Recognition of Foreign Diplomas in Bulgaria: What You Need to Know'
+title: 'Recognition of Foreign Diplomas in Bulgaria: What You Need to Know'
+translationKey: bulgaria-recognition_of_a_foreign_diploma
 ---
+
 
 ## Description
 ### What is it?

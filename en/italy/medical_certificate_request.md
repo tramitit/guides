@@ -1,13 +1,16 @@
 ---
-title: "Medical Certificate Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This is a guide to obtaining a Medical Certificate in Italy, often required for participation in athletic activities such as marathons or cycling events."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to get a medical certificate in Italy to prove physical fitness
+  for activities like marathons. Includes providers, procedures, and required documents.
 draft: false
-translationKey: "italy-medical_certificate_request"
+meta_title: Obtaining a Medical Certificate in Italy for Physical Fitness
+title: Obtaining a Medical Certificate in Italy for Physical Fitness
+translationKey: italy-medical_certificate_request
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Application for a driving licence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn the steps, requirements, and providers for getting a driving license
+  in the Czech Republic for various vehicles.
 draft: false
-translationKey: "czech-republic-application_for_a_driving_licence"
+meta_title: How to Obtain a Driving License in the Czech Republic
+title: How to Obtain a Driving License in the Czech Republic
+translationKey: czech-republic-application_for_a_driving_licence
 ---
+
 
 ## Description
 ### What is it?

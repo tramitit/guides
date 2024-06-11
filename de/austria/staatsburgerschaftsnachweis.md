@@ -1,13 +1,16 @@
 ---
-translationKey: austria-proof_of_citizenship
-title: "Nachweis der Staatsbürgerschaft"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Ein ausführlicher Leitfaden darüber, wie Sie Ihre österreichische Staatsbürgerschaft nachweisen können."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihren rechtlichen Status als österreichischer Bürger
+  nachweisen. Anleitung zu Antragstellung, benötigten Dokumenten und Verfahrensablauf.
 draft: false
+meta_title: 'Staatsbürgerschaftsnachweis in Österreich: Antrag, Dokumente & Ablauf'
+title: 'Staatsbürgerschaftsnachweis in Österreich: Antrag, Dokumente & Ablauf'
+translationKey: austria-proof_of_citizenship
 ---
+
 
 ## Beschreibung
 ### Was ist das?

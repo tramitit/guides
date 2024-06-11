@@ -1,13 +1,16 @@
 ---
-translationKey: italy-drivers_license_renewal
-title: "Rinnovo della Patente di Guida"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa è la descrizione meta"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come e quando rinnovare la tua patente di guida in Italia, i documenti
+  necessari e i dettagli aggiuntivi su residenza abituale e cittadinanza doppia.
 draft: false
+meta_title: 'Rinnovo Patente di Guida in Italia: Procedura e Documenti Richiesti'
+title: 'Rinnovo Patente di Guida in Italia: Procedura e Documenti Richiesti'
+translationKey: italy-drivers_license_renewal
 ---
+
 
 ## Descrizione
 ### Che cos'è?

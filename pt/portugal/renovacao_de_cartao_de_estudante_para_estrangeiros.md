@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-renewal_of_student_card_for_foreigners
-title: "Renovação do Cartão de Estudante para Estrangeiros"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Esta é a descrição meta"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como renovar seu cartão de estudante em Portugal com todas as etapas,
+  documentos necessários e prestadores de serviço disponíveis.
 draft: false
+meta_title: 'Renovação do Cartão de Estudante em Portugal: Guia Completo'
+title: 'Renovação do Cartão de Estudante em Portugal: Guia Completo'
+translationKey: portugal-renewal_of_student_card_for_foreigners
 ---
+
 
 ## Descrição
 ### O que é?

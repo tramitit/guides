@@ -1,13 +1,16 @@
 ---
-title: "Extension of residence permit"
-author: "Ricardo Batista"
-date: "2022-10-16"
-categories: ["Germany"]
-meta_title: "Procedure for Extension of Residence Permit in Germany"
-description: "A comprehensive guide on how to extend your residence permit in Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2022-10-16'
+description: Learn how to extend your stay in Germany as a foreign national. Find
+  out the necessary documents and steps required for a successful application process.
 draft: false
-translationKey: "germany-extension_of_residence_permit"
+meta_title: 'Extending Residence Permit in Germany: Procedure & Requirements'
+title: 'Extending Residence Permit in Germany: Procedure & Requirements'
+translationKey: germany-extension_of_residence_permit
 ---
+
 
 ## Description
 ### What is it?

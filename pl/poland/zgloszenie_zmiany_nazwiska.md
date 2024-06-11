@@ -1,13 +1,16 @@
 ---
-translationKey: poland-change_of_surname_notification
-title: "Powiadomienie o zmianie nazwiska"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Przewodnik po powiadomieniu o zmianie nazwiska w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak dokonać powiadomienia o zmianie nazwiska w Polsce poprzez
+  dokumenty, procedury i informacje o dostawcy - wszystko, co musisz wiedzieć.
 draft: false
+meta_title: 'Zmiana nazwiska w Polsce: Procedura, Wymagane dokumenty i Dostawcy'
+title: 'Zmiana nazwiska w Polsce: Procedura, Wymagane dokumenty i Dostawcy'
+translationKey: poland-change_of_surname_notification
 ---
+
 
 ## Opis
 ### Co to jest?

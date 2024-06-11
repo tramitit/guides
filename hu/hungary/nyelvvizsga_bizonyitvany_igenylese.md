@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-language_exam_certificate_request
-title: "Nyelvvizsga igazolás kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Nyelvvizsga Igazolás Kérelem Útmutató"
-description: "Egy átfogó útmutató arról, hogyan lehet kérni nyelvvizsga igazolást Magyarországon, több forrás alapján."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Eltérő követelmények és szolgáltatók figyelembevételével vásárolja meg
+  a Nyelvvizsga Bizonyítványt. A folyamat lépései és szükséges dokumentumok áttekintése.
 draft: false
+meta_title: 'Nyelvvizsga Bizonyítvány: Sikeres felkészülés és beszerzés folyamata'
+title: 'Nyelvvizsga Bizonyítvány: Sikeres felkészülés és beszerzés folyamata'
+translationKey: hungary-language_exam_certificate_request
 ---
+
 
 ## Leírás
 ### Mi ez?

@@ -1,13 +1,16 @@
 ---
-translationKey: italy-family_status_certificate_request
-title: "Richiesta di Certificato di Stato di Famiglia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Guida passo dopo passo su come fare richiesta di Certificato di Stato di Famiglia in Italia"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere e ottenere un certificato di stato di famiglia
+  in Italia dal comune di residenza. Documenti necessari e consigli utili inclusi.
 draft: false
+meta_title: 'Certificato di Stato di Famiglia in Italia: Procedura e Requisiti'
+title: 'Certificato di Stato di Famiglia in Italia: Procedura e Requisiti'
+translationKey: italy-family_status_certificate_request
 ---
+
 
 ## Descrizione
 ### Che cos'è?

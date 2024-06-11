@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_criminal_record_extract
-title: "Aanvraag tot uittreksel uit het strafregister"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Deze gids bespreekt het proces van het aanvragen van een uittreksel uit het strafregister in België."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Leer hoe je een uittreksel uit het strafregister in België kunt aanvragen.
+  Ontdek wie het nodig heeft, benodigde documenten, aanbieders en procedure details.
 draft: false
+meta_title: 'Uittreksel Strafregister in België: Aanvraag & Procedure'
+title: 'Uittreksel Strafregister in België: Aanvraag & Procedure'
+translationKey: belgium-request_for_criminal_record_extract
 ---
+
 
 ## Beschrijving
 ### Wat is het?

@@ -1,13 +1,16 @@
 ---
-title: "Driver's License in Romania"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "How to get a Driver's License in Romania"
-description: "A step-by-step guide on how to acquire a driver's license in Romania."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how to obtain a Romanian driver's license including required documents,
+  steps, providers, and essential tips for driving safely in Romania.
 draft: false
-translationKey: "romania-drivers_license"
+meta_title: 'Romanian Driver''s License: Procedures, Requirements & Tips'
+title: 'Romanian Driver''s License: Procedures, Requirements & Tips'
+translationKey: romania-drivers_license
 ---
+
 
 ## Description
 ### What is it?

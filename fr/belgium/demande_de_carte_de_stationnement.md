@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_parking_card
-title: "Demande de carte de stationnement"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Guide étape par étape sur la manière de demander une carte de stationnement."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to obtain a parking permit, essential for parking in restricted
+  areas. Follow steps to apply, required documents, and provider details.
 draft: false
+meta_title: 'Parking Permit: How to Apply, Requirements & Providers'
+title: 'Parking Permit: How to Apply, Requirements & Providers'
+translationKey: belgium-request_for_parking_card
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

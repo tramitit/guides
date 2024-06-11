@@ -1,13 +1,16 @@
 ---
-title: "Health Insurance in Poland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Guide on Health Insurance in Poland"
-description: "A comprehensive step-by-step guide on how to do health insurance in Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn about public and private health insurance in Poland. Find out who
+  needs it, required documents, and top providers like NFZ, Luxmed, and Medicover.
 draft: false
-translationKey: "poland-health_insurance"
+meta_title: Comprehensive Health Insurance Guide in Poland for Expats
+title: Comprehensive Health Insurance Guide in Poland for Expats
+translationKey: poland-health_insurance
 ---
+
 
 ## Description
 ### What is it?

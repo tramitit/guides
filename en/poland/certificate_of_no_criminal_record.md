@@ -1,13 +1,16 @@
 ---
-title: "Certificate of No Criminal Record"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Detailed guide on obtaining a Certificate of No Criminal Record in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to obtain a Certificate of No Criminal Record in Poland, requirements,
+  and providers. Ensure you meet the set criteria for your specific needs.
 draft: false
-translationKey: "poland-certificate_of_no_criminal_record"
+meta_title: 'Certificate of No Criminal Record in Poland: Procedure & Providers'
+title: 'Certificate of No Criminal Record in Poland: Procedure & Providers'
+translationKey: poland-certificate_of_no_criminal_record
 ---
+
 
 ## Description
 ### What is it?

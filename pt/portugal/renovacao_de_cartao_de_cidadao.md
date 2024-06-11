@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-renewal_of_citizen_card
-title: "Renovação do Cartão de Cidadão"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Guia sobre como renovar o seu cartão de cidadão em Portugal"
-description: "Passos detalhados sobre como renovar o seu Cartão de Cidadão Português"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Renove seu Cartão de Cidadão português online ou pessoalmente. Veja os
+  documentos necessários e escolha entre os serviços disponíveis.
 draft: false
+meta_title: Descubra Como Renovar Seu Cartão de Cidadão Português
+title: Descubra Como Renovar Seu Cartão de Cidadão Português
+translationKey: portugal-renewal_of_citizen_card
 ---
+
 
 ## Descrição
 ### O que é?

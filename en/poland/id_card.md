@@ -1,13 +1,16 @@
 ---
-title: "ID card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Detailed guide on how to obtain an ID card in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to apply for a Polish ID Card, required documents, renewal
+  process, benefits of the card such as electronic services and costs involved.
 draft: false
-translationKey: "poland-id_card"
+meta_title: 'Polish ID Card (Dowod Osobisty): Application, Renewal & Benefits'
+title: 'Polish ID Card (Dowod Osobisty): Application, Renewal & Benefits'
+translationKey: poland-id_card
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Application for Parental Allowance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Detailed guide on applying for parental allowance in the Czech Republic"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn about the Parental Allowance in the Czech Republic, eligibility,
+  required documents, and the application process for financial assistance.
 draft: false
-translationKey: "czech-republic-application_for_parental_allowance"
+meta_title: 'Parental Allowance in Czech Republic: Benefits & Application Process'
+title: 'Parental Allowance in Czech Republic: Benefits & Application Process'
+translationKey: czech-republic-application_for_parental_allowance
 ---
+
 
 ## Description
 ### What is it?

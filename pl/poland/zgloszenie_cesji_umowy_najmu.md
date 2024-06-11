@@ -1,13 +1,16 @@
 ---
-translationKey: poland-assignment_of_lease_agreement_notification
-title: "Powiadomienie o przypisaniu umowy najmu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Powiadomienie o przypisaniu umowy najmu"
-description: "Ten przewodnik krok po kroku przeprowadzi Cię przez proces powiadomienia o przypisaniu umowy najmu"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się jak przekazać umowę najmu, kto tego potrzebuje, wymagane
+  dokumenty oraz porady dotyczące procesu. Zajrzyj do naszej instrukcji!
 draft: false
+meta_title: 'Przekazanie Umowy Najmu: Procedura, Wymagane Dokumenty i Porady'
+title: 'Przekazanie Umowy Najmu: Procedura, Wymagane Dokumenty i Porady'
+translationKey: poland-assignment_of_lease_agreement_notification
 ---
+
 
 ## Opis
 ### Co to jest?

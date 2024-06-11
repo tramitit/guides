@@ -1,13 +1,16 @@
 ---
-title: "Change of first name notification"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Procedure for Name Change Notification"
-description: "Step by step guide to name change notification process"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to change your name officially due to marriage, divorce, or
+  personal choice. Update records, IDs, bank info, and more efficiently.
 draft: false
-translationKey: "poland-change_of_first_name_notification"
+meta_title: 'Name Change Notification Process: How to Update Your Name Officially'
+title: 'Name Change Notification Process: How to Update Your Name Officially'
+translationKey: poland-change_of_first_name_notification
 ---
+
 
 ## Description
 ### What is it?

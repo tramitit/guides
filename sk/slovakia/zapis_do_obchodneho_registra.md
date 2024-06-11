@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-registration_in_the_commercial_register
-title: "Registrácia v obchodnom registri"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Registrácia v obchodnom registri na Slovensku: Krok za krokom sprievodca"
-description: "Priamy a jednoduchý sprievodca registráciou v obchodnom registri na Slovensku"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Získajte kompletný postup a požadované dokumenty pre registráciu a založenie
+  spoločnosti na Slovensku. Čaká vás 5-10 dní súdneho overenia a platby poplatkov.
 draft: false
+meta_title: 'Registrácia a založenie spoločnosti na Slovensku: Postup a dokumenty'
+title: 'Registrácia a založenie spoločnosti na Slovensku: Postup a dokumenty'
+translationKey: slovakia-registration_in_the_commercial_register
 ---
+
 
 ## Popis
 ### Čo je to?

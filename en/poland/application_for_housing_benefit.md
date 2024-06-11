@@ -1,13 +1,16 @@
 ---
-title: "Application for Housing Benefit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Step by step guide on how to apply for housing benefit in the UK"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to determine eligibility, apply, and receive Housing Benefit
+  in the UK administered by local councils. Details on required documents and providers.
 draft: false
-translationKey: "poland-application_for_housing_benefit"
+meta_title: 'Housing Benefit in the UK: Eligibility, Application, and Providers'
+title: 'Housing Benefit in the UK: Eligibility, Application, and Providers'
+translationKey: poland-application_for_housing_benefit
 ---
+
 
 ## Description
 ### What is it?

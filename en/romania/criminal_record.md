@@ -1,13 +1,16 @@
 ---
-title: "Criminal Record"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: 'Totul despre obținerea unui cazier judiciar în România: pași de urmat,
+  documente necesare și costuri implicate. Asigurați-vă că aveți ID valabil!'
 draft: false
-translationKey: "romania-criminal_record"
+meta_title: 'Cazier Judiciar: Procedura și Documentele Necesare'
+title: 'Cazier Judiciar: Procedura și Documentele Necesare'
+translationKey: romania-criminal_record
 ---
+
 
 ## Description
 ### What is it?

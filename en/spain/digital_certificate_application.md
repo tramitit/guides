@@ -1,13 +1,16 @@
 ---
-title: "Digital Certificate Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: 'Get a Certificado Digital for Spain online with FNMT. Ideal for those
+  moving or doing business in Spain. Required documents: ID, Passport. Renew yearly.'
 draft: false
-translationKey: "spain-digital_certificate_application"
+meta_title: 'Spanish Digital Certificate: Identity Verification for Spain'
+title: 'Spanish Digital Certificate: Identity Verification for Spain'
+translationKey: spain-digital_certificate_application
 ---
+
 
 ## Description
 

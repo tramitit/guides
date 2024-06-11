@@ -1,13 +1,16 @@
 ---
-title: "Tax Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "A detailed guide on obtaining Tax Residency Certificate in Romania."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum să obții un Certificat de Rezidență Fiscală în România, pașii
+  necesari și documentele solicitate pentru a-ți dovedi statutul fiscal.
 draft: false
-translationKey: "romania-tax_certificate"
+meta_title: Cum obții un Certificat de Rezidență Fiscală în România
+title: Cum obții un Certificat de Rezidență Fiscală în România
+translationKey: romania-tax_certificate
 ---
+
 
 ## Description
 

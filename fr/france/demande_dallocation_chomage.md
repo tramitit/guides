@@ -1,13 +1,16 @@
 ---
-translationKey: france-unemployment_benefit_application
-title: "Demande d'allocation chômage en France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Demander des allocations chômage en France"
-description: "Un guide complet pour demander des allocations chômage en France, y compris les documents requis et les étapes à suivre."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez la procédure pour bénéficier des allocations de chômage en
+  France, les documents requis, et des conseils utiles pour gérer votre demande efficacement.
 draft: false
+meta_title: 'Allocations de Chômage en France: Comment les Obtenir'
+title: 'Allocations de Chômage en France: Comment les Obtenir'
+translationKey: france-unemployment_benefit_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

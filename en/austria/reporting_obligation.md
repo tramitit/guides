@@ -1,13 +1,16 @@
 ---
-title: "Reporting Obligation"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detailed instructions for reporting obligation (Meldezettel) in Austria"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahre alles über den Meldezettel in Österreich, wer ihn benötigt, den
+  Ablauf und welche Dokumente erforderlich sind. Melde dich rechtzeitig an!
 draft: false
-translationKey: "austria-reporting_obligation"
+meta_title: 'Gesetzliche Meldepflicht in Österreich: Was du wissen musst'
+title: 'Gesetzliche Meldepflicht in Österreich: Was du wissen musst'
+translationKey: austria-reporting_obligation
 ---
+
 
 ## Description
 ### What is it?

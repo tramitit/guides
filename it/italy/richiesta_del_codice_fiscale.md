@@ -1,13 +1,16 @@
 ---
-translationKey: italy-tax_code_request
-title: "Richiesta Codice Fiscale in Italia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Come Richiedere un Codice Fiscale Italiano"
-description: "Guida passo-passo per richiedere un codice fiscale italiano, conosciuto anche come Codice Fiscale"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere il Codice Fiscale italiano, necessario per attività
+  in Italia. Dettagli sulla procedura, documenti e provider che possono assisterti.
 draft: false
+meta_title: 'Guida al Codice Fiscale Italiano: Procedura e Documenti Richiesti'
+title: 'Guida al Codice Fiscale Italiano: Procedura e Documenti Richiesti'
+translationKey: italy-tax_code_request
 ---
+
 
 ## Descrizione
 ### Che cos'è?

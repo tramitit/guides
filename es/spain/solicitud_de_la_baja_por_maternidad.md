@@ -1,13 +1,17 @@
 ---
-translationKey: spain-maternity_leave_application
-title: "Solicitud de Permiso de Maternidad en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Cómo Solicitar el Permiso de Maternidad en España"
-description: "Procedimiento paso a paso sobre cómo solicitar el permiso de maternidad en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar la baja por maternidad en España, los documentos
+  necesarios y plazos de aprobación. Aprovecha este derecho legal para cuidar de tu
+  hijo.
 draft: false
+meta_title: 'Baja por Maternidad en España: Procedimiento y Requisitos'
+title: 'Baja por Maternidad en España: Procedimiento y Requisitos'
+translationKey: spain-maternity_leave_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

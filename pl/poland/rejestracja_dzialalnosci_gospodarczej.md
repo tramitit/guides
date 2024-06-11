@@ -1,13 +1,16 @@
 ---
-translationKey: poland-business_registration
-title: "Rejestracja firmy w Polsce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Zarejestruj swoją firmę w Polsce: Przewodnik krok po kroku"
-description: "Ten przewodnik zapewnia kompleksowy przegląd tego, jak zarejestrować firmę w Polsce."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: 'Obejrzyj proces zakładania firmy w Polsce: od struktury firmy i rezerwacji
+  nazwy po rejestrację w urzędach. Wskazówki dla lokalnych i zagranicznych inwestorów.'
 draft: false
+meta_title: 'Rejestracja Firmy w Polsce: Przewodnik Krok po Kroku'
+title: 'Rejestracja Firmy w Polsce: Przewodnik Krok po Kroku'
+translationKey: poland-business_registration
 ---
+
 
 ## Opis
 ### Co to jest?

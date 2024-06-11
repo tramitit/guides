@@ -1,14 +1,16 @@
 ---
-translationKey: italy-maternity_allowance_application
-
-title: "Domanda per l'Assegno di Maternità"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Guida completa per richiedere l'assegno di maternità in Italia."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere l'Assegno di Maternità in Italia per lavoratori
+  e autonomi. Informati sui documenti necessari, enti coinvolte e tempistiche.
 draft: false
+meta_title: 'Guida all''Assegno di Maternità in Italia: Procedura e Requisiti'
+title: 'Guida all''Assegno di Maternità in Italia: Procedura e Requisiti'
+translationKey: italy-maternity_allowance_application
 ---
+
 
 ## Descrizione
 ### Cos'è?

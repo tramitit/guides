@@ -1,13 +1,16 @@
 ---
-title: "Issuance of birth certificate in Slovakia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Issuance of Birth Certificate in Slovakia: A Comprehensive Guide"
-description: "Detailing the steps required to acquire a birth certificate in Slovakia for both residents and Slovak citizens living abroad."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how Slovakian citizens can obtain a birth certificate, including
+  application process, required documents, and potential delays for those living abroad.
 draft: false
-translationKey: "slovakia-issuance_of_birth_certificate"
+meta_title: 'Obtaining a Birth Certificate in Slovakia: Procedures & Requirements'
+title: 'Obtaining a Birth Certificate in Slovakia: Procedures & Requirements'
+translationKey: slovakia-issuance_of_birth_certificate
 ---
+
 
 ## Description
 ### What is it?

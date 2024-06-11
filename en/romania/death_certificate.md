@@ -1,13 +1,16 @@
 ---
-title: "Death Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "This is a comprehensive guide on how to obtain a death certificate in Romania following the demise of a family member."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn who needs a death certificate, the process to obtain it, required
+  documents, & key details to ensure smooth legal proceedings.
 draft: false
-translationKey: "romania-death_certificate"
+meta_title: 'Death Certificate: Legal Document for Inheritance & Insurance'
+title: 'Death Certificate: Legal Document for Inheritance & Insurance'
+translationKey: romania-death_certificate
 ---
+
 
 ## Description
 ### What is it?

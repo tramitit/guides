@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_residence_permit_extension
-title: "Αίτηση για παράταση άδειας διαμονής"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Ένας πλήρης οδηγός για να σας βοηθήσει στη διαδικασία υποβολής αίτησης για παράταση άδειας διαμονής στην Ελλάδα."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε ποιοι χρειάζονται επέκταση άδειας διαμονής, διαδικασία αίτησης,
+  απαιτούμενα έγγραφα και πρόσθετες λεπτομέρειες στην Ελλάδα.
 draft: false
+meta_title: 'Επέκταση Άδειας Διαμονής στην Ελλάδα: Οδηγός και Απαιτούμενα Έγγραφα'
+title: 'Επέκταση Άδειας Διαμονής στην Ελλάδα: Οδηγός και Απαιτούμενα Έγγραφα'
+translationKey: greece-application_for_residence_permit_extension
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

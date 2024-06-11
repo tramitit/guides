@@ -1,13 +1,16 @@
 ---
-translationKey: austria-dog_registration
-title: "Hunde Registrierung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detaillierte Anweisungen zur Registrierung Ihres Hundes in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: 'Erfahren Sie, wie man einen Hund in Österreich anmeldet: Voraussetzungen,
+  Schritte, erforderliche Dokumente und wichtige Tipps für Hundebesitzer in Österreich.'
 draft: false
+meta_title: 'Hundeanmeldung in Österreich: Prozess, Anforderungen & Tipps'
+title: 'Hundeanmeldung in Österreich: Prozess, Anforderungen & Tipps'
+translationKey: austria-dog_registration
 ---
+
 
 ## Beschreibung
 ### Was ist es?

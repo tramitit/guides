@@ -1,13 +1,17 @@
 ---
-translationKey: bulgaria-registration_of_name_change_after_divorce
-title: "Регистрация на промяна на името след развод"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Регистрация на промяна на името след развод в България"
-description: "Ръководство за регистрация на промяна на името след развод в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да смените фамилното име след развод в България. Подробен
+  процес и необходими документи, включително регулации и съвети за успешна смяна на
+  името.
 draft: false
+meta_title: Процес за смяна на фамилното име след развод в България
+title: Процес за смяна на фамилното име след развод в България
+translationKey: bulgaria-registration_of_name_change_after_divorce
 ---
+
 
 ## Описание
 ### Какво е това?

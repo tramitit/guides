@@ -1,13 +1,16 @@
 ---
-title: "Car Registration Application in Austria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Car Registration in Austria Guide"
-description: "Step by step guide to car registration in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to register a car in Austria as a resident or EU citizen. Follow
+  the guide to pass inspections, get insurance, and pay fees hassle-free.
 draft: false
-translationKey: "austria-car_registration_application"
+meta_title: 'Car Registration Guide in Austria: Procedure & Documents'
+title: 'Car Registration Guide in Austria: Procedure & Documents'
+translationKey: austria-car_registration_application
 ---
+
 
 ## Description
 ### What is it?

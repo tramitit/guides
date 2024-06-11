@@ -1,13 +1,16 @@
 ---
-title: "Request for travel authorization"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This comprehensive step-by-step guide informs you on how to apply for travel authorization. Ideal for travelers planning a trip to Europe or any other place that requires travel authorization."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how US citizens can obtain travel authorizations or visas for Europe
+  and other destinations. Ensure you have all required documents and apply on time.
 draft: false
-translationKey: "belgium-request_for_travel_authorization"
+meta_title: 'Guide for US Citizens: Travel Authorization & Visa Requirements'
+title: 'Guide for US Citizens: Travel Authorization & Visa Requirements'
+translationKey: belgium-request_for_travel_authorization
 ---
+
 
 ## Description
 ### What is it?

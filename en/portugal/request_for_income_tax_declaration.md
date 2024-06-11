@@ -1,13 +1,16 @@
 ---
-title: "Request for Income Tax Declaration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is a step by step guide on how to request for income tax declaration."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Understand the income tax declaration process, required documents, and
+  provider options. Get guidance for Portugal's tax ID updates and exemptions.
 draft: false
-translationKey: "portugal-request_for_income_tax_declaration"
+meta_title: 'Income Tax Declaration Process: Requirements & Providers'
+title: 'Income Tax Declaration Process: Requirements & Providers'
+translationKey: portugal-request_for_income_tax_declaration
 ---
+
 
 ## Description
 ### What is it?

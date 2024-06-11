@@ -1,13 +1,17 @@
 ---
-title: "Vehicle deregistration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Vehicle deregistration in Germany"
-description: "A guide on how to deregister a vehicle in Germany and required procedures."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to deregister a vehicle in Germany with ease. Follow steps
+  to submit required docs and obtain a de-registration certificate for a hassle-free
+  process.
 draft: false
-translationKey: "germany-vehicle_deregistration"
+meta_title: 'German Vehicle Deregistration Process: Steps and Documents'
+title: 'German Vehicle Deregistration Process: Steps and Documents'
+translationKey: germany-vehicle_deregistration
 ---
+
 
 ## Description
 ### What is it?

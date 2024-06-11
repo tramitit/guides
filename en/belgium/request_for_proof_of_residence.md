@@ -1,13 +1,16 @@
 ---
-title: "Request for proof of residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This is a detailed guide on how to request and obtain a proof of residence, which may be required for a number of administrative procedures, including opening a bank account, immigrating to a new country, or applying for citizenship."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to obtain a Proof of Residence for bank accounts, loans, or
+  citizenship. Follow our steps and check required documents for various purposes.
 draft: false
-translationKey: "belgium-request_for_proof_of_residence"
+meta_title: 'Proof of Residence: Complete Guide for Utility and Bank Verification'
+title: 'Proof of Residence: Complete Guide for Utility and Bank Verification'
+translationKey: belgium-request_for_proof_of_residence
 ---
+
 
 ## Description
 ### What is it?

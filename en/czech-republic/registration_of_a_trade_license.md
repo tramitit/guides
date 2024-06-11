@@ -1,13 +1,16 @@
 ---
-title: "Registration of a Trade License"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Trade License Registration in the Czech Republic"
-description: "A guide on the procedure and required documents for trade license registration in the Czech Republic"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to get a Trade License (Živnostenský list) in the Czech Republic
+  as an individual or business owner. Steps, requirements, and providers included.
 draft: false
-translationKey: "czech-republic-registration_of_a_trade_license"
+meta_title: Trade License (Živnostenský list) in Czech Republic
+title: Trade License (Živnostenský list) in Czech Republic
+translationKey: czech-republic-registration_of_a_trade_license
 ---
+
 
 ## Description
 ### What is it?

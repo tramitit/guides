@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_inheritance_acceptance
-title: "Αίτηση για Αποδοχή Κληρονομιάς"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Οδηγός για την αποδοχή κληρονομιάς, εστιάζοντας ειδικά στην ιδιοκτησία στην Ελλάδα"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε την απαραίτητη διαδικασία για να διεκδικήσετε κληρονομία στην
+  Ελλάδα. Απαιτούμενα έγγραφα, πρόσληψη δικηγόρου και συμβουλές για μη κατοίκους.
 draft: false
+meta_title: 'Αίτηση για Αποδοχή Κληρονομιάς: Οδηγός Ελλάδας για Κληρονόμους'
+title: 'Αίτηση για Αποδοχή Κληρονομιάς: Οδηγός Ελλάδας για Κληρονόμους'
+translationKey: greece-application_for_inheritance_acceptance
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

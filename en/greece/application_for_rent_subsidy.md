@@ -1,13 +1,16 @@
 ---
-title: "Application for rent subsidy"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Guide to Applying for Rent Subsidy in Greece"
-description: "This guide explains how to apply for a rent subsidy in Greece, including the necessary documents and steps."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn about rent subsidies, eligibility checks, required documents, application
+  steps, and providers. Get financial aid to afford your rental costs today!
 draft: false
-translationKey: "greece-application_for_rent_subsidy"
+meta_title: 'Rent Subsidy Guide: Eligibility, Application Steps, Providers'
+title: 'Rent Subsidy Guide: Eligibility, Application Steps, Providers'
+translationKey: greece-application_for_rent_subsidy
 ---
+
 
 ## Description
 ### What is it?

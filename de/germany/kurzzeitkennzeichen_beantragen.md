@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_temporary_license_plates
-title: "Beantragung von Kurzzeitkennzeichen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Leitfaden zur Beantragung von Kurzzeitkennzeichen in Deutschland"
-description: "Ein umfassender Leitfaden zur Beantragung von Kurzzeitkennzeichen in Deutschland"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Kurzzeitkennzeichen beantragt werden, wer sie benötigt
+  und die Anforderungen. Lokale Zulassungsbehörden und Dokumente erklärt.
 draft: false
+meta_title: 'Kurzzeitkennzeichen: Registrierung & Verfahren für Fahrzeughalter'
+title: 'Kurzzeitkennzeichen: Registrierung & Verfahren für Fahrzeughalter'
+translationKey: germany-applying_for_temporary_license_plates
 ---
+
 
 ## Beschreibung
 ### Was ist das?

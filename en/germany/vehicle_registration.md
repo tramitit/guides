@@ -1,13 +1,16 @@
 ---
-title: "Vehicle registration in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Vehicle Registration in Germany: A Guide"
-description: "A practical guide on how to register your vehicle in Germany"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to register a vehicle in Germany by following the mandatory
+  steps and required documents. Ensure compliance to avoid penalties or fines.
 draft: false
-translationKey: "germany-vehicle_registration"
+meta_title: Vehicle Registration Process in Germany - How to Register a Car
+title: Vehicle Registration Process in Germany - How to Register a Car
+translationKey: germany-vehicle_registration
 ---
+
 
 ## Description
 ### What is it?

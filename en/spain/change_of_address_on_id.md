@@ -1,13 +1,16 @@
 ---
-title: "Change of Address on ID"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "A step-by-step guide to change the address on your ID in Spain."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Aprende cómo cambiar la dirección en tu NIE en España. Procedimiento,
+  documentos requeridos y más información útil para residentes extranjeros.
 draft: false
-translationKey: "spain-change_of_address_on_id"
+meta_title: Guía para cambiar la dirección en el NIE en España
+title: Guía para cambiar la dirección en el NIE en España
+translationKey: spain-change_of_address_on_id
 ---
+
 
 ## Description
 ### What is it?

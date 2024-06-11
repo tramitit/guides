@@ -1,13 +1,17 @@
 ---
-title: "Urban Destination Certificate Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guide to Requesting an Urban Destination Certificate"
-description: "Detailed step-by-step guide on how to apply for an Urban Destination Certificate"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to get an Urban Destination Certificate, required for property
+  changes, transactions. Follow steps, submit documents & check local council for
+  info.
 draft: false
-translationKey: "italy-urban_destination_certificate_request"
+meta_title: 'Urban Destination Certificate: How to Obtain & Why You Need It'
+title: 'Urban Destination Certificate: How to Obtain & Why You Need It'
+translationKey: italy-urban_destination_certificate_request
 ---
+
 
 ## Description
 ### What is it?

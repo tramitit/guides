@@ -1,13 +1,17 @@
 ---
-title: "Death Certificate Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This guide provides step-by-step instructions on how to apply for a death certificate in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn the essential steps, documents, and providers needed to obtain
+  a death certificate in Austria. Ensure a smooth process in managing the deceased's
+  estate.
 draft: false
-translationKey: "austria-death_certificate_application"
+meta_title: 'How to Obtain a Death Certificate in Austria: A Complete Guide'
+title: 'How to Obtain a Death Certificate in Austria: A Complete Guide'
+translationKey: austria-death_certificate_application
 ---
+
 
 ## Description
 ### What is it?

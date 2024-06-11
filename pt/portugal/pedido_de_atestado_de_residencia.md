@@ -1,13 +1,17 @@
 ---
-translationKey: portugal-request_for_residence_certificate
-title: "Pedido de Certificado de Residência"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Esta é a descrição meta"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como solicitar um Atestado de Residência em Portugal, documentos
+  necessários e entidades envolvidas. Informações sobre prazos, custos e variações
+  locais.
 draft: false
+meta_title: 'Obter Atestado de Residência em Portugal: Procedimento e Documentos'
+title: 'Obter Atestado de Residência em Portugal: Procedimento e Documentos'
+translationKey: portugal-request_for_residence_certificate
 ---
+
 
 ## Descrição
 ### O que é?

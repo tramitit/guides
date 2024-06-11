@@ -1,13 +1,16 @@
 ---
-translationKey: austria-vehicle_deregistration
-title: "Fahrzeugabmeldung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Ein Leitfaden zur Abmeldung eines Fahrzeugs in Österreich"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Fahrzeughalter in Österreich offiziell ihre Fahrzeuge
+  abmelden können. Schützen Sie sich vor unnötigen Kosten und Verantwortlichkeiten.
 draft: false
+meta_title: 'Fahrzeugabmeldung in Österreich: Verfahren und erforderliche Dokumente'
+title: 'Fahrzeugabmeldung in Österreich: Verfahren und erforderliche Dokumente'
+translationKey: austria-vehicle_deregistration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

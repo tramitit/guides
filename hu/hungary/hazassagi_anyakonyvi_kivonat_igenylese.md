@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-marriage_certificate_application
-title: "Házassági anyakönyvi kivonat kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Házassági Anyakönyvi Kivonat Kérelem Útmutató Magyarországon"
-description: "Egy átfogó útmutató arról, hogyan lehet kérvényezni házassági anyakönyvi kivonatot Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: A jogi eljárás részletei Magyarországon házasítási anyakönyvi kivonat
+  igényléséhez. Szükséges dokumentumok, eljárás lépései, szolgáltatók és tippek.
 draft: false
+meta_title: Házasítási Anyakönyvi Kivonat Kérelmezése Magyarországon
+title: Házasítási Anyakönyvi Kivonat Kérelmezése Magyarországon
+translationKey: hungary-marriage_certificate_application
 ---
+
 
 ## Leírás
 ### Mi is ez?

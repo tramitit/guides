@@ -1,13 +1,16 @@
 ---
-translationKey: france-sick_leave_application
-title: "Demande de congé maladie"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide pour la Demande de Congé Maladie"
-description: "Guide détaillé sur la façon de demander un congé maladie en France et en Suisse."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment demander un arrêt maladie en France et en Suisse, les
+  étapes à suivre, les documents nécessaires, et les détails sur les indemnisations.
 draft: false
+meta_title: 'Demande d''Arrêt Maladie: Procédure et Documents Requis'
+title: 'Demande d''Arrêt Maladie: Procédure et Documents Requis'
+translationKey: france-sick_leave_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

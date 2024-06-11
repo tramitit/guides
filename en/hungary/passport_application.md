@@ -1,13 +1,16 @@
 ---
-title: "Passport application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Step by Step Guide to Hungarian Passport Application"
-description: "A comprehensive guide detailing how to apply for a Hungarian passport."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how Hungarian citizens can apply for a passport at an embassy,
+  including eligibility, documents needed, and steps like an interview and oath-taking.
 draft: false
-translationKey: "hungary-passport_application"
+meta_title: 'Hungarian Passport: Application Procedure and Required Documents'
+title: 'Hungarian Passport: Application Procedure and Required Documents'
+translationKey: hungary-passport_application
 ---
+
 
 ## Description
 ### What is it?

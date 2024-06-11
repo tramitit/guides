@@ -1,13 +1,16 @@
 ---
-title: "Passport Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Passport Application Procedure"
-description: "Detailed guide on the passport application process with necessary documentation and timelines."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to apply for a passport, including required documents, biometric
+  info, and processing times. Find providers and costs for a hassle-free experience.
 draft: false
-translationKey: "austria-passport_application"
+meta_title: 'Passport Application: Procedures, Requirements & Providers'
+title: 'Passport Application: Procedures, Requirements & Providers'
+translationKey: austria-passport_application
 ---
+
 
 ## Description
 ### What is it?

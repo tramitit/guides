@@ -1,13 +1,16 @@
 ---
-title: "Health Card Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "How to Apply for a Health Card in Spain"
-description: "Step by step guide on how to apply for a health card in Spain, also known as the 'Tarjeta Sanitaria Europea'."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to obtain the 'Tarjeta Sanitaria Europea' to access healthcare
+  benefits in Spain. Process, required docs, and additional info provided.
 draft: false
-translationKey: "spain-health_card_application"
+meta_title: 'How to Get Your Health Card in Spain: Process & Details'
+title: 'How to Get Your Health Card in Spain: Process & Details'
+translationKey: spain-health_card_application
 ---
+
 
 ## Description
 ### What is it?

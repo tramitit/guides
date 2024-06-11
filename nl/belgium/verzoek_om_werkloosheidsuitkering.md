@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_unemployment_benefits
-title: "Aanvraag voor Werkloosheidsuitkeringen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Deze gids biedt stapsgewijze instructies over hoe je werkloosheidsuitkeringen kunt aanvragen in België."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Stappen, vereiste documenten en instanties voor het aanvragen van werkloosheidsuitkeringen
+  in België. Inclusief opties voor aanbieders en bijzondere situaties.
 draft: false
+meta_title: Gids voor Werkloosheidsuitkeringen Aanvragen in België
+title: Gids voor Werkloosheidsuitkeringen Aanvragen in België
+translationKey: belgium-request_for_unemployment_benefits
 ---
+
 
 ## Beschrijving
 ### Voor wie is dit?

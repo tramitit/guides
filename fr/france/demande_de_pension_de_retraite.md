@@ -1,13 +1,16 @@
 ---
-translationKey: france-retirement_pension_application
-title: "Demande de pension de retraite en France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide pour demander une pension de retraite en France"
-description: "Procédure étape par étape pour demander une pension de retraite en France, incluant les documents requis, les démarches à suivre et les prestataires potentiels."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez qui est éligible, les démarches à suivre et les documents nécessaires
+  pour demander une pension de retraite en France. Maximisez vos prestations!
 draft: false
+meta_title: 'Pension de Retraite en France: Admissibilité, Documents & Procédure'
+title: 'Pension de Retraite en France: Admissibilité, Documents & Procédure'
+translationKey: france-retirement_pension_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est ?

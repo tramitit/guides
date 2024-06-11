@@ -1,13 +1,17 @@
 ---
-title: "Opening a Bank Account in Spain"
-meta_title: "Guide to Opening a Bank Account in Spain"
-description: "A step-by-step guide on how to open a bank account in Spain for foreigners. Includes necessary procedures, documents, and services that can help."
-date: 2024-05-22T05:00:00Z
-categories: ["Spain"]
-author: "Ricardo Batista"
-tags: ["Foreigners"]
+author: Ricardo Batista
+categories:
+- Spain
+date: 2024-05-22 05:00:00+00:00
+description: Learn how to open a bank account in Spain as a foreigner for work, study,
+  or residency. Find steps, required documents, and popular bank options for expats.
 draft: false
+meta_title: 'Opening a Bank Account in Spain: A Guide for Expats'
+tags:
+- Foreigners
+title: 'Opening a Bank Account in Spain: A Guide for Expats'
 ---
+
 
 ## Description
 

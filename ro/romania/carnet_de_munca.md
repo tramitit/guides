@@ -1,13 +1,16 @@
 ---
-translationKey: romania-work_record_book
-title: "Carte de Muncă"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Un ghid cuprinzător despre cum să mențineți și să gestionați o Carte de Muncă."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how to structure a work portfolio to showcase your skills and achievements
+  professionally. Essential for job seekers and career advancement.
 draft: false
+meta_title: 'Creating an Effective Work Portfolio: Guide & Tips'
+title: 'Creating an Effective Work Portfolio: Guide & Tips'
+translationKey: romania-work_record_book
 ---
+
 
 ## Descriere
 ### Ce este?

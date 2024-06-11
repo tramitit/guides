@@ -1,13 +1,16 @@
 ---
-title: "Operating Permit for Companies"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Detailed information on obtaining operating permits for companies in Romania"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn about the legal necessity of an operating permit for companies
+  in Romania. Detailed procedures, required documents, and service providers included.
 draft: false
-translationKey: "romania-operating_permit_for_companies"
+meta_title: Operating Permit in Romania & Procedures for Businesses
+title: Operating Permit in Romania & Procedures for Businesses
+translationKey: romania-operating_permit_for_companies
 ---
+
 
 ## Description
 ### What is it?

@@ -1,14 +1,16 @@
 ---
-
-title: "Report of copyright infringement"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Guidance on reporting copyright infringement on Reddit"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to report copyright infringement on Reddit, including required
+  documents & providers. Understand the process to avoid legal consequences.
 draft: false
-translationKey: "poland-report_of_copyright_infringement"
+meta_title: 'Reporting Copyright Infringement on Reddit: Procedure & Providers'
+title: 'Reporting Copyright Infringement on Reddit: Procedure & Providers'
+translationKey: poland-report_of_copyright_infringement
 ---
+
 
 ## Description
 ### What is it?

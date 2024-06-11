@@ -1,14 +1,16 @@
 ---
-
-title: "Address Change Notification for Expats"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "A comprehensive guide for expatriates on how to notify relevant entities about an address change"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn the vital steps and required documents to update your address with
+  institutions, agencies, and services as an expatriate.
 draft: false
-translationKey: "romania-address_change_notification_for_expats"
+meta_title: 'Essential Guide for Expatriates: Changing Your Address Effectively'
+title: 'Essential Guide for Expatriates: Changing Your Address Effectively'
+translationKey: romania-address_change_notification_for_expats
 ---
+
 
 ## Description
 ### What is it?

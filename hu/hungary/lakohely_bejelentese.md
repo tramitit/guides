@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-residence_registration
-title: "Lakcím bejelentés"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Egy lépésről lépésre útmutató arról, hogyan lehet lakcímet bejelenteni Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg a lakcímváltoztatás jogi követelményeit Magyarországon, a
+  szükséges dokumentumokat és az eljárást, beleértve a tartózkodási feltételeket is.
 draft: false
+meta_title: Lakcímváltoztatás Magyarországon - Eljárás és Szükséges Dokumentumok
+title: Lakcímváltoztatás Magyarországon - Eljárás és Szükséges Dokumentumok
+translationKey: hungary-residence_registration
 ---
+
 
 ## Leírás
 ### Mi ez?

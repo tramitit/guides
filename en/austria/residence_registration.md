@@ -1,13 +1,16 @@
 ---
-title: "Residence Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Step-by-step residence registration procedure in Austria and Germany"
-description: "This guide provides step-by-step information on residency registration requirements and procedure in Austria and Germany."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: 'Mandatory residence registration process (Anmeldung) for locals and
+  expats in Germany and Austria: steps, documents, and tips.'
 draft: false
-translationKey: "austria-residence_registration"
+meta_title: Guide to Residence Registration (Anmeldung) in Germany and Austria
+title: Guide to Residence Registration (Anmeldung) in Germany and Austria
+translationKey: austria-residence_registration
 ---
+
 
 ## Description
 ### What is it?

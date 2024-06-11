@@ -1,13 +1,16 @@
 ---
-title: "Business deregistration in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "How to Deregister a business in Germany"
-description: "Step-by-step guide to deregister a business in Germany"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn the legal process of Gewerbeabmeldung in Germany for ceasing business
+  activities. Follow steps, required documents, and expert provider details easily.
 draft: false
-translationKey: "germany-business_deregistration"
+meta_title: 'Business Deregistration in Germany: How to Terminate a Company'
+title: 'Business Deregistration in Germany: How to Terminate a Company'
+translationKey: germany-business_deregistration
 ---
+
 
 ## Description
 ### What is it?

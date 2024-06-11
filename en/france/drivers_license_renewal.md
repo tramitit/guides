@@ -1,13 +1,16 @@
 ---
-title: "Driver's license renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "How to Renew a Driver's License in France"
-description: "Step-by-step guide on how to renew your driver's license in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn the process and requirements for renewing your driver's license
+  in France online. Stay legal and avoid penalties with a renewed license.
 draft: false
-translationKey: "france-drivers_license_renewal"
+meta_title: 'Driver''s License Renewal in France: How to Renew Your Expired License'
+title: 'Driver''s License Renewal in France: How to Renew Your Expired License'
+translationKey: france-drivers_license_renewal
 ---
+
 
 ## Description
 ### What is it?

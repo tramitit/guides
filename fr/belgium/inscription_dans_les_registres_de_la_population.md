@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-registration_in_the_population_registers
-title: "Inscription dans les registres de population"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Un guide pour s'inscrire dans les registres de population en Belgique"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez la procédure d'inscription obligatoire en Belgique pour résider
+  dans le pays, accéder aux services et droits, et participer au vote obligatoire.
 draft: false
+meta_title: Inscription dans les Registres de la Population en Belgique
+title: Inscription dans les Registres de la Population en Belgique
+translationKey: belgium-registration_in_the_population_registers
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

@@ -1,13 +1,16 @@
 ---
-translationKey: greece-rental_announcement
-title: "Αγγελία ενοικίασης"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Εδώ θα βρείτε τα πάντα που χρειάζεστε για να κάνετε μια επιτυχημένη αγγελία ενοικίασης στην Ελλάδα"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Ανακοινώστε την κατοικία σας προς ενοικίαση με ασφάλεια και επιτυχία
+  στην Ελλάδα, ακολουθώντας τη σωστή διαδικασία και τα απαραίτητα έγγραφα.
 draft: false
+meta_title: 'Ανακοίνωση Ενοικίασης: Οδηγός για Ιδιοκτήτες Ακινήτων στην Ελλάδα'
+title: 'Ανακοίνωση Ενοικίασης: Οδηγός για Ιδιοκτήτες Ακινήτων στην Ελλάδα'
+translationKey: greece-rental_announcement
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

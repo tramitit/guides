@@ -1,13 +1,17 @@
 ---
-translationKey: greece-registration_in_the_unemployed_register
-title: "Εγγραφή στο Μητρώο Ανέργων"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Πώς να Εγγραφείτε στο Μητρώο Ανέργων στην Ελλάδα"
-description: "Οδηγός βημά προς βήμα για την εγγραφή ως ανέργων στην Ελλάδα και τη χρησιμοποίηση σχετικών παροχών"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε πώς να εγγραφείτε στο Μητρώο των Ανέργων στην Ελλάδα και ποια
+  έγγραφα χρειάζεστε. Ανακαλύψτε τους παρόχους και τις διαδικασίες για την επίσημη
+  εγγραφή.
 draft: false
+meta_title: 'Μητρώο Ανέργων στην Ελλάδα: Εγγραφή και Απαιτούμενα Έγγραφα'
+title: 'Μητρώο Ανέργων στην Ελλάδα: Εγγραφή και Απαιτούμενα Έγγραφα'
+translationKey: greece-registration_in_the_unemployed_register
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

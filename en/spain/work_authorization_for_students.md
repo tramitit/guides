@@ -1,13 +1,16 @@
 ---
-title: "Work Authorization for Students in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Work Authorization for Students in Spain"
-description: "A comprehensive guide on how to gain work authorization for students in Spain."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how non-EU students can study in Spain and work legally with this
+  guide. Includes procedures, required documents, and additional details on the process.
 draft: false
-translationKey: "spain-work_authorization_for_students"
+meta_title: Work Authorization for International Students in Spain
+title: Work Authorization for International Students in Spain
+translationKey: spain-work_authorization_for_students
 ---
+
 
 ## Description
 ### What is it?

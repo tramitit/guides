@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-application_for_a_criminal_record_extract
-title: "Žiadosť o výpis z registra trestov na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Toto je postupný sprievodca, ako podať žiadosť o výpis z registra trestov na Slovensku."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Získajte výpis z trestného registra na Slovensku pre účely zamestnania,
+  imigrácie alebo súdneho konania. Postup, dokumenty a poskytovatelia služby s cenami.
 draft: false
+meta_title: 'Trestný register na Slovensku: Získanie výpisu a požadované dokumenty'
+title: 'Trestný register na Slovensku: Získanie výpisu a požadované dokumenty'
+translationKey: slovakia-application_for_a_criminal_record_extract
 ---
+
 
 ## Popis
 ### Čo to je?

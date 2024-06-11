@@ -1,13 +1,16 @@
 ---
-title: "Registration in the Unemployed Register"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "How to Register in the Unemployed Register in Greece"
-description: "Step-by-step guide to register as unemployed in Greece and avail related benefits"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to register as unemployed in Greece through OAED to access
+  government benefits. Follow steps, documents needed, and eligibility details.
 draft: false
-translationKey: "greece-registration_in_the_unemployed_register"
+meta_title: Register as Unemployed in Greece for Benefits | OAED Guide
+title: Register as Unemployed in Greece for Benefits | OAED Guide
+translationKey: greece-registration_in_the_unemployed_register
 ---
+
 
 ## Description
 ### What is it?

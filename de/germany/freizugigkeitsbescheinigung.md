@@ -1,13 +1,16 @@
 ---
-translationKey: germany-certificate_of_free_movement
-title: "Zertifikat der Freizügigkeit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dies ist eine Meta-Beschreibung"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie EU-, EWR- und Schweizer Bürger die Freizügigkeitsbescheinigung
+  beantragen. Notwendige Dokumente, Ablauf und Kosten erklärt. Alle Details hier.
 draft: false
+meta_title: 'Freizügigkeitsbescheinigung in Deutschland: Antrag, Dokumente, Kosten'
+title: 'Freizügigkeitsbescheinigung in Deutschland: Antrag, Dokumente, Kosten'
+translationKey: germany-certificate_of_free_movement
 ---
+
 
 ## Beschreibung
 ### Was ist das?

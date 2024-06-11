@@ -1,13 +1,17 @@
 ---
-translationKey: france-income_tax_declaration
-title: "Déclaration de revenus"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Déclaration de revenus en France"
-description: "Un guide pour la déclaration de revenus en France couvrant les actions, les revenus étrangers et les situations de revenus dans deux pays."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment déclarer vos revenus en France, incluant les revenus
+  étrangers et de stocks. Suivez les étapes pour remplir correctement votre déclaration
+  fiscale.
 draft: false
+meta_title: 'Guide de la Déclaration de Revenus en France: Étapes et Exigences'
+title: 'Guide de la Déclaration de Revenus en France: Étapes et Exigences'
+translationKey: france-income_tax_declaration
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

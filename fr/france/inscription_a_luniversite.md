@@ -1,13 +1,17 @@
 ---
-translationKey: france-university_registration
-title: "Inscription universitaire"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide d'inscription universitaire en France pour les étudiants internationaux"
-description: "Il s'agit d'un guide complet pour comprendre comment s'inscrire en tant qu'étudiant international dans une université française, y compris les étapes, les exigences et les frais."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez les étapes de l'inscription à l'université en France pour les
+  étudiants internationaux. Procédure, documents requis, coûts et conseils utiles
+  inclus.
 draft: false
+meta_title: Guide Complet pour l'Inscription Universitaire en France
+title: Guide Complet pour l'Inscription Universitaire en France
+translationKey: france-university_registration
 ---
+
 
 
 ## Description

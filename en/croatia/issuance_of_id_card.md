@@ -1,13 +1,16 @@
 ---
-title: "Issuance of ID card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: ""
-description: "This is a step by step guide on how to apply for an ID card in Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Learn the steps to apply for a Croatian national ID card, required documents,
+  process details, and where to get it done. For citizens and residents in Croatia.
 draft: false
-translationKey: "croatia-issuance_of_id_card"
+meta_title: 'How to Get a Croatian National ID Card: Procedure & Requirements'
+title: 'How to Get a Croatian National ID Card: Procedure & Requirements'
+translationKey: croatia-issuance_of_id_card
 ---
+
 
 ## Description
 ### What is it?

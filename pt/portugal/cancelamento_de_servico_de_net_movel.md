@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-cancellation_of_mobile_internet_service
-title: "Cancelamento do Serviço de Internet Móvel"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Guia para Cancelar o seu Serviço de Internet Móvel"
-description: "Um guia passo a passo sobre como cancelar o seu serviço de internet móvel"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como encerrar seu serviço de internet móvel, passo a passo. Dicas
+  para lidar com provedores, documentação necessária e cuidados para evitar penalidades.
 draft: false
+meta_title: 'Como Cancelar o Serviço de Internet Móvel: Procedimentos e Dicas Úteis'
+title: 'Como Cancelar o Serviço de Internet Móvel: Procedimentos e Dicas Úteis'
+translationKey: portugal-cancellation_of_mobile_internet_service
 ---
+
 
 ## Descrição
 ### O que é isso?

@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_a_building_permit
-title: "Žádost o stavební povolení"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Toto je meta popis"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, kdo a jak může získat stavební povolení v České Republice.
+  Postup od plánů po schválení a požadované dokumenty. Poradíme s termíny a náklady.
 draft: false
+meta_title: 'Stavební Povolení v České Republice: Postup a Požadavky'
+title: 'Stavební Povolení v České Republice: Postup a Požadavky'
+translationKey: czech republic-application_for_a_building_permit
 ---
+
 
 ## Popis
 ### Co to je?

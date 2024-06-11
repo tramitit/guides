@@ -1,13 +1,16 @@
 ---
-title: "Appointment Request for SEPE (Public Service of State Employment) in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guide for SEPE Appointment Booking"
-description: "Detailed guide on how to ask for an appointment with SEPE in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to schedule a SEPE appointment in Spain for unemployment benefits
+  and required documents. Tips on booking, rescheduling, and cancellation included.
 draft: false
-translationKey: "spain-appointment_request_for_sepe"
+meta_title: 'SEPE Appointment: How to Book for Unemployment Benefits'
+title: 'SEPE Appointment: How to Book for Unemployment Benefits'
+translationKey: spain-appointment_request_for_sepe
 ---
+
 
 ## Description
 ### What is it?

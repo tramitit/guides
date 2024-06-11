@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-pension_application
-title: "Nyugdíj kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Nyugdíj kérelem Magyarországon útmutató"
-description: "Egy lépésről lépésre útmutató a nyugdíj kérelem benyújtásához Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Átfogó útmutató a nyugdíj igényléséről Magyarországon, szükséges dokumentumokkal
+  és szakemberek ajánlásaival. Expatriánsoknak is hasznos.
 draft: false
+meta_title: 'Nyugdíjigénylés Magyarországon: Útmutató és Szükséges Dokumentumok'
+title: 'Nyugdíjigénylés Magyarországon: Útmutató és Szükséges Dokumentumok'
+translationKey: hungary-pension_application
 ---
+
 
 ## Leírás
 ### Mi ez?

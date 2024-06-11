@@ -1,13 +1,16 @@
 ---
-title: "Traffic fine payment in Hungary"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: " Guide on How to Pay Traffic Fines in Hungary"
-description: "Detailed instructions on how to pay traffic fines in Hungary"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to pay traffic fines in Hungary efficiently. Follow a detailed
+  procedure and required documents. Providers available for immediate assistance.
 draft: false
-translationKey: "hungary-traffic_fine_payment"
+meta_title: 'Paying Traffic Fines in Hungary: Step-by-Step Guide'
+title: 'Paying Traffic Fines in Hungary: Step-by-Step Guide'
+translationKey: hungary-traffic_fine_payment
 ---
+
 
 ## Description
 ### What is it?

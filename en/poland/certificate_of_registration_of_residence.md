@@ -1,13 +1,16 @@
 ---
-title: "Certificate of registration of residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "This is a comprehensive guide to help individuals understand and navigate the process of acquiring a certificate of registration of residence in Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to obtain a legal residence document in Poland for stays over
+  90 days. Find out requirements, procedures, and providers. Stay informed!
 draft: false
-translationKey: "poland-certificate_of_registration_of_residence"
+meta_title: Certificate of Registration of Residence in Poland
+title: Certificate of Registration of Residence in Poland
+translationKey: poland-certificate_of_registration_of_residence
 ---
+
 
 ## Description
 ### What is it?

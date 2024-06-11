@@ -1,13 +1,16 @@
 ---
-title: "Applying for a tax card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Applying for a Tax Card in Germany - Step by Step"
-description: "Learn how to apply for a tax card (Steuerkarte) in Germany, why you need it and what documents are required."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to get a tax card in Germany with your unique tax ID. Understand
+  tax classes based on marital and job status. Providers available for assistance.
 draft: false
-translationKey: "germany-applying_for_a_tax_card"
+meta_title: 'Obtain Your German Tax Card: Process, Requirements & Providers'
+title: 'Obtain Your German Tax Card: Process, Requirements & Providers'
+translationKey: germany-applying_for_a_tax_card
 ---
+
 
 ## Description
 ### What is it?

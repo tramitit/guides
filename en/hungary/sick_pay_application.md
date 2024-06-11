@@ -1,13 +1,16 @@
 ---
-title: "Sick pay application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "How to Apply for Sick Pay"
-description: "Step-by-step procedure on how to apply for sick pay"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to apply for sick pay and ensure income continuity during your
+  recuperation. Detailed steps and required documents for a smooth process.
 draft: false
-translationKey: "hungary-sick_pay_application"
+meta_title: Understanding Sick Pay Procedures - Employee Guide
+title: Understanding Sick Pay Procedures - Employee Guide
+translationKey: hungary-sick_pay_application
 ---
+
 
 ## Description
 ### What is it?

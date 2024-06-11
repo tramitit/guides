@@ -1,14 +1,16 @@
 ---
-
-title: "Italian Citizenship Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "A comprehensive guide on how to apply for Italian citizenship."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere la Cittadinanza Italiana attraverso ancestorato
+  o residenza, inclusi requisiti, documenti necessari e passaggi procedurali.
 draft: false
-translationKey: "italy-italian_citizenship_application"
+meta_title: Guida alla Richiesta di Cittadinanza Italiana per Ancestorato e Residenza
+title: Guida alla Richiesta di Cittadinanza Italiana per Ancestorato e Residenza
+translationKey: italy-italian_citizenship_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: poland-change_of_registered_residence_address
-title: "Zmiana adresu zameldowania w Polsce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Zmiana adresu zameldowania w Polsce"
-description: "Kompleksowy przewodnik dotyczący zmiany adresu zameldowania w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się jak zmienić oficjalny adres zamieszkania w rejestrze publicznym
+  w Polsce. Procedura, wymagane dokumenty i informacje dla obywateli i cudzoziemców.
 draft: false
+meta_title: 'Zmiana Adresu Zameldowania w Polsce: Procedura i Wymagane Dokumenty'
+title: 'Zmiana Adresu Zameldowania w Polsce: Procedura i Wymagane Dokumenty'
+translationKey: poland-change_of_registered_residence_address
 ---
+
 
 ## Opis
 ### Co to jest?

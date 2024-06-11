@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_disability_card
-title: "Αίτηση για κάρτα αναπηρίας"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Οδηγός Βήμα-Βήμα για την Αίτηση για Κάρτα Αναπηρίας στην Ελλάδα"
-description: "Αυτός ο οδηγός παρέχει μια περιεκτική διαδικασία βήμα προς βήμα για την αίτηση κάρτας αναπηρίας στην Ελλάδα."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τι είναι η κάρτα αναπηρίας στην Ελλάδα, ποιοι τη χρειάζονται,
+  τη διαδικασία αίτησης, τα απαραίτητα έγγραφα και τις υπηρεσίες που παρέχονται.
 draft: false
+meta_title: 'Κάρτα Αναπηρίας στην Ελλάδα: Αίτηση και Πληροφορίες'
+title: 'Κάρτα Αναπηρίας στην Ελλάδα: Αίτηση και Πληροφορίες'
+translationKey: greece-application_for_disability_card
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

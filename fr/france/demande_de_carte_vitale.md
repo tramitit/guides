@@ -1,13 +1,16 @@
 ---
-translationKey: france-health_insurance_card_application
-title: "Demande de carte d'assurance maladie"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Guide sur la façon de demander une carte d'assurance maladie en France, en Irlande et en Pologne"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Tout sur l'obtention de la Carte Vitale, CEAM en Ireland et l'UE en Pologne.
+  Procédure, documents requis avec des détails spécifiques pour chaque pays.
 draft: false
+meta_title: Obtenez Votre Carte d'Assurance Maladie en France, Irlande et Pologne
+title: Obtenez Votre Carte d'Assurance Maladie en France, Irlande et Pologne
+translationKey: france-health_insurance_card_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

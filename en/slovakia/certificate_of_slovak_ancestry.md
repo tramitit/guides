@@ -1,13 +1,16 @@
 ---
-title: "Certificate of Slovak ancestry"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Guide to obtaining a Certificate of Slovak Ancestry"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to acquire a Certificate of Slovak Ancestry to prove heritage
+  for Slovakian citizenship by descent. Required documents and procedure explained.
 draft: false
-translationKey: "slovakia-certificate_of_slovak_ancestry"
+meta_title: 'Certificate of Slovak Ancestry: How to Obtain and Who Needs It'
+title: 'Certificate of Slovak Ancestry: How to Obtain and Who Needs It'
+translationKey: slovakia-certificate_of_slovak_ancestry
 ---
+
 
 ## Description
 ### What is it?

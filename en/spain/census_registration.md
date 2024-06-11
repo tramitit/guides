@@ -1,13 +1,16 @@
 ---
-title: "Census Registration in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Step by step guide on how to complete Census registration in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn about the 'empadronamiento' process in Spain, required documents,
+  providers, and tips. Stay legal and access local services as a resident in Spain!
 draft: false
-translationKey: "spain-census_registration"
+meta_title: 'Census Registration in Spain: Process, Documents & Providers'
+title: 'Census Registration in Spain: Process, Documents & Providers'
+translationKey: spain-census_registration
 ---
+
 
 ## Description
 ### What is it?

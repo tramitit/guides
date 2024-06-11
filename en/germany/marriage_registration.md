@@ -1,13 +1,16 @@
 ---
-title: "Marriage registration in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Steps to Register for Marriage in Germany"
-description: "A comprehensive guide on how to register for marriage in Germany"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to legally register your marriage in Germany at the local Standesamt.
+  Find out the documents needed and steps to follow for a smooth wedding ceremony.
 draft: false
-translationKey: "germany-marriage_registration"
+meta_title: 'Marriage Registration in Germany: Process, Requirements & Providers'
+title: 'Marriage Registration in Germany: Process, Requirements & Providers'
+translationKey: germany-marriage_registration
 ---
+
 
 ## Description
 ### What is it?

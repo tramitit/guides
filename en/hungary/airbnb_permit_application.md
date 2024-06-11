@@ -1,13 +1,16 @@
 ---
-title: "Airbnb permit application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "This is a guide on how to apply for Airbnb hosting permit"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn about Airbnb permits, how to apply for one, required documents,
+  and providers. Stay compliant with local laws and regulations for hassle-free renting.
 draft: false
-translationKey: "hungary-airbnb_permit_application"
+meta_title: 'Renting on Airbnb: Permit Application Process & Requirements'
+title: 'Renting on Airbnb: Permit Application Process & Requirements'
+translationKey: hungary-airbnb_permit_application
 ---
+
 
 ## Description
 ### What is it?

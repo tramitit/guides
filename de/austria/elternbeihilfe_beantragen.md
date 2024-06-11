@@ -1,13 +1,16 @@
 ---
-translationKey: austria-parental_allowance_application
-title: "Elternzeit Antrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Dies ist die Meta-Beschreibung"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie neue Eltern in Österreich und Deutschland Elterngeld
+  beantragen. Benötigte Dokumente und wichtige Details zur Einkommensunterstützung.
 draft: false
+meta_title: 'Elterngeld in Österreich und Deutschland: Antrag und Voraussetzungen'
+title: 'Elterngeld in Österreich und Deutschland: Antrag und Voraussetzungen'
+translationKey: austria-parental_allowance_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

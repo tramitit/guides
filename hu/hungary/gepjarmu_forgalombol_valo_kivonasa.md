@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-vehicle_de-registration
-title: "Jármű lejelentése"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Egy lépésről lépésre útmutató arról, hogyan kell lejelenteni egy járművet Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Miért és hogyan jelentse le járművét Magyarországon? Szükséges dokumentumok,
+  eljárás lépései, helyi szolgáltatók és további részletek az autó lejelentéséről.
 draft: false
+meta_title: Jármű lejelentése Magyarországon - Eljárás, dokumentumok, szolgáltatók
+title: Jármű lejelentése Magyarországon - Eljárás, dokumentumok, szolgáltatók
+translationKey: hungary-vehicle_de-registration
 ---
+
 
 ## Leírás
 ### Mi is ez?

@@ -1,13 +1,16 @@
 ---
-title: "Registration in the Civil Registry"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Registering in the Italy Civil Registry: Step-by-Step Guide"
-description: "A detailed guide on how to register in the Italian Civil Registry, including the required documents, procedure, and potential service providers."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come registrare nascite, matrimoni e decessi in Italia. Procedura,
+  documenti necessari e contatti utili per italiani residenti all'estero.
 draft: false
-translationKey: "italy-registration_in_the_civil_registry"
+meta_title: Guida alla Registrazione nel Registro Civile Italiano
+title: Guida alla Registrazione nel Registro Civile Italiano
+translationKey: italy-registration_in_the_civil_registry
 ---
+
 
 ## Description
 ### What is it?

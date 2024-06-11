@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_user_card_for_foreigners
-title: "Pedido de Cartão de Usuário para Estrangeiros"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este é um guia sobre como solicitar um Cartão de Usuário para estrangeiros em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como obter o Cartão de Utilizador para estrangeiros em Portugal
+  para ficar mais de seis meses. Procedimentos, documentos e prazos detalhados.
 draft: false
+meta_title: 'Residir legalmente em Portugal: Cartão de Utilizador para estrangeiros'
+title: 'Residir legalmente em Portugal: Cartão de Utilizador para estrangeiros'
+translationKey: portugal-request_for_user_card_for_foreigners
 ---
+
 
 ## Descrição
 ### O que é?

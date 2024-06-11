@@ -1,13 +1,17 @@
 ---
-title: "School Registration in Austria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This is a guide on how to register in a School in Austria, specifically for international students. It also provides details on the cost of living in Austria, and the process of securing a residence permit."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Descubre el proceso y requisitos para la inscripción escolar en Austria.
+  Guía completa incluyendo documentos necesarios y pasos a seguir para estudiantes
+  internacionales.
 draft: false
-translationKey: "austria-school_registration"
+meta_title: Guía de Inscripción Escolar para Estudiantes Internacionales en Austria
+title: Guía de Inscripción Escolar para Estudiantes Internacionales en Austria
+translationKey: austria-school_registration
 ---
+
 
 ## Description
 ### What is it?

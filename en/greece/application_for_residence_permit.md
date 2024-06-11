@@ -1,13 +1,17 @@
 ---
-title: "Application for Residence Permit in Greece"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Guide on Applying for a Residence Permit in Greece"
-description: "In this guide, you will learn the necessary steps you need to take in order to apply for a residence permit in Greece."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn the steps, required documents, and tips for non-EU citizens to
+  get a residence permit in Greece. Ensure a smooth process by following our detailed
+  guide.
 draft: false
-translationKey: "greece-application_for_residence_permit"
+meta_title: Guide to Obtaining a Greek Residence Permit for Non-EU Citizens
+title: Guide to Obtaining a Greek Residence Permit for Non-EU Citizens
+translationKey: greece-application_for_residence_permit
 ---
+
 
 ## Description
 ### What is it?

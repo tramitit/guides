@@ -1,13 +1,16 @@
 ---
-translationKey: france-unemployment_return-to-work_assistance_(are)_application
-title: "Demande d'aide au retour au travail (ARE) pour le chômage"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Ceci est la description meta"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment demander l'ARE en France après la perte de votre emploi.
+  Obtenez des détails sur les documents requis et le processus d'indemnisation.
 draft: false
+meta_title: 'Allocation de Retour à l''Emploi (ARE) en France: Guide et Procédure'
+title: 'Allocation de Retour à l''Emploi (ARE) en France: Guide et Procédure'
+translationKey: france-unemployment_return-to-work_assistance_(are)_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

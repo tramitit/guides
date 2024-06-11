@@ -1,13 +1,16 @@
 ---
-title: "Application for death certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Process of obtaining death certificate in Greece"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn who needs a death certificate in Greece and the required documents
+  and steps for obtaining it from the Civil Registry Office. Find out more here!
 draft: false
-translationKey: "greece-application_for_death_certificate"
+meta_title: 'Obtaining a Death Certificate in Greece: Procedures & Documents'
+title: 'Obtaining a Death Certificate in Greece: Procedures & Documents'
+translationKey: greece-application_for_death_certificate
 ---
+
 
 ## Description
 ### What is it?

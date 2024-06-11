@@ -1,13 +1,16 @@
 ---
-title: "Registration in the commercial register"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Commercial Register Registration in Slovakia: A Step-by-Step Guide"
-description: "Direct, straightforward guide for registering in the commercial register in Slovakia"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn the steps and requirements to register a business in Slovakia's
+  Obchodný register, including preparation, submission, and verification of documents.
 draft: false
-translationKey: "slovakia-registration_in_the_commercial_register"
+meta_title: Guide to Registering Your Business in Slovakia - Obchodný Register
+title: Guide to Registering Your Business in Slovakia - Obchodný Register
+translationKey: slovakia-registration_in_the_commercial_register
 ---
+
 
 ## Description
 ### What is it?

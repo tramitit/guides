@@ -1,13 +1,16 @@
 ---
-title: "Application for Unemployment Benefit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Application for Unemployment Benefit in Greece: A Guide"
-description: "A comprehensive guide on how to apply for Unemployment Benefit in Greece"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to apply for unemployment benefits when out of work. Find detailed
+  steps, required documents, and provider information for support during job search.
 draft: false
-translationKey: "greece-application_for_unemployment_benefit"
+meta_title: Unemployment Benefit Application Process and Eligibility
+title: Unemployment Benefit Application Process and Eligibility
+translationKey: greece-application_for_unemployment_benefit
 ---
+
 
 ## Description
 ### What is it?

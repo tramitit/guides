@@ -1,13 +1,16 @@
 ---
-title: "Public Transport Card Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Comprehensive guide on how to apply for a public transport card in Madrid and Barcelona"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Discover how to get a Public Transport Card in Spain for convenient travel
+  in Madrid and Barcelona. Ideal for tourists, residents, and monthly users alike.
 draft: false
-translationKey: "spain-public_transport_card_application"
+meta_title: 'Public Transport Card in Spain: Access Metro, Bus & Tram'
+title: 'Public Transport Card in Spain: Access Metro, Bus & Tram'
+translationKey: spain-public_transport_card_application
 ---
+
 
 ## Description
 ### What is it?

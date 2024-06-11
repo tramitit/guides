@@ -1,13 +1,17 @@
 ---
-translationKey: portugal-request_for_certification_of_document_translation
-title: "Pedido de Certificação de Tradução de Documento"
-author: "Ricardo Batista"
-date: "2022-12-16"
-categories: ["Portugal"]
-meta title: "Certificação de Tradução de Documento - Procedimento Detalhado de Pedido"
-description: "Um guia passo a passo sobre como solicitar a certificação de tradução de documento."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2022-12-16'
+description: Saiba como obter uma tradução oficialmente reconhecida dos seus documentos.
+  Encontre tradutores certificados e entenda o processo de certificação de traduções.
 draft: false
+meta title: Certificação de Tradução de Documento - Procedimento Detalhado de Pedido
+meta_title: 'Certificação de Tradução de Documentos: Procedimento e Prestadores'
+title: 'Certificação de Tradução de Documentos: Procedimento e Prestadores'
+translationKey: portugal-request_for_certification_of_document_translation
 ---
+
 
 ## Descrição
 ### O que é?

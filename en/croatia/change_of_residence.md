@@ -1,13 +1,16 @@
 ---
-title: "Change of residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: "Step by step guide to Changing Your Residence"
-description: "Useful guide for residents who wish to change their address in Croatia and other countries"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Understand the steps to change your registered address, required documents,
+  and a provider in Croatia. Essential for local and international moves worldwide.
 draft: false
-translationKey: "croatia-change_of_residence"
+meta_title: 'Change of Residence: Process, Documents & Providers'
+title: 'Change of Residence: Process, Documents & Providers'
+translationKey: croatia-change_of_residence
 ---
+
 
 
 ## Description

@@ -1,13 +1,16 @@
 ---
-title: "Request for Change of NIF Data"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is a guide on how to request a change in your Number Identification Fiscal (NIF) Data in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to update your tax info in Portugal including steps, required
+  documents, and key details. Find out more about NIF Data changes in Portugal today!
 draft: false
-translationKey: "portugal-request_for_change_of_nif_data"
+meta_title: 'Changing NIF Data in Portugal: Procedure & Documents'
+title: 'Changing NIF Data in Portugal: Procedure & Documents'
+translationKey: portugal-request_for_change_of_nif_data
 ---
+
 
 ## Description
 ### What is it?

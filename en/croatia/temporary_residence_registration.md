@@ -1,13 +1,16 @@
 ---
-title: "Temporary residence registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: ""
-description: "This guide describes the process of temporary residence registration for foreigners living in Croatia."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Learn how foreigners in Croatia register their presence for legal purposes,
+  housing, healthcare. Find required documents and procedure details easily.
 draft: false
-translationKey: "croatia-temporary_residence_registration"
+meta_title: 'Temporary Residence Registration in Croatia: Procedure & Documents'
+title: 'Temporary Residence Registration in Croatia: Procedure & Documents'
+translationKey: croatia-temporary_residence_registration
 ---
+
 
 ## Description
 ### What is it?

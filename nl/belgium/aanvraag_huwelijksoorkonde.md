@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_marriage_certificate
-title: "Aanvraag voor huwelijksakte"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Hoe een huwelijksakte aanvragen in België"
-description: "Gedetailleerde stappen over hoe een huwelijksakte aan te vragen in België"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek hoe je een huwelijksakte aanvraagt, de benodigde documenten en
+  waarom een apostille belangrijk is voor wereldwijde erkenning.
 draft: false
+meta_title: 'Alles over Huwelijksakte: Procedure en Vereiste Documenten'
+title: 'Alles over Huwelijksakte: Procedure en Vereiste Documenten'
+translationKey: belgium-request_for_marriage_certificate
 ---
+
 
 ## Beschrijving
 ### Wat is het?

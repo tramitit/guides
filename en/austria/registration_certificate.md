@@ -1,13 +1,16 @@
 ---
-title: "Registration Certificate (Meldezettel)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "How to get a Registration Certificate in Austria"
-description: "A comprehensive guide on obtaining a Registration Certificate or Meldezettel in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: 'Learn about the Meldezettel in Austria: who needs it, required documents,
+  and the registration process step-by-step.'
 draft: false
-translationKey: "austria-registration_certificate"
+meta_title: Guide to Austria's Registration Certificate (Meldezettel)
+title: Guide to Austria's Registration Certificate (Meldezettel)
+translationKey: austria-registration_certificate
 ---
+
 
 ## Description
 ### What is it?

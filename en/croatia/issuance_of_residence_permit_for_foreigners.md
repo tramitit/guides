@@ -1,13 +1,17 @@
 ---
-title: "Issuance of Residence Permit for Foreigners"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Guide on Issuance of Residence Permit for Foreigners"
-description: "A detailed guide on how to obtain a residence permit for foreigners in various countries."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn the process of obtaining a residence permit, requirements, and
+  providers that can assist. Essential for foreigners staying long-term in a foreign
+  country.
 draft: false
-translationKey: "croatia-issuance_of_residence_permit_for_foreigners"
+meta_title: 'Residence Permit Procedures: How to Obtain and Who Needs It'
+title: 'Residence Permit Procedures: How to Obtain and Who Needs It'
+translationKey: croatia-issuance_of_residence_permit_for_foreigners
 ---
+
 
 ## Description
 ### What is it?

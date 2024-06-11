@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_issuing_a_parking_permit
-title: "Žádost o vystavení parkovacího povolení"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Toto je komplexní průvodce, jak získat parkovací povolení v České republice, konkrétně v oblasti Prahy."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Průvodce získáním parkovacího povolení v Praze a ČR pro obyvatele a turisty.
+  Postup, požadavky, poskytovatelé služeb a důležité informace.
 draft: false
+meta_title: 'Parkovací povolení v České republice: Jak získat a kdo ho potřebuje'
+title: 'Parkovací povolení v České republice: Jak získat a kdo ho potřebuje'
+translationKey: czech republic-application_for_issuing_a_parking_permit
 ---
+
 
 ## Popis
 ### Co to je?

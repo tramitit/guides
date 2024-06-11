@@ -1,13 +1,16 @@
 ---
-translationKey: romania-building_permit
-title: "Autorizație de construcție în România"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Ghid detaliat pentru obținerea unei autorizații de construcție în România"
-description: "Acesta este un procedeu pas cu pas despre cum să obții o autorizație de construcție în România, lista de documente necesare și furnizorii care pot face acest lucru pentru tine"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află procedura detaliată și documentele necesare pentru obținerea unui
+  permis de construcție în România, pas cu pas.
 draft: false
+meta_title: Ghid complet pentru obținerea unui permis de construcție în România
+title: Ghid complet pentru obținerea unui permis de construcție în România
+translationKey: romania-building_permit
 ---
+
 
 ## Descriere
 ### Ce este?

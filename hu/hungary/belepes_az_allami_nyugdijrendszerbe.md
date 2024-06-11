@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-joining_the_state_pension_system
-title: "Csatlakozás az Állami Nyugdíjrendszerhez"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Az állami nyugdíjrendszerhez való csatlakozás létfontosságú lépés annak érdekében, hogy stabil jövedelmet biztosítsunk nyugdíjas éveinkre. Ez az útmutató részletezi a folyamatot, szükséges dokumentumokat és további részleteket arról, hogyan lehet csatlakozni a rendszerhez."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg az állami nyugdíjrendszer jogosultságait, regisztrációs lépéseit
+  és hozzájárulások fontosságát. Szükséges dokumentumok és szolgáltatók ismertetése.
 draft: false
+meta_title: 'Állami Nyugdíjrendszer: Regisztráció és Hozzájárulások'
+title: 'Állami Nyugdíjrendszer: Regisztráció és Hozzájárulások'
+translationKey: hungary-joining_the_state_pension_system
 ---
+
 
 ## Leírás
 ### Mi is ez?

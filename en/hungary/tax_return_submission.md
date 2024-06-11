@@ -1,13 +1,16 @@
 ---
-title: "Tax return submission"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Guide to Submitting Tax Returns in Hungary"
-description: "A step-by-step guide on how to submit tax returns in Hungary, including information on crypto taxes."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Tudja meg, hogyan kell adóbevallást készíteni Magyarországon, beleértve
+  a kriptobefektetések adóit is. Lépésről lépésre kalauz és szükséges dokumentumok.
 draft: false
-translationKey: "hungary-tax_return_submission"
+meta_title: 'Bevallási útmutató: Adóbevallás Magyarországon, kriptadókkal'
+title: 'Bevallási útmutató: Adóbevallás Magyarországon, kriptadókkal'
+translationKey: hungary-tax_return_submission
 ---
+
 
 ## Description
 ### What is it?

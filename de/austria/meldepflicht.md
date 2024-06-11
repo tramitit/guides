@@ -1,13 +1,16 @@
 ---
-translationKey: austria-reporting_obligation
-title: "Meldepflicht"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Ausführliche Anweisungen für die Meldepflicht (Meldezettel) in Österreich"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wer den Meldezettel braucht, wie Sie ihn beantragen und
+  welche Unterlagen Sie benötigen. Wichtige Details und Anbieterinfos inklusive.
 draft: false
+meta_title: 'Meldepflicht in Österreich: Meldezettel-Registrierung erklärt'
+title: 'Meldepflicht in Österreich: Meldezettel-Registrierung erklärt'
+translationKey: austria-reporting_obligation
 ---
+
 
 ## Beschreibung
 ### Was ist das?

@@ -1,13 +1,17 @@
 ---
-translationKey: germany-applying_for_a_marriage_certificate
-title: "Beantragung einer Heiratsurkunde"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dies ist ein Leitfaden zur Beantragung einer Heiratsurkunde für außerhalb von Deutschland geschlossene Ehen."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie man in Deutschland eine Heiratsurkunde für im Ausland
+  geschlossene Hochzeiten erhält. Dokumente, Verfahren und Anbieter. Planen Sie im
+  Voraus.
 draft: false
+meta_title: 'Heiratsurkunde in Deutschland beantragen: Leitfaden & Dokumente'
+title: 'Heiratsurkunde in Deutschland beantragen: Leitfaden & Dokumente'
+translationKey: germany-applying_for_a_marriage_certificate
 ---
+
 
 ## Beschreibung
 ### Was ist es?

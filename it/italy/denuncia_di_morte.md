@@ -1,13 +1,16 @@
 ---
-translationKey: italy-death_declaration
-title: "Dichiarazione di Morte in Italia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Una guida completa per presentare una dichiarazione di morte in Italia"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come effettuare la Dichiarazione di Morte in Italia, documenti
+  necessari e procedura da seguire. Tempi, costi e dettagli aggiuntivi inclusi.
 draft: false
+meta_title: 'Dichiarazione di Morte in Italia: Procedura e Documenti Richiesti'
+title: 'Dichiarazione di Morte in Italia: Procedura e Documenti Richiesti'
+translationKey: italy-death_declaration
 ---
+
 
 ## Descrizione
 ### Cos'è?

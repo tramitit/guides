@@ -1,13 +1,16 @@
 ---
-title: "Employer registration for health insurance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Guide to Employer registration for health insurance in Czech Republic"
-description: "A detailed guide on how to register for Health Insurance as an employer in Czech Republic"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how Czech businesses can enroll employees in the state-run health
+  insurance system. Follow the process and fulfill legal obligations to avoid penalties.
 draft: false
-translationKey: "czech-republic-employer_registration_for_health_insurance"
+meta_title: Employer Registration for Health Insurance in Czech Republic
+title: Employer Registration for Health Insurance in Czech Republic
+translationKey: czech-republic-employer_registration_for_health_insurance
 ---
+
 
 ## Description
 ### What is it?

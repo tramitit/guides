@@ -1,13 +1,16 @@
 ---
-title: "Passport Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Guide for Portuguese Passport Renewal"
-description: "Step-by-step guide to renew your Portuguese passport."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how Portuguese citizens abroad can update their passports through
+  consulate appointments, required documents, renewal fees, and processing timelines.
 draft: false
-translationKey: "portugal-passport_renewal"
+meta_title: 'Portuguese Passport Renewal: How to Renew Your Passport Abroad'
+title: 'Portuguese Passport Renewal: How to Renew Your Passport Abroad'
+translationKey: portugal-passport_renewal
 ---
+
 
 ## Description
 ### What is it?

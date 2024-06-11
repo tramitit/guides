@@ -1,13 +1,16 @@
 ---
-title: "Notification of child's birth"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This is a comprehensive guide on how to notify a child's birth, with helpful details for both Slovakian locals and immigrants."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn the process to legally register your newborn child, necessary for
+  nationality & immigration. Required documents & provider details included.
 draft: false
-translationKey: "slovakia-notification_of_childs_birth"
+meta_title: 'Child Birth Notification: How to Register Your Newborn'
+title: 'Child Birth Notification: How to Register Your Newborn'
+translationKey: slovakia-notification_of_childs_birth
 ---
+
 
 ## Description
 ### What is it?

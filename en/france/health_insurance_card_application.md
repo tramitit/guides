@@ -1,13 +1,17 @@
 ---
-title: "Health insurance card application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Guide on how to apply for a Health insurance card in France, Ireland, and Poland"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to get a Carte Vitale, EHIC or EU Health Insurance card. Understand
+  procedures, required documents, and provider information for France, Ireland, and
+  Poland.
 draft: false
-translationKey: "france-health_insurance_card_application"
+meta_title: Guide to Obtaining Health Insurance Cards in France, Ireland, Poland
+title: Guide to Obtaining Health Insurance Cards in France, Ireland, Poland
+translationKey: france-health_insurance_card_application
 ---
+
 
 ## Description
 ### What is it?

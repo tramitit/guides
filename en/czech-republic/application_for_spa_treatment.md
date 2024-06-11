@@ -1,13 +1,16 @@
 ---
-title: "Application for spa treatment"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Spa Treatment in Czech Republic"
-description: "Detailed procedure guide for applying for spa treatments in Czech Republic."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Discover spa treatments in Czech Republic for ultimate relaxation, stress
+  relief, and well-being. Choose a package, book your appointment, and enjoy the benefits.
 draft: false
-translationKey: "czech-republic-application_for_spa_treatment"
+meta_title: Experience Spa Treatments in Czech Republic for Relaxation
+title: Experience Spa Treatments in Czech Republic for Relaxation
+translationKey: czech-republic-application_for_spa_treatment
 ---
+
 
 ## Description
 ### What is it? 

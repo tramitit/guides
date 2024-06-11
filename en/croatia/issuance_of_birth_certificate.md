@@ -1,13 +1,16 @@
 ---
-title: "Issuance of birth certificate"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Issuance of Croatian Birth Certificate"
-description: "Your comprehensive guide to applying for a birth certificate in Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to get a Croatian birth certificate, essential for legal purposes.
+  Follow steps, required docs, and key points for a smooth procedure.
 draft: false
-translationKey: "croatia-issuance_of_birth_certificate"
+meta_title: 'Obtaining a Croatian Birth Certificate: Process and Requirements'
+title: 'Obtaining a Croatian Birth Certificate: Process and Requirements'
+translationKey: croatia-issuance_of_birth_certificate
 ---
+
 
 ## Description
 ### What is it?

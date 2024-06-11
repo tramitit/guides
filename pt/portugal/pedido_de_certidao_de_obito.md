@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_death_certificate
-title: "Pedido de Certidão de Óbito"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Pedido de Certidão de Óbito em Portugal: Um Guia Passo a Passo"
-description: "Instruções detalhadas para solicitar e obter uma certidão de óbito em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba quem precisa de um atestado de óbito, o procedimento para obter,
+  documentos necessários, provedores disponíveis e informações adicionais em Portugal.
 draft: false
+meta_title: 'Como obter um Atestado de Óbito em Portugal: Procedimento e Documentos'
+title: 'Como obter um Atestado de Óbito em Portugal: Procedimento e Documentos'
+translationKey: portugal-request_for_death_certificate
 ---
+
 
 ## Descrição
 ### O que é?

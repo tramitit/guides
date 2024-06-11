@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_passport
-title: "Demande de passeport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Cet article vous guide à travers le processus d'obtention d'un passeport en Belgique."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: 'Découvrez comment obtenir un passeport : procédure de demande, documents
+  nécessaires, délais et coûts. Informations essentielles pour voyageurs internationaux.'
 draft: false
+meta_title: 'Obtention de passeport : procédure, documents requis et fournisseurs'
+title: 'Obtention de passeport : procédure, documents requis et fournisseurs'
+translationKey: belgium-request_for_passport
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

@@ -1,13 +1,16 @@
 ---
-title: "Child Care Allowance Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This is a succinct guide about applying for child care allowance"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn about Child Care Allowance, financial aid for parents with children.
+  Know eligibility criteria, procedure, and required documents for application process.
 draft: false
-translationKey: "austria-child_care_allowance_application"
+meta_title: 'Child Care Allowance: Eligibility, Procedure & Required Documents'
+title: 'Child Care Allowance: Eligibility, Procedure & Required Documents'
+translationKey: austria-child_care_allowance_application
 ---
+
 
 ## Description
 ### What is it?

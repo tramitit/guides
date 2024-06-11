@@ -1,13 +1,16 @@
 ---
-title: "Issuance of Travel Tickets"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This guide outlines the procedure and key points to keep in mind while issuing travel tickets."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to book travel tickets online or in-person for trains, buses,
+  and flights in Slovakia. Find providers and steps to secure your journey efficiently.
 draft: false
-translationKey: "slovakia-issuance_of_travel_ticket"
+meta_title: 'Issuing Travel Tickets in Slovakia: Complete Guide'
+title: 'Issuing Travel Tickets in Slovakia: Complete Guide'
+translationKey: slovakia-issuance_of_travel_ticket
 ---
+
 
 ## Description
 ### What is it?

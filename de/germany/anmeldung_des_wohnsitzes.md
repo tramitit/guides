@@ -1,13 +1,16 @@
 ---
-translationKey: germany-registration_of_residence
-title: "Anmeldung des Wohnsitzes"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Wohnsitzanmeldung in Deutschland"
-description: "Ein Schritt-für-Schritt-Leitfaden zur Anmeldung Ihres Wohnsitzes in Deutschland, wie gesetzlich vorgeschrieben"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihren Wohnsitz in Deutschland anmelden. Von der
+  Dokumentenvorbereitung bis zum Behördengang - Alles was Sie wissen müssen.
 draft: false
+meta_title: 'Anmeldung des Wohnsitzes in Deutschland: Verfahren & Dokumente'
+title: 'Anmeldung des Wohnsitzes in Deutschland: Verfahren & Dokumente'
+translationKey: germany-registration_of_residence
 ---
+
 
 ## Beschreibung
 ### Was ist es?

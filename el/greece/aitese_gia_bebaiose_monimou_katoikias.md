@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_permanent_residence_certificate
-title: "Αίτηση για πιστοποιητικό μόνιμης διαμονής"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Διαδικασία για την υποβολή αίτησης για πιστοποιητικό μόνιμης διαμονής στην Ελλάδα"
-description: "Αυτή η ανάρτηση περιγράφει τη διαδικασία για την υποβολή αίτησης για πιστοποιητικό μόνιμης διαμονής στην Ελλάδα."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθε τι είναι το Πιστοποιητικό Μόνιμης Κατοικίας στην Ελλάδα, ποιοι μπορούν
+  να το αποκτήσουν, ποια έγγραφα απαιτούνται και ποιοι παροχείς μπορούν να βοηθήσουν.
 draft: false
+meta_title: 'Πιστοποιητικό Μόνιμης Κατοικίας στην Ελλάδα: Αίτηση και Απαιτήσεις'
+title: 'Πιστοποιητικό Μόνιμης Κατοικίας στην Ελλάδα: Αίτηση και Απαιτήσεις'
+translationKey: greece-application_for_permanent_residence_certificate
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

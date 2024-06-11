@@ -1,13 +1,16 @@
 ---
-title: "Health Card Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "A detailed guide on how to renew your Spanish health card."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn about the Tarjeta Sanitaria Europea for temporary healthcare in
+  EU, EEA, & Switzerland. Follow steps to apply online via Seguridad Social for free.
 draft: false
-translationKey: "spain-health_card_renewal"
+meta_title: 'Spanish Health Card (TSE) for EU Travelers: Guide & Process'
+title: 'Spanish Health Card (TSE) for EU Travelers: Guide & Process'
+translationKey: spain-health_card_renewal
 ---
+
 
 ## Description
 ### What is it?

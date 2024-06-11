@@ -1,13 +1,16 @@
 ---
-translationKey: romania-company_registration
-title: "Înregistrarea Companiei"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Aceasta este descrierea meta"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Descoperiți pașii esențiali pentru stabilirea legală a unei entități
+  de afaceri, inclusiv documentele necesare și furnizorii de servicii disponibili.
 draft: false
+meta_title: Procedura de Înregistrare a Entităților de Afaceri - Ghid Detaliat
+title: Procedura de Înregistrare a Entităților de Afaceri - Ghid Detaliat
+translationKey: romania-company_registration
 ---
+
 
 ## Descriere
 ### Ce este?

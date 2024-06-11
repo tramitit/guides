@@ -1,13 +1,16 @@
 ---
-title: "Residence Permit Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Guide to Residence Permit Application in Austria"
-description: "A step-by-step guide on applying for a residence permit in Austria, based on first-hand experiences and advice."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to apply for a residence permit in Austria and the required
+  documents. Follow a comprehensive guide for a smoother application process.
 draft: false
-translationKey: "austria-residence_permit_application"
+meta_title: 'Austria Residence Permit: Application Procedure & Required Documents'
+title: 'Austria Residence Permit: Application Procedure & Required Documents'
+translationKey: austria-residence_permit_application
 ---
+
 
 ## Description
 ### What is it?

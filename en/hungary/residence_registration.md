@@ -1,13 +1,17 @@
 ---
-title: "Residence registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "A step by step guide on how to register your residence in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to officially declare your residence in Hungary, including
+  required documents and steps to follow. Essential info for expats and residents
+  alike.
 draft: false
-translationKey: "hungary-residence_registration"
+meta_title: 'Residence Registration in Hungary: Process and Requirements'
+title: 'Residence Registration in Hungary: Process and Requirements'
+translationKey: hungary-residence_registration
 ---
+
 
 ## Description
 ### What is it?

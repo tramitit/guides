@@ -1,13 +1,16 @@
 ---
-translationKey: france-preschool_registration
-title: "Inscription à la maternelle"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Comment inscrire votre enfant à la maternelle en France"
-description: "Il s'agit d'un guide détaillé sur la manière d'inscrire votre enfant à la maternelle en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment inscrire votre enfant en maternelle en France. Procédure,
+  documents nécessaires, choix d'écoles publiques ou privées. Planifiez à l'avance!
 draft: false
+meta_title: 'Maternelle en France: Procédure d''inscription et fournisseurs'
+title: 'Maternelle en France: Procédure d''inscription et fournisseurs'
+translationKey: france-preschool_registration
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

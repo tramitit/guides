@@ -1,13 +1,16 @@
 ---
-title: "Permanent Residency Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "This guide will enlighten you on the process of Permanent Residency application"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn about the Permanent Residency process, documents needed, and find
+  providers to assist. Detailed steps, required documents, and advice for success.
 draft: false
-translationKey: "romania-permanent_residency_application"
+meta_title: 'Permanent Residency Application Process: A Comprehensive Guide'
+title: 'Permanent Residency Application Process: A Comprehensive Guide'
+translationKey: romania-permanent_residency_application
 ---
+
 
 ## Description
 ### What is it?

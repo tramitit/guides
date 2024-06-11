@@ -1,14 +1,16 @@
 ---
-translationKey: romania-citizenship_confirmation
-
-title: "Confirmarea cetățeniei"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Ghid pentru confirmarea cetățeniei"
-description: "Un ghid pas cu pas despre cum să vă confirmați statutul de cetățean."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum să-ți confirmi cetățenia românească sau moldovenească pentru
+  pașaport, studii sau conturi bancare, urmând pașii și documentele necesare.
 draft: false
+meta_title: Procesul de Confirmare a Cetățeniei Românești și Moldovenești
+title: Procesul de Confirmare a Cetățeniei Românești și Moldovenești
+translationKey: romania-citizenship_confirmation
 ---
+
 
 ## Descriere
 ### Ce este?

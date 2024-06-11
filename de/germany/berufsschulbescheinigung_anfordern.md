@@ -1,13 +1,16 @@
 ---
-translationKey: germany-requesting_a_vocational_school_certificate
-title: "Anforderung eines Berufsschulzeugnisses"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Beantragung eines Berufsschulzeugnisses für ausländische Studierende in Deutschland"
-description: "Leitfaden zur Beantragung eines Berufsschulzeugnisses in Deutschland für ausländische Studierende"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how foreign students, mainly from the USA, can apply for a vocational
+  school certificate in Germany, essential for technical universities and job markets.
 draft: false
+meta_title: How to Obtain a Vocational School Certificate in Germany
+title: How to Obtain a Vocational School Certificate in Germany
+translationKey: germany-requesting_a_vocational_school_certificate
 ---
+
 
 ## Beschreibung
 ### Was ist es?

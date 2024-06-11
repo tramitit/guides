@@ -1,13 +1,16 @@
 ---
-translationKey: poland-application_for_citizenship
-title: "Wniosek o obywatelstwo"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Przewodnik jak ubiegać się o obywatelstwo polskie"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: 'Krok po kroku przewodnik dotyczący ubiegania się o polskie obywatelstwo:
+  sprawdź kwalifikacje, zgromadź dokumenty, złoż wniosek i czekaj na decyzję.'
 draft: false
+meta_title: 'Procedura uzyskiwania polskiego obywatelstwa: kroki i dokumenty'
+title: 'Procedura uzyskiwania polskiego obywatelstwa: kroki i dokumenty'
+translationKey: poland-application_for_citizenship
 ---
+
 
 ## Opis
 ### Co to jest?

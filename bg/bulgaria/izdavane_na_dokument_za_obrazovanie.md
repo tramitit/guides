@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-issuance_of_an_educational_document
-title: "Издаване на образователен документ"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Насоки за Издаване на Образователни Документи в България: По Стъпков Процес"
-description: "Изчерпателно ръководство за издаване на образователни документи в България."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да получите официални образователни документи от вашето учебно
+  заведение и кой ги нуждае. Важни съвети и детайли за процедурата.
 draft: false
+meta_title: 'Издаване на образователни документи: процедура и изисквания'
+title: 'Издаване на образователни документи: процедура и изисквания'
+translationKey: bulgaria-issuance_of_an_educational_document
 ---
+
 
 ## Описание
 ### Какво е това?

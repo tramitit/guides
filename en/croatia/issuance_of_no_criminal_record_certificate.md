@@ -1,13 +1,16 @@
 ---
-title: "Issuance of no criminal record certificate"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Procedure for obtaining No Criminal Record certificate"
-description: "Step by step guide detailing how one can obtain a no criminal record certificate."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to get a no criminal record certificate, essential for immigration,
+  visas, adoptions. Find out documents needed and process steps to follow.
 draft: false
-translationKey: "croatia-issuance_of_no_criminal_record_certificate"
+meta_title: 'No Criminal Record Certificate: How to Obtain & Requirements'
+title: 'No Criminal Record Certificate: How to Obtain & Requirements'
+translationKey: croatia-issuance_of_no_criminal_record_certificate
 ---
+
 
 ## Description
 ### What is it?

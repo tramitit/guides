@@ -1,13 +1,16 @@
 ---
-translationKey: france-primary_school_registration
-title: "Inscription à l'école primaire"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide pour inscrire un enfant à l'école primaire en France"
-description: "Ce guide présente les étapes pour inscrire un enfant à l'école primaire en France, y compris les documents nécessaires et des conseils utiles."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Apprenez comment inscrire votre enfant à l'école primaire en France.
+  Trouvez les étapes, documents requis et détails sur l'éducation primaire en France.
 draft: false
+meta_title: 'Inscription à l''école primaire en France: Processus et Documents'
+title: 'Inscription à l''école primaire en France: Processus et Documents'
+translationKey: france-primary_school_registration
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

@@ -1,13 +1,16 @@
 ---
-title: "Applying for a Certificate of Conduct (Führungszeugnis) Online"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Apply for a Certificate of Conduct Online in Germany"
-description: "A detailed guide on how to apply for a German Certificate of Conduct (Führungszeugnis) online."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn about the Führungszeugnis, required for jobs involving vulnerable
+  groups or visas. Get details on applying online, needed documents, costs, and timeline.
 draft: false
-translationKey: "germany-applying_for_a_certificate_of_conduct_online"
+meta_title: 'German Certificate of Conduct: Requirements, Procedure & Providers'
+title: 'German Certificate of Conduct: Requirements, Procedure & Providers'
+translationKey: germany-applying_for_a_certificate_of_conduct_online
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Application for minor's name change"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Procedure for Applying for a Minor's Name Change"
-description: "A detailed guide on how to apply for a minor's name change procedure"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: A comprehensive guide for guardians on how to legally change a minor's
+  name, including necessary steps, required documents, and court procedures.
 draft: false
-translationKey: "greece-application_for_minors_name_change"
+meta_title: 'Legal Process for Changing a Minor''s Name: Steps and Requirements'
+title: 'Legal Process for Changing a Minor''s Name: Steps and Requirements'
+translationKey: greece-application_for_minors_name_change
 ---
+
 
 ## Description
 ### What is it?

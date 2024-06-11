@@ -1,13 +1,16 @@
 ---
-translationKey: france-passport_renewal
-title: "Renouvellement de passeport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Processus de renouvellement de passeport"
-description: "Guide détaillé sur la façon de renouveler votre passeport."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment renouveler votre passeport français, des exigences
+  de photoaux coûts et délais, pour voyager sans souci à l'international.
 draft: false
+meta_title: 'Renouvellement de passeport: Procédure, documents requis et plus'
+title: 'Renouvellement de passeport: Procédure, documents requis et plus'
+translationKey: france-passport_renewal
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

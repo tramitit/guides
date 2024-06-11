@@ -1,13 +1,16 @@
 ---
-title: "Visa application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Comprehensive guide to applying for a France Visa, covering the procedure, required documents, and providers that can assist you."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to apply for a visa to work, study, or visit France over 90
+  days. Get steps, documents, and tips for a successful application process.
 draft: false
-translationKey: "france-visa_application"
+meta_title: France Visa Application Procedure for Non-EU Citizens
+title: France Visa Application Procedure for Non-EU Citizens
+translationKey: france-visa_application
 ---
+
 
 ## Description
 ### What is it?

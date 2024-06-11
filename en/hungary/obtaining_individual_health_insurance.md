@@ -1,13 +1,16 @@
 ---
-title: "Obtaining Individual Health Insurance in Hungary"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "How to Obtain Individual Health Insurance in Hungary"
-description: "A comprehensive guide on procuring health insurance as an individual in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to secure health insurance in Hungary, covering all options,
+  procedures, and required documents for optimal health care access.
 draft: false
-translationKey: "hungary-obtaining_individual_health_insurance"
+meta_title: Comprehensive Guide to Health Insurance in Hungary
+title: Comprehensive Guide to Health Insurance in Hungary
+translationKey: hungary-obtaining_individual_health_insurance
 ---
+
 
 ## Description
 ### What is it?

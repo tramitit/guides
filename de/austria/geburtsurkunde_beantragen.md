@@ -1,13 +1,16 @@
 ---
-translationKey: austria-birth_certificate_application
-title: "Geburtsurkunde Antrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detaillierte Schritt-für-Schritt-Anleitung, wie man einen Geburtsurkunde Antrag in Österreich stellt"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie man in Österreich eine Geburtsurkunde beantragt. Schritte,
+  erforderliche Dokumente, Anbieter, Bearbeitungszeit & mögliche Kosten erklärt.
 draft: false
+meta_title: 'Geburtsurkunde in Österreich: Antrag, Verfahren & Kosten'
+title: 'Geburtsurkunde in Österreich: Antrag, Verfahren & Kosten'
+translationKey: austria-birth_certificate_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

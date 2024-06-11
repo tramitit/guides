@@ -1,13 +1,16 @@
 ---
-title: "Request for Registration Certificate for EU Citizen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Detailed guide on how to request a Registration Certificate for EU citizens in Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to obtain a Registration Certificate in Portugal. Steps, required
+  documents, and key details for EU citizens staying over three months.
 draft: false
-translationKey: "portugal-request_for_registration_certificate_for_eu_citizen"
+meta_title: 'Registration Certificate for EU Citizens in Portugal: A Guide'
+title: 'Registration Certificate for EU Citizens in Portugal: A Guide'
+translationKey: portugal-request_for_registration_certificate_for_eu_citizen
 ---
+
 
 ## Description
 ### What is it?

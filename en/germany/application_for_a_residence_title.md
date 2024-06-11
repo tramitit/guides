@@ -1,13 +1,16 @@
 ---
-title: "Application for a Residence Title in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Application for a Residence Title in Germany: A Complete Guide"
-description: "A comprehensive guide on how to apply for a residence title in Germany, detailing all the necessary steps, documents needed, and other pertinent information."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to apply for a Germany residence title, from form submission
+  to document requirements. Ensure correct type with help from Foreigners Authority.
 draft: false
-translationKey: "germany-application_for_a_residence_title"
+meta_title: 'Germany Residence Title Application: Procedure and Documents Required'
+title: 'Germany Residence Title Application: Procedure and Documents Required'
+translationKey: germany-application_for_a_residence_title
 ---
+
 
 ## Description
 ### What is it?

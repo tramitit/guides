@@ -1,13 +1,16 @@
 ---
-title: "Healthcare insurance application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Healthcare Insurance Application in Hungary"
-description: "Step-by-step guide on how to apply for a healthcare insurance in Hungary"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Aprende todo sobre el proceso de aplicar, documentos necesarios y proveedores
+  de seguros de salud en Hungría para residentes, expatriados y estudiantes.
 draft: false
-translationKey: "hungary-healthcare_insurance_application"
+meta_title: Guía Completa de Aplicación para Seguro de Salud en Hungría
+title: Guía Completa de Aplicación para Seguro de Salud en Hungría
+translationKey: hungary-healthcare_insurance_application
 ---
+
 
 ## Description
 ### What is it?

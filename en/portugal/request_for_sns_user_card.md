@@ -1,13 +1,16 @@
 ---
-title: "Request for SNS User Card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "A detailed step-by-step guide on how to request for the SNS User card, an essential health service card in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to get a SNS User Card in Portugal as a resident, necessary
+  documents, procedure steps and benefits of this free healthcare access card.
 draft: false
-translationKey: "portugal-request_for_sns_user_card"
+meta_title: 'Obtaining a Portuguese SNS User Card: Process and Benefits'
+title: 'Obtaining a Portuguese SNS User Card: Process and Benefits'
+translationKey: portugal-request_for_sns_user_card
 ---
+
 
 ## Description
 ### What is it?

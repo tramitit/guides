@@ -1,13 +1,16 @@
 ---
-title: "Retirement pension application in France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide to Applying for Retirement Pension in France"
-description: "Step by step procedure on applying for retirement pension in France, including required documents, procedures, and potential providers."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn about the eligibility criteria and step-by-step process to apply
+  for a retirement pension in France. Ensure proper documentation is ready for submission.
 draft: false
-translationKey: "france-retirement_pension_application"
+meta_title: 'Retirement Pension in France: Eligibility and Application Process'
+title: 'Retirement Pension in France: Eligibility and Application Process'
+translationKey: france-retirement_pension_application
 ---
+
 
 ## Description
 ### What is it?

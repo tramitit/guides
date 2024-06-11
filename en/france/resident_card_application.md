@@ -1,13 +1,16 @@
 ---
-title: "Resident Card Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Resident Card Application Guide"
-description: "A step-by-step guide on how to apply for a resident card in France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to apply for a 'Carte de Résident' in France. Steps, documents
+  needed, providers, costs, and renewal procedures explained in detail.
 draft: false
-translationKey: "france-resident_card_application"
+meta_title: 'French Resident Card: How to Obtain & Renew Carte de Résident'
+title: 'French Resident Card: How to Obtain & Renew Carte de Résident'
+translationKey: france-resident_card_application
 ---
+
 
 ## Description
 ### What is it?

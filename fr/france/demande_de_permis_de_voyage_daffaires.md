@@ -1,13 +1,17 @@
 ---
-translationKey: france-business_travel_permit_application
-title: "Demande de permis de voyage d'affaires"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Comment demander un permis de voyage d'affaires en France"
-description: "Un guide complet sur la demande de permis de voyage d'affaires en France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment obtenir un permis de voyage d'affaires, les étapes
+  à suivre, les documents nécessaires, et des conseils pratiques pour réussir votre
+  demande.
 draft: false
+meta_title: 'Guide du Permis de Voyage d''Affaires: Procédure et Documents Requis'
+title: 'Guide du Permis de Voyage d''Affaires: Procédure et Documents Requis'
+translationKey: france-business_travel_permit_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

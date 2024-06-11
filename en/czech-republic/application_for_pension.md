@@ -1,13 +1,17 @@
 ---
-title: "Application for Pension"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to apply for a pension, starting from assessing eligibility
+  to submitting the necessary documents. Get expert advice for a smooth retirement
+  process.
 draft: false
-translationKey: "czech-republic-application_for_pension"
+meta_title: 'Pension Application Guide: Eligibility, Steps, and Documents'
+title: 'Pension Application Guide: Eligibility, Steps, and Documents'
+translationKey: czech-republic-application_for_pension
 ---
+
 
 ## Description
 ### What is it?

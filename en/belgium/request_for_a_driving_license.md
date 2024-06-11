@@ -1,13 +1,16 @@
 ---
-title: "Request for a Driving License in Belgium"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Obtain a Belgian Driving License - Step by Step Guide"
-description: "A step by step guide on how to obtain a driving license in Belgium."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to obtain or exchange a Belgian driving license, including
+  required documents and procedures. Verify regional laws and potential exams.
 draft: false
-translationKey: "belgium-request_for_a_driving_license"
+meta_title: 'Belgium Driving License: How to Get, Exchange & Requirements'
+title: 'Belgium Driving License: How to Get, Exchange & Requirements'
+translationKey: belgium-request_for_a_driving_license
 ---
+
 
 ## Description
 ### What is it?

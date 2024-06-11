@@ -1,13 +1,16 @@
 ---
-title: "Application for Naturalization in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Naturalization Process for German Citizenship"
-description: "Guidance on the step-by-step process of applying for German citizenship through naturalization."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Step-by-step guide on obtaining German citizenship, including residency
+  requirements, documentation, interviews, and the citizenship test.
 draft: false
-translationKey: "germany-application_for_naturalization"
+meta_title: Complete Guide to Naturalization in Germany for Foreigners
+title: Complete Guide to Naturalization in Germany for Foreigners
+translationKey: germany-application_for_naturalization
 ---
+
 
 ## Description
 ### What is it?

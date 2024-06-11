@@ -1,13 +1,16 @@
 ---
-title: "Application for a Building Permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn about building permits in the Czech Republic, including who needs
+  one, the application process, necessary documents, and provider information.
 draft: false
-translationKey: "czech-republic-application_for_a_building_permit"
+meta_title: Building Permit Procedure and Requirements in the Czech Republic
+title: Building Permit Procedure and Requirements in the Czech Republic
+translationKey: czech-republic-application_for_a_building_permit
 ---
+
 
 ## Description
 ### What is it?

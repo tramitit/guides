@@ -1,13 +1,17 @@
 ---
-translationKey: croatia-obtaining_an_immigration_permit
-title: "Dobivanje Imigracijske Dozvole"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Vodič za Dobivanje Imigracijske Dozvole u Hrvatskoj"
-description: "Korak po korak vodič o tome kako krenuti s postupkom dobivanja imigracijske dozvole u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: 'Saznajte kako dobiti dozvolu za boravak u Hrvatskoj: koraci postupka,
+  dokumenti potrebni za prijavu i pružatelji usluga. Važno za strane državljane u
+  Hrvatskoj.'
 draft: false
+meta_title: 'Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti'
+title: 'Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti'
+translationKey: croatia-obtaining_an_immigration_permit
 ---
+
 
 ## Opis
 ### Što je to?

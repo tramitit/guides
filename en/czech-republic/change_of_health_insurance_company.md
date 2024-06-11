@@ -1,13 +1,16 @@
 ---
-title: "Change of Health Insurance Company in the Czech Republic"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This guide provides detailed steps on how to change your health insurance provider in the Czech Republic"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Step-by-step guide for switching health insurance providers in Czech
+  Republic. Find best fit per needs; submit form by September for next year change.
 draft: false
-translationKey: "czech-republic-change_of_health_insurance_company"
+meta_title: Changing Health Insurance Providers in Czech Republic
+title: Changing Health Insurance Providers in Czech Republic
+translationKey: czech-republic-change_of_health_insurance_company
 ---
+
 
 ## Description
 ### What is it?

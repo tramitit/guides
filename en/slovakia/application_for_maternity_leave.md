@@ -1,13 +1,16 @@
 ---
-title: "Application for Maternity Leave"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Guide on how to apply for maternity leave in Slovakia"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Understand the process of applying for maternity leave within Slovakia's
+  legislation. Ensure a smooth transition with necessary documents and preparations.
 draft: false
-translationKey: "slovakia-application_for_maternity_leave"
+meta_title: 'Maternity Leave Procedure in Slovakia: A Comprehensive Guide'
+title: 'Maternity Leave Procedure in Slovakia: A Comprehensive Guide'
+translationKey: slovakia-application_for_maternity_leave
 ---
+
 
 ## Description
 ### What is it?

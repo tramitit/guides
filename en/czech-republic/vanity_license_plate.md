@@ -1,13 +1,16 @@
 ---
-title: "Vanity license plate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Vanity License Plate Process in Czech Republic"
-description: "This guide provides comprehensive information on how to get a Vanity License Plate in the Czech Republic. Including detailed procedures, needed documents and potential service providers."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Discover how to get a unique vanity license plate in the Czech Republic.
+  Follow specific steps, requirements, and regulations. Find providers to assist you.
 draft: false
-translationKey: "czech-republic-vanity_license_plate"
+meta_title: 'Personalized Vanity License Plates: Guidelines & Providers'
+title: 'Personalized Vanity License Plates: Guidelines & Providers'
+translationKey: czech-republic-vanity_license_plate
 ---
+
 
 ## Description
 ### What is it?

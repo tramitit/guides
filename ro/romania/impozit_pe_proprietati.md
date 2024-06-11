@@ -1,13 +1,16 @@
 ---
-translationKey: romania-property_tax
-title: "Impozitul pe proprietate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Impozitul pe proprietate în România: Un ghid cuprinzător"
-description: "Aflați despre ce este impozitul pe proprietate, cine trebuie să-l plătească, care este procedura, și mai multe."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați cum să evaluați, calculați și plătiți impozitul pe proprietate
+  în România, inclusiv documentele necesare și scutirile fiscale disponibile.
 draft: false
+meta_title: 'Impozitul pe proprietate în România: Ghid complet și proceduri'
+title: 'Impozitul pe proprietate în România: Ghid complet și proceduri'
+translationKey: romania-property_tax
 ---
+
 
 ## Descriere
 ### Ce este?

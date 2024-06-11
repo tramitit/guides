@@ -1,13 +1,16 @@
 ---
-title: "Child birth registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "A step-by-step guideline on how to register a child's birth in Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Legal process in Poland recognizing a child's rights including nationality.
+  Learn required docs, providers, and important details for new parents and guardians.
 draft: false
-translationKey: "poland-child_birth_registration"
+meta_title: 'Child Birth Registration in Poland: Procedures & Requirements'
+title: 'Child Birth Registration in Poland: Procedures & Requirements'
+translationKey: poland-child_birth_registration
 ---
+
 
 ## Description
 ### What is it?

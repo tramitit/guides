@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_change_of_data_in_the_id_card
-title: "Žádost o změnu údajů na občanském průkazu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Postupný průvodce pro žádost o změnu údajů na občanském průkazu"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, jak změnit údaje v občanském průkazu - Potřebné kroky, dokumenty
+  a rady. Online postupy a důležité informace k ochraně osobních údajů.
 draft: false
+meta_title: Změna údajů v občanském průkazu - Postup a Požadavky
+title: Změna údajů v občanském průkazu - Postup a Požadavky
+translationKey: czech republic-application_for_change_of_data_in_the_id_card
 ---
+
 
 ## Popis
 ### Co to je?

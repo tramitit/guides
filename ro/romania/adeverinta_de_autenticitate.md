@@ -1,13 +1,16 @@
 ---
-translationKey: romania-certificate_of_authenticity
-title: "Certificat de autenticitate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Ghid detaliate despre pașii și cerințele pentru obținerea unui Certificat de Autenticitate în România."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum poți valida autenticitatea unui obiect valoros printr-un certificat.
+  Procesul, documentele necesare și cum îți alegi furnizorul potrivit.
 draft: false
+meta_title: 'Certificat de Autenticitate: Ce Este, Cine Are Nevoie și Cum Obții'
+title: 'Certificat de Autenticitate: Ce Este, Cine Are Nevoie și Cum Obții'
+translationKey: romania-certificate_of_authenticity
 ---
+
 
 ## Descriere
 ### Ce este?

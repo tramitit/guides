@@ -1,13 +1,16 @@
 ---
-title: "Work permit application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Detailed procedures for a Work Permit Application in France to facilitate your employment transition."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Step-by-step process to apply for a work permit in France for non-EU
+  individuals with a job contract. Includes required documents and provider details.
 draft: false
-translationKey: "france-work_permit_application"
+meta_title: 'France Work Permit Application Guide: Procedure & Documents'
+title: 'France Work Permit Application Guide: Procedure & Documents'
+translationKey: france-work_permit_application
 ---
+
 
 ## Description
 ### What is it?

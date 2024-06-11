@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_criminal_record_certificate
-title: "Pedido de Certificado de Antecedentes Criminais"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este guia fornece um procedimento passo a passo sobre como solicitar um Certificado de Antecedentes Criminais em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como obter um Certificado de Registo Criminal em Portugal, quem
+  precisa dele, procedimento online através do Portal da Justiça e documentos necessários.
 draft: false
+meta_title: 'Certificado de Registo Criminal em Portugal: Procedimento e Documentos'
+title: 'Certificado de Registo Criminal em Portugal: Procedimento e Documentos'
+translationKey: portugal-request_for_criminal_record_certificate
 ---
+
 
 ## Descrição
 ### O que é?

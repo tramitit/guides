@@ -1,13 +1,16 @@
 ---
-title: "Request for Debt and No-Debt Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This guide provides step-by-step procedures to request debt and no-debt certificates."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to apply for debt and no-debt certificates, necessary documents,
+  and providers. Crucial for financial planning, loan applications, and audits.
 draft: false
-translationKey: "portugal-request_for_debt_and_no-debt_certificate"
+meta_title: 'Debt and No-Debt Certificate: Application Procedure and Providers'
+title: 'Debt and No-Debt Certificate: Application Procedure and Providers'
+translationKey: portugal-request_for_debt_and_no-debt_certificate
 ---
+
 
 ## Description
 ### What is it?

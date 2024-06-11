@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_tax_identification_number_(tin)
-title: "Αίτηση για Αριθμό Φορολογικής Ταυτότητας (TIN)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Οδηγός βήμα προς βήμα για το πώς να υποβάλετε αίτηση για Αριθμό Φορολογικής Ταυτότητας (TIN) στην Ελλάδα."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Ανακαλύψτε πώς να αποκτήσετε τον TIN σας στην Ελλάδα, τι χρειάζεστε και
+  ποιοι μπορούν να σας βοηθήσουν. Βήμα-βήμα οδηγίες και απαιτούμενα έγγραφα.
 draft: false
+meta_title: 'Αριθμός Φορολογικής Ταυτότητας (TIN) στην Ελλάδα: Αιτήσεις και Οδηγίες'
+title: 'Αριθμός Φορολογικής Ταυτότητας (TIN) στην Ελλάδα: Αιτήσεις και Οδηγίες'
+translationKey: greece-application_for_tax_identification_number_(tin)
 ---
+
 
 ## Περιγραφή
 ### Τι είναι αυτό;

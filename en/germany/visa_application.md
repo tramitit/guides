@@ -1,13 +1,16 @@
 ---
-title: "Visa application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "German Visa Application Guide"
-description: "A comprehensive guide on how to apply for a German visa"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Step-by-step process to apply for German visa - types, required documents,
+  providers, and tips. Essential for visits or work permits in Germany.
 draft: false
-translationKey: "germany-visa_application"
+meta_title: 'German Visa Application: A Complete Guide for Non-Residents'
+title: 'German Visa Application: A Complete Guide for Non-Residents'
+translationKey: germany-visa_application
 ---
+
 
 ## Description
 ### What is it?

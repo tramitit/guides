@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_unemployment_benefits
-title: "Demande d'allocations de chômage"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Ce guide fournit des instructions étape par étape sur comment demander des allocations de chômage en Belgique."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Trouvez les étapes précises et les documents nécessaires pour demander
+  des allocations de chômage en Belgique, pour toute personne récemment sans emploi.
 draft: false
+meta_title: Guide pour demander des allocations de chômage en Belgique
+title: Guide pour demander des allocations de chômage en Belgique
+translationKey: belgium-request_for_unemployment_benefits
 ---
+
 
 ## Description
 ### Pour qui est-ce?

@@ -1,13 +1,16 @@
 ---
-title: "Request for Tax Identification Number (NIF)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Guide to Requesting a Tax Identification Number (NIF) in Portugal"
-description: "A step-by-step guide on how to request for a NIF, who needs it, the required documents, and additional details to help simplify the process for you."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn the process, requirements, and importance of obtaining a NIF in
+  Portugal for financial activities. Find out where and how to get it easily.
 draft: false
-translationKey: "portugal-request_for_tax_identification_number_(nif)"
+meta_title: Getting a Tax Identification Number (NIF) in Portugal
+title: Getting a Tax Identification Number (NIF) in Portugal
+translationKey: portugal-request_for_tax_identification_number_(nif)
 ---
+
 
 ## Description
 ### What is it?

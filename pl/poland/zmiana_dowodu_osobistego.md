@@ -1,13 +1,16 @@
 ---
-translationKey: poland-change_of_id_card
-title: "Zmiana dowodu osobistego"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Jak zmienić swój dowód osobisty"
-description: "Ten przewodnik zawiera szczegółową procedurę zmiany istniejącego dowodu osobistego."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się jak zmienić dowód osobisty - procedura, wymagane dokumenty,
+  dostawcy oferujący pomoc. Aktualizuj wszędzie, gdzie używano starego dowodu.
 draft: false
+meta_title: 'Zmiana Dowodu Osobistego: Procedura, Wymagane Dokumenty, Dostawcy'
+title: 'Zmiana Dowodu Osobistego: Procedura, Wymagane Dokumenty, Dostawcy'
+translationKey: poland-change_of_id_card
 ---
+
 
 
 ## Opis

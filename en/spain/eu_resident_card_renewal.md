@@ -1,13 +1,17 @@
 ---
-title: "EU Resident Card Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "A comprehensive guide on how to renew the EU Resident Card in Spain."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Guide on renewing EU Resident Card in Spain, including required docs,
+  application steps, and providers' info. Ensure timely renewal to maintain resident
+  status.
 draft: false
-translationKey: "spain-eu_resident_card_renewal"
+meta_title: 'Renew EU Resident Card (TIE) in Spain: Process and Providers'
+title: 'Renew EU Resident Card (TIE) in Spain: Process and Providers'
+translationKey: spain-eu_resident_card_renewal
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,17 @@
 ---
-title: "Entry into the Marriage Register in Croatia"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Step by Step Guide for Entry into the Marriage Register in Croatia"
-description: "This guide outlines the process of officially registering a marriage in Croatia."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn the steps to officially register your marriage in Croatia with
+  required documents like birth cert, translated papers, and possible authentication
+  abroad.
 draft: false
-translationKey: "croatia-entry_into_the_marriage_register"
+meta_title: 'Marriage Registration in Croatia: Process and Documents'
+title: 'Marriage Registration in Croatia: Process and Documents'
+translationKey: croatia-entry_into_the_marriage_register
 ---
+
 
 ## Description
 ### What is it?

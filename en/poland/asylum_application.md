@@ -1,13 +1,16 @@
 ---
-title: "Asylum application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to apply for asylum in Poland, who needs it, required documents,
+  and providers. Understand the process and the country's stance on asylum seekers.
 draft: false
-translationKey: "poland-asylum_application"
+meta_title: 'Asylum Application in Poland: Procedure and Required Documents'
+title: 'Asylum Application in Poland: Procedure and Required Documents'
+translationKey: poland-asylum_application
 ---
+
 
 ## Description
 ### What is it?

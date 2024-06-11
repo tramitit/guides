@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_passport_issuance
-title: "Αίτηση για έκδοση διαβατηρίου"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Αυτή είναι η μετα-περιγραφή"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τη διαδικασία για να αποκτήσετε ελληνικό διαβατήριο, τα απαραίτητα
+  έγγραφα, προϋποθέσεις, χρόνο, κόστος και προσοχές.
 draft: false
+meta_title: 'Αιτήσεις διαβατηρίου στην Ελλάδα: Διαδικασία, Έγγραφα και Πληροφορίες'
+title: 'Αιτήσεις διαβατηρίου στην Ελλάδα: Διαδικασία, Έγγραφα και Πληροφορίες'
+translationKey: greece-application_for_passport_issuance
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

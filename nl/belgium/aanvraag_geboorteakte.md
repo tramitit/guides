@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_birth_certificate
-title: "Aanvraag voor geboorteakte"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Gids over hoe u een geboorteakte in België kunt aanvragen"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek hoe je een geboorteakte in België kunt verkrijgen, de benodigde
+  documenten en informatie over apostilleren voor gebruik in het buitenland.
 draft: false
+meta_title: 'Geboorteakte in België: Procedure en Dienstverleners'
+title: 'Geboorteakte in België: Procedure en Dienstverleners'
+translationKey: belgium-request_for_birth_certificate
 ---
+
 
 ## Beschrijving
 ### Wat is het?

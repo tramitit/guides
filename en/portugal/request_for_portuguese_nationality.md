@@ -1,13 +1,16 @@
 ---
-title: "Request for Portuguese Nationality"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "A comprehensive guide on how to request for Portuguese Nationality"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Aprenda os critérios para adquirir nacionalidade portuguesa e os documentos
+  necessários. Processo inclui avaliação e declaração de lealdade a Portugal.
 draft: false
-translationKey: "portugal-request_for_portuguese_nationality"
+meta_title: 'Como Obter Nacionalidade Portuguesa: Guia Completo'
+title: 'Como Obter Nacionalidade Portuguesa: Guia Completo'
+translationKey: portugal-request_for_portuguese_nationality
 ---
+
 
 ## Description
 ### What is it?

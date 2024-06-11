@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-change_of_address_on_driving_license
-title: "Alteração de Endereço na Carta de Condução"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Um guia passo a passo sobre como alterar o endereço na sua carta de condução."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como mudar o endereço na sua carteira de motorista e quais documentos
+  são necessários nesse processo obrigatório e importante.
 draft: false
+meta_title: Como atualizar o endereço na sua carteira de motorista
+title: Como atualizar o endereço na sua carteira de motorista
+translationKey: portugal-change_of_address_on_driving_license
 ---
+
 
 ## Descrição
 ### O que é?

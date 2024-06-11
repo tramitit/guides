@@ -1,13 +1,16 @@
 ---
-title: "Divorce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Comprehensive Guide to Getting a Divorce in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn about the legal steps and required documents for divorce in Poland.
+  Find out how to seek legal advice and navigate court proceedings efficiently.
 draft: false
-translationKey: "poland-divorce"
+meta_title: 'Divorce Procedures in Poland: How to File for Divorce'
+title: 'Divorce Procedures in Poland: How to File for Divorce'
+translationKey: poland-divorce
 ---
+
 
 ## Description
 ### What is it?

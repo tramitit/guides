@@ -1,13 +1,16 @@
---- 
-title: "Identity Card Request in Italy"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Guide on how to request for an Italian Identity Card also known as Carta d'Identità"
-draft: false
-translationKey: "italy-identity_card_request"
 ---
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to get the Italian Carta d'Identità, needed by residents and
+  travelers in Italy & the EU. Details on required documents and procedures.
+draft: false
+meta_title: 'Italian Identity Card: How to Obtain & Essential Details'
+title: 'Italian Identity Card: How to Obtain & Essential Details'
+translationKey: italy-identity_card_request
+---
+
 
 ## Description
 ### What is it?

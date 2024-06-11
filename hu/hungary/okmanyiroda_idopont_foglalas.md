@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-document_office_appointment_booking
-title: "Dokumentum Irodai Időpont Foglalás"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Egy átfogó útmutató a dokumentum irodai időpont foglalásához Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Foglaljon időpontot útlevélhez, jogosítványhoz vagy vízumhoz. Lépések
+  és szükséges dokumentumok. Szolgáltatók weboldalai, időpontok és költségek.
 draft: false
+meta_title: Irodai Időpontfoglalás Dokumentáció - Menetrend és Dokumentumok
+title: Irodai Időpontfoglalás Dokumentáció - Menetrend és Dokumentumok
+translationKey: hungary-document_office_appointment_booking
 ---
+
 
 ## Leírás
 ### Mi ez?

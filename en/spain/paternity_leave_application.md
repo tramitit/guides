@@ -1,13 +1,16 @@
 ---
-title: "Paternity Leave Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "This is a step-by-step guide for applying for paternity leave in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: 'Todo lo que necesitas saber sobre el permiso de paternidad: requisitos,
+  documentos y cómo solicitarlo a través de la Seguridad Social.'
 draft: false
-translationKey: "spain-paternity_leave_application"
+meta_title: Guía Completa sobre el Permiso de Paternidad en España
+title: Guía Completa sobre el Permiso de Paternidad en España
+translationKey: spain-paternity_leave_application
 ---
+
 
 ## Description
 ### What is it?

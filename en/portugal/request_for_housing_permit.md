@@ -1,13 +1,16 @@
 ---
-title: "Request for Housing Permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Request for Housing Permit in Portugal"
-description: "Step by step guide to applying for a housing permit in Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn the process to acquire a Housing Permit, essential for buying,
+  selling, or renting property in Portugal. Ensure compliance to avoid penalties.
 draft: false
-translationKey: "portugal-request_for_housing_permit"
+meta_title: 'Portugal Housing Permit: How to Obtain and Who Needs It'
+title: 'Portugal Housing Permit: How to Obtain and Who Needs It'
+translationKey: portugal-request_for_housing_permit
 ---
+
 
 ## Description
 ### What is it?

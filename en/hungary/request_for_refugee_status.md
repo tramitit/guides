@@ -1,14 +1,16 @@
 ---
-
-title: "Request for refugee status"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Guide to Request for Refugee Status in Hungary"
-description: "Step-by-step guide on how to request for refugee status in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn the steps to apply for refugee status, necessary documents, and
+  how to navigate the formal process to secure protection in a safe country.
 draft: false
-translationKey: "hungary-request_for_refugee_status"
+meta_title: Guide to Refugee Status Application and Required Documents
+title: Guide to Refugee Status Application and Required Documents
+translationKey: hungary-request_for_refugee_status
 ---
+
 
 ## Description
 ### What is it?

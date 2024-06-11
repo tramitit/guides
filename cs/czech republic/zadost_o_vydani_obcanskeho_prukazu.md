@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_issuing_an_id_card
-title: "Žádost o vydání průkazu totožnosti"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Tento článek popisuje postup při žádosti o vydání průkazu totožnosti v České republice."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Postup získání občanského průkazu v České republice - Seznam potřebných
+  dokumentů, kde a jak podat žádost. Informace o zpracování a ceně žádosti.
 draft: false
+meta_title: Jak získat občanský průkaz v České republice - Postup a dokumenty
+title: Jak získat občanský průkaz v České republice - Postup a dokumenty
+translationKey: czech republic-application_for_issuing_an_id_card
 ---
+
 
 ## Popis
 ### Co to je?

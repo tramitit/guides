@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-registration_of_surname_change_after_marriage
-title: "Регистрация на промяна на фамилия след брак"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Регистрация на промяна на фамилия след брак"
-description: "Подробно ръководство за регистрация на промяна на фамилия след брака"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да смените фамилното си име след женитба в чужбина. Изисквания,
+  процедури и правила специално за лица, оженени зад граница.
 draft: false
+meta_title: 'Променяне на фамилното име след женитба: Подробно ръководство'
+title: 'Променяне на фамилното име след женитба: Подробно ръководство'
+translationKey: bulgaria-registration_of_surname_change_after_marriage
 ---
+
 
 ## Описание
 ### Какво е това?

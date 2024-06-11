@@ -1,13 +1,16 @@
 ---
-title: "Payment declaration for local taxes and fees"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Aprende a declarar ingresos y gastos por e-commerce y servicios digitales.
+  Cumple con la legislación fiscal local fácilmente con nuestra guía paso a paso.
 draft: false
-translationKey: "bulgaria-payment_declaration_for_local_taxes_and_fees"
+meta_title: 'Declaración de impuestos locales: guía completa para autónomos'
+title: 'Declaración de impuestos locales: guía completa para autónomos'
+translationKey: bulgaria-payment_declaration_for_local_taxes_and_fees
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Immigration Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "This is a comprehensive guide to immigrating to Spain with a focus on the digital nomad visa."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to secure a digital nomad visa in Spain with detailed steps
+  and required documents. Ideal for remote workers seeking legal work status in Spain.
 draft: false
-translationKey: "spain-immigration_application"
+meta_title: 'Guide to Digital Nomad Visa in Spain: Requirements & Process'
+title: 'Guide to Digital Nomad Visa in Spain: Requirements & Process'
+translationKey: spain-immigration_application
 ---
+
 
 ## Description
 ### What is it?

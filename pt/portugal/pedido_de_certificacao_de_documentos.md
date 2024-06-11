@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_document_certification
-title: "Pedido de Certificação de Documento"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Guia passo a passo sobre como solicitar a certificação de documentos."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como certificar documentos para imigração, estudos no exterior
+  e transações internacionais. Documentos necessários e prestadores de serviços disponíveis.
 draft: false
+meta_title: 'Certificação de Documentos: Processo e Prestadores de Serviços'
+title: 'Certificação de Documentos: Processo e Prestadores de Serviços'
+translationKey: portugal-request_for_document_certification
 ---
+
 
 ## Descrição
 ### O que é?

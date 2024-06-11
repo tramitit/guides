@@ -1,14 +1,16 @@
 ---
-
-title: "Maternity Allowance Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Comprehensive guide on applying for maternity leave allowance in Italy."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn about Maternity Allowance eligibility, required documents, application
+  procedure, and providers. Ensure timely submission for maximum duration benefits.
 draft: false
-translationKey: "italy-maternity_allowance_application"
+meta_title: 'Maternity Allowance: Eligibility, Procedure, and Providers'
+title: 'Maternity Allowance: Eligibility, Procedure, and Providers'
+translationKey: italy-maternity_allowance_application
 ---
+
 
 ## Description
 ### What is it?

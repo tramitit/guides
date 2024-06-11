@@ -1,13 +1,16 @@
 ---
-title: "Driver's license exchange"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Driver's License Exchange In Poland: Step-By-Step Guide"
-description: "Detailed guide to exchange your foreign driver's license in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Step-by-step guide for foreigners moving to Poland to legally drive on
+  Polish roads. Procedure, required documents, providers, and essential details included.
 draft: false
-translationKey: "poland-drivers_license_exchange"
+meta_title: How to Exchange Foreign Driver's License for Polish License
+title: How to Exchange Foreign Driver's License for Polish License
+translationKey: poland-drivers_license_exchange
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: spain-certificate_of_residence
-title: "Certificado de Residencia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Una guía completa para obtener un Certificado de Residencia en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubra cómo obtener un Certificado de Residencia en España, esencial
+  para trámites como NIE/TIE y seguros. Pasos, documentos y detalles adicionales.
 draft: false
+meta_title: 'Certificado de Residencia en España: Procedimiento y Documentos'
+title: 'Certificado de Residencia en España: Procedimiento y Documentos'
+translationKey: spain-certificate_of_residence
 ---
+
 
 ## Descripción
 ### ¿Qué es?

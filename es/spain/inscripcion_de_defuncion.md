@@ -1,13 +1,16 @@
 ---
-translationKey: spain-death_registration
-title: "Registro de Defunción en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Pasos para el Registro de Defunción en España"
-description: "Proceso detallado para registrar una defunción y obtener un certificado de defunción en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Aprende cómo obtener el certificado de defunción en España, requerido
+  para trámites legales y administrativos. Proceso, documentos y proveedores disponibles.
 draft: false
+meta_title: 'Registro de Defunción en España: Procedimiento y Documentos Necesarios'
+title: 'Registro de Defunción en España: Procedimiento y Documentos Necesarios'
+translationKey: spain-death_registration
 ---
+
 
 ## Descripción
 ### ¿Qué es?

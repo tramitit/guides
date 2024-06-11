@@ -1,13 +1,16 @@
 ---
-title: "Application for inheritance certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn about the need, procedure, and required documents for obtaining
+  an inheritance certificate, essential for legal heirs to transfer deceased's assets.
 draft: false
-translationKey: "greece-application_for_inheritance_certificate"
+meta_title: 'Inheritance Certificate: Essential Guide for Legal Heirs'
+title: 'Inheritance Certificate: Essential Guide for Legal Heirs'
+translationKey: greece-application_for_inheritance_certificate
 ---
+
 
 ## Description
 ### What is it?

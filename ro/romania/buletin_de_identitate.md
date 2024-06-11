@@ -1,13 +1,17 @@
 ---
-translationKey: romania-identity_card
-title: "Carte de identitate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Ghid detaliat despre Cartea de Identitate a României"
-description: "În acest ghid, împărtășim pașii despre cum să obții, să reînnoiești și să schimbi detalii pe o carte de identitate românească"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Învață cum poți obține un Card de Identitate românesc, pașii necesari,
+  documentele cerute și furnizorii autorizați. Reînnoiește-l înainte de expirare!
+  - Română
 draft: false
+meta_title: 'Card de Identitate Românesc: Proceduri, Documente și Furnizori'
+title: 'Card de Identitate Românesc: Proceduri, Documente și Furnizori'
+translationKey: romania-identity_card
 ---
+
 
 ## Descriere
 ### Ce este?

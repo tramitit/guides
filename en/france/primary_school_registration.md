@@ -1,13 +1,16 @@
 ---
-title: "Primary School Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide to Registering a Child for Primary School in France"
-description: "This guide outlines the steps to register a child for primary school in France, including necessary documents and useful tips."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to register your child for primary school in France. Find out
+  procedures, required documents, and necessary steps for a smooth enrollment process.
 draft: false
-translationKey: "france-primary_school_registration"
+meta_title: 'Primary School Registration in France: A Detailed Guide'
+title: 'Primary School Registration in France: A Detailed Guide'
+translationKey: france-primary_school_registration
 ---
+
 
 ## Description
 ### What is it?

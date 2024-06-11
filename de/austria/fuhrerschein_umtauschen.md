@@ -1,13 +1,16 @@
 ---
-translationKey: austria-drivers_license_exchange
-title: "Führerschein Umtausch"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Details und Verfahren zum Umtausch eines internationalen Führerscheins in Österreich und Deutschland"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Ausländer eine örtliche Fahrerlaubnis im Ausland erwerben
+  können. Schritte, Dokumente und Anbieter für den Führerscheinaustausch erklärt.
 draft: false
+meta_title: 'Internationaler Führerscheinaustausch: Verfahren und Dokumente'
+title: 'Internationaler Führerscheinaustausch: Verfahren und Dokumente'
+translationKey: austria-drivers_license_exchange
 ---
+
 
 ## Beschreibung
 ### Was ist das?

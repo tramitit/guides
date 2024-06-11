@@ -1,13 +1,16 @@
 ---
-translationKey: france-demolition_permit_application
-title: "Demande de permis de démolition"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide de demande de permis de démolition en France"
-description: "Ce guide fournit des instructions étape par étape sur la manière de demander un permis de démolition en France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment obtenir un permis de démolition en France pour respecter
+  les réglementations locales. Processus, documents requis et conseils utiles.
 draft: false
+meta_title: 'Permis de Démolition en France: Processus, Documents & Conseils'
+title: 'Permis de Démolition en France: Processus, Documents & Conseils'
+translationKey: france-demolition_permit_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

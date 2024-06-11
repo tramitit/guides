@@ -1,13 +1,16 @@
 ---
-title: "Driver's License Application in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Spain Driver's License Application Process"
-description: "A comprehensive guide on how to apply for a driver's license in Spain, including the necessary steps, required documents, and service providers."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: 'Descubre cómo solicitar tu licencia de conducir en España: pasos, documentos
+  necesarios y procedimientos detallados.'
 draft: false
-translationKey: "spain-drivers_license_application"
+meta_title: Guía para obtener tu licencia de conducir en España
+title: Guía para obtener tu licencia de conducir en España
+translationKey: spain-drivers_license_application
 ---
+
 
 ## Description
 ### What is it?

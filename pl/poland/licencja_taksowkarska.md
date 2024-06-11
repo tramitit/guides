@@ -1,13 +1,16 @@
 ---
-translationKey: poland-taxi_license
-title: "Uzyskanie licencji na taksówkę w Polsce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Przewodnik po uzyskaniu licencji na taksówkę w Polsce"
-description: "Szczegółowy przewodnik, który opisuje proces uzyskania licencji na taksówkę w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zdobyć licencję taksówkarską w Polsce. Kurs, egzamin,
+  dokumenty, i więcej. Informacje dla miejscowych i obcokrajowców. Sprawdź teraz!
 draft: false
+meta_title: 'Licencja taksówkarska w Polsce: Procedura i Wymagane dokumenty'
+title: 'Licencja taksówkarska w Polsce: Procedura i Wymagane dokumenty'
+translationKey: poland-taxi_license
 ---
+
 
 ## Opis
 ### Co to jest?

@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-entry_into_the_death_register
-title: "Upis u mrtvozapisnik"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Detaljan opis postupka upisa u mrtvozapisnik u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako upisati smrt u knjigu umrlih u Hrvatskoj. Potrebni dokumenti
+  i koraci. Pružatelji usluga, važnost upisa i preporuke. Lokalne varijacije moguće.
 draft: false
+meta_title: 'Upravljanje umrlicama u Hrvatskoj: Postupak i Dokumentacija'
+title: 'Upravljanje umrlicama u Hrvatskoj: Postupak i Dokumentacija'
+translationKey: croatia-entry_into_the_death_register
 ---
+
 
 ## Opis
 ### Što je to?

@@ -1,13 +1,16 @@
 ---
-translationKey: austria-name_change_application
-title: "Namensänderungsantrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Wie man seinen Namen in Österreich ändert"
-description: "Dies ist ein umfassender Leitfaden darüber, wie man seinen Namen in Österreich ändert, einschließlich des detaillierten Verfahrens, der erforderlichen Dokumente, Dienstleister und relevanter Tipps."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie alles über den Prozess einer Namensänderung in Österreich,
+  wer es benötigt, erforderliche Dokumente und Anbieter, die Ihnen dabei helfen können.
 draft: false
+meta_title: 'Namensänderungsantrag in Österreich: Ablauf und Dokumente'
+title: 'Namensänderungsantrag in Österreich: Ablauf und Dokumente'
+translationKey: austria-name_change_application
 ---
+
 
 ## Beschreibung
 ### Was ist es?

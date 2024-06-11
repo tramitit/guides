@@ -1,13 +1,16 @@
 ---
-title: "Request for criminal record extract"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This guide discusses the process of requesting a criminal record extract in Belgium."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to obtain a criminal record extract from a Belgian municipality,
+  required documents, and its use for job applications, visas, and gun licenses.
 draft: false
-translationKey: "belgium-request_for_criminal_record_extract"
+meta_title: 'Criminal Record Extract in Belgium: Procedure & Providers'
+title: 'Criminal Record Extract in Belgium: Procedure & Providers'
+translationKey: belgium-request_for_criminal_record_extract
 ---
+
 
 ## Description
 ### What is it?

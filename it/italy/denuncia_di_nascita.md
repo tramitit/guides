@@ -1,13 +1,16 @@
 ---
-translationKey: italy-birth_declaration
-title: "Dichiarazione di nascita"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guida alla Dichiarazione di Nascita in Italia"
-description: "Procedura dettagliata sulla dichiarazione di nascita in Italia, inclusi documenti necessari, fornitori e dettagli aggiuntivi"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Conosci la procedura e i documenti necessari per registrare la nascita
+  di un neonato in Italia. Scopri chi può occuparsene e i dettagli aggiuntivi.
 draft: false
+meta_title: 'Dichiarazione di Nascita in Italia: Procedura e Documenti Richiesti'
+title: 'Dichiarazione di Nascita in Italia: Procedura e Documenti Richiesti'
+translationKey: italy-birth_declaration
 ---
+
 
 ## Descrizione
 ### Che cos'è?

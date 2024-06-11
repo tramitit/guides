@@ -1,13 +1,16 @@
 ---
-title: "Application for an International Certificate of Good Conduct"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "This is a guide on how to apply for an International Certificate of Good Conduct."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to apply for an International Certificate of Good Conduct (Führungszeugnis)
+  in Germany. A step-by-step guide with required documents and cost details.
 draft: false
-translationKey: "germany-application_for_an_international_certificate_of_conduct"
+meta_title: 'International Certificate of Good Conduct: How to Apply'
+title: 'International Certificate of Good Conduct: How to Apply'
+translationKey: germany-application_for_an_international_certificate_of_conduct
 ---
+
 
 ## Description
 ### What is it?

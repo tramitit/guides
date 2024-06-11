@@ -1,13 +1,16 @@
 ---
-translationKey: spain-work_authorization_for_students
-title: "Autorización de trabajo para estudiantes en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Autorización de trabajo para estudiantes en España"
-description: "Una guía completa sobre cómo obtener autorización de trabajo para estudiantes en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo los estudiantes internacionales pueden trabajar en España
+  mientras estudian. Procedimiento, documentos necesarios y detalles adicionales.
 draft: false
+meta_title: Autorización de Trabajo para Estudiantes en España
+title: Autorización de Trabajo para Estudiantes en España
+translationKey: spain-work_authorization_for_students
 ---
+
 
 ## Descripción
 ### ¿Qué es?

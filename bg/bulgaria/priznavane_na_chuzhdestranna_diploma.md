@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-recognition_of_a_foreign_diploma
-title: "Признаване на чуждестранен диплом в България"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Признаване на чуждестранни дипломи в България"
-description: "Стъпка по стъпка ръководство за признаване на чуждестранни академични квалификации в България."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да признаете чуждестранни дипломи в България за учебни, професионални
+  или работни цели. Изисквания, процедури и необходими документи.
 draft: false
+meta_title: 'Признаване на чуждестранен диплом в България: Процес и Документи'
+title: 'Признаване на чуждестранен диплом в България: Процес и Документи'
+translationKey: bulgaria-recognition_of_a_foreign_diploma
 ---
+
 
 ## Описание
 ### Какво е това?

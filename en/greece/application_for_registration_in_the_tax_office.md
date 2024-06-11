@@ -1,13 +1,16 @@
 ---
-title: "Application for registration in the Tax Office"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "A comprehensive guide detailing the steps to apply for registration in the Greek Tax Office"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Step-by-step process for individuals and businesses to obtain a tax number
+  in Greece for financial transactions. Ensure accuracy of documents to avoid delays.
 draft: false
-translationKey: "greece-application_for_registration_in_the_tax_office"
+meta_title: 'Greek Tax Office Registration Guide: Getting Your AFM'
+title: 'Greek Tax Office Registration Guide: Getting Your AFM'
+translationKey: greece-application_for_registration_in_the_tax_office
 ---
+
 
 ## Description
 ### What is it?

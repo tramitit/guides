@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-registration_of_tourists_stay
-title: "Registracija boravka turista"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Ovo je sveobuhvatni vodič o tome kako turisti mogu sigurno i zakonito registrirati svoj boravak prilikom posjeta Hrvatskoj."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Sve o proceduri registracije boravka turista u Hrvatskoj, uključujući
+  potrebne dokumente, postupak registracije i važne detalje. Saznajte više!
 draft: false
+meta_title: 'Registracija boravka turista u Hrvatskoj: Postupak i Dokumenti'
+title: 'Registracija boravka turista u Hrvatskoj: Postupak i Dokumenti'
+translationKey: croatia-registration_of_tourists_stay
 ---
+
 
 ## Opis
 ### Što je to?

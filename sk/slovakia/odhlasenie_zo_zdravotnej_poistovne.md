@@ -1,14 +1,16 @@
 ---
-translationKey: slovakia-deregistering_from_health_insurance
-
-title: "Odhlásenie z zdravotného poistenia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Podrobný návod, ako sa odhlásiť zo zdravotného poistenia pri presune do inej krajiny alebo regiónu."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Presný postup k odhláseniu zo zdravotného poistenia. Vyplnenie formulára
+  a dôležité informácie pre prechod na iné poistenie. Uisti sa o správnom prechode.
 draft: false
+meta_title: 'Odhlásenie zo zdravotného poistenia: Postup a požadované dokumenty'
+title: 'Odhlásenie zo zdravotného poistenia: Postup a požadované dokumenty'
+translationKey: slovakia-deregistering_from_health_insurance
 ---
+
 
 
 ## Popis

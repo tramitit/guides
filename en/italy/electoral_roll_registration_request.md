@@ -1,13 +1,16 @@
 ---
-title: "Electoral Roll Registration Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come registrarti nell'A.I.R.E per votare, sia dall'Italia che
+  dall'estero. Segui la procedura e i documenti necessari per i cittadini italiani.
 draft: false
-translationKey: "italy-electoral_roll_registration_request"
+meta_title: Guida alla Registrazione nell'Anagrafe Elettorale Italiana
+title: Guida alla Registrazione nell'Anagrafe Elettorale Italiana
+translationKey: italy-electoral_roll_registration_request
 ---
+
 
 ## Description
 ### What is it?

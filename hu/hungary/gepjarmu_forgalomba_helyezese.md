@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-vehicle_registration
-title: "Jármű regisztráció Magyarországon"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Jármű regisztráció Magyarországon: Egy átfogó útmutató"
-description: "Lépésről lépésre útmutató arról, hogyan lehet regisztrálni egy járművet Magyarországon"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to register a vehicle in Hungary after purchase, including
+  necessary documents and providers. Find out costs and additional details.
 draft: false
+meta_title: 'Hungarian Vehicle Registration Process: Steps and Requirements'
+title: 'Hungarian Vehicle Registration Process: Steps and Requirements'
+translationKey: hungary-vehicle_registration
 ---
+
 
 ## Leírás
 ### Mi az?

@@ -1,13 +1,16 @@
 ---
-title: "Request for Pension"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Comprehensive Guide to Request for Pension in Belgium"
-description: "In this post, we simplify the seemingly daunting process of applying for a pension in Belgium using a step-by-step guideline."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to request for pension in Belgium, including eligibility criteria
+  and required documents. Ensure a smooth retirement by maximizing benefits.
 draft: false
-translationKey: "belgium-request_for_pension"
+meta_title: 'Requesting Pension in Belgium: Application Process and Eligibility'
+title: 'Requesting Pension in Belgium: Application Process and Eligibility'
+translationKey: belgium-request_for_pension
 ---
+
 
 ## Description
 ### What is it?

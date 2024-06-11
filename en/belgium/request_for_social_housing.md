@@ -1,13 +1,16 @@
 ---
-title: "Request for Social Housing in the Netherlands"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Netherlands"]
-meta_title: ""
-description: "This is a guide on how to request social housing in the Netherlands."
+author: Ricardo Batista
+categories:
+- Netherlands
+date: '2024-06-07'
+description: Learn how to register, wait times, priority status, required documents,
+  income limits, and implications of dishonesty in the Dutch social housing system.
 draft: false
-translationKey: "belgium-request_for_social_housing"
+meta_title: 'Social Housing in the Netherlands: Procedures and Requirements'
+title: 'Social Housing in the Netherlands: Procedures and Requirements'
+translationKey: belgium-request_for_social_housing
 ---
+
 
 ## Description
 ### What is it?

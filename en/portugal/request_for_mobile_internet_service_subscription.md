@@ -1,13 +1,16 @@
 ---
-title: "Request for Mobile Internet Service Subscription"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This guide explains how to subscribe to mobile internet service, especially in Portugal and while traveling."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Discover how to get mobile Internet in Portugal from major providers
+  like MEO, NOS, and Vodafone. Learn about required documents and activation process.
 draft: false
-translationKey: "portugal-request_for_mobile_internet_service_subscription"
+meta_title: 'Mobile Internet Subscription in Portugal: Plans and Providers'
+title: 'Mobile Internet Subscription in Portugal: Plans and Providers'
+translationKey: portugal-request_for_mobile_internet_service_subscription
 ---
+
 
 ## Description
 ### What is it?

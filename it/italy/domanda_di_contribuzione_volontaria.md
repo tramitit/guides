@@ -1,13 +1,16 @@
 ---
-translationKey: italy-voluntary_contribution_application
-title: "Domanda di Contributo Volontario"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa è una descrizione meta"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come fare contributi aggiuntivi al tuo fondo pensione per migliorare
+  i benefici futuri. Segui una procedura dettagliata e prepara i documenti necessari.
 draft: false
+meta_title: 'Contribuzione Volontaria per la Pensione: Guida Essenziale'
+title: 'Contribuzione Volontaria per la Pensione: Guida Essenziale'
+translationKey: italy-voluntary_contribution_application
 ---
+
 
 ## Descrizione
 ### Cos'è?

@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_debt_and_no-debt_certificate
-title: "Pedido de Certidão de Dívida e Não Dívida"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este guia fornece procedimentos passo a passo para solicitar certidões de dívida e não dívida."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba o que são certificados de dívida, quem precisa deles e o processo
+  para obtê-los. Conheça os documentos exigidos e precauções a tomar.
 draft: false
+meta_title: 'Certificados de Dívida: Entenda Como Conseguir e Utilizar'
+title: 'Certificados de Dívida: Entenda Como Conseguir e Utilizar'
+translationKey: portugal-request_for_debt_and_no-debt_certificate
 ---
+
 
 ## Descrição
 ### O que é?

@@ -1,13 +1,17 @@
 ---
-title: "Change of Permanent Residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This article guides you through the steps to change your permanent residence, specifically for those residing in the Czech Republic."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Understand the steps, documents, and providers for updating your address
+  when moving within or to the Czech Republic. Ensure smooth relocation with this
+  guide.
 draft: false
-translationKey: "czech-republic-change_of_permanent_residence"
+meta_title: Process for Changing Permanent Residence in the Czech Republic
+title: Process for Changing Permanent Residence in the Czech Republic
+translationKey: czech-republic-change_of_permanent_residence
 ---
+
 
 ## Description
 ### What is it?

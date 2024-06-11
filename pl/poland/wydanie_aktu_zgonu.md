@@ -1,13 +1,16 @@
 ---
-translationKey: poland-issuance_of_death_certificate
-title: "Wydanie świadectwa zgonu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Przewodnik dotyczący uzyskania świadectwa zgonu w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się jak uzyskać świadectwo zgonu w Polsce. Proces rejestracji,
+  dokumenty potrzebne, kroki do wykonania. Ważne informacje i ostrzeżenia.
 draft: false
+meta_title: 'Świadectwo Zgonu: Procedura i Wymagane Dokumenty w Polsce'
+title: 'Świadectwo Zgonu: Procedura i Wymagane Dokumenty w Polsce'
+translationKey: poland-issuance_of_death_certificate
 ---
+
 
 ## Opis
 ### Co to jest?

@@ -1,13 +1,17 @@
 ---
-title: "Preschool registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "How to register your child for Preschool in France"
-description: "This is a detailed guide on how to enroll your child in a Preschool in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Prepare your child for primary school by enrolling them in maternelle,
+  France's preschool system. Find out the process, required documents, providers,
+  and more.
 draft: false
-translationKey: "france-preschool_registration"
+meta_title: 'Enrolling in Preschool in France: A Comprehensive Guide'
+title: 'Enrolling in Preschool in France: A Comprehensive Guide'
+translationKey: france-preschool_registration
 ---
+
 
 ## Description
 ### What is it?

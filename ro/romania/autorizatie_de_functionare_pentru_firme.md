@@ -1,13 +1,16 @@
 ---
-translationKey: romania-operating_permit_for_companies
-title: "Autorizație de Funcționare pentru Companii"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Informații detaliate despre obținerea autorizațiilor de funcționare pentru companiile din România"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați procedura și documentele necesare pentru a obține permisul de
+  funcționare în România. Consultați furnizori și cerințele specifice ale afacerii.
 draft: false
+meta_title: Obținerea Permisiunii de Funcționare pentru Companii în România
+title: Obținerea Permisiunii de Funcționare pentru Companii în România
+translationKey: romania-operating_permit_for_companies
 ---
+
 
 ## Descriere
 ### Ce este?

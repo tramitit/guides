@@ -1,13 +1,16 @@
 ---
-title: "Vehicle de-registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "A step-by-step guide on how to de-register a vehicle in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn the process of removing your vehicle from public records in Hungary.
+  Obtain necessary documents and follow steps for de-registering a vehicle.
 draft: false
-translationKey: "hungary-vehicle_de-registration"
+meta_title: Hungary Vehicle De-Registration Process - Requirements & Steps
+title: Hungary Vehicle De-Registration Process - Requirements & Steps
+translationKey: hungary-vehicle_de-registration
 ---
+
 
 ## Description
 ### What is it?

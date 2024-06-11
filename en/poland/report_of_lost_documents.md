@@ -1,13 +1,16 @@
 ---
-title: "Report of lost documents"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "This is a guide on how to report and replace lost documents in Poland such as karta pobytu, ID card, or passport."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to report and replace lost official documents like residence
+  card or passport in Poland. Follow police report and application steps swiftly.
 draft: false
-translationKey: "poland-report_of_lost_documents"
+meta_title: 'Replace Lost Documents in Poland: Police Report & Procedures'
+title: 'Replace Lost Documents in Poland: Police Report & Procedures'
+translationKey: poland-report_of_lost_documents
 ---
+
 
 ## Description
 ### What is it?

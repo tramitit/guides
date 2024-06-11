@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-student_id_application
-title: "Diákigazolvány igénylés"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Lépésről lépésre útmutató a diákigazolvány igényléséhez Magyarországon"
-description: "Ez az útmutató részletes áttekintést nyújt arról, hogyan lehet diákigazolványhoz jutni Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerd meg a magyar diákigazolvány megszerzésének lépéseit, dokumentumait
+  és szolgáltatóit. Használd kedvezményekre és ingyenes közlekedésre!
 draft: false
+meta_title: 'Diákigazolvány Magyarországon: Kedvezmények és pályázati útmutató'
+title: 'Diákigazolvány Magyarországon: Kedvezmények és pályázati útmutató'
+translationKey: hungary-student_id_application
 ---
+
 
 ## Leírás
 ### Mi is ez?

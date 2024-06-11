@@ -1,13 +1,16 @@
 ---
-title: "Submitting an Exemption Order"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Guide to Submitting an Exemption Order in Germany"
-description: "Step-by-step guide for submitting an Exemption Order (Freistellungsauftrag) in Germany"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to submit an exemption order in Germany to avoid tax deductions
+  on interest and dividends. Find providers, procedure, and required documents here.
 draft: false
-translationKey: "germany-submitting_an_exemption_order"
+meta_title: Understanding Freistellungsauftrag for German Residents
+title: Understanding Freistellungsauftrag for German Residents
+translationKey: germany-submitting_an_exemption_order
 ---
+
 
 ## Description
 ### What is it?

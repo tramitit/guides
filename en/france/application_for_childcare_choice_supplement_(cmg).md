@@ -1,13 +1,16 @@
 ---
-title: "Application for Childcare Choice Supplement (CMG)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Apply for Childcare Choice Supplement (CMG) in France"
-description: "A step by step guide on how to apply for the Childcare Choice Supplement (CMG) in France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Le CMG aide les familles en France à financer une nounou ou micro-crèche
+  enregistrée. Idéal pour parents d'enfants < 6 ans. Suivez les étapes pour postuler.
 draft: false
-translationKey: "france-application_for_childcare_choice_supplement_(cmg)"
+meta_title: 'Le supplément choix de garde : aide pour nounou ou micro-crèche'
+title: 'Le supplément choix de garde : aide pour nounou ou micro-crèche'
+translationKey: france-application_for_childcare_choice_supplement_(cmg)
 ---
+
 
 ## Description
 ### What is it?

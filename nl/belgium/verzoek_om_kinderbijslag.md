@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_child_benefits
-title: "Aanvraag voor Kinderbijslag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Gedetailleerde Gids voor het Aanvragen van Kinderbijslag in België"
-description: "Gids die een stapsgewijze procedure geeft over het proces van het aanvragen van kinderbijslag in België."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek hoe ouders in België kinderbijslag kunnen aanvragen voor kinderen
+  onder de 25 jaar. Leer over benodigde documenten en stappen in de procedure.
 draft: false
+meta_title: 'Kinderbijslag in België: Aanvraagprocedure en vereiste documenten'
+title: 'Kinderbijslag in België: Aanvraagprocedure en vereiste documenten'
+translationKey: belgium-request_for_child_benefits
 ---
+
 
 ## Beschrijving
 ### Wat is het?

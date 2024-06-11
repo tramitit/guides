@@ -1,14 +1,16 @@
 ---
-
-title: "Succession Declaration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This is a step-by-step guide on how to declare succession following the death of a loved one. This post is particularly focused on the legal procedures in Italy."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come gestire la dichiarazione di successione in Italia, includendo
+  documenti necessari e tasse applicabili. Guida passo per passo.
 draft: false
-translationKey: "italy-succession_declaration"
+meta_title: 'Dichiarazione di Successione in Italia: Guida Completa'
+title: 'Dichiarazione di Successione in Italia: Guida Completa'
+translationKey: italy-succession_declaration
 ---
+
 
 ## Description
 ### What is it?

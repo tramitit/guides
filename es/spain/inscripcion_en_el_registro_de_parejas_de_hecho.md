@@ -1,13 +1,16 @@
 ---
-translationKey: spain-partnership_registration
-title: "Registro de Sociedades"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Una guía sobre el procedimiento de registro de sociedades en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: 'Descubre cómo registrar tu pareja en España: pasos, documentos y beneficios
+  para parejas con ciudadanos no pertenecientes a la UE.'
 draft: false
+meta_title: 'Registro de Pareja en España: Procedimiento y Documentos Necesarios'
+title: 'Registro de Pareja en España: Procedimiento y Documentos Necesarios'
+translationKey: spain-partnership_registration
 ---
+
 
 ## Descripción
 

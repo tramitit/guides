@@ -1,13 +1,16 @@
 ---
-translationKey: austria-reorder_marriage_certificate
-title: "Heiratsurkunde neu bestellen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detaillierte Anleitung zum Neu bestellen einer Heiratsurkunde."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie eine neue Heiratsurkunde beantragen, von Standesamt
+  bis Lieferung. Anbieter, Kosten und erforderliche Unterlagen für die Neubestellung.
 draft: false
+meta_title: 'Heiratsurkunde neu bestellen: Verfahren und Anbieter'
+title: 'Heiratsurkunde neu bestellen: Verfahren und Anbieter'
+translationKey: austria-reorder_marriage_certificate
 ---
+
 
 ## Beschreibung
 ### Was ist das?

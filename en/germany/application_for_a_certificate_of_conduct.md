@@ -1,13 +1,16 @@
 ---
-title: "Application for a certificate of conduct"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to obtain a German Führungszeugnis, required for jobs, visas,
+  and citizenship. Process, documents, providers, and key details explained thoroughly.
 draft: false
-translationKey: "germany-application_for_a_certificate_of_conduct"
+meta_title: 'Germany Certificate of Conduct: Application Guide & Details'
+title: 'Germany Certificate of Conduct: Application Guide & Details'
+translationKey: germany-application_for_a_certificate_of_conduct
 ---
+
 
 ## Description
 ### What is it?

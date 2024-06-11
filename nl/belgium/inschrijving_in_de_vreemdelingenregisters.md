@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-registration_in_the_foreigners_registers
-title: "Inschrijving in het vreemdelingenregister"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Inschrijving in het Vreemdelingenregister - Een beknopte handleiding"
-description: "Dit artikel is een beknopte handleiding over hoe je je kunt inschrijven in de vreemdelingenregisters voor verschillende landen."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Leer hoe je je formeel registreert in een buitenland, inclusief benodigde
+  documenten en dienstverleners. Voorkom boetes door de lokale wetten te volgen.
 draft: false
+meta_title: 'Registratie in het vreemdelingenregister: Procedure en Vereisten'
+title: 'Registratie in het vreemdelingenregister: Procedure en Vereisten'
+translationKey: belgium-registration_in_the_foreigners_registers
 ---
+
 
 ## Beschrijving
 ### Wat is het?

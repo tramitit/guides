@@ -1,13 +1,16 @@
 ---
-title: "Business registration in Poland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Register Your Business In Poland: Step-By-Step Guide"
-description: "This guide provides a comprehensive overview of how to register a business in Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to register a business in Poland with this detailed guide.
+  Find out about business structures, required documents, providers, and more.
 draft: false
-translationKey: "poland-business_registration"
+meta_title: 'Guide to Business Registration in Poland: Steps and Requirements'
+title: 'Guide to Business Registration in Poland: Steps and Requirements'
+translationKey: poland-business_registration
 ---
+
 
 ## Description
 ### What is it?

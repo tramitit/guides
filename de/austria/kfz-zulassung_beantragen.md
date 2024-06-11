@@ -1,13 +1,16 @@
 ---
-translationKey: austria-car_registration_application
-title: "Autoanmeldung in Österreich"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Autoanmeldung in Österreich Leitfaden"
-description: "Schritt-für-Schritt-Anleitung zur Autoanmeldung in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie man ein Auto in Österreich anmeldet, ob als Einwohner
+  oder EU-Bürger. Schritte, Unterlagen, Anbieter & wichtige Details erklärt.
 draft: false
+meta_title: 'Auto in Österreich anmelden: Leitfaden für Einwohner & EU-Käufer'
+title: 'Auto in Österreich anmelden: Leitfaden für Einwohner & EU-Käufer'
+translationKey: austria-car_registration_application
 ---
+
 
 ## Beschreibung
 ### Was ist es?

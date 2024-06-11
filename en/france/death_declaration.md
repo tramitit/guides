@@ -1,13 +1,16 @@
 ---
-title: "Death declaration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Steps to declare a death in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: 'Learn how to make a death declaration in France: steps, documents needed,
+  and who can help. Get the official Death Certificate for legal matters.'
 draft: false
-translationKey: "france-death_declaration"
+meta_title: 'Death Declaration: Procedure and Required Documents in France'
+title: 'Death Declaration: Procedure and Required Documents in France'
+translationKey: france-death_declaration
 ---
+
 
 ## Description
 ### What is it?

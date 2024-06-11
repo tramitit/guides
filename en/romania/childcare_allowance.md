@@ -1,13 +1,16 @@
 ---
-title: "Childcare Allowance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "A comprehensive guide to accessing childcare allowance in Romania"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați despre concediul de creștere a copilului, cine poate beneficia
+  și care sunt pașii de urmat pentru a obține acest sprijin financiar în România.
 draft: false
-translationKey: "romania-childcare_allowance"
+meta_title: Allowanța pentru creșterea copilului în România - Ghid Esențial
+title: Allowanța pentru creșterea copilului în România - Ghid Esențial
+translationKey: romania-childcare_allowance
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Car Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "A comprehensive guide on how to register a car in Romania covering required documents, procedure, providers who can assist, and additional details."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how to register your vehicle in Romania, required documents like
+  proof of ownership, insurance, and inspection. Find providers and details.
 draft: false
-translationKey: "romania-car_registration"
+meta_title: 'Car Registration in Romania: Process, Documents, Providers'
+title: 'Car Registration in Romania: Process, Documents, Providers'
+translationKey: romania-car_registration
 ---
+
 
 ## Description
 ### What is it?

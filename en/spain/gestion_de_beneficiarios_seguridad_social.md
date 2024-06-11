@@ -1,13 +1,17 @@
 ---
-title: "Gestion de Beneficiarios Seguridad Social"
-meta_title: "Gestion de Beneficiarios Seguridad Social - Steps and Guidelines"
-description: "Detailed guidelines on how to manage beneficiaries for social security in Spain, including step by step procedures."
-date: 2024-05-22T05:00:00Z
-categories: ["Spain"]
-author: "Ricardo Batista"
-tags: ["Social Security"]
+author: Ricardo Batista
+categories:
+- Spain
+date: 2024-05-22 05:00:00+00:00
+description: 'Learn about managing beneficiaries for social security in Spain: process,
+  documents needed, providers, and assistance details for newcomers to the system.'
 draft: false
+meta_title: Gestion de Beneficiarios Seguridad Social in Spain
+tags:
+- Social Security
+title: Gestion de Beneficiarios Seguridad Social in Spain
 ---
+
 
 ## Description
 

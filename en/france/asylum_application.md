@@ -1,13 +1,17 @@
 ---
-title: "Asylum application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Asylum Application in France"
-description: "Step-by-step guide on how to apply for Asylum in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to apply for asylum in France if you fear persecution in your
+  home country. Follow the procedure, required documents, and get legal advice for
+  free.
 draft: false
-translationKey: "france-asylum_application"
+meta_title: 'Asylum Application Process in France: Procedure & Required Documents'
+title: 'Asylum Application Process in France: Procedure & Required Documents'
+translationKey: france-asylum_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Applying for a Building Permit in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Guide to Building Permit Application in Germany"
-description: "Step-by-step guide on how to apply for a building permit in Germany, what documents are required, and additional help."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn about the essential building permit needed in Germany to construct
+  or modify properties, including required documents and procedural steps.
 draft: false
-translationKey: "germany-applying_for_a_building_permit"
+meta_title: 'Building Permit in Germany: Requirements & Procedure'
+title: 'Building Permit in Germany: Requirements & Procedure'
+translationKey: germany-applying_for_a_building_permit
 ---
+
 
 ## Description
 ### What is it?

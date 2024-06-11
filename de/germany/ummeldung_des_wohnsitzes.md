@@ -1,13 +1,16 @@
 ---
-translationKey: germany-change_of_address_registration
-title: "Adressänderungsregistrierung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Die lokale Registrierung (Anmeldung) ist ein obligatorisches, gesetzliches Verfahren in Deutschland bei Ihrer Ankunft oder wenn Sie Ihre Adresse im Land ändern."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie man gesetzlich erforderliche Anmeldung bei den Behörden
+  in Deutschland durchführt. Schrittweiser Prozess und benötigte Dokumente erklärt.
 draft: false
+meta_title: 'Anmeldung der neuen Adresse in Deutschland: Prozess und Dokumente'
+title: 'Anmeldung der neuen Adresse in Deutschland: Prozess und Dokumente'
+translationKey: germany-change_of_address_registration
 ---
+
 
 ## Beschreibung
 ### Was ist es?

@@ -1,13 +1,16 @@
 ---
-translationKey: romania-permanent_residency_application
-title: "Cerere de Rezidență Permanentă"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Acest ghid îți va ilumina procesul de aplicare pentru Rezidența Permanentă"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Informații și pași esențiali pentru solicitarea și obținerea rezidenței
+  permanente în altă țară. Cerințe, documente necesare și aspecte legale importante.
 draft: false
+meta_title: Procesul de obținere a rezidenței permanente în străinătate
+title: Procesul de obținere a rezidenței permanente în străinătate
+translationKey: romania-permanent_residency_application
 ---
+
 
 ## Descriere
 ### Ce este?

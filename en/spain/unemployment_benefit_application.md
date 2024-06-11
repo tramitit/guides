@@ -1,13 +1,17 @@
 ---
-title: "Unemployment Benefit Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Spain Unemployment Benefit Application Guide"
-description: "An easy guide to applying for unemployment benefits in Spain."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Discover how to apply for unemployment benefits ('paro') in Spain after
+  involuntary job loss. Learn about eligibility criteria and required documents in
+  detail.
 draft: false
-translationKey: "spain-unemployment_benefit_application"
+meta_title: 'Unemployment Benefits (Paro) in Spain: Procedures & Requirements'
+title: 'Unemployment Benefits (Paro) in Spain: Procedures & Requirements'
+translationKey: spain-unemployment_benefit_application
 ---
+
 
 ## Description
 ### What is it?

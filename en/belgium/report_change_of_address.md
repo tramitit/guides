@@ -1,13 +1,17 @@
 ---
-title: "Report change of address"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "How to Report a Change of Address in Belgium"
-description: "Step by step procedure on how to report a change of address in Belgium."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to report your change of address within Belgium to update your
+  official residence. Understand the process, required documents, and providers near
+  you.
 draft: false
-translationKey: "belgium-report_change_of_address"
+meta_title: 'Change of Address Report in Belgium: Procedure & Documents'
+title: 'Change of Address Report in Belgium: Procedure & Documents'
+translationKey: belgium-report_change_of_address
 ---
+
 
 ## Description
 ### What is it?

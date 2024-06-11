@@ -1,13 +1,16 @@
 ---
-title: "Request for Duplicate Driving License"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is a detailed guide on how to request a duplicate driving license in Portugal, including the documents required, the procedure to follow, and the costs."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to quickly obtain a duplicate driving license if yours is lost,
+  stolen, or damaged. Follow the steps at IMT, costing just €30 within 15 days.
 draft: false
-translationKey: "portugal-request_for_duplicate_driving_license"
+meta_title: 'Duplicate Driving License: How to Get a Replacement Fast'
+title: 'Duplicate Driving License: How to Get a Replacement Fast'
+translationKey: portugal-request_for_duplicate_driving_license
 ---
+
 
 ## Description
 ### What is it?

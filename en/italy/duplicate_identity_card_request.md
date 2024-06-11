@@ -1,14 +1,16 @@
 ---
-
-title: "Duplicate Identity Card Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Duplicate Italian Identity Card Request"
-description: "Guide on how to request a duplicate of your Italian Identity Card"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to get a duplicate Italian Identity Card for lost or damaged
+  cards. Follow the process involving police reports, required documents, and fees.
 draft: false
-translationKey: "italy-duplicate_identity_card_request"
+meta_title: 'Getting a Duplicate Italian Identity Card: Step-by-Step Guide'
+title: 'Getting a Duplicate Italian Identity Card: Step-by-Step Guide'
+translationKey: italy-duplicate_identity_card_request
 ---
+
 
 ## Description
 ### What is it?

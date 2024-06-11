@@ -1,13 +1,16 @@
 ---
-title: "Health insurance registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Health insurance registration in Slovakia"
-description: "A comprehensive guide to health insurance registration in Slovakia."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to register for health insurance in Slovakia, including required
+  documents and timelines. Ensure timely registration to avoid fines or service denial.
 draft: false
-translationKey: "slovakia-health_insurance_registration"
+meta_title: 'Slovakia Health Insurance Registration: Process & Providers'
+title: 'Slovakia Health Insurance Registration: Process & Providers'
+translationKey: slovakia-health_insurance_registration
 ---
+
 
 ## Description
 ### What is it?

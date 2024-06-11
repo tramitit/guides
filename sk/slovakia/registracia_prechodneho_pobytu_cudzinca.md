@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-registration_of_a_foreigner’s_temporary_residence
-title: "Registrácia dočasného pobytu cudzinca"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Toto je meta popis"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Sprievodca registráciou pre dočasný pobyt cudzinca v zahranej krajine.
+  Postupujte podľa krokov a získajte potrebné dokumenty pre prechodnú pobytovú kartu.
 draft: false
+meta_title: 'Registrácia Prechodného Pobytu Cudzinca: Postup a Dokumenty'
+title: 'Registrácia Prechodného Pobytu Cudzinca: Postup a Dokumenty'
+translationKey: slovakia-registration_of_a_foreigner’s_temporary_residence
 ---
+
 
 ## Popis
 ### Čo to je?

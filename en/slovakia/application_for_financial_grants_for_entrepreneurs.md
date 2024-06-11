@@ -1,13 +1,16 @@
 ---
-title: "Application for Financial Grants for Entrepreneurs"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Application for Financial Grants for Entrepreneurs - Step-by-Step Guide"
-description: "A comprehensive guide on how to apply for financial grants for entrepreneurs."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Discover how financial grants can help you start or grow your business.
+  Learn the procedure, required documents, and tips for successful grant applications.
 draft: false
-translationKey: "slovakia-application_for_financial_grants_for_entrepreneurs"
+meta_title: 'Financial Grants for Entrepreneurs: Fund your Business!'
+title: 'Financial Grants for Entrepreneurs: Fund your Business!'
+translationKey: slovakia-application_for_financial_grants_for_entrepreneurs
 ---
+
 
 ## Description
 ### What is it?

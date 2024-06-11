@@ -1,13 +1,16 @@
 ---
-translationKey: spain-citizenship_application
-title: "Solicitud de Ciudadanía"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guía para la Solicitud de Ciudadanía en España"
-description: "Una guía completa para solicitar la ciudadanía española"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo adquirir la nacionalidad española, requisitos, documentos
+  necesarios, proveedores de servicios y detalles adicionales. ¡Hazte ciudadano español!
 draft: false
+meta_title: 'Solicitud de Ciudadanía Española: Procedimiento y Requisitos'
+title: 'Solicitud de Ciudadanía Española: Procedimiento y Requisitos'
+translationKey: spain-citizenship_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

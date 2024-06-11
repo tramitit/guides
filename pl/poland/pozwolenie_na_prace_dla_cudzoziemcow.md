@@ -1,13 +1,16 @@
 ---
-translationKey: poland-work_permit_for_foreigners
-title: "Zezwolenie na pracę dla obcokrajowców w Polsce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Przewodnik po uzyskiwaniu zezwoleń na pracę dla obcokrajowców w Polsce"
-description: "Ten kompleksowy przewodnik przeprowadzi Cię przez kroki potrzebne do uzyskania zezwolenia na pracę w Polsce jako obcokrajowiec"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zdobyć zezwolenie na pracę w Polsce jako obywatel spoza
+  UE. Procedura, dokumenty, dostawca, i dodatkowe szczegóły dla legalnej pracy w Polsce.
 draft: false
+meta_title: 'Zezwolenie na Pracę w Polsce: Procedura i Wymagane Dokumenty'
+title: 'Zezwolenie na Pracę w Polsce: Procedura i Wymagane Dokumenty'
+translationKey: poland-work_permit_for_foreigners
 ---
+
 
 ## Opis
 ### Co to jest?

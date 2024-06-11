@@ -1,13 +1,16 @@
 ---
-translationKey: spain-eu_resident_card_application
-title: "Solicitud de Tarjeta de Residencia de la UE"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guía de Solicitud de Tarjeta de Residencia de la UE"
-description: "Una guía completa sobre cómo solicitar la Tarjeta de Residencia de la UE."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar la Tarjeta de Residente en la UE para vivir legalmente
+  en España por más de 90 días. Procedimiento, documentos y detalles a considerar.
 draft: false
+meta_title: Solicitud de Tarjeta de Residente de la UE en España
+title: Solicitud de Tarjeta de Residente de la UE en España
+translationKey: spain-eu_resident_card_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

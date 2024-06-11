@@ -1,13 +1,16 @@
 ---
-title: "Request for residence permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Detailed information on how to request for a residence permit"
-description: "A comprehensive guide for foreigners seeking work and residency in Belgium"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn the essential steps and requirements for obtaining a residence
+  permit in Belgium, including necessary documents and procedural details. Start early!
 draft: false
-translationKey: "belgium-request_for_residence_permit"
+meta_title: 'How to Obtain a Residence Permit in Belgium: A Full Guide'
+title: 'How to Obtain a Residence Permit in Belgium: A Full Guide'
+translationKey: belgium-request_for_residence_permit
 ---
+
 
 ## Description
 ### What is it?

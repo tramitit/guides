@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-application_for_citizenship
-title: "Žiadosť o slovenské občianstvo"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Sprievodca získavaním slovenského občianstva"
-description: "Krok za krokom sprievodca, ako požiadať o slovenské občianstvo vrátane aspektov ako postup, potrebné dokumenty, potenciálni poskytovatelia a ďalšie."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Podrobný sprievodca pre potomkov slovenských občanov žiadajúcich o slovenské
+  občianstvo na základe pôvodu. Postup, dokumenty, a dôležité informácie.
 draft: false
+meta_title: 'Získanie slovenského občianstva na základe pôvodu: Sprievodca'
+title: 'Získanie slovenského občianstva na základe pôvodu: Sprievodca'
+translationKey: slovakia-application_for_citizenship
 ---
+
 
 ## Popis
 ### Čo je to?

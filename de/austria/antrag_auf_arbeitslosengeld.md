@@ -1,13 +1,16 @@
 ---
-translationKey: austria-unemployment_benefit_application
-title: "Arbeitslosengeld-Antrag: Österreich"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Schritt-für-Schritt-Anleitung zur Beantragung von Arbeitslosengeld in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie man Arbeitslosengeld in Österreich beantragt. Schritt-für-Schritt
+  Anleitung, erforderliche Dokumente und wichtige Details für Antragsteller.
 draft: false
+meta_title: 'Arbeitslosengeld in Österreich: Antragsverfahren und Dokumente erklärt'
+title: 'Arbeitslosengeld in Österreich: Antragsverfahren und Dokumente erklärt'
+translationKey: austria-unemployment_benefit_application
 ---
+
 
 ## Beschreibung
 ### Was ist es?

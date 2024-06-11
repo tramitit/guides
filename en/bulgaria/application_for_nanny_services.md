@@ -1,13 +1,16 @@
 ---
-title: "Application for nanny services"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "This is a guide on how to apply for nanny services. It offers a step-by-step procedure to assist families in hiring a suitable nanny."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Find out who needs nanny services, how to hire, required documents, and
+  providers. Trust, communication, and documentation are key for smooth services.
 draft: false
-translationKey: "bulgaria-application_for_nanny_services"
+meta_title: 'Nanny Services: Care, Tutoring & Household Help at Home'
+title: 'Nanny Services: Care, Tutoring & Household Help at Home'
+translationKey: bulgaria-application_for_nanny_services
 ---
+
 
 ## Description
 ### What is it?

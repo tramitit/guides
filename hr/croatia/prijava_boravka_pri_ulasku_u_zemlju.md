@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-stay_registration_upon_entering_the_country
-title: "Registracija boravka prilikom ulaska u zemlju"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Vodič za registraciju boravka u Hrvatsku"
-description: "Detaljni vodič o postupku registracije boravka prilikom ulaska u Hrvatsku"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako strani posjetitelji mogu se prijaviti lokalnim vlastima
+  u Hrvatskoj. Potrebna dokumentacija i koraci za uspješnu registraciju boravka.
 draft: false
+meta_title: 'Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija'
+title: 'Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija'
+translationKey: croatia-stay_registration_upon_entering_the_country
 ---
+
 
 ## Opis
 ### Što je to?

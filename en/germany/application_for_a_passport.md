@@ -1,13 +1,17 @@
 ---
-title: "Application for a German Passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Application for a German Passport"
-description: "A detailed guide on how to apply for a German Passport"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie deutsche Bürger einen Reisepass beantragen, welche
+  Unterlagen benötigt werden und welche Schritte im gesamten Prozess erforderlich
+  sind.
 draft: false
-translationKey: "germany-application_for_a_passport"
+meta_title: 'Antragsverfahren für einen deutschen Reisepass: Ein umfassender Leitfaden'
+title: 'Antragsverfahren für einen deutschen Reisepass: Ein umfassender Leitfaden'
+translationKey: germany-application_for_a_passport
 ---
+
 
 ## Description
 ### What is it?

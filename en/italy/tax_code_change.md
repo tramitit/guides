@@ -1,13 +1,16 @@
 ---
-title: "Tax Code Change"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Guide on how to change your tax code in Italy"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to update your Italian tax code after life changes. Get steps,
+  documents needed, and assistance options. Act fast to prevent issues with tax filings.
 draft: false
-translationKey: "italy-tax_code_change"
+meta_title: 'Changing Your Italian Tax Code: Procedure & Required Documents'
+title: 'Changing Your Italian Tax Code: Procedure & Required Documents'
+translationKey: italy-tax_code_change
 ---
+
 
 ## Description
 ### What is it?

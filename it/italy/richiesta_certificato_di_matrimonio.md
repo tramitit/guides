@@ -1,13 +1,16 @@
 ---
-translationKey: italy-marriage_certificate_request
-title: "Richiesta di Certificato di Matrimonio"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa guida fornisce un processo passo-passo su come richiedere un Certificato di Matrimonio in Italia."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri la procedura per richiedere il certificato di matrimonio in Italia,
+  i documenti necessari e consigli utili. Consulta fornitori e dettagli aggiuntivi.
 draft: false
+meta_title: Come Ottenere un Certificato di Matrimonio in Italia
+title: Come Ottenere un Certificato di Matrimonio in Italia
+translationKey: italy-marriage_certificate_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

@@ -1,13 +1,16 @@
 ---
-title: "Declaration of Name Change"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Guide to Legally Changing Your Name in Germany"
-description: "A comprehensive guide on the process and requirements of legally changing your name in Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn about the legal process of changing your name in Germany. Requirements,
+  steps, documents needed, providers, timelines, costs, & more explained in detail.
 draft: false
-translationKey: "germany-declaration_of_name_change"
+meta_title: 'Germany Name Change Process: Steps, Requirements, Providers'
+title: 'Germany Name Change Process: Steps, Requirements, Providers'
+translationKey: germany-declaration_of_name_change
 ---
+
 
 ## Description
 ### What is it?

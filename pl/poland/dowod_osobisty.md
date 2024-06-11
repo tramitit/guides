@@ -1,13 +1,16 @@
 ---
-translationKey: poland-id_card
-title: "Dowód osobisty"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Szczegółowy przewodnik dotyczący uzyskania dowodu osobistego w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowód Osobisty to ważny dokument tożsamości w Polsce. Dowiedz się jak
+  go uzyskać, jakie dokumenty są potrzebne oraz dodatkowe informacje i usługi.
 draft: false
+meta_title: 'Dowód Osobisty w Polsce: Procedura, Wymagane dokumenty i Informacje'
+title: 'Dowód Osobisty w Polsce: Procedura, Wymagane dokumenty i Informacje'
+translationKey: poland-id_card
 ---
+
 
 ## Opis
 ### Co to jest?

@@ -1,13 +1,16 @@
 ---
-translationKey: austria-proof_of_residence
-title: "Nachweis des Wohnsitzes"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Leitfaden zum Nachweis des Wohnsitzes in Österreich"
-description: "Ein leicht verständlicher Leitfaden für internationale Studierende in Österreich, die einen Nachweis des Wohnsitzes erwerben möchten."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie einen Wohnsitznachweis erhalten, wer ihn benötigt
+  & welche Dokumente erforderlich sind. Bearbeitungszeiten & Anbieter im Überblick.
 draft: false
+meta_title: 'Wohnsitznachweis: Beantragung, Verfahren & Erforderliche Dokumente'
+title: 'Wohnsitznachweis: Beantragung, Verfahren & Erforderliche Dokumente'
+translationKey: austria-proof_of_residence
 ---
+
 
 ## Beschreibung
 ### Was ist das?

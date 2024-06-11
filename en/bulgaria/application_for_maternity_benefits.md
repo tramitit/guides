@@ -1,13 +1,16 @@
 ---
-title: "Application for maternity benefits"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn who is eligible, required documents, procedure, and key tips for
+  applying successfully. Ensure you make the most of available benefits!
 draft: false
-translationKey: "bulgaria-application_for_maternity_benefits"
+meta_title: 'Applying for Maternity Benefits: A Step-by-Step Guide'
+title: 'Applying for Maternity Benefits: A Step-by-Step Guide'
+translationKey: bulgaria-application_for_maternity_benefits
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Application for ID issuance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to obtain an ID card in Greece, a necessary document for residents.
+  Follow the procedure, required documents, and providers who can assist you.
 draft: false
-translationKey: "greece-application_for_id_issuance"
+meta_title: 'Getting an ID in Greece: Steps, Documents, and Providers'
+title: 'Getting an ID in Greece: Steps, Documents, and Providers'
+translationKey: greece-application_for_id_issuance
 ---
+
 
 ## Description
 ### What is it?

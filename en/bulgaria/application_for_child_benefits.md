@@ -1,13 +1,16 @@
 ---
-title: "Application for child benefits"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "A step by step guide for applying to child benefits"
-description: "A comprehensive walkthrough to help you understand and apply for child benefits."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn about child benefits, eligibility criteria, required documents,
+  and application process. Receive payments every 4 weeks directly into your account.
 draft: false
-translationKey: "bulgaria-application_for_child_benefits"
+meta_title: 'Child Benefits: Eligibility, Application & Payment Process'
+title: 'Child Benefits: Eligibility, Application & Payment Process'
+translationKey: bulgaria-application_for_child_benefits
 ---
+
 
 ## Description
 ### What is it?

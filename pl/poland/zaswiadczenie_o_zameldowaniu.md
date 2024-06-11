@@ -1,13 +1,16 @@
 ---
-translationKey: poland-certificate_of_registration_of_residence
-title: "Świadectwo zameldowania"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "To kompleksowy przewodnik, który pomoże osobom zrozumieć i poradzić sobie z procesem uzyskania świadectwa zameldowania w Polsce."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się jak uzyskać oficjalne świadectwo zameldowania w Polsce, wymagane
+  dla pobytu powyżej 90 dni. Instrukcja krok po kroku oraz lista dokumentów.
 draft: false
+meta_title: 'Świadectwo zameldowania w Polsce: Wymagane dokumenty i procedura'
+title: 'Świadectwo zameldowania w Polsce: Wymagane dokumenty i procedura'
+translationKey: poland-certificate_of_registration_of_residence
 ---
+
 
 ## Opis
 ### Co to jest?

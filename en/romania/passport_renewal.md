@@ -1,13 +1,16 @@
 ---
-title: "Passport Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Guide to Passport Renewal in Romania"
-description: "An informative guide covering steps and procedures for renewing your Romanian passport."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how Romanian citizens in Romania or abroad can renew their passports
+  with this detailed guide. Gather docs, fill forms, schedule appointments, and more!
 draft: false
-translationKey: "romania-passport_renewal"
+meta_title: 'Renewing Romanian Passport: Guide for Citizens in Romania'
+title: 'Renewing Romanian Passport: Guide for Citizens in Romania'
+translationKey: romania-passport_renewal
 ---
+
 
 ## Description
 ### What is it?

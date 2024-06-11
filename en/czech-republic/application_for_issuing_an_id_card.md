@@ -1,13 +1,16 @@
 ---
-title: "Application for issuing an ID card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This article outlines the procedure for applying for an ID card in the Czech Republic."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to apply for an ID card in the Czech Republic, including required
+  documents, process steps, and important details about processing time and costs.
 draft: false
-translationKey: "czech-republic-application_for_issuing_an_id_card"
+meta_title: Czech Republic ID Card Application Guide & Requirements
+title: Czech Republic ID Card Application Guide & Requirements
+translationKey: czech-republic-application_for_issuing_an_id_card
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-issuance_of_passport
-title: "Izdavanje putovnice"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: ""
-description: "Ovo je meta opis"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Saznajte kako zatražiti hrvatsku putovnicu, potrebne korake, dokumente,
+  rokove i troškove. Redovni i hitni postupci, važne napomene. COVID-19 moguća odgađanja.
 draft: false
+meta_title: 'Kako do hrvatske putovnice: Postupak, dokumenti i informacije'
+title: 'Kako do hrvatske putovnice: Postupak, dokumenti i informacije'
+translationKey: croatia-issuance_of_passport
 ---
+
 
 ## Opis
 ### Što je to?

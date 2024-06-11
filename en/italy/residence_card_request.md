@@ -1,13 +1,16 @@
 ---
-title: "Residence Card Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "A comprehensive guide on how to request a residence card (Carta di Soggiorno/Permesso di Soggiorno) in Italy."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn the step-by-step procedure and required documents for non-EU residents
+  staying in Italy over 90 days. Recommendations and providers included.
 draft: false
-translationKey: "italy-residence_card_request"
+meta_title: How to Get an Italian Residence Card (Permesso di Soggiorno)
+title: How to Get an Italian Residence Card (Permesso di Soggiorno)
+translationKey: italy-residence_card_request
 ---
+
 
 ## Description
 ### What is it?

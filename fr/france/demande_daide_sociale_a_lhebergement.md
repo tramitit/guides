@@ -1,13 +1,16 @@
 ---
-translationKey: france-social_housing_assistance_application
-title: "Demande d'aide au logement social"
-author: "Ricardo Batista"
-date: "2022-11-02"
-categories: ["France"]
-meta_title: ""
-description: "Un guide étape par étape pour comprendre ce qu'est l'aide au logement social, pour qui elle est destinée et comment en faire la demande en France."
+author: Ricardo Batista
+categories:
+- France
+date: '2022-11-02'
+description: Découvrez l'aide au logement social en France pour les besoins spécifiques,
+  les procédures de demande en ligne, les documents requis et les délais d'attente.
 draft: false
+meta_title: 'Logement Social en France: Aide au Loyer et Procédure de Demande'
+title: 'Logement Social en France: Aide au Loyer et Procédure de Demande'
+translationKey: france-social_housing_assistance_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est ?

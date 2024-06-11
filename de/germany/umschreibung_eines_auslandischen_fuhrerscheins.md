@@ -1,13 +1,16 @@
 ---
-translationKey: germany-conversion_of_a_foreign_drivers_license
-title: "Umwandlung eines ausländischen Führerscheins"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Umwandlung eines ausländischen Führerscheins in Deutschland und den Vereinigten Staaten"
-description: "Ein Schritt-für-Schritt-Leitfaden zur Umwandlung eines ausländischen Führerscheins in wichtigen Rechtsgebieten."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn the process of converting a foreign driver's license to local standards
+  in the USA and Germany. Requirements, providers, and important details included.
 draft: false
+meta_title: 'Foreign Driver''s License Conversion Guide: USA & Germany'
+title: 'Foreign Driver''s License Conversion Guide: USA & Germany'
+translationKey: germany-conversion_of_a_foreign_drivers_license
 ---
+
 
 ## Beschreibung
 ### Was ist das?

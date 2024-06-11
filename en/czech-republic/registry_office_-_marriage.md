@@ -1,13 +1,16 @@
 ---
-title: "Registry office - marriage"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Guide on how to register your marriage in a registry office"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn the legal procedure for registering a marriage in Czech Republic,
+  including eligibility, required documents, translation, ceremony, and provider options.
 draft: false
-translationKey: "czech-republic-registry_office_-_marriage"
+meta_title: 'Registry Office Marriage in Czech Republic: Guide and Requirements'
+title: 'Registry Office Marriage in Czech Republic: Guide and Requirements'
+translationKey: czech-republic-registry_office_-_marriage
 ---
+
 
 ## Description
 ### What is it?

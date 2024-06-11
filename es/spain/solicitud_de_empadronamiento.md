@@ -1,13 +1,16 @@
 ---
-translationKey: spain-census_registration
-title: "Registro del censo en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Guía paso a paso sobre cómo completar el registro del censo en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo completar el empadronamiento en España, quién lo necesita,
+  los documentos necesarios y detalles sobre el proceso en tu Ayuntamiento local.
 draft: false
+meta_title: 'Registro de Censo en España: Procedimiento y Documentos Requeridos'
+title: 'Registro de Censo en España: Procedimiento y Documentos Requeridos'
+translationKey: spain-census_registration
 ---
+
 
 ## Descripción
 ### ¿Qué es?

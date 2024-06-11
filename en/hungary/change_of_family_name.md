@@ -1,13 +1,16 @@
 ---
-title: "Change of Family Name"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Process of Changing Family Name in Hungary"
-description: "This guide provides you with complete details on how to change your family name in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to legally change your surname for personal or professional
+  reasons. Find out the process, required documents, and provider details in Hungary.
 draft: false
-translationKey: "hungary-change_of_family_name"
+meta_title: 'Changing Your Family Name: Procedure & Required Documents'
+title: 'Changing Your Family Name: Procedure & Required Documents'
+translationKey: hungary-change_of_family_name
 ---
+
 
 ## Description
 ### What is it?

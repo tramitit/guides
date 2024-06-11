@@ -1,13 +1,16 @@
 ---
-title: "Marriage registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: "Marriage Registration in Croatia: A Comprehensive Guide"
-description: "Detailing the step by step procedure for marriage registration in Croatia, all required documents and important points to remember"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Saznajte postupak registracije braka u Hrvatskoj, potrebne dokumente
+  i važne informacije za legalan brak.
 draft: false
-translationKey: "croatia-marriage_registration"
+meta_title: 'Kako registrirati brak u Hrvatskoj: koraci i dokumenti'
+title: 'Kako registrirati brak u Hrvatskoj: koraci i dokumenti'
+translationKey: croatia-marriage_registration
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-domestic_foreign_passport_special_procedure
-title: "Belföldi külföldútlevél speciális eljárás"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Ez a meta leírás"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Az idegen országban útlevél beszerzésének speciális eljárása szlovák
+  származás útján. Kik igényelhetik? Dokumentumok, eljárás lépései, szolgáltatók segítsége.
 draft: false
+meta_title: Szlovák Állampolgárság Beszerzése és Magyar Úti Okmányok Eljárása
+title: Szlovák Állampolgárság Beszerzése és Magyar Úti Okmányok Eljárása
+translationKey: hungary-domestic_foreign_passport_special_procedure
 ---
+
 
 ## Leírás
 ### Mi ez?

@@ -1,13 +1,16 @@
 ---
-translationKey: germany-deregistration_of_residence
-title: "Abmeldung des Wohnsitzes in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dies ist eine Schritt-für-Schritt-Anleitung, wie Sie Ihren Wohnsitz in Deutschland abmelden können."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihren Wohnsitz in Deutschland rechtlich korrekt
+  abmelden und welche Unterlagen und Verfahren erforderlich sind.
 draft: false
+meta_title: Wie Sie Ihren Wohnsitz in Deutschland ordnungsgemäß abmelden
+title: Wie Sie Ihren Wohnsitz in Deutschland ordnungsgemäß abmelden
+translationKey: germany-deregistration_of_residence
 ---
+
 
 ## Beschreibung
 ### Was ist das?

@@ -1,13 +1,16 @@
 ---
-title: "PIT tax declaration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "This guide outlines how one can perform PIT tax declaration in Poland, including the required documents and step-by-step procedure."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to submit your PIT tax in Poland, including required documents,
+  e-Deklaracje procedure, and tips to avoid errors. Stay compliant to avoid penalties.
 draft: false
-translationKey: "poland-pit_tax_declaration"
+meta_title: 'PIT Tax Declaration in Poland: Steps & Requirements'
+title: 'PIT Tax Declaration in Poland: Steps & Requirements'
+translationKey: poland-pit_tax_declaration
 ---
+
 
 ## Description
 ### What is it?

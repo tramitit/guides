@@ -1,13 +1,16 @@
 ---
-translationKey: poland-vat_tax_refund_for_purchases_in_the_eu
-title: "Zwrot podatku VAT za zakupy w UE"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Szczegółowy przewodnik dotyczący zwrotu VAT w UE"
-description: "Wszechstronny przewodnik pozwala zrozumieć i uzyskać zwroty VAT za zakupy dokonane w UE, ze szczególnym uwzględnieniem Polski."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: 'Odbierz zwrot VAT za zakupy w UE jako osoba spoza UE. Instrukcja: procedura,
+  wymagane dokumenty, dostawcy - Global Blue, Premier Tax Free.'
 draft: false
+meta_title: 'Zwrot podatku VAT w UE: Procedura, dokumenty, dostawcy'
+title: 'Zwrot podatku VAT w UE: Procedura, dokumenty, dostawcy'
+translationKey: poland-vat_tax_refund_for_purchases_in_the_eu
 ---
+
 
 ## Opis
 ### Co to jest?

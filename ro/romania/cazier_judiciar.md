@@ -1,13 +1,16 @@
 ---
-translationKey: romania-criminal_record
-title: "Antecedente Penale"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Acesta este descrierea meta"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați cum să obțineți verificarea cazierului judiciar în România, proceduri
+  și documente necesare. Informații utile pentru joburi, voluntariat și vize.
 draft: false
+meta_title: 'Verificarea Cazierului Judiciar: Proceduri și Documente Necesare'
+title: 'Verificarea Cazierului Judiciar: Proceduri și Documente Necesare'
+translationKey: romania-criminal_record
 ---
+
 
 ## Descriere
 ### Ce este?

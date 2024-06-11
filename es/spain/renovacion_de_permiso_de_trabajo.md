@@ -1,13 +1,16 @@
 ---
-translationKey: spain-work_permit_renewal
-title: "Renovación de Permiso de Trabajo"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guía sobre la renovación del permiso de trabajo en España"
-description: "Guía detallada que proporciona información sobre la renovación de un permiso de trabajo en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo extender tu autorización laboral en España. Conoce los
+  pasos, documentos requeridos, proveedores y consejos clave para una renovación exitosa.
 draft: false
+meta_title: 'Renovación de Permiso de Trabajo en España: Proceso y Documentos'
+title: 'Renovación de Permiso de Trabajo en España: Proceso y Documentos'
+translationKey: spain-work_permit_renewal
 ---
+
 
 ## Descripción
 ### ¿Qué es?

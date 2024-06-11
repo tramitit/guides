@@ -1,13 +1,16 @@
 ---
-title: "Request for Unemployment Benefits"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This guide provides step-by-step instructions on how to apply for unemployment benefits in Belgium."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to apply for Belgian unemployment benefits - steps to follow,
+  required documents, providers and eligibility criteria explained in detail.
 draft: false
-translationKey: "belgium-request_for_unemployment_benefits"
+meta_title: Guide to Applying for Unemployment Benefits in Belgium
+title: Guide to Applying for Unemployment Benefits in Belgium
+translationKey: belgium-request_for_unemployment_benefits
 ---
+
 
 ## Description
 ### Who is it for?

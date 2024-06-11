@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-request_for_death_certificates
-title: "Kérés halálozási okiratokért"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Kérés halálozási okiratokért Magyarországon"
-description: "Részletes lépések arról, hogyan kérhetünk halálozási okiratokat Magyarországon"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Tudjon meg mindent a halálozási bizonyítvány igénylésének folyamatáról
+  és szükséges dokumentumairól, valamint a szolgáltatókról, akik elintézhetik helyette.
 draft: false
+meta_title: 'Halálozási Bizonyítvány Igénylése: Lépések és Információk'
+title: 'Halálozási Bizonyítvány Igénylése: Lépések és Információk'
+translationKey: hungary-request_for_death_certificates
 ---
+
 
 ## Leírás
 ### Mi is ez?

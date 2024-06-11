@@ -1,13 +1,17 @@
 ---
-title: "Applying for accommodation in an elderly home"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "This is a step-by-step guide on how to apply for accommodation in an elderly home"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: 'Learn how to apply for elder home accommodation: steps to follow, necessary
+  documents, providers'' details. Make an informed decision for your loved one''s
+  care.'
 draft: false
-translationKey: "croatia-applying_for_accommodation_in_an_elderly_home"
+meta_title: 'Elderly Home Accommodation Guide: Steps, Documents & Providers'
+title: 'Elderly Home Accommodation Guide: Steps, Documents & Providers'
+translationKey: croatia-applying_for_accommodation_in_an_elderly_home
 ---
+
 
 ## Description
 ### What is it?

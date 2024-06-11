@@ -1,13 +1,17 @@
 ---
-translationKey: poland-application_for_housing_benefit
-title: "Wnioskowanie o Świadczenie Mieszkaniowe"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["UK"]
-meta_title: ""
-description: "Krok po kroku przewodnik dotyczący składania wniosku o świadczenie mieszkaniowe w Wielkiej Brytanii"
+author: Ricardo Batista
+categories:
+- UK
+date: '2024-06-07'
+description: Housing Benefit to świadczenie wspierające wynajmujących w UK. Dowiedz
+  się, kto może skorzystać, jak złożyć wniosek oraz wymagane dokumenty i dostawców
+  pomocy.
 draft: false
+meta_title: 'Housing Benefit w Wielkiej Brytanii: Kto, Procedura, Dokumenty'
+title: 'Housing Benefit w Wielkiej Brytanii: Kto, Procedura, Dokumenty'
+translationKey: poland-application_for_housing_benefit
 ---
+
 
 ## Opis
 ### Co to jest?

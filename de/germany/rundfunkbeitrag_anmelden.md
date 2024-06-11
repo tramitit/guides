@@ -1,13 +1,16 @@
 ---
-translationKey: germany-registering_for_the_broadcasting_fee
-title: "Anmeldung zum Rundfunkbeitrag in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Verständnis der Rundfunkbeitragsanmeldung in Deutschland"
-description: "Ein Schritt-für-Schritt-Leitfaden, um Ihnen zu helfen, den Anmeldeprozess für den Rundfunkbeitrag in Deutschland zu verstehen und zu navigieren."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie die obligatorische Rundfunkgebühr in Deutschland
+  anmelden, zahlen, Anbieter nutzen und Strafen vermeiden. Alle Details hier!
 draft: false
+meta_title: 'Rundfunkbeitrag in Deutschland: Anmeldung, Zahlung und Anbieter'
+title: 'Rundfunkbeitrag in Deutschland: Anmeldung, Zahlung und Anbieter'
+translationKey: germany-registering_for_the_broadcasting_fee
 ---
+
 
 ## Beschreibung
 ### Was ist das?

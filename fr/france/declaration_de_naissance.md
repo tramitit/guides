@@ -1,13 +1,16 @@
 ---
-translationKey: france-birth_declaration
-title: "Déclaration de naissance en France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Déclaration de naissance en France"
-description: "Guide détaillé sur comment déclarer une naissance en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment déclarer la naissance de votre enfant en France. Détails
+  sur la procédure, les documents nécessaires et les prestataires disponibles.
 draft: false
+meta_title: 'Déclaration de Naissance en France: Procédure et Documents Requis'
+title: 'Déclaration de Naissance en France: Procédure et Documents Requis'
+translationKey: france-birth_declaration
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est ?

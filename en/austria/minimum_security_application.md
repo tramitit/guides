@@ -1,13 +1,16 @@
 ---
-title: "Minimum Security Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Minimum Security Application in Austria: A Step-by-step Guide"
-description: "Detailed information on navigating the minimum security application process in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie in Österreich Mindestsicherung beantragen, wenn
+  Sie finanzielle Schwierigkeiten haben - von den Anforderungen bis zur Dokumentation.
 draft: false
-translationKey: "austria-minimum_security_application"
+meta_title: So erhalten Sie die Mindestsicherung in Österreich
+title: So erhalten Sie die Mindestsicherung in Österreich
+translationKey: austria-minimum_security_application
 ---
+
 
 ## Description
 ### What is it?

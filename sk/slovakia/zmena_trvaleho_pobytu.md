@@ -1,13 +1,17 @@
 ---
-translationKey: slovakia-change_of_permanent_residence
-title: "Zmena trvalého pobytu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Prehľad procesu zmeny trvalého pobytu na Slovensku"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Zistite postup a požadované doklady na oficiálne označenie nového trvalého
+  pobytu na Slovensku. Vyriešte dôležité záležitosti týkajúce sa daní a volebných
+  práv.
 draft: false
+meta_title: 'Zmena Trvalého Pobytu na Slovensku: Postup a Doklady'
+title: 'Zmena Trvalého Pobytu na Slovensku: Postup a Doklady'
+translationKey: slovakia-change_of_permanent_residence
 ---
+
 
 ## Popis
 ### Čo je to?

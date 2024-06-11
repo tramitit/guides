@@ -1,14 +1,16 @@
 ---
-
-title: "High school registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "High School Registration in France: A step by step guide"
-description: "Guide to registering for High Schools in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to register your child in French high schools, including required
+  documents and enrollment procedures. Ensure a smooth admission process in France.
 draft: false
-translationKey: "france-high_school_registration"
+meta_title: 'French High School Registration Guide: Process & Documents'
+title: 'French High School Registration Guide: Process & Documents'
+translationKey: france-high_school_registration
 ---
+
 
 ## Description
 

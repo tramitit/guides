@@ -1,12 +1,16 @@
 ---
-title: "Registry office - death"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-description: "This is a guide on how to report a death to the registry office in the Czech Republic - from document preparation to the procedure process."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to register a death in Czech Republic, including required documents
+  and key steps. Ensure legal compliance and update records promptly.
 draft: false
-translationKey: "czech-republic-registry_office_-_death"
+meta_title: Registering Death in Czech Republic - Requirements & Process
+title: Registering Death in Czech Republic - Requirements & Process
+translationKey: czech-republic-registry_office_-_death
 ---
+
 
 ## Description
 ### What is it?

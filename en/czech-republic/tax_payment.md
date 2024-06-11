@@ -1,13 +1,16 @@
 ---
-title: "Tax payment in The Czech Republic"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Guide to Tax Payments in The Czech Republic"
-description: "A step-by-step guide on the tax payment procedure in The Czech Republic."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to pay income tax, VAT, and more in Czech Republic. Understand
+  tax residency, filing process, and exemptions. Hire a tax advisor for expert help.
 draft: false
-translationKey: "czech-republic-tax_payment"
+meta_title: 'Paying Taxes in the Czech Republic: Guide & Requirements'
+title: 'Paying Taxes in the Czech Republic: Guide & Requirements'
+translationKey: czech-republic-tax_payment
 ---
+
 
 ## Description
 ### What is it?

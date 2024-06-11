@@ -1,13 +1,16 @@
 ---
-translationKey: france-scholarship_application
-title: "Demande de bourse"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide de demande de bourse"
-description: "Votre guide sur la façon de postuler pour des bourses en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez le processus de demande de bourses, les documents requis, les
+  fournisseurs et astuces. Suivez les étapes pour une candidature réussie!
 draft: false
+meta_title: 'Guide des Bourses d''Études: Comment Postuler et Réussir'
+title: 'Guide des Bourses d''Études: Comment Postuler et Réussir'
+translationKey: france-scholarship_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

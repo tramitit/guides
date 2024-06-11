@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-healthcare_insurance_application
-title: "Egészségügyi biztosítás igénylése"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Egészségügyi Biztosítás Igénylése Magyarországon"
-description: "Lépésről lépésre útmutató arról, hogyan lehet jelentkezni egészségügyi biztosításra Magyarországon"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerd meg az egészségügyi biztosítás fontosságát Magyarországon, lépéseket
+  a kérelem benyújtásához, szükséges dokumentumokat és ajánlott szolgáltatókat.
 draft: false
+meta_title: 'Egészségbiztosítás Magyarországon: Kérelem és Eljárások'
+title: 'Egészségbiztosítás Magyarországon: Kérelem és Eljárások'
+translationKey: hungary-healthcare_insurance_application
 ---
+
 
 ## Leírás
 ### Mi is ez?

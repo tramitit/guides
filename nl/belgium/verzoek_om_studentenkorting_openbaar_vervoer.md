@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_student_discount_public_transport
-title: "Aanvraag voor studentenkorting openbaar vervoer"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Dit is de meta-omschrijving"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek hoe studenten in aanmerking komen voor kortingen op transportkosten,
+  wat nodig is voor de aanvraag en hoe de studentenkorting te gebruiken in België.
 draft: false
+meta_title: 'Studentenkorting Openbaar Vervoer: Aanvragen & Gebruiken'
+title: 'Studentenkorting Openbaar Vervoer: Aanvragen & Gebruiken'
+translationKey: belgium-request_for_student_discount_public_transport
 ---
+
 
 ## Beschrijving
 ### Wat is het?

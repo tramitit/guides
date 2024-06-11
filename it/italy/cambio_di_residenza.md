@@ -1,13 +1,16 @@
 ---
-translationKey: italy-change_of_residence
-title: "Cambio di Residenza"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guida al Cambio di Residenza in Italia"
-description: "Guida passo passo per gestire il cambio di residenza, adattarsi alle nuove normative finanziarie e aggiornare i propri dettagli con i fornitori di servizi."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come effettuare un cambio di residenza, cosa fare e che documenti
+  preparare. Assistenza da banche e altre istituzioni per una transizione agevole.
 draft: false
+meta_title: 'Guida al Cambio di Residenza: Procedura e Documenti Richiesti'
+title: 'Guida al Cambio di Residenza: Procedura e Documenti Richiesti'
+translationKey: italy-change_of_residence
 ---
+
 
 ## Descrizione
 ### Cos'è?

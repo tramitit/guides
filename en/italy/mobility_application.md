@@ -1,13 +1,17 @@
 ---
-title: "Mobility Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Complete guide in how to apply for the Youth Mobility Visa"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn about the Youth Mobility Visa process, required documents, and
+  timeline for young individuals applying to travel, work, or live temporarily in
+  the UK.
 draft: false
-translationKey: "italy-mobility_application"
+meta_title: 'Youth Mobility Visa: Live, Work & Travel in the UK for Up to 2 Years'
+title: 'Youth Mobility Visa: Live, Work & Travel in the UK for Up to 2 Years'
+translationKey: italy-mobility_application
 ---
+
 
 ## Description
 ### What is it?

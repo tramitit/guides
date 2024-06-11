@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_residence_permit_renewal
-title: "Pedido de Renovação de Autorização de Residência"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Guia Passo a Passo para Pedido de Renovação de Autorização de Residência"
-description: "Este guia útil explica detalhadamente o procedimento para a renovação de autorizações de residência em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como renovar seu título de residência em Portugal. Guia com procedimentos,
+  documentos necessários e dicas importantes para evitar atrasos.
 draft: false
+meta_title: 'Como Renovar o Título de Residência em Portugal: Guia Completo'
+title: 'Como Renovar o Título de Residência em Portugal: Guia Completo'
+translationKey: portugal-request_for_residence_permit_renewal
 ---
+
 
 ## Descrição
 

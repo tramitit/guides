@@ -1,13 +1,16 @@
 ---
-title: "Passport renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Passport Renewal Process"
-description: "Detailed guide on how to renew your passport."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to renew your passport, including application steps, required
+  documents, fees, and processing times. Stay updated before it expires!
 draft: false
-translationKey: "france-passport_renewal"
+meta_title: 'Passport Renewal: Procedures and Required Documents'
+title: 'Passport Renewal: Procedures and Required Documents'
+translationKey: france-passport_renewal
 ---
+
 
 ## Description
 ### What is it?

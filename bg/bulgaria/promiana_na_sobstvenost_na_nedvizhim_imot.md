@@ -1,14 +1,16 @@
 ---
-translationKey: bulgaria-change_of_ownership_of_real_estate
-
-title: "Промяна на собствеността на недвижими имоти"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Подробно ръководство за процесите и изискванията, свързани с промяната на собствеността на недвижими имоти в България."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Изучете процедурата и изискванията за прехвърляне на правата върху имот
+  в България. Съвети за избор на доставчици и необходимост от юридически съвет.
 draft: false
+meta_title: Промяна на собственост на недвижими имоти в България
+title: Промяна на собственост на недвижими имоти в България
+translationKey: bulgaria-change_of_ownership_of_real_estate
 ---
+
 
 ## Описание
 ### Какво е това?

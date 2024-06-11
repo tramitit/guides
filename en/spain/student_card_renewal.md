@@ -1,13 +1,16 @@
 ---
-title: "Student Card Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Step-by-step Guide to Student Card Renewal in Spain"
-description: "Detailed guide on how to renew your student card in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn the steps and required documents for renewing your student card
+  in Spain. Ensure timely application and documentation for a smooth renewal experience.
 draft: false
-translationKey: "spain-student_card_renewal"
+meta_title: 'Renewal Process of Student Card (TIE) in Spain: A Comprehensive Guide'
+title: 'Renewal Process of Student Card (TIE) in Spain: A Comprehensive Guide'
+translationKey: spain-student_card_renewal
 ---
+
 
 ## Description
 ### What is it?

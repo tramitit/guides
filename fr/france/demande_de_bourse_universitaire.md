@@ -1,13 +1,16 @@
 ---
-translationKey: france-university_scholarship_application
-title: "Demande de bourse universitaire"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Un guide pas à pas sur comment postuler pour des bourses universitaires en France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez des étapes détaillées pour postuler à des bourses en France
+  et obtenir un soutien financier pour vos études universitaires.
 draft: false
+meta_title: Guide pour Postuler à des Bourses Universitaires en France
+title: Guide pour Postuler à des Bourses Universitaires en France
+translationKey: france-university_scholarship_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

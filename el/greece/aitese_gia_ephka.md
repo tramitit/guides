@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_efka_(social_insurance_fund)
-title: "Αίτηση για το ΕΦΚΑ (Κοινωνική Ασφάλιση)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Υποβολή αίτησης για το ΕΦΚΑ στην Ελλάδα"
-description: "Οδηγός βήμα προς βήμα για την υποβολή αίτησης για το ΕΦΚΑ (Ταμείο Κοινωνικής Ασφάλισης) στην Ελλάδα"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τι χρειάζεστε για την εγγραφή στο ΕΦΚΑ, διαδικασία, απαιτούμενα
+  έγγραφα και πληροφορίες για κοινωνική ασφάλιση στην Ελλάδα.
 draft: false
+meta_title: 'ΕΦΚΑ: Εγγραφή, Απαιτούμενα, Πληροφορίες - Οδηγός Ελλάδας'
+title: 'ΕΦΚΑ: Εγγραφή, Απαιτούμενα, Πληροφορίες - Οδηγός Ελλάδας'
+translationKey: greece-application_for_efka_(social_insurance_fund)
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_irs_refund
-title: "Pedido de Reembolso do IRS"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Um guia abrangente sobre como solicitar um reembolso do IRS nos Estados Unidos."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como obter e rastrear um reembolso do IRS, reunindo documentos
+  como W-2s, entregando a declaração e usando prestadores como H&R Block e TurboTax.
 draft: false
+meta_title: 'Reembolso do IRS: Documentos, Procedimentos e Prestadores'
+title: 'Reembolso do IRS: Documentos, Procedimentos e Prestadores'
+translationKey: portugal-request_for_irs_refund
 ---
+
 
 ## Descrição
 ### O que é?

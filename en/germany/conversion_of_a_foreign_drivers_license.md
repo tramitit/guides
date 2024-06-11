@@ -1,13 +1,17 @@
 ---
-title: "Conversion of a foreign driver's license"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Conversion of a foreign driver's license in Germany and United States"
-description: "A step-by-step guide on how to convert a foreign driver's license in major jurisdictions."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to convert your foreign driver's license to a local one in
+  US or Germany. Procedure, required documents, providers, and additional details
+  included.
 draft: false
-translationKey: "germany-conversion_of_a_foreign_drivers_license"
+meta_title: Foreign Driver's License Conversion Process in US and Germany
+title: Foreign Driver's License Conversion Process in US and Germany
+translationKey: germany-conversion_of_a_foreign_drivers_license
 ---
+
 
 ## Description
 ### What is it?

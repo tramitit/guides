@@ -1,13 +1,16 @@
 ---
-title: "Application for issuing a passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Passport Application Process for Czech Republic"
-description: "A step-by-step guide on applying for a Czech Republic passport."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to apply for a Czech Republic passport, required documents,
+  fees, timelines, and where to submit your application. Essential for Czech citizens.
 draft: false
-translationKey: "czech-republic-application_for_issuing_a_passport"
+meta_title: Process of Applying for a Czech Republic Passport Explained
+title: Process of Applying for a Czech Republic Passport Explained
+translationKey: czech-republic-application_for_issuing_a_passport
 ---
+
 
 ## Description
 ### What is it?

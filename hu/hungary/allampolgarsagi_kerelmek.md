@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-citizenship_applications
-title: "Magyar Állampolgárságigénylések"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Magyar Állampolgárságigénylések"
-description: "Egy lépésről lépésre útmutató a magyar állampolgárság igényléséhez."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ez a útmutató segít az egyszerűsített természetesítés vagy magyar állampolgárság
+  megszerzésében. Ismerd meg a szükséges folyamatokat és dokumentumokat!
 draft: false
+meta_title: 'Magyar Állampolgárság Megszerzése: Útmutató és Szükséges Dokumentumok'
+title: 'Magyar Állampolgárság Megszerzése: Útmutató és Szükséges Dokumentumok'
+translationKey: hungary-citizenship_applications
 ---
+
 
 ## Leírás
 ### Mi ez?

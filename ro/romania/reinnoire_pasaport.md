@@ -1,13 +1,16 @@
 ---
-translationKey: romania-passport_renewal
-title: "Reînnoirea pașaportului"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Ghid pentru reînnoirea pașaportului în România"
-description: "Un ghid informativ care acoperă pașii și procedurile pentru reînnoirea pașaportului românesc."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați cum să vă reînnoiți pașaportul românesc în România sau străinătate.
+  Procedură detaliată, documente necesare și informații despre furnizori de servicii.
 draft: false
+meta_title: 'Ghid Reînnoire Pașaport Românesc: Procedură și Documente Necesare'
+title: 'Ghid Reînnoire Pașaport Românesc: Procedură și Documente Necesare'
+translationKey: romania-passport_renewal
 ---
+
 
 ## Descriere
 ### Ce este?

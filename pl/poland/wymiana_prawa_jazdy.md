@@ -1,13 +1,16 @@
 ---
-translationKey: poland-drivers_license_exchange
-title: "Wymiana prawo jazdy"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Wymiana Prawa Jazdy w Polsce: Przewodnik Krok Po Kroku"
-description: "Szczegółowy przewodnik dotyczący wymiany zagranicznego prawa jazdy na polskie"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Krok po kroku jak legalnie prowadzić samochód w Polsce. Wymagane dokumenty,
+  usługi, porady i ryzyka. Sprawdź informacje i procedury wymiany.
 draft: false
+meta_title: Procedura wymiany zagranicznego prawa jazdy na polskie
+title: Procedura wymiany zagranicznego prawa jazdy na polskie
+translationKey: poland-drivers_license_exchange
 ---
+
 
 ## Opis
 ### Co to jest?

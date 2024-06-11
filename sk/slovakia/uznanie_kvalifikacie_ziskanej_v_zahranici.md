@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-recognition_of_qualifications_obtained_abroad
-title: "Uznávanie kvalifikácií získaných v zahraničí"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Sprievodca uznávaním kvalifikácií získaných v zahraničí"
-description: "Krok za krokom sprievodca získaním uznanie vašich medzinárodných kvalifikácií v zahraničí."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Postup pre overenie zahraničných kvalifikácií pre študentov a profesionálov,
+  vrátane požadovaných dokumentov a odporúčaní pre úspešné uznanie v cudzej krajine.
 draft: false
+meta_title: 'Uznanie Zahraničných Kvalifikácií: Postup a Dokumenty'
+title: 'Uznanie Zahraničných Kvalifikácií: Postup a Dokumenty'
+translationKey: slovakia-recognition_of_qualifications_obtained_abroad
 ---
+
 
 ## Popis
 ### Čo to je?

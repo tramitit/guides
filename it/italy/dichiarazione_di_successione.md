@@ -1,14 +1,16 @@
 ---
-translationKey: italy-succession_declaration
-
-title: "Dichiarazione di Successione"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questo è una guida passo-passo su come dichiarare la successione dopo la morte di una persona cara. Questo post è particolarmente incentrato sulle procedure legali in Italia."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere e gestire una Dichiarazione di Successione in Italia.
+  Chi ne ha bisogno, passaggi legali, documenti richiesti e fornitori di assistenza.
 draft: false
+meta_title: 'Eredità in Italia: Dichiarazione di Successione e Procedura Legale'
+title: 'Eredità in Italia: Dichiarazione di Successione e Procedura Legale'
+translationKey: italy-succession_declaration
 ---
+
 
 ## Descrizione
 ### Cos'è?

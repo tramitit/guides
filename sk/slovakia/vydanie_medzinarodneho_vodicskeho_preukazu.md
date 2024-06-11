@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-issuance_of_international_drivers_license
-title: "Vydanie medzinárodného vodičského preukazu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Krok za krokom sprievodca vydávaním medzinárodného vodičského preukazu na jazdenie v Slovensku"
-description: "Podrobný postup získania medzinárodného vodičského preukazu (IDP), predovšetkým na jazdenie na Slovensku a v iných európskych krajinách."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Získajte Medzinárodný vodičský preukaz pre jazdu v zahraničí. Pozrite
+  si požiadavky, postup a poskytovateľov služby. Platný 1 rok od vydania.
 draft: false
+meta_title: 'Medzinárodný vodičský preukaz: Získanie, požiadavky a postup'
+title: 'Medzinárodný vodičský preukaz: Získanie, požiadavky a postup'
+translationKey: slovakia-issuance_of_international_drivers_license
 ---
+
 
 ## Popis
 ### Čo je to?

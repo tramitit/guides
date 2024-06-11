@@ -1,14 +1,17 @@
 ---
-
-title: "Request for family reunification"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This is a guide on how to request for family reunification."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn about family reunification, eligibility, applying process, and
+  necessary documents to join your family members abroad. Essential guide for smoother
+  immigration.
 draft: false
-translationKey: "belgium-request_for_family_reunification"
+meta_title: 'Family Reunification: Immigration Guide and Required Documents'
+title: 'Family Reunification: Immigration Guide and Required Documents'
+translationKey: belgium-request_for_family_reunification
 ---
+
 
 ## Description
 

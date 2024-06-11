@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-airbnb_permit_application
-title: "Airbnb engedélykérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Ez egy útmutató arról, hogyan lehet jelentkezni az Airbnb szállásengedélyére"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: 'Tudj meg mindent az Airbnb engedélyről: kiknek szükséges, hogyan igényelheted,
+  szükséges dokumentumok és további részletek városi bérléshez.'
 draft: false
+meta_title: 'Airbnb Engedély: Kiadás Hivatalos Engedéllyel a Városi Bérléshez'
+title: 'Airbnb Engedély: Kiadás Hivatalos Engedéllyel a Városi Bérléshez'
+translationKey: hungary-airbnb_permit_application
 ---
+
 
 ## Leírás
 ### Mi ez?

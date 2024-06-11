@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_parking_card
-title: "Aanvraag voor parkeerkaart"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Stapsgewijze handleiding over hoe je een parkeerkaart kunt aanvragen."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Alles wat u moet weten over het aanvragen en gebruiken van een parkeerkaart.
+  Inclusief procedure, benodigde documenten en tips voor succesvol parkeren.
 draft: false
+meta_title: 'Parkeerkaart aanvragen en gebruiken: Procedure en documenten'
+title: 'Parkeerkaart aanvragen en gebruiken: Procedure en documenten'
+translationKey: belgium-request_for_parking_card
 ---
+
 
 ## Beschrijving
 ### Wat is het?

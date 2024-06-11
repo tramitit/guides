@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-payment_declaration_for_local_taxes_and_fees
-title: "Декларация за плащане на местни данъци и такси"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Това е мета описание"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да декларирате приходите и разходите си за електронна търговия,
+  цифрови услуги и фрийлансерство. Изискванията, процедури и важни документи.
 draft: false
+meta_title: 'Декларация за плащания по местни такси и услуги: Пълно ръководство'
+title: 'Декларация за плащания по местни такси и услуги: Пълно ръководство'
+translationKey: bulgaria-payment_declaration_for_local_taxes_and_fees
 ---
+
 
 ## Описание
 ### Какво е това?

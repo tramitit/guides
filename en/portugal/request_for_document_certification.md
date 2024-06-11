@@ -1,13 +1,16 @@
 ---
-title: "Request for Document Certification"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Step-by-step guide on how to request for document certification."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn about the process, necessary documents, and providers for document
+  certification. Helpful for immigration, study abroad, and legal transactions.
 draft: false
-translationKey: "portugal-request_for_document_certification"
+meta_title: 'Document Certification: Procedure, Required Docs & Providers'
+title: 'Document Certification: Procedure, Required Docs & Providers'
+translationKey: portugal-request_for_document_certification
 ---
+
 
 ## Description
 ### What is it?

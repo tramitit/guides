@@ -1,13 +1,16 @@
 ---
-title: "Driving licence exchange"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Exchanging Your Driver's License in the Czech Republic"
-description: "A comprehensive guide on how to exchange your foreign driver's license in the Czech Republic."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how residents from non-EU countries can trade their foreign driver's
+  license for a Czech one to drive legally in the Czech Republic.
 draft: false
-translationKey: "czech-republic-driving_licence_exchange"
+meta_title: Exchange Non-Czech Driver's License for Czech License Guide
+title: Exchange Non-Czech Driver's License for Czech License Guide
+translationKey: czech-republic-driving_licence_exchange
 ---
+
 
 ## Description
 ### What is it?

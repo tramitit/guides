@@ -1,13 +1,16 @@
 ---
-title: "Application for residence with work permit in Slovakia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Step by step guide on applying for residence permit with work permit in Slovakia"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Step-by-step guide on obtaining residence and work permits in Slovakia.
+  Includes document requirements, embassy contacts, and processing details.
 draft: false
-translationKey: "slovakia-application_for_residence_with_work_permit"
+meta_title: Guide for Slovak Residence and Work Permits Application
+title: Guide for Slovak Residence and Work Permits Application
+translationKey: slovakia-application_for_residence_with_work_permit
 ---
+
 
 ## Description
 ### What is it?

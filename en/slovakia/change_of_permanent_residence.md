@@ -1,13 +1,16 @@
 ---
-title: "Change of Permanent Residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "An overview of the process to change your permanent residence within Slovakia"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn the legal process of updating your address in Slovakia for residency.
+  Required documents, providers, and citizenship opportunities explained in detail.
 draft: false
-translationKey: "slovakia-change_of_permanent_residence"
+meta_title: 'Changing Permanent Residence in Slovakia: Procedure & Requirements'
+title: 'Changing Permanent Residence in Slovakia: Procedure & Requirements'
+translationKey: slovakia-change_of_permanent_residence
 ---
+
 
 ## Description
 ### What is it?

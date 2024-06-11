@@ -1,13 +1,16 @@
 ---
-title: "Work Permit Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "A comprehensive guide on how to apply for a work permit permit in Spain."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to apply for a work permit in Spain as a non-Spanish citizen.
+  Follow steps, gather required documents, and attend a visa interview at the embassy.
 draft: false
-translationKey: "spain-work_permit_application"
+meta_title: Spain Work Permit Application Process and Requirements
+title: Spain Work Permit Application Process and Requirements
+translationKey: spain-work_permit_application
 ---
+
 
 ## Description
 ### What is it?

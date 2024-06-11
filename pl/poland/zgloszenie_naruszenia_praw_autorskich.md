@@ -1,14 +1,16 @@
 ---
-translationKey: poland-report_of_copyright_infringement
-
-title: "Raportowanie naruszeń praw autorskich"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Wskazówki dotyczące raportowania naruszeń praw autorskich na Reddit"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się jak złożyć skargę dot. naruszenia praw autorskich na Reddit,
+  wymagane dokumenty i konsekwencje. Zaufaj dostawcom takim jak Reddit, Inc.
 draft: false
+meta_title: 'Naruszenie praw autorskich na Reddit: Skargi i procedury'
+title: 'Naruszenie praw autorskich na Reddit: Skargi i procedury'
+translationKey: poland-report_of_copyright_infringement
 ---
+
 
 ## Opis
 ### Co to jest?

@@ -1,13 +1,16 @@
 ---
-title: "Reorder Marriage Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detailed guide on how to reorder a marriage certificate."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Lost your marriage certificate? Learn how to reorder it, including required
+  documents and using providers. Ensure legal compliance and accuracy in process.
 draft: false
-translationKey: "austria-reorder_marriage_certificate"
+meta_title: 'Reorder Marriage Certificate: Procedure, Documents & Providers'
+title: 'Reorder Marriage Certificate: Procedure, Documents & Providers'
+translationKey: austria-reorder_marriage_certificate
 ---
+
 
 ## Description
 ### What is it?

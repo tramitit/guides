@@ -1,13 +1,16 @@
 ---
-title: "Obtaining Birth Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Procedure to Obtain Birth Certificate in Romania"
-description: "A comprehensive guide to understanding the documents and procedure required to obtain a birth certificate."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how to secure a birth certificate from Romania for official needs.
+  Find out the steps, required documents, and where to seek assistance efficiently.
 draft: false
-translationKey: "romania-birth_certificate"
+meta_title: 'Obtaining a Birth Certificate in Romania: Procedure and Requirements'
+title: 'Obtaining a Birth Certificate in Romania: Procedure and Requirements'
+translationKey: romania-birth_certificate
 ---
+
 
 ## Description
 ### What is it?

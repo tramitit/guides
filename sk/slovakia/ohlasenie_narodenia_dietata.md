@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-notification_of_childs_birth
-title: "Oznámenie narodenia dieťaťa"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Toto je komplexný sprievodca o tom, ako oznámiť narodenie dieťaťa, s užitočnými podrobnosťami pre miestnych Slovákov aj pre imigrantov."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Zaregistrujte oficiálne narodenie dieťaťa v miestnych úradoch. Postup
+  podľa krokov, povinné dokumenty a možní poskytovatelia služby. Dôležité aj pre imigrantov.
 draft: false
+meta_title: 'Registrácia narodenia dieťaťa: Postup a požadované dokumenty'
+title: 'Registrácia narodenia dieťaťa: Postup a požadované dokumenty'
+translationKey: slovakia-notification_of_childs_birth
 ---
+
 
 ## Popis
 ### Čo je to?

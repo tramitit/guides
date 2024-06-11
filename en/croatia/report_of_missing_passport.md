@@ -1,13 +1,16 @@
 ---
-title: "Report of missing passport"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Step-by-step guide on how to report a missing passport"
-description: "A comprehensive guide explaining how to report a missing passport, necessary documents, and additional details."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: 'Guía para reportar pasaportes perdidos en Croacia: contactar policía,
+  embajada y obtener documentos de viaje de emergencia. Requisitos y pasos detallados.'
 draft: false
-translationKey: "croatia-report_of_missing_passport"
+meta_title: Proceso de Reporte y Reemplazo de Pasaportes Perdidos en Croacia
+title: Proceso de Reporte y Reemplazo de Pasaportes Perdidos en Croacia
+translationKey: croatia-report_of_missing_passport
 ---
+
 
 ## Description
 ### What is it?

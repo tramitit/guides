@@ -1,13 +1,16 @@
 ---
-title: "Change of Main Residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "A comprehensive guide to changing your main residence in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihren Hauptwohnsitz in Österreich melden. Benötigte
+  Dokumente, Verfahren und wichtige Hinweise zum Meldezettel.
 draft: false
-translationKey: "austria-change_of_main_residence"
+meta_title: 'Österreich Umzug: Meldezettel für Hauptwohnsitz ändern'
+title: 'Österreich Umzug: Meldezettel für Hauptwohnsitz ändern'
+translationKey: austria-change_of_main_residence
 ---
+
 
 ## Description
 

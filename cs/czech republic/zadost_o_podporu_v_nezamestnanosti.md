@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_unemployment_benefit
-title: "Žádost o podporu v nezaměstnanosti"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Jak požádat o podporu v nezaměstnanosti v České republice"
-description: "Krok za krokem průvodce, jak požádat o podporu v nezaměstnanosti v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Získejte finanční pomoc od vlády po ztrátě zaměstnání. Registrace na
+  Úřadě práce, žádost o podporu a potřebné doklady. Zajistěte si nárok správně.
 draft: false
+meta_title: 'Podpora v nezaměstnanosti: Registrace, postup a požadované dokumenty'
+title: 'Podpora v nezaměstnanosti: Registrace, postup a požadované dokumenty'
+translationKey: czech republic-application_for_unemployment_benefit
 ---
+
 
 ## Popis
 ### Co to je?

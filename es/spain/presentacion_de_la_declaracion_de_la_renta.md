@@ -1,13 +1,16 @@
 ---
-translationKey: spain-income_tax_return_filing
-title: "Declaración de impuestos sobre la renta en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Guía para presentar la Declaración de Impuestos sobre la renta en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: 'Descubre quién debe presentarla, paso a paso: reunir documentos, portal
+  de la Agencia Tributaria, instrucciones, pago y asistencia. ¡Evita la doble imposición!'
 draft: false
+meta_title: 'Cómo presentar la declaración de impuestos en España: guía detallada'
+title: 'Cómo presentar la declaración de impuestos en España: guía detallada'
+translationKey: spain-income_tax_return_filing
 ---
+
 
 ## Descripción
 ### ¿Qué es?

@@ -1,13 +1,16 @@
 ---
-title: "Driver's License Exchange"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Details and procedures for exchanging an international driver's license in Austria and Germany"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how and why to exchange your foreign driver's license for a local
+  one. Find out the steps, documents needed, and potential costs involved in the process.
 draft: false
-translationKey: "austria-drivers_license_exchange"
+meta_title: 'International Driver''s License Exchange: Procedure and Requirements'
+title: 'International Driver''s License Exchange: Procedure and Requirements'
+translationKey: austria-drivers_license_exchange
 ---
+
 
 ## Description
 ### What is it?

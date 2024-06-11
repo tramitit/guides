@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_pension
-title: "Žádost o penzi"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Toto je meta popis"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: 'Získejte důchodový fond správně: od určení oprávněnosti až k odevzdání
+  žádosti. Seznamte se s potřebnými dokumenty a postupujte podle požadavků poskytovatele.'
 draft: false
+meta_title: 'Proces žádosti o důchod: Postup a požadované dokumenty'
+title: 'Proces žádosti o důchod: Postup a požadované dokumenty'
+translationKey: czech republic-application_for_pension
 ---
+
 
 ## Popis
 ### Co to je?

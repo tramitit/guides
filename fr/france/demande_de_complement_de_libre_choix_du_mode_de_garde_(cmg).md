@@ -1,13 +1,16 @@
 ---
-translationKey: france-application_for_childcare_choice_supplement_(cmg)
-title: "Demande de Supplément de choix de garde d'enfants (CMG)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Demandez le Supplément de choix de garde d'enfants (CMG) en France"
-description: "Un guide étape par étape sur la façon de demander le Supplément de choix de garde d'enfants (CMG) en France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment obtenir le CMG pour couvrir les frais de garde d'enfants.
+  Procédure, documents requis, simulateur en ligne et détails utiles inclus.
 draft: false
+meta_title: Comment bénéficier du Complément de Mode de Garde en France
+title: Comment bénéficier du Complément de Mode de Garde en France
+translationKey: france-application_for_childcare_choice_supplement_(cmg)
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

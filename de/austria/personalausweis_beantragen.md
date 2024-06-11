@@ -1,13 +1,16 @@
 ---
-translationKey: austria-id_card_application
-title: "Personalausweis beantragen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detaillierte Schritte zur Beantragung eines Personalausweises in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wer in Österreich einen Personalausweis benötigt und wie
+  man einen beantragt. Kosten, erforderliche Unterlagen und Gültigkeitsdauer im Überblick.
 draft: false
+meta_title: 'Österreichischer Personalausweis: Antrag, Kosten & Gültigkeit'
+title: 'Österreichischer Personalausweis: Antrag, Kosten & Gültigkeit'
+translationKey: austria-id_card_application
 ---
+
 
 ## Beschreibung
 ### Was ist es?

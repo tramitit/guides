@@ -1,13 +1,16 @@
 ---
-title: "Housing assistance application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Comprehensive guide on applying for housing assistance in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to apply for CAF Housing Aid in France, crucial for low-income
+  individuals and students. Step-by-step procedure and necessary documents explained.
 draft: false
-translationKey: "france-housing_assistance_application"
+meta_title: Guide to CAF Housing Assistance Application in France
+title: Guide to CAF Housing Assistance Application in France
+translationKey: france-housing_assistance_application
 ---
+
 
 ## Description
 ### What is it?

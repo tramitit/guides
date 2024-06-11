@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_travel_authorization
-title: "Aanvraag voor reisautorisatie"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Deze uitgebreide stapsgewijze handleiding informeert u over hoe u een reisautorisatie kunt aanvragen. Ideaal voor reizigers die van plan zijn een reis naar Europa of een andere plaats te maken die reisautorisatie vereist."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: 'Alles wat Amerikaanse burgers moeten weten: vereisten, procedure, documenten
+  & aanbieders. Voorkom geweigerde aanvragen door tijdig en nauwkeurig te handelen.'
 draft: false
+meta_title: Reistoestemming en Visumaanvraag voor Amerikaanse burgers naar Europa
+title: Reistoestemming en Visumaanvraag voor Amerikaanse burgers naar Europa
+translationKey: belgium-request_for_travel_authorization
 ---
+
 
 ## Beschrijving
 ### Wat is het?

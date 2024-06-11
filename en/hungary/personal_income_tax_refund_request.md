@@ -1,13 +1,16 @@
 ---
-title: "Personal income tax refund request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Guide on Personal Income Tax Refund Request"
-description: "Complete guide on how to request a personal income tax refund."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to claim a tax refund if you've overpaid income taxes. Gather
+  necessary documents, calculate your refund, file your return, and wait for the response.
 draft: false
-translationKey: "hungary-personal_income_tax_refund_request"
+meta_title: 'Income Tax Refund Request: Process and Eligibility'
+title: 'Income Tax Refund Request: Process and Eligibility'
+translationKey: hungary-personal_income_tax_refund_request
 ---
+
 
 ## Description
 ### What is it?

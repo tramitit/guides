@@ -1,13 +1,16 @@
 ---
-translationKey: romania-car_registration
-title: "Înregistrarea mașinii"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Un ghid cuprinzător despre cum să înregistrați o mașină în România, acoperind documentele necesare, procedura, furnizorii care pot asista și detalii suplimentare."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: 'Descoperiți totul despre înmatricularea mașinii în România: procedura
+  obligatorie la RCLCR, documentele necesare și furnizorii de servicii disponibili.'
 draft: false
+meta_title: 'Înregistrarea mașinii în România: Procedură, Documente și Furnizori'
+title: 'Înregistrarea mașinii în România: Procedură, Documente și Furnizori'
+translationKey: romania-car_registration
 ---
+
 
 ## Descriere
 ### Ce este?

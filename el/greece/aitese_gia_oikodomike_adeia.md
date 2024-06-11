@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_building_permit
-title: "Αίτηση για Άδεια Κατασκευής"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Αίτηση για Άδεια Κατασκευής στην Ελλάδα"
-description: "Λεπτομερής οδηγός βήμα προς βήμα για το πως να υποβάλετε αίτηση για άδεια κατασκευής στην Ελλάδα."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τη διαδικασία απόκτησης άδειας κατασκευής, τα απαραίτητα έγγραφα
+  και ποιοι μπορούν να σας βοηθήσουν. Η μη απόκτηση μπορεί να έχει σοβαρές συνέπειες.
 draft: false
+meta_title: 'Άδεια Κατασκευής: Διαδικασία, Απαιτούμενα Έγγραφα και Παρόχοι'
+title: 'Άδεια Κατασκευής: Διαδικασία, Απαιτούμενα Έγγραφα και Παρόχοι'
+translationKey: greece-application_for_building_permit
 ---
+
 
 ## Περιγραφή 
 

@@ -1,13 +1,16 @@
 ---
-title: "Citizenship Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guide to Spain Citizenship Application"
-description: "A comprehensive guide to applying for Spanish citizenship"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how non-nationals can apply for Spanish citizenship, the required
+  documents, and the step-by-step process to become a Spanish citizen.
 draft: false
-translationKey: "spain-citizenship_application"
+meta_title: 'Guide to Applying for Spanish Citizenship: Eligibility and Steps'
+title: 'Guide to Applying for Spanish Citizenship: Eligibility and Steps'
+translationKey: spain-citizenship_application
 ---
+
 
 ## Description
 ### What is it?

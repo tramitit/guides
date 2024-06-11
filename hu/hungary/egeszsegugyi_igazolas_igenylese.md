@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-request_for_health_certificate
-title: "Egészségi igazolás kérelme"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Lépések az Egészségi Igazolás Kérelméhez Magyarországon való Maratonra"
-description: "Egy átfogó útmutató arról, hogyan lehet kérelmezni egy egészségi igazolást, beleértve a szükséges lépéseket és a szükséges kulcsfontosságú információkat."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Tudnivalók az egészségügyi igazolásról maratonra való részvételhez Magyarországon.
+  Orvos által kiállított dokumentum, eljárás és költségek.
 draft: false
+meta_title: Egészségügyi Igazolás Maratonra - Követelmények és Eljárás
+title: Egészségügyi Igazolás Maratonra - Követelmények és Eljárás
+translationKey: hungary-request_for_health_certificate
 ---
+
 
 ## Leírás
 ### Mi ez?

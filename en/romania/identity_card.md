@@ -1,13 +1,16 @@
 ---
-title: "Identity Card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Detailed Guide on Romania's Identity Card"
-description: "In this guide, we share the steps on how to obtain, renew, and change details on a Romanian identity card"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn about the Romanian Identity Card, its application process, required
+  documents, renewal considerations, and providers offering this service in Romania.
 draft: false
-translationKey: "romania-identity_card"
+meta_title: 'Romanian Identity Card: Application, Requirements & Providers'
+title: 'Romanian Identity Card: Application, Requirements & Providers'
+translationKey: romania-identity_card
 ---
+
 
 ## Description
 ### What is it?

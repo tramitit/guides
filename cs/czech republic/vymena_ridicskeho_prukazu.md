@@ -1,13 +1,17 @@
 ---
-translationKey: czech republic-driving_licence_exchange
-title: "Výměna řidičského průkazu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Výměna řidičského průkazu v České republice"
-description: "Komplexní průvodce, jak vyměnit svůj zahraniční řidičský průkaz v České republice."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Krok za krokem průvodce výměnou řidičského průkazu v České republice
+  pro nově přistěhovalce z nečlenské země EU. Postup, dokumenty, časový rámec a české
+  úřady.
 draft: false
+meta_title: Jak vyměnit nečeský řidičský průkaz za český - Průvodce
+title: Jak vyměnit nečeský řidičský průkaz za český - Průvodce
+translationKey: czech republic-driving_licence_exchange
 ---
+
 
 ## Popis
 ### Co to je?

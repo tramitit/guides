@@ -1,13 +1,16 @@
 ---
-title: "Social housing assistance application"
-author: "Ricardo Batista"
-date: "2022-11-02"
-categories: ["France"]
-meta_title: ""
-description: "A step by step guide to understanding what social housing assistance is, who it’s for and how to apply for it in France."
+author: Ricardo Batista
+categories:
+- France
+date: '2022-11-02'
+description: Learn about social housing assistance in France, eligibility criteria,
+  application process, required documents, and providers offering support.
 draft: false
-translationKey: "france-social_housing_assistance_application"
+meta_title: 'Guide to Social Housing Assistance in France: Eligibility and Application'
+title: 'Guide to Social Housing Assistance in France: Eligibility and Application'
+translationKey: france-social_housing_assistance_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,14 +1,16 @@
 ---
-translationKey: france-high_school_registration
-
-title: "Inscription au lycée"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Inscription au lycée en France : Un guide étape par étape"
-description: "Guide pour s'inscrire dans les lycées en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: 'Parents et étudiants : tout sur l''inscription au lycée en France, processus,
+  documents requis et choix d''écoles. Préparez-vous avec notre guide précis.'
 draft: false
+meta_title: 'Inscription au Lycée en France : Guide Complet et Procédure Facile'
+title: 'Inscription au Lycée en France : Guide Complet et Procédure Facile'
+translationKey: france-high_school_registration
 ---
+
 
 
 ## Description

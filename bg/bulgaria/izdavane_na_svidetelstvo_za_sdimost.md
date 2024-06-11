@@ -1,13 +1,17 @@
 ---
-translationKey: bulgaria-issuance_of_a_criminal_record_certificate
-title: "Издаване на удостоверение за криминален регистър"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Този ръководител описва как да се издаде удостоверение за криминален регистър в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: 'Научете се как да издадете официален документ за съдимости в България:
+  процедура, необходими документи, доставчици и съвети за гладка обработка на искането
+  си.'
 draft: false
+meta_title: Как да получите свидетелство за съдимост в България
+title: Как да получите свидетелство за съдимост в България
+translationKey: bulgaria-issuance_of_a_criminal_record_certificate
 ---
+
 
 ## Описание
 ### Какво е това?

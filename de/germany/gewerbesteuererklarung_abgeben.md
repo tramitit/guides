@@ -1,13 +1,16 @@
 ---
-translationKey: germany-filing_a_trade_tax_return
-title: "Ein Gewerbesteuererklärung einreichen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Wie man eine Gewerbesteuererklärung in Deutschland einreicht"
-description: "Schritt-für-Schritt-Anleitung zur Einreichung einer Gewerbesteuererklärung in Deutschland"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie private Anleger ihre Kapitalerträge aus Handelsgeschäften
+  korrekt deklarieren. Tipps, Verfahren und wichtige Dokumente erklärt.
 draft: false
+meta_title: 'Handelssteuererklärung in Deutschland: Anleitung für Anleger'
+title: 'Handelssteuererklärung in Deutschland: Anleitung für Anleger'
+translationKey: germany-filing_a_trade_tax_return
 ---
+
 
 ## Beschreibung
 ### Was ist das?

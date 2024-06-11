@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_criminal_record_extract
-title: "Demande d'extrait de casier judiciaire"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Ce guide aborde le processus de demande d'un extrait de casier judiciaire en Belgique."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn how to request, obtain, & translate your criminal record extract
+  in Belgium. Find out who needs it & the process at local municipalities.
 draft: false
+meta_title: 'Obtaining Belgian Criminal Record Extract: Procedures & Requirements'
+title: 'Obtaining Belgian Criminal Record Extract: Procedures & Requirements'
+translationKey: belgium-request_for_criminal_record_extract
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

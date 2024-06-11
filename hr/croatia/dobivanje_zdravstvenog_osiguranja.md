@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-obtaining_health_insurance
-title: "Dobivanje zdravstvenog osiguranja u Hrvatskoj"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Vodič za dobivanje hrvatskog zdravstvenog osiguranja"
-description: "Detaljno uputstvo o tome kako dobaviti pokrivenost zdravstvenim osiguranjem u Hrvatskoj, uključujući potrebne zahtjeve i postupak korak po korak."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte o obveznosti zdravstvenog osiguranja u Hrvatskoj, postupku prijave,
+  potrebnim dokumentima te pružateljima usluga koji to mogu obaviti umjesto vas.
 draft: false
+meta_title: 'Zdravstveno osiguranje u Hrvatskoj: Obveza, Postupak i Pružatelji'
+title: 'Zdravstveno osiguranje u Hrvatskoj: Obveza, Postupak i Pružatelji'
+translationKey: croatia-obtaining_health_insurance
 ---
+
 
 ## Opis
 ### Što je to?

@@ -1,13 +1,16 @@
 ---
-translationKey: spain-appointment_request_for_immigration_office
-title: "Solicitud de cita para la Oficina de Inmigración"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Esta es la descripción meta"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Guía paso a paso para programar una cita con la Oficina de Inmigración
+  en España, incluyendo procedimiento, documentos requeridos y proveedores disponibles.
 draft: false
+meta_title: Cómo Programar una Cita con la Oficina de Inmigración en España
+title: Cómo Programar una Cita con la Oficina de Inmigración en España
+translationKey: spain-appointment_request_for_immigration_office
 ---
+
 
 ## Descripción
 ### ¿Qué es?

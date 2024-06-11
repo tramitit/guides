@@ -1,13 +1,17 @@
 ---
-title: "Daily allowance application (Indemnités journalières)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to apply for daily sick leave allowances in France through
+  the Social Security system. Get financial support when unfit for work due to health
+  issues.
 draft: false
-translationKey: "france-daily_allowance_application"
+meta_title: Daily Allowance (Indemnité Journalière) Process in France
+title: Daily Allowance (Indemnité Journalière) Process in France
+translationKey: france-daily_allowance_application
 ---
+
 
 ## Description
 ### What is it?

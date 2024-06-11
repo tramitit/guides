@@ -1,13 +1,17 @@
 ---
-title: "Driving license"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "How to get a Driving License in Poland"
-description: "Detailed procedure on how to obtain a Polish driving license"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn the process and requirements for getting a driver's license in
+  Poland, including exams, documents, providers, and timelines. Must-know details
+  revealed!
 draft: false
-translationKey: "poland-driving_license"
+meta_title: 'How to Obtain a Polish Driving License: Step-by-Step Guide'
+title: 'How to Obtain a Polish Driving License: Step-by-Step Guide'
+translationKey: poland-driving_license
 ---
+
 
 ## Description
 ### What is it?

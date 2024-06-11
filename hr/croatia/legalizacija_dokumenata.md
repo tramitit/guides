@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-document_legalization
-title: "Legalizacija dokumenata"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Korak po korak vodič za legalizaciju dokumenata u Hrvatskoj"
-description: "Detaljan vodič koji opisuje postupak dobivanja legalizacije dokumenata u Hrvatskoj."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako legalizirati vaše dokumente za korištenje u Hrvatskoj.
+  Pronađite korake, potrebne dokumente i pružatelje usluga koji vam mogu pomoći.
 draft: false
+meta_title: 'Legalizacija Dokumenata u Hrvatskoj: Postupak i Potrebni Dokumenti'
+title: 'Legalizacija Dokumenata u Hrvatskoj: Postupak i Potrebni Dokumenti'
+translationKey: croatia-document_legalization
 ---
+
 
 ## Opis
 ### Što je to?

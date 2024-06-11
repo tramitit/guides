@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-marriage_registration
-title: "Регистрация на брак в България"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Регистрация на брак в България"
-description: "Подробно стъпково ръководство за регистриране на брак в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Узнайте как се регистрира брак в България, необходими документи и процедури.
+  Отлична информация за всеки, който планира брак в страната.
 draft: false
+meta_title: 'Регистрация на брак в България: процедури и документи'
+title: 'Регистрация на брак в България: процедури и документи'
+translationKey: bulgaria-marriage_registration
 ---
+
 
 ## Описание
 ### Какво е това?

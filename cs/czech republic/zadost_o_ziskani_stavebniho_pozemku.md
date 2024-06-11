@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_acquiring_a_building_plot
-title: "Žádost o získání stavební parcely"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Toto je meta popis"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, jak identifikovat, ověřit a koupit pozemek pro váš stavební
+  projekt. Smlouvy, financování a důležité informace pro každého zainteresovaného.
 draft: false
+meta_title: 'Nákup stavebního pozemku: Postup, dokumenty a podrobnosti'
+title: 'Nákup stavebního pozemku: Postup, dokumenty a podrobnosti'
+translationKey: czech republic-application_for_acquiring_a_building_plot
 ---
+
 
 ## Popis
 ### Co to je?

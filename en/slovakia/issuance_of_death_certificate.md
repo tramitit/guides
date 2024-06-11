@@ -1,13 +1,16 @@
 ---
-title: "Issuance of death certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to apply for a death certificate, required documents, application
+  steps, provider details, and importance of this legal document for various purposes.
 draft: false
-translationKey: "slovakia-issuance_of_death_certificate"
+meta_title: 'Death Certificate Issuance: Process, Documents & Providers'
+title: 'Death Certificate Issuance: Process, Documents & Providers'
+translationKey: slovakia-issuance_of_death_certificate
 ---
+
 
 ## Description
 ### What is it?

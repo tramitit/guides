@@ -1,13 +1,17 @@
 ---
-translationKey: germany-submitting_an_exemption_order
-title: "Ein Exemption Order einreichen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Leitfaden zum Einreichen eines Exemption Order in Deutschland"
-description: "Schritt-für-Schritt-Anleitung für das Einreichen eines Exemption Order (Freistellungsauftrag) in Deutschland"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie eine Kapitalertragsteuer-Befreiung beantragen,
+  welche Unterlagen erforderlich sind und wichtige Aspekte zur Gültigkeit und Risiken
+  kennen.
 draft: false
+meta_title: 'Freistellungsauftrag in Deutschland: Anleitung und Vorgehen'
+title: 'Freistellungsauftrag in Deutschland: Anleitung und Vorgehen'
+translationKey: germany-submitting_an_exemption_order
 ---
+
 
 ## Beschreibung
 ### Was ist das?

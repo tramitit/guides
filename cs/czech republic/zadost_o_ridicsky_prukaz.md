@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_a_driving_licence
-title: "Žádost o řidičský průkaz"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Toto je meta popis"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: 'Proces získání řidičského průkazu v České republice: kurz, výcvik, testy,
+  dokumenty. Poznámky k jazykovým a zdravotním požadavkům a obavám.'
 draft: false
+meta_title: 'Jak získat řidičský průkaz v České republice: Postup a požadavky'
+title: 'Jak získat řidičský průkaz v České republice: Postup a požadavky'
+translationKey: czech republic-application_for_a_driving_licence
 ---
+
 
 ## Popis
 ### Co to je?

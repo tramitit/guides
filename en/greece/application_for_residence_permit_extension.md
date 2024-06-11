@@ -1,13 +1,16 @@
 ---
-title: "Application for residence permit extension"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "A comprehensive guide to assist you through the process of applying for a residence permit extension in Greece."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to extend your residence permit in Greece with the step-by-step
+  procedure and required documents. Stay legally longer in Greece hassle-free!
 draft: false
-translationKey: "greece-application_for_residence_permit_extension"
+meta_title: 'Extending Residence Permit in Greece: Procedures & Requirements'
+title: 'Extending Residence Permit in Greece: Procedures & Requirements'
+translationKey: greece-application_for_residence_permit_extension
 ---
+
 
 ## Description
 ### What is it?

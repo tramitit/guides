@@ -1,13 +1,16 @@
 ---
-title: "Change of Residence Notification in Poland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Change of Residence Notification in Poland"
-description: "This is a simplified guide of everything you need to know about reporting a change of residence in Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to inform Poland's national registry of your new address. Procedure,
+  required documents, providers, and key details for change of residence.
 draft: false
-translationKey: "poland-change_of_residence_notification"
+meta_title: 'Change of Residence Notification in Poland: Procedure & Documents'
+title: 'Change of Residence Notification in Poland: Procedure & Documents'
+translationKey: poland-change_of_residence_notification
 ---
+
 
 ## Description
 

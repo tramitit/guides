@@ -1,13 +1,17 @@
 ---
-title: "Copy of notarial documents"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Guide to Obtaining Copies of Notarial Documents in Hungary"
-description: "A step-by-step guide on how to obtain certified copies of notarial documents in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn the procedure, required documents, and providers for obtaining
+  certified copies of notarial documents for legal proceedings, real estate, and more
+  in Hungary.
 draft: false
-translationKey: "hungary-copy_of_notarial_documents"
+meta_title: Obtain Certified Copies of Notarial Documents in Hungary
+title: Obtain Certified Copies of Notarial Documents in Hungary
+translationKey: hungary-copy_of_notarial_documents
 ---
+
 
 ## Description
 ### What is it?

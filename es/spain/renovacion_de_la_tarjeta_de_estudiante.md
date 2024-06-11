@@ -1,13 +1,16 @@
 ---
-translationKey: spain-student_card_renewal
-title: "Renovación de Tarjeta de Estudiante"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guía paso a paso para la renovación de la tarjeta de estudiante en España"
-description: "Guía detallada sobre cómo renovar tu tarjeta de estudiante en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo renovar tu TIE en España, paso a paso. Documentos necesarios,
+  proveedores, plazos y costos. Información vital para estudiantes extranjeros.
 draft: false
+meta_title: 'Renovación Tarjeta de Estudiante en España: Guía Completa'
+title: 'Renovación Tarjeta de Estudiante en España: Guía Completa'
+translationKey: spain-student_card_renewal
 ---
+
 
 ## Descripción
 ### ¿Qué es?

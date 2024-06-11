@@ -1,13 +1,16 @@
 ---
-title: "Announcement of change of surname"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to officially announce your surname change due to marriage,
+  divorce, or personal preference with required documents and a step-by-step procedure.
 draft: false
-translationKey: "czech-republic-announcement_of_change_of_surname"
+meta_title: Change of Surname Announcement Procedure and Documents
+title: Change of Surname Announcement Procedure and Documents
+translationKey: czech-republic-announcement_of_change_of_surname
 ---
+
 
 ## Description
 ### What is it?

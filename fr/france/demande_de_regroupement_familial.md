@@ -1,13 +1,16 @@
 ---
-translationKey: france-family_reunification_application
-title: "Demande de regroupement familial"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Regroupement familial en France : Guide étape par étape"
-description: "Guide détaillé sur comment faire une demande de regroupement familial en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment les résidents hors UE peuvent faire immigrer leur famille
+  en France. Procédure détaillée et documents requis inclus. Assurez-vous d'être prêt!
 draft: false
+meta_title: 'Réunification Familiale en France: Procédure et Documents Requis'
+title: 'Réunification Familiale en France: Procédure et Documents Requis'
+translationKey: france-family_reunification_application
 ---
+
 
 ## Description
 

@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_change_of_nif_data
-title: "Pedido de Alteração de Dados NIF"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este é um guia sobre como solicitar uma alteração nos seus dados de Número de Identificação Fiscal (NIF) em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como atualizar seus dados fiscais no NIF em Portugal. Veja o procedimento
+  detalhado e os documentos necessários para a alteração.
 draft: false
+meta_title: Como Alterar os Dados do NIF em Portugal de Forma Simples
+title: Como Alterar os Dados do NIF em Portugal de Forma Simples
+translationKey: portugal-request_for_change_of_nif_data
 ---
+
 
 ## Descrição
 ### O que é?

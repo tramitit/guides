@@ -1,13 +1,16 @@
 ---
-title: "Application for disability pension"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This guide outlines how to apply for a disability pension, featuring the benefits, process, required documents, and service providers."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to obtain a disability pension for individuals with physical
+  or mental disabilities, including required documents and application process globally.
 draft: false
-translationKey: "czech-republic-application_for_disability_pension"
+meta_title: 'How to Apply for a Disability Pension: Procedure & Requirements'
+title: 'How to Apply for a Disability Pension: Procedure & Requirements'
+translationKey: czech-republic-application_for_disability_pension
 ---
+
 
 ## Description
 ### What is it?

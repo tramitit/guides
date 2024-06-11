@@ -1,13 +1,17 @@
 ---
-title: "Registry office - birth of a child"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "A guide on how to register the birth of your child in the Czech Republic. This process is vital for ensuring your child's citizenship and social benefits in the future."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn about registering a child's birth in Czech Republic, including
+  necessary documents, steps, and providers. Ensure legal identity and citizenship
+  with ease.
 draft: false
-translationKey: "czech-republic-registry_office_-_birth_of_a_child"
+meta_title: 'Czech Birth Registration: Process, Requirements & Providers'
+title: 'Czech Birth Registration: Process, Requirements & Providers'
+translationKey: czech-republic-registry_office_-_birth_of_a_child
 ---
+
 
 ## Description
 ### What is it?

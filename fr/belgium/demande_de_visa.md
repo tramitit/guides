@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_visa
-title: "Demande de visa"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Demande de Visa Belge : Un Guide Complet"
-description: "Ce guide décrit la procédure de demande de visa belge"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez comment obtenir un visa belge pour visite, études ou travail.
+  Étapes, documents requis, délais d'attente et conseils pratiques inclus.
 draft: false
+meta_title: 'Procédure du visa belge: types, documents et conseils'
+title: 'Procédure du visa belge: types, documents et conseils'
+translationKey: belgium-request_for_visa
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

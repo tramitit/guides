@@ -1,13 +1,16 @@
 ---
-title: "Registration for e-Government Services"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Registering for e-Government Services - A Comprehensive Guide"
-description: "A step by step guide to help individuals and businesses register for e-government services."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Descubre cómo registrarte y acceder a servicios de gobierno electrónico,
+  ideal para individuos y empresas que buscan eficiencia y conveniencia en trámites.
 draft: false
-translationKey: "greece-registration_for_e-government_services"
+meta_title: 'Servicios de Gobierno Electrónico: Guía y Procedimientos Fácilmente'
+title: 'Servicios de Gobierno Electrónico: Guía y Procedimientos Fácilmente'
+translationKey: greece-registration_for_e-government_services
 ---
+
 
 ## Description
 ### What is it?

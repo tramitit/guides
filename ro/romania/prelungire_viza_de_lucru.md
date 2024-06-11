@@ -1,13 +1,16 @@
 ---
-translationKey: romania-work_visa_extension
-title: "Prelungirea vizelor de muncă"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Aceasta este descrierea meta"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați cum să vă prelungiți șederea dincolo de viza de lucru inițială
+  din România. Proces, documente, furnizori și reguli importante de monitorizat.
 draft: false
+meta_title: 'Extensie de viză de lucru în România: Procedură și documente necesare'
+title: 'Extensie de viză de lucru în România: Procedură și documente necesare'
+translationKey: romania-work_visa_extension
 ---
+
 
 ## Descriere
 ### Ce este?

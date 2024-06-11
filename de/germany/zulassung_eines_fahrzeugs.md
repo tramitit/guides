@@ -1,13 +1,16 @@
 ---
-translationKey: germany-vehicle_registration
-title: "Fahrzeuganmeldung in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Fahrzeuganmeldung in Deutschland: Ein Leitfaden"
-description: "Ein praktischer Leitfaden zur Anmeldung Ihres Fahrzeugs in Deutschland"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wer die Fahrzeugzulassung benötigt, wie der Prozess abläuft
+  und welche Unterlagen erforderlich sind. Anbieter und wichtige Details hier!
 draft: false
+meta_title: 'Fahrzeugzulassung in Deutschland: Prozess, Anforderungen & Kosten'
+title: 'Fahrzeugzulassung in Deutschland: Prozess, Anforderungen & Kosten'
+translationKey: germany-vehicle_registration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

@@ -1,13 +1,16 @@
 ---
-translationKey: poland-pit_tax_declaration
-title: "Deklaracja podatkowa PIT"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Ten przewodnik przedstawia, jak można złożyć deklarację podatkową PIT w Polsce, wraz z wymaganymi dokumentami i procedurą krok po kroku."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zebrać dokumenty, wypełnić formularz online i uniknąć
+  kar. Konieczne informacje dla każdej osoby osiągającej dochód w Polsce.
 draft: false
+meta_title: 'Podatek PIT w Polsce: Jak złożyć deklarację podatkową'
+title: 'Podatek PIT w Polsce: Jak złożyć deklarację podatkową'
+translationKey: poland-pit_tax_declaration
 ---
+
 
 ## Opis
 ### Co to jest?

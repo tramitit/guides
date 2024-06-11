@@ -1,13 +1,16 @@
 ---
-translationKey: austria-registration_information
-title: "Registrierungsinformationen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Registrierungsinformationen in Österreich"
-description: "Dieser Leitfaden bietet einen schrittweisen Prozess und die erforderlichen Dokumente für die Registrierung in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to register your residence in Austria, including the process,
+  necessary documents, and potential consequences of not registering on time.
 draft: false
+meta_title: 'Residence Registration in Austria: Procedure and Required Documents'
+title: 'Residence Registration in Austria: Procedure and Required Documents'
+translationKey: austria-registration_information
 ---
+
 
 ## Beschreibung
 ### Was ist das?

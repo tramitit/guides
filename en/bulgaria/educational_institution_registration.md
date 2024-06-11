@@ -1,14 +1,16 @@
 ---
-
-title: "Educational Institution Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn the process to enroll in schools, colleges or universities. Details
+  on required documents and steps for successful registration.
 draft: false
-translationKey: "bulgaria-educational_institution_registration"
+meta_title: Steps and Requirements for Educational Institution Registration
+title: Steps and Requirements for Educational Institution Registration
+translationKey: bulgaria-educational_institution_registration
 ---
+
 
 ## Description
 ### What is it?

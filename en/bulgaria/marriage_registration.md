@@ -1,13 +1,16 @@
 ---
-title: "Marriage registration in Bulgaria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Marriage registration in Bulgaria"
-description: "Detailed step-by-step guide on how to register a marriage in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Legal recognition of union in Bulgaria requires specific steps & documents.
+  Marriage can be registered by any couple, including foreigners, in the country.
 draft: false
-translationKey: "bulgaria-marriage_registration"
+meta_title: 'Bulgaria Marriage Registration: Procedures & Required Documents'
+title: 'Bulgaria Marriage Registration: Procedures & Required Documents'
+translationKey: bulgaria-marriage_registration
 ---
+
 
 ## Description
 ### What is it?

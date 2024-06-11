@@ -1,13 +1,16 @@
 ---
-translationKey: france-application_for_social_housing
-title: "Demande de logement social"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Guide étape par étape sur la manière de demander un logement social en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Discover social housing in France, its criteria, application process,
+  required documents. Assistance options available. Renewal required annually.
 draft: false
+meta_title: 'Logement Social en France: Eligibility, Application, Assistance'
+title: 'Logement Social en France: Eligibility, Application, Assistance'
+translationKey: france-application_for_social_housing
 ---
+
 
 ## Description
 

@@ -1,13 +1,16 @@
 ---
-title: "Sole Proprietorship Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "A comprehensive guide on how to register a Sole Proprietorship in Hungary"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to establish a sole proprietorship in Hungary and the necessary
+  steps, documents, and considerations. Ideal for freelancers and entrepreneurs.
 draft: false
-translationKey: "hungary-sole_proprietorship_registration"
+meta_title: 'Setting Up a Hungarian Sole Proprietorship: Procedure and Requirements'
+title: 'Setting Up a Hungarian Sole Proprietorship: Procedure and Requirements'
+translationKey: hungary-sole_proprietorship_registration
 ---
+
 
 ## Description
 ### What is it?

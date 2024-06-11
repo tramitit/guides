@@ -1,13 +1,17 @@
 ---
-translationKey: spain-paternity_leave_application
-title: "Solicitud de Licencia de Paternidad"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Esta es una guía paso a paso para solicitar la licencia de paternidad en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar la baja por paternidad en España, incluyendo
+  procesos, documentación requerida y detalles sobre el derecho igualitario desde
+  2021.
 draft: false
+meta_title: 'Baja por Paternidad en España: Procedimiento y Prestaciones'
+title: 'Baja por Paternidad en España: Procedimiento y Prestaciones'
+translationKey: spain-paternity_leave_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

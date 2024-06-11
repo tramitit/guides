@@ -1,13 +1,16 @@
 ---
-title: "Application for acquiring a building plot"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: 'Learn about acquiring a building plot: from identifying land and legal
+  checks to negotiation, financing, and required documents. Find providers for assistance.'
 draft: false
-translationKey: "czech-republic-application_for_acquiring_a_building_plot"
+meta_title: 'Building Plot Acquisition: Process, Documents, and Providers'
+title: 'Building Plot Acquisition: Process, Documents, and Providers'
+translationKey: czech-republic-application_for_acquiring_a_building_plot
 ---
+
 
 ## Description
 ### What is it?

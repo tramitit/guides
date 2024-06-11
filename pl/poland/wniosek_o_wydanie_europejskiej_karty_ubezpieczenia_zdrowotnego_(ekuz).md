@@ -1,13 +1,16 @@
 ---
-translationKey: poland-application_for_european_health_insurance_card_(ehic)
-title: "Wniosek o Europejską Kartę Ubezpieczenia Zdrowotnego (EHIC)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Jak ubiegać się o Europejską Kartę Ubezpieczenia Zdrowotnego (EHIC)"
-description: "Szczegółowy przewodnik o tym, jak ubiegać się o EHIC, który umożliwia posiadaczowi dostęp do opieki zdrowotnej świadczonej przez państwo podczas tymczasowego pobytu w innym kraju UE."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, kto potrzebuje EHIC, jak aplikować, jakie dokumenty są wymagane
+  i kto może załatwić za Ciebie. Pamiętaj o ważności i różnicach po brexicie.
 draft: false
+meta_title: Europejska Karta Ubezpieczenia Zdrowotnego (EHIC) - Wymogi i Procedura
+title: Europejska Karta Ubezpieczenia Zdrowotnego (EHIC) - Wymogi i Procedura
+translationKey: poland-application_for_european_health_insurance_card_(ehic)
 ---
+
 
 ## Opis
 ### Co to jest?

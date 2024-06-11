@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_inheritance_certificate
-title: "Αίτηση για πιστοποιητικό κληρονομιάς"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Αυτή είναι η μετα-περιγραφή"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Ανακαλύψτε τη διαδικασία υποβολής και έκδοσης πιστοποιητικού κληρονομιάς
+  στην Ελλάδα, συμπεριλαμβανομένων των απαιτούμενων εγγράφων και του κόστους.
 draft: false
+meta_title: 'Πιστοποιητικό Κληρονομιάς στην Ελλάδα: Οδηγός για Κληρονόμους'
+title: 'Πιστοποιητικό Κληρονομιάς στην Ελλάδα: Οδηγός για Κληρονόμους'
+translationKey: greece-application_for_inheritance_certificate
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-registry_office_-_birth_of_a_child
-title: "Matriční úřad - narození dítěte"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Průvodce, jak zapsat narození vašeho dítěte v České republice. Tento proces je klíčový pro zajištění občanství vašeho dítěte a sociálních výhod v budoucnosti."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Získejte rodný list pro dítě narozené v České republice. Postup zahrnuje
+  oznámení narození, dokumenty a kontakty matričního úřadu v Praze.
 draft: false
+meta_title: 'Registrace narození dítěte v České republice: Postup a dokumenty'
+title: 'Registrace narození dítěte v České republice: Postup a dokumenty'
+translationKey: czech republic-registry_office_-_birth_of_a_child
 ---
+
 
 ## Popis
 ### Co to je?

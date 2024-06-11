@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_marriage_certificate
-title: "Demande de certificat de mariage"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Comment demander un certificat de mariage en Belgique"
-description: "Étapes détaillées sur la manière de demander un certificat de mariage en Belgique"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Discover the process and documents required to obtain a marriage certificate
+  in Belgium, including apostille and translation steps. Find out more now!
 draft: false
+meta_title: Obtaining and Translating a Marriage Certificate in Belgium
+title: Obtaining and Translating a Marriage Certificate in Belgium
+translationKey: belgium-request_for_marriage_certificate
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

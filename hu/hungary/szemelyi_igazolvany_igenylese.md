@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-id_card_application
-title: "Személyi igazolvány kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Ez az egyszerű útmutató segítséget nyújt a személyi igazolvány kérvényezési folyamatában Magyarországon"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg hogyan igényelhető az ID kártya Magyarországon, szükséges
+  dokumentumok, adatvédelem fontossága. Keresse a helyi városházát az igényléshez.
 draft: false
+meta_title: Azonosító Kártya (ID Kártya) Igénylési Eljárás Magyarországon
+title: Azonosító Kártya (ID Kártya) Igénylési Eljárás Magyarországon
+translationKey: hungary-id_card_application
 ---
+
 
 ## Leírás
 ### Mi ez?

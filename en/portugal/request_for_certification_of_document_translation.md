@@ -1,13 +1,17 @@
 ---
-title: "Request for Certification of Document Translation"
-author: "Ricardo Batista"
-date: "2022-12-16"
-categories: ["Portugal"]
-meta title: "Certification of Document Translation - Detailed Request Procedure"
-description: "A step by step guide on how to request for certification of document translation."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2022-12-16'
+description: Learn how to certify document translations by professional translators.
+  Find out who needs it and where to get it done, including costs and required documents.
 draft: false
-translationKey: "portugal-request_for_certification_of_document_translation"
+meta title: Certification of Document Translation - Detailed Request Procedure
+meta_title: 'Certification of Document Translation: Process and Providers'
+title: 'Certification of Document Translation: Process and Providers'
+translationKey: portugal-request_for_certification_of_document_translation
 ---
+
 
 ## Description
 ### What is it?

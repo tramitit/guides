@@ -1,13 +1,16 @@
 ---
-translationKey: spain-sex_offense_certificate_request
-title: "Solicitud de Certificado de Delito Sexual"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Cómo Solicitar un Certificado de Delito Sexual"
-description: "Una guía sobre los pasos comunes para solicitar un Certificado de Delito Sexual"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Aprende cómo solicitar un Certificado de Delitos Sexuales, quién lo necesita,
+  el proceso de obtención, documentos requeridos y detalles adicionales importantes.
 draft: false
+meta_title: 'Certificado de Delitos Sexuales: Procedimiento y Requisitos'
+title: 'Certificado de Delitos Sexuales: Procedimiento y Requisitos'
+translationKey: spain-sex_offense_certificate_request
 ---
+
 
 ## Descripción
 

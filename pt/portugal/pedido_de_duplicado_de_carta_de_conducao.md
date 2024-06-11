@@ -1,13 +1,17 @@
 ---
-translationKey: portugal-request_for_duplicate_driving_license
-title: "Pedido de Carta de Condução Duplicada"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este é um guia detalhado sobre como solicitar uma carta de condução duplicada em Portugal, incluindo os documentos necessários, o procedimento a seguir e os custos."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como obter uma carta de condução duplicada em Portugal em caso
+  de perda, roubo ou dano. Passos, documentos necessários e entidades envolvidas no
+  processo.
 draft: false
+meta_title: 'Carta de Condução Duplicada em Portugal: Procedimentos e Requisitos'
+title: 'Carta de Condução Duplicada em Portugal: Procedimentos e Requisitos'
+translationKey: portugal-request_for_duplicate_driving_license
 ---
+
 
 ## Descrição
 ### O que é?

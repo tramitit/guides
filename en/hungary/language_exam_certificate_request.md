@@ -1,13 +1,16 @@
 ---
-title: "Language exam certificate request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Language Exam Certificate Request Guide"
-description: "A comprehensive guide on how to request a language exam certificate in Hungary based on multiple sources."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to obtain a language exam certificate, needed for citizenship
+  or academic pursuits, including steps, documents, and provider details.
 draft: false
-translationKey: "hungary-language_exam_certificate_request"
+meta_title: 'Language Exam Certificate: Procedure, Providers & Requirements'
+title: 'Language Exam Certificate: Procedure, Providers & Requirements'
+translationKey: hungary-language_exam_certificate_request
 ---
+
 
 ## Description
 ### What is it?

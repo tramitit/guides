@@ -1,13 +1,16 @@
 ---
-title: "Applying for Child Benefit (Kindergeld) in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "A step-by-step guide on how to apply for child benefit in Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to apply for Kindergeld in Germany - a monthly payment for
+  parents covering child-raising costs. Requirements, procedure, and providers included.
 draft: false
-translationKey: "germany-applying_for_child_benefit"
+meta_title: 'German Child Benefit (Kindergeld): Application Process & Requirements'
+title: 'German Child Benefit (Kindergeld): Application Process & Requirements'
+translationKey: germany-applying_for_child_benefit
 ---
+
 
 ## Description
 ### What is it?

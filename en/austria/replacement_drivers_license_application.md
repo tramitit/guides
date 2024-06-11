@@ -1,13 +1,16 @@
 ---
-title: "Replacement Driver's License Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Detailed Steps to Apply for a Replacement Driver's License in Austria"
-description: "In this guide, we provide step by step process on how to apply for a replacement driver's license in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to replace your Austrian driver's license due to loss, damage,
+  or updates. Includes procedure, required documents, and regional variations.
 draft: false
-translationKey: "austria-replacement_drivers_license_application"
+meta_title: 'Replacing Your Driver''s License in Austria: Guide & Procedure'
+title: 'Replacing Your Driver''s License in Austria: Guide & Procedure'
+translationKey: austria-replacement_drivers_license_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-obtaining_a_drivers_license_for_newcomers
-title: "Dobivanje vozačke dozvole za novajlije"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Dobivanje vozačke dozvole u Hrvatskoj za novajlije"
-description: "Detaljan vodič za dobivanje vozačke dozvole u Hrvatskoj za novajlije."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: 'Upute za dobivanje vozačke dozvole u Hrvatskoj: autoškola, testovi,
+  vozački ispit, dokumenti. Pružatelji usluga, dodatne informacije.'
 draft: false
+meta_title: 'Proces dobivanja hrvatske vozačke dozvole: Savjeti i procedura'
+title: 'Proces dobivanja hrvatske vozačke dozvole: Savjeti i procedura'
+translationKey: croatia-obtaining_a_drivers_license_for_newcomers
 ---
+
 
 ## Opis
 ### Što je to?

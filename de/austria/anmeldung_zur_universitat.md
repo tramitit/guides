@@ -1,13 +1,16 @@
 ---
-translationKey: austria-university_registration
-title: "Universitätsanmeldung in Österreich"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Schritt-für-Schritt Verfahren zur Anmeldung an einer Universität in Österreich"
-description: "Detaillierte Anleitung zum Zulassungsverfahren an österreichischen Universitäten für EU- und Nicht-EU-Studenten."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie Schritte zur Universitätsregistrierung in Österreich für
+  EU- und Nicht-EU-Studierende. Zulassungsverfahren, Dokumente, Kosten und mehr erklärt.
 draft: false
+meta_title: 'Studieren in Österreich: Ein Leitfaden für internationale Studierende'
+title: 'Studieren in Österreich: Ein Leitfaden für internationale Studierende'
+translationKey: austria-university_registration
 ---
+
 
 ## Beschreibung
 ### Was ist es?

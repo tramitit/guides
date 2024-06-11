@@ -1,13 +1,16 @@
 ---
-translationKey: austria-apostille_application
-title: "Apostille Antrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Ein Leitfaden zur Apostille Anwendung"
-description: "Ein umfassender Leitfaden zur Apostille-Anwendung für verschiedene Zwecke"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wer eine Apostille benötigt, das Verfahren zur Beantragung,
+  erforderliche Dokumente, Anbieter, Kosten und weitere Details. Planen Sie frühzeitig!
 draft: false
+meta_title: 'Apostille: Internationales Zertifikat für Dokumente'
+title: 'Apostille: Internationales Zertifikat für Dokumente'
+translationKey: austria-apostille_application
 ---
+
 
 ## Beschreibung
 

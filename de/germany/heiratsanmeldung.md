@@ -1,13 +1,16 @@
 ---
-translationKey: germany-marriage_registration
-title: "Eheschließung in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Schritte zur Registrierung einer Eheschließung in Deutschland"
-description: "Ein umfassender Leitfaden zur Registrierung einer Eheschließung in Deutschland"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie in Deutschland heiraten können. Schritt-für-Schritt-Anleitung,
+  benötigte Dokumente, Anbieter und Tipps für einen reibungslosen Prozess.
 draft: false
+meta_title: 'Eheschließung in Deutschland: Ablauf, Unterlagen & Anbieter'
+title: 'Eheschließung in Deutschland: Ablauf, Unterlagen & Anbieter'
+translationKey: germany-marriage_registration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

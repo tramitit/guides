@@ -1,13 +1,16 @@
 ---
-title: "Medical Legal Institute"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "This is a guide to understanding and navigating the Medical Legal Institute in Romania, as well as details regarding legal statuses and rights in various European countries."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Guide on obtaining medical legal certifications, essential documents,
+  and laws for studying and working in Romania, UK, Netherlands, and Germany.
 draft: false
-translationKey: "romania-medical_legal_institute"
+meta_title: Understanding Medical Legal Certifications in Europe
+title: Understanding Medical Legal Certifications in Europe
+translationKey: romania-medical_legal_institute
 ---
+
 
 ## Description
 ### What is it?

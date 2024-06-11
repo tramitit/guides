@@ -1,13 +1,16 @@
 ---
-translationKey: romania-drivers_license
-title: "Permis de conducere în România"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Cum să obții un permis de conducere în România"
-description: "Un ghid pas cu pas despre cum să obții un permis de conducere în România."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum poți obține un permis de conducere românesc, procedurile necesare
+  și documentele obligatorii. Furnizori de încredere disponibili pentru tine.
 draft: false
+meta_title: 'Permis de Conducere în România: Proceduri și Cerințe'
+title: 'Permis de Conducere în România: Proceduri și Cerințe'
+translationKey: romania-drivers_license
 ---
+
 
 ## Descriere
 ### Ce este?

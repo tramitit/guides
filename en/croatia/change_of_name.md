@@ -1,13 +1,16 @@
 ---
-title: "Change of Name"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Changing Your Name Step-by-Step Guide"
-description: "Detailed step-by-step guide to get you through the process of how to change your name or alter details that represent your identity."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Discover steps for a name change, including reasons, required documents,
+  and agencies. Ideal for legal purposes, security, gaming, and events customization.
 draft: false
-translationKey: "croatia-change_of_name"
+meta_title: 'Name Change Guide: Legal and Personal Considerations'
+title: 'Name Change Guide: Legal and Personal Considerations'
+translationKey: croatia-change_of_name
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Residence registration for foreigners"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Your comprehensive guide to registering your residence as a foreigner in the Czech Republic"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to register your residence in Czech Republic with the Foreign
+  Police Department. Find out procedures, required documents, and provider details.
 draft: false
-translationKey: "czech-republic-residence_registration_for_foreigners"
+meta_title: 'Czech Residence Registration: Process and Required Documents'
+title: 'Czech Residence Registration: Process and Required Documents'
+translationKey: czech-republic-residence_registration_for_foreigners
 ---
+
 
 ## Description
 ### What is it?

@@ -1,14 +1,16 @@
 ---
-
-title: "Applying for Maternity Benefit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Guide to Apply for Maternity Benefit in Germany"
-description: "This is a detailed guide on the process of applying for maternity benefit in Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn about maternity benefit in Germany - who needs it, how to apply,
+  required documents, and key details. Get financial help during maternity leave.
 draft: false
-translationKey: "germany-applying_for_maternity_benefit"
+meta_title: 'Maternity Benefit in Germany: Guide to Financial Support'
+title: 'Maternity Benefit in Germany: Guide to Financial Support'
+translationKey: germany-applying_for_maternity_benefit
 ---
+
 
 ## Description
 ### What is it?

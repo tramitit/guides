@@ -1,13 +1,16 @@
 ---
-title: "Rental Assistance Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn about the rental assistance application process, eligibility criteria,
+  required documents, and providers. Get financial aid for rent today!
 draft: false
-translationKey: "spain-rental_assistance_application"
+meta_title: 'Rental Assistance Application: Process, Eligibility, & Providers'
+title: 'Rental Assistance Application: Process, Eligibility, & Providers'
+translationKey: spain-rental_assistance_application
 ---
+
 
 ## Description
 ### What is it?

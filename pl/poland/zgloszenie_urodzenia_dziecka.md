@@ -1,13 +1,16 @@
 ---
-translationKey: poland-child_birth_registration
-title: "Rejestracja urodzenia dziecka"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Krok po kroku instrukcja dotycząca rejestracji urodzenia dziecka w Polsce."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Rejestracja dziecka daje mu prawa obywatelskie i do opieki zdrowotnej.
+  Dowiedz się jak zarejestrować urodzenie w USC, potrzebne dokumenty i dodatkowe kroki.
 draft: false
+meta_title: 'Rejestracja urodzenia dziecka w Polsce: Procedura i dokumenty'
+title: 'Rejestracja urodzenia dziecka w Polsce: Procedura i dokumenty'
+translationKey: poland-child_birth_registration
 ---
+
 
 ## Opis
 ### Co to jest?

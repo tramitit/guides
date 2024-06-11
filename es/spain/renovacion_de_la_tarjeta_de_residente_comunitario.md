@@ -1,13 +1,16 @@
 ---
-translationKey: spain-eu_resident_card_renewal
-title: "Renovación de la Tarjeta de Residencia de la UE"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Una guía completa sobre cómo renovar la Tarjeta de Residencia de la UE en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Aprende a renovar tu Tarjeta TIE en España. Instrucciones claras sobre
+  documentos, tarifas y programación de citas.
 draft: false
+meta_title: 'Renovación de la Tarjeta TIE en España: Guía Paso a Paso'
+title: 'Renovación de la Tarjeta TIE en España: Guía Paso a Paso'
+translationKey: spain-eu_resident_card_renewal
 ---
+
 
 ## Descripción
 ### ¿Qué es?

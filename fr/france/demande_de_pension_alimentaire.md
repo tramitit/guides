@@ -1,13 +1,16 @@
 ---
-translationKey: france-alimony_application
-title: "Demande de pension alimentaire en France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Demander une pension alimentaire en France : un guide complet"
-description: "Ce guide complet explique le processus de demande de pension alimentaire en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Guide complet pour comprendre et demander une pension alimentaire après
+  une séparation en France. Découvrez la procédure, les documents requis et les prestataires.
 draft: false
+meta_title: Comprendre et Demander une Pension Alimentaire en France
+title: Comprendre et Demander une Pension Alimentaire en France
+translationKey: france-alimony_application
 ---
+
 
 ## Description
 

@@ -1,13 +1,16 @@
 ---
-title: "Issuance of Croatian Citizenship Certificate"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Issuance of Croatian Citizenship Certificate Guide"
-description: "Detailed steps for obtaining a Croatian citizenship certificate."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to secure a Croatian citizenship certificate through descent,
+  marriage, or residency. Get to know required documents and procedures for verification.
 draft: false
-translationKey: "croatia-issuance_of_citizenship_certificate"
+meta_title: Obtain Croatian Citizenship Certificate Process & Documents
+title: Obtain Croatian Citizenship Certificate Process & Documents
+translationKey: croatia-issuance_of_citizenship_certificate
 ---
+
 
 ## Description
 ### What is it?

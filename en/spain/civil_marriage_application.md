@@ -1,13 +1,16 @@
 ---
-title: "Civil Marriage Application in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Civil Marriage Application in Spain: A Step-by-Step Guide"
-description: "A comprehensive guide on how to apply for a civil marriage in Spain, understanding the procedures, required documents, and potential providers."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn the steps and required documents for legally registering a civil
+  marriage in Spain, including the necessary translations and legalizations.
 draft: false
-translationKey: "spain-civil_marriage_application"
+meta_title: Civil Marriage Application Process and Requirements in Spain
+title: Civil Marriage Application Process and Requirements in Spain
+translationKey: spain-civil_marriage_application
 ---
+
 
 ## Description
 ### What is it?

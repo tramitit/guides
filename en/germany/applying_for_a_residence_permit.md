@@ -1,13 +1,16 @@
 ---
-title: "Applying for a Residence Permit in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Applying for a Residence Permit in Germany"
-description: "Detailed guide on the procedure, requirements and additional steps for applying for a residence permit in Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to apply for a German residence permit with necessary documents
+  and steps. Stay informed about requirements and avoid complications in the process.
 draft: false
-translationKey: "germany-applying_for_a_residence_permit"
+meta_title: 'Applying for a Residence Permit in Germany: Procedure & Documents'
+title: 'Applying for a Residence Permit in Germany: Procedure & Documents'
+translationKey: germany-applying_for_a_residence_permit
 ---
+
 
 ## Description
 ### What is it?

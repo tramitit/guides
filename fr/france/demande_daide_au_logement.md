@@ -1,13 +1,16 @@
 ---
-translationKey: france-housing_assistance_application
-title: "Demande d'aide au logement"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Guide complet sur la demande d'aide au logement en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Obtenez une aide financière de la CAF pour votre logement. Découvrez
+  la procédure, les documents nécessaires et des détails utiles en France.
 draft: false
+meta_title: 'Aide au Logement: Procédure, Documents Requis, Détails'
+title: 'Aide au Logement: Procédure, Documents Requis, Détails'
+translationKey: france-housing_assistance_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est ?

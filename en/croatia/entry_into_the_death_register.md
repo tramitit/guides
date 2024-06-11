@@ -1,13 +1,16 @@
 ---
-title: "Entry into the death register"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Detailing the procedure for entry into the death register in Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to officially record a death in Croatia by following the step-by-step
+  procedure. Obtain necessary documents and find a local office for registration.
 draft: false
-translationKey: "croatia-entry_into_the_death_register"
+meta_title: 'Death Register Entry in Croatia: Procedure & Requirements'
+title: 'Death Register Entry in Croatia: Procedure & Requirements'
+translationKey: croatia-entry_into_the_death_register
 ---
+
 
 ## Description
 ### What is it?

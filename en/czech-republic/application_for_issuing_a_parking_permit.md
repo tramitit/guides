@@ -1,13 +1,16 @@
 ---
-title: "Application for Issuing a Parking Permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "This is a comprehensive guide on how to acquire a parking permit in the Czech Republic, specifically in the region of Prague."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to get a parking permit in Prague, Czech Republic. Follow the
+  procedure, gather required documents, and understand parking zone details and costs.
 draft: false
-translationKey: "czech-republic-application_for_issuing_a_parking_permit"
+meta_title: Essential Guide to Getting a Parking Permit in Prague, Czech Republic
+title: Essential Guide to Getting a Parking Permit in Prague, Czech Republic
+translationKey: czech-republic-application_for_issuing_a_parking_permit
 ---
+
 
 ## Description
 ### What is it?

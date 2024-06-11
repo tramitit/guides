@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-application_for_social_scholarship
-title: "Žiadosť o Sociálnu Stipendiu na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Podrobný sprievodca, ako sa uchádzať o sociálnu štipendiu na Slovensku."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Získajte informácie o sociálnom štipendiu na Slovensku, uistite sa o
+  kritériách, zozbierajte potrebné doklady a postupujte podľa detailného návodu.
 draft: false
+meta_title: 'Sociálne štipendium na Slovensku: Podmienky, Dokumenty, Postup'
+title: 'Sociálne štipendium na Slovensku: Podmienky, Dokumenty, Postup'
+translationKey: slovakia-application_for_social_scholarship
 ---
+
 
 ## Popis
 ### Čo je to?

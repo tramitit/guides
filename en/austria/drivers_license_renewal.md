@@ -1,13 +1,16 @@
 ---
-title: "Driver's License Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Complete guide on renewing your driver's license"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how and who needs to renew their Austrian driver's license, with
+  steps, documents required, and consequences of not renewing promptly.
 draft: false
-translationKey: "austria-drivers_license_renewal"
+meta_title: 'Austria Driver''s License Renewal: How, Who, and Required Documents'
+title: 'Austria Driver''s License Renewal: How, Who, and Required Documents'
+translationKey: austria-drivers_license_renewal
 ---
+
 
 ## Description
 ### What is it?

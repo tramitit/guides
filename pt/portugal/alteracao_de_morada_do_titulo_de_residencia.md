@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-change_of_address_on_residence_permit
-title: "Alteração de Endereço no Título de Residência"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Um guia abrangente sobre como alterar o endereço no seu Título de Residência Português."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como atualizar o endereço em seu Cartão de Residência em Portugal
+  ao mudar de residência no país. Procedimento online e na SEF, com documentos requeridos.
 draft: false
+meta_title: Atualização de Endereço no Cartão de Residência em Portugal
+title: Atualização de Endereço no Cartão de Residência em Portugal
+translationKey: portugal-change_of_address_on_residence_permit
 ---
+
 
 ## Descrição
 ### O que é isso?

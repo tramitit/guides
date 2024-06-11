@@ -1,13 +1,16 @@
 ---
-translationKey: spain-drivers_license_renewal
-title: "Renovación de Licencia de Conducir en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Renovación de Licencia de Conducir"
-description: "Guía paso a paso para renovar tu licencia de conducir en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo renovar tu licencia de conducir en España. Proceso, documentos
+  necesarios, costos y proveedores que pueden ayudarte. ¡Mantén tu licencia al día!
 draft: false
+meta_title: 'Renovación de Licencia de Conducir en España: Proceso y Requisitos'
+title: 'Renovación de Licencia de Conducir en España: Proceso y Requisitos'
+translationKey: spain-drivers_license_renewal
 ---
+
 
 ## Descripción
 

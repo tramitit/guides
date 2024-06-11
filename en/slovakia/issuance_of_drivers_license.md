@@ -1,13 +1,16 @@
 ---
-title: "Issuance of driver's license in Slovakia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This is a comprehensive guide on how to apply for a driver's license in Slovakia. Covering from general requirements to application procedure details, this guide aims to provide all the necessary information for both locals and foreigners looking to drive legally in Slovakia."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to get a driver's license in Slovakia, including required documents,
+  process steps, and essential information for residents and visitors.
 draft: false
-translationKey: "slovakia-issuance_of_drivers_license"
+meta_title: 'Obtaining a Driver''s License in Slovakia: A Complete Guide'
+title: 'Obtaining a Driver''s License in Slovakia: A Complete Guide'
+translationKey: slovakia-issuance_of_drivers_license
 ---
+
 
 ## Description
 ### What is it?

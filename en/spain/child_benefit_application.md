@@ -1,13 +1,16 @@
 ---
-title: "Child Benefit Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guide to Child Benefit Application in Spain"
-description: "A step-by-step guide on applying for Child Benefit in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to apply for financial aid in Spain for families with children.
+  Check eligibility criteria, required documents, and monthly deposit process.
 draft: false
-translationKey: "spain-child_benefit_application"
+meta_title: 'Child Benefit in Spain: Eligibility, Application, and Documents'
+title: 'Child Benefit in Spain: Eligibility, Application, and Documents'
+translationKey: spain-child_benefit_application
 ---
+
 
 ## Description
 ### What is it?

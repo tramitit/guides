@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-report_change_of_address
-title: "Signaler un changement d'adresse"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Comment Signaler un Changement d'Adresse en Belgique"
-description: "Procédure étape par étape sur la façon de signaler un changement d'adresse en Belgique."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez comment déclarer un changement d'adresse en Belgique. Procédures,
+  documents requis et détails pour mettre à jour votre information résidentielle.
 draft: false
+meta_title: 'Changement d''adresse en Belgique: Rapport et Procédure'
+title: 'Changement d''adresse en Belgique: Rapport et Procédure'
+translationKey: belgium-report_change_of_address
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

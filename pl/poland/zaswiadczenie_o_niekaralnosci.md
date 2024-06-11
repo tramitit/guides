@@ -1,13 +1,16 @@
 ---
-translationKey: poland-certificate_of_no_criminal_record
-title: "Oświadczenie o braku przeszłości kryminalnej"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Szczegółowy przewodnik dotyczący uzyskania oświadczenia o braku przeszłości kryminalnej w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak uzyskać świadectwo o niekaralności w Polsce. Kto go
+  potrzebuje, wymagane dokumenty, procedura, usługodawcy, koszty i dodatkowe informacje.
 draft: false
+meta_title: 'Świadectwo o niekaralności w Polsce: procedura, dokumenty, usługodawcy'
+title: 'Świadectwo o niekaralności w Polsce: procedura, dokumenty, usługodawcy'
+translationKey: poland-certificate_of_no_criminal_record
 ---
+
 
 ## Opis
 ### Co to jest?

@@ -1,14 +1,16 @@
 ---
-
-title: "Obtaining Study Visa"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "This detailed guide walks you through the process of obtaining a student visa, including eligibility criteria, procedure, required documents, and more."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how to apply for a study visa as a Romanian studying abroad. Understand
+  the procedure, required documents, and key details for a successful application.
 draft: false
-translationKey: "romania-obtaining_study_visa"
+meta_title: 'Study Visa Guide for Romanians: Application Process & Requirements'
+title: 'Study Visa Guide for Romanians: Application Process & Requirements'
+translationKey: romania-obtaining_study_visa
 ---
+
 
 ## Description
 ### What is it?

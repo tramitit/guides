@@ -1,13 +1,16 @@
 ---
-title: "Name change registration in Hungary"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Guide to Name Change Registration in Hungary"
-description: "A comprehensive guide to registering a name change in Hungary, including the necessary procedures, required documents, and service providers."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Discover the legal process to change your name in Hungary, including
+  required documents and official fees. Ideal for residents seeking a name alteration.
 draft: false
-translationKey: "hungary-name_change_registration"
+meta_title: 'How to Register a Name Change in Hungary: Guide & Costs'
+title: 'How to Register a Name Change in Hungary: Guide & Costs'
+translationKey: hungary-name_change_registration
 ---
+
 
 ## Description
 ### What is it?

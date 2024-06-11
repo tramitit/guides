@@ -1,13 +1,18 @@
 ---
-title: "Empadronamiento Procedure in Barcelona"
-meta_title: "Empadronamiento Procedure in Barcelona"
-description: "Guide to registering residents' personal data in Barcelona"
-date: 2024-05-22T05:00:00Z
-categories: ["Spain"]
-author: "Ricardo Batista"
-tags: ["Local"]
+author: Ricardo Batista
+categories:
+- Spain
+date: 2024-05-22 05:00:00+00:00
+description: Learn how to register for empadronamiento in Spain if staying for over
+  six months. Find required documents, providers, and key details to avoid issues
+  later on.
 draft: false
+meta_title: 'Empadronamiento in Spain: Registration Process and Requirements'
+tags:
+- Local
+title: 'Empadronamiento in Spain: Registration Process and Requirements'
 ---
+
 
 ## Description
 

@@ -1,13 +1,16 @@
 ---
-title: "Marriage registration in Hungary"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Marriage registration in Hungary"
-description: "A detailed guide on how to register your marriage in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn the step-by-step process to legally marry in Hungary with both
+  civil and church ceremonies. Ideal for Hungarian citizens, residents, and foreigners.
 draft: false
-translationKey: "hungary-marriage_registration"
+meta_title: 'Getting Married in Hungary: Civil & Church Ceremony Guide'
+title: 'Getting Married in Hungary: Civil & Church Ceremony Guide'
+translationKey: hungary-marriage_registration
 ---
+
 
 ## Description
 ### What is it?

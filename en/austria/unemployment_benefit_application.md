@@ -1,13 +1,16 @@
 ---
-title: "Unemployment Benefit Application: Austria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Step by step on how to apply for unemployment benefits in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to apply for Arbeitslosengeld in Austria if you become unemployed.
+  Discover the steps, required documents, and provider details from AMS.
 draft: false
-translationKey: "austria-unemployment_benefit_application"
+meta_title: 'Unemployment Benefits in Austria: How to Apply and Requirements'
+title: 'Unemployment Benefits in Austria: How to Apply and Requirements'
+translationKey: austria-unemployment_benefit_application
 ---
+
 
 ## Description
 ### What is it?

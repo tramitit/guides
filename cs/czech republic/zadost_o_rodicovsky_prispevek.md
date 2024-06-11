@@ -1,13 +1,17 @@
 ---
-translationKey: czech republic-application_for_parental_allowance
-title: "Žádost o rodičovský příspěvek"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Detailní průvodce při žádání o rodičovský příspěvek v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Získejte informace o rodinném příspěvku v České republice pro rodiče
+  pečující o děti do 4 let. Postup, požadavky a kontakt na Úřad práce pro získání
+  dávky.
 draft: false
+meta_title: Rodinný příspěvek v České republice - Jak a kdo ho může získat
+title: Rodinný příspěvek v České republice - Jak a kdo ho může získat
+translationKey: czech republic-application_for_parental_allowance
 ---
+
 
 ## Popis
 ### Co to je?

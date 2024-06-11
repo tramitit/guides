@@ -1,13 +1,16 @@
 ---
-title: "Return Authorization"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Detailed step by step guide on how to do Return Authorization for products from different providers."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to request a Return Authorization for refund or exchange, including
+  necessary documents and procedures. Discover providers for hassle-free returns.
 draft: false
-translationKey: "spain-return_authorization"
+meta_title: 'Return Authorization Process: How to Return Purchased Products'
+title: 'Return Authorization Process: How to Return Purchased Products'
+translationKey: spain-return_authorization
 ---
+
 
 ## Description
 ### What is it?

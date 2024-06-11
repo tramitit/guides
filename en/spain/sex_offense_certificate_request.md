@@ -1,13 +1,16 @@
 ---
-title: "Sex Offense Certificate Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "How to Request a Sex Offense Certificate"
-description: "A guide on the common steps to request a Sex Offense Certificate"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to obtain a Sex Offense Certificate for job applications or
+  legal needs. Understand the process, required documents, and provider details efficiently.
 draft: false
-translationKey: "spain-sex_offense_certificate_request"
+meta_title: 'Sex Offense Certificate: Application Process & Requirements'
+title: 'Sex Offense Certificate: Application Process & Requirements'
+translationKey: spain-sex_offense_certificate_request
 ---
+
 
 ## Description
 

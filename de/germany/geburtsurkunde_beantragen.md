@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_a_birth_certificate
-title: "Beantragung einer Geburtsurkunde in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Schritt-für-Schritt-Anleitung zur Beantragung einer Geburtsurkunde in Deutschland"
-description: "Ein umfassender Leitfaden zur Beantragung einer Geburtsurkunde in Deutschland, den erforderlichen Dokumenten und dem beteiligten Verfahren."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie eine Geburtsurkunde beantragen, wer sie benötigt
+  und welche Dokumente erforderlich sind. Kosten, Anbieter und wichtige Details erklärt.
 draft: false
+meta_title: 'Geburtsurkunde in Deutschland beantragen: Prozess und Tipps'
+title: 'Geburtsurkunde in Deutschland beantragen: Prozess und Tipps'
+translationKey: germany-applying_for_a_birth_certificate
 ---
+
 
 ## Beschreibung
 ### Was ist das?

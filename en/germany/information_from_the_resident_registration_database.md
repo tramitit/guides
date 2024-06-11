@@ -1,13 +1,16 @@
 ---
-title: "Information from the resident registration database"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to access resident registration data for genealogy or legal
+  reasons. Germany-specific steps provided. Certain requests may incur charges.
 draft: false
-translationKey: "germany-information_from_the_resident_registration_database"
+meta_title: 'Resident Registration Database Access: Procedures & Providers'
+title: 'Resident Registration Database Access: Procedures & Providers'
+translationKey: germany-information_from_the_resident_registration_database
 ---
+
 
 ## Description
 ### What is it?

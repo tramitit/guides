@@ -1,13 +1,16 @@
 ---
-title: "Marriage Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Step-by-step guide on obtaining a Marriage Certificate in Romania"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: 'Learn how to get a marriage certificate in Romania: steps, needed documents,
+  apostille info. Essential for legal purposes, including visas & heritage matters.'
 draft: false
-translationKey: "romania-marriage_certificate"
+meta_title: 'Obtaining Marriage Certificate in Romania: Process & Requirements'
+title: 'Obtaining Marriage Certificate in Romania: Process & Requirements'
+translationKey: romania-marriage_certificate
 ---
+
 
 ## Description
 ### What is it?

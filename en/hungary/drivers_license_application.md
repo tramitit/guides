@@ -1,13 +1,16 @@
 ---
-title: "Driver's license application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Driver's license application in Hungary"
-description: "A detailed guide on how to apply for a driver's license in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn about the steps to obtain a Hungarian driver's license, including
+  medical checks, theoretical and practical exams. For individuals aged 17+.
 draft: false
-translationKey: "hungary-drivers_license_application"
+meta_title: 'How to Get a Driver''s License in Hungary: Requirements & Procedure'
+title: 'How to Get a Driver''s License in Hungary: Requirements & Procedure'
+translationKey: hungary-drivers_license_application
 ---
+
 
 ## Description
 ### What is it?

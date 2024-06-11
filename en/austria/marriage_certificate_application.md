@@ -1,13 +1,16 @@
 ---
-title: "Marriage Certificate Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Marriage Certificate Application in Austria"
-description: "A step-by-step guide to the marriage certificate application process in Austria for both EU and non-EU citizens."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to apply for a marriage certificate in Austria, essential for
+  legal recognition, name changes, permits. EU/non-EU couples guide & documents needed.
 draft: false
-translationKey: "austria-marriage_certificate_application"
+meta_title: 'Marriage Certificate Application in Austria: Process & Requirements'
+title: 'Marriage Certificate Application in Austria: Process & Requirements'
+translationKey: austria-marriage_certificate_application
 ---
+
 
 ## Description
 ### What is it?

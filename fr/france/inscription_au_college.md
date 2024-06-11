@@ -1,13 +1,16 @@
 ---
-translationKey: france-middle_school_registration
-title: "Inscription au collège en France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide d'inscription au collège pour la France"
-description: "Un guide étape par étape sur comment inscrire votre enfant au collège en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Step-by-step instructions for parents on enrolling children aged 11-15
+  in French middle schools, including required documents and key details.
 draft: false
+meta_title: Guide to Enrolling Your Child in a French Middle School
+title: Guide to Enrolling Your Child in a French Middle School
+translationKey: france-middle_school_registration
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

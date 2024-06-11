@@ -1,13 +1,16 @@
 ---
-title: "Issuance of a residence permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Step-by-Step Guide to the Issuance of a Residence Permit"
-description: "Detailed guide for obtaining a residence permit in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Discover the steps to get a residence permit in Bulgaria for long-term
+  stays, including required documents and renewal options for up to 5 years.
 draft: false
-translationKey: "bulgaria-issuance_of_a_residence_permit"
+meta_title: 'Residence Permit in Bulgaria: How to Obtain and Renew'
+title: 'Residence Permit in Bulgaria: How to Obtain and Renew'
+translationKey: bulgaria-issuance_of_a_residence_permit
 ---
+
 
 ## Description
 ### What is it?

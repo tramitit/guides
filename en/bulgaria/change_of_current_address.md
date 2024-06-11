@@ -1,13 +1,17 @@
 ---
-title: "Change of current address"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn the essential process of changing your address, key steps, needed
+  documents, and reliable service providers. Ensure smooth transitions to your new
+  home.
 draft: false
-translationKey: "bulgaria-change_of_current_address"
+meta_title: 'How to Change Your Address: Essential Steps and Tips'
+title: 'How to Change Your Address: Essential Steps and Tips'
+translationKey: bulgaria-change_of_current_address
 ---
+
 
 ## Description
 ### What is it?

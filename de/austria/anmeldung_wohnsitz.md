@@ -1,13 +1,16 @@
 ---
-translationKey: austria-residence_registration
-title: "Anmeldung des Wohnsitzes"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Schritt-für-Schritt-Anleitung zur Wohnsitzanmeldung in Österreich und Deutschland"
-description: "Dieser Leitfaden bietet schrittweise Informationen zu den Anforderungen und Verfahren zur Wohnsitzanmeldung in Österreich und Deutschland."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: 'Erfahren Sie, wie Sie Ihre Adresse anmelden müssen: Verfahren, benötigte
+  Dokumente und Tipps. Informative Anleitung für Einheimische und Ausländer.'
 draft: false
+meta_title: 'Wohnsitzanmeldung in Deutschland und Österreich: Verfahren & Dokumente'
+title: 'Wohnsitzanmeldung in Deutschland und Österreich: Verfahren & Dokumente'
+translationKey: austria-residence_registration
 ---
+
 
 ## Beschreibung
 ### Was ist es?

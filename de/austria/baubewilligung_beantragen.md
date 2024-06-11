@@ -1,13 +1,16 @@
 ---
-translationKey: austria-building_permit_application
-title: "Baugenehmigungsantrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Schritt-für-Schritt-Anleitung zum Beantragen einer Baugenehmigung in Österreich"
-description: "Ein umfassender Leitfaden, wie man eine Baugenehmigung in Österreich beantragt, von der ersten Planung bis zur endgültigen Genehmigung."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wer eine Baugenehmigung benötigt und welche Schritte erforderlich
+  sind. Inklusive Listen der erforderlichen Dokumente und Anbieter in Österreich.
 draft: false
+meta_title: 'Baugenehmigung in Österreich: Verfahren, Dokumente & Anbieter'
+title: 'Baugenehmigung in Österreich: Verfahren, Dokumente & Anbieter'
+translationKey: austria-building_permit_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

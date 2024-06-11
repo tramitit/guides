@@ -1,13 +1,17 @@
 ---
-title: "Birth Declaration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guide on Declaring Birth in Italy"
-description: "Detailed procedure on declaring birth in Italy including required documents, providers and additional details"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to register a newborn in Italy through a Birth Declaration.
+  Process, documents needed & local providers offering this service within 10 days
+  of birth.
 draft: false
-translationKey: "italy-birth_declaration"
+meta_title: 'Italy Birth Declaration: Procedure, Required Docs & Providers'
+title: 'Italy Birth Declaration: Procedure, Required Docs & Providers'
+translationKey: italy-birth_declaration
 ---
+
 
 ## Description
 ### What is it?

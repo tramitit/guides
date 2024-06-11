@@ -1,13 +1,16 @@
 ---
-title: "Residence Certificate Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guidance on Residence Certificate Request in Italy"
-description: "A detailed guide on how to start your request for a residence certificate in Italy."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn about the procedure and required documents for obtaining a residence
+  certificate in Italy. Ensure timely registration to avoid legal issues and penalties.
 draft: false
-translationKey: "italy-residence_certificate_request"
+meta_title: 'Residence Certificate in Italy: Requirements & Process'
+title: 'Residence Certificate in Italy: Requirements & Process'
+translationKey: italy-residence_certificate_request
 ---
+
 
 ## Description
 ### What is it?

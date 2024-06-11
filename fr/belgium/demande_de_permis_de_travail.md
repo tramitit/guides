@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_work_permit
-title: "Demande de permis de travail"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Ce guide fournit une procédure pas à pas sur la façon de demander un permis de travail en Belgique."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez comment obtenir un permis de travail en Belgique pour les non-UE.
+  Étapes, types de permis, documents requis, et prestataires pour vous aider.
 draft: false
+meta_title: 'Obtenez un permis de travail en Belgique: Guide et Documents Requis'
+title: 'Obtenez un permis de travail en Belgique: Guide et Documents Requis'
+translationKey: belgium-request_for_work_permit
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

@@ -1,13 +1,16 @@
 ---
-translationKey: austria-vehicle_registration
-title: "Fahrzeuganmeldung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Fahrzeuganmeldung in Österreich"
-description: "Ein umfassender Leitfaden zur Fahrzeuganmeldung in Österreich"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihr Auto in Österreich anmelden. Schritt-für-Schritt
+  Anleitung, benötigte Unterlagen und Anbieter. Sicher und gesetzeskonform.
 draft: false
+meta_title: 'Fahrzeugzulassung in Österreich: Ablauf und erforderliche Dokumente'
+title: 'Fahrzeugzulassung in Österreich: Ablauf und erforderliche Dokumente'
+translationKey: austria-vehicle_registration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

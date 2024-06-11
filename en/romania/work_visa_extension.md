@@ -1,13 +1,16 @@
 ---
-title: "Work Visa Extension"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: 'Learn how to extend your Romanian work visa: Eligibility, required documents,
+  process steps, and key information for a smooth application.'
 draft: false
-translationKey: "romania-work_visa_extension"
+meta_title: 'Extend Your Romanian Work Visa: Procedures and Requirements'
+title: 'Extend Your Romanian Work Visa: Procedures and Requirements'
+translationKey: romania-work_visa_extension
 ---
+
 
 ## Description
 ### What is it?

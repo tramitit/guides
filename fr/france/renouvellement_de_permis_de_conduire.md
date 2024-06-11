@@ -1,13 +1,17 @@
 ---
-translationKey: france-drivers_license_renewal
-title: "Renouvellement de permis de conduire"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Comment renouveler un permis de conduire en France"
-description: "Guide étape par étape sur comment renouveler votre permis de conduire en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to renew your French driving license online through ANTS. Find
+  required documents, costs, and potential delays in processing. Stay legal on the
+  road!
 draft: false
+meta_title: Renewal of French Driving License - Procedure & Providers
+title: Renewal of French Driving License - Procedure & Providers
+translationKey: france-drivers_license_renewal
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

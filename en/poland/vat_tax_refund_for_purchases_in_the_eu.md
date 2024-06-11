@@ -1,13 +1,16 @@
 ---
-title: "VAT tax refund for purchases in the EU"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Detailed Guidance on VAT Refund in EU"
-description: "An in-depth guide to understanding and obtaining VAT refunds for purchases made in the EU, particularly focusing on Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how non-EU residents in Poland can reclaim VAT on purchases. Follow
+  the procedure, required documents, providers info, and eligibility criteria.
 draft: false
-translationKey: "poland-vat_tax_refund_for_purchases_in_the_eu"
+meta_title: Guide to VAT Refund for Non-EU Residents in Poland
+title: Guide to VAT Refund for Non-EU Residents in Poland
+translationKey: poland-vat_tax_refund_for_purchases_in_the_eu
 ---
+
 
 ## Description
 ### What is it?

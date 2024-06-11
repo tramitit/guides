@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-registration_in_the_waiting_registers
-title: "Inschrijving in de wachtregisters"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Dit is een metabeschrijving"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek hoe u zich kunt aanmelden voor wachtlijsten bij evenementen zoals
+  muziekfestivals. Leer de procedure, vereiste documenten en aanbieders kennen.
 draft: false
+meta_title: 'Wachtlijstregistratie voor evenementen: Procedure en vereisten'
+title: 'Wachtlijstregistratie voor evenementen: Procedure en vereisten'
+translationKey: belgium-registration_in_the_waiting_registers
 ---
+
 
 ## Beschrijving
 ### Wat is het?

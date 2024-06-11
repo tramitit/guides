@@ -1,13 +1,16 @@
 ---
-title: "Acquisition of Slovak citizenship"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to acquire Slovak citizenship by descent, marriage, or naturalization.
+  Requirements, procedures, and recommended providers for a smooth process.
 draft: false
-translationKey: "slovakia-acquisition_of_slovak_citizenship"
+meta_title: 'Slovak Republic Citizenship: Eligibility, Process & Providers'
+title: 'Slovak Republic Citizenship: Eligibility, Process & Providers'
+translationKey: slovakia-acquisition_of_slovak_citizenship
 ---
+
 
 ## Description
 

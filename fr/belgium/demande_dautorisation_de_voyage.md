@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_travel_authorization
-title: "Demande d'autorisation de voyage"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Ce guide complet étape par étape vous informe sur la manière de demander une autorisation de voyage. Idéal pour les voyageurs planifiant un voyage en Europe ou dans tout autre endroit nécessitant une autorisation de voyage."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Obtenez votre autorisation de voyage pour l'Europe. Suivez notre guide
+  complet pour citoyens américains, des documents requis aux étapes de la demande.
 draft: false
+meta_title: Guide des autorisations de voyage pour citoyens américains en 2021
+title: Guide des autorisations de voyage pour citoyens américains en 2021
+translationKey: belgium-request_for_travel_authorization
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

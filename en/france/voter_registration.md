@@ -1,13 +1,16 @@
 ---
-title: "Voter registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Voter Registration in France: A Step-by-Step Guide"
-description: "A comprehensive guide to help you understand and navigate the process of voter registration in France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how French citizens aged 18+ can register to vote, get on the electoral
+  list, and participate in elections. Includes procedures and necessary documents.
 draft: false
-translationKey: "france-voter_registration"
+meta_title: 'French Voter Registration: How to Register & Required Documents'
+title: 'French Voter Registration: How to Register & Required Documents'
+translationKey: france-voter_registration
 ---
+
 
 ## Description
 ### What is it?

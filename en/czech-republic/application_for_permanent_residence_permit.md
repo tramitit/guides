@@ -1,13 +1,17 @@
 ---
-title: "Application for Permanent Residence Permit in the Czech Republic"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Guidelines for Applying for Permanent Residence in the Czech Republic"
-description: "Step-by-step procedures for applying for a permanent residence permit in the Czech Republic."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to apply for a permanent residence permit in Czech Republic
+  for EU and non-EU citizens. Procedure, documents, timelines, and more explained
+  here.
 draft: false
-translationKey: "czech-republic-application_for_permanent_residence_permit"
+meta_title: 'Permanent Residence Permit in Czech Republic: Guide & Requirements'
+title: 'Permanent Residence Permit in Czech Republic: Guide & Requirements'
+translationKey: czech-republic-application_for_permanent_residence_permit
 ---
+
 
 ## Description
 ### What is it?

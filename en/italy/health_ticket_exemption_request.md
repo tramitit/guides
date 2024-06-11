@@ -1,13 +1,16 @@
 ---
-title: "Health Ticket Exemption Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Process for Requesting Health Ticket Exemptions in Italy"
-description: "A comprehensive guide on how to request health ticket exemptions in Italy, including required documents, procedure, and reliable providers." 
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Discover how to qualify and apply for healthcare cost exemptions in Italy,
+  essential documents needed, and trusted providers offering this service.
 draft: false
-translationKey: "italy-health_ticket_exemption_request"
+meta_title: 'Health Ticket Exemption in Italy: Guidelines and Providers'
+title: 'Health Ticket Exemption in Italy: Guidelines and Providers'
+translationKey: italy-health_ticket_exemption_request
 ---
+
 
 ## Description
 ### What is it?

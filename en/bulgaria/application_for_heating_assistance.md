@@ -1,13 +1,16 @@
 ---
-title: "Application for heating assistance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn about heating assistance for low-income households, eligibility
+  criteria, required documents, and how to apply to keep your home warm this winter.
 draft: false
-translationKey: "bulgaria-application_for_heating_assistance"
+meta_title: 'Heating Assistance: Financial Aid for Winter Heating Costs'
+title: 'Heating Assistance: Financial Aid for Winter Heating Costs'
+translationKey: bulgaria-application_for_heating_assistance
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Application for EFKA (Social Insurance Fund)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Applying for EFKA in Greece"
-description: "Step by step guide on applying for EFKA (Social Insurance Fund) in Greece"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn about EFKA, Greece's social insurance. Registration steps, required
+  documents, and providers. Essential for anyone working in Greece.
 draft: false
-translationKey: "greece-application_for_efka_(social_insurance_fund)"
+meta_title: 'EFKA: Greece''s Social Insurance Organization Guide and Steps'
+title: 'EFKA: Greece''s Social Insurance Organization Guide and Steps'
+translationKey: greece-application_for_efka_(social_insurance_fund)
 ---
+
 
 ## Description
 ### What is it?

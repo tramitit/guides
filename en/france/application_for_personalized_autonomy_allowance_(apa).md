@@ -1,13 +1,16 @@
 ---
-title: "Application for Personalized Autonomy Allowance (APA)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "How to Apply for Personalized Autonomy Allowance"
-description: "An explanatory guide on how to apply for France's Personalized Autonomy Allowance (APA)."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn about the French APA supporting elderly persons' autonomy with
+  assistance and care costs. Discover application steps, required documents, and providers.
 draft: false
-translationKey: "france-application_for_personalized_autonomy_allowance_(apa)"
+meta_title: French Personalized Autonomy Allowance (APA) Guide
+title: French Personalized Autonomy Allowance (APA) Guide
+translationKey: france-application_for_personalized_autonomy_allowance_(apa)
 ---
+
 
 ## Description
 ### What is it?

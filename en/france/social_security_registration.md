@@ -1,13 +1,17 @@
 ---
-title: "Social Security Registration in France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Registration guide for the French Social Security"
-description: "A comprehensive guide on how to register for the French Social Security system"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn the process of registering for French Social Security, required
+  documents, providers, and timelines. Essential for anyone living and working in
+  France.
 draft: false
-translationKey: "france-social_security_registration"
+meta_title: 'French Social Security Registration: How to Register in France'
+title: 'French Social Security Registration: How to Register in France'
+translationKey: france-social_security_registration
 ---
+
 
 ## Description
 ### What is it?

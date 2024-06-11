@@ -1,13 +1,16 @@
 ---
-translationKey: germany-requesting_a_certificate_of_enrollment
-title: "Anforderung eines Anmeldebescheinigung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Wie man eine Anmeldebescheinigung beantragt"
-description: "Ein umfassender Leitfaden, wie man eine Anmeldebescheinigung beantragt, die als Nachweis dient, dass ein Student an einer Bildungseinrichtung eingeschrieben ist."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, was ein Immatrikulationsnachweis ist, wer ihn benötigt
+  und wie man ihn beantragt. Enthält erforderliche Unterlagen und Anbieterdetails.
 draft: false
+meta_title: 'Immatrikulationsnachweis: Bedeutung, Anforderungen & Verfahren'
+title: 'Immatrikulationsnachweis: Bedeutung, Anforderungen & Verfahren'
+translationKey: germany-requesting_a_certificate_of_enrollment
 ---
+
 
 ## Beschreibung
 ### Was ist das?

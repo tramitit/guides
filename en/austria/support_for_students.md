@@ -1,13 +1,17 @@
 ---
-title: "Support for Students"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "A detailed guide to assist students based on experiences shared in Austria and how to budget in Vienna"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Navigate student life in Austria with scholarship info, budget tips,
+  and advice on Viennese culture. Ideal for students in Vienna or planning to study
+  there.
 draft: false
-translationKey: "austria-support_for_students"
+meta_title: 'Studying in Austria Guide: Scholarships, Budgeting & Viennese Life'
+title: 'Studying in Austria Guide: Scholarships, Budgeting & Viennese Life'
+translationKey: austria-support_for_students
 ---
+
 
 ## Description
 ### What is it?

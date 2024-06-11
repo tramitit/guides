@@ -1,13 +1,16 @@
 ---
-title: "Partnership Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "A guide to the partnership registration procedure in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: 'Registro de pareja de hecho en España: proceso, documentos necesarios
+  y beneficios para parejas, especialmente con miembros no-UE.'
 draft: false
-translationKey: "spain-partnership_registration"
+meta_title: 'Guía para registro de pareja de hecho en España: requisitos y proceso'
+title: 'Guía para registro de pareja de hecho en España: requisitos y proceso'
+translationKey: spain-partnership_registration
 ---
+
 
 ## Description
 

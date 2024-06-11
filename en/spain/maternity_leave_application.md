@@ -1,13 +1,16 @@
 ---
-title: "Maternity Leave Application in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "How to Apply for Maternity Leave in Spain"
-description: "Step-by-step procedure on how to apply for maternity leave in Spain."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn about the legal right for pregnant women to take 16 weeks off work
+  in Spain. Follow the steps to apply and find providers for assistance.
 draft: false
-translationKey: "spain-maternity_leave_application"
+meta_title: 'Maternity Leave in Spain: Rights, Procedure & Providers'
+title: 'Maternity Leave in Spain: Rights, Procedure & Providers'
+translationKey: spain-maternity_leave_application
 ---
+
 
 ## Description
 ### What is it?

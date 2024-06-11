@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_social_housing
-title: "Aanvraag voor Sociale Huurwoningen in Nederland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Netherlands"]
-meta_title: ""
-description: "Dit is een gids over hoe je sociale huurwoningen kunt aanvragen in Nederland."
+author: Ricardo Batista
+categories:
+- Netherlands
+date: '2024-06-07'
+description: Ontdek hoe sociale huisvesting werkt in Nederland voor mensen met een
+  laag inkomen. Leer over registratie, vereiste documenten, en wachttijden voor woningen.
 draft: false
+meta_title: 'Sociale Huisvesting in Nederland: Registratie en Procedure'
+title: 'Sociale Huisvesting in Nederland: Registratie en Procedure'
+translationKey: belgium-request_for_social_housing
 ---
+
 
 ## Beschrijving
 ### Wat is het?

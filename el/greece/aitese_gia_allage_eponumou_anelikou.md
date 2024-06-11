@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_minors_name_change
-title: "Αίτηση για αλλαγή ονόματος ανήλικου"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Διαδικασία για την υποβολή αίτησης για αλλαγή ονόματος ανήλικου"
-description: "Ένας λεπτομερής οδηγός σχετικά με το πώς να υποβάλετε αίτηση για τη διαδικασία αλλαγής ονόματος ανήλικου"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε πώς να αλλάξετε το όνομα ενός ανήλικου νόμιμα. Απαιτούνται έγγραφα
+  κηδεμονίας, συναίνεση γονέα και δικαστική έγκριση.
 draft: false
+meta_title: 'Αλλαγή Ονόματος Ανήλικου: Νόμιμη Διαδικασία & Απαιτούμενα Έγγραφα'
+title: 'Αλλαγή Ονόματος Ανήλικου: Νόμιμη Διαδικασία & Απαιτούμενα Έγγραφα'
+translationKey: greece-application_for_minors_name_change
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

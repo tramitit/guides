@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-obtaining_a_visa_for_foreigners
-title: "Pribavljanje vize za strance"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Vodič za pribavljanje vize za strance u Hrvatskoj"
-description: "Sveobuhvatan vodič za strance koji žele pribaviti vizu u Hrvatskoj."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to obtain a visa in Croatia, covering types of visas, application
+  process, required documents, and helpful tips for a successful application.
 draft: false
+meta_title: 'Guide to Getting a Visa in Croatia: Process, Documents & Tips'
+title: 'Guide to Getting a Visa in Croatia: Process, Documents & Tips'
+translationKey: croatia-obtaining_a_visa_for_foreigners
 ---
+
 
 ## Opis
 ### Što je to?

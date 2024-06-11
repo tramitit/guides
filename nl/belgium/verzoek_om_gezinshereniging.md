@@ -1,14 +1,16 @@
 ---
-translationKey: belgium-request_for_family_reunification
-
-title: "Verzoek om familiehereniging"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Dit is een gids over hoe je een verzoek om familiehereniging kunt indienen."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Discover how to apply for family reunification, required documents, processing
+  steps, and providers. Laws vary by country, seek embassy advice for details.
 draft: false
+meta_title: 'Gezinsvereniging Procedure: Aanvragen, Documenten & Aanbieders'
+title: 'Gezinsvereniging Procedure: Aanvragen, Documenten & Aanbieders'
+translationKey: belgium-request_for_family_reunification
 ---
+
 
 ## Beschrijving
 

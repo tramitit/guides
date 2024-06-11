@@ -1,14 +1,16 @@
 ---
-translationKey: italy-duplicate_identity_card_request
-
-title: "Richiesta di duplicato della carta d'identità"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Richiesta di duplicato della carta d'identità italiana"
-description: "Guida su come richiedere un duplicato della tua carta d'identità italiana"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Passo dopo passo per italiani o residenti in Italia che hanno perso le
+  carte d'identità originali. Requisiti, documenti necessari e notizie utili inclusi.
 draft: false
+meta_title: Guida per ottenere duplicata carta d'identità italiana
+title: Guida per ottenere duplicata carta d'identità italiana
+translationKey: italy-duplicate_identity_card_request
 ---
+
 
 ## Descrizione
 ### Che cos'è?

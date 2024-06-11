@@ -1,13 +1,16 @@
 ---
-translationKey: spain-unemployment_benefit_application
-title: "Solicitud de prestación por desempleo"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guía de solicitud de prestación por desempleo en España"
-description: "Una guía sencilla para solicitar prestaciones por desempleo en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar el paro en España, quién es elegible, documentos
+  necesarios y consideraciones importantes para mantener los beneficios.
 draft: false
+meta_title: 'Beneficio por Desempleo en España: Requisitos y Procedimiento'
+title: 'Beneficio por Desempleo en España: Requisitos y Procedimiento'
+translationKey: spain-unemployment_benefit_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

@@ -1,13 +1,16 @@
 ---
-title: "Request for birth certificates"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "This is a guide on how to request a pre-1895 birth certificate, presumably from Hungary. Note that church records are often used for this time period as governmental registration was not yet universal."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to obtain official birth records from Hungary for genealogy
+  or citizenship purposes. Follow steps to access church records and required documentation.
 draft: false
-translationKey: "hungary-request_for_birth_certificates"
+meta_title: 'Requesting Pre-1895 Birth Certificate in Hungary: Guide'
+title: 'Requesting Pre-1895 Birth Certificate in Hungary: Guide'
+translationKey: hungary-request_for_birth_certificates
 ---
+
 
 ## Description
 ### What is it?

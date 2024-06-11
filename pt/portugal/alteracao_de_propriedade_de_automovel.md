@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-change_of_car_ownership
-title: "Mudança de Propriedade de Veículo"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Guia para a Mudança de Propriedade de Veículo em Portugal"
-description: "Procedimento detalhado passo a passo sobre a Mudança de Propriedade de Veículo em Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como transferir legalmente a propriedade de um veículo em Portugal,
+  documentos necessários, prazos e custos envolvidos. Evite penalidades futuras!
 draft: false
+meta_title: 'Transferência de Propriedade de Veículo em Portugal: Como Fazer'
+title: 'Transferência de Propriedade de Veículo em Portugal: Como Fazer'
+translationKey: portugal-change_of_car_ownership
 ---
+
 
 ## Descrição
 ### O que é?

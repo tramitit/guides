@@ -1,13 +1,17 @@
 ---
-title: "Stay registration upon entering the country"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Stay Registration Guide for Croatia"
-description: "Detailed guide on the stay registration process upon entering Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn about the legal requirement for non-EU citizens to register their
+  stay in Croatia, important documents needed, and the process to follow to avoid
+  fines.
 draft: false
-translationKey: "croatia-stay_registration_upon_entering_the_country"
+meta_title: 'Stay Registration in Croatia: Requirements and Procedures'
+title: 'Stay Registration in Croatia: Requirements and Procedures'
+translationKey: croatia-stay_registration_upon_entering_the_country
 ---
+
 
 ## Description
 ### What is it?

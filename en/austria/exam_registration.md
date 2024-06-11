@@ -1,13 +1,16 @@
 ---
-title: "Exam Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Guide for Exams Registration"
-description: "This is a comprehensive guide on exam registration"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to register for exams like language tests, drone licenses &
+  more. Find steps, required documents, providers, and additional details here.
 draft: false
-translationKey: "austria-exam_registration"
+meta_title: 'Exam Registration Guide: Procedures, Requirements & Providers'
+title: 'Exam Registration Guide: Procedures, Requirements & Providers'
+translationKey: austria-exam_registration
 ---
+
 
 ## Description
 ### What is it?

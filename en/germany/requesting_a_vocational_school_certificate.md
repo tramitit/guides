@@ -1,13 +1,16 @@
 ---
-title: "Requesting a vocational school certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Requesting a Vocational School Certificate for Foreign Students in Germany"
-description: "Guide on how to request a vocational school certificate in Germany for foreign students"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Detailed guide for US students on how to request a vocational school
+  certificate in Germany, covering required documents, procedures, and available providers.
 draft: false
-translationKey: "germany-requesting_a_vocational_school_certificate"
+meta_title: 'Guide for Foreign Students: Vocational School Certificate in Germany'
+title: 'Guide for Foreign Students: Vocational School Certificate in Germany'
+translationKey: germany-requesting_a_vocational_school_certificate
 ---
+
 
 ## Description
 ### What is it?

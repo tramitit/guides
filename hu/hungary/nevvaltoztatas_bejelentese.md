@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-name_change_registration
-title: "Névváltozás regisztráció Magyarországon"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Útmutató a Névváltozás Regisztrációjához Magyarországon"
-description: "Kiterjedt útmutató a névváltozás regisztrálásáról Magyarországon, beleértve a szükséges eljárásokat, szükséges dokumentumokat és szolgáltatókat."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg a hivatalos eljárást a jogi név megváltoztatásához Magyarországon,
+  gyűjtse össze szükséges dokumentumait és ismerje fel a támogató szolgáltatókat.
 draft: false
+meta_title: 'Névváltoztatás Magyarországon: Eljárás, Dokumentumok, Szolgáltatók'
+title: 'Névváltoztatás Magyarországon: Eljárás, Dokumentumok, Szolgáltatók'
+translationKey: hungary-name_change_registration
 ---
+
 
 ## Leírás
 ### Mi is ez?

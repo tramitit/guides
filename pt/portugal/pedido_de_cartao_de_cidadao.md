@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_citizen_card
-title: "Pedido de Cartão de Cidadão"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este é um guia sobre como solicitar um cartão de cidadão em Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como obter o Cartão de Cidadão em Portugal, documentos necessários
+  e procedimentos. Inclui informações sobre prazos, custos e prestadores de serviços.
 draft: false
+meta_title: 'Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários'
+title: 'Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários'
+translationKey: portugal-request_for_citizen_card
 ---
+
 
 ## Descrição
 ### O que é?

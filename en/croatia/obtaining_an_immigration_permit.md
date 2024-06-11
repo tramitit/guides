@@ -1,13 +1,16 @@
 ---
-title: "Obtaining an Immigration Permit"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Guide to Obtaining an Immigration Permit in Croatia"
-description: "Step-by-step guide on how to go about the process of obtaining an immigration permit in Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to obtain a Croatia immigration permit for non-Croatian citizens
+  staying over 90 days. Detailed steps, required documents, and providers included.
 draft: false
-translationKey: "croatia-obtaining_an_immigration_permit"
+meta_title: 'Croatia Immigration Permit: Process and Requirements'
+title: 'Croatia Immigration Permit: Process and Requirements'
+translationKey: croatia-obtaining_an_immigration_permit
 ---
+
 
 ## Description
 ### What is it?

@@ -1,14 +1,17 @@
 ---
-translationKey: greece-application_for_a_small-scale_building_permit
-
-title: "Αίτηση για άδεια μικρής κλίμακας κτιρίου"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Ολοκληρωμένος Οδηγός για την Υποβολή Αίτησης για Άδεια Μικρής Κλίμακας Κτιρίου"
-description: "Αυτός ο οδηγός παρέχει μια περιεκτική διαδικασία βήμα προς βήμα για την απόκτηση μιας άδειας κατασκευής μικρής κλίμακας."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τι απαιτείται για να αποκτήσετε άδεια μικρής κλίμακας κτιριακής
+  κατασκευής. Πληροφορίες για τη διαδικασία, τα έγγραφα και τη συμμόρφωση με τους
+  νόμους.
 draft: false
+meta_title: 'Άδεια Μικρής Κλίμακας Κτιριακής Κατασκευής: Οδηγός & Απαιτήματα'
+title: 'Άδεια Μικρής Κλίμακας Κτιριακής Κατασκευής: Οδηγός & Απαιτήματα'
+translationKey: greece-application_for_a_small-scale_building_permit
 ---
+
 
 ## Περιγραφή
 ### Τι είναι αυτό;

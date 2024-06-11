@@ -1,13 +1,17 @@
 ---
-title: "Marriage Certificate in Poland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "This is a guide on obtaining a marriage certificate in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to get a marriage certificate in Poland for legal purposes
+  like immigration and name change. Includes required documents and the application
+  process.
 draft: false
-translationKey: "poland-marriage_certificate"
+meta_title: 'Obtaining a Marriage Certificate in Poland: Procedure & Requirements'
+title: 'Obtaining a Marriage Certificate in Poland: Procedure & Requirements'
+translationKey: poland-marriage_certificate
 ---
+
 
 ## Description
 ### What is it?

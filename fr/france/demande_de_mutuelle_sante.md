@@ -1,13 +1,16 @@
 ---
-translationKey: france-complementary_health_insurance_application
-title: "Demande d'Assurance Complémentaire Santé"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide de l'Assurance Complémentaire Santé en France"
-description: "Guide étape par étape pour faire une demande d'assurance complémentaire santé en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez la mutuelle santé en France et comment choisir la meilleure
+  assurance complémentaire. Étapes, documents requis et prestataires recommandés.
 draft: false
+meta_title: 'Assurance Santé Complémentaire en France: Guide et Procédure'
+title: 'Assurance Santé Complémentaire en France: Guide et Procédure'
+translationKey: france-complementary_health_insurance_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

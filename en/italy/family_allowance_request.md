@@ -1,13 +1,16 @@
 ---
-title: "Family Allowance Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Requesting Family Allowance in Italy"
-description: "A procedural guide to applying for a family allowance in Italy"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn who qualifies for state-provided family allowance in Italy, how
+  to apply via INPS, required documents, and updating procedures for benefits realization.
 draft: false
-translationKey: "italy-family_allowance_request"
+meta_title: 'Italian Family Allowance: Eligibility, Application, & Payments'
+title: 'Italian Family Allowance: Eligibility, Application, & Payments'
+translationKey: italy-family_allowance_request
 ---
+
 
 ## Description
 ### What is it?

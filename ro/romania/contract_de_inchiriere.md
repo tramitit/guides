@@ -1,13 +1,16 @@
 ---
-translationKey: romania-lease_agreement
-title: "Acord de Închiriere"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Înțelegerea Acordului de Închiriere în România"
-description: "Ghid despre cum să formulezi contracte de închiriere legale și obligatorii în România"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați pașii esențiali pentru redactarea și autentificarea unui contract
+  de închiriere conform legii române, documente necesare și furnizori recomandați.
 draft: false
+meta_title: Ghid complet pentru închirierea proprietăților în România
+title: Ghid complet pentru închirierea proprietăților în România
+translationKey: romania-lease_agreement
 ---
+
 
 ## Descriere
 ### Ce este?

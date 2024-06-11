@@ -1,13 +1,16 @@
 ---
-title: "Document Office Appointment Booking"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "A comprehensive guide to document office appointment booking in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to book appointments for renewing passports, driving licenses,
+  or Schengen visas. Important for travelers and ID document renewals in Hungary.
 draft: false
-translationKey: "hungary-document_office_appointment_booking"
+meta_title: 'Documentary Appointment Booking: How to Schedule and Manage'
+title: 'Documentary Appointment Booking: How to Schedule and Manage'
+translationKey: hungary-document_office_appointment_booking
 ---
+
 
 ## Description
 ### What is it?

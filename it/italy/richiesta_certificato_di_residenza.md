@@ -1,13 +1,16 @@
 ---
-translationKey: italy-residence_certificate_request
-title: "Richiesta di Certificato di Residenza"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guida alla Richiesta di Certificato di Residenza in Italia"
-description: "Una guida dettagliata su come avviare la tua richiesta di certificato di residenza in Italia."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere il certificato di residenza in Italia per cittadinanza,
+  scopi legali o personali. Procedura, documenti richiesti e info utili inclusi.
 draft: false
+meta_title: 'Certificato di Residenza in Italia: Guida Dettagliata'
+title: 'Certificato di Residenza in Italia: Guida Dettagliata'
+translationKey: italy-residence_certificate_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

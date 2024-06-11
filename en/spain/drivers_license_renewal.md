@@ -1,13 +1,16 @@
 ---
-title: "Driver's License Renewal in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Driver's License Renewal"
-description: "Step by step guide to renewing your driver's license in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to renew your Spanish driving license. Find out who needs it,
+  required documents, procedure, costs, and provider details. Ensure timely renewal!
 draft: false
-translationKey: "spain-drivers_license_renewal"
+meta_title: 'Spain Driver''s License Renewal Process: Requirements & Steps'
+title: 'Spain Driver''s License Renewal Process: Requirements & Steps'
+translationKey: spain-drivers_license_renewal
 ---
+
 
 ## Description
 

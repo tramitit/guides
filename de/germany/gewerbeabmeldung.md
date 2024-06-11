@@ -1,13 +1,16 @@
 ---
-translationKey: germany-business_deregistration
-title: "Gewerbeabmeldung in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Wie man ein Unternehmen in Deutschland abmeldet"
-description: "Schritt-für-Schritt-Anleitung zur Abmeldung eines Unternehmens in Deutschland"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie rechtlich korrekt ein Unternehmen in Deutschland
+  abmelden. Kostenlose Anleitung und wichtige Hinweise für Unternehmenseigentümer.
 draft: false
+meta_title: 'Geschäftsauflösung in Deutschland: Abmeldung richtig durchführen'
+title: 'Geschäftsauflösung in Deutschland: Abmeldung richtig durchführen'
+translationKey: germany-business_deregistration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

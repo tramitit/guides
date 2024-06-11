@@ -1,13 +1,16 @@
 ---
-title: "Issuance of duplicate birth certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Procedure for Issuing a Duplicate Birth Certificate in Poland"
-description: "Step-by-step guide on how to obtain a duplicate birth certificate in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn the process to get a legally recognized duplicate birth certificate
+  in Poland, essential info, required documents, and providers handling the issuance.
 draft: false
-translationKey: "poland-issuance_of_duplicate_birth_certificate"
+meta_title: How to Obtain a Duplicate Birth Certificate in Poland
+title: How to Obtain a Duplicate Birth Certificate in Poland
+translationKey: poland-issuance_of_duplicate_birth_certificate
 ---
+
 
 ## Description
 ### What is it?

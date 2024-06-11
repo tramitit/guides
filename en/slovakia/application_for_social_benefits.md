@@ -1,13 +1,16 @@
 ---
-title: "Application for social benefits"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Guide to applying for social benefits in Slovakia"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to apply for social benefits in Slovakia, determine eligibility,
+  required documents, and the application process to secure financial support.
 draft: false
-translationKey: "slovakia-application_for_social_benefits"
+meta_title: 'How to Apply for Social Benefits in Slovakia: A Step-by-Step Guide'
+title: 'How to Apply for Social Benefits in Slovakia: A Step-by-Step Guide'
+translationKey: slovakia-application_for_social_benefits
 ---
+
 
 ## Description
 ### What is it?

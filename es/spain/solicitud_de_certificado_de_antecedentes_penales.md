@@ -1,13 +1,16 @@
 ---
-translationKey: spain-criminal_background_certificate_request
-title: "Solicitud de Certificado de Antecedentes Penales"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Solicitud de Certificado de Antecedentes Penales en España"
-description: "Una guía completa sobre cómo solicitar un Certificado de Antecedentes Penales en España."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar un Certificado de Antecedentes Penales en España
+  a través del Ministerio de Justicia. Requisitos, procedimiento y costos detallados.
 draft: false
+meta_title: Cómo obtener un Certificado de Antecedentes Penales en España
+title: Cómo obtener un Certificado de Antecedentes Penales en España
+translationKey: spain-criminal_background_certificate_request
 ---
+
 
 ## Descripción
 ### ¿Qué es?

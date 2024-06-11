@@ -1,13 +1,16 @@
 ---
-translationKey: france-change_of_address
-title: "Changement d'adresse"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Ce guide vous aidera à comprendre comment changer votre adresse."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment modifier votre adresse sur Revolut, Vinted, Jeux olympiques,
+  etc. Processus, documents requis et conseils supplémentaires inclus.
 draft: false
+meta_title: Mise à jour de l'adresse sur différents services - Guide complet
+title: Mise à jour de l'adresse sur différents services - Guide complet
+translationKey: france-change_of_address
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

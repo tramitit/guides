@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-issuance_of_identity_card
-title: "Vydanie slovenského občianskeho preukazu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Komplexný sprievodca, ako vydať slovenský občiansky preukaz"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Zistite, kto potrebuje slovenský občiansky preukaz a ako ho získať. Požadované
+  doklady, postup a užitočné informácie. Platná aj ako cestovný doklad v EÚ.
 draft: false
+meta_title: 'Slovenská Občianska Preukazka: Požiadavky a Postup'
+title: 'Slovenská Občianska Preukazka: Požiadavky a Postup'
+translationKey: slovakia-issuance_of_identity_card
 ---
+
 
 
 ## Popis

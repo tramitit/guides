@@ -1,14 +1,16 @@
 ---
-
-title: "Student Loan Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Detailed Guide on Student Loan Application"
-description: "Comprehensive step-by-step guide to help students apply for loans"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn about student loans, the application process, required documents,
+  providers, and key details to consider before borrowing for education expenses.
 draft: false
-translationKey: "hungary-student_loan_application"
+meta_title: 'Student Loans: Guide for Applicants & Essential Details'
+title: 'Student Loans: Guide for Applicants & Essential Details'
+translationKey: hungary-student_loan_application
 ---
+
 
 ## Description
 ### What is it?

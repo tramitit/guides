@@ -1,13 +1,16 @@
 ---
-title: "Property Tax"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Property Tax in Romania: A Comprehensive Guide"
-description: "Learn about what property tax is, who needs to pay it, what the procedure is, and more."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how to pay property tax in Romania, including steps, required documents,
+  and potential providers to help you manage your property tax efficiently.
 draft: false
-translationKey: "romania-property_tax"
+meta_title: 'How to Pay Property Tax in Romania: Steps and Requirements'
+title: 'How to Pay Property Tax in Romania: Steps and Requirements'
+translationKey: romania-property_tax
 ---
+
 
 ## Description
 ### What is it?

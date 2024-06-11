@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-obtaining_a_firearms_license
-title: "Dobivanje dozvole za oružje"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Vodič za dobivanje dozvole za oružje u Hrvatskoj"
-description: "Sveobuhvatan vodič za dobivanje dozvole za oružje u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: 'Saznajte kako dobiti dozvolu za oružje u Hrvatskoj: od tečaja sigurnosti
+  do ishođenja dozvole, uz potrebne dokumente i informacije o davateljima usluga.'
 draft: false
+meta_title: 'Dozvola za oružje u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga'
+title: 'Dozvola za oružje u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga'
+translationKey: croatia-obtaining_a_firearms_license
 ---
+
 
 ## Opis
 ### Što je to?

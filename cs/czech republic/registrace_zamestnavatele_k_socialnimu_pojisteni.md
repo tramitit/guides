@@ -1,13 +1,17 @@
 ---
-translationKey: czech republic-employer_registration_for_social_insurance
-title: "Registrace zaměstnavatele na sociální pojištění"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Registrace zaměstnavatele na sociální pojištění v České republice"
-description: "Toto je kompletní průvodce, jak se zaregistrovat na sociální pojištění jako zaměstnavatel v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Získání identifikačního čísla, vyplnění formuláře a odevzdání na OSSZ.
+  Příspěvky platí všechny firmy s zaměstnanci. Nutno dodržovat předpisy a měsíční
+  platby.
 draft: false
+meta_title: Registrace zaměstnavatele do sociálního pojištění v České republice
+title: Registrace zaměstnavatele do sociálního pojištění v České republice
+translationKey: czech republic-employer_registration_for_social_insurance
 ---
+
 
 ## Popis
 ### Co to je?

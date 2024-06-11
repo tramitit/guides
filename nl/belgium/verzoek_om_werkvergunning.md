@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_work_permit
-title: "Aanvraag voor een werkvergunning"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Deze gids biedt een stapsgewijze procedure voor het aanvragen van een werkvergunning in België."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek hoe niet-EU-burgers een werkvergunning voor België kunnen verkrijgen,
+  inclusief types, procedure, vereiste documenten en aanbieders voor ondersteuning.
 draft: false
+meta_title: 'Werkvergunning in België: Procedure, Vereisten & Aanbieders'
+title: 'Werkvergunning in België: Procedure, Vereisten & Aanbieders'
+translationKey: belgium-request_for_work_permit
 ---
+
 
 ## Beschrijving
 ### Wat is het?

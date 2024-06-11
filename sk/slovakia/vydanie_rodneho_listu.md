@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-issuance_of_birth_certificate
-title: "Vydanie rodného listu na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Vydanie rodného listu na Slovensku: Komplexný sprievodca"
-description: "Detailné popis krokov potrebných na získanie rodného listu na Slovensku pre obyvateľov aj slovenských občanov žijúcich v zahraničí."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: 'Dozviete sa o získaní rodného listu na Slovensku: postup žiadosti, potrebné
+  dokumenty a udelenie certifikátu. Pozrite si aj dostupných poskytovateľov služieb.'
 draft: false
+meta_title: 'Rodný list v Slovensku: Postup, Dokumenty a Informácie'
+title: 'Rodný list v Slovensku: Postup, Dokumenty a Informácie'
+translationKey: slovakia-issuance_of_birth_certificate
 ---
+
 
 ## Popis
 ### Čo to je?

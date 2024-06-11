@@ -1,13 +1,16 @@
 ---
-title: "Income Tax Return Filing in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Guide to filing Income Tax Returns in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to file income tax return in Spain, including required documents
+  and online procedure. Find out who must submit and where to get help if needed.
 draft: false
-translationKey: "spain-income_tax_return_filing"
+meta_title: 'Filing Income Tax Return in Spain: Process & Requirements'
+title: 'Filing Income Tax Return in Spain: Process & Requirements'
+translationKey: spain-income_tax_return_filing
 ---
+
 
 ## Description
 ### What is it?

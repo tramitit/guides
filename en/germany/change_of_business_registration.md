@@ -1,13 +1,17 @@
 ---
-title: "Change of business registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "In-depth guide one how to change business registration in Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to update your business details with the Gewerbeamt if you
+  relocate or change business type in Germany. Find required documents and procedure
+  details.
 draft: false
-translationKey: "germany-change_of_business_registration"
+meta_title: 'Changing Business Registration in Germany: Procedure & Docs'
+title: 'Changing Business Registration in Germany: Procedure & Docs'
+translationKey: germany-change_of_business_registration
 ---
+
 
 ## Description
 ### What is it?

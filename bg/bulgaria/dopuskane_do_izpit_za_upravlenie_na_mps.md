@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-admission_to_a_driving_test
-title: "Допускане до шофьорски изпит"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Допускане до шофьорски изпит в България"
-description: "Ръководство за получаване на допуск до шофьорски изпит в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да придобиете шофьорска лицензия в България, с необходимата
+  документация, изпити и курсове. Важно за всички желаещи шофьорски квалификации.
 draft: false
+meta_title: 'Процес за шофьорски изпит в България: Как да го завършите успешно?'
+title: 'Процес за шофьорски изпит в България: Как да го завършите успешно?'
+translationKey: bulgaria-admission_to_a_driving_test
 ---
+
 
 ## Описание
 ### Какво е това?

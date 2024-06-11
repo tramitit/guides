@@ -1,13 +1,16 @@
 ---
-title: "Issuance of marriage certificate in Croatia"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Guide to Issuing a Marriage Certificate in Croatia"
-description: "This is a comprehensive guide on how to issue a marriage certificate in Croatia, covering the process, required documents, and potential service providers."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to obtain a marriage certificate in Croatia, including required
+  documents and procedures. Ensure timely preparation for your wedding day.
 draft: false
-translationKey: "croatia-issuance_of_marriage_certificate"
+meta_title: 'Getting a Marriage Certificate in Croatia: Procedure & Docs'
+title: 'Getting a Marriage Certificate in Croatia: Procedure & Docs'
+translationKey: croatia-issuance_of_marriage_certificate
 ---
+
 
 ## Description
 ### What is it?

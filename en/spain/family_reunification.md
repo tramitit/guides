@@ -1,13 +1,16 @@
 ---
-title: "Family Reunification Process for Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Step by Step Guide for Family Reunification in Spain"
-description: "A guide detailing the process of family reunification in Spain, from the required paperwork to possible hurdles on the way."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo traer a tus seres queridos a España. Sigue este detallado
+  proceso de reunificación familiar y evita errores comunes.
 draft: false
-translationKey: "spain-family_reunification"
+meta_title: Guía Completa para la Reunificación Familiar en España
+title: Guía Completa para la Reunificación Familiar en España
+translationKey: spain-family_reunification
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Application for unemployment benefit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Applying for unemployment benefits in the Czech Republic"
-description: "A step by step guide on how to apply for unemployment benefits in the Czech Republic"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn how to qualify for unemployment benefits, including required documents
+  and procedures. Stay informed to avoid delays in financial aid.
 draft: false
-translationKey: "czech-republic-application_for_unemployment_benefit"
+meta_title: 'Unemployment Benefit: Eligibility and Application Process'
+title: 'Unemployment Benefit: Eligibility and Application Process'
+translationKey: czech-republic-application_for_unemployment_benefit
 ---
+
 
 ## Description
 ### What is it?

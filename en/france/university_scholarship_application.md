@@ -1,13 +1,16 @@
 ---
-title: "University scholarship application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "A step-by-step guide on how to apply for university scholarships in France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Discover steps to secure financial aid for university studies in France.
+  Find scholarships, prepare documents, and boost your application for success.
 draft: false
-translationKey: "france-university_scholarship_application"
+meta_title: 'Applying for University Scholarships in France: A Comprehensive Guide'
+title: 'Applying for University Scholarships in France: A Comprehensive Guide'
+translationKey: france-university_scholarship_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Alimony Application in France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Applying for Alimony in France: A Comprehensive Guide"
-description: "This comprehensive guide illuminates the alimony application process in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Discover how to apply for alimony, required documents, and the legal
+  procedure in France. Ensure you comply with the regulations to avoid legal consequences.
 draft: false
-translationKey: "france-alimony_application"
+meta_title: 'Alimony in France: Seeking Financial Support After Divorce'
+title: 'Alimony in France: Seeking Financial Support After Divorce'
+translationKey: france-alimony_application
 ---
+
 
 ## Description
 

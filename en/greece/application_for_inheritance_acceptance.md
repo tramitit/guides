@@ -1,13 +1,16 @@
 ---
-title: "Application for Inheritance Acceptance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Guide to accepting inheritance, specifically focusing on property in Greece"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn the steps to claim an inheritance in Greece, including hiring a
+  lawyer, obtaining necessary documents, and registering the inheritance deed.
 draft: false
-translationKey: "greece-application_for_inheritance_acceptance"
+meta_title: 'Inheritance Acceptance Process in Greece: A Comprehensive Guide'
+title: 'Inheritance Acceptance Process in Greece: A Comprehensive Guide'
+translationKey: greece-application_for_inheritance_acceptance
 ---
+
 
 ## Description
 ### What is it?

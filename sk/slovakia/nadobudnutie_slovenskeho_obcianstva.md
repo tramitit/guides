@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-acquisition_of_slovak_citizenship
-title: "Získanie slovenského občianstva"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Toto je meta popis"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Podrobný postup získania občianstva Slovenskej republiky vrátane dokumentov
+  a poskytovateľov služieb. Dôležité upozornenia a praktické rady pre žiadateľov.
 draft: false
+meta_title: 'Získanie občianstva v Slovensku: Postup a Požadované Dokumenty'
+title: 'Získanie občianstva v Slovensku: Postup a Požadované Dokumenty'
+translationKey: slovakia-acquisition_of_slovak_citizenship
 ---
+
 
 ## Popis
 

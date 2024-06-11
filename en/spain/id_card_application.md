@@ -1,13 +1,16 @@
 ---
-title: "ID Card Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to apply for your Documento Nacional de Identidad (DNI) in
+  Spain. Get detailed steps, required documents, providers, and renewal information.
 draft: false
-translationKey: "spain-id_card_application"
+meta_title: 'Spain DNI Application Guide: ID Card for Spanish Citizens'
+title: 'Spain DNI Application Guide: ID Card for Spanish Citizens'
+translationKey: spain-id_card_application
 ---
+
 
 ## Description
 ### What is it?

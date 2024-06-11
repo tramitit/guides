@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_drivers_license
-title: "Αίτηση για δίπλωμα οδήγησης"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Αυτή είναι η μετα-περιγραφή"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Ανακαλύψτε τη διαδικασία απόκτησης άδειας οδήγησης στην Ελλάδα, αναγκαία
+  έγγραφα, απαιτήσεις και προσοχή για εμπειρούς και νέους οδηγούς.
 draft: false
+meta_title: 'Άδεια Οδήγησης στην Ελλάδα: Απαιτούμενα Έγγραφα και Διαδικασία'
+title: 'Άδεια Οδήγησης στην Ελλάδα: Απαιτούμενα Έγγραφα και Διαδικασία'
+translationKey: greece-application_for_drivers_license
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

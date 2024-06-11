@@ -1,13 +1,16 @@
 ---
-title: "Application for Social Scholarship in Slovakia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "A detailed guide on how to apply for a social scholarship in Slovakia."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn about social scholarships in Slovakia, eligibility, required documents,
+  and application steps to support students facing economic or academic challenges.
 draft: false
-translationKey: "slovakia-application_for_social_scholarship"
+meta_title: 'Social Scholarships in Slovakia: Eligibility and Application Guide'
+title: 'Social Scholarships in Slovakia: Eligibility and Application Guide'
+translationKey: slovakia-application_for_social_scholarship
 ---
+
 
 ## Description
 ### What is it?

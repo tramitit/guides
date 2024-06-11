@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-report_of_lost_or_stolen_passport
-title: "Elveszett vagy ellopett útlevél jelentése"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Ez az útmutató részletes utasításokat nyújt arról, hogyan lehet jelenteni és pótolni egy elveszett vagy ellopett útlevelet."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to report and replace a lost or stolen passport in Hungary.
+  Essential steps, required documents, embassy contacts, and helpful tips included.
 draft: false
+meta_title: 'Passport Replacement Procedure in Hungary: Guide for Travelers'
+title: 'Passport Replacement Procedure in Hungary: Guide for Travelers'
+translationKey: hungary-report_of_lost_or_stolen_passport
 ---
+
 
 ## Leírás
 ### Mi ez?

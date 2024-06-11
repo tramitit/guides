@@ -1,13 +1,16 @@
 ---
-title: "Family allowance application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to apply for family allowances in France through the CAF website.
+  Find required documents and tips to ensure a successful application process.
 draft: false
-translationKey: "france-family_allowance_application"
+meta_title: 'Applying for Family Allowances in France: Guide & Requirements'
+title: 'Applying for Family Allowances in France: Guide & Requirements'
+translationKey: france-family_allowance_application
 ---
+
 
 ## Description
 ### What is it?

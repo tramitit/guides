@@ -1,13 +1,17 @@
 ---
-translationKey: france-mobility_aid_application
-title: "Demande d'aide à la mobilité"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide pour demander des aides à la mobilité en France"
-description: "Guide complet pour demander une aide à la mobilité en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez qui a besoin d'aides à la mobilité en France, la procédure
+  incluant les démarches auprès de la MDPH et les documents requis pour obtenir ces
+  aides.
 draft: false
+meta_title: 'Aides à la Mobilité en France: Besoins, Procédure et Documents Requis'
+title: 'Aides à la Mobilité en France: Besoins, Procédure et Documents Requis'
+translationKey: france-mobility_aid_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

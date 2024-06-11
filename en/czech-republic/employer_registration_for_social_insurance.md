@@ -1,13 +1,16 @@
 ---
-title: "Employer registration for social insurance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Employer registration for social insurance in the Czech Republic"
-description: "This is a comprehensive guide on how to register for social insurance as an employer in the Czech Republic"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn the mandatory process for Czech companies to fund health insurance,
+  social security, and employment policies. Stay compliant to avoid fines.
 draft: false
-translationKey: "czech-republic-employer_registration_for_social_insurance"
+meta_title: Employer Registration for Social Insurances in Czech Republic
+title: Employer Registration for Social Insurances in Czech Republic
+translationKey: czech-republic-employer_registration_for_social_insurance
 ---
+
 
 ## Description
 ### What is it?

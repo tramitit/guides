@@ -1,14 +1,16 @@
 ---
-translationKey: bulgaria-educational_institution_registration
-
-title: "Регистрация на образователно заведение"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Това е мета описание"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да се регистрирате в училище, университет или онлайн образователна
+  платформа. Какви документи са необходими и какви са процедурите за записване.
 draft: false
+meta_title: 'Регистрация в Образователно Заведение: Процедура и Документи'
+title: 'Регистрация в Образователно Заведение: Процедура и Документи'
+translationKey: bulgaria-educational_institution_registration
 ---
+
 
 ## Описание
 ### Какво е това?

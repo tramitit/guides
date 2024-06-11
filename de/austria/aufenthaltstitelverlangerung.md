@@ -1,13 +1,16 @@
 ---
-translationKey: austria-residence_permit_renewal
-title: "Aufenthaltserneuerung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Ein ausführlicher Leitfaden zur Erneuerung Ihrer Aufenthaltserlaubnis in Österreich"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie nicht-EU-Bürger ihren Aufenthalt in Österreich legal
+  verlängern können. Schritte, benötigte Dokumente, Anbieter und weitere Details.
 draft: false
+meta_title: Verlängerung der Aufenthaltserlaubnis in Österreich
+title: Verlängerung der Aufenthaltserlaubnis in Österreich
+translationKey: austria-residence_permit_renewal
 ---
+
 
 ## Beschreibung
 ### Was ist das?

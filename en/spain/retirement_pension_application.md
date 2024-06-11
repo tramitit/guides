@@ -1,13 +1,16 @@
 ---
-title: "Retirement Pension Application in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Retirement Pension Application"
-description: "A step-by-step guide on how to apply for retirement pension in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Todo lo que necesitas saber sobre la pensión de jubilación en España,
+  desde los requisitos hasta el proceso de solicitud y los documentos necesarios.
 draft: false
-translationKey: "spain-retirement_pension_application"
+meta_title: Guía Completa para Obtener la Pensión de Jubilación en España
+title: Guía Completa para Obtener la Pensión de Jubilación en España
+translationKey: spain-retirement_pension_application
 ---
+
 
 ## Description
 ### What is it?

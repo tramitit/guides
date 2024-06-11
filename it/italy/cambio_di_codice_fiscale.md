@@ -1,13 +1,16 @@
 ---
-translationKey: italy-tax_code_change
-title: "Cambio del Codice Fiscale"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Guida su come cambiare il proprio codice fiscale in Italia"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come cambiare il tuo codice fiscale in Italia in caso di cambiamenti
+  personali. Procedura, documenti richiesti e provider che offrono questo servizio.
 draft: false
+meta_title: 'Cambiare il Codice Fiscale in Italia: Guida e Documenti Richiesti'
+title: 'Cambiare il Codice Fiscale in Italia: Guida e Documenti Richiesti'
+translationKey: italy-tax_code_change
 ---
+
 
 ## Descrizione
 ### Che cos'è?

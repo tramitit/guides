@@ -1,13 +1,16 @@
 ---
-translationKey: italy-certificate_of_civil_rights_enjoyment_request
-title: "Richiesta di Certificato di Godimento dei Diritti Civili"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Una guida per ottenere un Certificato di Godimento dei Diritti Civili in Italia."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere il certificato che attesta i tuoi diritti civili
+  e politici in Italia. Procedura, documenti necessari e info sui provider disponibili.
 draft: false
+meta_title: Certificato di Godimento dei Diritti Civili e Politici in Italia
+title: Certificato di Godimento dei Diritti Civili e Politici in Italia
+translationKey: italy-certificate_of_civil_rights_enjoyment_request
 ---
+
 
 ## Descrizione
 ### Che cos'è?

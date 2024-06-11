@@ -1,13 +1,16 @@
 ---
-translationKey: greece-notification_of_employee_hiring
-title: "Ειδοποίηση πρόσληψης υπαλλήλου"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Αυτός είναι ένας οδηγός για το πως να ανακοινώσετε με αποτελεσματικό και επαγγελματικό τρόπο μια νέα πρόσληψη στην ομάδα σας."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τη διαδικασία ειδοποίησης και τις απαιτούμενες λεπτομέρειες για
+  νέες προσλήψεις υπαλλήλων, προσέχοντας την επαγγελματική και σεβαστική ανακοίνωση.
 draft: false
+meta_title: 'Ειδοποίηση Πρόσληψης Υπαλλήλου: Διαδικασία και Απαιτούμενα Έγγραφα'
+title: 'Ειδοποίηση Πρόσληψης Υπαλλήλου: Διαδικασία και Απαιτούμενα Έγγραφα'
+translationKey: greece-notification_of_employee_hiring
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

@@ -1,13 +1,16 @@
 ---
-title: "Issuance of Death Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "A guide on how to obtain a death certificate in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: 'Learn how to obtain a death certificate: procedures for registration,
+  required documents, providers, and important details. Ensure accuracy to avoid delays.'
 draft: false
-translationKey: "poland-issuance_of_death_certificate"
+meta_title: 'Death Certificate Procedures: Obtain, Submit, and Requirements'
+title: 'Death Certificate Procedures: Obtain, Submit, and Requirements'
+translationKey: poland-issuance_of_death_certificate
 ---
+
 
 ## Description
 ### What is it?

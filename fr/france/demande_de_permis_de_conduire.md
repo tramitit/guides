@@ -1,13 +1,16 @@
 ---
-translationKey: france-drivers_license_application
-title: "Demande de permis de conduire en France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide pas à pas pour demander un permis de conduire en France"
-description: "Il s'agit d'un guide complet détaillant le processus de demande de permis de conduire en France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez les étapes et les documents nécessaires pour obtenir un permis
+  de conduire en France, qu'il s'agisse d'un échange ou d'une nouvelle demande.
 draft: false
+meta_title: Guide pour obtenir un permis de conduire en France
+title: Guide pour obtenir un permis de conduire en France
+translationKey: france-drivers_license_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

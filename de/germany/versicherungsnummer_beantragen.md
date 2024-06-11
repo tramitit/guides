@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_an_insurance_number
-title: "Beantragung einer Versicherungsnummer in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dies ist eine Meta-Beschreibung"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wer sie benötigt, wie Sie sie erhalten und welche Dokumente
+  erforderlich sind. Anbieter, die Ihnen helfen können, sind ebenfalls aufgeführt.
 draft: false
+meta_title: 'Sozialversicherungsnummer in Deutschland: Alles, was Sie wissen müssen'
+title: 'Sozialversicherungsnummer in Deutschland: Alles, was Sie wissen müssen'
+translationKey: germany-applying_for_an_insurance_number
 ---
+
 
 ## Beschreibung
 ### Was ist es?

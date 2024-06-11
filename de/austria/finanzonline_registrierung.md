@@ -1,13 +1,17 @@
 ---
-translationKey: austria-finance_online_registration
-title: "Finanz Online Anmeldung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Online Finanzdienstleistungen Anmeldeleitfaden für Österreich"
-description: "Ein umfassender Leitfaden zur Anmeldung für Online-Finanzdienstleistungen in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie mithilfe von FinanzOnline in Österreich schnell
+  und bequem Ihre Steuererklärungen einreichen. Benötigte Dokumente und Anleitung
+  vorhanden.
 draft: false
+meta_title: 'FinanzOnline: Steuererklärungen online einreichen in Österreich'
+title: 'FinanzOnline: Steuererklärungen online einreichen in Österreich'
+translationKey: austria-finance_online_registration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

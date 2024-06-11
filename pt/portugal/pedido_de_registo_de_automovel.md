@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_car_registration
-title: "Pedido de Registo de Automóvel"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Esta é a descrição meta"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Descubra como registrar um veículo em Portugal, incluindo os passos necessários,
+  documentos obrigatórios e prestadores de serviços. Saiba mais aqui.
 draft: false
+meta_title: 'Matrícula de Veículo em Portugal: Procedimentos e Documentos'
+title: 'Matrícula de Veículo em Portugal: Procedimentos e Documentos'
+translationKey: portugal-request_for_car_registration
 ---
+
 
 
 ## Descrição

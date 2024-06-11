@@ -1,13 +1,16 @@
 ---
-translationKey: italy-pending_charges_request
-title: "Richiesta di Certificati Penali in Italia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa è la meta descrizione"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere un Certificato Penale in Italia, documenti necessari
+  e fornitori autorizzati. Importante per visti, lavoro e cittadinanza.
 draft: false
+meta_title: 'Ottenere Certificato Penale in Italia: Procedura e Requisiti'
+title: 'Ottenere Certificato Penale in Italia: Procedura e Requisiti'
+translationKey: italy-pending_charges_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

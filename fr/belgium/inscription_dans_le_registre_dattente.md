@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-registration_in_the_waiting_registers
-title: "Inscription dans les registres d'attente"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Ceci est une description meta"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Apprenez comment s'inscrire sur une liste d'attente pour des événements,
+  notamment pour Tomorrowland. Suivez la procédure et découvrez les documents requis.
 draft: false
+meta_title: 'Inscription sur Liste d''Attente pour Événements: Procédure et Conseils'
+title: 'Inscription sur Liste d''Attente pour Événements: Procédure et Conseils'
+translationKey: belgium-registration_in_the_waiting_registers
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

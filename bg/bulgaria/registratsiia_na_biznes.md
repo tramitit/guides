@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-business_registration
-title: "Регистрация на бизнес в България"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Подробно ръководство за регистрация на бизнес в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Идеален ръководител за стартиране на бизнес в България. Включва процедури,
+  документи, срокове, цени и съвети за спазване на законите и регулациите.
 draft: false
+meta_title: 'Регистрация на бизнес в България: Пълен гайд за стартиране на компания'
+title: 'Регистрация на бизнес в България: Пълен гайд за стартиране на компания'
+translationKey: bulgaria-business_registration
 ---
+
 
 ## Описание
 ### Какво е това?

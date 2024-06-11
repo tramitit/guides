@@ -1,13 +1,16 @@
 ---
-translationKey: austria-school_registration
-title: "Schulanmeldung in Österreich"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Dies ist ein Leitfaden zur Anmeldung an einer Schule in Österreich, speziell für internationale Studierende. Es bietet auch Informationen zu den Lebenshaltungskosten in Österreich und dem Prozess zur Erlangung einer Aufenthaltsgenehmigung."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie alles über den Einschreibungsprozess an österreichischen
+  Schulen, notwendige Dokumente und Details für internationale Studierende.
 draft: false
+meta_title: Leitfaden zur Schuleinschreibung für internationale Studierende in Österreich
+title: Leitfaden zur Schuleinschreibung für internationale Studierende in Österreich
+translationKey: austria-school_registration
 ---
+
 
 ## Beschreibung
 ### Was ist es?

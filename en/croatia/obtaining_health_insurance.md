@@ -1,14 +1,16 @@
 ---
-
-title: "Obtaining Health Insurance in Croatia"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Guide to Acquiring Croatian Health Insurance"
-description: "In-depth guidance on how to obtain health insurance coverage in Croatia, including the necessary requirements, and step-by-step procedure."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Protect yourself from unexpected health costs in Croatia with mandatory
+  health insurance. Learn about requirements, providers, and key tips for active coverage.
 draft: false
-translationKey: "croatia-obtaining_health_insurance"
+meta_title: 'Health Insurance in Croatia: Guide for Residents and Expats'
+title: 'Health Insurance in Croatia: Guide for Residents and Expats'
+translationKey: croatia-obtaining_health_insurance
 ---
+
 
 ## Description
 ### What is it?

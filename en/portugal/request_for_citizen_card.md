@@ -1,13 +1,16 @@
 ---
-title: "Request for Citizen Card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is a guide on how to request for a citizen card in Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to apply for the official ID in Portugal, including required
+  documents and process steps. Legal residents, immigrants, and children eligible.
 draft: false
-translationKey: "portugal-request_for_citizen_card"
+meta_title: 'Portugal Citizen Card: Application Procedure and Requirements'
+title: 'Portugal Citizen Card: Application Procedure and Requirements'
+translationKey: portugal-request_for_citizen_card
 ---
+
 
 ## Description
 ### What is it?

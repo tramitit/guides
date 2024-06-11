@@ -1,13 +1,17 @@
 ---
-title: "Request for Death Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Request for Death Certificate in Portugal: A Step-By-Step Guide"
-description: "A detailed instruction to request and obtain a death certificate in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to get an official death certificate in Portugal detailing
+  the date, location, and cause of death. Process, documents needed, and providers
+  included.
 draft: false
-translationKey: "portugal-request_for_death_certificate"
+meta_title: 'How to Obtain a Death Certificate in Portugal: Complete Guide'
+title: 'How to Obtain a Death Certificate in Portugal: Complete Guide'
+translationKey: portugal-request_for_death_certificate
 ---
+
 
 ## Description
 ### What is it?

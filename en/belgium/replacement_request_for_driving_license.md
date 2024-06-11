@@ -1,13 +1,16 @@
 ---
-title: "Replacement request for driving license"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Replacement request for driving license in Belgium"
-description: "Detailed step-by-step procedure to replace a lost or stolen driver's license in Belgium"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Lost or stolen your driver's license in Belgium? Learn the steps to report,
+  obtain replacement, required documents, timelines, and costs involved.
 draft: false
-translationKey: "belgium-replacement_request_for_driving_license"
+meta_title: Belgium Driver's License Replacement Procedure & Requirements
+title: Belgium Driver's License Replacement Procedure & Requirements
+translationKey: belgium-replacement_request_for_driving_license
 ---
+
 
 ## Description
 ### What is it?

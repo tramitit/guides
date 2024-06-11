@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-vanity_license_plate
-title: "Vanity licence plate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Postup získání vlastní registrační značky v České republice"
-description: "Tento průvodce poskytuje podrobné informace o získání vlastní registrační značky v České republice. Zahrnuje podrobné postupy, potřebné dokumenty a potenciální poskytovatele služeb."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, jak získat jedinečnou registrační značku pro vaše vozidlo.
+  Postup, požadované dokumenty a informace o regulacích v České republice.
 draft: false
+meta_title: 'Nadstandardní Registrační Značka: Personalizace pro Vaše Vozidlo'
+title: 'Nadstandardní Registrační Značka: Personalizace pro Vaše Vozidlo'
+translationKey: czech republic-vanity_license_plate
 ---
+
 
 ## Popis
 ### Co to je?

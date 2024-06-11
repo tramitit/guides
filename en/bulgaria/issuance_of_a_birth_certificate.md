@@ -1,13 +1,16 @@
 ---
-title: "Issuance of a Birth Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Issuing Birth Certificate in Bulgaria: A Detailed Guide"
-description: "A comprehensive guide on how to get a birth certificate issued in Bulgaria. We outline the steps, documents required and the costs involved."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to obtain a birth certificate in Bulgaria, mandatory for all
+  citizens. Includes procedure details, required documents, and provider information.
 draft: false
-translationKey: "bulgaria-issuance_of_a_birth_certificate"
+meta_title: 'Obtaining a Birth Certificate in Bulgaria: Process & Requirements'
+title: 'Obtaining a Birth Certificate in Bulgaria: Process & Requirements'
+translationKey: bulgaria-issuance_of_a_birth_certificate
 ---
+
 
 ## Description
 

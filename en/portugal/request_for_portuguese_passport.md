@@ -1,13 +1,16 @@
 ---
-title: "Request for Portuguese Passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn the steps and requirements for applying for a Portuguese passport.
+  Check eligibility, prepare documents, make an appointment, and understand costs.
 draft: false
-translationKey: "portugal-request_for_portuguese_passport"
+meta_title: 'How to Apply for a Portuguese Passport: A Step-by-Step Guide'
+title: 'How to Apply for a Portuguese Passport: A Step-by-Step Guide'
+translationKey: portugal-request_for_portuguese_passport
 ---
+
 
 ## Description
 ### What is it?

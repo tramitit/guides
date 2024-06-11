@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_a_firearms_licence
-title: "Žádost o zbrojní průkaz v České republice"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Jak získat zbrojní průkaz v České republice"
-description: "Podrobný průvodce procesem získání zbrojního průkazu v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, kdo potřebuje zbrojní průkaz v České republice a jak jej získat.
+  Absolvujte kurz, projděte lékařským vyšetřením, podějte žádost a projděte zkouškami.
 draft: false
+meta_title: 'Zbrojní průkaz v České republice: Co potřebujete a jak jej získat'
+title: 'Zbrojní průkaz v České republice: Co potřebujete a jak jej získat'
+translationKey: czech republic-application_for_a_firearms_licence
 ---
+
 
 
 ## Popis

@@ -1,13 +1,16 @@
 ---
-title: "Request for naturalization"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This is a step-by-step guide to request for naturalization in Belgium, sourced from reliable first-hand accounts."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn about the legal process of naturalization, required documents,
+  providers, and costs. Find out who needs citizenship and the timeline for approval.
 draft: false
-translationKey: "belgium-request_for_naturalization"
+meta_title: 'Naturalization Process: How to Obtain Citizenship Easily'
+title: 'Naturalization Process: How to Obtain Citizenship Easily'
+translationKey: belgium-request_for_naturalization
 ---
+
 
 ## Description
 ### What is it?

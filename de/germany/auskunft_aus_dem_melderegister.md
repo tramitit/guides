@@ -1,13 +1,16 @@
 ---
-translationKey: germany-information_from_the_resident_registration_database
-title: "Informationen aus dem Melderegister"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dies ist die Metabeschreibung"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie auf Einwohnermelde-Datenbanken zugreifen, den Antragsprozess
+  durchlaufen und Anbieter finden. Ideal für Genealogen, Behörden & Detektive.
 draft: false
+meta_title: 'Einwohnermelde-Datenbank: Zugriff, Prozess & Anbieter'
+title: 'Einwohnermelde-Datenbank: Zugriff, Prozess & Anbieter'
+translationKey: germany-information_from_the_resident_registration_database
 ---
+
 
 ## Beschreibung
 ### Was ist es?

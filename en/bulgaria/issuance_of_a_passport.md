@@ -1,13 +1,16 @@
 ---
-title: "Issuance of a Passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Step by Step Guide to Issuing a Passport in Bulgaria"
-description: "This blog post details the process of obtaining a Bulgarian passport."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to obtain a passport in Bulgaria including required documents,
+  procedures, and key details. Essential for international travel planning.
 draft: false
-translationKey: "bulgaria-issuance_of_a_passport"
+meta_title: 'Passport Application Process in Bulgaria: A Complete Guide'
+title: 'Passport Application Process in Bulgaria: A Complete Guide'
+translationKey: bulgaria-issuance_of_a_passport
 ---
+
 
 ## Description
 ### What is it?

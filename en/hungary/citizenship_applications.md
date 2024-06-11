@@ -1,13 +1,16 @@
 ---
-title: "Hungarian Citizenship Applications"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Hungarian Citizenship Applications"
-description: "A step-by-step guide to applying for Hungarian citizenship."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to apply for Hungarian citizenship through ancestry. Gather
+  necessary documents, pass an interview, and gain EU passport rights. Providers available.
 draft: false
-translationKey: "hungary-citizenship_applications"
+meta_title: 'Guide to Hungarian Citizenship: Requirements & Application Process'
+title: 'Guide to Hungarian Citizenship: Requirements & Application Process'
+translationKey: hungary-citizenship_applications
 ---
+
 
 ## Description
 ### What is it?

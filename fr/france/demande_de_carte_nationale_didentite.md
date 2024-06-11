@@ -1,13 +1,16 @@
 ---
-translationKey: france-national_identity_card_application
-title: "Demande de carte d'identité nationale"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Demande de carte d'identité nationale"
-description: "Guide détaillé étape par étape sur comment faire une demande de carte d'identité nationale"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment obtenir, renouveler et les détails de la carte d'identité
+  nationale en France. Procédure, documents requis et fournisseurs disponibles.
 draft: false
+meta_title: 'Carte Nationale d''Identité en France: Procédure et Documents Requis'
+title: 'Carte Nationale d''Identité en France: Procédure et Documents Requis'
+translationKey: france-national_identity_card_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est ?

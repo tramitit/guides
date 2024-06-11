@@ -1,13 +1,16 @@
 ---
-title: "Business Registration in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "This is a comprehensive guide to registering a business in Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to legally designate your commercial activity in Germany through
+  Gewerbeanmeldung. Find steps, documents needed, and a provider for assistance.
 draft: false
-translationKey: "germany-business_registration"
+meta_title: 'Germany Business Registration: Process, Requirements & Providers'
+title: 'Germany Business Registration: Process, Requirements & Providers'
+translationKey: germany-business_registration
 ---
+
 
 ## Description
 ### What is it?

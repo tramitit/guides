@@ -1,13 +1,16 @@
 ---
-translationKey: austria-criminal_record_certificate_application
-title: "Antrag auf ein Führungszeugnis"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Wie man einen Antrag auf ein Führungszeugnis stellt"
-description: "Dieser Leitfaden bietet detaillierte Schritte zur Beantragung eines Führungszeugnisses."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wer einen Strafregisterauszug benötigt, wie man ihn beantragt
+  und welche Dokumente erforderlich sind. Lokale Regeln und Vorschriften beachten.
 draft: false
+meta_title: 'Strafregisterauszug: Antrag, Verfahren und erforderliche Dokumente'
+title: 'Strafregisterauszug: Antrag, Verfahren und erforderliche Dokumente'
+translationKey: austria-criminal_record_certificate_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

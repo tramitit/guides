@@ -1,13 +1,16 @@
 ---
-title: "Application for spouse's name change"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Step by step guide to apply for spouse's name change in Greece"
-description: "An in-depth guide showing you how to go through with a spouse's name change after marriage in Greece"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Step-by-step guide for newlyweds to change their last name in Greece,
+  covering needed documents, procedures, and service providers for help.
 draft: false
-translationKey: "greece-application_for_spouses_name_change"
+meta_title: Guide to Changing Your Name After Marriage in Greece
+title: Guide to Changing Your Name After Marriage in Greece
+translationKey: greece-application_for_spouses_name_change
 ---
+
 
 ## Description
 ### What is it?

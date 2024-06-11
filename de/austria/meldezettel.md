@@ -1,13 +1,16 @@
 ---
-translationKey: austria-registration_certificate
-title: "Meldebescheinigung (Meldezettel)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Wie man eine Meldebescheinigung in Österreich erhält"
-description: "Ein umfassender Leitfaden zur Erlangung einer Meldebescheinigung oder eines Meldezettels in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wer einen Meldezettel benötigt und wie Sie ihn in Österreich
+  beantragen. Anleitung, erforderliche Unterlagen und Unterstützungsoptionen vorhanden.
 draft: false
+meta_title: 'Meldezettel in Österreich: Anmeldung Ihres Wohnsitzes erklärt'
+title: 'Meldezettel in Österreich: Anmeldung Ihres Wohnsitzes erklärt'
+translationKey: austria-registration_certificate
 ---
+
 
 ## Beschreibung
 ### Was ist das?

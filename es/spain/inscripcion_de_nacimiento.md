@@ -1,13 +1,16 @@
 ---
-translationKey: spain-birth_registration
-title: "Registro de Nacimiento en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Registro de Nacimiento en España: Una Guía Completa"
-description: "Una guía paso a paso sobre cómo registrar un nacimiento en España, incluyendo los documentos requeridos e instituciones relevantes."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo registrar un nacimiento en España, los documentos necesarios
+  y el procedimiento en el Registro Civil. Consejos y proveedores disponibles.
 draft: false
+meta_title: 'Registro de nacimiento en España: Procedimiento y requisitos'
+title: 'Registro de nacimiento en España: Procedimiento y requisitos'
+translationKey: spain-birth_registration
 ---
+
 
 ## Descripción
 ### ¿Qué es?

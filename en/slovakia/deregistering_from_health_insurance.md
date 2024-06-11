@@ -1,14 +1,16 @@
 ---
-
-title: "Deregistering from health insurance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Detailed guidance on how to deregister from health insurance when relocating to another country or region."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to deregister from your health insurance plan when moving abroad
+  or switching policies, with detailed steps and tips to ensure a smooth transition.
 draft: false
-translationKey: "slovakia-deregistering_from_health_insurance"
+meta_title: Guide to Deregistering from Health Insurance Easily
+title: Guide to Deregistering from Health Insurance Easily
+translationKey: slovakia-deregistering_from_health_insurance
 ---
+
 
 ## Description
 ### What is it?

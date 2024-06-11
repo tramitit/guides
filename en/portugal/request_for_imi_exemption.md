@@ -1,13 +1,16 @@
 ---
-title: "Request for IMI Exemption"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This step by step guide provides information on how to request for IMI exemption in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how Portuguese property owners can get total or partial exemption
+  from IMI tax for their own home. Follow precise steps and requirements easily!
 draft: false
-translationKey: "portugal-request_for_imi_exemption"
+meta_title: 'IMI Exemption in Portugal: How to Apply and Eligibility'
+title: 'IMI Exemption in Portugal: How to Apply and Eligibility'
+translationKey: portugal-request_for_imi_exemption
 ---
+
 
 ## Description
 ### What is it?

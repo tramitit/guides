@@ -1,13 +1,16 @@
 ---
-translationKey: italy-building_permit_request
-title: "Richiesta di Permesso di Costruire"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa guida fornisce una procedura dettagliata passo dopo passo su come richiedere un permesso di costruzione in Italia"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Guida dettagliata su come ottenere un permesso di costruzione in Italia,
+  inclusi i requisiti, la procedura passo-passo e i documenti necessari.
 draft: false
+meta_title: 'Permesso di Costruzione in Italia: Guida Completa e Procedure'
+title: 'Permesso di Costruzione in Italia: Guida Completa e Procedure'
+translationKey: italy-building_permit_request
 ---
+
 
 ## Descrizione
 ### Che cos'è?

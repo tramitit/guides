@@ -1,13 +1,16 @@
 ---
-title: "Change of ID card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "How to Change Your ID Card"
-description: "This guide provides a detailed procedure on how to change your existing ID card."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn the procedure, required documents, and providers for changing personal
+  details on your ID card. Ensure accurate legal records post updates.
 draft: false
-translationKey: "poland-change_of_id_card"
+meta_title: How to Change ID Card Information | Process & Requirements
+title: How to Change ID Card Information | Process & Requirements
+translationKey: poland-change_of_id_card
 ---
+
 
 ## Description
 ### What is it?

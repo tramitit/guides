@@ -1,13 +1,16 @@
 ---
-title: "Request for Birth Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "A step-by-step guide on how to request a birth certificate in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to get a birth certificate in Portugal - requirements, process,
+  and options. Connect with local offices or use online services for convenience.
 draft: false
-translationKey: "portugal-request_for_birth_certificate"
+meta_title: 'Obtaining a Birth Certificate in Portugal: Procedure & Providers'
+title: 'Obtaining a Birth Certificate in Portugal: Procedure & Providers'
+translationKey: portugal-request_for_birth_certificate
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Issuance of a European Health Insurance Card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Step-by-step Guide on Obtaining a European Health Insurance Card for Bulgaria"
-description: "A detailed guide to comprehend the process and acquire a European Health Insurance Card for Bulgaria."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn about the EHIC, a free card for medical assistance in EU countries.
+  Find out who needs it, and the steps to apply for it with required documents.
 draft: false
-translationKey: "bulgaria-issuance_of_a_european_health_insurance_card"
+meta_title: 'European Health Insurance Card: Benefits and Application Procedure'
+title: 'European Health Insurance Card: Benefits and Application Procedure'
+translationKey: bulgaria-issuance_of_a_european_health_insurance_card
 ---
+
 
 ## Description
 ### What is it?

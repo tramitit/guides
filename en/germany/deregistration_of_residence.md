@@ -1,13 +1,16 @@
 ---
-title: "Deregistration of Residence in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "This is a step-by-step guide on how you can deregister your residence in Germany."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to deregister your residence in Germany. Required form, documents,
+  and tips provided. Avoid penalties and ensure smooth moving process.
 draft: false
-translationKey: "germany-deregistration_of_residence"
+meta_title: 'Germany Residence Deregistration: Process and Requirements'
+title: 'Germany Residence Deregistration: Process and Requirements'
+translationKey: germany-deregistration_of_residence
 ---
+
 
 ## Description
 ### What is it?

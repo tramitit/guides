@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-registration_of_a_vehicle_imported_from_abroad
-title: "Registrace vozidla dovezeného zahraničí"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Registrace vozidla dovezeného zahraničí"
-description: "Krok za krokem průvodce, jak zaregistrovat dovozené vozidlo ve vaší domovské zemi, konkrétně pro automobily dovezené z České republiky."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zásadní právní proces zaznamenávající důkaz vlastnictví a identity vozidla.
+  Podrobný postup a dokumenty potřebné k úspěšné registraci vozidla v cizím státě.
 draft: false
+meta_title: Registrace vozidla ze zahraničí - Postup a Požadavky
+title: Registrace vozidla ze zahraničí - Postup a Požadavky
+translationKey: czech republic-registration_of_a_vehicle_imported_from_abroad
 ---
+
 
 ## Popis
 ### Co je to?

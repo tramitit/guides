@@ -1,13 +1,16 @@
 ---
-title: "Issuance of Marriage Certificate in Slovakia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Process to Obtain a Marriage Certificate in Slovakia"
-description: "This guide explains the step-by-step procedure to obtain a Marriage Certificate in Slovakia. Includes profile of applicant, information on required documentation and helpful additional details."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to get a Marriage Certificate in Slovakia from civil registry
+  offices. Find out necessary documents and providers along with costs and procedures.
 draft: false
-translationKey: "slovakia-issuance_of_marriage_certificate"
+meta_title: 'Marriage Certificate in Slovakia: How to Obtain & Required Documents'
+title: 'Marriage Certificate in Slovakia: How to Obtain & Required Documents'
+translationKey: slovakia-issuance_of_marriage_certificate
 ---
+
 
 ## Description
 ### What is it?

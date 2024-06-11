@@ -1,13 +1,16 @@
 ---
-title: "Old Age Pension Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guide to Old Age Pension Application in Italy"
-description: "Detailed guide on how to apply for an old-age pension in Italy, understanding the required documents, procedure, and potential service providers that can assist you."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere la pensione di vecchiaia in Italia, requisiti necessari,
+  procedure e documentazione richiesta per una pensione garantita.
 draft: false
-translationKey: "italy-old_age_pension_application"
+meta_title: 'Guida alla Pensione di Vecchiaia in Italia: Procedura e Requisiti'
+title: 'Guida alla Pensione di Vecchiaia in Italia: Procedura e Requisiti'
+translationKey: italy-old_age_pension_application
 ---
+
 
 ## Description
 ### What is it?

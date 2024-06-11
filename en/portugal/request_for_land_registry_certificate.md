@@ -1,13 +1,16 @@
 ---
-title: "Request for Land Registry Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This guide includes a step-by-step process on how to request a Land Registry Certificate in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to get a Certidão Predial Permanente in Portugal online through
+  'Predial Online', including necessary documents and costs. Renewal info included.
 draft: false
-translationKey: "portugal-request_for_land_registry_certificate"
+meta_title: 'Portugal Land Registry Certificate: How to Obtain & Requirements'
+title: 'Portugal Land Registry Certificate: How to Obtain & Requirements'
+translationKey: portugal-request_for_land_registry_certificate
 ---
+
 
 ## Description
 

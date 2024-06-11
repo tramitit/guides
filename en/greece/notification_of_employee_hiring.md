@@ -1,13 +1,16 @@
 ---
-title: "Notification of employee hiring"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "This is a guide on how to announce a new hire to your team effectively and professionally"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to announce new hires effectively and make them feel welcomed.
+  Ensure privacy and professionalism. HR Department can offer free services.
 draft: false
-translationKey: "greece-notification_of_employee_hiring"
+meta_title: 'Employee Hiring Notification: Procedure & Required Documents'
+title: 'Employee Hiring Notification: Procedure & Required Documents'
+translationKey: greece-notification_of_employee_hiring
 ---
+
 
 ## Description
 ### What is it?

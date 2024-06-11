@@ -1,14 +1,16 @@
 ---
-translationKey: romania-employment_contract
-
-title: "Contract de angajare"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Ghid pentru redactarea unui contract de angajare în România."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum să creezi un contract de muncă corect conform legislației române,
+  cu proceduri precise și documente esențiale. Consultă furnizori și sfaturi legale.
 draft: false
+meta_title: 'Contract de Muncă în România: Proceduri și Documente Necesare'
+title: 'Contract de Muncă în România: Proceduri și Documente Necesare'
+translationKey: romania-employment_contract
 ---
+
 
 ## Descriere
 ### Ce este?

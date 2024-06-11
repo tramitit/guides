@@ -1,13 +1,17 @@
 ---
-translationKey: hungary-university_enrollment_management
-title: "Egyetemi felvételi kezelés"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Útmutató az egyetemi felvételi kezeléshez"
-description: "Egy átfogó útmutató arról, hogyan kezeljük az egyetemi felvételi folyamatot."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg az egyetemi felvételi folyamat lényegét, hogyan készítse
+  elő dokumentumait, mely szolgáltatókat válassza és fontos tanácsokat a felvétel
+  sikeréhez!
 draft: false
+meta_title: 'Egyetemi Felvételi Menedzsment: Eljárás, Dokumentumok, Szolgáltatók'
+title: 'Egyetemi Felvételi Menedzsment: Eljárás, Dokumentumok, Szolgáltatók'
+translationKey: hungary-university_enrollment_management
 ---
+
 
 ## Leírás
 ### Mi ez?

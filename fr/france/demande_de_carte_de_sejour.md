@@ -1,13 +1,16 @@
 ---
-translationKey: france-residence_permit_application
-title: "Demande de permis de séjour"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Demande de permis de séjour en France : un guide essentiel"
-description: "Guide détaillé sur la façon de demander un permis de séjour en France, couvrant toutes les étapes nécessaires et la documentation requise."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment demander un permis de résidence en France, les documents
+  requis, la procédure étape par étape, et des prestataires d'aide potentiels.
 draft: false
+meta_title: Procédure pour obtenir un permis de résidence en France
+title: Procédure pour obtenir un permis de résidence en France
+translationKey: france-residence_permit_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est ?

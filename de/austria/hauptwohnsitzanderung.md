@@ -1,13 +1,16 @@
 ---
-translationKey: austria-change_of_main_residence
-title: "Änderung des Hauptwohnsitzes"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Ein umfassender Leitfaden zur Änderung Ihres Hauptwohnsitzes in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wer den Meldezettel benötigt, wie das Verfahren abläuft
+  und welche Dokumente erforderlich sind. Stadt Wien bietet schnelle Bearbeitung an.
 draft: false
+meta_title: 'Änderung des Hauptwohnsitzes in Österreich: Meldezettel-Verfahren'
+title: 'Änderung des Hauptwohnsitzes in Österreich: Meldezettel-Verfahren'
+translationKey: austria-change_of_main_residence
 ---
+
 
 ## Beschreibung
 

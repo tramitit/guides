@@ -1,14 +1,16 @@
 ---
-translationKey: slovakia-filing_for_divorce
-
-title: "Podanie žiadosti o rozvod"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Tento podrobný sprievodca popisuje, ako podať žiadosť o rozvod na Slovensku."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Zistite, ako podať žiadosť o rozvod, pripraviť potrebné dokumenty a nájsť
+  právneho zástupcu. Dôležité informácie o rozvodovom procese v Slovensku.
 draft: false
+meta_title: 'Rozvod v Slovensku: Postup, Dokumenty a Poradenstvo'
+title: 'Rozvod v Slovensku: Postup, Dokumenty a Poradenstvo'
+translationKey: slovakia-filing_for_divorce
 ---
+
 
 ## Popis
 ### Čo je to?

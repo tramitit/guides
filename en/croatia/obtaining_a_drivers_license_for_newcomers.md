@@ -1,13 +1,16 @@
 ---
-title: "Obtaining a driver's license for newcomers"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Obtaining a Driver's License in Croatia for Newcomers"
-description: "A detailed guide to obtaining a driver's license in Croatia for newcomers."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to get a Croatian driver's license through a driver's school,
+  tests, and required documents. Understanding local laws is key.
 draft: false
-translationKey: "croatia-obtaining_a_drivers_license_for_newcomers"
+meta_title: 'Obtaining a Croatian Driver''s License: Process & Requirements'
+title: 'Obtaining a Croatian Driver''s License: Process & Requirements'
+translationKey: croatia-obtaining_a_drivers_license_for_newcomers
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: poland-change_of_registration_certificate
-title: "Zmiana świadectwa rejestracyjnego"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Wszechstronny przewodnik dotyczący zmiany świadectwa rejestracyjnego w Polsce, obejmujący kroki, wymagane dokumenty i wiele więcej."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, komu i jak zmienić zaświadczenie rejestracyjne pojazdu w
+  Polsce oraz wymagane dokumenty, procedurę i koszty. Skorzystaj z usług biura gminy.
 draft: false
+meta_title: Jak zmienić zaświadczenie rejestracyjne pojazdu w Polsce
+title: Jak zmienić zaświadczenie rejestracyjne pojazdu w Polsce
+translationKey: poland-change_of_registration_certificate
 ---
+
 
 ## Opis
 ### Co to jest?

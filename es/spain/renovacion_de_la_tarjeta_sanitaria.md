@@ -1,13 +1,16 @@
 ---
-translationKey: spain-health_card_renewal
-title: "Renovación de Tarjeta Sanitaria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Una guía detallada sobre cómo renovar tu tarjeta sanitaria española."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar la Tarjeta Sanitaria Europea (TSE) para viajar
+  por la UE, el EEE y Suiza. Procedimiento, requisitos y proveedores disponibles.
 draft: false
+meta_title: 'Obtén la Tarjeta Sanitaria Europea: Guía para Ciudadanos Españoles'
+title: 'Obtén la Tarjeta Sanitaria Europea: Guía para Ciudadanos Españoles'
+translationKey: spain-health_card_renewal
 ---
+
 
 ## Descripción
 ### ¿Qué es?

@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_student_financial_aid
-title: "Beantragung von Studienfinanzierung in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Ausführlicher Leitfaden zur Beantragung von Studienfinanzierung (BAföG) in Deutschland"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie BAföG Studierenden in Deutschland hilft, ihr Studium
+  zu finanzieren. Beantragung, Voraussetzungen, Anbieter und wichtige Dokumente erklärt.
 draft: false
+meta_title: 'BAföG in Deutschland: Finanzielle Unterstützung für Studierende'
+title: 'BAföG in Deutschland: Finanzielle Unterstützung für Studierende'
+translationKey: germany-applying_for_student_financial_aid
 ---
+
 
 ## Beschreibung
 ### Was ist das?

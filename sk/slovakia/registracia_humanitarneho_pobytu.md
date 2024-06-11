@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-registration_of_a_humanitarian_residence
-title: "Registrácia humanitárnej rezidencie"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Toto je meta popis"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Čítajte o procese získania humanitárneho pobytu, dokumentoch potrebných
+  na žiadosť a poskytovateľoch služieb v súvislosti s azylom a utečenectvom.
 draft: false
+meta_title: 'Registrácia humanitárneho pobytu: Postup a Potrebné dokumenty'
+title: 'Registrácia humanitárneho pobytu: Postup a Potrebné dokumenty'
+translationKey: slovakia-registration_of_a_humanitarian_residence
 ---
+
 
 ## Popis
 ### Čo je to?

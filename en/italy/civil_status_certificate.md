@@ -1,13 +1,16 @@
 ---
-title: "Civil Status Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This guide details the necessary steps to obtain a Civil Status Certificate in Italy, along with essential information such as required documents, providers, and additional details."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn the steps to obtain a Civil Status Certificate for various needs,
+  including required documents, procedures, and provider details.
 draft: false
-translationKey: "italy-civil_status_certificate"
+meta_title: 'How to Obtain Your Civil Status Certificate: A Step-by-Step Guide'
+title: 'How to Obtain Your Civil Status Certificate: A Step-by-Step Guide'
+translationKey: italy-civil_status_certificate
 ---
+
 
 ## Description
 ### What is it?

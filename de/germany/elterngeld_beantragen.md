@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_parental_allowance
-title: "Elterngeld beantragen in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Eine Schritt-für-Schritt-Anleitung zum Beantragen von Elterngeld"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wer Anspruch auf Elterngeld hat, wie Sie es beantragen
+  und welche Leistungen Sie erhalten können in Deutschland. Alle Details hier!
 draft: false
+meta_title: 'Elterngeld in Deutschland: Anspruch, Antrag und Leistungen'
+title: 'Elterngeld in Deutschland: Anspruch, Antrag und Leistungen'
+translationKey: germany-applying_for_parental_allowance
 ---
+
 
 ## Beschreibung
 ### Was ist es?

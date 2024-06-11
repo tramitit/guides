@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_student_discount_public_transport
-title: "Demande de réduction étudiante transport en commun"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Il s'agit de la description meta"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez comment obtenir des réductions sur les transports publics pour
+  étudiants. Procédure d'inscription facile et liste des fournisseurs en Belgique.
 draft: false
+meta_title: 'Réductions Transports Publics Étudiants: Procédure & Fournisseurs'
+title: 'Réductions Transports Publics Étudiants: Procédure & Fournisseurs'
+translationKey: belgium-request_for_student_discount_public_transport
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

@@ -1,13 +1,16 @@
 ---
-translationKey: germany-vehicle_deregistration
-title: "Fahrzeugabmeldung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Fahrzeugabmeldung in Deutschland"
-description: "Ein Leitfaden, wie man ein Fahrzeug in Deutschland abmeldet und erforderliche Verfahren."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie ein Fahrzeug in Deutschland offiziell abmelden.
+  Schritte, Dokumente, Anbieter und wichtige Details für einen problemlosen Prozess.
 draft: false
+meta_title: 'Fahrzeug Abmeldung in Deutschland: Ablauf und Anbieter'
+title: 'Fahrzeug Abmeldung in Deutschland: Ablauf und Anbieter'
+translationKey: germany-vehicle_deregistration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

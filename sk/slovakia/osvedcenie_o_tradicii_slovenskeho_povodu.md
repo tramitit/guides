@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-certificate_of_slovak_ancestry
-title: "Osvedčenie o slovenskom pôvode"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Sprievodca získaním Osvedčenia o slovenskom pôvode"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Získajte certifikát potvrdzujúci slovenské predkovstvo, dôležitý pri
+  žiadosti o občianstvo. Postupujte podľa odporúčaní a získajte potrebné dokumenty.
 draft: false
+meta_title: Certifikát slovenského predkovstva - Postup a požadované dokumenty
+title: Certifikát slovenského predkovstva - Postup a požadované dokumenty
+translationKey: slovakia-certificate_of_slovak_ancestry
 ---
+
 
 ## Popis
 ### Čo je to?

@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_imi_exemption
-title: "Pedido de Isenção de IMI"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este guia passo a passo fornece informações sobre como solicitar a isenção de IMI em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como solicitar a isenção do IMI em Portugal para propriedades destinadas
+  à habitação própria. Procedimento online e documentos exigidos.
 draft: false
+meta_title: 'Isenção de IMI em Portugal: Como Solicitar e Documentos Necessários'
+title: 'Isenção de IMI em Portugal: Como Solicitar e Documentos Necessários'
+translationKey: portugal-request_for_imi_exemption
 ---
+
 
 ## Descrição
 ### O que é?

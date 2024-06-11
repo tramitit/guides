@@ -1,13 +1,16 @@
 ---
-translationKey: austria-deregistration_of_residence
-title: "Abmeldung des Wohnsitzes"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Ein Schritt-für-Schritt-Leitfaden zur Abmeldung des Wohnsitzes in Deutschland und Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie offiziell Ihren Wohnsitz in Deutschland oder Österreich
+  abmelden. Anleitung, erforderliche Dokumente und wichtige Hinweise für Ausländer.
 draft: false
+meta_title: 'Wohnsitz abmelden in Deutschland und Österreich: Anleitung und Tipps'
+title: 'Wohnsitz abmelden in Deutschland und Österreich: Anleitung und Tipps'
+translationKey: austria-deregistration_of_residence
 ---
+
 
 ## Beschreibung
 ### Was ist das?

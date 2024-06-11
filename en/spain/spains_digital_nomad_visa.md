@@ -1,13 +1,17 @@
 ---
-title: "Spanish Digital Nomad Visa"
-meta_title: "How to get Spain's Digital Nomad Visa"
-description: "Step by step guide on how to apply and get a Spanish Digital Nomad Visa. Ideal for remote workers planning to work in Spain."
-date: 2024-05-22T05:00:00Z
-categories: ["Spain"]
-author: "Ricardo Batista"
-tags: ["Foreigners"]
+author: Ricardo Batista
+categories:
+- Spain
+date: 2024-05-22 05:00:00+00:00
+description: Learn about Spain's Digital Nomad Visa for remote workers & freelancers.
+  Find out how to apply, required documents, and the visa's duration & benefits.
 draft: false
+meta_title: 'Spain Digital Nomad Visa: Requirements, Process & Benefits'
+tags:
+- Foreigners
+title: 'Spain Digital Nomad Visa: Requirements, Process & Benefits'
 ---
+
 
 ## Description
 

@@ -1,13 +1,16 @@
 ---
-title: "Newborn registration process"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: "Step-by-step Guide: Newborn Registration in Croatia"
-description: "Detailed guide on how to register a newborn in Croatia. Contains procedure, required documents, and possible service providers."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Officially recognize a new family member and secure legal rights by registering
+  a newborn in Croatia. Learn about the procedure and necessary documents.
 draft: false
-translationKey: "croatia-newborn_registration_process"
+meta_title: 'Newborn Registration in Croatia: Procedure and Required Documents'
+title: 'Newborn Registration in Croatia: Procedure and Required Documents'
+translationKey: croatia-newborn_registration_process
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: austria-death_certificate_application
-title: "Sterbeurkunde Antrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Diese Anleitung bietet schrittweise Anweisungen, wie man einen Sterbeurkunde-Antrag in Österreich stellt."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wer eine Sterbeurkunde benötigt und wie Sie sie beantragen.
+  Schritte, erforderliche Dokumente und Anbieter mit Kosten und Bearbeitungszeiten.
 draft: false
+meta_title: Wie man eine Sterbeurkunde beantragt und was benötigt wird
+title: Wie man eine Sterbeurkunde beantragt und was benötigt wird
+translationKey: austria-death_certificate_application
 ---
+
 
 ## Beschreibung
 ### Was ist das?

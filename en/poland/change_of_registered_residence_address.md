@@ -1,13 +1,16 @@
 ---
-title: "Change of registered residence address in Poland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Change of registered residence address in Poland"
-description: "Comprehensive guide on how to change a registered residence address in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to update your official address in Poland by changing your
+  PESEL number and providing required documents. Necessary for all residents.
 draft: false
-translationKey: "poland-change_of_registered_residence_address"
+meta_title: Change Registered Residence Address in Poland Procedure
+title: Change Registered Residence Address in Poland Procedure
+translationKey: poland-change_of_registered_residence_address
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: germany-change_of_business_registration
-title: "Änderung der Geschäftsanmeldung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Ausführlicher Leitfaden zur Änderung der Geschäftsanmeldung in Deutschland."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihre Geschäftsdaten beim deutschen Gewerbeamt aktualisieren.
+  Schritte, erforderliche Dokumente und Dauer der Registrierungsänderung.
 draft: false
+meta_title: 'Änderung der Gewerbeanmeldung in Deutschland: Prozess und Dokumente'
+title: 'Änderung der Gewerbeanmeldung in Deutschland: Prozess und Dokumente'
+translationKey: germany-change_of_business_registration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

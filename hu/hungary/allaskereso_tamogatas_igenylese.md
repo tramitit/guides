@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-jobseekers_allowance_application
-title: "Álláskeresési segély igénylés"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Álláskeresési segély igénylési útmutató"
-description: "Egy átfogó lépésről lépésre útmutató az Álláskeresési segély igényléséhez"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: A Munkakereső Juttatás kormányprogram pénzügyi támogatás az aktív munkakeresőknek.
+  Regisztráljon, nyújtsa be kérelmét és találkozzon tanácsadóval a juttatásért.
 draft: false
+meta_title: 'Munkakereső Juttatás Program: Regisztrációs és Kérelem Folyamat'
+title: 'Munkakereső Juttatás Program: Regisztrációs és Kérelem Folyamat'
+translationKey: hungary-jobseekers_allowance_application
 ---
+
 
 ## Leírás
 ### Mi ez?

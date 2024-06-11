@@ -1,14 +1,16 @@
 ---
-
-title: "Citizenship Confirmation"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Guide to Confirming Citizenship"
-description: "A step-by-step guide on how to confirm your citizenship status."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Discover how to prove your citizenship for passport applications, studying
+  abroad, or bank accounts. Learn about required documents and providers involved.
 draft: false
-translationKey: "romania-citizenship_confirmation"
+meta_title: Romanian & Moldovan Citizenship Confirmation Process
+title: Romanian & Moldovan Citizenship Confirmation Process
+translationKey: romania-citizenship_confirmation
 ---
+
 
 ## Description
 ### What is it?

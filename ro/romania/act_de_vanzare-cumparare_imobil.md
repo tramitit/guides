@@ -1,13 +1,16 @@
 ---
-translationKey: romania-real_estate_purchase_agreement
-title: "Contract de Achiziție Imobiliară"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Cum să faci un Contract de Achiziție Imobiliară în România"
-description: "Ghid pas cu pas pentru înțelegerea și executarea contractelor de achiziție imobiliară în România."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați toate detaliile despre contractele de achiziție imobiliară în
+  România, de la proceduri și documente necesare, până la implicările legale.
 draft: false
+meta_title: Ghid Complet pentru Contractele de Achiziție Imobiliară
+title: Ghid Complet pentru Contractele de Achiziție Imobiliară
+translationKey: romania-real_estate_purchase_agreement
 ---
+
 
 ## Descriere
 ### Ce este?

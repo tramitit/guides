@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_spa_treatment
-title: "Žádost o lázeňskou léčbu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Lázeňská léčba v České republice"
-description: "Podrobný postupní průvodce pro žádost o lázeňskou léčbu v České republice."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, jak získat relaxaci a omlazení skrze lázeňské procedury v České
+  republice. Od vyhledání zařízení po dodržování pravidel a hydrataci po terapii.
 draft: false
+meta_title: 'Lázeňské procedury v České republice: Popis a Postup'
+title: 'Lázeňské procedury v České republice: Popis a Postup'
+translationKey: czech republic-application_for_spa_treatment
 ---
+
 
 ## Popis
 ### Co to je?

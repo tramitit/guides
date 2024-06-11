@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-change_of_name
-title: "Zmena Mená"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Toto je sprievodca, ako formálne zmeniť meno na Slovensku."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Zistite ako zmeniť meno na Slovensku - postup, dokumenty a čo očakávať.
+  Dôležitý krok pre zmenu krstného mena, priezviska alebo stredného mena.
 draft: false
+meta_title: 'Zmena Menových Údajov na Slovensku: Proces a Doklady'
+title: 'Zmena Menových Údajov na Slovensku: Proces a Doklady'
+translationKey: slovakia-change_of_name
 ---
+
 
 ## Popis
 ### Čo to je?

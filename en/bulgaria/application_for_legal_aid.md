@@ -1,13 +1,16 @@
 ---
-title: "Application for Legal Aid"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Application for legal aid in Bulgaria"
-description: "A guide on how to apply for legal aid in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Discover who qualifies for legal aid in Bulgaria and how to navigate
+  legal challenges with professional advice and public institution support.
 draft: false
-translationKey: "bulgaria-application_for_legal_aid"
+meta_title: 'Comprehensive Guide to Legal Aid in Bulgaria: Eligibility & Advice'
+title: 'Comprehensive Guide to Legal Aid in Bulgaria: Eligibility & Advice'
+translationKey: bulgaria-application_for_legal_aid
 ---
+
 
 ## Description
 ### What is it?

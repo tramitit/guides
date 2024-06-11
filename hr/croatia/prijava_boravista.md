@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-temporary_residence_registration
-title: "Privremena registracija boravka"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: ""
-description: "Ovaj vodič opisuje postupak privremene registracije boravka za strance koji žive u Hrvatskoj."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Saznajte kako stranci mogu registrirati privremeni boravak u Hrvatskoj,
+  potrebnu dokumentaciju i korisne informacije o postupku i pravilima boravka.
 draft: false
+meta_title: 'Registracija privremenog boravka u Hrvatskoj: Postupak i dokumenti'
+title: 'Registracija privremenog boravka u Hrvatskoj: Postupak i dokumenti'
+translationKey: croatia-temporary_residence_registration
 ---
+
 
 ## Opis
 ### Što je to?

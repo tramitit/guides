@@ -1,13 +1,16 @@
 ---
-title: "Registering children for school"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Register your children for school in Croatia"
-description: "An in-depth guide on how to register your children for school in Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to officially register your child in a Croatian school, including
+  required documents, procedure steps, and potential additional requirements.
 draft: false
-translationKey: "croatia-registering_children_for_school"
+meta_title: 'Enrolling Your Child in a Croatian School: Process & Requirements'
+title: 'Enrolling Your Child in a Croatian School: Process & Requirements'
+translationKey: croatia-registering_children_for_school
 ---
+
 
 ## Description
 ### What is it?

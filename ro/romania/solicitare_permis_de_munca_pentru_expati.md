@@ -1,13 +1,16 @@
 ---
-translationKey: romania-work_permit_application_for_expats
-title: "Cerere de permis de muncă pentru expați"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Procedură detaliată pentru aplicarea permisului de muncă în România pentru expați"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Descoperiți pașii și documentele necesare pentru a obține un permis de
+  muncă în România. Ghid complet oferit de Inspectoratul General pentru Imigrări.
 draft: false
+meta_title: 'Permisiune de Muncă în România: Procedură și Documente Necesare'
+title: 'Permisiune de Muncă în România: Procedură și Documente Necesare'
+translationKey: romania-work_permit_application_for_expats
 ---
+
 
 ## Descriere
 ### Ce este?

@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_business_registration
-title: "Pedido de Registo Comercial em Portugal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Como registrar um negócio em Portugal"
-description: "Guia detalhado passo a passo sobre como registrar um negócio em Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como legalizar sua empresa em Portugal, decidindo o nome, preparando
+  documentos e atendendo aos requisitos do governo. Guia para locais e estrangeiros.
 draft: false
+meta_title: 'Como Registrar uma Empresa em Portugal: Guia Completo'
+title: 'Como Registrar uma Empresa em Portugal: Guia Completo'
+translationKey: portugal-request_for_business_registration
 ---
+
 
 ## Descrição
 ### O que é?

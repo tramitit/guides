@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-registration_for_the_health_card_of_a_foreigner
-title: "Registracija zdravstvenog kartona stranca u Hrvatskoj"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Opsežni vodič o tome kako se registrirati za zdravstveni karton u Hrvatskoj kao stranac."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to obtain health insurance in Croatia as a foreigner, including
+  steps to register, required documents, and costs involved in the process.
 draft: false
+meta_title: How to Get Health Insurance in Croatia - Guide for Foreigners
+title: How to Get Health Insurance in Croatia - Guide for Foreigners
+translationKey: croatia-registration_for_the_health_card_of_a_foreigner
 ---
+
 
 ## Opis
 ### Što je to?

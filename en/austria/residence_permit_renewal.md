@@ -1,13 +1,16 @@
 ---
-title: "Residence Permit Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "A detailed guide on how to renew your residence permit in Austria"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn the process of renewing your residence permit in Austria. Get details
+  on documents, procedures, and tips for foreign nationals staying over six months.
 draft: false
-translationKey: "austria-residence_permit_renewal"
+meta_title: 'Residence Permit Renewal in Austria: Essential Steps and Tips'
+title: 'Residence Permit Renewal in Austria: Essential Steps and Tips'
+translationKey: austria-residence_permit_renewal
 ---
+
 
 ## Description
 ### What is it?

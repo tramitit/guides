@@ -1,13 +1,17 @@
 ---
-translationKey: italy-drivers_license_request
-title: "Richiesta di Patente di Guida"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Guida dettagliata per ottenere una patente di guida in Italia"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere e ottenere una patente di guida in Italia per
+  cittadini e turisti. I requisiti, la procedura, i documenti necessari e i costi
+  coinvolti.
 draft: false
+meta_title: 'Guida in Italia: Procedura per Ottenere la Patente di Guida'
+title: 'Guida in Italia: Procedura per Ottenere la Patente di Guida'
+translationKey: italy-drivers_license_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

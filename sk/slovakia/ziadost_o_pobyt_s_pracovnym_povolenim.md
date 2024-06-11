@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-application_for_residence_with_work_permit
-title: "Žiadosť o trvalý pobyt s pracovným povolením na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Krok za krokom sprievodca pri žiadosti o trvalý pobyt s pracovným povolením na Slovensku"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to apply for permanent residency with a work permit in Slovakia.
+  Gather required documents, submit application, and follow process until approval.
 draft: false
+meta_title: Guide to Permanent Residency with Work Permit in Slovakia
+title: Guide to Permanent Residency with Work Permit in Slovakia
+translationKey: slovakia-application_for_residence_with_work_permit
 ---
+
 
 ## Popis
 ### Čo je to?

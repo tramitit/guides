@@ -1,13 +1,17 @@
 ---
-translationKey: germany-applying_for_housing_allowance
-title: "Antrag auf Wohnungsbeihilfe"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany", "Netherlands"]
-meta_title: "Leitfaden für die Beantragung von Wohnungsbeihilfe in Deutschland und den Niederlanden"
-description: "Schritt-für-Schritt-Anleitung zur Beantragung von Wohnungsbeihilfe (Wohngeld in Deutschland und Huurtoeslag in den Niederlanden)"
+author: Ricardo Batista
+categories:
+- Germany
+- Netherlands
+date: '2024-06-07'
+description: Erfahren Sie, wer berechtigt ist, wie man es beantragt, erforderliche
+  Dokumente, Anbieterdetails und wichtige Hinweise für staatliche Wohnkostenunterstützung.
 draft: false
+meta_title: Wohngeld und Huurtoeslag in Deutschland und den Niederlanden
+title: Wohngeld und Huurtoeslag in Deutschland und den Niederlanden
+translationKey: germany-applying_for_housing_allowance
 ---
+
 
 ## Beschreibung
 ### Was ist das?

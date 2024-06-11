@@ -1,13 +1,17 @@
 ---
-title: "Issuance of a Family Status Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Steps in issuing a family status certificate for adoption or immigration processes in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to get a Family Status Certificate in Bulgaria for adoption
+  or immigration purposes. Find the steps, required documents, and provider details
+  here.
 draft: false
-translationKey: "bulgaria-issuance_of_a_family_status_certificate"
+meta_title: 'Family Status Certificate in Bulgaria: Procedure & Documents'
+title: 'Family Status Certificate in Bulgaria: Procedure & Documents'
+translationKey: bulgaria-issuance_of_a_family_status_certificate
 ---
+
 
 ## Description
 ### What is it?

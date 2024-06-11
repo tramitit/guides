@@ -1,13 +1,16 @@
 ---
-translationKey: italy-unemployment_allowance_application
-title: "Domanda di Indennità di Disoccupazione"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Come richiedere l'indennità di disoccupazione in Italia"
-description: "Guida dettagliata sulle procedure di domanda di indennità di disoccupazione, documenti richiesti e vari dettagli dei fornitori di servizi."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere l'Indennità di Disoccupazione, i documenti richiesti
+  e i fornitori che possono aiutarti. Prepara la tua domanda con successo!
 draft: false
+meta_title: 'Indennità di Disoccupazione: Come richiederla e documenti necessari'
+title: 'Indennità di Disoccupazione: Come richiederla e documenti necessari'
+translationKey: italy-unemployment_allowance_application
 ---
+
 
 ## Descrizione
 ### Che cos'è?

@@ -1,13 +1,16 @@
 ---
-title: "Unemployment Benefits Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Unemployment Benefits Request in Italy"
-description: "A detailed guide on how to request for unemployment benefits in Italy"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn about NASpI, a government payment for unemployed individuals in
+  Italy meeting eligibility criteria. Find out how to apply and required documents.
 draft: false
-translationKey: "italy-unemployment_benefits_request"
+meta_title: 'Unemployment Benefits in Italy: NASpI Overview and Application Process'
+title: 'Unemployment Benefits in Italy: NASpI Overview and Application Process'
+translationKey: italy-unemployment_benefits_request
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: italy-electoral_roll_registration_request
-title: "Richiesta di registrazione al registro elettorale"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa è la descrizione meta"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come registrarti per votare alle elezioni in Italia o all'estero
+  tramite l'A.I.R.E. Documenti richiesti, procedure e fornitori disponibili per te.
 draft: false
+meta_title: 'Registrazione al Registro Elettorale: Guida per Cittadini Italiani'
+title: 'Registrazione al Registro Elettorale: Guida per Cittadini Italiani'
+translationKey: italy-electoral_roll_registration_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

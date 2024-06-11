@@ -1,13 +1,16 @@
 ---
-title: "Issuance of Slovak Passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Issuance of Slovak Passport"
-description: "A comprehensive guide on how to issue a Slovak passport."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to apply for a Slovak Passport, verify citizenship, required
+  documents, and procedure. Ensure accuracy and avoid delays in processing.
 draft: false
-translationKey: "slovakia-issuance_of_passport"
+meta_title: 'Slovak Passport Application: Procedure, Required Documents'
+title: 'Slovak Passport Application: Procedure, Required Documents'
+translationKey: slovakia-issuance_of_passport
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_land_registry_certificate
-title: "Pedido de Certidão de Registo Predial"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este guia inclui um processo passo a passo sobre como solicitar uma Certidão de Registo Predial em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: 'Saiba como obter a Certidão Predial Permanente em Portugal: procedimento
+  online, documentos necessários e prestadores de serviço. Renovação a cada seis meses.'
 draft: false
+meta_title: Obtenção do Certificado de Registo Predial em Portugal
+title: Obtenção do Certificado de Registo Predial em Portugal
+translationKey: portugal-request_for_land_registry_certificate
 ---
+
 
 ## Descrição
 

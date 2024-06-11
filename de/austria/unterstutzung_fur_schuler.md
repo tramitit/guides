@@ -1,13 +1,16 @@
 ---
-translationKey: austria-support_for_students
-title: "Unterstützung für Studenten"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Ein ausführlicher Leitfaden zur Unterstützung von Studenten basierend auf Erfahrungen, die in Österreich geteilt wurden, und wie man in Wien budgetiert"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Ein Leitfaden für Studenten in Österreich, mit Tipps zu Stipendien, Budgetierung
+  in Wien, kulturellen Normen und Dokumentenanforderungen.
 draft: false
+meta_title: 'Leben als Student in Österreich: Stipendien, Wien und Budgetplanung'
+title: 'Leben als Student in Österreich: Stipendien, Wien und Budgetplanung'
+translationKey: austria-support_for_students
 ---
+
 
 ## Beschreibung
 ### Was ist es?

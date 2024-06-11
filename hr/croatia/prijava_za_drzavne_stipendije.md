@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-application_for_state_scholarships
-title: "Prijava za državne stipendije"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Detaljan vodič o tome kako se prijaviti za državne stipendije"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte o državnim stipendijama za studente s financijskim poteškoćama.
+  Korak po korak postupak, potrebni dokumenti i savjeti za uspješnu prijavu.
 draft: false
+meta_title: 'Državne stipendije: Kako ih dobiti i koje dokumente pripremiti'
+title: 'Državne stipendije: Kako ih dobiti i koje dokumente pripremiti'
+translationKey: croatia-application_for_state_scholarships
 ---
+
 
 ## Opis
 

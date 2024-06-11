@@ -1,13 +1,16 @@
 ---
-translationKey: austria-income_tax_declaration
-title: "Einkommenssteuererklärung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Dieser Schritt-für-Schritt-Leitfaden bietet Informationen zur Einkommensteuererklärung in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihre Einkommensteuererklärung in Österreich korrekt
+  ausfüllen und einreichen. Erforderliche Dokumente, Anbieter und Fristen erklärt.
 draft: false
+meta_title: 'Einkommensteuererklärung in Österreich: Verfahren und Anbieter'
+title: 'Einkommensteuererklärung in Österreich: Verfahren und Anbieter'
+translationKey: austria-income_tax_declaration
 ---
+
 
 ## Beschreibung
 ### Was ist es?

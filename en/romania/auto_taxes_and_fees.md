@@ -1,13 +1,16 @@
 ---
-title: "Auto Taxes and Fees"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "This guide provides details on auto taxes and fees in Romania, including a step-by-step procedure on how to calculate and process them."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn about auto taxes, registration fees, and insurance costs for vehicle
+  owners in Romania. Essential for residents, importers, and used car buyers.
 draft: false
-translationKey: "romania-auto_taxes_and_fees"
+meta_title: 'Auto Taxes and Fees in Romania: Essential Guide for Car Owners'
+title: 'Auto Taxes and Fees in Romania: Essential Guide for Car Owners'
+translationKey: romania-auto_taxes_and_fees
 ---
+
 
 ## Description
 ### What is it?

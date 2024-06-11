@@ -1,13 +1,16 @@
 ---
-translationKey: spain-nie_application
-title: "Solicitud de NIE"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Cómo obtener tu NIE en España"
-description: "Una guía paso a paso sobre el procedimiento para solicitar un NIE en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre los pasos para conseguir el Número de Identificación de Extranjero
+  (NIE) en España. Requisitos, trámites, documentos y un proveedor que puede ayudarte.
 draft: false
+meta_title: 'Cómo obtener el NIE en España: requisitos, procedimiento y proveedores'
+title: 'Cómo obtener el NIE en España: requisitos, procedimiento y proveedores'
+translationKey: spain-nie_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

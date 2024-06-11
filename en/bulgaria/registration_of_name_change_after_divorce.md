@@ -1,13 +1,16 @@
 ---
-title: "Registration of name change after divorce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Registration of name change after divorce in Bulgaria"
-description: "Guide on how to register a name change after divorce in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to formally change your surname post-divorce in Bulgaria. Includes
+  steps, required documents, and guidance for updating all identification records.
 draft: false
-translationKey: "bulgaria-registration_of_name_change_after_divorce"
+meta_title: 'Change Surname After Divorce in Bulgaria: Procedure and Documents'
+title: 'Change Surname After Divorce in Bulgaria: Procedure and Documents'
+translationKey: bulgaria-registration_of_name_change_after_divorce
 ---
+
 
 ## Description
 ### What is it?

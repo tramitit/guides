@@ -1,13 +1,17 @@
 ---
-translationKey: czech republic-employer_registration_for_health_insurance
-title: "Registrace zaměstnavatele pro zdravotní pojištění"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Průvodce registrací zaměstnavatele pro zdravotní pojištění v České republice"
-description: "Podrobný průvodce, jak se zaregistrovat pro zdravotní pojištění jako zaměstnavatel v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zajistěte zaměstnancům adekvátní zdravotní péči registrací do státního
+  zdravotního pojištění v ČR. Postupy, dokumenty a povinnosti pro zaměstnavatele a
+  podniky.
 draft: false
+meta_title: Registrace zaměstnavatele pro zdravotní pojištění v České republice
+title: Registrace zaměstnavatele pro zdravotní pojištění v České republice
+translationKey: czech republic-employer_registration_for_health_insurance
 ---
+
 
 ## Popis
 ### Co je to?

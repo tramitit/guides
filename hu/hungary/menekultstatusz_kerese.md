@@ -1,14 +1,16 @@
 ---
-translationKey: hungary-request_for_refugee_status
-
-title: "Menekültstátusz iránti kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Útmutató a menekültstátusz iránti kérelemhez Magyarországon"
-description: "Lépésről lépésre útmutató arról, hogyan lehet menekültstátuszt kérni Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: 'Ismerje meg a menedékjog kérelmezés folyamatát: regisztráció, kérelem
+  benyújtása, interjú, döntés. Szükséges dokumentumok: útlevél, bizonyítékok, kérdőív.'
 draft: false
+meta_title: Menedékjog iránti kérelem folyamata és dokumentumai
+title: Menedékjog iránti kérelem folyamata és dokumentumai
+translationKey: hungary-request_for_refugee_status
 ---
+
 
 ## Leírás
 ### Mi ez?

@@ -1,13 +1,16 @@
 ---
-title: "Issuance of Building Permit in Slovakia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Step-by-step guide on how to obtain a building permit in Slovakia"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn about the requirement and process of obtaining a building permit
+  in Slovakia. Detailed steps, documents, providers, and important considerations.
 draft: false
-translationKey: "slovakia-issuance_of_building_permit"
+meta_title: 'Building Permits in Slovakia: Application and Procedure'
+title: 'Building Permits in Slovakia: Application and Procedure'
+translationKey: slovakia-issuance_of_building_permit
 ---
+
 
 ## Description
 ### What is it?

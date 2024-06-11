@@ -1,13 +1,16 @@
 ---
-translationKey: austria-data_protection_request
-title: "Datenschutzanfrage"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Verstehen Sie den schrittweisen Ablauf zur Einleitung einer Datenschutzanfrage gemäß der DSGVO"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie als EU-Bürger einen GDPR Subject Access Request
+  stellen. Erforderliche Schritte, Kontaktinformationen und rechtliche Aspekte erklärt.
 draft: false
+meta_title: 'Datenschutzantrag nach DSGVO: Anfrage und Verfahren'
+title: 'Datenschutzantrag nach DSGVO: Anfrage und Verfahren'
+translationKey: austria-data_protection_request
 ---
+
 
 ## Beschreibung
 ### Was ist das?

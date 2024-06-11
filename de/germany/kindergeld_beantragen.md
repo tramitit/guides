@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_child_benefit
-title: "Kindergeld beantragen in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Eine Schritt-für-Schritt-Anleitung, wie man Kindergeld in Deutschland beantragt."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Eltern in Deutschland Kindergeld beantragen, benötigte
+  Unterlagen, Bearbeitungszeiten und Anbieter, die bei der Beantragung helfen können.
 draft: false
+meta_title: 'Kindergeld in Deutschland: Antrag, Voraussetzungen & Anbieter'
+title: 'Kindergeld in Deutschland: Antrag, Voraussetzungen & Anbieter'
+translationKey: germany-applying_for_child_benefit
 ---
+
 
 ## Beschreibung
 ### Was ist es?

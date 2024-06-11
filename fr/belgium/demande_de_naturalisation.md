@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_naturalization
-title: "Demande de naturalisation"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Il s'agit d'un guide étape par étape pour demander la naturalisation en Belgique, provenant de témoignages fiables de première main."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez la naturalisation, un processus légal pour acquérir la citoyenneté.
+  Étapes, documents requis, prestataires disponibles et conseils à suivre inclus.
 draft: false
+meta_title: 'Naturalisation: Processus, Documents & Prestataires'
+title: 'Naturalisation: Processus, Documents & Prestataires'
+translationKey: belgium-request_for_naturalization
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

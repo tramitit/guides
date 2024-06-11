@@ -1,13 +1,16 @@
 ---
-title: "Study Grant Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detailed guide on how to apply for a study grant in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Discover how to apply for a study grant in Austria, eligibility criteria,
+  required documents, application process, funding period, and providers' details.
 draft: false
-translationKey: "austria-study_grant_application"
+meta_title: 'Study Grant in Austria: Eligibility, Application & Providers'
+title: 'Study Grant in Austria: Eligibility, Application & Providers'
+translationKey: austria-study_grant_application
 ---
+
 
 ## Description
 ### What is it?

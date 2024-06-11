@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-tax_return_submission
-title: "Adóbevallás benyújtása"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Útmutató az Adóbevallás Benyújtásához Magyarországon"
-description: "Egy lépésről lépésre útmutató az adóbevallás benyújtásához Magyarországon, beleértve az információkat a kriptó adókról."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg, hogyan kell benyújtani az adóbevallást Magyarországon, beleértve
+  a kriptóadók információit. Szükséges dokumentumok és eljárás lépései részletesen!
 draft: false
+meta_title: 'Adóbevallás Magyarországon: Útmutató és Szükséges Dokumentumok'
+title: 'Adóbevallás Magyarországon: Útmutató és Szükséges Dokumentumok'
+translationKey: hungary-tax_return_submission
 ---
+
 
 ## Leírás
 ### Mi is ez?

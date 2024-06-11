@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_passport
-title: "Aanvraag voor paspoort"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Dit artikel begeleidt u bij het proces van het verkrijgen van een paspoort in België."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Leer hoe je een paspoort aanvraagt, benodigde documenten, dienstverleners,
+  kosten en tips. Pas op voor verwerkingstijdvariaties en geldigheid van paspoorten.
 draft: false
+meta_title: 'Paspoort aanvragen: Procedure, vereiste documenten & meer'
+title: 'Paspoort aanvragen: Procedure, vereiste documenten & meer'
+translationKey: belgium-request_for_passport
 ---
+
 
 ## Beschrijving
 ### Wat is het?

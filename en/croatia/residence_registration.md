@@ -1,13 +1,17 @@
 ---
-title: "Residence registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: ""
-description: "This is a comprehensive guide for the residence registration procedure in Croatia."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Learn about the mandatory procedure for foreign residents in Croatia,
+  including required documents and registration process. Ensure legal status in the
+  country!
 draft: false
-translationKey: "croatia-residence_registration"
+meta_title: 'Croatia Residence Registration: Procedure & Required Documents'
+title: 'Croatia Residence Registration: Procedure & Required Documents'
+translationKey: croatia-residence_registration
 ---
+
 
 ## Description
 ### What is it?

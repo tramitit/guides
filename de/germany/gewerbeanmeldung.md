@@ -1,13 +1,16 @@
 ---
-translationKey: germany-business_registration
-title: "Gewerbeanmeldung in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dies ist ein umfassender Leitfaden zur Gewerbeanmeldung in Deutschland."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wer die Gewerbeanmeldung benötigt, das erforderliche Verfahren
+  und Dokumente. Steuerliche Aspekte und Ausnahmen für Freiberufler erklärt.
 draft: false
+meta_title: 'Gewerbeanmeldung in Deutschland: Prozess und Erfordernisse'
+title: 'Gewerbeanmeldung in Deutschland: Prozess und Erfordernisse'
+translationKey: germany-business_registration
 ---
+
 
 ## Beschreibung
 ### Was ist das?

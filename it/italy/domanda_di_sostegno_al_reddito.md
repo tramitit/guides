@@ -1,13 +1,16 @@
 ---
-translationKey: italy-income_support_application
-title: "Domanda di Supporto al Reddito"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa è la meta descrizione"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere il reddito di cittadinanza in Italia, i documenti
+  necessari, fornitori autorizzati e le condizioni per mantenere il beneficio.
 draft: false
+meta_title: 'Reddito di Cittadinanza Italia: Procedura e Documenti Richiesti'
+title: 'Reddito di Cittadinanza Italia: Procedura e Documenti Richiesti'
+translationKey: italy-income_support_application
 ---
+
 
 ## Descrizione
 ### Che cos'è?

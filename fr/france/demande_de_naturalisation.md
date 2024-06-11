@@ -1,13 +1,16 @@
 ---
-translationKey: france-naturalization_application
-title: "Demande de naturalisation"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide pour la demande de naturalisation française"
-description: "Guide étape par étape pour la demande de naturalisation française, incluant les procédures et les documents requis"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment devenir citoyen français par naturalisation. Étapes,
+  pièces requises, prestataires, délais et conditions pour ce processus légal en France.
 draft: false
+meta_title: 'Guide de Naturalisation en France: Processus, Documents & Délais'
+title: 'Guide de Naturalisation en France: Processus, Documents & Délais'
+translationKey: france-naturalization_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

@@ -1,13 +1,16 @@
 ---
-title: "Application for a Duplicate Birth Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "This guide provides the details on how to apply for a duplicate birth certificate in Hungary"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to apply for a duplicate Hungarian birth certificate for citizenship
+  or documentation needs. Steps, requirements, and helpful tips included.
 draft: false
-translationKey: "hungary-application_for_duplicate_birth_certificate"
+meta_title: How to Get a Duplicate Hungarian Birth Certificate Easily
+title: How to Get a Duplicate Hungarian Birth Certificate Easily
+translationKey: hungary-application_for_duplicate_birth_certificate
 ---
+
 
 ## Description
 ### What is it?

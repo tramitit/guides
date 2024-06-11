@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-residence_registration_for_foreigners
-title: "Registrace pobytu pro cizince"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Vaše komplexní průvodce registrací vašeho pobytu jako cizince v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Seznamte se s procesem registrace bydliště v České republice pro cizince.
+  Zjistěte, jak probíhá registrace, požadované dokumenty a možnost zprostředkovatelů.
 draft: false
+meta_title: 'Registrace Pobytu v České Republice: Postup a Požadavky'
+title: 'Registrace Pobytu v České Republice: Postup a Požadavky'
+translationKey: czech republic-residence_registration_for_foreigners
 ---
+
 
 ## Popis
 ### Co to je?

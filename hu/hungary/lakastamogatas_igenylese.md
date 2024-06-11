@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-housing_support_application
-title: "Lakhatástámogatási kérelem"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Kérelem útmutató a lakhatástámogatáshoz Magyarországon"
-description: "Ez az útmutató lépésről lépésre bemutatja hogyan lehet jelentkezni a lakhatástámogatásért Magyarországon, beleértve a szükséges dokumentumokat és szolgáltatókat."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Részletes útmutató a lakhatástámogatásról Magyarországon az igénylés
+  jogosultságáról, eljárásról, szükséges dokumentumokról és segítségnyújtó szolgáltatókról.
 draft: false
+meta_title: 'Lakhatástámogatás Magyarországon: Jogosultság, Eljárás és Dokumentumok'
+title: 'Lakhatástámogatás Magyarországon: Jogosultság, Eljárás és Dokumentumok'
+translationKey: hungary-housing_support_application
 ---
+
 
 ## Leírás
 ### Mi is az?

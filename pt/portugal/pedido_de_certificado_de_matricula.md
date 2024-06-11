@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_registration_certificate
-title: "Pedido de Certificado de Registo"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este é um guia detalhado sobre como solicitar um certificado de registo de veículo em Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como obter o certificado de matrícula em Portugal com o guia detalhado
+  sobre documentos, procedimentos e custos envolvidos.
 draft: false
+meta_title: 'Certificado de Matrícula: Procedimento e Documentos Necessários'
+title: 'Certificado de Matrícula: Procedimento e Documentos Necessários'
+translationKey: portugal-request_for_registration_certificate
 ---
+
 
 ## Descrição
 ### O que é?

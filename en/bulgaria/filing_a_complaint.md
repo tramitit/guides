@@ -1,13 +1,16 @@
 ---
-title: "Filing a complaint"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Step by Step procedure of Filing a Complaint in Bulgaria"
-description: "Useful guide to assist anyone seeking how to register a complaint in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to file complaints in Bulgaria for issues like noise, fines,
+  and scams. Includes procedure, required documents, and relevant authorities.
 draft: false
-translationKey: "bulgaria-filing_a_complaint"
+meta_title: 'Guide to Filing Complaints in Bulgaria: Steps and Authorities'
+title: 'Guide to Filing Complaints in Bulgaria: Steps and Authorities'
+translationKey: bulgaria-filing_a_complaint
 ---
+
 
 ## Description
 ### What is it?

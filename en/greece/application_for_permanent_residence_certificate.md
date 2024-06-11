@@ -1,13 +1,16 @@
 ---
-title: "Application for permanent residence certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Procedure for Applying for Permanent Residence Certificate in Greece"
-description: "This post outlines the process of applying for a permanent residence certificate in Greece."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn about the steps, required documents, and providers to get your
+  Permanent Residence Certificate in Greece. Follow our detailed guide.
 draft: false
-translationKey: "greece-application_for_permanent_residence_certificate"
+meta_title: How to Obtain a Permanent Residence Certificate in Greece
+title: How to Obtain a Permanent Residence Certificate in Greece
+translationKey: greece-application_for_permanent_residence_certificate
 ---
+
 
 ## Description
 ### What is it?

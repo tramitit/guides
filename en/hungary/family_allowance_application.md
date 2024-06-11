@@ -1,13 +1,16 @@
 ---
-title: "Family Allowance Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "This is a guide to help with the application for family allowance in Hungary."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Discover how to apply for family allowance in Hungary, requirements,
+  documents needed, application procedure, and available providers for assistance.
 draft: false
-translationKey: "hungary-family_allowance_application"
+meta_title: 'Family Allowance in Hungary: Requirements, Procedure & Providers'
+title: 'Family Allowance in Hungary: Requirements, Procedure & Providers'
+translationKey: hungary-family_allowance_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: spain-digital_certificate_application
-title: "Solicitud de Certificado Digital"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Esta es la meta descripción"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo obtener un Certificado Digital en España. Guía paso a paso
+  y documentos requeridos para trámites administrativos en línea.
 draft: false
+meta_title: 'Cómo obtener un Certificado Digital en España: Guía completa'
+title: 'Cómo obtener un Certificado Digital en España: Guía completa'
+translationKey: spain-digital_certificate_application
 ---
+
 
 ## Descripción
 

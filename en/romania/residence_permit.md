@@ -1,13 +1,16 @@
 ---
-title: "Residence Permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Guide on obtaining a Residence Permit in Romania"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn the process to secure a Residence Permit in Romania for non-EU
+  nationals. Find out the required documents, providers, costs, and renewal details.
 draft: false
-translationKey: "romania-residence_permit"
+meta_title: 'Residence Permit in Romania: How to Obtain and Renew It'
+title: 'Residence Permit in Romania: How to Obtain and Renew It'
+translationKey: romania-residence_permit
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Registration in the foreigner's registers"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Registration in the Foreigner's Registers - A Concise Guide"
-description: "This article is a concise guide on how to register in the foreigner's registers for different countries."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn about the process and required documents for registering as a foreigner
+  in a new country. Ensure compliance with local laws and avoid penalties.
 draft: false
-translationKey: "belgium-registration_in_the_foreigners_registers"
+meta_title: 'Foreigner''s Register: Requirements and Process for Residency'
+title: 'Foreigner''s Register: Requirements and Process for Residency'
+translationKey: belgium-registration_in_the_foreigners_registers
 ---
+
 
 ## Description
 ### What is it?

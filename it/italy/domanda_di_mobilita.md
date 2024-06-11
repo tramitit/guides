@@ -1,13 +1,16 @@
 ---
-translationKey: italy-mobility_application
-title: "Applicazione di Mobilità"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Guida completa su come richiedere il visto per la Mobilità Giovanile"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere un visto per la mobilità giovanile nel Regno Unito
+  per giovani tra 18 e 30 anni. Documenti, procedura e fornitori. Pianifica con anticipo!
 draft: false
+meta_title: 'Visto Mobility Giovanile per il Regno Unito: Guida e Requisiti'
+title: 'Visto Mobility Giovanile per il Regno Unito: Guida e Requisiti'
+translationKey: italy-mobility_application
 ---
+
 
 ## Descrizione
 ### Cos'è?

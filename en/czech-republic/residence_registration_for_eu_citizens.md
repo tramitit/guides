@@ -1,13 +1,16 @@
 ---
-title: "Residence registration for EU citizens"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "A guide to residence registration for EU citizens in the Czech Republic."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn the steps for EU citizens to register residence in Czech Republic,
+  including required documents and benefits like health insurance and parking permits.
 draft: false
-translationKey: "czech-republic-residence_registration_for_eu_citizens"
+meta_title: Residence Registration for EU Citizens in the Czech Republic
+title: Residence Registration for EU Citizens in the Czech Republic
+translationKey: czech-republic-residence_registration_for_eu_citizens
 ---
+
 
 ## Description
 ### What is it?

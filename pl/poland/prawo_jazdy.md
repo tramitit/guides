@@ -1,13 +1,16 @@
 ---
-translationKey: poland-driving_license
-title: "Prawo jazdy"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Jak zdobyć prawo jazdy w Polsce"
-description: "Szczegółowa procedura na uzyskanie polskiego prawa jazdy"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zdobyć prawo jazdy w Polsce. Kurs w szkole jazdy, egzaminy,
+  wymagane dokumenty i inne istotne informacje. Minimalny wiek to 18 lat.
 draft: false
+meta_title: 'Jak Uzyskać Prawo Jazdy w Polsce: Procedura i Dokumenty'
+title: 'Jak Uzyskać Prawo Jazdy w Polsce: Procedura i Dokumenty'
+translationKey: poland-driving_license
 ---
+
 
 ## Opis
 ### Co to jest?

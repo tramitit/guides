@@ -1,13 +1,17 @@
 ---
-title: "Applying for a Spanish Social Security Number"
-meta_title: "Step-by-step guide to apply for a Spanish Social Security Number"
-description: "This guide outlines the process of applying for a Spanish Social Security Number. It includes information on required documents, how to obtain them and offers solutions for any potential issues. "
-date: 2024-05-22T05:00:00Z
-categories: ["Spain"]
-author: "Ricardo Batista"
-tags: ["Foreigners"]
+author: Ricardo Batista
+categories:
+- Spain
+date: 2024-05-22 05:00:00+00:00
+description: Learn how residents in Spain can obtain a unique identification number
+  for work, healthcare, and more. Find procedure details and required documents here!
 draft: false
+meta_title: 'Applying for Spanish Social Security Number: Procedure & Documents'
+tags:
+- Foreigners
+title: 'Applying for Spanish Social Security Number: Procedure & Documents'
 ---
+
 
 ## Description
 

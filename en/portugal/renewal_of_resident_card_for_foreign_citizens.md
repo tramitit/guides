@@ -1,13 +1,17 @@
 ---
-title: "Renewal of Resident Card for Foreign Citizens"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Detailed Guide on Renewal of Resident Card for Foreign Citizens"
-description: "This guide offers a step by step process on renewing resident cards for foreign citizens living in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Renew your resident card in Portugal seamlessly. Know the procedure,
+  required documents, providers, costs, and essential tips for a successful renewal
+  process.
 draft: false
-translationKey: "portugal-renewal_of_resident_card_for_foreign_citizens"
+meta_title: 'Portugal Resident Card Renewal: Process, Documents & Tips'
+title: 'Portugal Resident Card Renewal: Process, Documents & Tips'
+translationKey: portugal-renewal_of_resident_card_for_foreign_citizens
 ---
+
 
 ## Description
 ### What is it?

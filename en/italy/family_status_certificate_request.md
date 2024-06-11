@@ -1,13 +1,16 @@
 ---
-title: "Family Status Certificate Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Step by step guide on how to do Family Status Certificate request in Italy"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to request a 'Stato di Famiglia' issued by Italian municipalities.
+  Procedure, required docs, providers, costs, and key tips for success included.
 draft: false
-translationKey: "italy-family_status_certificate_request"
+meta_title: 'Obtaining an Italian Family Status Certificate: Procedure & Tips'
+title: 'Obtaining an Italian Family Status Certificate: Procedure & Tips'
+translationKey: italy-family_status_certificate_request
 ---
+
 
 ## Description
 ### What is it?

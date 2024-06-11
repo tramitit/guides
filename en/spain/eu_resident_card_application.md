@@ -1,13 +1,16 @@
 ---
-title: "EU Resident Card Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "EU Resident Card Application Guide"
-description: "A comprehensive guide on how to apply for EU Resident Card."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how non-EU residents can legally reside in Spain for over 90 days.
+  Guide includes required documents, application steps, and timelines for approval.
 draft: false
-translationKey: "spain-eu_resident_card_application"
+meta_title: 'EU Resident Card Application in Spain: Process & Documents'
+title: 'EU Resident Card Application in Spain: Process & Documents'
+translationKey: spain-eu_resident_card_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Application for a Criminal Record Extract in Slovakia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This is a step by step guide on how to apply for a criminal record extract in Slovakia."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to obtain a Criminal Record Extract in Slovakia for employment,
+  immigration or legal purposes. Steps, required documents, and providers included.
 draft: false
-translationKey: "slovakia-application_for_a_criminal_record_extract"
+meta_title: 'Criminal Record Extract in Slovakia: Procedure & Providers'
+title: 'Criminal Record Extract in Slovakia: Procedure & Providers'
+translationKey: slovakia-application_for_a_criminal_record_extract
 ---
+
 
 ## Description
 ### What is it?

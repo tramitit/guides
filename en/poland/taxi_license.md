@@ -1,13 +1,16 @@
 ---
-title: "Obtaining a Taxi License in Poland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Guide to Obtain a Taxi License in Poland"
-description: "Detailed guide outlining the process for obtaining a taxi license in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn the steps to obtain a Taxi License including exams, documents,
+  and providers. Ideal for those wanting to drive taxis in Poland, locals, and foreigners.
 draft: false
-translationKey: "poland-taxi_license"
+meta_title: 'How to Get a Taxi License in Poland: Process & Requirements'
+title: 'How to Get a Taxi License in Poland: Process & Requirements'
+translationKey: poland-taxi_license
 ---
+
 
 ## Description
 ### What is it?

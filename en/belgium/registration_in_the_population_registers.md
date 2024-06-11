@@ -1,13 +1,16 @@
 ---
-title: "Registration in the population registers"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "A guide to getting registered in the population registers in Belgium"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn the official steps to register your residency in Belgium, required
+  documents, and why it's necessary for service access and legal recognition.
 draft: false
-translationKey: "belgium-registration_in_the_population_registers"
+meta_title: 'Registering Residency in Belgium: Steps and Requirements'
+title: 'Registering Residency in Belgium: Steps and Requirements'
+translationKey: belgium-registration_in_the_population_registers
 ---
+
 
 ## Description
 ### What is it?

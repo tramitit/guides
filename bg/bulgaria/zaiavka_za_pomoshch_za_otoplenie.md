@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-application_for_heating_assistance
-title: "Заявление за помощ при отопление"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Това е мета описание"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Открийте как да получите финансова помощ за отопление в студените месеци.
+  Изисквания за подходящост, документи, доставчици и важни детайли за процедурата.
 draft: false
+meta_title: 'Помощ за отопление: Процедура, Документи, Доставчици'
+title: 'Помощ за отопление: Процедура, Документи, Доставчици'
+translationKey: bulgaria-application_for_heating_assistance
 ---
+
 
 ## Описание
 ### Какво е това?

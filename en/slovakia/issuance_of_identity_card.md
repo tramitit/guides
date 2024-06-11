@@ -1,13 +1,16 @@
 ---
-title: "Issuance of Slovak Identity Card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Comprehensive guide on how to issue a Slovak Identity Card"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to apply for a Slovak Identity Card, mandatory for citizens
+  above 15 years. Explore its use as an EU travel document and health insurance card.
 draft: false
-translationKey: "slovakia-issuance_of_identity_card"
+meta_title: 'Slovak Identity Card (Občiansky preukaz): Application & Benefits'
+title: 'Slovak Identity Card (Občiansky preukaz): Application & Benefits'
+translationKey: slovakia-issuance_of_identity_card
 ---
+
 
 ## Description
 ### What is it?

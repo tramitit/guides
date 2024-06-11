@@ -1,13 +1,16 @@
 ---
-translationKey: france-family_allowance_application
-title: "Demande d'allocation familiale"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Il s'agit de la description meta"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez la procédure pour obtenir les allocations familiales en France
+  via la CAF. Documents requis, conseils et avertissements pour éviter la fraude.
 draft: false
+meta_title: 'Allocations Familiales en France: Comment les demander'
+title: 'Allocations Familiales en France: Comment les demander'
+translationKey: france-family_allowance_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

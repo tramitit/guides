@@ -1,13 +1,16 @@
 ---
-title: "Change of Surname Notification"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Guide to change of surname notification in Poland"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to legally change your surname in Poland. Follow this guide
+  to notify authorities, update documents, and inform relevant entities efficiently.
 draft: false
-translationKey: "poland-change_of_surname_notification"
+meta_title: 'Surname Change Notification in Poland: Procedure & Documents'
+title: 'Surname Change Notification in Poland: Procedure & Documents'
+translationKey: poland-change_of_surname_notification
 ---
+
 
 ## Description
 ### What is it?

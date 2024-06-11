@@ -1,13 +1,16 @@
 ---
-title: "Driver's License Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Detailed guide on obtaining a Driver's License in Italy"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn the steps to obtain an Italian driver’s license, from registration
+  to exams, including necessary documents and fees.
 draft: false
-translationKey: "italy-drivers_license_request"
+meta_title: Guidelines for Obtaining an Italian Driver’s License
+title: Guidelines for Obtaining an Italian Driver’s License
+translationKey: italy-drivers_license_request
 ---
+
 
 ## Description
 ### What is it?

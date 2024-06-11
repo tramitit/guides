@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-issuance_of_death_certificate
-title: "Vydávanie úmrtných listov"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Toto je meta popis"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to obtain a death certificate including required forms, supporting
+  documents, submission process, and providers who can assist you.
 draft: false
+meta_title: 'Process of Obtaining Death Certificate: Steps, Documents & Providers'
+title: 'Process of Obtaining Death Certificate: Steps, Documents & Providers'
+translationKey: slovakia-issuance_of_death_certificate
 ---
+
 
 ## Popis
 ### Čo to je?

@@ -1,13 +1,16 @@
 ---
-translationKey: spain-request_educational_scholarships
-title: "Solicitar Becas Educativas"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guía para Solicitar Becas Educativas"
-description: "Una guía detallada sobre cómo navegar el proceso de solicitar becas educativas, basada en información disponible en línea."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Aprende cómo solicitar becas educativas, desde identificarlas hasta enviar
+  la solicitud. Descubre los documentos necesarios y proveedores que te pueden ayudar.
 draft: false
+meta_title: 'Solicitud de Becas Educativas: Proceso, Documentos y Proveedores'
+title: 'Solicitud de Becas Educativas: Proceso, Documentos y Proveedores'
+translationKey: spain-request_educational_scholarships
 ---
+
 
 ## Descripción
 ### ¿Qué es?

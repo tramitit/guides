@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-issuance_of_a_drivers_license
-title: "Издаване на шофьорска книжка"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Получаване на шофьорска книжка в България"
-description: "Подробно ръководство как да получите шофьорска книжка в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да получите шофьорска книжка в България - от курс и изпити
+  до необходимите документи. Изисквания, срокове и допълнителни информация.
 draft: false
+meta_title: 'Получаване на шофьорска книжка в България: процедура и документи'
+title: 'Получаване на шофьорска книжка в България: процедура и документи'
+translationKey: bulgaria-issuance_of_a_drivers_license
 ---
+
 
 ## Описание
 ### Какво е това?

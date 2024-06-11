@@ -1,13 +1,16 @@
 ---
-title: "Issuance of passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Learn how to apply for a Croatian passport, required documents, procedure
+  steps, and providers. Regular & urgent options available. Check for COVID-19 updates!
 draft: false
-translationKey: "croatia-issuance_of_passport"
+meta_title: 'Croatian Passport: Issuance Procedure & Required Documents'
+title: 'Croatian Passport: Issuance Procedure & Required Documents'
+translationKey: croatia-issuance_of_passport
 ---
+
 
 ## Description
 ### What is it?

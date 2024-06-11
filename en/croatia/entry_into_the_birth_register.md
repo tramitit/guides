@@ -1,13 +1,16 @@
 ---
-title: "Entry into the birth register in Croatia"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Birth Registration Process in Croatia"
-description: "Guide on how to register a birth in Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn about the legal process of birth registration in Croatia, required
+  documents, timelines, and how Croatian citizens can register a birth abroad.
 draft: false
-translationKey: "croatia-entry_into_the_birth_register"
+meta_title: 'Croatia Birth Registration: Process, Documents & Requirements'
+title: 'Croatia Birth Registration: Process, Documents & Requirements'
+translationKey: croatia-entry_into_the_birth_register
 ---
+
 
 ## Description
 ### What is it?

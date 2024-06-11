@@ -1,13 +1,16 @@
 ---
-title: "Application for social housing"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Step by step guide on how to apply for social housing in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn about social housing in France for low-income individuals & families.
+  Follow steps to apply and get assistance. Renew application annually.
 draft: false
-translationKey: "france-application_for_social_housing"
+meta_title: 'Social Housing in France: Eligibility, Application, and Providers'
+title: 'Social Housing in France: Eligibility, Application, and Providers'
+translationKey: france-application_for_social_housing
 ---
+
 
 ## Description
 

@@ -1,13 +1,16 @@
 ---
-translationKey: austria-vehicle_re-registration
-title: "Fahrzeug-Neuanmeldung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Dieser Leitfaden bietet eine detaillierte Anleitung zur Fahrzeug-Neuanmeldung in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihr Fahrzeug in Österreich neu anmelden oder importieren.
+  Erforderliche Dokumente, Verfahren, Kosten und Versicherungsaspekte abdecken.
 draft: false
+meta_title: 'Fahrzeug-Neuzulassung in Österreich: Anmeldung und Import'
+title: 'Fahrzeug-Neuzulassung in Österreich: Anmeldung und Import'
+translationKey: austria-vehicle_re-registration
 ---
+
 
 ## Beschreibung
 ### Was ist es?

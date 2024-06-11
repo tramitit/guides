@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-application_for_nanny_services
-title: "Кандидатура за услуги на детегледачка"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Това е ръководство за кандидатстване за услуги на детегледачка. Предлага стъпкова процедура, която да помогне на семействата при наемането на подходяща детегледачка."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: 'Открийте как да наемете нани за грижа за децата у дома: от идентифициране
+  на изискванията до документите за квалификации и наемане през агенция за нани.'
 draft: false
+meta_title: 'Услуги на нани за грижа за децата у дома: процедура и документи'
+title: 'Услуги на нани за грижа за децата у дома: процедура и документи'
+translationKey: bulgaria-application_for_nanny_services
 ---
+
 
 ## Описание
 ### Какво е това?

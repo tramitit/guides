@@ -1,13 +1,16 @@
 ---
-title: "National identity card application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "National identity card application"
-description: "Detailed step-by-step guide on how to apply for a National Identity Card"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to apply for a National Identity Card in France, including
+  required documents, providers, and key details. Complete guide for all French citizens.
 draft: false
-translationKey: "france-national_identity_card_application"
+meta_title: 'French National Identity Card: Application Process & Requirements'
+title: 'French National Identity Card: Application Process & Requirements'
+translationKey: france-national_identity_card_application
 ---
+
 
 ## Description
 ### What is it?

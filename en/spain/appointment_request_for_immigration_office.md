@@ -1,13 +1,16 @@
 ---
-title: "Appointment Request for Immigration Office"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: 'Step-by-step guide to book a Cita Previa for residence, work permits
+  in Spain. Ensure correct info, early arrival. Provider: Sede Electronica.'
 draft: false
-translationKey: "spain-appointment_request_for_immigration_office"
+meta_title: How to Schedule Immigration Office Appointment in Spain
+title: How to Schedule Immigration Office Appointment in Spain
+translationKey: spain-appointment_request_for_immigration_office
 ---
+
 
 ## Description
 ### What is it?

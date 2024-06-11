@@ -1,13 +1,16 @@
 ---
-translationKey: spain-family_reunification
-title: "Proceso de Reunificación Familiar para España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guía Paso a Paso para la Reunificación Familiar en España"
-description: "Una guía detallando el proceso de reunificación familiar en España, desde la documentación requerida hasta posibles obstáculos en el camino."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo traer a tus familiares directos a España si eres residente
+  extranjero. Sigue el procedimiento paso a paso con documentos y consejos útiles.
 draft: false
+meta_title: 'Reunificación Familiar en España: Proceso y Requisitos'
+title: 'Reunificación Familiar en España: Proceso y Requisitos'
+translationKey: spain-family_reunification
 ---
+
 
 ## Descripción
 ### ¿Qué es?

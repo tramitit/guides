@@ -1,13 +1,17 @@
 ---
-translationKey: portugal-change_of_address_on_citizen_card
-title: "Alteração de Endereço no Cartão de Cidadão"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Alteração de Endereço no Cartão de Cidadão em Portugal: Um Guia Passo a Passo"
-description: "Este guia descreve o procedimento para alterar o endereço no Cartão de Cidadão em Portugal, incluindo documentos necessários e prestadores de serviços."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como alterar seu endereço no Cartão de Cidadão em Portugal após
+  uma mudança. Procedimentos, documentos necessários e prestadores que oferecem o
+  serviço.
 draft: false
+meta_title: Alteração de Endereço no Cartão de Cidadão em Portugal
+title: Alteração de Endereço no Cartão de Cidadão em Portugal
+translationKey: portugal-change_of_address_on_citizen_card
 ---
+
 
 ## Descrição
 ### O que é?

@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-residence_registration
-title: "Registracija prebivališta"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: ""
-description: "Ovo je sveobuhvatni vodič za postupak registracije prebivališta u Hrvatskoj."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Saznajte kako se registrirati, koje dokumente priložiti te informacije
+  o davateljima usluga. Važni detalji o boravištu u Hrvatskoj za strance.
 draft: false
+meta_title: 'Registracija Boravišta u Hrvatskoj: Procedura i Potrebni Dokumenti'
+title: 'Registracija Boravišta u Hrvatskoj: Procedura i Potrebni Dokumenti'
+translationKey: croatia-residence_registration
 ---
+
 
 ## Opis
 ### Što je to?

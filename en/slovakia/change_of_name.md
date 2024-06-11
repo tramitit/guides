@@ -1,13 +1,16 @@
 ---
-title: "Change of Name"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This is a guide on how to formally go through a name change in Slovakia."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to legally change your name in Slovakia. Find out who needs
+  it, required documents, step-by-step procedure, costs, and provider information.
 draft: false
-translationKey: "slovakia-change_of_name"
+meta_title: 'Slovakia Name Change Process: Requirements and Steps'
+title: 'Slovakia Name Change Process: Requirements and Steps'
+translationKey: slovakia-change_of_name
 ---
+
 
 ## Description
 ### What is it?

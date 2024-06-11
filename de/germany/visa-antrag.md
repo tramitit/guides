@@ -1,13 +1,16 @@
 ---
-translationKey: germany-visa_application
-title: "Visa-Antrag"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Deutscher Visumantragsleitfaden"
-description: "Ein umfassender Leitfaden zur Beantragung eines deutschen Visums"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Ein schrittweiser Leitfaden für Lang- oder Kurzzeitbesuchsvisum, Arbeitserlaubnis
+  in Deutschland. Dokumente, Verfahren, Anbieter und wichtige Tipps inklusive.
 draft: false
+meta_title: 'Deutsches Visum beantragen: Leitfaden für Nicht-Deutsche'
+title: 'Deutsches Visum beantragen: Leitfaden für Nicht-Deutsche'
+translationKey: germany-visa_application
 ---
+
 
 ## Beschreibung
 ### Was ist es?

@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_pension
-title: "Aanvraag voor Pensioen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Uitgebreide Gids voor Aanvraag voor Pensioen in België"
-description: "In deze post vereenvoudigen we het schijnbaar ontmoedigende proces van het aanvragen van een pensioen in België met behulp van een stapsgewijze richtlijn."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Leer hoe een pensioenaanvraag in België indienen, vereiste documenten,
+  online procedure via MyPension, en inzicht in pensioenbedragen en aanspraken.
 draft: false
+meta_title: 'Pensioenaanvraag in België: Procedure, Documenten & Aanbieders'
+title: 'Pensioenaanvraag in België: Procedure, Documenten & Aanbieders'
+translationKey: belgium-request_for_pension
 ---
+
 
 ## Beschrijving
 ### Wat is het?

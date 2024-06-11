@@ -1,13 +1,16 @@
 ---
-title: "Applying for a social security card in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Step-by-step guide on how to apply for a social security card in Germany"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to get a Germany social security card for work. Steps, documents
+  needed, and application details included. Must-have for all workers in Germany.
 draft: false
-translationKey: "germany-applying_for_a_social_security_card"
+meta_title: 'Germany Social Security Card: Application Process & Requirements'
+title: 'Germany Social Security Card: Application Process & Requirements'
+translationKey: germany-applying_for_a_social_security_card
 ---
+
 
 ## Description
 ### What is it?

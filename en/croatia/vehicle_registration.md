@@ -1,13 +1,16 @@
 ---
-title: "Vehicle registration in Croatia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: "Registering your vehicle in Croatia"
-description: "A comprehensive guide to vehicle registration in Croatia."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Learn how to register a vehicle in Croatia - inspections, documents,
+  fees. Find out who needs it and where to get insurance. Get tips on costs and deadlines.
 draft: false
-translationKey: "croatia-vehicle_registration"
+meta_title: 'Croatia Vehicle Registration: Process, Documents, Providers'
+title: 'Croatia Vehicle Registration: Process, Documents, Providers'
+translationKey: croatia-vehicle_registration
 ---
+
 
 ## Description
 ### What is it?

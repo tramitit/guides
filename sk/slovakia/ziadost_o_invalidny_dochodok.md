@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-application_for_disability_pension
-title: "Žiadosť o invalidný dôchodok"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Komplexný sprievodca, ako sa uchádzať o invalidný dôchodok"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Invalidný dôchodok je poskytovaný pre osoby zranené alebo choré, ktoré
+  nemôžu pracovať. Získajte ho cez lekársky certifikát a úrad sociálneho zabezpečenia.
 draft: false
+meta_title: 'Invalidný dôchodok: Právo na príjem pre chorých a zranených'
+title: 'Invalidný dôchodok: Právo na príjem pre chorých a zranených'
+translationKey: slovakia-application_for_disability_pension
 ---
+
 
 ## Popis
 ### Čo to je?

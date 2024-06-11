@@ -1,13 +1,17 @@
 ---
-title: "Residence Visa"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Residence Visa Process"
-description: "Complete guide to obtaining a Romanian residence visa."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn the step-by-step process to obtain a residence visa for Romania,
+  including document requirements and application procedures. Ideal for long-term
+  stays.
 draft: false
-translationKey: "romania-residence_visa"
+meta_title: Comprehensive Guide to Obtaining a Residence Visa for Romania
+title: Comprehensive Guide to Obtaining a Residence Visa for Romania
+translationKey: romania-residence_visa
 ---
+
 
 ## Description
 ### What is it?

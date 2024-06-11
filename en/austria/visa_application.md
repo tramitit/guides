@@ -1,13 +1,16 @@
 ---
-title: "Visa Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to apply for a Job Seeker visa in Austria, including required
+  documents, procedures, and tips. Ideal for those seeking work and migration in Austria.
 draft: false
-translationKey: "austria-visa_application"
+meta_title: 'Applying for an Austria Job Seeker Visa: Step-by-Step Guide'
+title: 'Applying for an Austria Job Seeker Visa: Step-by-Step Guide'
+translationKey: austria-visa_application
 ---
+
 
 ## Description
 ### What is it?

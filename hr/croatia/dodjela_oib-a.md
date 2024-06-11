@@ -1,13 +1,17 @@
 ---
-translationKey: croatia-assignment_of_personal_identification_number_(oib)
-title: "Dodjela Osobnog Identifikacijskog Broja (OIB)"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Ovo je detaljan vodič korak po korak o tome kako dobiti Osobni Identifikacijski Broj, poznat i kao OIB, u Hrvatskoj."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: 'Saznajte kako dobiti OIB u Hrvatskoj: postupak, potrebni dokumenti i
+  davatelji usluga. OIB ostaje valjan doživotno, a postupak može potrajati nekoliko
+  tjedana.'
 draft: false
+meta_title: Kako dobiti osobni identifikacijski broj (OIB) u Hrvatskoj
+title: Kako dobiti osobni identifikacijski broj (OIB) u Hrvatskoj
+translationKey: croatia-assignment_of_personal_identification_number_(oib)
 ---
+
 
 ## Opis
 ### Što je to?

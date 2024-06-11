@@ -1,14 +1,16 @@
 ---
-translationKey: italy-urban_destination_certificate_request
-
-title: "Richiesta del Certificato di Destinazione Urbana"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guida per Richiedere un Certificato di Destinazione Urbana"
-description: "Dettagliata guida passo-passo su come fare richiesta di un Certificato di Destinazione Urbana"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come ottenere un certificato di destinazione urbana, i documenti
+  necessari e i passaggi da seguire. Verifica costi e tempi con il tuo comune locale.
 draft: false
+meta_title: 'Certificato di Destinazione Urbana: Procedura e Documenti Richiesti'
+title: 'Certificato di Destinazione Urbana: Procedura e Documenti Richiesti'
+translationKey: italy-urban_destination_certificate_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

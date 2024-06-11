@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_registration_in_the_tax_office
-title: "Αίτηση εγγραφής στο Γραφείο Φορολογίας"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Ένας πλήρης οδηγός που αναλύει τα βήματα για την υποβολή αίτησης εγγραφής στο Ελληνικό Γραφείο Φορολογίας"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Ανάλυση της διαδικασίας εγγραφής για Φορολογικό Αριθμό (ΑΦΜ) στην Ελλάδα.
+  Απαραίτητος για συναλλαγές όπως ενοικίαση ακινήτου και ίδρυση επιχείρησης.
 draft: false
+meta_title: Οδηγός Εγγραφής για Φορολογικό Αριθμό (ΑΦΜ) στην Ελλάδα
+title: Οδηγός Εγγραφής για Φορολογικό Αριθμό (ΑΦΜ) στην Ελλάδα
+translationKey: greece-application_for_registration_in_the_tax_office
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

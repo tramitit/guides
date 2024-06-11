@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_disability_pension
-title: "Žádost o invalidní důchod"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Tento průvodce popisuje, jak podat žádost o invalidní důchod, uvádí výhody, proces, požadované dokumenty a poskytovatele služeb."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, jak získat invalidní důchod pro trvale postižené jedince. Návod
+  na žádost, potřebné dokumenty, poskytovatele a další podrobnosti.
 draft: false
+meta_title: 'Invalidní důchod: Jak ho získat a co potřebujete vědět'
+title: 'Invalidní důchod: Jak ho získat a co potřebujete vědět'
+translationKey: czech republic-application_for_disability_pension
 ---
+
 
 ## Popis
 ### Co to je?

@@ -1,13 +1,16 @@
 ---
-title: "Apostille Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "A Guide to Apostille Application"
-description: "A comprehensive guide on the Apostille application for various purposes"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn who needs an apostille, how to get one, required documents, costs,
+  and providers. Ensure to plan ahead as the process may take weeks.
 draft: false
-translationKey: "austria-apostille_application"
+meta_title: 'Apostille: International Certificate for Foreign Document Validation'
+title: 'Apostille: International Certificate for Foreign Document Validation'
+translationKey: austria-apostille_application
 ---
+
 
 ## Description
 

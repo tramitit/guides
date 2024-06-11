@@ -1,13 +1,16 @@
 ---
-translationKey: france-building_permit_application
-title: "Demande de permis de construire"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Un guide complet sur la manière de demander un permis de construire en France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn what a building permit is, who needs it, steps to obtain one, documents
+  required, and how providers can assist. Ensure compliance and avoid penalties.
 draft: false
+meta_title: 'Guide to Building Permits: Process, Requirements & Providers'
+title: 'Guide to Building Permits: Process, Requirements & Providers'
+translationKey: france-building_permit_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

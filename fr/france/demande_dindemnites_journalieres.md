@@ -1,13 +1,16 @@
 ---
-translationKey: france-daily_allowance_application
-title: "Demande d'indemnité journalière (Indemnités journalières)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Il s'agit de la description meta"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment demander et recevoir les indemnités journalières en
+  France pour congé maladie. Procédure, documents requis, et fournisseurs disponibles.
 draft: false
+meta_title: 'Indemnité Journalière: Procédure et Documents Requis en France'
+title: 'Indemnité Journalière: Procédure et Documents Requis en France'
+translationKey: france-daily_allowance_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

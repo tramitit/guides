@@ -1,13 +1,16 @@
 ---
-title: "Sick leave application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide for Sick Leave Application"
-description: "Detailed guide on how to apply for a sick leave in France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to apply for sick leave in France, including the procedure
+  involving medical certificates and requirements for workers' health recovery.
 draft: false
-translationKey: "france-sick_leave_application"
+meta_title: 'Sick Leave Application in France: Procedure and Requirements'
+title: 'Sick Leave Application in France: Procedure and Requirements'
+translationKey: france-sick_leave_application
 ---
+
 
 ## Description
 ### What is it?

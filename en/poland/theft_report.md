@@ -1,13 +1,16 @@
 ---
-title: "Theft report"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Theft Report in Poland"
-description: "A detailed guide on how to report a theft in Poland."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Learn how to file a theft report in Poland efficiently. Find out who
+  needs it, required documents, procedure steps, and available providers for assistance.
 draft: false
-translationKey: "poland-theft_report"
+meta_title: 'Filing a Theft Report in Poland: Procedure & Providers'
+title: 'Filing a Theft Report in Poland: Procedure & Providers'
+translationKey: poland-theft_report
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Report of lost or stolen passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "This guide provides detailed instructions on how to report and replace a lost or stolen passport."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to report loss/theft, contact embassy, and get a new passport
+  in Hungary. Keep key documents safe and inform airline timely.
 draft: false
-translationKey: "hungary-report_of_lost_or_stolen_passport"
+meta_title: 'Lost or Stolen Passport Procedure in Hungary: Guide & Tips'
+title: 'Lost or Stolen Passport Procedure in Hungary: Guide & Tips'
+translationKey: hungary-report_of_lost_or_stolen_passport
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-report_of_missing_passport
-title: "Izvještaj o nestalom putovnici"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Korak-po-korak vodič kako prijaviti nestalu putovnicu"
-description: "Sveobuhvatan vodič koji objašnjava kako prijaviti nestalu putovnicu, potrebne dokumente i dodatne detalje."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: 'Saznajte kako prijaviti izgubljenu putovnicu u Hrvatskoj: koraci, potrebni
+  dokumenti i veleposlanstva. Osigurajte siguran povratak ili zamjensku putovnicu.'
 draft: false
+meta_title: 'Prijavljivanje izgubljene putovnice u Hrvatskoj: Postupak i dokumenti'
+title: 'Prijavljivanje izgubljene putovnice u Hrvatskoj: Postupak i dokumenti'
+translationKey: croatia-report_of_missing_passport
 ---
+
 
 ## Opis
 ### Što je to?

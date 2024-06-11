@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-cancellation_of_permanent_residence
-title: "Zrušenie trvalého pobytu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Ako zrušiť váš trvalý pobyt"
-description: "Krok za krokom sprievodca, ako zrušiť váš trvalý pobyt"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Zistiť ako zrušiť status trvalého obyvateľa v cudzej krajine. Postup,
+  potrebné dokumenty a dôležité detaily. Profesionálna pomoc odporúčaná.
 draft: false
+meta_title: 'Zrušenie Trvalého Pobytu: Postup a Dôležité Informácie'
+title: 'Zrušenie Trvalého Pobytu: Postup a Dôležité Informácie'
+translationKey: slovakia-cancellation_of_permanent_residence
 ---
+
 
 ## Popis
 ### Čo to je?

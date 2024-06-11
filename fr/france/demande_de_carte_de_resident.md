@@ -1,13 +1,16 @@
 ---
-translationKey: france-resident_card_application
-title: "Guide de la demande de carte de résident"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide de la demande de carte de résident"
-description: "Un guide étape par étape sur la façon de demander une carte de résident en France."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment obtenir une carte de résident en France pour vivre
+  et travailler. Procédure, documents requis et détails importants à connaître.
 draft: false
+meta_title: 'Carte de Résident en France: Procédure, Documents et Détails'
+title: 'Carte de Résident en France: Procédure, Documents et Détails'
+translationKey: france-resident_card_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

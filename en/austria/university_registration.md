@@ -1,13 +1,17 @@
 ---
-title: "University Registration in Austria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Step-by-step Procedure to Register for University in Austria"
-description: "Detailed guide on the procedure for admission into Austrian Universities for EU and Non-EU students."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Complete guide for international students applying to universities in
+  Austria. Covers procedures, required documents, and application tips for EU and
+  Non-EU citizens.
 draft: false
-translationKey: "austria-university_registration"
+meta_title: 'Guide for International Students: Austrian University Admissions'
+title: 'Guide for International Students: Austrian University Admissions'
+translationKey: austria-university_registration
 ---
+
 
 ## Description
 ### What is it?

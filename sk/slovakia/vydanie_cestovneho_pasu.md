@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-issuance_of_passport
-title: "Vydanie slovenského pasu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Vydanie slovenského pasu"
-description: "Komplexný sprievodca, ako vydať slovenský pas."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Podrobný postup a požiadavky na získanie slovenského pasu pre občanov
+  Slovenska. Zahrnuje overenie občianstva, potrebné dokumenty a návod k žiadosti.
 draft: false
+meta_title: 'Žiadosť o slovenský pas: Postup a Požadované dokumenty'
+title: 'Žiadosť o slovenský pas: Postup a Požadované dokumenty'
+translationKey: slovakia-issuance_of_passport
 ---
+
 
 ## Popis
 ### Čo je to?

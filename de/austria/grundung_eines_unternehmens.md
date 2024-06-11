@@ -1,13 +1,16 @@
 ---
-translationKey: austria-company_formation
-title: "Firmengründung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Dieser Leitfaden bietet einen Überblick über den Prozess und die Anforderungen im Zusammenhang mit der Gründung eines Unternehmens in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie Schritt für Schritt, wie Sie ein Unternehmen in Österreich
+  gründen. Benötigte Dokumente, Anbieter und steuerliche Aspekte im Überblick.
 draft: false
+meta_title: 'Unternehmensgründung in Österreich: Leitfaden und Verfahren'
+title: 'Unternehmensgründung in Österreich: Leitfaden und Verfahren'
+translationKey: austria-company_formation
 ---
+
 
 ## Beschreibung
 ### Was ist es?

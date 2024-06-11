@@ -1,13 +1,16 @@
 ---
-title: "Family reunification application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Family Reunification in France: Step-by-step Guide"
-description: "Detailed guide on how to apply for family reunification in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn about how non-EU residents with family in France can reunite through
+  a detailed process involving application, verification, visas, and integration.
 draft: false
-translationKey: "france-family_reunification_application"
+meta_title: 'Family Reunification in France: Eligibility, Steps & Documents'
+title: 'Family Reunification in France: Eligibility, Steps & Documents'
+translationKey: france-family_reunification_application
 ---
+
 
 ## Description
 

@@ -1,13 +1,16 @@
 ---
-title: "Application for a driver's license in Germany"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "How to Apply for a German Driver's License"
-description: "A step-by-step guide on how to apply for a driver's license in Germany"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Step-by-step guide for foreign residents in Germany on applying for a
+  driver's license, including required documents and procedures.
 draft: false
-translationKey: "germany-application_for_a_drivers_license"
+meta_title: How to Apply for a German Driver's License for Foreign Residents
+title: How to Apply for a German Driver's License for Foreign Residents
+translationKey: germany-application_for_a_drivers_license
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_mobile_internet_service_subscription
-title: "Pedido de Assinatura de Serviço de Internet Móvel"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este guia explica como subscrever o serviço de internet móvel, especialmente em Portugal e durante viagens."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: 'Saiba como obter uma assinatura de Internet móvel em Portugal: procedimentos,
+  documentos necessários, principais operadoras e dicas para residentes e viajantes.'
 draft: false
+meta_title: Assinatura de Serviço de Internet Móvel em Portugal
+title: Assinatura de Serviço de Internet Móvel em Portugal
+translationKey: portugal-request_for_mobile_internet_service_subscription
 ---
+
 
 ## Descrição
 ### O que é?

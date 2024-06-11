@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-change_of_name
-title: "Promjena Imena"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Vodič Korak po Korak za Promjenu Imena"
-description: "Detaljan vodič korak po korak koji će vas provesti kroz proces kako promijeniti ime ili izmijeniti detalje koji predstavljaju vaš identitet."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako promijeniti osobne podatke iz pravnih ili osobnih razloga.
+  Koraci, dokumenti i pružatelji usluga za promjenu identiteta s relevantnim savjetima.
 draft: false
+meta_title: 'Promjena imena: Postupak, dokumenti i savjeti za identifikaciju'
+title: 'Promjena imena: Postupak, dokumenti i savjeti za identifikaciju'
+translationKey: croatia-change_of_name
 ---
+
 
 ## Opis
 ### Što je to?

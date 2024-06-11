@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_child_benefits
-title: "Demande d'allocations pour enfant"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Guide détaillé pour demander des allocations familiales en Belgique"
-description: "Guide qui donne une procédure étape par étape sur le processus de demande d'allocations familiales en Belgique."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn about Child Benefit in Belgium, its eligibility criteria, required
+  documents, application process, and providers. Get insights on applying successfully.
 draft: false
+meta_title: 'Child Benefit in Belgium: How to Apply and Eligibility'
+title: 'Child Benefit in Belgium: How to Apply and Eligibility'
+translationKey: belgium-request_for_child_benefits
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

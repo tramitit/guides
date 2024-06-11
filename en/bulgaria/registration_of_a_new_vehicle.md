@@ -1,13 +1,16 @@
 ---
-title: "Registration of a new vehicle"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "A guide on how to register a new vehicle in Bulgaria."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to legally register your vehicle in Bulgaria. Find out steps
+  to follow, required documents, and provider details for a smooth process.
 draft: false
-translationKey: "bulgaria-registration_of_a_new_vehicle"
+meta_title: 'Vehicle Registration Process in Bulgaria: Steps & Requirements'
+title: 'Vehicle Registration Process in Bulgaria: Steps & Requirements'
+translationKey: bulgaria-registration_of_a_new_vehicle
 ---
+
 
 ## Description
 ### What is it?

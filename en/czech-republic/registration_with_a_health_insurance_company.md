@@ -1,13 +1,16 @@
 ---
-title: "Registration with a Health Insurance Company"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Step by step guide to registering with a health insurance company in the Czech Republic "
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Learn the mandatory process to get health insurance in Czech Republic,
+  including required documents, costs, and choosing the right provider for foreigners.
 draft: false
-translationKey: "czech-republic-registration_with_a_health_insurance_company"
+meta_title: 'Health Insurance in Czech Republic: Procedure & Providers'
+title: 'Health Insurance in Czech Republic: Procedure & Providers'
+translationKey: czech-republic-registration_with_a_health_insurance_company
 ---
+
 
 ## Description
 ### What is it?

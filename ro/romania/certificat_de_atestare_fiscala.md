@@ -1,13 +1,16 @@
 ---
-translationKey: romania-fiscal_attestation_certificate
-title: "Certificat de Atestare Fiscala"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Ghid pas cu pas despre cum să obțineți un Certificat de Atestare Fiscală"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați ce este un Certificat de Atestare Fiscală, cine are nevoie de
+  el, documentele necesare și pașii pentru a-l obține în România.
 draft: false
+meta_title: 'Certificat de Atestare Fiscală: Ghid Complet și Procedură'
+title: 'Certificat de Atestare Fiscală: Ghid Complet și Procedură'
+translationKey: romania-fiscal_attestation_certificate
 ---
+
 
 ## Descriere
 ### Ce este?

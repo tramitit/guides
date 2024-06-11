@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-extension_of_residence_permit
-title: "Produženje boravišne dozvole"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Produženje boravišne dozvole u Hrvatskoj"
-description: "Detaljan vodič korak po korak o tome kako produžiti boravišnu dozvolu u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: 'Saznajte kako produžiti boravak u Hrvatskoj nakon isteka dozvole: postupak,
+  potrebni dokumenti, preporuke i davatelji usluge. Vodič za strane državljane.'
 draft: false
+meta_title: 'Produženje boravišne dozvole u Hrvatskoj: Postupak i dokumenti'
+title: 'Produženje boravišne dozvole u Hrvatskoj: Postupak i dokumenti'
+translationKey: croatia-extension_of_residence_permit
 ---
+
 
 ## Opis
 ### Što je to?

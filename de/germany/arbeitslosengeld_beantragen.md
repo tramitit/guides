@@ -1,13 +1,17 @@
 ---
-translationKey: germany-applying_for_unemployment_benefit
-title: "Beantragung von Arbeitslosengeld in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Leitfaden zur Beantragung von Arbeitslosengeld in Deutschland"
-description: "Schritt-für-Schritt-Anleitung zur Beantragung von Arbeitslosengeld in Deutschland und den erforderlichen Voraussetzungen"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie man Arbeitslosengeld in Deutschland beantragt, wer
+  berechtigt ist, die erforderlichen Dokumente sowie Anbieter, die Ihnen dabei helfen
+  können.
 draft: false
+meta_title: 'Arbeitslosengeld in Deutschland: Antrag, Berechtigung und Anbieter'
+title: 'Arbeitslosengeld in Deutschland: Antrag, Berechtigung und Anbieter'
+translationKey: germany-applying_for_unemployment_benefit
 ---
+
 
 ## Beschreibung
 ### Was ist es?

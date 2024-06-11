@@ -1,13 +1,16 @@
 ---
-title: "Applying for Housing Allowance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Guide to Applying for Housing Allowance in Germany"
-description: "Step-by-step guide on how to apply for housing allowance (Wohngeld in Germany)"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn about Wohngeld in Germany, how to apply for housing benefit, required
+  documents, and tips. Find out if you qualify and avoid penalties!
 draft: false
-translationKey: "germany-applying_for_housing_allowance"
+meta_title: 'German Housing Allowance: Eligibility, Application & Providers'
+title: 'German Housing Allowance: Eligibility, Application & Providers'
+translationKey: germany-applying_for_housing_allowance
 ---
+
 
 ## Description
 ### What is it?

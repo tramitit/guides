@@ -1,13 +1,16 @@
 ---
-translationKey: italy-irpef_refund_request
-title: "Richiesta di Rimborso IRPEF"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guida per Richiedere il Rimborso IRPEF in Italia"
-description: "Una guida completa che dettaglia passo dopo passo come richiedere un rimborso IRPEF in Italia."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere un rimborso per sovrappagamenti fiscali su IRPEF
+  in Italia. Guida dettagliata con documenti necessari e tempi di attesa.
 draft: false
+meta_title: 'Rimborso tasse IRPEF in Italia: Procedura e Documenti'
+title: 'Rimborso tasse IRPEF in Italia: Procedura e Documenti'
+translationKey: italy-irpef_refund_request
 ---
+
 
 ## Descrizione
 ### Cos'è?

@@ -1,13 +1,16 @@
 ---
-title: "Permanent Address Registration in Bulgaria"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Permanent Address Registration in Bulgaria: Procedure and Requirements"
-description: "Guide to registering a permanent address in Bulgaria for foreigners and EU citizens."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: 'Proceso legal para residir, trabajar o iniciar un negocio en Bulgaria:
+  requisitos, documentos y pasos a seguir para nacionales y extranjeros.'
 draft: false
-translationKey: "bulgaria-permanent_address_registration"
+meta_title: Guía de registro de dirección permanente en Bulgaria
+title: Guía de registro de dirección permanente en Bulgaria
+translationKey: bulgaria-permanent_address_registration
 ---
+
 
 ## Description
 ### What is it?

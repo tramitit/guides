@@ -1,13 +1,16 @@
 ---
-title: "Report of Missing ID Card"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Report of Missing ID Card in Croatia"
-description: "Details instructions on how to report a missing Identification Card in Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Inform authorities, fill forms, provide docs, and pay fee to get a replacement
+  ID. Don't delay as it could take weeks. Carry alternative ID during wait.
 draft: false
-translationKey: "croatia-report_of_missing_id_card"
+meta_title: 'Replacing a Lost Croatian ID Card: Procedure & Requirements'
+title: 'Replacing a Lost Croatian ID Card: Procedure & Requirements'
+translationKey: croatia-report_of_missing_id_card
 ---
+
 
 ## Description
 ### What is it?

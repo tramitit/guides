@@ -1,13 +1,16 @@
 ---
-title: "Vehicle Deregistration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "A guide to deregistering a vehicle in Austria"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn who needs vehicle deregistration, the procedure, required documents,
+  providers, costs, and the importance of proof to avoid ongoing charges in Austria.
 draft: false
-translationKey: "austria-vehicle_deregistration"
+meta_title: 'Vehicle Deregistration in Austria: How to Nullify Obligations'
+title: 'Vehicle Deregistration in Austria: How to Nullify Obligations'
+translationKey: austria-vehicle_deregistration
 ---
+
 
 ## Description
 ### What is it?

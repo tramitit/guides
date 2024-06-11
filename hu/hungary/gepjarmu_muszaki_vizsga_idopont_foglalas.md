@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-vehicle_technical_inspection_appointment_booking
-title: "Jármű műszaki vizsgára időpont foglalás"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Jármű Műszaki Vizsga Foglalási Útmutató Magyarországra"
-description: "Lépésről lépésre útmutató a jármű műszaki vizsgára időpont foglalásához Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: A műszaki vizsga kötelező, hogy biztosítsa a jármű biztonságosságát Magyarországon.
+  Ismerd meg az eljárást és a szükséges dokumentumokat a sikeres vizsgához!
 draft: false
+meta_title: 'Magyarországi Jármű Műszaki Vizsga: Eljárás és Szükséges Dokumentumok'
+title: 'Magyarországi Jármű Műszaki Vizsga: Eljárás és Szükséges Dokumentumok'
+translationKey: hungary-vehicle_technical_inspection_appointment_booking
 ---
+
 
 ## Leírás
 ### Mi ez?

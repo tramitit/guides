@@ -1,13 +1,16 @@
 ---
-title: "ID card application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "This simple guide walks you through application process of an ID card in Hungary"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn how to apply for an ID card in Hungary, the required documents,
+  procedures, and providers. Safeguard personal data & avoid misuse risks.
 draft: false
-translationKey: "hungary-id_card_application"
+meta_title: Hungary ID Card Application Process & Requirements
+title: Hungary ID Card Application Process & Requirements
+translationKey: hungary-id_card_application
 ---
+
 
 ## Description
 ### What is it?

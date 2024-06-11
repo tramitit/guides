@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-car_registration
-title: "Registrace vozidla"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Průvodce registrací vozidla pro nováčky"
-description: "Krok za krokem průvodce registrací vozidla v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, jak zaregistrovat auto v České republice včetně potřebných
+  dokumentů. Podrobný postup pro vlastníky vozidel v Česku.
 draft: false
+meta_title: 'Registrace vozidla v České republice: Postup a požadované dokumenty'
+title: 'Registrace vozidla v České republice: Postup a požadované dokumenty'
+translationKey: czech republic-car_registration
 ---
+
 
 ## Popis
 ### Co je to?

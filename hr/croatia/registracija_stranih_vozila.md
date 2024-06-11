@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-registration_of_foreign_vehicles
-title: "Registracija stranih vozila"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Vodič za registraciju stranih vozila u Hrvatskoj"
-description: "Sveobuhvatan vodič o tome kako uspješno registrirati strano vozilo u Hrvatskoj."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako registrirati strano vozilo u Hrvatskoj za strance koji
+  su uvezli ili kupili vozila iz drugih zemalja. Koraci, dokumenti i rokovi.
 draft: false
+meta_title: 'Registracija Stranih Vozila u Hrvatskoj: Postupak i Dokumenti'
+title: 'Registracija Stranih Vozila u Hrvatskoj: Postupak i Dokumenti'
+translationKey: croatia-registration_of_foreign_vehicles
 ---
+
 
 ## Opis
 ### Što je to?

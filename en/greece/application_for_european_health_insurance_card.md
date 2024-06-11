@@ -1,13 +1,16 @@
 ---
-title: "Application for European Health Insurance Card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Step-by-step Guide to Apply for European Health Insurance Card"
-description: "A comprehensive guide on how to apply for European Health Insurance Card, who needs it, required documents, and relevant providers."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: The EHIC provides essential medical care across EU, Iceland, Liechtenstein,
+  Norway, and Switzerland. Apply through your national health insurance provider.
 draft: false
-translationKey: "greece-application_for_european_health_insurance_card"
+meta_title: 'EHIC: Ensure Necessary Medical Care Across EU and EFTA Countries'
+title: 'EHIC: Ensure Necessary Medical Care Across EU and EFTA Countries'
+translationKey: greece-application_for_european_health_insurance_card
 ---
+
 
 ## Description
 ### What is it?

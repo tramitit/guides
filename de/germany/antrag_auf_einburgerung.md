@@ -1,13 +1,16 @@
 ---
-translationKey: germany-application_for_naturalization
-title: "Antrag auf Einbürgerung in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Einbürgerungsverfahren für die deutsche Staatsbürgerschaft"
-description: "Anleitung zum schrittweisen Prozess der Beantragung der deutschen Staatsbürgerschaft durch Einbürgerung."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Ausländer in Deutschland die Staatsbürgerschaft erwerben
+  können. Schritte, Unterlagen, Tests und wichtige Details im Überblick.
 draft: false
+meta_title: 'Einbürgerung in Deutschland: Prozess, Voraussetzungen & Ablauf'
+title: 'Einbürgerung in Deutschland: Prozess, Voraussetzungen & Ablauf'
+translationKey: germany-application_for_naturalization
 ---
+
 
 ## Beschreibung
 ### Was ist es?

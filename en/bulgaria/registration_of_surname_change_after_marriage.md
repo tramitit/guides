@@ -1,13 +1,16 @@
 ---
-title: "Registration of Surname Change After Marriage"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Surname Change Registration After Marriage"
-description: "A comprehensive guide to Registration of surname change after the marriage"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to register your new surname in your home country after marrying
+  overseas. Required documents, procedures, providers, and important details included.
 draft: false
-translationKey: "bulgaria-registration_of_surname_change_after_marriage"
+meta_title: Changing Surname after Foreign Marriage Guide | Procedures & Documents
+title: Changing Surname after Foreign Marriage Guide | Procedures & Documents
+translationKey: bulgaria-registration_of_surname_change_after_marriage
 ---
+
 
 ## Description
 ### What is it?

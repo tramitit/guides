@@ -1,14 +1,16 @@
 ---
-translationKey: slovakia-registration_of_a_foreign_national
-
-title: "Registrácia cudzinca na Slovensku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Táto príručka poskytuje podrobné informácie o postupe registrácie cudzinca na Slovensku."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Informácie o registrácii cudzinca na Slovensku vrátane procesu, požadovaných
+  dokumentov, postupu a dôležitých podrobností o politikách a kultúrnych normách.
 draft: false
+meta_title: 'Registrácia cudzinca na Slovensku: Proces, Doklady, Postup'
+title: 'Registrácia cudzinca na Slovensku: Proces, Doklady, Postup'
+translationKey: slovakia-registration_of_a_foreign_national
 ---
+
 
 
 ## Popis

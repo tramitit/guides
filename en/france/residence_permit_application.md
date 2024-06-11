@@ -1,13 +1,16 @@
 ---
-title: "Residence permit application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Applying for French Residence Permit: An Essential Guide"
-description: "Detailed guide on how to apply for a residence permit in France, covering all required steps and necessary documentation."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn about obtaining a Titre de Séjour in France. Procedures, required
+  documents, and tips for non-EU citizens. Patience is key for bureaucratic delays.
 draft: false
-translationKey: "france-residence_permit_application"
+meta_title: 'French Residence Permit: Application Process for Non-EU Nationals'
+title: 'French Residence Permit: Application Process for Non-EU Nationals'
+translationKey: france-residence_permit_application
 ---
+
 
 ## Description
 ### What is it?

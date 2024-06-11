@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_tax_identification_number_(nif)
-title: "Pedido de Número de Identificação Fiscal (NIF)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Guia para Solicitar um Número de Identificação Fiscal (NIF) em Portugal"
-description: "Um guia passo-a-passo sobre como solicitar um NIF, quem precisa dele, os documentos necessários e detalhes adicionais para ajudar a simplificar o processo para você."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba sobre o Número de Identificação Fiscal (NIF) em Portugal, obrigatório
+  para transações financeiras, procedimentos para obtenção e documentos necessários.
 draft: false
+meta_title: 'NIF em Portugal: O que é, quem precisa e como obter'
+title: 'NIF em Portugal: O que é, quem precisa e como obter'
+translationKey: portugal-request_for_tax_identification_number_(nif)
 ---
+
 
 ## Descrição
 ### O que é?

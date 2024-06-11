@@ -1,13 +1,17 @@
 ---
-translationKey: croatia-documentation_for_university_enrollment
-title: "Dokumentacija za upis na sveučilište"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia", "Poland"]
-meta_title: "Dokumentacija za upis na sveučilište"
-description: "Detaljno uputstvo o potrebnoj dokumentaciji za upis na sveučilišta u inozemstvu"
+author: Ricardo Batista
+categories:
+- Croatia
+- Poland
+date: '2024-06-08'
+description: Savjeti i koraci za međunarodne studente koji žele studirati u Hrvatskoj
+  i Poljskoj. Potrebni dokumenti, postupci prijave i korisne informacije.
 draft: false
+meta_title: Priprema Dokumentacije za Upis na Sveučilišta u Hrvatskoj i Poljskoj
+title: Priprema Dokumentacije za Upis na Sveučilišta u Hrvatskoj i Poljskoj
+translationKey: croatia-documentation_for_university_enrollment
 ---
+
 
 ## Opis
 ### Što je to?

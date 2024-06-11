@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_proof_of_residence
-title: "Demande de preuve de résidence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Il s'agit d'un guide détaillé sur la façon de demander et d'obtenir une preuve de résidence, qui peut être nécessaire pour un certain nombre de procédures administratives, notamment l'ouverture d'un compte bancaire, l'immigration dans un nouveau pays ou la demande de citoyenneté."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Découvrez comment obtenir la Preuve de Résidence pour migrer, demander
+  des prêts ou la citoyenneté. Procédure, documents requis et conseils utiles inclus.
 draft: false
+meta_title: 'Preuve de Résidence: Guide Complet pour la Documentation'
+title: 'Preuve de Résidence: Guide Complet pour la Documentation'
+translationKey: belgium-request_for_proof_of_residence
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

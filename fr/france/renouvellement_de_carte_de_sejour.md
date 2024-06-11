@@ -1,14 +1,16 @@
 ---
-translationKey: france-residence_permit_renewal
-
-title: "Renouvellement de titre de séjour en France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide pour renouveler votre titre de séjour en France"
-description: "Il s'agit d'un guide complet sur la façon de renouveler votre titre de séjour en France, comprenant les différentes étapes impliquées, les documents nécessaires et les prestataires de services qui peuvent vous aider dans le processus."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn how to renew your French residence permit in advance to stay legally
+  in France. Find required documents, renewal process, providers, and helpful tips.
 draft: false
+meta_title: 'Renewal of French Residence Permit: Complete Guide'
+title: 'Renewal of French Residence Permit: Complete Guide'
+translationKey: france-residence_permit_renewal
 ---
+
 
 ## Description
 

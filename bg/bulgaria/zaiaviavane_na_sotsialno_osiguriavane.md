@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-application_for_social_security
-title: "Заявление за социално осигуряване"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Кандидатствайте за социално осигуряване в България"
-description: "Пълен ръководител за кандидатстване за социално осигуряване в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да получите социални помощи в България през Националния институт
+  за социално осигуряване. Изисквани документи и процедури. Вноски и социални доходи.
 draft: false
+meta_title: 'Социална сигурност в България: Процедури и Документи'
+title: 'Социална сигурност в България: Процедури и Документи'
+translationKey: bulgaria-application_for_social_security
 ---
+
 
 ## Описание
 ### Какво е това?

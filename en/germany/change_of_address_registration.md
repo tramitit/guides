@@ -1,13 +1,16 @@
 ---
-title: "Change of address registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Local registration (Anmeldung) is a mandatory, lawful procedure in Germany upon your arrival or when you change your address in the country."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to complete Anmeldung in Germany, including required documents,
+  procedures, and legal obligations. Don't miss the two-week deadline!
 draft: false
-translationKey: "germany-change_of_address_registration"
+meta_title: 'Registering New Address in Germany: Anmeldung Process'
+title: 'Registering New Address in Germany: Anmeldung Process'
+translationKey: germany-change_of_address_registration
 ---
+
 
 ## Description
 ### What is it?

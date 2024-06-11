@@ -1,13 +1,16 @@
 ---
-translationKey: austria-passport_renewal
-title: "Reisepassverlängerung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Reisepassverlängerung - Ein Schritt-für-Schritt-Leitfaden"
-description: "Ein umfassender Leitfaden darüber, wie Sie Ihren Reisepass in Österreich erneuern können."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie in Österreich Ihren Reisepass verlängern können.
+  Antragsprozess, erforderliche Dokumente, Bearbeitungszeit und Kosten im Detail erklärt.
 draft: false
+meta_title: 'Reisepassverlängerung in Österreich: Antrag, Verfahren & Kosten'
+title: 'Reisepassverlängerung in Österreich: Antrag, Verfahren & Kosten'
+translationKey: austria-passport_renewal
 ---
+
 
 ## Beschreibung
 ### Was ist das?

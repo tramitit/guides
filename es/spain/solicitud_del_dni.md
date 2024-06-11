@@ -1,13 +1,16 @@
 ---
-translationKey: spain-id_card_application
-title: "Solicitud de Tarjeta de Identificación"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Esta es la descripción meta"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo adquirir tu DNI como residente español o inmigrante, los
+  documentos necesarios y el proceso paso a paso, además de proveedores, costo y plazos.
 draft: false
+meta_title: Cómo obtener el Documento Nacional de Identidad en España
+title: Cómo obtener el Documento Nacional de Identidad en España
+translationKey: spain-id_card_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

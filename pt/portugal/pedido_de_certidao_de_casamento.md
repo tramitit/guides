@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-request_for_marriage_certificate
-title: "Pedido de Certidão de Casamento"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Este é um guia sobre como solicitar uma certidão de casamento em Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como solicitar uma Certidão de Casamento, quem pode pedir, procedimento
+  online, documentos exigidos e detalhes sobre prazos e custos envolvidos.
 draft: false
+meta_title: 'Certidão de Casamento: Como Obter e Documentos Necessários'
+title: 'Certidão de Casamento: Como Obter e Documentos Necessários'
+translationKey: portugal-request_for_marriage_certificate
 ---
+
 
 ## Descrição
 ### O que é?

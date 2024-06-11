@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-issuance_of_marriage_certificate
-title: "Izdavanje vjenčane potvrde u Hrvatskoj"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Vodič za izdavanje vjenčane potvrde u Hrvatskoj"
-description: "Ovo je sveobuhvatan vodič o tome kako izdati vjenčanu potvrdu u Hrvatskoj, koji obuhvaća postupak, potrebne dokumente i potencijalne pružatelje usluga."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte što je potrebno za zakonito vjenčanje u Hrvatskoj, koraci postupka,
+  dokumenti, pružatelji usluga i savjeti za glatku ceremoniju vjenčanja.
 draft: false
+meta_title: 'Vjenčanje u Hrvatskoj: Potrebni dokumenti i postupak'
+title: 'Vjenčanje u Hrvatskoj: Potrebni dokumenti i postupak'
+translationKey: croatia-issuance_of_marriage_certificate
 ---
+
 
 ## Opis
 ### Što je to?

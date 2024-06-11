@@ -1,13 +1,16 @@
 ---
-title: "Registration for the Health Card of a Foreigner in Croatia"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "A comprehensive guide on how to register for a health card in Croatia as a foreigner."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how expats and digital nomads in Croatia can obtain a health card
+  for accessing state healthcare services. Essential steps, documents, and costs included.
 draft: false
-translationKey: "croatia-registration_for_the_health_card_of_a_foreigner"
+meta_title: 'Health Card in Croatia: Guide for Foreigners Accessing Healthcare'
+title: 'Health Card in Croatia: Guide for Foreigners Accessing Healthcare'
+translationKey: croatia-registration_for_the_health_card_of_a_foreigner
 ---
+
 
 ## Description
 ### What is it?

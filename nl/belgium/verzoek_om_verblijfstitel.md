@@ -1,13 +1,17 @@
 ---
-translationKey: belgium-request_for_residence_permit
-title: "Aanvraag voor verblijfsvergunning"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Gedetailleerde informatie over hoe u een verblijfsvergunning kunt aanvragen"
-description: "Een uitgebreide gids voor buitenlanders die werk en verblijf zoeken in België"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Ontdek hoe je een verblijfsvergunning aanvraagt in België, met vereiste
+  documenten, procedures en dienstverleners. Blijf op de hoogte van tijdslijnen en
+  kosten.
 draft: false
+meta_title: 'Verblijfsvergunning in België: Procedure, Documenten & Dienstverleners'
+title: 'Verblijfsvergunning in België: Procedure, Documenten & Dienstverleners'
+translationKey: belgium-request_for_residence_permit
 ---
+
 
 ## Beschrijving
 ### Wat is het?

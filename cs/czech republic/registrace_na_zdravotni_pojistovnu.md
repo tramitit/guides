@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-registration_with_a_health_insurance_company
-title: "Registrace u zdravotní pojišťovny"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Krok za krokem průvodce registrací u zdravotní pojišťovny v České republice"
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, pro koho je zdravotní pojištění povinné, jaký je postup k získání,
+  potřebné dokumenty, platby a další podrobnosti v ČR.
 draft: false
+meta_title: 'Zdravotní Pojištění v České Republice: Jak Si Je Pořídit'
+title: 'Zdravotní Pojištění v České Republice: Jak Si Je Pořídit'
+translationKey: czech republic-registration_with_a_health_insurance_company
 ---
+
 
 ## Popis
 ### Co to je?

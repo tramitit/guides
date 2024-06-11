@@ -1,14 +1,16 @@
 ---
-
-title: "Registration of a Foreign National in Slovakia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "This guide provides detailed information about the registration procedure for a foreign national in Slovakia."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn the process for non-Slovak residents to live, work, or study in
+  Slovakia. Understand required documents, procedures, and additional regulations.
 draft: false
-translationKey: "slovakia-registration_of_a_foreign_national"
+meta_title: 'Residence Permit in Slovakia: Guidelines for Foreign Nationals'
+title: 'Residence Permit in Slovakia: Guidelines for Foreign Nationals'
+translationKey: slovakia-registration_of_a_foreign_national
 ---
+
 
 ## Description
 ### What is it?

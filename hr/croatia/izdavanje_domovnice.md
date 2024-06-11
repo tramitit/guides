@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-issuance_of_citizenship_certificate
-title: "Izdavanje Potvrde o Hrvatskom Državljanstvu"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Vodič za Izdavanje Potvrde o Hrvatskom Državljanstvu"
-description: "Detaljni koraci za dobivanje potvrde o hrvatskom državljanstvu."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako dobiti potvrdu hrvatskog državljanstva putem postupka koji
+  uključuje pripremu dokumenata, podnošenje zahtjeva i plaćanje naknada.
 draft: false
+meta_title: Postupak Stjecanja Potvrde Hrvatskog Državljanstva
+title: Postupak Stjecanja Potvrde Hrvatskog Državljanstva
+translationKey: croatia-issuance_of_citizenship_certificate
 ---
+
 
 ## Opis
 ### Što je to?

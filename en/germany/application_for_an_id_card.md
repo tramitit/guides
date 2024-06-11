@@ -1,13 +1,16 @@
 ---
-title: "Application for a German Identification Card (Personalausweis)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "A guide to applying for a German ID card."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Discover how German citizens aged 16+ can apply for a Personalausweis,
+  the required documents, procedure steps, providers, and waiting period details.
 draft: false
-translationKey: "germany-application_for_an_id_card"
+meta_title: German Personalausweis Application Process and Requirements
+title: German Personalausweis Application Process and Requirements
+translationKey: germany-application_for_an_id_card
 ---
+
 
 ## Description
 ### What is it?

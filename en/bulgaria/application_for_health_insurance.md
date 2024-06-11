@@ -1,13 +1,16 @@
 ---
-title: "Application for health insurance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Health Insurance in Bulgaria"
-description: "A comprehensive guide to apply for health insurance in Bulgaria."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn about health insurance options in Bulgaria for expatriates, coverage
+  details, required documents, and step-by-step procedures to secure your coverage.
 draft: false
-translationKey: "bulgaria-application_for_health_insurance"
+meta_title: Comprehensive Guide to Health Insurance for Expats in Bulgaria
+title: Comprehensive Guide to Health Insurance for Expats in Bulgaria
+translationKey: bulgaria-application_for_health_insurance
 ---
+
 
 ## Description
 ### What is it?

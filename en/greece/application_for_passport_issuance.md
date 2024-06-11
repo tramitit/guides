@@ -1,13 +1,16 @@
 ---
-title: "Application for passport issuance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how Greek citizens can get their passports quickly by following
+  a simple procedure at a Greek police department. Necessary docs and details included!
 draft: false
-translationKey: "greece-application_for_passport_issuance"
+meta_title: 'Greek Passport Procedure: How to Obtain Your Passport Easily'
+title: 'Greek Passport Procedure: How to Obtain Your Passport Easily'
+translationKey: greece-application_for_passport_issuance
 ---
+
 
 ## Description
 ### What is it?

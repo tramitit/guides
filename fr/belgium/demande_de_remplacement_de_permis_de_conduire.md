@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-replacement_request_for_driving_license
-title: "Demande de remplacement de permis de conduire"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Demande de remplacement de permis de conduire en Belgique"
-description: "Procédure détaillée étape par étape pour remplacer un permis de conduire perdu ou volé en Belgique"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Guide complet pour remplacer un permis de conduire perdu ou volé en Belgique.
+  Suivez les étapes pour signaler, demander et obtenir un nouveau permis.
 draft: false
+meta_title: Remplacement du Permis de Conduire Perdu ou Volé en Belgique
+title: Remplacement du Permis de Conduire Perdu ou Volé en Belgique
+translationKey: belgium-replacement_request_for_driving_license
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

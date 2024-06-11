@@ -1,13 +1,16 @@
 ---
-translationKey: spain-asylum_application
-title: "Solicitud de Asilo en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Solicitud de Asilo en España"
-description: "Una guía detallada sobre cómo solicitar asilo en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar asilo en España, requisitos, procedimiento y
+  proveedores de ayuda. Obtén asesoramiento legal para tu solicitud de asilo aquí.
 draft: false
+meta_title: 'Proceso de Solicitud de Asilo en España: Guía Completa'
+title: 'Proceso de Solicitud de Asilo en España: Guía Completa'
+translationKey: spain-asylum_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

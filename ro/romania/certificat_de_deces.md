@@ -1,13 +1,16 @@
 ---
-translationKey: romania-death_certificate
-title: "Certificat de deces"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Acesta este un ghid cuprinzător despre cum să obții un certificat de deces în România după moartea unui membru al familiei."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: 'Cum să obții un certificat de deces: procedură pas cu pas, documente
+  necesare și furnizori. Informații esențiale pentru procesele legale și administrative.'
 draft: false
+meta_title: Procedură și documente pentru obținerea certificatului de deces
+title: Procedură și documente pentru obținerea certificatului de deces
+translationKey: romania-death_certificate
 ---
+
 
 ## Descriere
 ### Ce este?

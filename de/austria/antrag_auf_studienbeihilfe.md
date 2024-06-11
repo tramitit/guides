@@ -1,13 +1,16 @@
 ---
-translationKey: austria-study_grant_application
-title: "Stipendienantrag für Studien"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detaillierte Anleitung zur Bewerbung um einen Studienzuschuss in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wer Anspruch auf Studienbeihilfe hat, wie Sie diese in
+  Österreich beantragen, und welche Dokumente benötigt werden. Kostenlose Hilfe verfügbar.
 draft: false
+meta_title: 'Studienzuschuss in Österreich: Beantragung, Voraussetzungen und Ablauf'
+title: 'Studienzuschuss in Österreich: Beantragung, Voraussetzungen und Ablauf'
+translationKey: austria-study_grant_application
 ---
+
 
 ## Beschreibung
 ### Was ist es?

@@ -1,14 +1,16 @@
 ---
-
-title: "Passport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Romanian Passport Procedure"
-description: "Detailed process for securing a Romanian passport"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how to get a Romanian passport if you're a citizen or meet specific
+  criteria. Find out the process, required documents, and where to apply.
 draft: false
-translationKey: "romania-passport"
+meta_title: 'Applying for a Romanian Passport: Steps and Requirements'
+title: 'Applying for a Romanian Passport: Steps and Requirements'
+translationKey: romania-passport
 ---
+
 
 ## Description
 ### What is it?

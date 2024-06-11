@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_a_certificate_of_conduct_online
-title: "Online-Antrag auf ein Führungszeugnis in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Online-Antrag auf ein Führungszeugnis in Deutschland"
-description: "Ein ausführlicher Leitfaden darüber, wie man in Deutschland online ein Führungszeugnis beantragt."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wer ein Führungszeugnis braucht, wie man es beantragt,
+  erforderliche Dokumente, Gebühren, Online-Optionen und Bearbeitungszeiten in Deutschland.
 draft: false
+meta_title: 'Führungszeugnis in Deutschland: Antrag, Kosten & Ablauf'
+title: 'Führungszeugnis in Deutschland: Antrag, Kosten & Ablauf'
+translationKey: germany-applying_for_a_certificate_of_conduct_online
 ---
+
 
 ## Beschreibung
 ### Was ist es?

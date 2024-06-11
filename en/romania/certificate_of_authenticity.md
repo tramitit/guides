@@ -1,13 +1,16 @@
 ---
-title: "Certificate of Authenticity"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Guide detailing the steps and requirements for obtaining a Certificate of Authenticity in Romania."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn about Certificates of Authenticity, who needs them, the procedure
+  to obtain one, required documents, and key details regarding costs and timelines.
 draft: false
-translationKey: "romania-certificate_of_authenticity"
+meta_title: 'Certificate of Authenticity: How to Verify and Obtain'
+title: 'Certificate of Authenticity: How to Verify and Obtain'
+translationKey: romania-certificate_of_authenticity
 ---
+
 
 ## Description
 ### What is it?

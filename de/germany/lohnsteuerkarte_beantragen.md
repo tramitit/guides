@@ -1,13 +1,16 @@
 ---
-translationKey: germany-applying_for_a_tax_card
-title: "Beantragung einer Steuerkarte"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Beantragung einer Steuerkarte in Deutschland - Schritt für Schritt"
-description: "Erfahren Sie, wie Sie eine Steuerkarte (Steuerkarte) in Deutschland beantragen, warum Sie diese benötigen und welche Dokumente erforderlich sind."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, warum und wer eine Steuerkarte in Deutschland benötigt,
+  das Antragsverfahren, erforderliche Dokumente und Anbieter, die Ihnen helfen können.
 draft: false
+meta_title: 'Steuerkarte in Deutschland: Was, wer, Verfahren, Dokumente'
+title: 'Steuerkarte in Deutschland: Was, wer, Verfahren, Dokumente'
+translationKey: germany-applying_for_a_tax_card
 ---
+
 
 ## Beschreibung
 ### Was ist das?

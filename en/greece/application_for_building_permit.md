@@ -1,13 +1,16 @@
 ---
-title: "Application for Building Permit"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Application for Building Permit in Greece"
-description: "Detailed step by step guide on how to apply for a building permit in Greece."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn about building permits, who needs them, how to apply, required
+  documents, and consequences of not obtaining permits. Get started now!
 draft: false
-translationKey: "greece-application_for_building_permit"
+meta_title: 'Building Permits: Types, Procedure & Required Documents'
+title: 'Building Permits: Types, Procedure & Required Documents'
+translationKey: greece-application_for_building_permit
 ---
+
 
 ## Description 
 

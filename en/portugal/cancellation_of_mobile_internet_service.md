@@ -1,13 +1,16 @@
 ---
-title: "Cancellation of Mobile Internet Service"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Guide to Cancel Your Mobile Internet Service"
-description: "A step-by-step guide on how to cancel your mobile internet service"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to cancel your mobile internet service easily by following
+  a simple procedure. Includes required documents and tips to avoid extra charges.
 draft: false
-translationKey: "portugal-cancellation_of_mobile_internet_service"
+meta_title: 'Mobile Internet Service Cancellation: Process & Documents'
+title: 'Mobile Internet Service Cancellation: Process & Documents'
+translationKey: portugal-cancellation_of_mobile_internet_service
 ---
+
 
 ## Description
 ### What is it?

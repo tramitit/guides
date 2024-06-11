@@ -1,13 +1,17 @@
 ---
-title: "Income tax declaration"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Step-by-step guide to Income tax declaration in Croatia"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn about the process of declaring income tax, essential documents
+  needed, and deadlines. Get tips on working with a tax professional for accurate
+  advice.
 draft: false
-translationKey: "croatia-income_tax_declaration"
+meta_title: 'Income Tax Declaration: Process, Requirements & Deadlines'
+title: 'Income Tax Declaration: Process, Requirements & Deadlines'
+translationKey: croatia-income_tax_declaration
 ---
+
 
 ## Description
 ### What is it?

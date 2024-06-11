@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-application_for_issuing_a_passport
-title: "Žádost o vydání pasu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: "Proces žádosti o pas pro Českou republiku"
-description: "Krok za krokem průvodce při žádání o pas České republiky."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Zjistěte, co potřebujete pro získání českého pasu, podání žádosti, platbu
+  poplatku a dobu zpracování. Informace o poskytovateli a tipy na zkrácení procesu.
 draft: false
+meta_title: 'Proces žádosti o český pas: Dokumenty, postup a časový odhad'
+title: 'Proces žádosti o český pas: Dokumenty, postup a časový odhad'
+translationKey: czech republic-application_for_issuing_a_passport
 ---
+
 
 ## Popis
 ### Co to je?

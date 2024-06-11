@@ -1,13 +1,16 @@
 ---
-title: "Lease Agreement"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Understanding Lease Agreement in Romania"
-description: "Guide on how to formulate legal and binding lease agreement contracts in Romania"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn the steps to draft and register a lease agreement in Romania, including
+  required documents and legal procedures for tenants and landlords.
 draft: false
-translationKey: "romania-lease_agreement"
+meta_title: Lease Agreement Guide for Renting Property in Romania
+title: Lease Agreement Guide for Renting Property in Romania
+translationKey: romania-lease_agreement
 ---
+
 
 ## Description
 ### What is it?

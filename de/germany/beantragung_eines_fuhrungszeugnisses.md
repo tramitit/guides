@@ -1,13 +1,17 @@
 ---
-translationKey: germany-application_for_a_certificate_of_conduct
-title: "Antrag auf ein Führungszeugnis"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dies ist die Meta-Beschreibung"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie ein Führungszeugnis in Deutschland beantragen,
+  welche Dokumente erforderlich sind und Anbieter, die den Prozess für Sie übernehmen
+  können.
 draft: false
+meta_title: 'Führungszeugnis beantragen in Deutschland: Anleitung und Anbieter'
+title: 'Führungszeugnis beantragen in Deutschland: Anleitung und Anbieter'
+translationKey: germany-application_for_a_certificate_of_conduct
 ---
+
 
 ## Beschreibung
 ### Was ist das?

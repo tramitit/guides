@@ -1,13 +1,17 @@
 ---
-translationKey: portugal-passport_renewal
-title: "Renovação de Passaporte"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Guia para Renovação de Passaporte Português"
-description: "Guia passo a passo para renovar seu passaporte português."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como renovar seu passaporte português estando no exterior. Agende
+  horário no consulado, leve documentos necessários e pague taxa. Detalhes e prazos
+  aqui.
 draft: false
+meta_title: Renovação de Passaporte para Cidadãos Portugueses no Exterior
+title: Renovação de Passaporte para Cidadãos Portugueses no Exterior
+translationKey: portugal-passport_renewal
 ---
+
 
 ## Descrição
 ### O que é?

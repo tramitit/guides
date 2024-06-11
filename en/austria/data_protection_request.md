@@ -1,13 +1,16 @@
 ---
-title: "Data Protection Request"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Understand the step by step procedure on initiating a data protection request under GDPR"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to request personal data details from companies under GDPR.
+  Follow steps to identify, request, and await a timely response. Be informed!
 draft: false
-translationKey: "austria-data_protection_request"
+meta_title: 'Data Protection Request (GDPR Subject Access): How to Make One'
+title: 'Data Protection Request (GDPR Subject Access): How to Make One'
+translationKey: austria-data_protection_request
 ---
+
 
 ## Description
 ### What is it?

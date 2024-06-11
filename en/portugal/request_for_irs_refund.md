@@ -1,13 +1,16 @@
 ---
-title: "Request for IRS Refund"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "A comprehensive guide on how to request an IRS refund in the United States."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn about IRS refunds, how to claim them, required documents, and providers
+  like H&R Block and TurboTax. Get your overpaid taxes back within 21 days!
 draft: false
-translationKey: "portugal-request_for_irs_refund"
+meta_title: 'Understanding IRS Refunds: Process, Eligibility & Providers'
+title: 'Understanding IRS Refunds: Process, Eligibility & Providers'
+translationKey: portugal-request_for_irs_refund
 ---
+
 
 ## Description
 ### What is it?

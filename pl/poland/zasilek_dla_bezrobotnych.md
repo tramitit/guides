@@ -1,13 +1,16 @@
 ---
-translationKey: poland-unemployment_benefit
-title: "Zasiłek dla bezrobotnych"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Zasiłek dla bezrobotnych w Polsce: Szczegółowy przewodnik"
-description: "Kompleksowy przewodnik po zrozumieniu i ubieganiu się o zasiłek dla bezrobotnych w Polsce."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak zarejestrować się jako bezrobotny, jakie dokumenty są
+  potrzebne i jak sprawdzić swoje uprawnienia do zasiłku dla bezrobotnych w Polsce.
 draft: false
+meta_title: 'Zasiłek dla bezrobotnych: Jak ubiegać się o pomoc finansową'
+title: 'Zasiłek dla bezrobotnych: Jak ubiegać się o pomoc finansową'
+translationKey: poland-unemployment_benefit
 ---
+
 
 ## Opis
 ### Co to jest?

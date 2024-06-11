@@ -1,13 +1,16 @@
 ---
-title: "Deregistration of Residence"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "A step by step guide to deregistering residence in Germany and Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn the steps, documents needed, and providers for deregistering your
+  residence when relocating or leaving Germany or Austria permanently.
 draft: false
-translationKey: "austria-deregistration_of_residence"
+meta_title: Deregistration of Residence in Germany and Austria Guide
+title: Deregistration of Residence in Germany and Austria Guide
+translationKey: austria-deregistration_of_residence
 ---
+
 
 ## Description
 ### What is it?

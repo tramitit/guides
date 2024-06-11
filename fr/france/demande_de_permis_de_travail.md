@@ -1,13 +1,17 @@
 ---
-translationKey: france-work_permit_application
-title: "Demande de permis de travail"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: ""
-description: "Procédures détaillées pour une demande de permis de travail en France pour faciliter votre transition professionnelle."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Découvrez comment demander légalement un permis de travail en France
+  en tant qu'étranger non européen. Procédure, documents requis et conseils utiles
+  inclus.
 draft: false
+meta_title: Guide pour demander un permis de travail en France
+title: Guide pour demander un permis de travail en France
+translationKey: france-work_permit_application
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est ?

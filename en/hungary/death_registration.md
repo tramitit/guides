@@ -1,13 +1,16 @@
 ---
-title: "Death registration in Hungary"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Guide to Death Registration in Hungary"
-description: "Detailed steps for death registration in Hungary"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn the process of death registration in Hungary, who needs to do it,
+  required documents, and where to go for assistance. Ensure legal compliance.
 draft: false
-translationKey: "hungary-death_registration"
+meta_title: 'How to Register a Death in Hungary: Step-by-Step Guide'
+title: 'How to Register a Death in Hungary: Step-by-Step Guide'
+translationKey: hungary-death_registration
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Application for student transfer"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "A detailed step-by-step guide to apply for student transfer in Greece, including the procedure, required documents, and potential service providers."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: 'Learn how to transfer between educational institutions in Greece or
+  abroad: from academic record evaluation to visa procedures and new institution requirements.'
 draft: false
-translationKey: "greece-application_for_student_transfer"
+meta_title: Student Transfer Guide for International and Domestic Moves
+title: Student Transfer Guide for International and Domestic Moves
+translationKey: greece-application_for_student_transfer
 ---
+
 
 ## Description
 ### What is it?

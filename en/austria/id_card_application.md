@@ -1,13 +1,16 @@
 ---
-title: "ID Card Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detailed steps to apply for an ID card in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn who needs an Austrian ID card, the application process with required
+  documents, provider details, and card validity periods in Austria.
 draft: false
-translationKey: "austria-id_card_application"
+meta_title: 'Austrian ID Card Application: Procedure & Requirements'
+title: 'Austrian ID Card Application: Procedure & Requirements'
+translationKey: austria-id_card_application
 ---
+
 
 ## Description
 ### What is it?

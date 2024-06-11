@@ -1,13 +1,16 @@
 ---
-title: "Issuance of a driver's license"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Getting a Driver's License in Bulgaria"
-description: "A comprehensive guide on how to obtain a driver's license in Bulgaria"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn how to get a Bulgarian driver's license, including courses, tests,
+  and documents needed. Find a driving school for training and exam costs.
 draft: false
-translationKey: "bulgaria-issuance_of_a_drivers_license"
+meta_title: 'Obtaining a Driver''s License in Bulgaria: Steps and Requirements'
+title: 'Obtaining a Driver''s License in Bulgaria: Steps and Requirements'
+translationKey: bulgaria-issuance_of_a_drivers_license
 ---
+
 
 ## Description
 ### What is it?

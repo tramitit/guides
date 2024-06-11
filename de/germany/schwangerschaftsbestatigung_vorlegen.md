@@ -1,13 +1,16 @@
 ---
-translationKey: germany-submitting_pregnancy_confirmation
-title: "Einreichung der Schwangerschaftsbestätigung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Dieser Leitfaden bietet detaillierte Anweisungen dazu, wie Sie Schwangerschaftsbestätigungen in verschiedenen Szenarien wie am Arbeitsplatz und während Reisen einreichen können."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, warum und wie man eine Schwangerschaftsbestätigung einreicht.
+  Notwendige Schritte, erforderliche Dokumente und wichtige Details im Überblick.
 draft: false
+meta_title: 'Schwangerschaftsbestätigung: Was es ist und wer es braucht'
+title: 'Schwangerschaftsbestätigung: Was es ist und wer es braucht'
+translationKey: germany-submitting_pregnancy_confirmation
 ---
+
 
 ## Beschreibung
 ### Was ist es?

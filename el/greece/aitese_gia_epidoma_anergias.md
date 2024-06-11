@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_unemployment_benefit
-title: "Αίτηση για Επίδομα Ανεργίας"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: "Αίτηση για Επίδομα Ανεργίας στην Ελλάδα: Οδηγός"
-description: "Ένας πλήρης οδηγός για το πώς να υποβάλετε αίτηση για Επίδομα Ανεργίας στην Ελλάδα"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τι είναι το επίδομα ανεργίας, ποιοι μπορούν να το λάβουν, πώς
+  να υποβάλετε αίτηση, ποια έγγραφα χρειάζεστε και ποιοι παρόχοι μπορούν να σας βοηθήσουν.
 draft: false
+meta_title: 'Επίδομα Ανεργίας: Αίτηση, Απαιτούμενα Έγγραφα & Οδηγίες'
+title: 'Επίδομα Ανεργίας: Αίτηση, Απαιτούμενα Έγγραφα & Οδηγίες'
+translationKey: greece-application_for_unemployment_benefit
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

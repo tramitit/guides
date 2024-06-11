@@ -1,13 +1,16 @@
 ---
-translationKey: spain-id_card_renewal
-title: "Renovación de la Tarjeta de Identificación"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Renovación de su Tarjeta de Identificación Española: Una Guía Completa"
-description: "Esta guía proporciona un proceso detallado paso a paso para renovar su Tarjeta de Identificación Española"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to renew your Spanish DNI online, required documents, providers,
+  costs, and additional details. Process for residents and non-residents explained.
 draft: false
+meta_title: 'Renovación del DNI en España: Procedimiento y Requisitos'
+title: 'Renovación del DNI en España: Procedimiento y Requisitos'
+translationKey: spain-id_card_renewal
 ---
+
 
 ## Descripción
 ### ¿Qué es?

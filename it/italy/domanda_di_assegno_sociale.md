@@ -1,14 +1,16 @@
 ---
-translationKey: italy-social_allowance_application
-
-title: "Domanda di Assegno Sociale"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa è la descrizione meta"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come richiedere l'assegno sociale, i documenti necessari e i passaggi
+  da seguire. Assicurati di verificare dettagli e tempistiche locali.
 draft: false
+meta_title: 'Guida all''Assegno Sociale: Procedura e Documenti Richiesti'
+title: 'Guida all''Assegno Sociale: Procedura e Documenti Richiesti'
+translationKey: italy-social_allowance_application
 ---
+
 
 ## Descrizione
 ### Cos'è?

@@ -1,13 +1,16 @@
 ---
-title: "Application for marriage certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "This is a guide on how to apply for a marriage certificate in Greece."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to obtain a marriage certificate in Greece, including required
+  documents and procedure steps. Useful for immigration or legal proof of marriage.
 draft: false
-translationKey: "greece-application_for_marriage_certificate"
+meta_title: 'Getting a Marriage Certificate in Greece: Procedure & Documents'
+title: 'Getting a Marriage Certificate in Greece: Procedure & Documents'
+translationKey: greece-application_for_marriage_certificate
 ---
+
 
 ## Description
 ### What is it?

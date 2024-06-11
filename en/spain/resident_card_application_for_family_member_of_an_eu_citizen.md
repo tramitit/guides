@@ -1,13 +1,16 @@
 ---
-title: "Resident Card Application for Family Member of an EU Citizen"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Legal residency process in Spain for non-EU family of EU citizens. Appointment,
+  documents, and timelines. Ensure preparedness for smooth application process.
 draft: false
-translationKey: "spain-resident_card_application_for_family_member_of_an_eu_citizen"
+meta_title: Resident Card Application for EU Family Members in Spain
+title: Resident Card Application for EU Family Members in Spain
+translationKey: spain-resident_card_application_for_family_member_of_an_eu_citizen
 ---
+
 
 ## Description
 ### What is it?

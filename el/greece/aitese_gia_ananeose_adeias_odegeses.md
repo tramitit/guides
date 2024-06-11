@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_drivers_license_renewal
-title: "Αίτηση για ανανέωση διπλώματος οδήγησης"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Αυτή είναι μια μετα-περιγραφή"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Ακολουθήστε τη διαδικασία ανανέωσης διπλώματος οδήγησης στην Ελλάδα,
+  περιλαμβάνοντας απαιτούμενα έγγραφα, παρόχους και χρονοδιαγράμματα.
 draft: false
+meta_title: 'Ανανέωση Διπλώματος Οδήγησης στην Ελλάδα: Ολοκληρωμένος Οδηγός'
+title: 'Ανανέωση Διπλώματος Οδήγησης στην Ελλάδα: Ολοκληρωμένος Οδηγός'
+translationKey: greece-application_for_drivers_license_renewal
 ---
+
 
 ## Περιγραφή
 ### Τι είναι;

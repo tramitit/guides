@@ -1,13 +1,16 @@
 ---
-title: "Proof of Citizenship"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "A detailed guide on how to prove your Austrian citizenship."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to establish Austrian citizenship with required documents,
+  application steps, and key details on the process for legal status verification.
 draft: false
-translationKey: "austria-proof_of_citizenship"
+meta_title: 'Guide to Obtaining Austrian Proof of Citizenship: Steps & Docs'
+title: 'Guide to Obtaining Austrian Proof of Citizenship: Steps & Docs'
+translationKey: austria-proof_of_citizenship
 ---
+
 
 ## Description
 ### What is it?

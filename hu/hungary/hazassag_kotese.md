@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-marriage_registration
-title: "Házasság bejegyzése Magyarországon"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Házasság bejegyzése Magyarországon"
-description: "Egy részletes útmutató arról, hogyan regisztrálhatja házasságát Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerd meg a magyar házasságkötés folyamatát, szükséges dokumentumokat,
+  és az elérhető szolgáltatókat. Ideális magyar állampolgárok és külföldiek számára.
 draft: false
+meta_title: 'Házasságkötés Magyarországon: Folyamat, Dokumentumok, Szolgáltatók'
+title: 'Házasságkötés Magyarországon: Folyamat, Dokumentumok, Szolgáltatók'
+translationKey: hungary-marriage_registration
 ---
+
 
 ## Leírás
 ### Mi is ez?

@@ -1,13 +1,16 @@
 ---
-title: "Request for Building Permit in Portugal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Request for Building Permit in Portugal: Step by Step Guide"
-description: "Step by step guide to request a building permit in Portugal. From understanding the requirements to getting it done."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn the step-by-step process to get a building permit in Portugal,
+  including requirements, necessary documents, and important tips for a smooth approval.
 draft: false
-translationKey: "portugal-request_for_building_permit"
+meta_title: 'How to Obtain a Building Permit in Portugal: A Complete Guide'
+title: 'How to Obtain a Building Permit in Portugal: A Complete Guide'
+translationKey: portugal-request_for_building_permit
 ---
+
 
 ## Description
 ### What is it?

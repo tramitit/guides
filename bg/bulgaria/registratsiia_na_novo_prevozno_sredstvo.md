@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-registration_of_a_new_vehicle
-title: "Регистрация на ново превозно средство"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Ръководство за регистрация на ново превозно средство в България."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: 'Научете как да регистрирате автомобил в България: стъпките, документите
+  и важни съвети. Задължително за всеки нов автомобил в страната.'
 draft: false
+meta_title: 'Регистрация на превозно средство в България: Процедура и Документи'
+title: 'Регистрация на превозно средство в България: Процедура и Документи'
+translationKey: bulgaria-registration_of_a_new_vehicle
 ---
+
 
 ## Описание
 ### Какво е това?

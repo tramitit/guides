@@ -1,13 +1,17 @@
 ---
-title: "Parental Allowance Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: 'Learn about Elterngeld: a financial support program for new parents,
+  how to apply, required documents, providers, and additional details in Austria and
+  Germany.'
 draft: false
-translationKey: "austria-parental_allowance_application"
+meta_title: 'Parental Allowance in Austria and Germany: A Guide for New Parents'
+title: 'Parental Allowance in Austria and Germany: A Guide for New Parents'
+translationKey: austria-parental_allowance_application
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Death Registration in Spain"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Steps for Death Registration in Spain"
-description: "Detailed process to register a death and obtain a death certificate in Spain"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to register a death in Spain, including obtaining the official
+  death certificate and required documents. Vital for legal and administrative purposes.
 draft: false
-translationKey: "spain-death_registration"
+meta_title: 'Spain Death Registration: Procedure & Required Documents'
+title: 'Spain Death Registration: Procedure & Required Documents'
+translationKey: spain-death_registration
 ---
+
 
 ## Description
 ### What is it?

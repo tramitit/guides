@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-renewal_of_driving_license
-title: "Renovação da Carta de Condução"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Saiba como renovar a sua carta de condução quando vive no estrangeiro."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Saiba como renovar sua carta de condução no exterior (Portugal, Reino
+  Unido, Brasil) e os documentos exigidos. Verifique regulamentos locais com cuidado.
 draft: false
+meta_title: 'Renovação da Carta de Condução: Procedimentos e Documentos Necessários'
+title: 'Renovação da Carta de Condução: Procedimentos e Documentos Necessários'
+translationKey: portugal-renewal_of_driving_license
 ---
+
 
 ## Descrição
 ### O que é?

@@ -1,13 +1,16 @@
 ---
-title: "Work Permit Renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guide on Work Permit Renewal in Spain"
-description: "Detailed guide providing information about the renewal of a work permit in Spain."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Extend your work authorization in Spain before expiry with this detailed
+  guide. Learn the procedure, required documents, and providers who can assist you.
 draft: false
-translationKey: "spain-work_permit_renewal"
+meta_title: 'Spain Work Permit Renewal: Process, Documents & Providers'
+title: 'Spain Work Permit Renewal: Process, Documents & Providers'
+translationKey: spain-work_permit_renewal
 ---
+
 
 ## Description
 ### What is it?

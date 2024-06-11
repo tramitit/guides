@@ -1,13 +1,16 @@
 ---
-translationKey: germany-declaration_of_name_change
-title: "Erklärung zur Namensänderung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Ratgeber zur rechtlichen Namensänderung in Deutschland"
-description: "Ein umfassender Leitfaden zum Ablauf und den Anforderungen für die rechtliche Namensänderung in Deutschland."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Sie Ihren Namen in Deutschland ändern können. Schritt-für-Schritt
+  Anleitung, erforderliche Dokumente & Prozessdauer erklärt.
 draft: false
+meta_title: 'Namensänderungserklärung in Deutschland: Verfahren & Dokumente'
+title: 'Namensänderungserklärung in Deutschland: Verfahren & Dokumente'
+translationKey: germany-declaration_of_name_change
 ---
+
 
 ## Beschreibung
 ### Was ist es?

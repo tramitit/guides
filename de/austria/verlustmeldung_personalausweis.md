@@ -1,13 +1,16 @@
 ---
-translationKey: austria-id_card_loss_report
-title: "Verlustmeldung Personalausweis"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detaillierte Informationen zum Verfahren zur Meldung eines verlorenen oder gestohlenen Personalausweises in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Beantragen Sie eine Ersatzkarte nach Verlust oder Diebstahl Ihres Personalausweises
+  in Österreich. Erfahren Sie wer es braucht und wie das Verfahren abläuft.
 draft: false
+meta_title: Personalausweis verloren oder gestohlen melden in Österreich
+title: Personalausweis verloren oder gestohlen melden in Österreich
+translationKey: austria-id_card_loss_report
 ---
+
 
 ## Beschreibung
 ### Was ist es?

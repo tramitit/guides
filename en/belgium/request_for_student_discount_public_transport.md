@@ -1,13 +1,16 @@
 ---
-title: "Request for student discount public transport"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Discover how student discounts offer cost-efficient travel options for
+  students, including eligibility, procedures, required documents, and provider details.
 draft: false
-translationKey: "belgium-request_for_student_discount_public_transport"
+meta_title: 'Student Discounts on Public Transport: Your Key to Affordable Travel'
+title: 'Student Discounts on Public Transport: Your Key to Affordable Travel'
+translationKey: belgium-request_for_student_discount_public_transport
 ---
+
 
 ## Description
 ### What is it?

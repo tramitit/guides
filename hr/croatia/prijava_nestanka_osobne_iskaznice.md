@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-report_of_missing_id_card
-title: "Izvještaj o nestaloj osobnoj iskaznici"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Izvještaj o nestaloj osobnoj iskaznici u Hrvatskoj"
-description: "Detaljne upute o tome kako prijaviti nestalu osobnu iskaznicu u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako prijaviti gubitak osobne iskaznice, posjetiti policiju,
+  ispuniti obrasce, priložiti dokumente i podnijeti zahtjev za novu iskaznicu u Hrvatskoj.
 draft: false
+meta_title: Postupak Zamjene Hrvatske Osobne Iskaznice Nakon Gubitka
+title: Postupak Zamjene Hrvatske Osobne Iskaznice Nakon Gubitka
+translationKey: croatia-report_of_missing_id_card
 ---
+
 
 ## Opis
 ### Što je to?

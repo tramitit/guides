@@ -1,14 +1,16 @@
 ---
-translationKey: poland-acknowledgement_of_paternity
-
-title: "Uznanie Ojcostwa"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Uznanie Ojcostwa w Polsce"
-description: "To przewodnik krok po kroku poświęcony zrozumieniu procesu uznanie ojcostwa w Polsce."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: 'Dowiedz się, jak uznać ojcostwo: procedura w szpitalu lub urzędzie,
+  wymagane dokumenty, test DNA, koszty. Dostawcy: Sąd Rodzinny, Urząd Stanu Cywilnego.'
 draft: false
+meta_title: 'Uznanie Ojcostwa: Procedura, Wymagane Dokumenty, Dostawcy'
+title: 'Uznanie Ojcostwa: Procedura, Wymagane Dokumenty, Dostawcy'
+translationKey: poland-acknowledgement_of_paternity
 ---
+
 
 ## Opis
 ### Co to jest?

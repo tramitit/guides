@@ -1,13 +1,16 @@
 ---
-translationKey: spain-child_benefit_application
-title: "Solicitud de Prestación por Hijo/a"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guía para la Solicitud de Prestación por Hijo/a en España"
-description: "Una guía paso a paso sobre cómo solicitar la Prestación por Hijo/a en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo solicitar el Subsidio por Hijo en España, requisitos, trámites,
+  documentos necesarios y beneficios. Ideal para familias residentes e inmigrantes.
 draft: false
+meta_title: 'Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios'
+title: 'Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios'
+translationKey: spain-child_benefit_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

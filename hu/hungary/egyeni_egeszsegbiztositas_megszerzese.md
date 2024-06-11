@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-obtaining_individual_health_insurance
-title: "Egyéni egészségbiztosítás megszerzése Magyarországon"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Hogyan szerezhetünk egyéni egészségbiztosítást Magyarországon"
-description: "Egy átfogó útmutató az egészségbiztosítás beszerzéséről egyénként Magyarországon."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Kimerítő útmutató a magánszemélyeknek Magyarországon az egészségbiztosítás
+  megszerzéséhez, szükséges dokumentumokkal, eljárási lépésekkel és szolgáltatókkal.
 draft: false
+meta_title: Egészségbiztosítás Megvásárlása Magánszemélyként Magyarországon
+title: Egészségbiztosítás Megvásárlása Magánszemélyként Magyarországon
+translationKey: hungary-obtaining_individual_health_insurance
 ---
+
 
 ## Leírás
 ### Mi is ez?

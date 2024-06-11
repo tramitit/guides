@@ -1,13 +1,16 @@
 ---
-title: "Disability Allowance"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "A step by step guide to apply for Disability Allowance"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn about the Disability Allowance, a weekly payment for individuals
+  with disabilities that hinders work ability, requiring medical evidence for eligibility.
 draft: false
-translationKey: "romania-disability_allowance"
+meta_title: 'Disability Allowance: Support for People with Disabilities'
+title: 'Disability Allowance: Support for People with Disabilities'
+translationKey: romania-disability_allowance
 ---
+
 
 ## Description
 ### What is it?

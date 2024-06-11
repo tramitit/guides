@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-issuance_of_a_family_status_certificate
-title: "Издаване на удостоверение за семейно положение"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Стъпки за издаване на удостоверение за семейно положение за процесите на осиновяване или имиграция в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да получите свидетелство за семейно положение в България
+  за осиновяване, имиграция и други статусни процеси. Важни стъпки и документи.
 draft: false
+meta_title: Процес за Свидетелство за Семейно Положение в България
+title: Процес за Свидетелство за Семейно Положение в България
+translationKey: bulgaria-issuance_of_a_family_status_certificate
 ---
+
 
 ## Описание
 ### Какво е това?

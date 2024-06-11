@@ -1,13 +1,16 @@
 ---
-title: "Request for User Card for Foreigners"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "This is a guide on how to apply for a User Card for foreigners in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how non-EU citizens can legally reside in Portugal with the Autorização
+  de Residência. Find steps, documents needed, providers, costs, and more details.
 draft: false
-translationKey: "portugal-request_for_user_card_for_foreigners"
+meta_title: 'User Card for Foreigners in Portugal: Requirements & Providers'
+title: 'User Card for Foreigners in Portugal: Requirements & Providers'
+translationKey: portugal-request_for_user_card_for_foreigners
 ---
+
 
 ## Description
 ### What is it?

@@ -1,13 +1,16 @@
 ---
-title: "Request Educational Scholarships"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guide to Requesting Educational Scholarships"
-description: "A detailed guide on how to navigate the process of requesting educational scholarships, based on information available online."
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Learn how to request educational scholarships, from identifying the right
+  ones to submitting applications. Find providers to assist you in the process.
 draft: false
-translationKey: "spain-request_educational_scholarships"
+meta_title: 'Guide to Educational Scholarships: Procedures and Providers'
+title: 'Guide to Educational Scholarships: Procedures and Providers'
+translationKey: spain-request_educational_scholarships
 ---
+
 
 ## Description
 ### What is it?

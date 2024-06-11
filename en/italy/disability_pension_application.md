@@ -1,13 +1,16 @@
 ---
-title: "Disability Pension Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Detailed guide on applying for a Disability Pension in Italy"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to apply for Disability Pension in Italy through INPS website.
+  Detailed steps, required documents, costs, and important details for recipients.
 draft: false
-translationKey: "italy-disability_pension_application"
+meta_title: 'Applying for Disability Pension in Italy: Procedure and Providers'
+title: 'Applying for Disability Pension in Italy: Procedure and Providers'
+translationKey: italy-disability_pension_application
 ---
+
 
 ## Description
 ### What is it?

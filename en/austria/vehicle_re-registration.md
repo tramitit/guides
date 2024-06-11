@@ -1,13 +1,17 @@
 ---
-title: "Vehicle Re-registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "This guide provides a detailed procedure on vehicle re-registration in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn about vehicle re-registration in Austria for residents and imports
+  from EU countries. Find out the process, required documents, and provider details
+  here.
 draft: false
-translationKey: "austria-vehicle_re-registration"
+meta_title: 'Austria Vehicle Re-registration: Process, Documents & Providers'
+title: 'Austria Vehicle Re-registration: Process, Documents & Providers'
+translationKey: austria-vehicle_re-registration
 ---
+
 
 ## Description
 ### What is it?

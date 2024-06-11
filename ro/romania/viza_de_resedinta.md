@@ -1,13 +1,16 @@
 ---
-translationKey: romania-residence_visa
-title: "Viză de Rezidență"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: "Procesul de obținere a vizei de rezidență"
-description: "Ghid complet pentru obținerea unei vize de rezidență în România."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Ghid complet pentru cetățenii străini interesați de obținerea permisului
+  de ședere în România, inclusiv proceduri, documente necesare și sfaturi practice.
 draft: false
+meta_title: Procesul de obținere a permisului de ședere în România
+title: Procesul de obținere a permisului de ședere în România
+translationKey: romania-residence_visa
 ---
+
 
 ## Descriere
 ### Ce este?

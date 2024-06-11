@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_residence_permit
-title: "Demande de permis de séjour"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: "Informations détaillées sur la façon de demander un permis de séjour"
-description: "Un guide complet pour les étrangers cherchant du travail et la résidence en Belgique"
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn about residence permits in Belgium, from application steps to required
+  documents. Discover who needs it and options for assistance in this process.
 draft: false
+meta_title: 'Residence Permit in Belgium: Process, Requirements & Help'
+title: 'Residence Permit in Belgium: Process, Requirements & Help'
+translationKey: belgium-request_for_residence_permit
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

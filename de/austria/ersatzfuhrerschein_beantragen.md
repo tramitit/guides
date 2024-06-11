@@ -1,13 +1,16 @@
 ---
-translationKey: austria-replacement_drivers_license_application
-title: "Antrag auf Ersatzführerschein"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Detaillierte Schritte zur Beantragung eines Ersatzführerscheins in Österreich"
-description: "In diesem Leitfaden beschreiben wir den Schritt-für-Schritt-Prozess zur Beantragung eines Ersatzführerscheins in Österreich."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Erfahren Sie, wann und wie Sie in Österreich Ihren Führerschein ersetzen
+  müssen. Schritte, Dokumente und wichtige Hinweise je nach Region.
 draft: false
+meta_title: 'Ersatz-Führerschein in Österreich: Antragsverfahren & Dokumente'
+title: 'Ersatz-Führerschein in Österreich: Antragsverfahren & Dokumente'
+translationKey: austria-replacement_drivers_license_application
 ---
+
 
 ## Beschreibung
 ### Was ist es?

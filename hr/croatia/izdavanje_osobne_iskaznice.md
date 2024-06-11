@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-issuance_of_id_card
-title: "Izdavanje osobne iskaznice"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Croatia"]
-meta_title: ""
-description: "Ovo je korak po korak vodič o tome kako se prijaviti za osobnu iskaznicu u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-07'
+description: Saznajte o procesu apliciranja za osobnu iskaznicu u Hrvatskoj, potrebnim
+  dokumentima, davateljima usluga i biometrijskim standardima. Novi dizajn od 2021.
 draft: false
+meta_title: 'Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti'
+title: 'Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti'
+translationKey: croatia-issuance_of_id_card
 ---
+
 
 ## Opis
 ### Što je to?

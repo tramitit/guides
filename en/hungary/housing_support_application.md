@@ -1,13 +1,16 @@
 ---
-title: "Housing support application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Application guide for Housing Support in Hungary"
-description: "This guide provides a step-by-step process on how to apply for housing support in Hungary, including required documents and service providers."
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn about housing support in Hungary, including eligibility, required
+  documents, and the application process to assist with housing costs.
 draft: false
-translationKey: "hungary-housing_support_application"
+meta_title: 'Housing Support in Hungary: Eligibility and Application Process'
+title: 'Housing Support in Hungary: Eligibility and Application Process'
+translationKey: hungary-housing_support_application
 ---
+
 
 ## Description
 ### What is it?

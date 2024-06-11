@@ -1,13 +1,16 @@
 ---
-translationKey: poland-change_of_first_name_notification
-title: "Powiadomienie o zmianie imienia"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Procedura powiadomienia o zmianie imienia"
-description: "Krok po kroku przewodnik po procesie powiadomienia o zmianie imienia"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się jak oficjalnie zmienić swoje nazwisko w tym przewodniku.
+  Zobacz kroki, dokumenty i porady dla spójnej identyfikacji prawniczej w tym procesie.
 draft: false
+meta_title: 'Zmiana Nazwiska: Procedura, Wymagane Dokumenty i Porady'
+title: 'Zmiana Nazwiska: Procedura, Wymagane Dokumenty i Porady'
+translationKey: poland-change_of_first_name_notification
 ---
+
 
 ## Opis
 ### Co to jest?

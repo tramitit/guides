@@ -1,13 +1,17 @@
 ---
-translationKey: germany-applying_for_a_social_security_card
-title: "Beantragung einer Sozialversicherungskarte in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "Schritt-für-Schritt-Anleitung, wie man eine Sozialversicherungskarte in Deutschland beantragt"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wer eine Sozialversicherungskarte benötigt und wie Sie
+  diese beantragen. Notwendige Unterlagen, Prozess und Anbieter, die Ihnen helfen
+  können.
 draft: false
+meta_title: 'Sozialversicherungskarte in Deutschland: Beantragung und Details'
+title: 'Sozialversicherungskarte in Deutschland: Beantragung und Details'
+translationKey: germany-applying_for_a_social_security_card
 ---
+
 
 ## Beschreibung
 ### Was ist das?

@@ -1,13 +1,17 @@
 ---
-title: "Tax Code Request in Italy"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "How to Request an Italian Tax Code"
-description: "Step by step guide to request an Italian tax code, also known as Codice Fiscale"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to get the Italian Tax Code for interactions with government
+  agencies, banking, and more. Required for residents, workers, and businesses in
+  Italy.
 draft: false
-translationKey: "italy-tax_code_request"
+meta_title: 'Obtaining Codice Fiscale: Essential for Activities in Italy'
+title: 'Obtaining Codice Fiscale: Essential for Activities in Italy'
+translationKey: italy-tax_code_request
 ---
+
 
 ## Description
 ### What is it?

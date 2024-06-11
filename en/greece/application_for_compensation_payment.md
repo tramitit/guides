@@ -1,13 +1,16 @@
 ---
-title: "Application for compensation payment"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Understanding and applying for compensation payments"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn the steps to claim a compensation payment due to poor service or
+  non-payment. Understand documentation needed & providers that can assist you.
 draft: false
-translationKey: "greece-application_for_compensation_payment"
+meta_title: 'Compensation Payment: Claims Procedure & Required Documents'
+title: 'Compensation Payment: Claims Procedure & Required Documents'
+translationKey: greece-application_for_compensation_payment
 ---
+
 
 ## Description
 ### What is it?

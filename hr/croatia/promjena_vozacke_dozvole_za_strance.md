@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-change_of_drivers_license_for_foreigners
-title: "Promjena vozačke dozvole za strance"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Prijenos vozačke dozvole za strance u Hrvatskoj"
-description: "Detaljan vodič o tome kako možete promijeniti ili prenijeti svoju stranu vozačku dozvolu na hrvatsku."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Vodič za iseljenike u Hrvatskoj koji žele legalno voziti - provjera,
+  dokumentacija, medicinski test i postupak kod policije. Bez polaganja ispita.
 draft: false
+meta_title: Postupak konverzije strane vozačke dozvole u Hrvatskoj
+title: Postupak konverzije strane vozačke dozvole u Hrvatskoj
+translationKey: croatia-change_of_drivers_license_for_foreigners
 ---
+
 
 ## Opis
 ### Što je to?

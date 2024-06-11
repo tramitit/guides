@@ -1,13 +1,16 @@
 ---
-title: "Request for Medical Appointment at SNS"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "Request for Medical Appointment at SNS in Portugal"
-description: "Comprehensive guide to request for a medical appointment at SNS in Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to schedule free or low-cost medical care through Portugal's
+  SNS for residents and expats. Guidelines and required documents included.
 draft: false
-translationKey: "portugal-request_for_medical_appointment_at_sns"
+meta_title: 'SNS Medical Appointment in Portugal: How to Request and Who Needs It'
+title: 'SNS Medical Appointment in Portugal: How to Request and Who Needs It'
+translationKey: portugal-request_for_medical_appointment_at_sns
 ---
+
 
 ## Description
 ### What is it?

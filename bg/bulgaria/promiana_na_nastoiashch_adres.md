@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-change_of_current_address
-title: "Промяна на настоящия адрес"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: ""
-description: "Това е мета описание"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Научете как да смените адреса си при преместване - процесът, документите,
+  контакт с агенции. Актуализирайте и допълнителни услуги за доставка.
 draft: false
+meta_title: 'Промяна на адреса: Процедура и необходими документи'
+title: 'Промяна на адреса: Процедура и необходими документи'
+translationKey: bulgaria-change_of_current_address
 ---
+
 
 ## Описание
 ### Какво е това?

@@ -1,14 +1,16 @@
 ---
-
-title: "Request for Resident Card for Foreign Citizens"
-author: "Ricardo Batista"
-date: "2023-09-29"
-categories: ["Portugal"]
-meta_title: "Resident Card Application for Foreign Citizens"
-description: "This comprehensive guide helps foreigners understand the process of applying for a resident card in Portugal."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2023-09-29'
+description: Learn how to apply for a resident card in Portugal as a non-EU citizen,
+  including required documents and procedure steps at SEF. Processing time varies.
 draft: false
-translationKey: "portugal-request_for_resident_card_for_foreign_citizens"
+meta_title: 'Portugal Resident Card: Application Procedure & Required Documents'
+title: 'Portugal Resident Card: Application Procedure & Required Documents'
+translationKey: portugal-request_for_resident_card_for_foreign_citizens
 ---
+
 
 ## Description
 ### What is it?

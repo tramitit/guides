@@ -1,13 +1,16 @@
 ---
-title: "Request for Business Registration in Portugal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: "How to register a business in Portugal"
-description: "Detailed step-by-step guide on how to register a business in Portugal"
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Learn how to legally register a business in Portugal. Perfect for locals
+  or foreigners, this guide covers naming, paperwork, and government requirements.
 draft: false
-translationKey: "portugal-request_for_business_registration"
+meta_title: 'Registering a Business in Portugal: Step-by-Step Guide'
+title: 'Registering a Business in Portugal: Step-by-Step Guide'
+translationKey: portugal-request_for_business_registration
 ---
+
 
 ## Description
 ### What is it?

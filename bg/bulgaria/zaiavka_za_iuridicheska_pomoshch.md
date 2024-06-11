@@ -1,13 +1,16 @@
 ---
-translationKey: bulgaria-application_for_legal_aid
-title: "Приложение за юридическа помощ"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Приложение за юридическа помощ в България"
-description: "Ръководство за кандидатстване за юридическа помощ в България"
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Разберете значението на правната помощ, кой има нужда от нея и какви
+  са процедурите. Съвети за успешно справяне с правните предизвикателства.
 draft: false
+meta_title: 'Правна помощ в България: За кого е важна и как да я получите'
+title: 'Правна помощ в България: За кого е важна и как да я получите'
+translationKey: bulgaria-application_for_legal_aid
 ---
+
 
 ## Описание
 ### Какво е това?

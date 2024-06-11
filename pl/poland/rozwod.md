@@ -1,13 +1,16 @@
 ---
-translationKey: poland-divorce
-title: "Rozwód"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: ""
-description: "Zestawienie kroków do rozwodu w Polsce"
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak przejść przez proces rozwodu w Polsce. Sprawdź kroki,
+  dokumenty i ważne informacje. Porady prawne dla skutecznego zakończenia małżeństwa.
 draft: false
+meta_title: 'Rozwód w Polsce: Procedura, Wymagane dokumenty, Porady prawne'
+title: 'Rozwód w Polsce: Procedura, Wymagane dokumenty, Porady prawne'
+translationKey: poland-divorce
 ---
+
 
 ## Opis
 ### Co to jest?

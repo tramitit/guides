@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-entry_into_the_birth_register
-title: "Upis u rodni registar u Hrvatskoj"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Postupak registracije rođenja u Hrvatskoj"
-description: "Vodič o tome kako registrirati rođenje u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako registrirati rođenje u Hrvatskoj, korak po korak. Potrebni
+  dokumenti uključuju medicinski certifikat, dokaze identiteta i državljanstva roditelja.
 draft: false
+meta_title: 'Registracija rođenja u Hrvatskoj: Postupak i Potrebni Dokumenti'
+title: 'Registracija rođenja u Hrvatskoj: Postupak i Potrebni Dokumenti'
+translationKey: croatia-entry_into_the_birth_register
 ---
+
 
 ## Opis
 ### Što je to?

@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-application_for_duplicate_birth_certificate
-title: "Kérelem a Megismételt Születési Bizonyítványhoz"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Ez az útmutató részletesen bemutatja, hogyan lehet kérvényezni egy megismételt születési bizonyítványt Magyarországon"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Ismerje meg hogyan kérhető a dupla születési anyakönyvi kivonat Magyarországon
+  magyar származású embereknek, akik állampolgárságot igazolni szeretnének.
 draft: false
+meta_title: 'Dupla Születési Anyakönyvi Kivonat Magyarországon: Kérelem és Eljárás'
+title: 'Dupla Születési Anyakönyvi Kivonat Magyarországon: Kérelem és Eljárás'
+translationKey: hungary-application_for_duplicate_birth_certificate
 ---
+
 
 ## Leírás
 ### Mi is ez?

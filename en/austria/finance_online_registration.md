@@ -1,13 +1,16 @@
 ---
-title: "Finance Online Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: "Online Financial Services Registration Guide for Austria"
-description: "A comprehensive guide to registering for online financial services in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Nutzen Sie FinanzOnline für schnelle und bequeme Steuererklärungen in
+  Österreich. Registrieren Sie sich einfach und sicher online mit persönlichen Angaben.
 draft: false
-translationKey: "austria-finance_online_registration"
+meta_title: 'FinanzOnline: Österreichs Plattform für einfache Steuererklärungen'
+title: 'FinanzOnline: Österreichs Plattform für einfache Steuererklärungen'
+translationKey: austria-finance_online_registration
 ---
+
 
 ## Description
 ### What is it?

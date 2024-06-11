@@ -1,13 +1,16 @@
 ---
-translationKey: spain-passport_application
-title: "Solicitud de un Pasaporte Español"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: ""
-description: "Esta es una guía completa sobre cómo solicitar un pasaporte español"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre cómo obtener un pasaporte español, requisitos, costos y plazos.
+  Proceso para ciudadanos españoles, incluidos menores de edad. Validez por edad.
 draft: false
+meta_title: 'Pasaporte Español: Requisitos y Procedimiento de Solicitud'
+title: 'Pasaporte Español: Requisitos y Procedimiento de Solicitud'
+translationKey: spain-passport_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

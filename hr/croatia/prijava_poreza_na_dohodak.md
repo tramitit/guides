@@ -1,13 +1,16 @@
 ---
-translationKey: croatia-income_tax_declaration
-title: "Obrazac za porez na dohodak"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "Korak-po-korak vodič za obrazac za porez na dohodak u Hrvatskoj"
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Saznajte kako podnijeti prijavu poreza na dohodak, korake, potrebne dokumente
+  i rokove podnošenja. Bitno za zaposlene i umjetnike. Provjerite detalje!
 draft: false
+meta_title: Prijava poreza na dohodak - Postupak, Dokumenti i Rokovi
+title: Prijava poreza na dohodak - Postupak, Dokumenti i Rokovi
+translationKey: croatia-income_tax_declaration
 ---
+
 
 ## Opis
 ### Što je to?

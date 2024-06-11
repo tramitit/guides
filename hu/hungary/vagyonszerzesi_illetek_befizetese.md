@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-property_acquisition_tax_payment
-title: "Ingatlanvásárlási illeték fizetése"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Teljes körű útmutató az ingatlanvásárlási illeték fizetéséről Magyarországon"
-description: "Egy könnyen követhető útmutató az ingatlanvásárlási illetékek megértéséhez és fizetéséhez Magyarországon"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Információk az ingatlan megszerzési illetékről Magyarországon, az adókötelezettség
+  eljárásáról, szükséges dokumentumokról, adófizetésről és jogi lehetőségekről.
 draft: false
+meta_title: Ingatlan Megszerzési Illeték (Ingatlanvásárlási Adó) Magyarországon
+title: Ingatlan Megszerzési Illeték (Ingatlanvásárlási Adó) Magyarországon
+translationKey: hungary-property_acquisition_tax_payment
 ---
+
 
 ## Leírás
 ### Mi ez?

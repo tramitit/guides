@@ -1,13 +1,16 @@
 ---
-title: "Application for Slovakian Citizenship"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: "Guide to Obtaining Slovakian Citizenship"
-description: "Step by step guide on how to apply for Slovakian citizenship including aspects such as procedure, required documents, potential providers and more."
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Comprehensive guide for individuals eligible for Slovakian citizenship
+  by descent, including required documents, translation, and application process timelines.
 draft: false
-translationKey: "slovakia-application_for_citizenship"
+meta_title: Guide to Applying for Slovakian Citizenship by Descent
+title: Guide to Applying for Slovakian Citizenship by Descent
+translationKey: slovakia-application_for_citizenship
 ---
+
 
 ## Description
 ### What is it?

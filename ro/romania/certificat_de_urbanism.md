@@ -1,13 +1,16 @@
 ---
-translationKey: romania-urbanism_certificate
-title: "Certificat de Urbanism: Ghid pas cu pas"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Un ghid cuprinzător care detaliază modul de obținere a unui certificat de urbanism."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum poți obține un certificat de urbanism, respectând reglementările
+  locale și întocmind documentele corecte. Costuri și sfaturi importante incluse.
 draft: false
+meta_title: 'Certificat de Urbanism: Procedura și Documentele Necesare'
+title: 'Certificat de Urbanism: Procedura și Documentele Necesare'
+translationKey: romania-urbanism_certificate
 ---
+
 
 ## Descriere
 ### Ce este?

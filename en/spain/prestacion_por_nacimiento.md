@@ -1,13 +1,17 @@
 ---
-title: "Prestación por Nacimiento"
-meta_title: "Guide to Apply for Prestación por Nacimiento"
-description: "Step by step procedure to apply for Spanish birth certificate 'Prestación por Nacimiento'"
-date: 2024-05-22T05:00:00Z
-categories: ["Spain"]
-author: "Ricardo Batista"
-tags: ["Social Security"]
+author: Ricardo Batista
+categories:
+- Spain
+date: 2024-05-22 05:00:00+00:00
+description: Learn how to obtain the essential Prestación por Nacimiento birth certificate
+  in Spain with detailed steps. Patience is key due to ongoing digitization.
 draft: false
+meta_title: 'Spanish Birth Certificate: Get Prestación por Nacimiento'
+tags:
+- Social Security
+title: 'Spanish Birth Certificate: Get Prestación por Nacimiento'
 ---
+
 
 ## Description
 

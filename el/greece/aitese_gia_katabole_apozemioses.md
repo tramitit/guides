@@ -1,13 +1,16 @@
 ---
-translationKey: greece-application_for_compensation_payment
-title: "Αίτηση για αποζημίωση πληρωμής"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Κατανόηση και υποβολή αιτήσεων για αποζημιώσεις πληρωμών"
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Μάθετε τη διαδικασία αποζημίωσης, τα απαιτούμενα έγγραφα και τις νομικές
+  επιλογές. Υπάρχουν παρόχοι που μπορεί να σας βοηθήσουν σε ορισμένες περιπτώσεις.
 draft: false
+meta_title: 'Αποζημίωση: Διαδικασία, Απαιτούμενα Έγγραφα και Παρόχοι'
+title: 'Αποζημίωση: Διαδικασία, Απαιτούμενα Έγγραφα και Παρόχοι'
+translationKey: greece-application_for_compensation_payment
 ---
+
 
 ## Περιγραφή
 ### Τι είναι αυτό;

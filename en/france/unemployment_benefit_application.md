@@ -1,13 +1,16 @@
 ---
-title: "Unemployment benefit application in France"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Applying for Unemployment Benefits in France"
-description: "A comprehensive guide on applying for unemployment benefits in France, including the required documents and steps."
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn about financial aid in France for the jobless & how to apply. Include
+  documentation needed. Get expert advice from Pôle emploi for a smooth process.
 draft: false
-translationKey: "france-unemployment_benefit_application"
+meta_title: 'French Unemployment Benefits: Eligibility and Application Process'
+title: 'French Unemployment Benefits: Eligibility and Application Process'
+translationKey: france-unemployment_benefit_application
 ---
+
 
 ## Description
 ### What is it?

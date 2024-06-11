@@ -1,13 +1,16 @@
 ---
-title: "Request for parking card"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Belgium"]
-meta_title: ""
-description: "Step by step guide on how to request for a parking card."
+author: Ricardo Batista
+categories:
+- Belgium
+date: '2024-06-07'
+description: Learn who needs a parking card, how to apply online, required documents,
+  provider details, and card renewal with this detailed guide on parking passes.
 draft: false
-translationKey: "belgium-request_for_parking_card"
+meta_title: Parking Card Application Procedure and Requirements
+title: Parking Card Application Procedure and Requirements
+translationKey: belgium-request_for_parking_card
 ---
+
 
 ## Description
 ### What is it?

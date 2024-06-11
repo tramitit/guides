@@ -1,13 +1,16 @@
 ---
-title: "Fiscal Attestation Certificate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Step by step guide on how to get a Fiscal Attestation Certificate"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn who needs the certificate, required documents, application procedure,
+  and find out about providers. Stay informed to avoid legal concerns.
 draft: false
-translationKey: "romania-fiscal_attestation_certificate"
+meta_title: 'Fiscal Attestation Certificate in Romania: Requirements & Process'
+title: 'Fiscal Attestation Certificate in Romania: Requirements & Process'
+translationKey: romania-fiscal_attestation_certificate
 ---
+
 
 ## Description
 ### What is it?

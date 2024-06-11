@@ -1,13 +1,16 @@
 ---
-title: "Certificate of Free Movement"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: ""
-description: "This is meta description"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn how to obtain a Free Movement Certificate in Germany. Detailed
+  procedure for EU, EEA, Swiss citizens on visa-free living, working, and studying.
 draft: false
-translationKey: "germany-certificate_of_free_movement"
+meta_title: 'Certificate of Free Movement: Guide for EU, EEA, Swiss Citizens'
+title: 'Certificate of Free Movement: Guide for EU, EEA, Swiss Citizens'
+translationKey: germany-certificate_of_free_movement
 ---
+
 
 ## Description
 ### What is it?

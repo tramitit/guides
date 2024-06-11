@@ -1,13 +1,17 @@
 ---
-translationKey: germany-application_for_a_residence_title
-title: "Antrag auf einen Aufenthaltstitel in Deutschland"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Antrag auf einen Aufenthaltstitel in Deutschland: Ein umfassender Leitfaden"
-description: "Ein umfassender Leitfaden darüber, wie man einen Aufenthaltstitel in Deutschland beantragt, der alle notwendigen Schritte, erforderlichen Dokumente und andere relevante Informationen auflistet."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Erfahren Sie, wie Nicht-EU-Bürger einen Aufenthaltstitel in Deutschland
+  beantragen. Schritt-für-Schritt-Anleitung, erforderliche Dokumente und wichtige
+  Details.
 draft: false
+meta_title: 'Aufenthaltstitel in Deutschland: Antrag, Verfahren & Dokumente'
+title: 'Aufenthaltstitel in Deutschland: Antrag, Verfahren & Dokumente'
+translationKey: germany-application_for_a_residence_title
 ---
+
 
 ## Beschreibung
 ### Was ist das?

@@ -1,13 +1,16 @@
 ---
-title: "Application for Tax Identification Number (TIN)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Greece"]
-meta_title: ""
-description: "Step-by-step guide on how to apply for a Tax Identification Number (TIN) in Greece."
+author: Ricardo Batista
+categories:
+- Greece
+date: '2024-06-07'
+description: Learn how to get your essential Tax Identification Number in Greece for
+  tax compliance. Steps, required documents, providers, and crucial tips provided.
 draft: false
-translationKey: "greece-application_for_tax_identification_number_(tin)"
+meta_title: Obtaining a Tax Identification Number (TIN) in Greece
+title: Obtaining a Tax Identification Number (TIN) in Greece
+translationKey: greece-application_for_tax_identification_number_(tin)
 ---
+
 
 ## Description
 ### What is it?

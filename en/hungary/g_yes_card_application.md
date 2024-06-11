@@ -1,13 +1,16 @@
 ---
-title: "G YES card application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: "Guide to Applying for G YES Card"
-description: "Step by step guide on how to apply for G YES card"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Learn why detailed information is crucial for understanding the 'G YES
+  card' service. Find out more context and sources for a comprehensive explanation.
 draft: false
-translationKey: "hungary-g_yes_card_application"
+meta_title: 'Obtaining a ''G YES Card'': Insufficient Information'
+title: 'Obtaining a ''G YES Card'': Insufficient Information'
+translationKey: hungary-g_yes_card_application
 ---
+
 
 ## Description
 ### What is it?

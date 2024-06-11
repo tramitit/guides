@@ -1,13 +1,16 @@
 ---
-translationKey: czech republic-change_of_permanent_residence
-title: "Změna trvalého bydliště"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Czech Republic"]
-meta_title: ""
-description: "Tento článek vás provede procesem změny trvalého bydliště, konkrétně pro ty, kteří pobývají v České republice."
+author: Ricardo Batista
+categories:
+- Czech Republic
+date: '2024-06-07'
+description: Vše, co potřebujete vědět o změně trvalého bydliště v České republice,
+  od procesu až po dokumenty. Zahrnuje i pomoc poskytovatelů a další důležité podrobnosti.
 draft: false
+meta_title: 'Změna trvalého bydliště: Postup a požadované dokumenty'
+title: 'Změna trvalého bydliště: Postup a požadované dokumenty'
+translationKey: czech republic-change_of_permanent_residence
 ---
+
 
 ## Popis
 ### Co to je?

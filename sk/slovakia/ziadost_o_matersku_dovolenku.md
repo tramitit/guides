@@ -1,13 +1,16 @@
 ---
-translationKey: slovakia-application_for_maternity_leave
-title: "Žiadosť o materskú dovolenku"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Slovakia"]
-meta_title: ""
-description: "Sprievodca, ako požiadať o materskú dovolenku na Slovensku"
+author: Ricardo Batista
+categories:
+- Slovakia
+date: '2024-06-07'
+description: Learn how to apply for maternity leave in Slovakia as a working woman.
+  Understand the rights, required documents, and providers who can assist you.
 draft: false
+meta_title: 'Materinity Leave Process in Slovakia: Rights & Steps'
+title: 'Materinity Leave Process in Slovakia: Rights & Steps'
+translationKey: slovakia-application_for_maternity_leave
 ---
+
 
 
 ## Popis

@@ -1,13 +1,16 @@
 ---
-title: "Work Record Book"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "A comprehensive guide on how to maintain and manage a Work Record Book."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Learn how to structure a Work Record Book to track work experience, accomplishments,
+  and skills effectively. Ideal for job-seekers and career advancement.
 draft: false
-translationKey: "romania-work_record_book"
+meta_title: Creating a Professional Work Record Book for Job Seekers
+title: Creating a Professional Work Record Book for Job Seekers
+translationKey: romania-work_record_book
 ---
+
 
 ## Description
 ### What is it?

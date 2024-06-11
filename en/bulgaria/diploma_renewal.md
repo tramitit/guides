@@ -1,13 +1,16 @@
 ---
-title: "Diploma renewal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Bulgaria"]
-meta_title: "Diploma Renewal Procedure"
-description: "This guide provides a detailed, step-by-step explanation about the diploma renewal process."
+author: Ricardo Batista
+categories:
+- Bulgaria
+date: '2024-06-07'
+description: Learn about the diploma renewal process, required documents, and service
+  providers. Update your academic certification hassle-free today!
 draft: false
-translationKey: "bulgaria-diploma_renewal"
+meta_title: 'Diploma Renewal: Process, Documents & Providers - Guide'
+title: 'Diploma Renewal: Process, Documents & Providers - Guide'
+translationKey: bulgaria-diploma_renewal
 ---
+
 
 ## Description
 ### What is it?

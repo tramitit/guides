@@ -1,13 +1,16 @@
 ---
-translationKey: italy-request_for_participation_in_separate_waste_collection_service
-title: "Richiesta di Partecipazione al Servizio di Raccolta Differenziata"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Guida Passo Dopo Passo per Partecipare alla Raccolta Differenziata"
-description: "Una guida facile per partecipare alla raccolta differenziata e iniziare a riciclare. Scopri come avviare la procedura, i documenti necessari e i fornitori di servizi."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come partecipare al servizio di raccolta differenziata. Trova
+  fornitori, documenti necessari e dettagli per una gestione responsabile dei rifiuti.
 draft: false
+meta_title: 'Raccolta Differenziata dei Rifiuti: Guida e Procedura'
+title: 'Raccolta Differenziata dei Rifiuti: Guida e Procedura'
+translationKey: italy-request_for_participation_in_separate_waste_collection_service
 ---
+
 
 ## Descrizione
 ### Cos'è?

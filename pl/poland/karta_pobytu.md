@@ -1,13 +1,16 @@
 ---
-translationKey: poland-residence_permit
-title: "Zezwolenie na pobyt stały (Karta Pobytu) w Polsce"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Przewodnik po uzyskaniu zezwolenia na pobyt w Polsce"
-description: "Przegląd tego, czym jest zezwolenie na pobyt w Polsce, kto go potrzebuje, procedura jego uzyskania oraz wymagane dokumenty."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Dowiedz się, jak uzyskać Kartę Pobytu w Polsce jako obcokrajowiec spoza
+  UE. Lista dokumentów, procedura składania wniosku oraz przydatne informacje.
 draft: false
+meta_title: 'Zezwolenie na pobyt w Polsce: Wymagane dokumenty i procedura'
+title: 'Zezwolenie na pobyt w Polsce: Wymagane dokumenty i procedura'
+translationKey: poland-residence_permit
 ---
+
 
 ## Opis
 

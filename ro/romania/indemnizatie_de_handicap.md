@@ -1,13 +1,16 @@
 ---
-translationKey: romania-disability_allowance
-title: "Indemnizație de Invaliditate"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Un ghid pas cu pas pentru solicitarea Indemnizației de Invaliditate"
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află cum poți obține indemnizația de handicap, cererea și documentele
+  necesare. Consultă furnizorii și acumulează dovezi pentru susținerea cererii tale.
 draft: false
+meta_title: 'Indemnizația de Handicap: Procedura și Documente Necesare'
+title: 'Indemnizația de Handicap: Procedura și Documente Necesare'
+translationKey: romania-disability_allowance
 ---
+
 
 ## Descriere
 ### Ce este?

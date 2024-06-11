@@ -1,13 +1,16 @@
 ---
-translationKey: spain-appointment_request_for_sepe
-title: "Solicitud de cita para SEPE (Servicio Público de Empleo Estatal) en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Guía para reservar cita en SEPE"
-description: "Guía detallada sobre cómo solicitar una cita con SEPE en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Aprende a pedir una cita con SEPE para asesoramiento sobre desempleo
+  en España. Descubre los pasos, documentos requeridos y consejos importantes.
 draft: false
+meta_title: Cómo solicitar cita en SEPE España y qué documentos necesitas
+title: Cómo solicitar cita en SEPE España y qué documentos necesitas
+translationKey: spain-appointment_request_for_sepe
 ---
+
 
 ## Descripción
 ### ¿Qué es?

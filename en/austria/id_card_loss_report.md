@@ -1,13 +1,16 @@
 ---
-title: "ID Card Loss Report"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detailed information regarding the procedure of reporting a lost or stolen ID Card in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Notify authorities & apply for a replacement ID card in Austria to prevent
+  identity theft. Learn the process, required documents, and waiting times.
 draft: false
-translationKey: "austria-id_card_loss_report"
+meta_title: 'Lost or Stolen ID Card Reporting in Austria: Procedure & Providers'
+title: 'Lost or Stolen ID Card Reporting in Austria: Procedure & Providers'
+translationKey: austria-id_card_loss_report
 ---
+
 
 ## Description
 ### What is it?

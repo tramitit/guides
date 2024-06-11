@@ -1,13 +1,16 @@
 ---
-title: "Change of driver's license for foreigners"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: "Transfer of driver's license for expats in Croatia"
-description: "A detailed guide on how you can change or transfer your foreign driver's license to a Croatian one."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Comprehensive guide for expats in Croatia to legally drive by transferring
+  their foreign driver's license to a Croatian one. No driving test involved.
 draft: false
-translationKey: "croatia-change_of_drivers_license_for_foreigners"
+meta_title: Convert Foreign Driver's License to Croatian in Croatia
+title: Convert Foreign Driver's License to Croatian in Croatia
+translationKey: croatia-change_of_drivers_license_for_foreigners
 ---
+
 
 ## Description
 ### What is it?

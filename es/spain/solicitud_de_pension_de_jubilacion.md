@@ -1,13 +1,16 @@
 ---
-translationKey: spain-retirement_pension_application
-title: "Solicitud de Pensión de Jubilación en España"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Spain"]
-meta_title: "Solicitud de Pensión de Jubilación"
-description: "Una guía paso a paso sobre cómo solicitar la pensión de jubilación en España"
+author: Ricardo Batista
+categories:
+- Spain
+date: '2024-06-07'
+description: Descubre los requisitos y pasos para obtener una pensión de jubilación
+  en España, incluyendo documentos necesarios y opciones de inversión complementarias.
 draft: false
+meta_title: 'Pensión de Jubilación en España: Requisitos y Procedimiento'
+title: 'Pensión de Jubilación en España: Requisitos y Procedimiento'
+translationKey: spain-retirement_pension_application
 ---
+
 
 ## Descripción
 ### ¿Qué es?

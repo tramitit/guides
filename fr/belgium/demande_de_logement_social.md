@@ -1,13 +1,16 @@
 ---
-translationKey: belgium-request_for_social_housing
-title: "Demande de logement social aux Pays-Bas"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Netherlands"]
-meta_title: ""
-description: "Ceci est un guide sur la façon de demander un logement social aux Pays-Bas."
+author: Ricardo Batista
+categories:
+- Netherlands
+date: '2024-06-07'
+description: Découvrez comment s'inscrire au logement social, périodes d'attente,
+  documents requis, fournisseurs, critères de revenu, et conseils pratiques aux Pays-Bas.
 draft: false
+meta_title: 'Logement Social aux Pays-Bas: Inscription et Procédures'
+title: 'Logement Social aux Pays-Bas: Inscription et Procédures'
+translationKey: belgium-request_for_social_housing
 ---
+
 
 ## Description
 ### Qu'est-ce que c'est?

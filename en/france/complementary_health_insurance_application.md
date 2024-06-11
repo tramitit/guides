@@ -1,13 +1,17 @@
 ---
-title: "Complementary Health Insurance Application"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["France"]
-meta_title: "Guide to Complementary Health Insurance in France"
-description: "Step by step guide to applying for a complementary health insurance in France"
+author: Ricardo Batista
+categories:
+- France
+date: '2024-06-07'
+description: Learn about 'mutuelle', voluntary insurance to cover healthcare costs
+  in France. Find out who needs it, how to choose, required documents, and provider
+  options.
 draft: false
-translationKey: "france-complementary_health_insurance_application"
+meta_title: Comprehensive Guide to Complementary Health Insurance in France
+title: Comprehensive Guide to Complementary Health Insurance in France
+translationKey: france-complementary_health_insurance_application
 ---
+
 
 ## Description
 ### What is it?

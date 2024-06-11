@@ -1,14 +1,16 @@
 ---
-translationKey: romania-obtaining_study_visa
-
-title: "Obținerea Vizei de Studiu"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Acest ghid detaliat vă învață procesul de obținere a unei vize de student, inclusiv criteriile de eligibilitate, procedura, documentele necesare și multe altele."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Află pașii necesari pentru a obține un visa de studiu, documentul vital
+  pentru a studia în străinătate. Ghid detaliat pentru aplicare și documente necesare.
 draft: false
+meta_title: 'Cum să obții un visa de studiu: ghid complet pentru români'
+title: 'Cum să obții un visa de studiu: ghid complet pentru români'
+translationKey: romania-obtaining_study_visa
 ---
+
 
 ## Descriere
 ### Ce este?

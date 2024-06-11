@@ -1,13 +1,16 @@
 ---
-title: "Dog Registration"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Austria"]
-meta_title: ""
-description: "Detailed instructions on how to register your dog in Austria."
+author: Ricardo Batista
+categories:
+- Austria
+date: '2024-06-07'
+description: Learn how to register your dog in Austria, the required documents, procedure,
+  costs, and essential regulations for pet owners.
 draft: false
-translationKey: "austria-dog_registration"
+meta_title: 'Dog Registration in Austria: Essential Steps and Guidelines'
+title: 'Dog Registration in Austria: Essential Steps and Guidelines'
+translationKey: austria-dog_registration
 ---
+
 
 ## Description
 ### What is it?

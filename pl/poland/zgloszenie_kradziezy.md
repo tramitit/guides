@@ -1,13 +1,16 @@
 ---
-translationKey: poland-theft_report
-title: "Raport o kradzieży"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Poland"]
-meta_title: "Raport o kradzieży w Polsce"
-description: "Szczegółowy przewodnik dotyczący zgłaszania kradzieży w Polsce."
+author: Ricardo Batista
+categories:
+- Poland
+date: '2024-06-07'
+description: Kiedy i jak złożyć raport o kradzieży w Polsce, wymagane dokumenty i
+  podmioty, które pomogą. Informacje dla ofiar i świadków kradzieży.
 draft: false
+meta_title: 'Raport o kradzieży w Polsce: Procedura i Wymagane dokumenty'
+title: 'Raport o kradzieży w Polsce: Procedura i Wymagane dokumenty'
+translationKey: poland-theft_report
 ---
+
 
 ## Opis
 ### Co to jest?

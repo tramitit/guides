@@ -1,13 +1,16 @@
 ---
-translationKey: romania-auto_taxes_and_fees
-title: "Taxe și comisioane auto"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Romania"]
-meta_title: ""
-description: "Acest ghid oferă detalii despre taxele și comisioanele auto din România, inclusiv un procedeu pas cu pas pentru calcularea și procesarea lor."
+author: Ricardo Batista
+categories:
+- Romania
+date: '2024-06-07'
+description: Aflați cum să calculați și să plătiți corect taxele auto în România.
+  Informații esențiale pentru proprietarii de mașini, importatori și dealeri auto.
 draft: false
+meta_title: 'Taxe Auto în România: Ghid complet pentru proprietarii de mașini'
+title: 'Taxe Auto în România: Ghid complet pentru proprietarii de mașini'
+translationKey: romania-auto_taxes_and_fees
 ---
+
 
 ## Descriere
 ### Ce este?

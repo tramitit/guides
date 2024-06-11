@@ -1,13 +1,16 @@
 ---
-translationKey: hungary-sole_proprietorship_registration
-title: "Egyéni Vállalkozói Regisztráció"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Hungary"]
-meta_title: ""
-description: "Egy átfogó útmutató arról, hogyan lehet egyéni vállalkozót regisztrálni Magyarországon"
+author: Ricardo Batista
+categories:
+- Hungary
+date: '2024-06-07'
+description: Fontos lépések és dokumentumok az egyéni vállalkozás létrehozásához Magyarországon,
+  javasolt szolgáltatók, felelősségvállalás és előnyök.
 draft: false
+meta_title: 'Egyéni Vállalkozás Indítása Magyarországon: Útmutató és Tanácsok'
+title: 'Egyéni Vállalkozás Indítása Magyarországon: Útmutató és Tanácsok'
+translationKey: hungary-sole_proprietorship_registration
 ---
+
 
 ## Leírás
 ### Mi ez?

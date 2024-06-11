@@ -1,13 +1,16 @@
 ---
-translationKey: germany-paternity_acknowledgment
-title: "Vaterschaftsanerkennung"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Vaterschaftsanerkennung - Schritt-für-Schritt-Anleitung und erforderliche Dokumente"
-description: "Dieser Leitfaden bietet detaillierte Informationen zum Verfahren der Vaterschaftsanerkennung in Deutschland"
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: 'Erfahren Sie alles über den Prozess in Deutschland: von erforderlichen
+  Dokumenten bis zu Anbietern. Finanzielle und sorgerechtliche Implikationen inklusive.'
 draft: false
+meta_title: 'Vaterschaftsanerkennung in Deutschland: Leitfaden & Erfordernisse'
+title: 'Vaterschaftsanerkennung in Deutschland: Leitfaden & Erfordernisse'
+translationKey: germany-paternity_acknowledgment
 ---
+
 
 ## Beschreibung
 ### Was ist das?
