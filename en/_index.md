@@ -1,7 +1,6 @@
 ---
-description: Learn the basics of Markdown syntax and formatting to create well-structured
-  documents with headings, lists, links, and more.
-meta_title: Beginner's Guide to Markdown Syntax and Formatting
-title: Beginner's Guide to Markdown Syntax and Formatting
+translationKey: 'guides'
+title: "All the bureaucracy in one place"
+meta_title: "All the bureaucracy in one place"
+description: "Guides on submitting paperwork to any entity in the world"
 ---
-
