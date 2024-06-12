@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Scopri come ottenere il Certificato di Godimento dei Diritti Politici
-  e Civili, richiesto per cittadinanza e impieghi in Italia. Procedura e documenti
-  necessari.
+description: Scopri come ottenere il Certificato di godimento dei diritti politici
+  e civili necessario per cittadinanza italiana, lavoro e licenze.
 draft: false
-meta_title: 'Certificato di Godimento Diritti Politici e Civili: Guida Completa'
-title: 'Certificato di Godimento Diritti Politici e Civili: Guida Completa'
+meta_title: 'Certificato di godimento dei diritti politici e civili: Guida'
+title: 'Certificato di godimento dei diritti politici e civili: Guida'
 translationKey: italy-certificate_of_civil_rights_enjoyment_request
 ---
+
 
 
 ## Description

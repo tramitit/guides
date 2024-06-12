@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-07'
-description: Saznajte postupak registracije braka u Hrvatskoj, potrebne dokumente
-  i važne informacije za legalan brak.
+description: Learn how to legally register your marriage in Croatia, including steps,
+  required documents, timelines, and costs involved in the process.
 draft: false
-meta_title: 'Kako registrirati brak u Hrvatskoj: koraci i dokumenti'
-title: 'Kako registrirati brak u Hrvatskoj: koraci i dokumenti'
+meta_title: 'Marriage Registration in Croatia: Requirements and Procedure'
+title: 'Marriage Registration in Croatia: Requirements and Procedure'
 translationKey: croatia-marriage_registration
 ---
+
 
 
 ## Description

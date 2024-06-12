@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Erfahren Sie, wie Sie BAföG beantragen können, wer berechtigt ist und
-  welche Dokumente benötigt werden. Optimal für internationale und deutsche Studenten.
+description: Learn about BAföG, the German student financial aid. Find out who can
+  apply, the steps involved, and necessary documents for submission.
 draft: false
-meta_title: 'Alles über BAföG: Finanzielle Unterstützung für Studenten in Deutschland'
-title: 'Alles über BAföG: Finanzielle Unterstützung für Studenten in Deutschland'
+meta_title: 'BAföG: Financial Aid for Students in Germany - Eligibility Explained'
+title: 'BAföG: Financial Aid for Students in Germany - Eligibility Explained'
 translationKey: germany-applying_for_student_financial_aid
 ---
+
 
 
 ## Description

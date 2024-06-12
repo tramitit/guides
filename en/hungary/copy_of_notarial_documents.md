@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn the procedure, required documents, and providers for obtaining
-  certified copies of notarial documents for legal proceedings, real estate, and more
-  in Hungary.
+description: Learn how to get a certified notarial document for legal use. Understand
+  the process, required documents, and providers offering these services in Hungary.
 draft: false
-meta_title: Obtain Certified Copies of Notarial Documents in Hungary
-title: Obtain Certified Copies of Notarial Documents in Hungary
+meta_title: 'Certified Notarial Document: Purpose, Process, and Providers'
+title: 'Certified Notarial Document: Purpose, Process, and Providers'
 translationKey: hungary-copy_of_notarial_documents
 ---
+
 
 
 ## Description

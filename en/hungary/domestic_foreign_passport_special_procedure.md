@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to obtain Slovakian citizenship by descent and Hungarian Emergency
-  Travel Documents. Required documents, procedures, and provider information included.
+description: Learn how to obtain Slovakian citizenship by descent and get a Hungarian
+  Emergency Travel Document with this comprehensive guide.
 draft: false
-meta_title: Guide to Slovakian Citizenship and Hungarian Travel Documents
-title: Guide to Slovakian Citizenship and Hungarian Travel Documents
+meta_title: Guide to Slovakian Citizenship and Hungarian Emergency Travel Document
+title: Guide to Slovakian Citizenship and Hungarian Emergency Travel Document
 translationKey: hungary-domestic_foreign_passport_special_procedure
 ---
+
 
 
 ## Description

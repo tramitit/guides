@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn about family reunification, eligibility, applying process, and
-  necessary documents to join your family members abroad. Essential guide for smoother
-  immigration.
+description: Learn about family reunification eligibility, application process, necessary
+  documents, and legal providers to reunite with your family abroad.
 draft: false
-meta_title: 'Family Reunification: Immigration Guide and Required Documents'
-title: 'Family Reunification: Immigration Guide and Required Documents'
+meta_title: 'Family Reunification: Eligibility, Procedures, and Documents'
+title: 'Family Reunification: Eligibility, Procedures, and Documents'
 translationKey: belgium-request_for_family_reunification
 ---
+
 
 
 ## Description

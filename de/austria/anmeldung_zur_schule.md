@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Erfahren Sie alles über den Einschreibungsprozess an österreichischen
-  Schulen, notwendige Dokumente und Details für internationale Studierende.
+description: Schritt-für-Schritt-Anleitung zur Einschreibung an österreichischen Unis.
+  Bewerbung, Annahme, Aufenthaltserlaubnis und erforderliche Dokumente.
 draft: false
-meta_title: Leitfaden zur Schuleinschreibung für internationale Studierende in Österreich
-title: Leitfaden zur Schuleinschreibung für internationale Studierende in Österreich
+meta_title: Leitfaden zur Schuleinschreibung für internationale Studierende
+title: Leitfaden zur Schuleinschreibung für internationale Studierende
 translationKey: austria-school_registration
 ---
+
 
 
 ## Beschreibung

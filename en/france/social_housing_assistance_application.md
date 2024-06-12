@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - France
 date: '2022-11-02'
-description: Learn about social housing assistance in France, eligibility criteria,
-  application process, required documents, and providers offering support.
+description: Learn how to apply for social housing in France, eligibility criteria,
+  required documents, and follow-up procedures to secure affordable accommodation.
 draft: false
-meta_title: 'Guide to Social Housing Assistance in France: Eligibility and Application'
-title: 'Guide to Social Housing Assistance in France: Eligibility and Application'
+meta_title: Comprehensive Guide to Social Housing Assistance in France
+title: Comprehensive Guide to Social Housing Assistance in France
 translationKey: france-social_housing_assistance_application
 ---
+
 
 
 ## Description

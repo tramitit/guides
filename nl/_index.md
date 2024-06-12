@@ -1,6 +1,6 @@
 ---
 translationKey: 'guides'
-title: "Alle bureaucratie op één plek"
-meta_title: "Alle bureaucratie op één plek"
-description: "Gidsen voor het indienen van documenten bij elke instantie ter wereld"
+title: "Alle bureaucratie die je nodig hebt op één plek voor gemakkelijke toegang en efficiëntie"
+meta_title: "Alle bureaucratie die je nodig hebt op één plek voor gemakkelijke toegang en efficiëntie"
+description: "Uitgebreide gidsen voor het indienen van papieren bij elke instantie ter wereld, zodat je internationale procedures gemakkelijk en nauwkeurig kunt doorlopen."
 ---

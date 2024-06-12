@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Guide complet pour comprendre et demander une pension alimentaire après
-  une séparation en France. Découvrez la procédure, les documents requis et les prestataires.
+description: Découvrez comment demander une pension alimentaire en France après une
+  séparation ou un divorce, les documents requis et l'importance d'un avocat spécialisé.
 draft: false
-meta_title: Comprendre et Demander une Pension Alimentaire en France
-title: Comprendre et Demander une Pension Alimentaire en France
+meta_title: 'Comprendre la Pension Alimentaire en France: Procédures et Documents'
+title: 'Comprendre la Pension Alimentaire en France: Procédures et Documents'
 translationKey: france-alimony_application
 ---
+
 
 
 ## Description

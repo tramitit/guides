@@ -1,6 +1,6 @@
 ---
 translationKey: 'guides'
-title: "Cała biurokracja w jednym miejscu"
-meta_title: "Cała biurokracja w jednym miejscu"
-description: "Przewodniki dotyczące składania dokumentów do każdej instytucji na świecie"
+title: "Wszystkie potrzebne formalności w jednym miejscu dla łatwego dostępu i wydajności"
+meta_title: "Wszystkie potrzebne formalności w jednym miejscu dla łatwego dostępu i wydajności"
+description: "Kompleksowe przewodniki dotyczące składania dokumentów do dowolnego podmiotu na świecie, zapewniające łatwą i dokładną nawigację w procedurach międzynarodowych."
 ---

@@ -1,13 +1,16 @@
 ---
-translationKey: italy-registration_with_the_national_health_service_(ssn)
-title: "Registrazione con il Servizio Sanitario Nazionale (SSN)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "Questa guida dettaglia il processo di registrazione presso il Servizio Sanitario Nazionale italiano (SSN)"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Scopri come registrarti al SSN in Italia, i documenti necessari e chi
+  ne ha diritto. Tutto quello che devi sapere sulla copertura sanitaria annuale.
 draft: false
+meta_title: Guida Completa al Servizio Sanitario Nazionale in Italia
+title: Guida Completa al Servizio Sanitario Nazionale in Italia
+translationKey: italy-registration_with_the_national_health_service_(ssn)
 ---
+
 
 ## Descrizione
 ### Cos'è?

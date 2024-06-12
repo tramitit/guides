@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Découvrez le processus d'inscription électorale en France, les documents
-  requis et les délais pour participer aux élections. Inscrivez-vous en ligne ou en
-  mairie.
+description: 'Tout savoir sur l''inscription électorale: conditions, procédure, documents
+  requis et prestataires. Assurez votre participation aux élections en France.'
 draft: false
-meta_title: Comment S'inscrire sur les Listes Électorales en France
-title: Comment S'inscrire sur les Listes Électorales en France
+meta_title: Comment s'inscrire sur les listes électorales en France
+title: Comment s'inscrire sur les listes électorales en France
 translationKey: france-voter_registration
 ---
+
 
 
 ## Description

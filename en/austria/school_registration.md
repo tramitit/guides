@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Descubre el proceso y requisitos para la inscripción escolar en Austria.
-  Guía completa incluyendo documentos necesarios y pasos a seguir para estudiantes
-  internacionales.
+description: Comprehensive guide on enrolling in Austrian schools, including application
+  steps, required documents, residence permits, and more for international students.
 draft: false
-meta_title: Guía de Inscripción Escolar para Estudiantes Internacionales en Austria
-title: Guía de Inscripción Escolar para Estudiantes Internacionales en Austria
+meta_title: Guide to School Registration for International Students in Austria
+title: Guide to School Registration for International Students in Austria
 translationKey: austria-school_registration
 ---
+
 
 
 ## Description

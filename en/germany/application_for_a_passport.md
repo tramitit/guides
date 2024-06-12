@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Erfahren Sie, wie deutsche Bürger einen Reisepass beantragen, welche
-  Unterlagen benötigt werden und welche Schritte im gesamten Prozess erforderlich
-  sind.
+description: Learn how to apply for a German passport, required documents, fees, and
+  steps to follow through your nearest German Embassy or Consulate.
 draft: false
-meta_title: 'Antragsverfahren für einen deutschen Reisepass: Ein umfassender Leitfaden'
-title: 'Antragsverfahren für einen deutschen Reisepass: Ein umfassender Leitfaden'
+meta_title: 'German Passport Application: Steps, Documents, and Providers'
+title: 'German Passport Application: Steps, Documents, and Providers'
 translationKey: germany-application_for_a_passport
 ---
+
 
 
 ## Description

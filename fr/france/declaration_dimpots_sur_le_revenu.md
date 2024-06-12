@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Découvrez comment déclarer vos revenus en France, incluant les revenus
-  étrangers et de stocks. Suivez les étapes pour remplir correctement votre déclaration
-  fiscale.
+description: Apprenez à déclarer vos revenus en France, y compris revenus étrangers
+  et gains de stocks. Suivez notre guide étape par étape pour être conforme.
 draft: false
-meta_title: 'Guide de la Déclaration de Revenus en France: Étapes et Exigences'
-title: 'Guide de la Déclaration de Revenus en France: Étapes et Exigences'
+meta_title: 'Déclaration de revenus en France: Guide complet de A à Z'
+title: 'Déclaration de revenus en France: Guide complet de A à Z'
 translationKey: france-income_tax_declaration
 ---
+
 
 
 ## Description

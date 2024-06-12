@@ -1,13 +1,16 @@
 ---
-translationKey: portugal-registration_of_marriage_of_foreign_citizen_in_portugal
-title: "Registo de Casamento de Cidadão Estrangeiro em Portugal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "Um guia abrangente sobre como proceder ao Registo de Casamento em Portugal envolvendo um Cidadão Estrangeiro."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: 'Guia completo para estrangeiros se casarem com cidadãos portugueses:
+  documentos, procedimentos e dicas legais essenciais.'
 draft: false
+meta_title: Processo de Registro de Casamento em Portugal para Estrangeiros
+title: Processo de Registro de Casamento em Portugal para Estrangeiros
+translationKey: portugal-registration_of_marriage_of_foreign_citizen_in_portugal
 ---
+
 
 ## Descrição
 ### O que é?

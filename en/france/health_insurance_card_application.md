@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to get a Carte Vitale, EHIC or EU Health Insurance card. Understand
-  procedures, required documents, and provider information for France, Ireland, and
-  Poland.
+description: Learn how to obtain health insurance cards in France, Ireland, Poland.
+  Steps, required documents, providers, timelines, and more essential details.
 draft: false
-meta_title: Guide to Obtaining Health Insurance Cards in France, Ireland, Poland
-title: Guide to Obtaining Health Insurance Cards in France, Ireland, Poland
+meta_title: Guide to Health Insurance Cards in France, Ireland, Poland
+title: Guide to Health Insurance Cards in France, Ireland, Poland
 translationKey: france-health_insurance_card_application
 ---
+
 
 
 ## Description
