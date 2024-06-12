@@ -1,24 +1,11 @@
 ---
-description: Learn how to obtain your penal certificate in Italy for visa, employment,
-  or citizenship purposes. Follow steps outlined & gather required documents accurately.
-meta_title: 'Requesting Criminal Records In Italy: Procedure & Documents'
 title: 'Requesting Criminal Records In Italy: Procedure & Documents'
----
-Based on the sources provided there is no explicit step by step guide on how to request for Pending Charges. 
-
-However, given the nature of the discussion within these posts, it seems to revolve around requesting criminal records (which might involve pending charges) in Italy and handling these records when seeking employment or in other aspects of life. 
-
-This being said, it's important to note here that while Reddit replies can provide valuable insights, actual procedures for requesting such records or handling them may vary, and professional legal advice should be sought in such matters. 
-
-For the purpose of generating a guide based on the given sources, it might look as follows:
-
----
-title: "Requesting Criminal Records In Italy"
 author: "Ricardo Batista"
 date: "2024-06-07"
 categories: ["Italy"]
-meta_title: ""
-description: "This is meta description"
+description: Learn how to obtain your penal certificate in Italy for visa, employment,
+  or citizenship purposes. Follow steps outlined & gather required documents accurately.
+meta_title: 'Requesting Criminal Records In Italy: Procedure & Documents'
 draft: false
 translationKey: "italy-pending_charges_request"
 ---
