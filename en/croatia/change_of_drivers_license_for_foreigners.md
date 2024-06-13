@@ -3,7 +3,7 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Comprehensive guide for expats in Croatia to legally drive by transferring
+description: Comprehensive guide for expats in Croatia to legally drive by transferringdfsdfsfsdfsdf
   their foreign driver's license to a Croatian one. No driving test involved.
 draft: false
 meta_title: Convert Foreign Driver's License to Croatian in Croatia
