@@ -10,6 +10,7 @@ meta_title: 'Spanish Tarjeta Sanitaria: Benefits, Procedure, and Providers'
 tags:
 - Social Security
 title: 'Spanish Tarjeta Sanitaria: Benefits, Procedure, and Providers'
+translationKey: 'spain-tarjeta-sanitaria'
 ---
 
 
