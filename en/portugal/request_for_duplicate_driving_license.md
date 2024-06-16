@@ -21,9 +21,9 @@ Any licensed driver who has lost, had stolen, or damaged their original driving 
 ## Procedure
 1. Report the loss, theft, or damage of your driving license to the police.
  
-2. Visit the nearest 'Instituto da Mobilidade e dos Transportes' (IMT) office. You can find the locations [here](http://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/home.aspx).
+2. Visit the nearest 'Instituto da Mobilidade e dos Transportes' (IMT) office. You can find the locations [here](https://www.imt-ip.pt/sites/IMTT/Portugues/Contactos/PesquisaServico/Paginas/PesquisaServico.aspx).
 
-3. Fill in the 'Mod.13 IMT' form at the IMT office. The form is also available [online](https://servicos.min-economia.pt/ServiceDetail.aspx?servico=100).
+3. Fill in the 'Mod.13 IMT' form at the IMT office. The form is also available [online](https://www.imt-ip.pt/sites/IMTT/Portugues/Formularios/Documents/Mod13IMT.pdf).
 
 4. Submit the completed form along with the required documents at the IMT office.
 

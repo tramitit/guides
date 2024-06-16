@@ -21,7 +21,7 @@ This process is necessary for all individuals who have earned an income within t
 
 ## Procedure
 1. Gather all necessary documents such as payslips and other pertinent financial documentation for the fiscal year. 
-2. Complete the necessary form with your tax details. In Portugal, it'll be the IRS form available on the **Portal das Finanças**. 
+2. Complete the necessary form with your tax details. In Portugal, it'll be the IRS form available on the [**Portal das Finanças**](https://www.portaldasfinancas.gov.pt/). 
 3. Submit the completed form either digitally through the tax portal or manually at your local tax office. 
 4. Await notification from the tax authorities about the status of your declaration. 
 
@@ -37,6 +37,5 @@ This process is necessary for all individuals who have earned an income within t
 | Autoridade Tributária (Tax Authority) |  [Link](https://www.portaldasfinancas.gov.pt/)       |      Varies, be sure to check tax declaration deadlines | Varies, depending on your income bracket |
 
 ## Additional details
-- Revolut keeps asking to update Tax ID for those who have their accounts there, so make sure your info is always updated ([source](https://www.reddit.com/r/Revolut/comments/1bgxhzc/revolut_keeps_asking_to_update_tax_id_for_a/)).
-- In Portugal, there's support for young people getting started, so don't be afraid to ask questions if you're unsure ([source](https://www.reddit.com/r/literaciafinanceira/comments/12ae727/esclarecimento_de_d%C3%BAvidas_acerca_do_irs_jovem/))
-- If your income is low, you may be exempt from filing a tax return. In this case, you will receive a statement of dispensation ([source](https://www.reddit.com/r/literaciafinanceira/comments/14m51o9/certid%C3%A3o_de_dispensa_de_entrega_de_irs/)).
+- In Portugal, there's support for young people getting started, so don't be afraid to ask questions if you're unsure.
+- If your income is low, you may be exempt from filing a tax return. In this case, you will receive a statement of dispensation.

@@ -19,7 +19,7 @@ It is a procedure to update your residential address in the Residence Permit rec
 People who have a Portugal Residence Permit and have changed their residential address within Portugal.
 
 ## Procedure
-1. Head over to the Citizen's Portal of Portugal and login to the website. [Citizen's Portal](https://www.portaldocidadao.pt/)
+1. Head over to the Citizen's Portal of Portugal and login to [Citizen's Portal](https://eportugal.gov.pt/en/inicio).
 2. In the Personal Area (Área Pessoal), select the option for Address (Morada).
 3. Update your residential address with the new one and validate the Postal Code.
 4. After the validation, submit the Address Change request online.

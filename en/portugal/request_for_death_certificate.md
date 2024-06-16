@@ -22,11 +22,10 @@ Family members and relevant parties who need to process legal affairs (inheritan
 
 ## Procedure
 
-1. Visit the 'Civil Online' of the "Instituto dos Registos e do Notariado" website. [link to IRN](https://www.irn.justica.gov.pt/)
-2. Choose 'Death Certificates' from the menu option.
-3. Provide all necessary details such as full name as it appears on the death register, date of death and place of death.
-4. Submit the form and complete the payment process.
-5. Your request will be processed, and you'll receive the death certificate by mail.
+1. Visit the 'Death Certificates' section of the ["Instituto dos Registos e do Notariado" website](https://irn.justica.gov.pt/Declaracao-de-obito-online).
+2. Provide all necessary details such as full name as it appears on the death register, date of death and place of death.
+3. Submit the form and complete the payment process.
+4. Your request will be processed, and you'll receive the death certificate by mail.
 
 ## Required Documents
 

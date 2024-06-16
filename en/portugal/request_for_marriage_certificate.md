@@ -21,7 +21,7 @@ Marriage certificates can be requested by the couple themselves, their direct de
 
 ## Procedure
 1. Visit the Civil Registry Online's official website.
-  1. For marriages that took place in Portugal, use this link: [Iniciar casamento no site do Registro Civil Online](https://www.registro-civil.pt/)
+  1. For marriages that took place in Portugal, use this link: [Iniciar casamento no site do Registro Civil Online](https://www.civilonline.mj.pt/CivilOnline/Casamento/legislacao.jsp)
   2. For international marriages, please contact your country's embassy or consulate for information about obtaining a marriage certificate from overseas.
 
 2. At the website, select the option for "Certidão de Casamento" (Marriage Certificate).

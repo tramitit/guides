@@ -42,5 +42,3 @@ Please note that exact requirements can vary so it's advisable to check with the
 ## Additional details
 - You must always state your NIF when requested in financial transactions.
 - Various organizations such as courier services, online stores, etc., might ask for your NIF. This can help them issue you an invoice or to comply with their tax obligations.
-- When your bank requests an update for your Tax ID, it may be due to changes in tax laws, especially due to the introduction of Common Reporting Standard (CRS) and Foreign Account Tax Compliance Act (FATCA). 
-Please note that it is critical to use your NIF only for legitimate purposes and sharing your NIF irresponsibly might lead to misuse.

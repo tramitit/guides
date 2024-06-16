@@ -25,7 +25,7 @@ It is primarily required by Polish citizens who are planning to travel abroad.
 2. Complete the Passport Application: The next step is to complete the appropriate passport application form which can be obtained from the website of the Ministry of Foreign Affairs of the Republic of Poland.
 3. Gather required documents: You will need to provide certain documents as evidence of your eligibility (See required documents section).
 4. Submit your application: Once all the documents are gathered, submit your completed application form in person to the nearest Polish consulate or embassy.
-5. Pay the applicable fees: You will be required to pay a fee when you submit the application.
+5. Pay the applicable fees: You will be required to pay a 15€ fee when you submit the application.
 6. Wait for processing: The average processing time is several weeks but it can vary.
 7. Collect your passport: You will be notified when your passport is ready for collection.
 

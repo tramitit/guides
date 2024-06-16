@@ -21,8 +21,8 @@ The Citizen Card is an identification document for Portuguese citizens. It conta
 Any Portuguese citizen with an expiring or expired citizen card must go through the renewal process. 
 
 ## Procedure
-1. The application for the renewal can be submitted online, through the Citizen's Portal (https://portal.autenticacao.gov.pt/). 
-2. If you prefer to make the request in person, you need to make an appointment. You can do this via the website (https://agendamento.sef.pt/), or by phone call.
+1. The application for the renewal can be submitted online, through the [Citizen's Portal](https://eportugal.gov.pt/en-GB/inicio). 
+2. If you prefer to make the request in person, you need to make an appointment. You can do this via the [website](https://www.sef.pt/pt/Pages/pre-marcacao-online.aspx), or by phone call.
 3. Expedited service is available for an additional fee, for those who need their card urgently.
 4. After the application is submitted and processed, the card can be picked up at an agreed-upon date.
 

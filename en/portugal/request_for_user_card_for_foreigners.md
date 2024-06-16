@@ -21,7 +21,7 @@ Any non-EU citizen planning to stay in Portugal for more than six months needs t
 
 ## Procedure
 
-1. Visit the Immigration and Borders Service (SEF) website. You’ll find the necessary forms and further information there. [SEF website](https://www.sef.pt)
+1. Visit the [Immigration and Borders Service (SEF) website](https://www.sef.pt). You’ll find the necessary forms and further information there. 
 2. Gather the required documents mentioned below. These will need to be presented during the application process.
 3. Schedule an appointment with the SEF to submit your application. This can be done online at the SEF website.
 4. Attend the appointment at the designated SEF office. Ensure to bring all the required documents.

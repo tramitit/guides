@@ -42,6 +42,5 @@ The documents needed would depend on the nature of the request. However, some co
 | Legal Authority  |   N/A          |       Varies    |       Varies   |
 
 ## Additional details
-- For tax related documents such as a brokerage account, you might need to fill out certain forms (like "Form 836") with your broker, who should then forward it to the tax authorities.
 - For documents like Birth Certificates to be used abroad, you might be requested to have an Apostille, which authenticates the document for use internationally.
 - For immigration to countries like Canada, you might be asked to present police certificates. These would require you to apply in the country/region where you lived for 6 or more months.

@@ -23,9 +23,9 @@ This service can be needed by any resident in Portugal who has lost or misplaced
 
 1. Identify the document that you need to replace and gather all the required information related to it.
 2. Visit the relevant authority's website or office, depending on the document.
-     - For passports and ID cards, you can request a duplicate through the website of the [Portuguese Institute of Registries and Notaries](https://www.irn.justica.gov.pt/IRN/sections/irn/).
+     - For passports and ID cards, you can request a duplicate through the website of the [Portuguese Institute of Registries and Notaries](https://irn.justica.gov.pt/online).
      - For the driving license, the [Instituto da Mobilidade e dos Transportes (IMT)](https://www.imtonline.pt/) is responsible for issuing duplicates.
-     - For the citizen card, you can apply online on the [Citizen's Portal](https://www.portaldocidadao.pt/) or in person at a Citizen's store or IRN Registry office.
+     - For the citizen card, you can apply online on the [Citizen's Portal](https://eportugal.gov.pt/en/inicio) or in person at a Citizen's store or IRN Registry office.
 3. Fill out the correct duplicate document request form with accurate details.
 4. Pay the fee for the duplicate document. The cost varies depending on the document and can often be done online or in-person through various methods.
 5. Wait for the duplicate document to arrive. The time frame varies depending on the document and the method chosen to deliver.
@@ -46,6 +46,6 @@ The documents required may vary depending on the type of document you want to du
 | Instituto da Mobilidade e dos Transportes      |  [Website](https://www.imtonline.pt/)       |      Varies      |        Varies       |
 
 ## Additional details
-You may encounter a police report requirement for the duplication of certain documents, especially if they have been stolen or lost. Police reports can usually be obtained at the nearest police station or online at the [Portuguese Public Security Police](https://www.psp.pt/) website.
+You may encounter a police report requirement for the duplication of certain documents, especially if they have been stolen or lost. Police reports can usually be obtained at the nearest police station or online at the [Portuguese Public Security Police](https://www.psp.pt/Pages/homePage.aspx) website.
 
 Please note that, different documents may require their specific application forms which can be found in the respective issuing authority's website. They also have certain processing times that you should be aware of. For information regarding costs, it would be best to check the relevant authority's website as well.

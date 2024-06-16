@@ -20,7 +20,7 @@ It refers to exemption from IMI (Imposto Municipal sobre Imóveis), a municipal 
 Property owners in Portugal who reside in their own property as their permanent home.
 
 ## Procedure
-1. Visit the Portuguese Tax Authority website (Autoridade Tributária e Aduaneira), you need to be registered on the site and have access to your finances: [https://www.portaldasfinancas.gov.pt/](https://www.portaldasfinancas.gov.pt/)
+1. Visit the [Portuguese Tax Authority website (Autoridade Tributária e Aduaneira)](https://www.portaldasfinancas.gov.pt/), you need to be registered on the site and have access to your finances.
 2. Access the "Serviços" tab.
 3. Go to "Todos os serviços."
 4. Click on "Entregar" and then "Pedido."

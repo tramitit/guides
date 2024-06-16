@@ -21,7 +21,7 @@ Any citizen of Portugal who wishes to travel outside of Portugal and doesn't hav
 ## Procedure
 1. Check if you are eligible: You need to be a Portuguese citizen to apply.
 2. Get your documents in order: You need a valid identification document (ID or Citizen Card) and proof of payment of the respective fee.
-3. Make an appointment: This can be done online through the [Portuguese Immigration and Borders Service (SEF) website](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=13). 
+3. Make an appointment: This can be done online through the [Portuguese Immigration and Borders Service (SEF) website](https://www.sef.pt/pt/Pages/pre-marcacao-online.aspx). 
 4. Attend the appointment: Bring all the necessary documents and go to the location you have your appointment at.
 5. Pay the fee: The cost depends on the urgency of the delivery and the age of the applicant.
 6. Wait for your passport to arrive: This typically takes 5 business days for normal requests, 2 days for urgent requests, and 1 day for super urgent requests.

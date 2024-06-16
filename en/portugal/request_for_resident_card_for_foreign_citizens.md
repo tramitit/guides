@@ -20,7 +20,7 @@ An application for a resident card for foreign citizens in Portugal. This is typ
 Mainly required by non-EU citizens, including students, workers, self-employed individuals, interns, volunteers, or family members, who are planning to live in Portugal for a long term.
 
 ## Procedure
-1. First, initiate the application at the Portuguese Immigration and Borders Service (SEF). This is done by booking an appointment online at [SEF](https://www.sef.pt/en).
+1. First, initiate the application at the Portuguese Immigration and Borders Service (SEF). This is done by booking an appointment online at [SEF](https://www.sef.pt/).
 
 2. Attend your appointment in person to submit your application. Non-EU citizens are required to provide their passport, two recent passport-sized photos, valid travel insurance, evidence of sufficient means of subsistence, and accommodation proof.
 

@@ -8,7 +8,7 @@ description: Saiba o que são certificados de dívida, quem precisa deles e o pr
 draft: false
 meta_title: 'Certificados de Dívida: Entenda Como Conseguir e Utilizar'
 title: 'Certificados de Dívida: Entenda Como Conseguir e Utilizar'
-translationKey: portugal-request_for_debt_and_no-debt_certificate
+translationKey: portugal-request_for_debt_and_no_debt_certificate
 ---
 
 
