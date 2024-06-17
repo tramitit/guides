@@ -35,9 +35,10 @@ Jede Person, die in ein neues Land gezogen ist und ihre Adresse für Dinge wie d
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter           |     Website                      |     Bearbeitungszeiten    |  Kosten      |
-| ------------------ | ------------------------ |  :-------------: | :-----: |
-| Österreichisches Migrationsamt |  https://www.migration.gv.at/  |      30-90 Tage  |   Variiert  |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Es ist wichtig zu beachten, dass das Verfahren zur Vorlage des Wohnsitznachweises zwischen Ländern und sogar Bundesstaaten variieren kann, daher ist es entscheidend, die für Ihren spezifischen Standort geltenden Regeln zu recherchieren. Auch die Bearbeitungsdauer kann stark variieren, daher stellen Sie sicher, dass Sie Ihre Dokumente rechtzeitig anfordern.

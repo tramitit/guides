@@ -35,10 +35,10 @@ Hinweis: Nicht-europäische Führerscheine müssen in einen österreichischen (e
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter                |           Website         |       Zeitrahmen      |        Kosten        |
-| ---------------------- | -------------------- | :-------------:   | :-------------: |
-| örtliche Kfz-Zulassungsstelle |  (variiert je nach Region) |  Abhängig von der Region |  Variiert            |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Weitere Details
 - Es ist wichtig sicherzustellen, dass Ihr Führerschein immer in gutem Zustand ist und dass alle Daten aktualisiert sind, wenn nötig.
 - Bitte beachten Sie, dass die Anforderungen und der Prozess je nach Region variieren können. Bestätigen Sie immer mit Ihrer örtlichen Kfz-Zulassungsbehörde.

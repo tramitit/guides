@@ -34,11 +34,10 @@ Personen, die kürzlich arbeitslos geworden sind und derzeit nach Arbeit suchen.
 - Kündigungsschreiben des Arbeitgebers
 
 ## Anbieter, die es für Sie erledigen können
-Keine Anbieter verfügbar. Der Antragsprozess für das Arbeitslosengeld wird vom Arbeitsmarktservice Österreich (AMS) durchgeführt.
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite                        |     Zeitrahmen    |       Kosten       |
-| --------------- | ---------------------------------- |  :-------------:   | :--------------:   |
-| AMS             |  [www.ams.at](http://www.ams.at/)  |   Variiert         |     Kostenlos      |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 

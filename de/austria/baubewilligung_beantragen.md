@@ -41,9 +41,10 @@ Die erforderlichen Dokumente können je nach Art der Bau- oder Renovierungsarbei
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Website     |     Bearbeitungszeit    |       Kosten      
-| --------------- | --------------- |  :-------------: | :-------------: |
-| ABC Immobilienberatung |  https://www.abcrealestate.at       |      14-30 Tage      |        €200-€500       
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Wenn Sie planen, ein Waldgrundstück in Österreich zu kaufen, um Bäume zu fällen und ein Haus zu bauen, benötigen Sie eine zusätzliche Genehmigung von der Forstbehörde.

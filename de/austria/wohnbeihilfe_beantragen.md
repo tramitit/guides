@@ -32,10 +32,10 @@ Sie müssen möglicherweise folgende Dokumente vorlegen, um Ihre Berechtigung un
 
 ## Anbieter, die dies für Sie tun können
 
-| Anbieter        |     Website     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Magistratischer Bezirk 50 (Österreich) | [www.wien.gv.at](https://www.wien.gv.at/) |  Je nach Fall |   Keine Gebühr  |
-| Steuer- und Zollverwaltung der Niederlande | [www.belastingdienst.nl](https://www.belastingdienst.nl/) | Je nach Fall | Keine Gebühr |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Wohnbeihilfe wird jährlich überprüft. Sie müssen sich jedes Jahr erneut bewerben, um die Leistungen weiterhin zu erhalten.

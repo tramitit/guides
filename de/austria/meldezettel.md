@@ -36,10 +36,10 @@ Jeder, der sich länger als drei Tage in Österreich aufhält. Dies gilt sowohl 
 - Dokument zum Nachweis des Aufenthaltsrechts für Nicht-EU-/EWR-Bürger
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter           | Website                                            | Zeitrahmen | Kosten |
-| ------------------ |----------------------------------------------------| --------- | ------ |
-| Melderegisteramt  | [wien.gv.at](https://www.wien.gv.at/amtswege/meldeservice/meldezettel.html) | keine Angaben  | kostenlos |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Bei verspäteter Anmeldung können Sie möglicherweise eine Strafe zahlen müssen. Die Strafe kann jedoch erlassen werden, wenn Sie einen triftigen Grund für die Verzögerung angeben. Außerdem können Ihnen einige private Unternehmen gegen Gebühr bei dem Verfahren helfen.

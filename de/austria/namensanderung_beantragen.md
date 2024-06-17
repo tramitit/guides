@@ -35,9 +35,10 @@ Sie benötigen möglicherweise die folgenden Dokumente, unter anderem:
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Bezirksamt      |  [Offizielle Webseite](https://www.oesterreich.gv.at/public.html)       |      Variabel      |        Variabel       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Namensänderung ist in Österreich eine ernste Angelegenheit und Anträge werden nicht leicht genehmigt. Die Behörden genehmigen in der Regel nur aus zwingenden Gründen eine Namensänderung.

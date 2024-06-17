@@ -34,9 +34,10 @@ Jeder, der Kinder hat, die von ihnen abhängig sind und jünger als 18 Jahre sin
 
 ## Dienstleister, die es für Sie erledigen können
 
-| Anbieter        |     Website     |     Bearbeitungszeit    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Anbieter 1      |  https//:       |      x Tage      |        $X       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Jede Bewerbung wird anhand bestimmter Kriterien bewertet, die das Gesamtfamilieneinkommen, die Anzahl der abhängigen Personen, spezielle Bedingungen usw. umfassen können. Stellen Sie sicher, dass Sie alle erforderlichen Unterlagen für diese Details bereitstellen. Es ist wichtig, das zuständige Büro über Änderungen in diesen Details nach der Antragstellung zu informieren.

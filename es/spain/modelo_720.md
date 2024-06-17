@@ -34,12 +34,10 @@ Cualquier individuo que resida en España y posea activos extranjeros con un val
 - **Prueba de Inversiones:** Documentos relacionados con valores, pólizas de seguros y otras inversiones que muestren su valor.
 
 ## Proveedores que pueden hacerlo por ti
-_(Actualmente estamos seleccionando los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
+_(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor o conoces a alguno, por favor contáctanos o edita la página directamente)_
 
-| Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
+| Proveedor       |     Sitio Web    |     Plazos    |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Legal Spain     | [Legal Spain](https://www.legalspain.com) |   1-2 semanas    |       €200       |
-| Tax Advisors S.L| [Tax Advisors S.L](https://www.taxadvisor.com) |   2 semanas     |       €250       |
 
 ## Detalles adicionales
 - **Multas por Retraso:** Históricamente, España imponía multas severas por presentaciones tardías o incorrectas, pero cambios recientes según el fallo del Tribunal de Justicia de la Unión Europea han hecho que estas sanciones sean menos severas.

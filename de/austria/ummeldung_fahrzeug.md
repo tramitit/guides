@@ -34,10 +34,10 @@ Alle Personen, die in Österreich wohnhaft sind und entweder kürzlich innerhalb
 - Bei importierten Fahrzeugen: COC (Konformitätsbescheinigung) für EU-Fahrzeuge, dies könnte in den ausländischen Zulassungsdokumenten enthalten sein.
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter    |     Website           |    Bearbeitungszeiten   |       Kosten |
-| ----------- | --------------------- | :---------------------: | :----------: |
-| OAMTC      |  N/A  |      Variabel      |     Variabel     |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Möglicherweise benötigen Sie eine Versicherung für Ihr Fahrzeug während des Umzugs oder beim Import eines Autos nach Österreich aus einem anderen Land. Es wird empfohlen, sich mit lokalen Versicherungsanbietern in Verbindung zu setzen oder Ihre aktuelle Versicherung auf Auslandsdeckung zu überprüfen.

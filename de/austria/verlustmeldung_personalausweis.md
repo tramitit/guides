@@ -37,9 +37,10 @@ Jede Person in Österreich, die ihren Personalausweis verloren hat oder bei der 
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter         |     Website     |     Bearbeitungszeiten    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Gemeindeämter   |N/A              | Variabel, erkundigen Sie sich bei Ihrem örtlichen Amt | Variiert je nach Standort |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Bitte beachten Sie, dass der Personalausweis nicht sofort ausgestellt wird. Nachdem Sie Ihren Antrag eingereicht und die Ersatzgebühr bezahlt haben, müssen Sie möglicherweise einige Tage warten, bevor Sie Ihren neuen Personalausweis abholen können. Die genaue Wartezeit kann je nach Bearbeitungszeiten Ihres örtlichen Amtes variieren.

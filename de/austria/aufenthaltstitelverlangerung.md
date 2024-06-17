@@ -39,10 +39,10 @@ Alle ausländischen Staatsangehörigen - Studenten, Arbeitnehmer oder andere Per
 * Für Studenten könnte ein Nachweis der Einschreibung an einer Schule/Universität zusätzlich erforderlich sein
 
 ## Anbieter, die es für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Website     |     Zeitleisten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| immigration.at      |  [https://www.immigration.at](https://www.immigration.at)       |      1 - 3 Monate      |        Kosten variieren       |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 MA35 kann manchmal unresponsive sein. Geduld ist wichtig und es kann sein, dass Sie mehrere E-Mails senden oder Anrufe tätigen müssen, um eine Antwort zu erhalten. 

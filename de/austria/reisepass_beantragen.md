@@ -34,11 +34,10 @@ Jede Person, unabhängig vom Alter, die ins Ausland reisen möchte, benötigt ei
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitpläne    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Örtliches Bürgeramt |  https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeramt/       |      Bis zu mehrere Wochen*     |        Variabel gemäß örtlicher Vorschriften       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-\*Die genauen Zeitpläne können je nach Gebiet oder spezifischen Verwaltungsumständen stark variieren.
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 

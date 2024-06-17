@@ -41,10 +41,10 @@ Bitte beachten Sie, dass der Prozess je nach Führerscheinklasse und für Bewerb
 6. Bestätigung des bestandenen Theorieexamens.
 
 ## Anbieter, die dies für Sie durchführen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Website               |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | ----------------- |  :-------------: | :-------------: |
-| Zertifizierte Fahrschulen  |  Verschiedene         |  Ungefähr 2-3 Monate          |   Variiert je nach Anbieter      |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Wartezeit für einen Führerschein in Österreich beträgt in der Regel etwa 2 Monate.

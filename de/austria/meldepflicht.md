@@ -31,9 +31,10 @@ Jede Person in Österreich, einschließlich Bürger, Expats und Studenten, ist v
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Website     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Nicht verfügbar           |  Nicht verfügbar            |      Nicht verfügbar         |        Nicht verfügbar      |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Nach erfolgreicher Registrierung wird eine Bestätigung (Meldebestätigung) ausgestellt.

@@ -36,9 +36,10 @@ Jede Person, die in Österreich geboren wird, benötigt dieses Dokument für ver
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |          Website         |   Bearbeitungszeit   |   Kosten  |
-| --------------- | ------------------------ | :------------------: | :------: |
-| Standesamt      |  [standesamt.info](https://www.standesamt.com/index.php?article_id=1&clang=0)       |   5-10 Tage    |   Variiert je nach Gemeinde |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die meisten Standesämter haben inzwischen Online-Plattformen, über die Sie auch eine Geburtsurkunde beantragen können.

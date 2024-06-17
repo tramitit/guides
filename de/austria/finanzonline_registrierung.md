@@ -33,9 +33,10 @@ Diese Plattform kann für alle Einwohner Österreichs nützlich sein, die Steuer
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| N/A            |    N/A       |      N/A      |        N/A       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Es ist wichtig zu beachten, dass die Website und ihre Dienste nur auf Deutsch verfügbar sind. Ein gutes Verständnis der deutschen Sprache ist erforderlich, um Ihre Steuern korrekt einzureichen. Google Translate kann in diesem Fall hilfreich sein, aber professionelle mehrsprachige Steuerhilfe könnte ebenfalls in Betracht gezogen werden, wenn Sie sich nicht sicher in Ihren Deutschkenntnissen fühlen. Sicherheit hat auf der Plattform Finance Online Vorrang. Daher können zusätzliche Identitätsbestätigungen durch Technologien wie "Handy-Signatur" oder das ID Austria-Zertifikat erforderlich sein. Es gibt auch ausführliche Anleitungen, die Benutzern dabei helfen können, die Plattform zu navigieren und die notwendigen Formulare auszufüllen.

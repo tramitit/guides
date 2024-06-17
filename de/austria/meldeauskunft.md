@@ -37,10 +37,9 @@ Links zur offiziellen Website der österreichischen Regierung für weitere Infor
 - Reisepass oder Personalausweis
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Website     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Lokale Regierung |  [Meldeamt](https://www.wien.gv.at/verwaltung/meldeservice/)       |      Sofort      |        Kostenlos       |
-
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Weitere Details
 Bitte beachten Sie, dass für einige Dienstleistungen ein Nachweis der Registrierung (Meldezettel) erforderlich ist. Es ist daher wichtig, Ihre Wohnadresse innerhalb von 3 Tagen nach dem Einzug zu registrieren. Ein versäumtes Registrieren kann mit einer Geldstrafe von bis zu 726 Euro belegt werden ([verlinkte Informationsquelle](https://www.reddit.com/r/Austria/comments/1cad9ix/didnt_register_in_austria/)).

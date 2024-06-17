@@ -35,10 +35,10 @@ Sie könnten die folgenden Dokumente benötigen, um sich für eine Prüfung anzu
 - Nachweis der Zahlung der Anmeldegebühr.
 
 ## Anbieter, die es für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Website     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Goethe-Institut      |  [Website](https://www.goethe.de)       |      variiert je nach Prüfung      |        Variabel je nach Prüfung       |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Einzelheiten
 - In der Regel wird die Liste der Prüfungszentren während des Anmeldeprozesses bereitgestellt. Stellen Sie sicher, dass Ihr bevorzugter Standort aufgeführt ist. Falls nicht, müssen Sie möglicherweise einen anderen Ort wählen oder den Prüfungsanbieter um Unterstützung bitten.

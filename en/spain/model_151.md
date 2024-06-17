@@ -55,13 +55,9 @@ The ideal customer for Model 151 would be high-net-worth individuals, expatriate
   Information on your foreign bank accounts, securities, insurance policies, and properties.
 
 ## Providers that can do it for you
-
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
-
-| Provider        | Website                  | Timelines       | Cost           |
-| --------------- | ------------------------ |  :-------------: | :-------------: |
-|  Provider A     | www.provider-a.com       | Up to 2 weeks   | €200           |
-|  Provider B     | www.provider-b.com       | 1-2 weeks       | €250           |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

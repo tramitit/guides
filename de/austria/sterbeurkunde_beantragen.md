@@ -32,9 +32,10 @@ Jede Person, die direkt mit oder in die rechtlichen und administrativen Prozesse
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeit    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :------------: |
-| Standesamt      |  [Standesamt](https://www.wien.gv.at/amtshelfer/) |      Je nach Region, dauert es in der Regel einige Tage      | Variiert je nach Anzahl der angeforderten Kopien |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Kosten variieren je nach der Anzahl der benötigten Kopien und dem Verwendungszweck des Zertifikats. Sie liegen in der Regel unter €30. Es wird empfohlen, mehrere Kopien der Sterbeurkunde zu bekommen, da zahlreiche Institutionen ein Original benötigen. Beachten Sie auch, dass Zertifikate in Sprachen außer Deutsch möglicherweise eine zusätzliche Übersetzungsgebühr erfordern.

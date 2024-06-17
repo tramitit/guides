@@ -38,9 +38,10 @@ Die genauen benötigten Dokumente variieren je nach persönlichen Umständen, da
 
 ## Anbieter, die Ihnen helfen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Landesregierungsamt      |  (Website variiert je nach Bundesland)       |      Variiert      |        Variiert       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Ihr örtliches Landesregierungsamt kann präzisere Zeit- und Kostenschätzungen bereitstellen, da diese je nach individuellen Umständen variieren. Es ist wichtig zu beachten, dass der Erwerb des Staatsbürgerschaftsnachweises abhängig von Ihren individuellen Umständen ein komplexer Prozess sein kann, daher kann es hilfreich sein, rechtlichen Rat oder Unterstützung einzuholen.

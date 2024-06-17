@@ -34,9 +34,10 @@ Jeder Hundebesitzer, der in Österreich wohnt, das Land mit seinem Haustier besu
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Website     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Örtliche Gemeinde      |  N/A       |      Variiert      |        Variiert       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Wenn Sie planen, Ihren Hund aus einem anderen Land nach Österreich mitzunehmen, stellen Sie sicher, dass Ihr Haustier die Einreisebestimmungen erfüllt. Dies kann Impfungen, Gesundheitszeugnisse von einem Tierarzt usw. umfassen.

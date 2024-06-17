@@ -38,9 +38,10 @@ Jede Person, die plant, länger als sechs Monate in Österreich zu bleiben, eins
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Migrationsamt in Österreich      |  [MA 35](http://www.wien.gv.at/english/)       |      Variiert je nach Fall      |        Variiert je nach Fall       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Beantragung kann Geduld erfordern, da der Prozess langwierig und bürokratisch sein kann. Seien Sie bereit, möglicherweise mit Papierformularen, langen Wartezeiten und möglicherweise mehreren Besuchen im Amt umzugehen. Eine positive Einstellung, gründliche Vorbereitung und Geduld können jedoch alle dazu beitragen, dass der Prozess reibungsloser und effizienter verläuft.

@@ -33,10 +33,10 @@ Fahrzeughalter, deren Fahrzeuge nicht mehr in Betrieb sind oder außerhalb Öste
 Bitte beachten Sie, dass Sie in einigen Fällen auch nachweisen müssen, dass das Fahrzeug verantwortungsbewusst entsorgt wurde.
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite             |     Zeitspannen    |       Kosten      |
-| --------------- | ------------------- |  :-------------: | :-------------: |
-| Lokale Regierung |  https://www.help.gv.at/       |  Variiert |  Variiert |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Es ist wichtig zu verstehen, dass das Unterlassen der Abmeldung eines Fahrzeugs zu kontinuierlichen Gebühren im Zusammenhang mit dem Fahrzeugbesitz wie Versicherungsprämien oder Steuern führen kann. Stellen Sie immer sicher, dass Sie einen Nachweis über die Abmeldung aufbewahren, da dieser möglicherweise für zukünftige Referenzen oder rechtliche Zwecke erforderlich ist.

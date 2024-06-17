@@ -39,10 +39,10 @@ Bitte beachten Sie, dass je nach Staatsangehörigkeit und Beschäftigungsstatus 
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter         |     Website      |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Gebietskrankenkasse (GKK)      |  [Link](https://www.sozialversicherung.at/cdscontent/?contentid=10007.670707&portal=oegkkportal)       |      Abhängig von individuellen Fällen      |        TBD       |
-| Sozialversicherungsanstalt der Selbständigen (SVA) |  [Link](https://www.sva.or.at/cdscontent/?contentid=10007.763672&portal=svaportal)| Abhängig von individuellen Fällen |  TBD  |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Kosten für die Sozialversicherung richten sich nach Ihrem Einkommen und Beschäftigungsstatus. Arbeitgeber zahlen in der Regel die Hälfte der Versicherungsbeiträge. Bei selbstständigen Personen werden die Beiträge auf Grundlage ihres Einkommens berechnet.

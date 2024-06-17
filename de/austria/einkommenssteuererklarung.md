@@ -40,9 +40,10 @@ Einige dieser Dokumente können von Ihrem Arbeitgeber oder den Banken, mit denen
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Website     |     Zeitplan    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Österreichisches Finanzamt    | [Link](https://www.bmf.gv.at/)      |      Während der Steuersaison      |        Kostenlos, die Steuerschuld variiert       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Denken Sie daran, dass das Steuerjahr in Österreich, wie in vielen Ländern, das Kalenderjahr ist, so dass das Einkommen, das von Januar bis Dezember erzielt wird, gemeldet werden muss. Darüber hinaus fallen die Fristen für die Steuererklärung in der Regel auf das folgende Jahr, oft im Frühling. Beachten Sie diese Fristen, um Verspätungsgebühren oder Strafen zu vermeiden. Das korrekte und rechtzeitige Einreichen Ihrer Einkommensteuererklärung ist entscheidend für die finanzielle Einhaltung der Vorschriften.

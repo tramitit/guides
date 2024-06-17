@@ -37,9 +37,9 @@ Die für die Unternehmensgründung in Österreich erforderlichen Dokumente umfas
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter         |  Webseite         | Zeitrahmen  | Kosten |
-| ---------------- | ----------------- | ----------  | ------ |
-| StartUs Insights | [https://www.startus-insights.com](https://www.startus-insights.com/) | x Tage | $X |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Weitere Details
 Denken Sie daran, bei der Gründung eines Unternehmens in Österreich ist es entscheidend, steuerliche Auswirkungen sorgfältig zu prüfen. Je nach Rechtsform Ihres Unternehmens könnten Sie für bestimmte Steuervorteile berechtigt sein. Die Konsultation mit einem Steuerberater oder Anwalt kann hilfreich sein, um die richtigen Entscheidungen zu treffen.

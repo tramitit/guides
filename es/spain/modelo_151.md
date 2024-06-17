@@ -55,13 +55,10 @@ El cliente ideal para el Modelo 151 serían individuos de alto patrimonio neto, 
   Información sobre tus cuentas bancarias, valores, pólizas de seguros y propiedades extranjeras.
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor o conoces a alguno, por favor contáctanos o edita la página directamente)_
 
-_(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
-
-| Proveedor        | Sitio web                | Plazos       | Costo           |
-| --------------- | ------------------------ |  :-------------: | :-------------: |
-|  Proveedor A    | www.proveedor-a.com       | Hasta 2 semanas   | €200           |
-|  Proveedor B     | www.proveedor-b.com       | 1-2 semanas       | €250           |
+| Proveedor       |     Sitio Web    |     Plazos    |       Costo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 

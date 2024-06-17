@@ -38,9 +38,9 @@ Jeder, der seine originale Heiratsurkunde verloren, verlegt oder beschädigt hat
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Vital Records Online    |  [Website](https://www.vitalrecordsonline.com/)   |   Variabel   | Variabel |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Weitere Details
 Das Neubestellen einer Heiratsurkunde kann für verschiedene Zwecke verwendet werden, wie z.B. als Nachweis für Ihre Ehe für rechtliche Zwecke, für genealogische Forschung oder sogar für die Beantragung einer doppelten Zertifizierung durch Abstammung in einigen Ländern. Überprüfen Sie immer bei Ihrer örtlichen oder nationalen Regierungsbehörde, ob Sie alle Anforderungen erfüllen und den richtigen Prozess befolgen.

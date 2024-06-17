@@ -32,10 +32,10 @@ Ausländer, die in den genannten Ländern leben, einschließlich Studenten, Arbe
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Bürgeramt (Deutschland)      |  [https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeramt/](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeramt/)       |      Innerhalb einer Woche      |        Kostenlos       |
-| Meldeamt (Österreich)      |  [https://www.wien.gv.at/pdfs/meldeamt.pdf](https://www.wien.gv.at/pdfs/meldeamt.pdf)      |      Innerhalb einer Woche      |        Kostenlos       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 In Deutschland ist es unter Umständen möglich, sich an einem neuen Ort abzumelden und gleichzeitig am neuen Ort anzumelden, wenn man innerhalb derselben Stadt umzieht.

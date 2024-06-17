@@ -36,10 +36,10 @@ Personen, die planen, in einem fremden Land zu leben, zu arbeiten oder zu studie
 - Zahlungsbeleg für den Apostille-Service, falls online durchgeführt.
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Beispiel Behörde      |  http://www.beispiel.gov      |     10-15 Tage      |        $30-$60 (variiert je nach Dokumententyp und Staat) |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 

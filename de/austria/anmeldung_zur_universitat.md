@@ -46,11 +46,10 @@ Dieser Leitfaden richtet sich an internationale Studierende, die in Österreich 
 - Für Nicht-EU-/EWR-Bürger: Aufenthaltsgenehmigung
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite                     |     Zeitrahmen                               |       Kosten (geschätzt)         |
-| --------------- | ------------------------------- |:-------------:                              | :----------------------------: |
-| Universität Wien       |  [Univie.ac.at](https://www.univie.ac.at/de/)     | Bewerbungsprozess: variiert je nach Programm         | Studiengebühren: €726,72 pro Semester   |
-| Technische Universität Wien | [Tuwien.ac.at](https://www.tuwien.ac.at/de/) | Bewerbungsprozess: variiert je nach Programm | Studiengebühren: €726,72 pro Semester |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Studienkosten in Österreich variieren und hängen von der gewählten Universität und dem gewählten Studiengang ab.

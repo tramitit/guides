@@ -39,10 +39,10 @@ Je nach Ihrer Situation benötigen Sie möglicherweise:
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter   |     Website     |     Bearbeitungszeit    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Stadt Wien       |  [wien.gv.at](https://www.wien.gv.at)      |      2-3 Tage      |        -       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Weitere Details
 
 Das ausgefüllte Meldezettel-Formular ist für verschiedene Genehmigungen und Abonnements (zum Beispiel die Eröffnung eines Bankkontos) wichtig. Es ist daher wichtig, diese Benachrichtigung zeitnah und angemessen zu bearbeiten. Es könnte hilfreich sein, Kopien des Formulars zu haben - einige Institutionen könnten diese verlangen. Die Änderung Ihres Wohnsitzes kann auch Auswirkungen auf Aspekte wie Ihre Steuerkategorie haben, daher denken Sie daran, Ihre Arbeitgeber über Ihre Wohnsitzänderung zu informieren.

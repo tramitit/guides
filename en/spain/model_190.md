@@ -3,11 +3,11 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Aprende a completar el Modelo 190, un formulario clave para la declaración
-  de retenciones y pagos del IRPF en España, requerido por empresas y autónomos.
+description: Learn to complete Form 145, the essential form to communicate
+personal and family changes that affect your tax withholdings in Spain.
 draft: false
-meta_title: 'Guía Completa para el Modelo 190: Declaración IRPF en España'
-title: 'Guía Completa para el Modelo 190: Declaración IRPF en España'
+meta_title: 'Model 145: Complete Guide for Residents in Spain'
+title: 'Model 145: Complete Guide for Residents in Spain'
 translationKey: spain-model_190
 ---
 
@@ -61,10 +61,8 @@ Any individual or entity in Spain that employs others, or is required to withhol
 
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
-
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| [ExampleProvider](https://example.com) | example.com | 2-4 weeks | €100-300 |
 
 ## Additional details
 - Ensure that you have valid digital certificates for online submissions.

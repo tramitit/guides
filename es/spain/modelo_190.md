@@ -61,10 +61,10 @@ Cualquier individuo o entidad en España que emplee a otros, o esté obligado a 
 
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
+_(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor o conoces a alguno, por favor contáctanos o edita la página directamente)_
 
-| Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
+| Proveedor       |     Sitio Web    |     Plazos    |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| [EjemploProveedor](https://example.com) | example.com | 2-4 semanas | €100-300 |
 
 ## Detalles Adicionales
 - Asegúrate de contar con certificados digitales válidos para envíos en línea.

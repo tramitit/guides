@@ -38,9 +38,10 @@ Hinweis: Die Dokumentationsanforderungen können je nach spezifischer Situation 
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Website     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Business Service Portal       |  [https://www.usp.gv.at/](https://www.usp.gv.at/)      |  Variiert      |  Variiert      |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Es ist wichtig, die Behörden über Änderungen in Ihrem Unternehmensstatus auf dem Laufenden zu halten. Wenn dies nicht geschieht, können Strafen verhängt und zukünftige Änderungen kompliziert werden. Erwägen Sie auch die Einholung rechtlichen Ratschlags, bevor Sie wesentliche Änderungen an Ihrem Unternehmen vornehmen.

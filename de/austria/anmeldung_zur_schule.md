@@ -39,10 +39,10 @@ Dies ist speziell für internationale Studierende konzipiert, die in Österreich
 - Nachweis einer Krankenversicherung (obligatorisch für eine Aufenthaltserlaubnis)
 
 ## Anbieter, die es für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Verschiedene Universitäten    |  Verschieden      |      variiert je nach Universität      |        variiert je nach Universität      |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Zusätzliche Details
 - Der Bewerbungsprozess variiert von Universität zu Universität und von Kurs zu Kurs.

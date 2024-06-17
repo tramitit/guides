@@ -33,7 +33,10 @@ Passfotos können in örtlichen Fotostudios oder bei Fotografen erhalten werden.
 
 ## Anbieter, die dies für Sie tun können
 
-Es gibt keinen bekannten Anbieter, der diese Aufgabe für Sie erledigen kann. Sie müssen persönlich bei der Verkehrsbehörde erscheinen, um Ihren Führerschein zu erneuern.
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Bitte beachten Sie, dass das Fehlen eines aktuellen und gültigen Führerscheins in vielen Bereichen mit hohen Geldstrafen geahndet werden kann und Sie unter Umständen daran hindert, eine Kfz-Versicherung abzuschließen oder dazu führen kann, dass Ihre Police storniert wird. Stellen Sie sicher, dass Sie das Ablaufdatum Ihres Führerscheins überprüfen und einen aktualisierten Datensatz pflegen.

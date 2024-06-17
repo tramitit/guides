@@ -35,10 +35,10 @@ Neue Eltern, die in Österreich oder Deutschland leben, können diesen Zuschuss 
 
 ## Anbieter, die dies für Sie tun können
 
-| Anbieter        |     Webseite     |     Zeitplan    |       Kosten       |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Elterngeldbüro |   https://www.elterngeld.net/elterngeldstellen.html  |      Abhängig vom Fall        |        Kostenlos        |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Weitere Details
 - Sie können bis zu 3 Monate vor der Geburt Ihres Kindes einen Antrag auf Elterngeld stellen.
 - Alleinerziehende sind ebenfalls für das Elterngeld berechtigt.

@@ -37,10 +37,10 @@ Es gibt bestimmte Informationen, die Sie für Ihre Bewerbung bereitstellen müss
 Die Beschaffung dieser Dokumente erfolgt in der Regel von staatlichen oder akademischen Quellen wie dem Finanzamt (für Steuererklärungen), der Universität, an der Sie studieren (für akademische Aufzeichnungen) und Ähnlichem.
 
 ## Anbieter, die es für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter     |     Website     |     Zeitrahmen    |       Kosten      |
-| ------------ | --------------- |  :-------------: | :-------------: |
-| OeAD |  [https://www.oead.at/](https://www.oead.at/) |      Variabel      |        Kostenlos       |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Je nach bestimmten Bedingungen kann der Studienzuschuss entweder ein nicht rückzahlbarer Zuschuss oder ein zinsfreies Darlehen sein. Es wird empfohlen, ihre offizielle Website zu besuchen oder sie für weitere detaillierte und personalisierte Informationen zu kontaktieren.

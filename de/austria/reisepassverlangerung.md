@@ -36,9 +36,10 @@ Für die Verlängerung Ihres Reisepasses benötigen Sie:
 
 ## Anbieter, die dies für Sie tun können
 
-| Anbieter        |     Website     |     Zeiträume    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Österreichischer Passservice      |  [https://www.help.gv.at/](https://www.help.gv.at/)      |      3-6 Wochen      |        Wird während des Antragsverfahrens geteilt      |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Bitte beachten Sie, dass die Dauer des Passverlängerungsprozesses variieren kann und während Spitzenzeiten möglicherweise länger dauert. Stellen Sie sicher, dass Sie Ihre Reisen entsprechend planen, um Unannehmlichkeiten aufgrund eines abgelaufenen Reisepasses zu vermeiden. In Notfällen bieten einige Länder beschleunigte Dienste gegen eine Zusatzgebühr an. Bitte erkundigen Sie sich bei dem österreichischen Passservice nach diesen Details.

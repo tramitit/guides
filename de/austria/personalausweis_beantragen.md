@@ -36,9 +36,10 @@ Alle österreichischen Staatsbürger über 14 Jahren sind verpflichtet, einen Pe
 
 ## Anbieter, die Ihnen dabei behilflich sein können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeit    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Bürgeramt      |  Nicht online verfügbar       |      Ca. 2-6 Wochen      |        €61,50       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Gültigkeitsdauer österreichischer Personalausweise:

@@ -36,10 +36,10 @@ Jede Person, die kürzlich ein Auto in Österreich gekauft hat oder mit ihrem Fa
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter | Website | Zeitrahmen | Kosten |
-| --- | --- | :---: | :---: |
-| ÖAMTC | [www.oeamtc.at](https://www.oeamtc.at) | Variiert | Abhängig von der Dienstleistung |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Weitere Details
 Für Personen, die ein Auto aus einem anderen EU-Land nach Österreich importieren, ist das Verfahren weitgehend ähnlich. In der Regel kann eine vorübergehende Befreiung von Zulassungssteuern erhalten werden, wenn das Auto für private Zwecke und nicht zum Verkauf verwendet wird.
 

@@ -44,9 +44,10 @@ Die erforderlichen Antragsformulare und weitere Details finden Sie auf der [offi
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Website     |     Zeitleisten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Österreichische Botschaft/Konsulat     |  https://www.bmeia.gv.at/en/       |      Variiert (generell 3-6 Wochen)      |        Variiert je nach Art des Visums und Herkunftsland      |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Beachten Sie, dass der Schengen-Raum einschließlich Österreichs eine Politik hat, die von bestimmten Nicht-EU-Bürgern eine Verpflichtungserklärung oder "Verpflichtungsschreiben" eines Gastgebers verlangt, um ihnen die Einreise zu ermöglichen. Stellen Sie sicher, dass Sie diesbezüglich mit der österreichischen Botschaft/dem Konsulat in Verbindung treten. Beachten Sie, dass die Bearbeitungszeiten je nach Jahreszeit und den spezifischen Umständen Ihres Antrags erheblich variieren können.

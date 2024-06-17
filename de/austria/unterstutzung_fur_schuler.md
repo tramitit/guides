@@ -34,10 +34,10 @@ Je nach Zweck benötigen Sie möglicherweise folgende Dokumente:
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter       |     Website     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------:  | :-------------:   |
-| Universität    |  [universitäts_website](#)  |  Je nach Stundenplan der Universität  |  Studiengebühren variieren   |
-| Jobportale    |  [job_portal_website](#)   |  Fortlaufend  |  Kostenfrei bis zu einem gewissen Grad   |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Wien kann eine recht teure Stadt sein. Planen Sie daher Ihr Budget sorgfältig, um finanzielle Probleme zu vermeiden.

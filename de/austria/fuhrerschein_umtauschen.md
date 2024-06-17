@@ -38,12 +38,10 @@ Dieser Service wird in der Regel von Ausländern benötigt, die vorübergehend o
 - Teilnahmebescheinigung an einem Erste-Hilfe-Kurs, wenn erforderlich
 
 ## Anbieter, die dies für Sie tun können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Zeiträume    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Führerscheinstelle     |  [Link](http://beispiel.com)       |      Variiert      |        Variiert       |
-| Zertifizierter Übersetzer (falls erforderlich)     |  [Link](http://beispiel.com)       |      Variiert      |        Variiert       |
-
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Einzelheiten
 

@@ -41,9 +41,10 @@ Typischerweise benötigen Personen, die sich um Arbeitsplätze bewerben, die ein
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Website     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Beispielanbieter      |  https://www.beispiel.com       |      Variabel, abhängig von der Behörde und Bearbeitungszeiten      |        Variiert je nach Zuständigkeit und Bearbeitung       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Zusätzliche Details
 Verschiedene Länder haben unterschiedliche Gesetze und Verfahren zur Offenlegung von Strafregistern. Es ist daher entscheidend, die lokalen Regeln und Vorschriften in Ihrer Region zu verstehen. Wenn Sie ein Visum oder eine Aufenthaltsgenehmigung in einem anderen Land beantragen, kann es erforderlich sein, einen Strafregisterauszug aus Ihren aktuellen oder vorherigen Aufenthaltsländern vorzulegen.

@@ -33,11 +33,10 @@ Jede Person, die mit Unternehmen interagiert hat, insbesondere solche in der Eur
 
 ## Anbieter, die das für Sie erledigen können
 
-| Anbieter    |     Webseite     |  Zeitrahmen |     Kosten      |
-| ----------- | :-------------: | :-------: | :----------: |
-| N/A         |      N/A         |  N/A   |     N/A     |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-(Hinweis: Dies ist ein individuelles Recht und erfordert normalerweise keine Zwischenvermittler)
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Sie können eine Verlängerung beantragen, wenn Sie das Gefühl haben, dass die gegebene Zeit für die Antwort des Unternehmens nicht ausreicht.

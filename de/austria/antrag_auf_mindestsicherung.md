@@ -33,9 +33,10 @@ Ideale Antragsteller sind österreichische Einwohner, die ihren Job verloren hab
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Website     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Arbeitsmarktservice (AMS) |  [Website](https://www.ams.at)  |      Variiert      |        Kostenlos       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Es ist wichtig zu verstehen, dass die Mindestsicherung eine letzte Finanzhilfe des Staates ist und keine Garantie. Es gibt bestimmte Kriterien und potenzielle Empfänger müssen diesen entsprechen, bevor sie Unterstützung erhalten können. Der Prozess kann langwierig und bürokratisch sein, daher ist Geduld während des Bewerbungsverfahrens wichtig.

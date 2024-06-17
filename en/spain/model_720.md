@@ -3,11 +3,11 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Descubre todo sobre el Modelo 720, quién debe presentarlo, el proceso
-  de declaración y las posibles sanciones por retraso o errores. Cumple con Hacienda.
+description: Discover everything about Form 720, who must present it, the process
+  of declaration and the possible sanctions for delay or errors. Complies with the Treasury.
 draft: false
-meta_title: 'Guía Completa sobre Modelo 720: Declaración de Bienes en el Extranjero'
-title: 'Guía Completa sobre Modelo 720: Declaración de Bienes en el Extranjero'
+meta_title: 'Complete Guide on Form 720: Declaration of Assets Abroad'
+title: 'Complete Guide on Form 720: Declaration of Assets Abroad'
 translationKey: spain-model_720
 ---
 
@@ -35,11 +35,8 @@ Any individual residing in Spain who owns foreign assets with a total value of m
 
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
-
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Legal Spain     | [Legal Spain](https://www.legalspain.com) |   1-2 weeks    |       €200       |
-| Tax Advisors S.L| [Tax Advisors S.L](https://www.taxadvisor.com) |   2 weeks     |       €250       |
 
 ## Additional details
 - **Fines for Delay:** Historically, Spain imposed heavy fines for late or incorrect submissions, but recent changes per the European Court of Justice's ruling have made these sanctions less severe.

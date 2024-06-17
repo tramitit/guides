@@ -38,11 +38,10 @@ Bitte beachten Sie, dass die genaue Reihenfolge der Schritte je nach der spezifi
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter       |        Webseite            |     Bearbeitungszeiten    |       Kosten         |
-| -------------- | ------------------------ |  :-------------: | :-------------: |
-| ASFINAG       | [www.asfinag.at](https://www.asfinag.at/)     |      Variabel |         Variabel   |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-Bitte beachten Sie, dass die Kosten je nach Fahrzeugtyp, Modifikationen und anderen spezifischen Umständen variieren können.
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Zulassung eines modifizierten Fahrzeugs kann zusätzliche Schritte oder Überprüfungen erfordern, um sicherzustellen, dass das Fahrzeug sicher ist und den lokalen Gesetzen entspricht. Je nach Fahrzeug können jährliche Steuern anfallen. Für eine vorübergehende Zulassung sind möglicherweise vorübergehende Kennzeichen erhältlich. Kontaktieren Sie die örtlichen Behörden für die genauesten und aktuellsten Informationen.
