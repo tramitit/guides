@@ -37,9 +37,10 @@ The documents should be scanned and ready to upload on the online form.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Autoridade Tributária e Aduaneira      |  [https://www.portaldasfinancas.gov.pt/](https://www.portaldasfinancas.gov.pt/)       |      Varies      |        Depends on the property value       |
 
 ## Additional details
 The exemption must be requested in the year of acquisition of the property or in the following year. IMI exemption is granted for a period of three years, if the Rateable Value (VPT) of the property does not exceed €125,000, and if the IRS's taxable income of the owner (alone or with the spouse), in the year in which the property was acquired, does not exceed €153,300.

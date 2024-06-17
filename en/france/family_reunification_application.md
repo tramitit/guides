@@ -38,10 +38,10 @@ This process is ideal for non-EU residents who have family members living in Fra
 
 ## Providers that can do it for you
 
-| Provider                   |     Website                      |     Timelines             |       Cost           |
-| --------------------- | -----------------------------| :----------------: | :--------------: |
-| OFII                        |  [OFII](http://www.ofii.fr)  |      Varies               |        Varies     |
-| France Visas            | [France Visas](https://france-visas.gouv.fr/) | Varies | Varies |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that the application process can be long and complicated. Ensure you check the processing times and costs on the relevant websites and have all documentation ready before starting your application.

@@ -36,9 +36,10 @@ This service is required by Greek citizens intending to travel internationally a
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Greek Police: Aliens and Immigration Service | [Official Website](http://www.astynomia.gr/index.php?option=ozo_content&lang=%27..%27&perform=view&id=50539&Itemid=1266&lang=)       |   5 days        |    Determined upon application    |
 
 ## Additional details
 Express issuance is also possible under specific circumstances, for an additional fee. For those below 14 years of age, the presence of a parent or legal guardian is required during the application process. In case the person is an unmarried minor aged between 14 to 18 years, a notarized consent of the parents is required. Keep in mind that Greek passports have a validity of 5 years for those under the age of 14 and a validity of 10 years otherwise.

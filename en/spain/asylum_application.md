@@ -32,9 +32,10 @@ An asylum application is ideal for individuals who are facing credible threats o
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Office of Asylum and Refuge      |  [OAR Website](http://www.interior.gob.es/web/servicios-al-ciudadano/extranjeria/asilo-y-refugio) | Depends on the individual case |        No cost       |
 
 ## Additional details
 - The process may take several months as the Office of Asylum and Refuge reviews your case.

@@ -33,11 +33,10 @@ This process is necessary for anyone who has given birth in Croatia or has a chi
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Not applicable  |                 |                  |                 |
-
-There are no explicit providers for this service as it is typically carried out by the individual with guidance from hospital and local authorities.
 
 ## Additional details
 - Timelines might vary on a case by case basis. Please allow for potential delays.

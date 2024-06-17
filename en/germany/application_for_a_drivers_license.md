@@ -35,9 +35,10 @@ It's aimed at foreign residents in Germany, particularly those moving from non-E
 
 ## Providers that can do it for you
 
-| Provider       |     Website      |   Timelines    |       Cost      |
-| -------------- | ---------------- |  :-----------: | :-------------: |
-| Fahrschule     |  [Here](https://www.fahrschule.de/)  |      Varies     |  Varies        |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - Your foreign license remains valid in Germany for either six months from your date of registering at the Bürgeramt, or six months from your arrival date if you are from a non-EU country and not planning on becoming a resident.

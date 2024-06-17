@@ -37,9 +37,10 @@ This service is necessary for Portuguese citizens living abroad whose passports 
 
 ## Providers that can do it for you
 
-| Provider        |       Website       |     Timelines    |       Cost        |
-| --------------- | ------------------- |  :-------------: | :---------------: |
-| Portuguese Embassy/Consulate |  [Portugal's Embassies and Consulates](https://www.portaldascomunidades.mne.gov.pt/pt/rede-consular/portugal-no-estrangeiro)    |      Approximately 5 - 10 business days      |        Varies depending on location       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Remember to check the specific requirements and procedures for your local consulate, as there can be variations depending on your location. You may be required to present additional identification during your appointment, and there may be specific photo requirements. Always double-check fees and payment methods with your consulate, as these can vary.

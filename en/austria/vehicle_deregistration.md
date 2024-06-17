@@ -34,9 +34,10 @@ Please note that, in some cases, you may also need to show proof that the vehicl
 
 ## Providers that can do it for you
 
-| Provider        |     Website             |     Timelines    |       Cost      |
-| --------------- | ------------------- |  :-------------: | :-------------: |
-| Local Government |  https://www.help.gv.at/       |  Varies |  Varies |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 It's essential to understand that failure to deregister a vehicle can result in continuous charges related to vehicle ownership such as insurance premiums or taxation. Always ensure to keep a proof of deregistration as it may be required for future reference or legal purposes.

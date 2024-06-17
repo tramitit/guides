@@ -39,9 +39,10 @@ Please note, process and requirements may vary by municipality and specific proj
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Architect |  [TBD]          |     TBD         |        TBD      |
 
 ## Additional details
 - Consideration of construction regulations is important for not only obtaining the Building Permit but also avoiding potential legal and safety issues during construction.

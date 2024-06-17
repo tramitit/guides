@@ -38,9 +38,10 @@ The following documents are necessary for a surname change request in Slovakia:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Slovak Republic's Ministry of Interior      |  https://www.minv.sk  |      30 to 60 days      |        Varies depending on case       |
 
 ## Additional details
 - It's important to remember that the process can take several weeks or even months, so it's wise to start well in advance if you need your new surname to be legal by a certain date.

@@ -10,7 +10,6 @@ meta_title: 'Spanish Birth Certificate: Get Prestación por Nacimiento'
 tags:
 - Social Security
 title: 'Spanish Birth Certificate: Get Prestación por Nacimiento'
-translationKey: spain-birth-certificate
 ---
 
 
@@ -37,9 +36,10 @@ In general, no documents are required. However, providing a copy of parents' ID 
 
 ## Providers that can do it for you
 
-| Provider               | Website                                                                                                                                 | Timelines | Cost |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--: |
-| Ministerio de Justicia | [Website](https://sede.mjusticia.gob.es/es/tramites/certificado-nacimiento) |  Varies   | Free |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

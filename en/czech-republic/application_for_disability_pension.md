@@ -43,9 +43,10 @@ Individuals who have permanent physical or mental disabilities that impede their
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Your national social insurance administration      |  As per your country's official government website      |    Application processing time varies per country and your specific case     | Fees may apply depending on your situation and country's regulations |
 
 ## Additional details
 

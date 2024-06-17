@@ -33,9 +33,10 @@ The birth declaration is usually done by the parents or other legal representati
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ufficio di Stato Civile      |  N/A       |      Typically within 10 days of birth      |        May be free of charge        |
 
 ## Additional details
 - After the birth is registered in the Birth Register, the office of vital statistics will note this event in the Family Status Certificate (Certificato di Stato di Famiglia).

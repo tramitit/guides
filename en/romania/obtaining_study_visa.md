@@ -40,10 +40,10 @@ Anyone seeking to pursue their studies in a foreign country that requires a visa
 
 ## Providers that can do it for you
 
-| Provider        |     Website          |     Timelines    | Cost         |
-| --------------- | -------------------  |  :-------------: | :----------: |
-| U.S. Embassy   |  https://www.usembassy.gov/   |      Varies     | Varies       |
-| UK Visas and Immigration | https://www.gov.uk/government/organisations/uk-visas-and-immigration |       Varies      |    Varies    |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Application procedures and requirements can vary significantly between countries, so it's important to check the details with the embassy or consulate of your chosen destination. It's also crucial to note that owning a study visa does not guarantee entry into a country, as the final decision often rests with the immigration officials at the point of entry.

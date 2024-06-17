@@ -32,10 +32,10 @@ Any Portuguese citizen with an expiring or expired citizen card must go through 
   
 ## Providers that can do it for you
 
-| Provider        |     Website                        |     Timelines    |       Cost      |
-| --------------- | ---------------                    |  :-------------: | :-------------: |
-| IRN             |  www.irn.justica.gov.pt                     |      7-10 days   |        ~$18     |
-| Post Office     |  www.ctt.pt                        |      Varies      |    Price Varies |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Renewal of the Citizen Card for those living outside Portugal can also be done at the Portuguese consulates in their country of residence.

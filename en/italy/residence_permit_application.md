@@ -39,9 +39,10 @@ It's required by non-EU nationals who intend to stay in Italy for more than 90 d
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Italian Post      |  [https://www.poste.it](https://www.poste.it)|      60 - 120 days      |        Varies       |
 
 ## Additional details
 It would help you a lot if you could find someone fluent in Italian to assist you with the application. The process is intricate and mostly in Italian.

@@ -40,9 +40,10 @@ All businesses aiming to operate legally in Romania or other territories are req
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Regus      |  [https://www.regus.ro](https://www.regus.ro/)       |      Varies      |        Varies       |
 
 ## Additional details
 Depending on the business sector, it could be necessary to obtain additional permits/certificates, such as Environmental, Construction, Fire Safety, etc. The permit requirements and processes can vary based on business type and jurisdiction. Always confirm with local authorities or legal consultants to ensure full compliance.

@@ -36,9 +36,10 @@ Any eligible individual who, due to circumstances beyond their control, is curre
 
 ## Providers that can do it for you
 
-| Provider                        |     Website                            |     Timelines    |       Cost      |
-| ------------------------------  | ------------------------------------- |  :-------------: | :-------------: |
-| Manpower Employment Organisation (OAED)      |  [www.oaed.gr](http://www.oaed.gr/)      |      Varies based on individual circumstances      |        Free       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

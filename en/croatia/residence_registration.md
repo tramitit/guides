@@ -35,9 +35,10 @@ Every foreigner who lives in Croatia, be it for work, study or long-term stay pu
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Police Office     |  N/A       |      Can depend on the local bureau      |        No charges to register       |
 
 ## Additional details
 - Sometimes the person who owns the place you will be staying at may also need to accompany you for the registration process.

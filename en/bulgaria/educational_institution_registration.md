@@ -37,9 +37,10 @@ To register with an educational institution, follow these steps:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Udemy           |  [www.udemy.com](http://www.udemy.com)   |      Varies depending on course      |        Varies depending on course       |
 
 ## Additional details
 Please check the institution's specific requirements and registration deadlines before applying. Some institutions or courses may also have prerequisites that need to be met before enrolment.

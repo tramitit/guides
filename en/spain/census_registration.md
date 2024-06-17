@@ -34,9 +34,11 @@ Some of the documents required for Census Registration are often:
 - Other documents like NIE (Número de Identidad de Extranjero) are often required for non-Spanish residents
 
 ## Providers that can do it for you
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Town Hall |  [https://www.ayuntamientoespaña.es](https://www.ayuntamientoespaña.es)   |      5-7 days      |        Free       |
 
 ## Additional details
 You can do the Census Registration on your own, but some people find it helpful to take a Spanish speaker along if they do not speak the language. Some towns may accept the documents and issue the certificate on the same day, while others may take a few days. It's always a good idea to check the specific requirements and process with your local town hall.

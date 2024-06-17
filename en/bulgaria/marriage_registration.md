@@ -37,9 +37,10 @@ This process is needed by any couple, either both Bulgarians or with at least on
   
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Sofia Municipality      |  https://www.sofia.bg/en/home |      Varied      |        Varied       |
 
 ## Additional details
 - All documents must be newly issued, not older than six months.

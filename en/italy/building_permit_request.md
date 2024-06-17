@@ -39,11 +39,12 @@ Anyone planning to construct, extensively remodel, or alter the use of a propert
 - Payment of application fees.
 - Technical report from the architect, certifying that the project adheres to the municipal standards.
 
-## Providers that can do it for you 
+## Providers that can do it for you
 
-| Provider        |     Website                      |   Timelines     |    Cost  |
-| --------------- | -----------------          |   :----------:  |  :-----: |
-| Architect   |  Private Firm URL      |   Vary            |   Vary    |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that different municipalities may have specific additional requirements, so it is important to verify the exact procedure with your local administration. The timeline for obtaining a building permit in Italy can vary significantly depending on the complexity of the project and local bureaucracy, hence adequate planning is crucial to avoid possible delays in your construction timeline.

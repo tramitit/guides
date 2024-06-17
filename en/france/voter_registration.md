@@ -30,9 +30,10 @@ Every French citizen who is at least 18 years old on the day of the election and
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| French Government      |  [Service-Public.fr](https://www.service-public.fr/particuliers/vosdroits/R16396)       |      Before December 31 of the year preceding the election      |        Free       |
 
 ## Additional details
 Remember to take a valid piece of ID with you for voting. Also, note that European non-French residents can vote for the European elections and municipal elections if they're registered on the electoral lists. They need to show a valid residence permit.

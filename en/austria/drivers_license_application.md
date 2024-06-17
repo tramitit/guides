@@ -43,9 +43,10 @@ Please note that the process may vary for different classes of driver's license 
 
 ## Providers that can do it for you
 
-| Provider        |     Website               |     Timelines    |       Cost      |
-| --------------- | ----------------- |  :-------------: | :-------------: |
-| Certified Driving schools  |  Various         |  Approximately 2-3 months          |   Varies based on the provider      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - The waiting period for a driver's license in Austria is typically around 2 months.

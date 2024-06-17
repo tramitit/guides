@@ -35,9 +35,10 @@ Note: Any foreign documents submitted must be translated into Slovak by an offic
 
 ## Providers that can do it for you
 
-| Provider        |     Website               |     Timelines   |       Cost      |
-| --------------- | -----------------------   |  :------------: | :-------------: |
-| Registry Office |  [Link](http://www.minv.sk/?resortne-a-okresne-urady) |      Varies      |        Varies       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

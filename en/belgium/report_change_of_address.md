@@ -33,9 +33,10 @@ Any individual who has moved houses within their current city/town or to a new m
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Town Hall |  Not available  |      8 days      |        Free     |
 
 ## Additional details
 Do keep in mind that the process and regulations may differ slightly between various municipalities. When moving to a different town or city, ensure to de-register from the previous city/town administration. Finally, notifying change of address doesn't impact services like unemployment benefits but it's crucial to keep your address updated with these institutions for seamless communications.

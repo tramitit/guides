@@ -36,9 +36,10 @@ Typically, people who just got married in Poland or Polish citizens who married 
 
 ## Providers that can do it for you
 
-| Provider | Website | Timelines | Cost |
-| --- | --- | --- | --- |
-|Local Civil Registry Office| N/A | Up to 2 weeks | Varies |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - Non-Polish speaking individuals might need to hire an official translator as all documents must be in Polish.

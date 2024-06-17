@@ -33,9 +33,10 @@ This service is mandatory for anyone who has had a child, regardless of their na
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Registrar |  [Link to local Registrar's Website] |      Varies depending on location |    Typically free of charge |
 
 ## Additional details
 The process may vary slightly depending on your country and local area, particularly for immigrant families. Always check with the local registration office for up-to-date information. Ensure the child's name meets local regulations. Some countries have laws governing how a child can be named, so it's best to be familiar with those rules before finalizing your child's name.

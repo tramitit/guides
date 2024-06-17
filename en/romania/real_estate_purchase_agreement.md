@@ -39,9 +39,10 @@ Anyone planning to buy or sell real estate property in Romania.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Romania Property Lawyers      |  [https://www.romanianlawoffice.com](https://www.romanianlawoffice.com)       | to be confirmed     |  to be confirmed |
 
 ## Additional details
 

@@ -38,9 +38,10 @@ This guide is useful for domestic as well as international students looking to m
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Institution’s Registrar’s Office | Varies Depending upon the institution | Dependent on institution's deadlines | Varies Depending upon the institution's fee structure |
 
 ## Additional details
 - Credit transfer is subject to the syllabus and policy of the new institution. It's important to check this beforehand to ensure your hard-earned credits will not be lost.

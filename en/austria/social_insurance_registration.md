@@ -39,10 +39,10 @@ Please note that additional documents may be required depending on your national
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Gebietskrankenkasse (GKK)      |  [Link](https://www.sozialversicherung.at/cdscontent/?contentid=10007.670707&portal=oegkkportal)       |      Depends on individual cases      |        TBD       |
-|Sozialversicherungsanstalt der Selbständigen(SVA) |  [Link](https://www.sva.or.at/cdscontent/?contentid=10007.763672&portal=svaportal)|Depends on individual cases|  TBD  |
 
 ## Additional details
 The cost of social insurance is based on your income and employment status. Employers usually pay half of the insurance contributions. For self-employed individuals, contributions are calculated based on their income. 

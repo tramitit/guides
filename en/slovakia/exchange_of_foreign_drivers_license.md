@@ -36,9 +36,10 @@ Please note: the required documents can vary depending on the specific procedure
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Government Driver's License Department      |              | Depending on processing time | Varies by country |
 
 ## Additional details
 - Some countries might require you to take additional tests (written or driving) even if they have a reciprocal agreement with your home country.

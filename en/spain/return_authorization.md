@@ -33,10 +33,10 @@ To apply for a Return Authorization, you may need the following documents:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IKEA      |  [IKEA](https://www.ikea.com/)       |      365 days      |        Free if product is undamaged       |
-| Office Depot     |  [Office Depot](https://www.officedepot.com/)       |      90 days      |        Free if product is undamaged       |
 
 ## Additional details
 Remember that each company and retailer can set their own return policies and procedures. Due to this, the time limit and requirements for a return may differ. Make sure to know the return policy of the retailer before making a purchase.

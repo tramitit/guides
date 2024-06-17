@@ -34,9 +34,10 @@ Anyone intending to live and work in Slovakia not as a citizen or permanent resi
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Translations Worldwide      |  [Link](https://translationsworldwide.com)       |      5 days      |        $50       |
 
 ## Additional details
 - The entire process might take longer depending on the pace at which the Slovak embassy processes applications.

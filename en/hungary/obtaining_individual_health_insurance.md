@@ -36,10 +36,10 @@ The exact documents you require may vary, but usually include:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Allianz        |  [https://www.allianz.hu](https://www.allianz.hu/)       |      Varies      |        Varies       |
-| Cigna Global      |  [https://www.cignaglobal.com/](https://www.cignaglobal.com/)       |      Varies      |        Varies       |
 
 ## Additional details
 - Quotes for private health insurance premiums can often be obtained online.

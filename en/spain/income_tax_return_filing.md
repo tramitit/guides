@@ -43,10 +43,10 @@ Every resident in Spain who has earned income in the preceding year must file an
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Gestoría        |  [Gestoría Info](https://www.gestoria.es/) |   Up to 30 days |        Varies       |
-
 
 ## Additional details
 You have the right to change your tax return after filing it if you discover any errors or omissions. This can be done through an amendment tax return, also available on the tax agency portal. Be mindful of your country of residence's tax treaty with Spain to avoid double taxation, if applicable. You may also seek assistance from local tax professionals if you encounter difficulties in the process.

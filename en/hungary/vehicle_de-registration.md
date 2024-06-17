@@ -32,9 +32,10 @@ If you are moving out of the country, selling your vehicle, or no longer using y
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-|  District Office (Kormányablak)  |  [gov.hu](https://magyorszag.hu) |  Variable, can take several days      |  Varies based on vehicle type  |
 
 ## Additional details
 Please note, the timeline and costs are variable and depend on the specifics of your vehicle. After de-registration, you should not use the vehicle in public areas. Also, ensure to remove the car insurance after the de-registration is completed.

@@ -33,7 +33,11 @@ This procedure is required for anyone living in Poland who has recently moved an
 - Completed registration form
 
 ## Providers that can do it for you
-There is no third-party provider for this process as it is a government procedure that individuals must do personally.
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - It's necessary to complete this process each time you move.

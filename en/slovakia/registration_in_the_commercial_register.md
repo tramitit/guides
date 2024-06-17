@@ -38,9 +38,10 @@ The list of required documents can vary based on the type of legal entity. Howev
 
 ## Providers that can do it for you
 
-| Provider        |     Website                           |     Timelines       |       Cost         |
-| --------------- | ------------------------------------- |  :-------------:    | :-------------:    |
-| SLOV-LEX       |  https://www.slov-lex.sk/domov        |      5-10 days      |        Varies      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 The time period for the registration process can range between 5-10 days, but it can be extended if additional verification of the provided documents is required.

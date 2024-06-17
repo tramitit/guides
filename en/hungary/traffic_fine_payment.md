@@ -33,9 +33,10 @@ People who have violated traffic rules while driving in Hungary, specifically, r
 
 ## Providers that can do it for you
 
-| Provider            |     Website                        |     Timelines    |       Cost       |
-| ------------------- |  --------------------------------  |  :-------------: |  :-------------: |
-| Hungarian Public Road Non-Profit Ltd.| [https://en.nemzetiutdij.hu/](https://en.nemzetiutdij.hu/)   |      Immediate      | Varies depending on fine |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - You may also be able to pay your fine on the spot, depending on the type of offense. 

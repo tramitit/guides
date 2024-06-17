@@ -49,9 +49,10 @@ Non-EU citizens, including Americans who intend to reside, work or study in Ital
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Poste Italiane   |  [https://www.poste.it](https://www.poste.it)     | depend on available appointments     |       Fees vary depending on the reasons and duration of stay      |
 
 ## Additional details
 * The rules and regulations may vary with your nationality and personal circumstances. It is advised to check with the Italian embassy in your home country before travelling.

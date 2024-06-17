@@ -39,9 +39,10 @@ You will require:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Belgian Government      |  [https://diplomatie.belgium.be](https://diplomatie.belgium.be) |      Depends on processing time      |        Varies       |
 
 ## Additional details
 

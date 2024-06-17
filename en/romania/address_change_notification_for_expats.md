@@ -34,10 +34,10 @@ You may need documents such as:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
-| ----------- | ----------- |  :-------------: | :-------------: |
-| Your local embassy or consulate     |  https://{Embassy or Consulate Website}       |      Depends on embassy      |        Varies by country       |
-| Your bank     |  https://{Bank Website}       |      1 - 5 business days      |        May be free       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Using a Virtual Private Network (VPN) might be helpful if a service you need is restricted based on your location, such as certain online broadcasts or premium services. Please be mindful of any legal restrictions when using a VPN.

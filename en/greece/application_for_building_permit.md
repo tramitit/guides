@@ -36,9 +36,10 @@ The permit is generally required by builders, contractors, or homeowners plannin
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| City Hall       |  n/a            |      Varying     |        Varying  |
 
 ## Additional details 
 

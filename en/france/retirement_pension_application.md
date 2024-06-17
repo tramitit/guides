@@ -31,10 +31,10 @@ Anyone who has been working and living in France and is about to reach their ret
 - Bank account information
 
 ## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| France Pension Service      | [Website](https://www.lassuranceretraite.fr/portail-info/home.html)  | Depends on specific case | Free |
 
 ## Additional Details
 Retirement pensions in France are calculated based on the amount you have paid into the system and the number of years you have contributed. Be sure to thoroughly review your personal circumstances and plan accordingly to ensure receiving the maximum possible amount.

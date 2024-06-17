@@ -36,11 +36,11 @@ This is ideal for freelancers, entrepreneurs, or anyone looking to start their o
 - Business Bank Account Details
 - VAT Registration Document
 
-## Providers that Can Do It for You
+## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider 1      |  https//:       |      x days      |        $X       |
 
 ## Additional details
 

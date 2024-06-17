@@ -33,9 +33,10 @@ If you are based abroad and wish to request a birth certificate from Portugal, y
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-|   Birth Certificate Portugal |  [birthcertificate-portugal.com](https://www.birthcertificate-portugal.com) |       Varies   |        Varies |
 
 ## Additional details
 If needed for international use, the birth certificate must be legalized through Apostille. This certificate confirms the authenticity of the issued document. This process can be requested at the Civil Registry Office or through the Portuguese Ministério dos Negócios Estrangeiros (Ministry of Foreign Affairs).

@@ -36,10 +36,10 @@ Ideal applicants may include employees relocating for work, students pursuing sc
 
 ## Providers that can do it for you
 
-| Provider      |     Website     |     Timelines    |       Cost      |
-| ------------- | --------------- |  :-------------: | :-------------: |
-| KPMG Belgium  |  [KPMG](https://home.kpmg/be/en/home.html)       |       Varies based on specifics of each case         |        Varies based on case specifics      |
-| PwC Belgium   | [PwC](https://www.pwc.be/)  |      Varies based on case specifics      |        Varies based on case specifics      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 The process of obtaining a residence permit can be lengthy and requires many steps. There may be an official inspection of your residence, and often the permission isn't given before your visa expires. It is recommended to start the process as early as possible. For people who have already been living legally in Belgium for five years, they may apply for long-term resident status. Beyond this, they may be able to apply for Belgian nationality.

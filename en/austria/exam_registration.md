@@ -36,9 +36,10 @@ You might need the following documents while registering for an exam. Ensure to 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Goethe Institute      |  [Website](https://www.goethe.de)       |      Varies by exam      |        Variable per exam       |
 
 ## Additional details
 - Typically, the list of exam centers is provided during the registration process. Make sure to confirm if your preferred location is listed. If not, you might have to choose a different location or contact the exam provider for assistance.

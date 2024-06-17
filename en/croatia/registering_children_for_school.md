@@ -39,9 +39,10 @@ To acquire these documents, you will need to contact the relevant authorities or
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministry of Education and Science of the Republic of Croatia |  [www.mzo.hr](http://www.mzo.hr/)      |      Depends on the school year schedule      |      No information available     |
 
 ## Additional details
 

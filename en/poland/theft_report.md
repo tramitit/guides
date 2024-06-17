@@ -31,10 +31,10 @@ Any individual who has experienced theft in Poland, either as a victim or a witn
 
 ## Providers that can do it for you
 
-| Provider           |     Website                             |     Timelines    |       Cost      |
-| ------------------ | -------------------------------------- |  :-------------: | :-------------: |
-| Polish Police Road|  http://www.policja.pl/pol/english-version|  Immediate      |        Free      |
-| Your Bank       |  Bank-specific website                 |      Immediate     |        Free       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - Always remember to keep a copy of the theft report for your records.

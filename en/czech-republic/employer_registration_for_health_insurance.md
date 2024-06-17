@@ -35,9 +35,10 @@ This registration process is for businesses and employers in Czech Republic who 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| OSSZ Czech      |  [https://www.cssz.cz/](https://www.cssz.cz/)      |      Varies      |        Free service       |
 
 ## Additional details
 The Czech Republic's health insurance system is mandatory; thus, it's the employer's responsibility to register their employees not later than the 8th day from the day when the insurance begins.

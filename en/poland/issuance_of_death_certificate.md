@@ -33,9 +33,10 @@ Immediate family members, legal representatives, or anyone with a valid legal ne
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Registrar's Office      |  [website link] |      Typical processing time varies depending on the jurisdiction      |        Varies depending on the jurisdiction       |
 
 ## Additional details
 After death, a Polish ID card or any other identification documents must be handed over to the office where the death was registered. This is typically done by the funeral director if one is involved. It's important to ensure all information provided in applications and supporting documents is precise and correct to prevent any delays or complications in obtaining the death certificate. An incorrect or incomplete application can lead to rejection. Those outside the country can often make arrangements through their local Polish consulate.

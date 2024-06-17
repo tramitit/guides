@@ -38,9 +38,10 @@ The service is suitable for individuals who have recently become unemployed, thr
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Pôle emploi      |  [www.pole-emploi.fr](http://www.pole-emploi.fr/)       |   Depends on case complexity   |    Free    |
 
 ## Additional details
 

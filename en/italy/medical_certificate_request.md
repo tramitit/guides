@@ -32,10 +32,10 @@ Any individual planning to participate in an activity that requires proof of phy
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| General Practitioner (NHS) |  [NHS](https://www.nhs.uk/)       |      Varies      |        Free/Nominal Fee       |
-| Private Practitioner      |  Varies       |      Varies      |        Varies       |
 
 ## Additional details
 Keep in mind that the Medical Certificate must be specific to the activity you are about to undertake. For example, a certificate for cycling might not be valid for a marathon. Always consult with the organization requiring the certificate to ensure you obtain the proper certification.

@@ -41,10 +41,10 @@ This guide is intended for anyone planning to start a business in Poland, includ
 
 ## Providers that can do it for you
 
-| Provider                    |     Website                    |     Timelines    |       Cost      |
-| --------------------------- | -----------------------------  |  :-------------: | :-------------: |
-| Warsaw Business Journal     |  https://wbj.pl/               |      Varies      |        Varies   |
-| Polish Investment Agency    |  https://www.paih.gov.pl/      |      Varies      |        Varies   |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 While the process can be complex, taking the time to properly register your business is an important step. Regardless of the type of business you plan to start, following these steps will ensure that your business is legally recognized and operates within the framework of Polish law. It's also always a good idea to seek advice from legal professionals or business consultants experienced in Polish business law.

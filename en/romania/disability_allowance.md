@@ -33,9 +33,10 @@ If you have a disability which requires ongoing medical treatment or impedes you
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Government      |  https://www.anpiss.ro/   |      N/A      |        Free       |
 
 ## Additional details
 It's crucial to gather as much evidence as possible to support your claim. This includes medical records, letters from healthcare professionals, and even testimonials from people who can vouch for your situation. 

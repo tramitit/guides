@@ -31,11 +31,11 @@ Typically, you will need:
 - Proof of Employment: This could be your work contract or payslips.
 
 ## Providers that can do it for you
-Navigating the state pension system can be complex. The following providers offer services to assist with registration and management of your state pension:
 
-| Provider        |     Website      |      Timelines      |      Cost      |
-| :-------------: | :--------------: |    :-------------:  |   :----------: |
-| National Insurance   | [National Insurance](https://www.gov.uk/) |  30 days  |      Free       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Length of mandatory pension contribution varies depending on the country and specific retirement plans. Also, it's crucial to note that changing employment doesn't influence your state pension; your contributions are cumulative across all your years of work, regardless of how many employers you have had. You should ensure your contributions are accurately recorded, as mistakes could cost you in your pension payments.

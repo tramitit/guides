@@ -38,9 +38,10 @@ The exact documents needed will vary depending on personal circumstances, so it'
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provincial Government Office      |  (website varies by province)       |      Varies      |        Varies       |
 
 ## Additional details
 Your provincial government office will be able to provide more accurate time and cost estimates as they vary based on individual circumstances. It is important to note that acquiring proof of citizenship may be a complex process depending on your individual circumstances, so getting legal advice or assistance can be helpful.

@@ -41,9 +41,10 @@ These documents should be prepared with professional aid to avoid any errors or 
 
 ## Providers that can do it for you
 
-| Provider             |     Website                             |     Timelines    |       Cost      |
-| ---------------      | ---------------                         |  :-------------: | :-------------: |
-| German Architects    |  [LINK](http://www.bak.de/)             |      Variable    |        Variable |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

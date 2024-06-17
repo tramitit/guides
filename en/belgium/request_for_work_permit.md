@@ -40,10 +40,10 @@ Non-EU residents who wish to engage in any job or employment in Belgium.
 
 ## Providers that can do it for you
 
-| Provider        |     Website     |     Timelines    |       Cost                                                                 
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Fragomen        | [Website](https://www.fragomen.com/)  | According to each case  | Depending on each case |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

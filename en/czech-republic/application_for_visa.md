@@ -38,9 +38,10 @@ Non-EU citizens who are planning to visit, study, work, or permanently relocate 
    
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Czech Embassy      |  [https://www.mzv.cz](https://www.mzv.cz/jnp/en/index.html)       |     Varies depending on consulate      |        Varies depending on visa type       |
 
 ## Additional details
 The visa processing time varies depending on the type of visa applied for. It is advised to apply at least 15 days before the intended trip.

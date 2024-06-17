@@ -34,11 +34,10 @@ Please note, the process may vary depending upon the municipality.
 
 ## Providers that can do it for you
 
-Currently, the service for getting a criminal record extract can only be provided by the relevant municipality of Belgium.
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Municipality |  Not available|   Varies         |     Free     |
 
 ## Additional details
 

@@ -37,11 +37,10 @@ This guide can be of help to foreign students who wish to study in Italy or for 
 6. Additional requirements may be needed based on the specific school or university policy.
 
 ## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider                  |     Website                           |    Timelines       |       Cost      |
-| ------------------ | --------------------- | :-------------: | :-------------: |
-| University of Bologna   |  https://www.unibo.it/        |     Varies       |  Varies      |
-| Polytechnic University of Milan       |  https://www.polimi.it/ |      Varies     |      Varies    |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional Details
 The process of enrollment may vary from one educational institution to the other, but generally, the above guidelines apply. It's advisable to check the website of the specific school or university for more detailed information about their admission process and requirements. The deadlines for application submission are also set by the individual schools and universities, so it's important to verify these dates to ensure timely application.

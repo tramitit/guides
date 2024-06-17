@@ -34,11 +34,12 @@ Anyone who has received income within the tax year, and has tax due as stipulate
 4. Bank account statements.
 5. Health and social security documents.
 
-## Providers who can do it for you
+## Providers that can do it for you
 
-| Provider        |     Website                 |     Timelines    |       Cost      |
-| --------------- | -------------------------- | :-------------: | :-------------: |
-| Tax Advisors   |  http//:                    |      15-30 days  |        $100-$500|
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 There are penalties for late tax returns and tax payments, and these can be avoided by filing on time. However, there are also provisions for extension of deadline for those who hire a tax advisor.

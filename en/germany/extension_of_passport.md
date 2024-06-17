@@ -40,9 +40,10 @@ Any individual with an expiring passport who intends to engage in international 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| German Embassy or Consulate |  Visit the Embassy's website |  Variable, may take several weeks  |  Fees vary by country and type of passport |
 
 ## Additional details
 

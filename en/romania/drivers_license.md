@@ -33,9 +33,10 @@ Any individual who is of the legal driving age in Romania, that is, 18 years old
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| ABC Driving School  | www.ABCdrivingschool.ro |  About 3 months      |        Varies       |
 
 ## Additional details
 - Certain countries have equivalency agreements with Romania wherein your home country driver's license can be converted into a Romanian driver's license.

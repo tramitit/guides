@@ -39,9 +39,10 @@ Documents can vary depending on individual circumstances. For a complete list, c
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Immigration Lawyers of Germany|  https://www.germany-lawyer.de/| Varies | Depends on complexity|
 
 ## Additional details
 Note: Details can vary depending on your current permit, the city you live in, your job situation, and other personal circumstances. Always consult the Ausländerbehörde or an immigration lawyer if unsure about the specifics. It's important to know that holding a residence permit for other EU states does not entitle you to a settlement permit in Germany. You must be a resident in Germany to apply.

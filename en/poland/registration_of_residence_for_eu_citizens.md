@@ -35,10 +35,10 @@ This process is suitable for any EU citizen living and/or working in Poland.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-
-Currently, there are no known providers who can complete this process on your behalf. Registration of residence must be completed in person.
 
 ## Additional details
 

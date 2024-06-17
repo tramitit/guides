@@ -42,8 +42,10 @@ This process is applicable for everyone giving birth in the Czech Republic irres
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
-| Prague Registry Office      |  [Prague Registry Office](https://www.praha.eu/jnp/en/life_events/birth/index.html)      |      3-10 days      |        No fee       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

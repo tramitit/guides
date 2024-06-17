@@ -41,10 +41,11 @@ It's ideal for students who are in need of financial aid to afford the cost of t
 • Medical certificate
 
 ## Providers that can do it for you
-| Provider        |     Website                   |     Timelines        |       Cost      |
-| --------------- | ---------------------- |  :-------------:   | :-------------: |
-| Campus France | [campusfrance.org](https://www.campusfrance.org) |      Program Dependent  |        Varies       |
-| Erasmus+ Program |    [erasmusplus.fr](https://www.erasmusplus.fr)   |      Program Dependent  |        Varies       |
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Always remember that each scholarship program has its unique requirements and process. Therefore, carefully go through all the information on the scholarship's official page is critical. Make sure your application is submitted before the deadline. In addition to that, you should keep an eye on your mail for feedback about your application.

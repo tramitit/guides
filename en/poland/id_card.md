@@ -33,9 +33,10 @@ Any Polish citizen above the age of 18 is required to have an ID Card. Moreover,
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| City Council    |  [Yourcity.pl](http://www.yourcity.pl)  |  Up to 30 days  |  No Fee  |
 
 ## Additional details
 - Polish ID Cards have an expiry date, after which you must renew them.

@@ -32,9 +32,10 @@ Every working individual living in Germany, including international students and
 
 ## Providers that can do it for you
 
-| Provider           | Website                          | Timelines      | Cost   |
-| ------------------ | -------------------------------- | :------------: | :-----:|
-| German Health Insurance Company (Krankenkasse) | [www.gkv-spitzenverband.de](http://www.gkv-spitzenverband.de/) |  Varies (days to weeks)| Free of charge |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 The social security card (Sozialversicherungsausweis) should be kept safely. Do not worry if you lose it - your number is permanent. You can request a replacement card through the same procedure. Remember, everyone who is employed in Germany gets a unique life-long social security number in order to have access to social security, including health insurance, unemployment insurance, and pension fund.

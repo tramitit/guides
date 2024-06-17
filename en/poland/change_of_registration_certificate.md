@@ -35,9 +35,10 @@ The process is necessary for anyone living in Poland who has relocated within th
 
 ## Providers that can do it for you
 
-| Provider                   |     Website                    |     Timelines     |      Cost     |
-| -------------------------- | ------------------------------ |  :--------------: | :-----------: |
-| Gmina Office               |  Not applicable                |  Varies           |  Varies       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 The process can take a varying amount of time depending on the specifics of your case and the speed of your local gmina office. It’s recommended to ask for an estimated timeline during your visit. Also, fees can vary depending on the nature of your change. For example, a straightforward address change may cost less than a change due to significant vehicle alterations.

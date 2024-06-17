@@ -39,10 +39,10 @@ This service is typically needed by foreign nationals residing in a foreign coun
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Driver's License Bureau      |  [link](http://example.com)       |      Varies      |        Varies       |
-| Certified Translator (if needed)     |  [link](http://example.com)       |      Varies      |        Varies       |
 
 ## Additional details
 

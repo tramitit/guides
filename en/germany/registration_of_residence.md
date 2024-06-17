@@ -39,9 +39,10 @@ Any individual who plans to stay in Germany for more than just a few weeks. This
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| N/A             |  N/A            |      N/A         |        N/A      |
 
 ## Additional details
 

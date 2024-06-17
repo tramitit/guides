@@ -36,9 +36,11 @@ This guide is beneficial for any individual approaching retirement age in Hungar
 - Employment history records demonstrating the required contribution period. You can obtain these from your past/present employers and the [National Insurance Institute](https://onkormanyzat.munka.hu/Lapok/fooldal.aspx).
 
 ## Providers that can do it for you
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Hungarian Pension Consultancy |  https:Not available       | Depends on Individual Case      | Varies       |
 
 ## Additional details
 While submitting your application, inquire about the different types of pensions available (e.g. old-age pension, disability pension, etc.) and determine which is best suitable for your situation. As an expatriate, you may also want to explore tax implications and consult with a tax expert.

@@ -31,9 +31,10 @@ This certificate is often requested by employers when applying for certain jobs 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Bürgeramt       |  [https://www.berlin.de/buergeraemter/](https://www.berlin.de/buergeraemter/)      |      2 weeks   |   13€    |
 
 ## Additional details
 The Certificate of Conduct comes in two forms: "Belegart N' which goes directly to your address, and "Belegart O" which is sent to an authority such as your employer. For a job application, your employer might request a "Belegart O". It's good to know this information, so you apply for the right version based on your needs. 

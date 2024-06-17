@@ -37,10 +37,10 @@ The following documents might need to be procured:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministry of Justice  |  [http://www.justice.gov.sk/](http://www.justice.gov.sk/)      |      Varies      |        Varies       |
-
 
 ## Additional details
 The Ministries office hours are typically from Monday to Friday, you may want to check the website for exact times. Note that there will be a fee for this service, which can be checked on the website or calling the Ministry's contact number.

@@ -37,9 +37,10 @@ Expats who have moved to Croatia for work or other purposes and wish to drive le
 
 ## Providers that can do it for you
 
-| Provider                |     Website           | Timelines     |       Cost    |
-| --------------- | --------------- |:-------------:|:-------------:|
-| Croatian Police |  www.mup.hr    |      7-10 working days  |  Varies |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

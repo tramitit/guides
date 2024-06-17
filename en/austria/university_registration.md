@@ -48,10 +48,10 @@ This guide is ideal for international students looking to study in Austria and n
 
 ## Providers that can do it for you
 
-| Provider        |     Website                     |     Timelines                               |       Cost (estimated)         |
-| --------------- | ------------------------------- |:-------------:                              | :----------------------------: |
-| University of Vienna       |  [Univie.ac.at](https://www.univie.ac.at/en/)     | Application Process: Varies by program          | Tuition: €726.72 per semester   |
-| Technical University of Vienna | [Tuwien.ac.at](https://www.tuwien.at/en/) | Application Process: Varies by program | Tuition: €726.72 per semester |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - The cost of studying in Austria varies and would depend on the chosen university and program of study.

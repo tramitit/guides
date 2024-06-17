@@ -32,9 +32,10 @@ EU, EEA and Swiss citizens who are residing in Germany and wish to travel, study
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Bürgeramt      |  www.berlin.de/ba-charlottenburg-wilmersdorf/politik-und-verwaltung/aemter/ |      Depends on appointment availability      |        Usually free, may vary by region       |
 
 ## Additional details
 - This certificate does not expire as long as the holder continues to fulfill the requirements.

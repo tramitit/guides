@@ -45,9 +45,10 @@ Any foreign nationals who intend to live in a foreign country for a specified pe
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Immigration Office      |  Website link    |      Varies      |        Varies       |
 
 ## Additional details
 Before you submit your TRC application, make sure to review the entire document for any missing or incorrect information, as this could delay the processing of your application. 

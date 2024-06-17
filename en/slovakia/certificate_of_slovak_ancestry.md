@@ -40,9 +40,10 @@ Remember, it can be beneficial if these certificates are translated into Slovak.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Slovakia embassy/consulate      |  Varies depending on country       |      Subject to feedback from the embassy/consulate      |      Subject to fees imposed by the embassy or consulate  |
 
 ## Additional details
 Please note that acquiring the Certificate of Slovak ancestry does not automatically grant you citizenship. It merely confirms your Slovak heritage, which can be an important part of applying for Slovak citizenship by descent. Contact the Slovakia embassy or consulate for detailed information about applying for Slovak citizenship.

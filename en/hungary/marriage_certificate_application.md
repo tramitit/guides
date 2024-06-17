@@ -35,9 +35,10 @@ The process is aimed at individuals who are planning to get married in Hungary o
 
 ## Providers that can do it for you
 
-| Provider        |     Website           |     Timelines    |       Cost      |
-| --------------- | ------------------ |  :-------------: | :-------------: |
-| Local Registry Office | [https://www.gov.hu](https://www.gov.hu/) |      Variable      |        Variable       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Always check the latest requirements and regulations with your local registry office. Different offices might have slightly different requirements or procedures. Pre-approval might be needed before the marriage ceremony, and an appointment may be necessary for submitting applications at the office.

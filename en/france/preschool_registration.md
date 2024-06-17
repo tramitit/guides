@@ -39,10 +39,10 @@ You will need the following documents to process a preschool enrolment:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| French Public Schools      |  [education.gouv.fr](http://www.education.gouv.fr/)       |      Depending on school's deadlines      |        Usually free       |
-|Private Schools| Check specific school's website| Varies| Varies|
 
 ## Additional details
 The registration process, timelines and requirements may vary slightly from one school to another. It is therefore important to reach out to your chosen school well in advance to understand their specific procedures and requirements. Always keep copies of all the documents you submit for your records.

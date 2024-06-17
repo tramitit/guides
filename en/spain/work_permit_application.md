@@ -41,9 +41,10 @@ Any non-Spanish citizen who wants to legally work in Spain needs to apply for a 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Spanish Embassy/Consulate      |  [https://www.exteriores.gob.es](https://www.exteriores.gob.es/)       |      Varies      |        Varies       |
 
 ## Additional details
 

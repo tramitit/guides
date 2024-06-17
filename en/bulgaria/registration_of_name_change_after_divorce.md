@@ -38,9 +38,10 @@ These are general steps and may vary depending upon personal circumstances. It's
 
 ## Providers that can do it for you
 
-| Provider        |     Website    |     Timelines     |       Cost      |
-| --------------- | -------------- |  :-------------:  | :-------------: |
-| [Bulgarian Municipality](http://www.nsi.bg/nrnm/show9.php?id=141)      | http://www.nsi.bg       | Varies |  Fees apply  |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 The procedure to change a person's name in Bulgaria is regulated by laws. The process might take considerable time and it's advisable to ask for professional help if possible. Furthermore, updated documents are mandatory to reflect name changes in all official capacities and records.

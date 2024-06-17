@@ -39,9 +39,10 @@ Note: For applicants under the age of 18, additional documents such as consent f
 
 ## Providers that can do it for you
 
-| Provider           |     Website     |   Timelines    |     Cost    |
-| --------------    | --------------- |  :----------: | :---------: |
-| Prefecture de Police | [Prefecture de Police](http://www.prefecturedepolice.interieur.gouv.fr) | 4-6 weeks | Free |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

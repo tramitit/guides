@@ -36,9 +36,10 @@ All Austrian citizens above the age of 14 are required to carry an ID card or a 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Bürgeramt      |  Not available online       |      Approximately 2-6 weeks      |        €61.50       |
 
 ## Additional details
 The validity of Austrian ID cards:

@@ -49,9 +49,10 @@ Please note that the requirements may vary depending on the municipality.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Italian Municipality  | N/A  |  Approximately 6 weeks    |     €22.21    |
 
 ## Additional details
 

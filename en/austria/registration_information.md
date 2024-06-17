@@ -38,9 +38,10 @@ Links to official Austrian Government Website for more information:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Government |  [Meldeamt](https://www.wien.gv.at/verwaltung/meldeservice/)       |      Immediately      |        Free       |
 
 ## Additional details
 Please note that for some services you will need proof of registration (Meldezettel). It is therefore important to register your residing address within 3 days of moving in. Failure to do so can result in a fine up to 726 Euros ([referenced information source](https://www.reddit.com/r/Austria/comments/1cad9ix/didnt_register_in_austria/)).

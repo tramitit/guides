@@ -10,7 +10,6 @@ meta_title: 'Spain Digital Nomad Visa: Requirements, Process & Benefits'
 tags:
 - Foreigners
 title: 'Spain Digital Nomad Visa: Requirements, Process & Benefits'
-translationKey: spain-digital-nomad-visa
 ---
 
 
@@ -45,9 +44,10 @@ You would need the following documents:
 
 ## Providers that can do it for you
 
-| Provider                        | Website | Timelines | Cost |
-| ------------------------------- | ------- | :-------: | :--: |
-| Not applicable for this service |         |           |      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

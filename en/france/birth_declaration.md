@@ -34,9 +34,10 @@ You will need the following documents for the birth declaration:
   
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| N/A    |  N/A       |      N/A      |        N/A       |
 
 ## Additional details
 - If the fifth day after the birth is a Saturday, a Sunday, a holiday, or a day ordinarily nonworking, the period is extended until the first following working day.

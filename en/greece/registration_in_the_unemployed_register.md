@@ -34,9 +34,10 @@ The following documents are often required:
 
 ## Providers that can do it for you
 
-| Provider        |     Website          |     Timelines    |       Cost      |
-| --------------- |   ---------------    |   :-------------: | :-------------: |
-| OAED            |  [OAED](https://www.oaed.gr) |  1-3 business days  |     Free    |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Your registration in the Unemployed Register goes hand-in-hand with the Unemployment Card, which is issued by the OAED. It is important to note that registering as unemployed does not automatically mean you will receive unemployment benefits. These are subject to specific eligibility criteria, including your past work history and social insurance contributions.

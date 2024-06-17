@@ -47,9 +47,10 @@ You may obtain your work life report through the [social security website](http:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Instituto Nacional de la Seguridad Social – INSS      |  [website](http://www.seg-social.es/wps/portal/wss/internet/Inicio)       |      Varies      |        Free       |
 
 ## Additional details
 

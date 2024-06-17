@@ -36,10 +36,10 @@ This service is typically needed by individuals who want to change their surname
 
 ## Providers that can do it for you
 
-| Provider        |     Website                 |     Timelines    |       Cost      |
-| --------------- | --------------------------- |  :-------------: | :-------------: |
-| Trustlations    |  www.trustlations.com       |      7 days      |        $100       |
-| Name Change Application |  www.namechangeapplication.com | 30 days | $50 |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Each country has its own laws and procedures regarding name changes after marriage, so be sure to research the specifics for your own situation. 

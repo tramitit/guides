@@ -39,9 +39,10 @@ Note that all the documents required for a PR visa application must be translate
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider 1      |  https//:       |  Up to 6 months  |        Vary depending on the country      |
 
 ## Additional details
 Be aware that the exact process and requirements can vary widely between different countries. Therefore, the information provided here is general in nature and might not fully apply to your specific circumstances. You should consult with an immigration lawyer or the relevant authority in your target country to get the most accurate and updated information. Also, remember that it is essential to fully comply with all requirements and procedures to increase your chances for a successful application.

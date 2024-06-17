@@ -38,11 +38,11 @@ This service is crucial for individuals of Greek descent or individuals married 
 
 **Note:** The exact documents required can vary depending on factors like the applicant's age, marital status, legal status in Greece, education level, etc.
 
-## **Providers that can do it for you**
+## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider                 | Website                                | Timelines         | Cost             |
-|----------------|---------------------------------|-------------|-----------|
-| Greek Ministry of Interior | [Website](http://www.ypes.gr/) | Up to 12 months  | Varies |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## **Additional details**
 

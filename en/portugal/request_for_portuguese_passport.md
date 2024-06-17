@@ -32,9 +32,10 @@ Any citizen of Portugal who wishes to travel outside of Portugal and doesn't hav
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| SEF      |  [SEF Website](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=13)      |      5 business days for normal, 2 days for urgent, 1 day for super urgent     |        Costs vary based on urgency and age of applicant       |
 
 ## Additional details
 The applicant should keep in mind that timings can vary depending on the demand and regional differences. Second, the costs can vary - normal delivery for an adult is approximately 65 euros, urgent is 85 euros and super urgent is 95 euros. It's cheaper for children. Always double-check the current prices and requirements on the official SEF website.

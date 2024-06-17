@@ -35,9 +35,10 @@ This procedure is intended for all Italian citizens who are planning to travel a
 
 ## Providers that can do it for you
 
-| Provider        |     Website     | Timelines       | Cost            |
-| --------------- | --------------- | :-------------: | :-------------: |
-| Italian Questura | Your local website | Several weeks  | Varies depending on applicant's age and other factors |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 It's worth noting that Italy has moved on to issuing biometric passports, which come equipped with an embedded microchip containing your personal information such as biometric data, including fingerprints and facial details. These passports offer a higher level of protection against fraud and counterfeiting attempts.

@@ -35,9 +35,10 @@ Please note that exact requirements can vary so it's advisable to check with the
 
 ## Providers that can do it for you
 
-| Provider        |     Website              |     Timelines    |        Cost             |
-| --------------- | ---------------------- |  :-------------: | :-------------: |
-| NIF Online      |  [NIF Online](https://www.nifonline.pt)    |      1-2 days      |        Varies        |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - You must always state your NIF when requested in financial transactions.

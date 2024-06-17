@@ -35,9 +35,10 @@ Please note that the process and requirements may vary depending on the specific
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Labour Office    |  https://www.mpsv.cz/en/  |  30 days approx.    |   Free       |
 
 ## Additional details
 Before you apply for Parental Allowance, you need to make sure that you are eligible. The allowance is provided to parents who are not currently working, studying or absent from home due to other obligations, and who are taking care of their child full-time.

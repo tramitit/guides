@@ -43,9 +43,10 @@ Note: Please ensure that you have all original documents and their copies.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Croatian Tax Administration      |  [https://www.porezna-uprava.hr](https://www.porezna-uprava.hr/en/Pages/default.aspx)       |      2-3 weeks      |        No cost (service is free of charge)      |
 
 ## Additional details
 There is no direct online application process. Therefore, the only way to obtain an OIB is by visiting a tax office physically. The OIB remains valid for a lifetime, irrespective of changes in personal status, domicile, residency or citizenship.

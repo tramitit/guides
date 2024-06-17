@@ -30,10 +30,10 @@ This guide is ideal for individuals living in the Czech Republic who wish to cha
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-
-*Note: The table above is illustrative and actual timelines and costs may vary. Please check the insurance company's website for actual details.
 
 ## Additional details
 

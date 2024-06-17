@@ -34,9 +34,10 @@ Family members and relevant parties who need to process legal affairs (inheritan
 
 ## Providers that can do it for you
 
-| Provider            |     Website                |     Timelines    |       Cost           |
-| --------------- | ------------------- |  :-------------: | :-------------: |
-| IRN Portugal  |  [IRN](https://www.irn.justica.gov.pt/)  | Up to 10 working days | Varies on the type of request |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Remember, to obtain a death certificate in Portugal, it's crucial that the death was first reported and registered in this country.

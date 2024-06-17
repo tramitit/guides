@@ -36,10 +36,10 @@ It is ideally designed for students who require financial aid to cover their edu
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Federal Student Aid     |  [FAFSA](https://studentaid.gov/)       |      Varies      |        Depends on the type of loan       |
-| Sallie Mae      |  [SallieMae](https://www.salliemae.com/)       |      Varies      |        Depends on the type of loan       |
 
 ## Additional details
 - Interest rates can be fixed or variable and the rate usually depends on the credit history of the borrower or co-signer.

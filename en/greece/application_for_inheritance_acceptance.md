@@ -36,9 +36,10 @@ Individuals who have been named as heirs to an estate in Greece and wish to clai
 
 ## Providers that can do it for you
 
-| Provider        |                  Website                 |     Timelines    |       Cost      |
-| --------------- | ---------------------------------------- |  :-------------: | :-------------: |
-| Greek Law Group | [Greek Law](http://www.greeklawgroup.com)|      Varies      | Begins at $800  |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - Potential inheritors should be aware that they also inherit any debts the deceased may have had. If the debt exceeds the value of the estate, you can reject the inheritance.

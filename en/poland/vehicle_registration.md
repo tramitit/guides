@@ -35,9 +35,10 @@ Anyone who has recently purchased or imported a car, motorcycle, scooter etc. in
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| PZU SA         |  [https://www.pzu.pl](https://www.pzu.pl/)       |      1-3 days     |        Varies based on vehicle type, age        |
 
 ## Additional details
 Registration plates in Poland consist of two parts separated by a hyphen: the first part refers to the Powiat (County), and the second part is a unique number for your vehicle. Successful processing of your application will result in assignment of such plates.

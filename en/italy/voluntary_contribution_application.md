@@ -35,9 +35,10 @@ Any individual planning for retirement or who wants to ensure they have a suffic
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider 1      |  https//:       |     10 days      |        $0       |
 
 ## Additional details
 Voluntary contributions can potentially increase your overall pension entitlement but they're also subject to certain rules and regulations. Engaging early with a pension advisor or a similar expert can offer personalised advice considering your specific situation.

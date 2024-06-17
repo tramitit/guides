@@ -37,9 +37,10 @@ Any resident or citizen of Spain, including immigrants wanting to acquire offici
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Policia Nacional |  [https://www.politica.gob.es](https://www.politica.gob.es) |      Up to 30 days      |        Varies depending upon the locality       |
 
 ## Additional details
 The validity of the DNI is unlimited for adults, while minors must renew their DNI every 2 years until 5 years, then every 5 years until they come of age. Be aware that you might be asked to show your DNI by the police at any time. Note that it can take up to a month to finalize the process and receive your DNI. It is advisable to also apply for a Certificado Digital, which grants online access to a quantity of public services.

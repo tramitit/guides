@@ -37,9 +37,10 @@ Individuals planning to live, work, or study in a foreign country, particularly 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Example Gov Agency      |  http://www.example.gov      |     10-15 days      |        $30-$60 (varies by document type and state) |
 
 ## Additional details
 

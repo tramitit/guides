@@ -37,9 +37,10 @@ German citizens or individuals with German heritage who want to get a passport f
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| German Embassy/Consulate      |  [Link to Embassy/Consulate](https://www.auswaertiges-amt.de/en)       |   4-6 weeks      |  Around €80 for adults, less for minors       |
 
 ## Additional details
 - To speed up the process, ensure all documents are up to date, clear, and properly filled out.

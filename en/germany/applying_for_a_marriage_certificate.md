@@ -35,9 +35,10 @@ The documents needed to apply for a marriage certificate can vary depending on t
 
 ## Providers that can do it for you
 
-| Provider            | Website                                               | Timelines | Cost    |
-| ------------------- | ----------------------------------------------------- |:---------:| -------:|
-| German Mission      | [http://www.auswaertiges-amt.de](http://www.auswaertiges-amt.de)        | Varies   |  Varies |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Note that this process can take some time to complete, as the Standesamt will need to verify the legality of the foreign marriage. It is recommended to apply several months in advance of any deadlines. Also, note that some marriages performed outside of Germany may not be considered legally binding within the country. It is recommended to seek legal advice if you're unsure about the legality of your marriage.

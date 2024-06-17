@@ -33,9 +33,10 @@ Non-native individuals who have been living in Greece for a significant period (
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| KEP             |  https://www.kep.gov.gr/ |      Depends on individual case      |        Free       |
 
 ## Additional details
 * This process can take several weeks or even months, depending on the backlog of applications and the thoroughness of local authorities.

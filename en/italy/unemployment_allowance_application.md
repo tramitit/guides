@@ -31,9 +31,10 @@ Any individual who is not currently employed but is actively seeking work, and f
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| INPS      |  https://www.inps.it/      |      Varies     |        Free       |
 
 ## Additional details
 * Several types of unemployment benefits are offered based on potential different aspects of the individual's employment history.

@@ -38,9 +38,10 @@ Note: If parents are not Spanish citizens, additional documents may be required,
 
 ## Providers that can do it for you
 
-| Provider                  |     Website                                         |     Timelines    |       Cost      |
-| ------------------------- | --------------------------------------------------- |  :-------------: | :-------------: |
-| Registro Civil            |  [Link](https://www.mjusticia.gob.es/)              |      Varies      |        Free       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 It is recommended to register the birth as soon as possible after it occurs, ideally within the first week. If you cannot register the birth yourself, you can authorize a representative to do it on your behalf. The procedure is free of charge, but there may be related costs if you request additional copies or legalized versions of the birth certificate.

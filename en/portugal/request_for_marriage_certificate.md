@@ -37,9 +37,10 @@ Marriage certificates can be requested by the couple themselves, their direct de
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Civil Registry Online Portugal |  [Website](https://www.registro-civil.pt/) |      Typically, 10-14 days  |        Varies       |
 
 ## Additional details
 Exact fee and processing time may vary. For urgent cases, expedited service may be available for an additional fee. Please contact the civil registry or your service provider for the most current information.

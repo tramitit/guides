@@ -37,10 +37,10 @@ This service is crucial for anyone needing to obtain, renew, or update their ide
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Hungarian Immigration Department      |  [https://www.bmbah.hu/](https://www.bmbah.hu/)      |      Varies depending on the type of document      |        Varies depending on the document       |
-| VFS Global (Schengen Visa) | [https://www.vfsglobal.com/](https://www.vfsglobal.com/) | Varies depending on country of origin and type of visa | Varies by country and visa type |
 
 ## Additional details
 Kindly note that you should always check the official website of the respective provider for the most up-to-date information about document requirements, scheduling, and costs. Be prepared with all necessary documents before going for your appointment to ensure a smooth procedure.

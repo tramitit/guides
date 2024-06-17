@@ -42,9 +42,10 @@ Any non-European Union citizen who plans to stay in Germany for more than 90 day
 
 ## Providers that can do it for you
 
-| Provider                                    |          Website           |     Timelines    |       Cost       |
-| ------------------------------------------- | -------------------------- |   :-------------: | :-------------: |
-| Local Immigation Authority (Foreigners Office) |  N/A        |   1-2 months     | Varies (Usually a standard fee is charged) |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 While waiting for the residence permit, it's recommended not to leave Germany unless it's an unavoidable circumstance as it may raise issues during the process. The residence permit is not a physical document, but a sticker in one's passport. If your residence permit expires, the process and consequences can vary, therefore it is highly recommended to renew it on time. In some cases, people who have left Germany for over six months had to apply for a residence permit all over again. 

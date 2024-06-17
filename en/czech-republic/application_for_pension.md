@@ -37,9 +37,10 @@ Documents requirements may vary depending on the terms of your pension plan, but
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Pension Provider Specific to Individual      |  Specific to Individual       |      Varies by provider      |        Varies by provider       |
 
 ## Additional details
 1. The process and documents required can vary widely based on your specific pension plan and provider.

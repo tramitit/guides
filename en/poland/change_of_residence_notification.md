@@ -38,9 +38,10 @@ The service is mandatory for anyone currently living in Poland – whether Polis
 
 ## Providers that can do it for you
 
-| Provider        |     Website               |     Timelines    |       Cost      |
-| --------------- | ------------------ |  :-------------: | :-------------: |
-| City Office     |  Link varies as per city     |   Varies |   Usually Free    |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

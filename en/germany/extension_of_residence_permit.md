@@ -36,9 +36,10 @@ Any foreign national living in Germany who wishes to remain in the country beyon
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Foreigners Authority (Ausländerbehörde) |  [Ausländerbehörde](https://www.berlin.de/einwanderung/en/services/locations/)       |      Appointments should be made well in advance of expiry date     |  Varies depending on individual circumstances     |
 
 ## Additional details
 The processing time varies depending on the individual's situation and the workload of the Foreigners Authority. It is important to apply for an extension well in advance of the expiry date to ensure that you don't violate the terms of your existing residence permit.

@@ -37,9 +37,10 @@ The documents required for registration can vary depending on the procedures est
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| e-Government    |  [Your Country’s Official Website](#)       |      Immediate upon verification      |        Free       |
 
 ## Additional details
 Ensure to keep your login details secure to prevent unauthorized access. Remember to sign out after each session, especially when accessing the platform on public devices. Save copies of all transactions or submissions for future reference or potential needs.

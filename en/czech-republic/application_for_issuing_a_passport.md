@@ -37,9 +37,10 @@ All documents need to be original or officially certified copies. It's recommend
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Czech Ministry of Interior | [Interior Ministry](http://www.mvcr.cz) |    2-4 weeks    |        Varies       |
 
 ## Additional details
 Processing times can vary widely based on several factors including the location of application, the volume of applications, and the time of year. Note that processing times can be significantly longer during busy travel seasons. For the most current information, check the Interior Ministry's website regularly.

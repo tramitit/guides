@@ -33,9 +33,10 @@ These documents are typically asked for during the newborn registration procedur
 
 ## Providers that can do it for you
 
-| Provider        |     Website                     |     Timelines    |       Cost      |
-| --------------- | ------------------------------- |  :-------------: | :-------------: |
-| Croatian Registrar's Office |[Official Website](http://uprava.gov.hr/)| Up to a few days | Usually Free  |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Registration of a newborn must typically be done within a month of the child's birth. In the event that the parents do not manage to register the child's birth within the set timeframe, they may be subjected to a minimal fine. The process may slightly vary depending on your specific local authorities. Always reach out to your local registrar's office for the most accurate information.

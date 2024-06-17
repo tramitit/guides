@@ -42,9 +42,10 @@ This certificate is essential for those who need to settle an estate in Spain, p
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Spanish Ministry  or Justice      |  [https://www.mjusticia.gob.es](https://www.mjusticia.gob.es)      |   10 business days   |        Varies depending on the banking entity       |
 
 ## Additional details
 

@@ -35,12 +35,12 @@ Foreign Nationals living in Portugal whose resident card validity is coming to a
 - Document proving the legal situation (if applicable)
 
 ## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| SEF      |  [SEF website](http://www.sef.pt/)   |      Varies depending on case complexity     |        Varies depending on specificities       |
 
-Additional details
+## Additional details
 
 - For any discrepancies in your resident status or queries regarding the renewal process, you can contact SEF directly.
 - Ensure all documents are up-to-date, and if not, contact the appropriate authority to get them updated before proceeding for renewal.

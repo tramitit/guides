@@ -34,9 +34,10 @@ You may need to provide the following documents to verify your eligibility and s
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Municipal Department 50 (Austria) | [www.wien.gv.at](https://www.wien.gv.at/) |  Depends on the case |   No fee  |
 
 ## Additional details
 - Housing allowance is reviewed on a yearly basis. You need to reapply every year to continue receiving the benefits.

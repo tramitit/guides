@@ -43,10 +43,10 @@ Details on how to obtain these documents can usually be found on university/coll
 
 ## Providers that can do it for you
 
-|               |               |           |           |
-|---------------|---------------|-----------|-----------|
-| Provider      | Website       | Timelines | Cost      |
-| Government    | [State.gov](http://www.state.gov)   | Varies    | Free      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

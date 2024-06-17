@@ -37,9 +37,10 @@ Any individual in Austria who has lost their ID card or had it stolen should fol
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Municipal Offices|N/A   | Variable, check with your local office | Varies by location |
 
 ## Additional details
 Note that the ID card will not be issued immediately. Once you submit your application and pay the replacement fee, you may have to wait for a few days before you can pick up your new ID card. The exact waiting time can vary depending on the processing times of your local office.

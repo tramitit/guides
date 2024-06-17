@@ -30,9 +30,10 @@ Any tenant who wishes to transfer their lease to another person due to a change 
 
 ## Providers That Can Do It for You
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| None Available  |  None Available |  None Available  |  None Available |
 
 ## Additional details
 - According to the posts, it’s advisable to always keep a copy of the written communication between you and your landlord for reference.

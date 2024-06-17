@@ -42,9 +42,10 @@ Please note this is the general process, some variations may apply based on spec
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Hungarian Tax Authority      |  [nav.gov.hu](https://nav.gov.hu/)       |      Usually within 60 days      |        Varies based on property value       |  
 
 ## Additional details
 

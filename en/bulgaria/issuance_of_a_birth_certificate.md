@@ -35,9 +35,10 @@ Anyone born in Bulgaria who needs official proof of their birth details. It is m
 
 ## Providers that can do it for you
 
-| Provider          |     Website     |     Timelines |       Cost  |
-| --------------- |:-------------:| -------------:| -------------: |
-| Sofia Municipality | [http://www.sofia.bg/](http://www.sofia.bg/) | 7-14 days | Free of charge |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

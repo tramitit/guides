@@ -35,9 +35,10 @@ Any foreign resident who wants to live, work or start a business in Bulgaria, es
 
 ## Providers that can do it for you
 
-| Provider            |     Website                             | Timelines    |       Cost         |
-| ------------------- | -------------------------------------- | :----------: | :---------------: |
-| Bulgarian Consulate   | [bulgarian-consulate.com](http://www.bulgarian-consulate.com/) | Varies       |     Varies        |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that you must complete the procedure within 90 days of your entry into Bulgaria – otherwise, you may face penalties. Additionally, EU citizens have the right to apply for permanent residence after five years of continuous legal residency in Bulgaria.

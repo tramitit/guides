@@ -35,9 +35,10 @@ The ideal applicants for social scholarships in Slovakia are students (undergrad
 
 ## Providers that can do it for you
 
-| Provider        |     Website                  |     Timelines    |       Cost      |
-| --------------- | ---------------------------- |  :-------------: | :-------------: |
-| Ministry of Education, Science, Research and Sport of the Slovak Republic |  [edu.gov.sk](https://www.minedu.sk/)   |      Varies      |        Free       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - Scholarship amounts may vary depending on the assessment of the applicant's economic situation and the level of achievement.

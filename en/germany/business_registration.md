@@ -40,9 +40,10 @@ Individuals or entities looking to start or expand their entrepreneurial underta
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Brandenburg An Der Havel     |  [brandenburg.de](https://www.brandenburg.de/)   |      varies      |   varies     |
 
 ## Additional details
 

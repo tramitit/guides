@@ -37,9 +37,10 @@ Anyone who needs to provide evidence of their family status for various legal an
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Italian Municipalities     |  Various (each commune will have its own)      |      Varies      |        Varies       |
 
 ## Additional details
 - The exact procedure and cost can vary from one commune to another. It's advised to check the specific commune’s official website for the most accurate information.

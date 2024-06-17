@@ -31,7 +31,10 @@ The health card is essential for anyone residing in Spain, whether a citizen, pe
 
 ## Providers that can do it for you
 
-There are no third-party service providers for this procedure. You have to do it by yourself at your local Social Security office.
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - Healthcare in Spain is generally free for permanent residents. 

@@ -33,9 +33,10 @@ This service is ideal for families who may be particularly caught up with work, 
   
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Nanny Agency One|  www.nannyagency1.com |      2 weeks      |        Varies depending on requirement and service level chosen      |
 
 ## Additional details
 - It's important to treat the nanny search as you would any important job hiring decision.

@@ -34,10 +34,10 @@ Anyone who has lost their Croatian ID card and needs a replacement.
 2. Proof of Address (a utility bill or bank statement)
 
 ## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider        |               Website               |     Timelines    |       Cost      |
-| --------------- | ----------------------------------- |  :-------------: | :-------------: |
-| Croatian Police |  [https://www.mup.hr](https://www.mup.hr)       |      Variable - Depending on specific case     |        Variable - Depending on specific case      |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional Details
 - It is important to report a lost ID as soon as possible to prevent potential identity theft or fraud.

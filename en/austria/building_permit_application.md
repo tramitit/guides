@@ -42,9 +42,10 @@ The required documents may vary based on the nature of the construction or renov
 
 ## Providers that can do it for you
 
-| Provider        |     Website     |     Timelines    |       Cost      
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| ABC Real Estate Consultants |  https://www.abcrealestate.at       |      14-30 days      |        €200-€500       
 
 ## Additional details
 - If you're planning to buy a forest land in Austria intending to cut trees and build a house, you'll need an additional permit from the forestry Commission.

@@ -33,9 +33,10 @@ Primarily, new fathers who wish to take some time off work to bond with their ba
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Social Security      |  [https://sede.seg-social.gob.es](https://sede.seg-social.gob.es/wps/portal/sede/sede/Inicio)       |      Depends on individual case, usually processed within 1-3 weeks      |        No direct cost       |
 
 ## Additional details
 

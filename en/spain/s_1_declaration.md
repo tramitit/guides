@@ -10,7 +10,6 @@ meta_title: 'S-1 Declaration for Money Moved to Spain: Procedure & Documents'
 tags:
 - Foreigners
 title: 'S-1 Declaration for Money Moved to Spain: Procedure & Documents'
-translationKey: spain-s_1_form
 ---
 
 
@@ -41,9 +40,10 @@ Any individual who has moved money to Spain from another country, regardless of 
 
 ## Providers that can do it for you
 
-| Provider                                                                                        | Website | Timelines | Cost |
-| ----------------------------------------------------------------------------------------------- | ------- | :-------: | :--: |
-| (As this is a direct process by a government agency, a third-party provider is not applicable.) | N/A     |    N/A    | N/A  |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

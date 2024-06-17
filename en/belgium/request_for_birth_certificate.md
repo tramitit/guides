@@ -30,10 +30,10 @@ Anyone born in Belgium may need to provide a birth certificate for several reaso
 - Written authorization letter and a copy of your ID if you send another person.
 
 ## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider                |     Website                      |    Timelines     |       Cost      |
-| ------------------------| ---------------------------------| :-------------:  | :-------------: |
-| Belgian Municipalities  |  https://www.belgium.be/en       |    Varies        |       Varies     |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional Details
 If you need to use the birth certificate abroad, you might need to get it apostilled. An apostille makes a document recognizable in countries part of the Hague Convention by providing a seal that validates the signature on the document. You usually get an Apostille from the Ministry of Foreign Affairs. 

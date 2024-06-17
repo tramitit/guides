@@ -41,7 +41,10 @@ To verify the necessary documents, refer to the official website of the Ministry
 
 ## Providers that can do it for you
 
-Unfortunately, the registration of stay must be done personally.
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

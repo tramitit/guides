@@ -33,10 +33,10 @@ Any individual or family that is planning to move from their current residential
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| USPS (for USA)  |  [USPS](https://www.usps.com/manage/welcome.htm)       |      7-10 days      |       Free       |
-| Royal Mail (for UK)      |  [RoyalMail](https://www.royalmail.com/personal/receiving-mail/redirection)     |      Up to 3 weeks      |        £33.99 for 3 months       |
 
 ## Additional details
 Be sure to double-check and update your address with any delivery services, subscriptions, or online commerce platforms to ensure smooth delivery of orders and parcels to your new address.

@@ -37,11 +37,11 @@ The guide is essential for individuals intending to rent property in Romania suc
 - Document of property ownership (from the Landlord)
 - The drafted lease agreement 
 
-## Providers that can help you
+## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider        |     Website                  |     Timelines    |       Cost      |
-| --------------- | ---------------------------- | :-------------:  | :-------------: |
-| Lawyer/Advocate | [avocatnet.ro](https://www.avocatnet.ro/)      |  Variable      |    Variable    |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

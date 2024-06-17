@@ -38,10 +38,10 @@ The required documents might vary depending on the individual situation. However
 4. Any additional documents that support your reasons for a name change. 
 
 ## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Your local Standesamt(direct)   |  Not available. Contact in-person or over the phone.    | Subject to individual case complexity and the load of the registry office. | Varies depending on individual circumstances |
 
 ## Additional Details
 - The name change process may take several weeks to months, depending on the complexity of your case.

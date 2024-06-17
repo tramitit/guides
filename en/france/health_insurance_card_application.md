@@ -33,11 +33,10 @@ The service is required by all legal residents in France, Poland, and Ireland. N
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Caisse Primaire d'Assurance Maladie (CPAM) for France |  [Ameli](https://www.ameli.fr/) |      2-3 weeks      |        Free       |
-| Health Service Executive (HSE) for Ireland | [HSE](https://www2.hse.ie/) | 2-3 weeks | Free |
-| NFZ for Poland | [NFZ](http://www.nfz.gov.pl/) | 2-3 weeks | Free |
 
 ## Additional details
 - For France, a temporary certificate can be given to you while waiting for your card.

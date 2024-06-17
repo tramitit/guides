@@ -34,9 +34,10 @@ Any passport holder needing to extend its validity.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| French Government      |  [https://www.service-public.fr](https://www.service-public.fr/)      |      varies      |        varies       |
 
 ## Additional details
 - Passport renewal fees will depend on the type of passport (biometric or not, adults or children, etc.)

@@ -37,9 +37,10 @@ It is primarily required by Polish citizens who are planning to travel abroad.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Polish Government  |  https://www.gov.pl/ (may need to use a translation tool)   |      Varies      |        Varies       |
 
 ## Additional details
 - You must be a Polish citizen to apply for a Polish Passport.

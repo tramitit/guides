@@ -37,9 +37,10 @@ Please note, all the documents must be in Polish or accompanied by a certified t
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Urban Planning Arch    |  [Website](https://urbanplanarch.com)      |      30-60 days    |        Varies depending on project complexity       |
 
 ## Additional details
 - It is essential to strictly abide by the approved building project during construction. Any deviations could result in penalties or revocation of the building permit.

@@ -38,9 +38,10 @@ This guide is designed for international students aiming to pursue higher educat
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Campus France   |  [Campus France](http://www.usa.campusfrance.org/)  |   Varies per University  |  Varies per University  |
 
 ## Additional details
 - European students are not required to pay tuition fee for French public universities.

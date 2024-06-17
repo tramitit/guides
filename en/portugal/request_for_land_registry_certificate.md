@@ -36,11 +36,12 @@ Anyone purchasing, renting or managing property in Portugal. It’s especially i
 
 Primarily, the property’s ‘Código de Acesso à Certidão Permanente’ is required. It’s a unique code given to every registered real estate property in Portugal.
 
-## Providers who can do it for you
+## Providers that can do it for you
 
-| Provider        |     Website                                      |     Timelines           |       Cost             |
-| --------------- | ---------------                                  |  :-------------:        | :-------------:        |
-| Predial Online  |  [Link](https://www.predialonline.pt/PredialOnline/) |      Instant online access |        15€            |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Remember, the Certidão Predial Permanente is only valid for six months. You need to renew it if you require up-to-date information after this period.

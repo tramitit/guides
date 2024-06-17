@@ -33,10 +33,10 @@ Anyone living in Bulgaria, especially expatriates, foreign students, digital nom
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| DZI Insurance   |  [DZI Insurance](https://www.dzi.bg/)      |      Flexible; Depends on the chosen package      |        Variable; Depends on the chosen package       |
-| UNIQA | [UNIQA](https://www.uniqa.bg/) | Flexible; Depends on the chosen package |  Variable; Depends on the chosen package |
 
 ## Additional details
 - The full insurance package usually includes outpatient care, inpatient care (hospitalization), dental care, and emergency medical transportation.

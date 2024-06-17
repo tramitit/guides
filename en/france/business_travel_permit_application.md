@@ -39,11 +39,11 @@ People who may need a business travel permit are those whose work necessitates f
 - Business invitation letter (if invited from outside), stating the purpose of the visit
 - Completed application form
 
-## Providers which can handle this for you
+## Providers which can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| VisaHQ      |  [visaHQ](https://www.visahq.com/)       |      Varies      |        Varies       |
 
 ## Additional details
 The processing timeline for business travel permits varies from one country to another, and sometimes even within different embassies of the same country. It is best to apply well ahead of your planned travel date. The permit does not guarantee entry into the country, as the final decision rests with immigration officials at your point of entry. Always ensure to abide by all the laws, regulations, and cultural sensitivities of your host country.

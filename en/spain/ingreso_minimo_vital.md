@@ -11,7 +11,6 @@ meta_title: 'Ingreso Mínimo Vital in Spain: Requirements & Application Process'
 tags:
 - Social Security
 title: 'Ingreso Mínimo Vital in Spain: Requirements & Application Process'
-translationKey: spain-ingreso-minimo-vital
 ---
 
 
@@ -41,9 +40,10 @@ Individuals and families living in Spain who are in a situation of economic vuln
 
 ## Providers that can do it for you
 
-| Provider                         | Website                                     | Timelines | Cost |
-| -------------------------------- | ------------------------------------------- | :-------: | :--: |
-| Social Security Treasury General | [seg-social.es](https://www.seg-social.es/) |    N/A    | Free |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

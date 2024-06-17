@@ -34,9 +34,10 @@ Anyone who intends to operate a motorized vehicle, be it for personal or profess
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IMT            |  [https://www.imt-ip.pt](https://www.imt-ip.pt)   |      Variable      |        Varies depending on the category       |
 
 ## Additional details
 You must be at least 18 years old to request a driving license. Individuals who fail their driving test may need to wait before they can retake it. The waiting period depends on the specific requirements set out by the traffic regulatory authorities.

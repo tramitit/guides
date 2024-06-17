@@ -51,10 +51,10 @@ For a Hungarian Emergency Travel Document:
 
 ## Providers that can do it for you
 
-| Provider            |     Website                                         |     Timelines    |       Cost      |
-| ---------           | -------------------                                 |  :-------------: | :-------------: |
-| Slovakian Embassy   |  [Link](https://www.mzv.sk/web/en)                  |      Varies      |        Varies        |
-| Hungarian Embassy   | [Link](http://kum.hu/balatonkenese/en/index.php)    |      Varies      |        NA        |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

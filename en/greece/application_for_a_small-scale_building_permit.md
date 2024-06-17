@@ -36,9 +36,10 @@ Please note that the required documents may vary depending on the local regulati
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-|  Local Building Department |  (Supplier's website URL) | Usually, a few weeks to months | Varies based on city/county |
 
 ## Additional details
 

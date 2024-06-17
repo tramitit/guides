@@ -33,9 +33,10 @@ Whether you are an international person planning to stay in France for a long pe
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| ANTS      |  [ANTS](https://permisdeconduire.ants.gouv.fr/)       |      Variable      |        Variable       |
 
 ## Additional details
 - If your foreign driving license is not in French, it is required to be translated by a certified translator.

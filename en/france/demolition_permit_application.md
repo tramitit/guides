@@ -37,9 +37,10 @@ Anyone planning to demolish an existing residential or commercial building in Fr
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| City Hall Paris | [City hall website](http://www.paris.fr)       |      Dependant on the review      |        Depending on project size       |
 
 ## Additional details
 * Certain zones or buildings may have additional restrictions or requirements, such as historical buildings or buildings located in agricultural zones.

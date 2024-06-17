@@ -41,9 +41,10 @@ Any citizen or individual of Polish origin who does not currently hold their ori
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider 1      |  https//:       |      Approx. 2-4 weeks; may vary depending on specific circumstances      |        Varies; depending on the specific fee set by the local registry office       |
 
 ## Additional details
 The application process can often be expedited if you apply directly at the registry office in person. However, you may also send someone on your behalf with a notarized power of attorney document.

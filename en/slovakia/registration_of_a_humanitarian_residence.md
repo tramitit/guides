@@ -33,9 +33,10 @@ People who are facing extreme hardship, danger, or persecution in their home cou
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Norwegian Directorate of Immigration      |  [https://www.udi.no](https://www.udi.no/)      |  Varies      |   Varies      |
 
 ## Additional details
 While some countries, like Norway, require a visa to seek asylum, others like Slovakia, do not require a visa for the registration process. However, note that each country has their own process and requirements for granting humanitarian residence. 

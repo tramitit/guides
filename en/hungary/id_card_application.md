@@ -36,9 +36,10 @@ Please note: all the documents might vary based on the rules of the issuing body
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Town Hall |  Not available  |  Approx. 2 weeks |    May vary     |
 
 ## Additional details
 Always ensure safeguarding personal data. Avoid sharing personal details or copies of ID card, passport or other personal documents on platforms like Airbnb to avoid potential misuse.

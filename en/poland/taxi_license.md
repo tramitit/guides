@@ -33,9 +33,10 @@ This service is ideal for individuals who want to work as a taxi driver in Polan
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| TODO      |  https//:       |      x days      |        $X       |
 
 ## Additional details
 - Uber is also available in Poland if you prefer a ridesharing alternative. However, Uber drivers should also consider obtaining a taxi license due to local regulations. 

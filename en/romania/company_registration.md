@@ -42,9 +42,10 @@ All these documents must be original, valid, and certified by the appropriate au
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Company Incorporation in Romania |  https://www.companyincorporationromania.com/ |      Not provided      |        Not provided       |
 
 ## Additional details
 - The exact requirements may vary by the jurisdiction and the specific type of company you want to establish.

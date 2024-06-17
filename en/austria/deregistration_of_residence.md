@@ -32,10 +32,10 @@ Foreign nationals residing in the countries mentioned, including students, worke
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Bürgeramt (Germany)      |  [https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeramt/](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeramt/)       |      Within a week      |        Free       |
-| Meldeamt (Austria)      |  [https://www.wien.gv.at/pdfs/meldeamt.pdf](https://www.wien.gv.at/pdfs/meldeamt.pdf)      |      Within a week      |        Free       |
 
 ## Additional details
 In Germany, it might be possible to deregister from one place and register at the new place at the same time if you are moving within the same city. 

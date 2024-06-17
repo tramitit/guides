@@ -34,9 +34,10 @@ This service is needed by anyone who has sold their car to another individual, o
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IMT Portugal    | [IMT Online](https://servicos.imt-ip.pt/)  |      10-15 days |        Varies based on car   |
 
 ## Additional details
 - There may be penalties if you do not complete the change of ownership procedure swiftly after the sale of the vehicle.

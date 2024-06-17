@@ -37,9 +37,10 @@ Anyone who generates income or earns fees, especially those who are involved in 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Example Provider|  www.example.com|      10 days     |      $50-$100  |
 
 ## Additional details
 Depending on your location, certain taxes, like VAT in the EU, require separate procedures for declaration and payment. Make sure to research thoroughly on the specific tax requirements in your locality. Note that non-compliance of such laws can result in penalties or fines. Also, tax laws can change annually so it is crucial to stay updated on any changes in tax legislation in your country.

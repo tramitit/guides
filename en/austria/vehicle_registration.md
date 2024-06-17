@@ -38,11 +38,10 @@ Please note that the exact order of steps may vary depending on the specific loc
 
 ## Providers that can do it for you
 
-| Provider       |        Website            |     Timelines    |       Cost         |
-| -------------- | ------------------------ |  :-------------: | :-------------: |
-| ASFINAG       | [www.asfinag.at](https://www.asfinag.at/)     |      Variable |         Variable   |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-Please note that the cost will vary depending on your vehicle type, modifications, and other specific circumstances.
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Registering a modified vehicle may require additional steps or checks to ensure the vehicle is safe and complies with local laws. Annual taxes may apply depending on the vehicle. For temporary registration, temporary plates may be available. Contact local authorities for the most accurate and up-to-date information.

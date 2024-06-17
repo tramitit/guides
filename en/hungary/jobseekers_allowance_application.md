@@ -37,9 +37,10 @@ This service is ideal for people who are currently unemployed, are actively look
 
 ## Providers that can do it for you
 
-| Provider           |     Website                    |     Timelines    |       Cost      |
-| -----------------  | ------------------------------ |  :-------------: | :-------------: |
-| Jobcentre Plus     |  [website](https://www.gov.uk) |      14 days     |        free     |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Make sure to report to the job centre any time you travel outside the country as this can affect your allowance. If you have any changes in your circumstances, it is vital to notify these to Jobcentre Plus immediately to prevent any issues with your payments.

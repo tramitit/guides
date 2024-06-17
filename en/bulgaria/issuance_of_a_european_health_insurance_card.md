@@ -34,9 +34,10 @@ Proof of Address - This could be a utility bill, a bank statement, or any offici
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| NHIF      |  [www.nhif.bg](http://www.nhif.bg)      |      Depends on the situation     |        Free       |
 
 ## Additional details
 The EHIC is not an alternative to travel insurance; it does not cover private healthcare or return flights should you become seriously ill or injured abroad. It is essential to have both an EHIC and a valid private travel insurance policy covering health care in place before you travel.

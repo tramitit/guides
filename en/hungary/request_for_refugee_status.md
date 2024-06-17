@@ -38,9 +38,10 @@ Any individual or group of individuals who face severe threats, persecution, and
 
 ## Providers that can do it for you
 
-| Provider        |     Website                  |     Timelines    |       Cost                     |
-| --------------- | ---------------              |  :-------------: | :-------------:                |
-| UNHCR           |  [UNHCR](https://www.unhcr.org) |      Varies      |        Free/NGO-sponsored      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Each case is unique and the time to receive a decision varies widely, therefore it is crucial to maintain communication with your caseworker. If your application is denied, you generally have the right to appeal. You must navigate the process carefully, considering each step’s significance and potentially seeking legal assistance.

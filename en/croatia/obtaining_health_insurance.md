@@ -38,9 +38,10 @@ Please note, some documents may vary as per requirements of health insurance pro
 
 ## Providers that can do it for you
 
-| Provider                                                 |      Website                          | Timelines    |     Cost      |
-| -------------------------------------------------------- | ------------------------------------- | :----------: | :-----------: |
-| Croatian Health Insurance Fund (HZZO)                    |  [Link](http://www.hzzo.hr/)          | N/A          | Varies |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Ensure that your health insurance is always active, and it covers your needs, especially when in need of medical attention or hospitalization. Some pharmacies may decline service if your health insurance is not valid, while hospital costs without insurance can be notably high.

@@ -36,9 +36,10 @@ The documentation needed for tax declaration may include:
 
 ## Providers that can do it for you
 
-| Provider        |       Website      |    Timelines    |        Cost       |
-| --------------- | --------------------| ------------: | ----------------: |
-| Example Tax Agency      | https://www.example.com        |   Dependent on case specifics       | Varies according to service provided |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 If the process of paying taxes in the Czech Republic is too complex, consider hiring a tax advisor. They can ensure that you're correctly following the law and that you're taking advantage of any potential tax breaks. Various online providers can help you file your taxes, potentially simplifying the process.

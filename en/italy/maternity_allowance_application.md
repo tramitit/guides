@@ -36,9 +36,10 @@ These documents should be presented in their original form. All necessary docume
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Italian Social Security (INPS)     |  www.inps.it       |      Generally processed within 4 weeks     |        Free       |
 
 ## Additional details
 - The amount of the Maternity Allowance will depend on your specific circumstances, including income or job type.

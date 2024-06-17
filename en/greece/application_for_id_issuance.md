@@ -46,12 +46,12 @@ The ID card application procedure is necessary for all Greek residents needing a
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Police Station      |  Not applicable       |    Varies      |        Varies       |
-| Citizen Service Center (KEP)      |  https://www.kep.gov.gr/       |     Varies       |        Varies       |
 
-   ## Additional details
+## Additional details
    - In Greece, ID cards are important and required for various purposes like opening a bank account or accessing health services. Ensure it's kept safe and in good condition.
    - Always carry your ID with you while in Greece, as you can be asked for identification by authorities at any time.
    - If you lose your ID or it gets stolen, ensure you report this immediately to the local police.

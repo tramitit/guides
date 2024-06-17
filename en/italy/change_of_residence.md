@@ -35,11 +35,10 @@ Any individual planning to move to a new location, especially international move
 
 ## Providers that can do it for you
 
-| Provider      |     Website     |     Timelines    |       Cost      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Revolut      |  [Revolut Help](https://www.revolut.com/help)       |      Dependent on individual case      |        Variable (Based on services and card delivery)      |
-| N26 | [N26 Help Center](https://support.n26.com/en-eu/account-and-personal-details/personal-information/update-my-personal-information) | Dependent on individual case | Variable (Based on services and card delivery) |
-| Coinbase | [Coinbase Support](https://help.coinbase.com/) | Dependent on individual case | No charges for change in address |
 
 ## Additional details
 Remember to update your address with all different public and private institutions, including but not limited to financial institutions, utility providers, citizenship offices etc. This would ensure a smoother transition and prevent potential bureaucratic issues. Your bank will specifically need proof of address, so keep those documents handy.

@@ -36,9 +36,10 @@ This guide is essential for any non-EU individual who has secured a job in Franc
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| French Ministry of Labour      |  [Link](http://travail-emploi.gouv.fr/)     |     Varies depending on specific situation    |        Varies based on job contract       |
 
 ## Additional details
 Processing times vary, so it's advisable to plan and start the procedure well in advance of your intended start date. Additionally, having at least a basic understanding of French would greatly aid your transition.

@@ -32,9 +32,10 @@ Any individual fearing persecution or harm in their home country due to factors 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| French Office for the Protection of Refugees and Stateless Persons (OFPRA)      |  [https://www.ofpra.gouv.fr/](https://www.ofpra.gouv.fr/)       |      Variable, depending on case complexity/ sensitivity      |        The asylum application process is free of charge       |
 
 ## Additional details
 Seek legal advice from organisations providing support to asylum seekers in France. The CNDA and OFPRA provide legal advice free of charge. Be patient, as it may take some time for the French authorities to make a decision about your application. Stay connected with the authorities and inform them about any changes to your situation.

@@ -40,9 +40,10 @@ This is specifically designed for International Students seeking to study in Aus
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Various Universities    |  Various       |      Varies according to the University      |        Varies depending on the University      |
 
 ## Additional details
 - Application process varies from university to university and course to course.

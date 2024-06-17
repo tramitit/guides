@@ -33,9 +33,11 @@ Below are the documents usually required when requesting a marriage certificate;
 4. Apostille for the marriage certificate (especially if it's foreign) - You can request for an Apostille from a competent authority in the country where the document was issued.
 
 ## Providers that can do it for you
-| Provider        |     Website                                   |     Timelines    |       Cost          |
-| --------------- | --------------------------------------- |  :-------------: | :-------------: |
-| Belgium Gov     |  [Belgium.be](https://www.belgium.be/)  |      Varies       |        Varies      |
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Remember to cross-check with the local authorities or related government website for the most updated information as regulations can change. Also, note that it's necessary for your marriage certificate to be recognized in the country where you got married and also in Belgium.

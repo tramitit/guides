@@ -11,7 +11,6 @@ meta_title: 'Empadronamiento in Spain: Registration Process and Requirements'
 tags:
 - Local
 title: 'Empadronamiento in Spain: Registration Process and Requirements'
-translationKey: spain-empadronamiento
 ---
 
 
@@ -42,11 +41,10 @@ Here are the required documents depending on different scenarios:
 
 ## Providers that can do it for you
 
-The following is a list of providers who can guide you in the process:
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider           | Website                                        | Timelines |   Cost   |
-| ------------------ | ---------------------------------------------- | :-------: | :------: |
-| Don Spanish School | [Don Spanish](https://www.donspanish.academy/) | Variable  | Variable |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

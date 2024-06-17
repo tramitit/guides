@@ -35,9 +35,10 @@ For certificates to be recognized outside of Romania, you may need them apostill
 
 ## Providers that can do it for you
 
-| Provider        |     Website                                 |     Timelines    |       Cost      |
-| --------------- | ----------------------------------|  :-------------: | :-------------: |
-| Romanian City Hall |  N/A (Visit in-person)       |      Immediate (upon marriage)      |        No charge       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 When a Romanian citizen marries a foreigner, the marriage certificate needs to be transcribed to the Romanian authorities. The transcript of the marriage certificate happens at the city halls in Romania or at the Romanian Consular offices abroad.

@@ -36,10 +36,10 @@ Please check the official [Social Security](https://www.ameli.fr/) website for t
 
 ## Providers that can do it for you
 
-| Provider      |     Website     |     Timelines    |        Cost       |
-| ------------  | --------------- |  :-------------: |  :-------------:  |
-| CAF           |  [Website](https://www.caf.fr/)       |      1-3 months      |        Free       |
-| Ameli     |  [Website](https://www.ameli.fr/)     |      1-3 months      |        Free       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Please remember that the procedure takes time, and it's normal for it to take up to several months, especially during peak times. If you haven't heard back in a while, try to get in touch with them directly. It can be a long process, but once you're registered, it's much easier to manage your healthcare and benefits in France.

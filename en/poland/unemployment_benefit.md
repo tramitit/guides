@@ -32,9 +32,10 @@ This service is essential for anyone who has lost their job and is currently loo
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Powiatowy Urząd Pracy (PUP) | [PUP](https://www.pup.gov.pl/) | Variable, dependent on individual case | Free of Charge | 
 
 ## Additional details
 - It's important to note that the amount of unemployment benefit you are eligible to receive depends on your previous earnings.

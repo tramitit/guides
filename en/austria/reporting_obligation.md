@@ -31,9 +31,10 @@ Every person in Austria including citizens, expats, and students are required to
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| N/A             |  N/A            |      N/A         |        N/A      |
 
 ## Additional details
 - After successful registration, a confirmation (Meldebestätigung) will be issued. 

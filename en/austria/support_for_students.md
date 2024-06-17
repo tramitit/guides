@@ -35,10 +35,10 @@ Depending on the purpose, you may need the following documents:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| University      |  [university_website](#)    |      Depends on university schedule    |        Tuition varies      |
-| Job portals      |  [job_portal_website](#)       |      Ongoing      |        Free to a certain extent      |
 
 ## Additional details
 - Vienna can be quite an expensive city. Therefore, plan your budget carefully to avoid running into financial problems.

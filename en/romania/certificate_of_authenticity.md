@@ -32,9 +32,10 @@ Depending on your item and the expert you choose, you may need:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider 1      |  https//:       |      x days      |        $X       |
 
 ## Additional details
 The cost and timeline of this process can vary greatly depending on the type of item and the provider you choose. In some cases, the provider can issue the certificate on the spot, while in others, they may need more time to thoroughly evaluate the item. It is always best to contact the provider in advance to get a clear understanding of the process, cost, and timeline.

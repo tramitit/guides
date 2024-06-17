@@ -30,9 +30,10 @@ Individuals planning to move to another country or switching to a different heal
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider 1      |  https//:       |      x days      |        $X       |
 
 ## Additional details
 Remember to tackle this process well before your planned date of relocation or switch to ensure a smooth transition. Also, keep a close eye on your former provider's communications regarding confirmation of your deregistration. Given the sensitive nature of health insurance, any lapse or unexpected continuation in coverage can potentially lead to stressful and costly situations. Always make sure that your new health coverage is in place before terminating the old one, when you are switching plans. 

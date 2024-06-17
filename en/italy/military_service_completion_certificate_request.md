@@ -34,10 +34,10 @@ Primarily, those researching their family's history and individuals applying for
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| My Italian Family |  https://www.myitalianfamily.com/ |    4-6 weeks    |  $75-$300 |
-| German Citizenship Services | https://germancitizenships.com/ | 6-9 months |   $2500+   |
 
 ## Additional details
 For Italy, if you're unsure which military district is relevant, you can request information from all of the districts by addressing your request to the "Ufficio Leva" at the Ministry of Defense in Rome. 

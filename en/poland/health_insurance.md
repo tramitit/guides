@@ -34,11 +34,10 @@ Everyone living in Poland, including both Polish residents and expats, needs hea
 
 ## Providers that can do it for you
 
-| Provider        |     Website                             |     Timelines    |       Cost      |
-| --------------- | --------------------------------- |  :-------------: | :-------------: |
-| NFZ                |  [https://www.nfz.gov.pl/](https://www.nfz.gov.pl/) |      Varies      |        Varies       |
-| Luxmed          |  [https://www.luxmed.pl/](https://www.luxmed.pl/)   |      Varies      |        Varies       |
-| Medicover      |  [https://www.medicover.pl/](https://www.medicover.pl/)   |      Varies      |        Varies       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - Private health insurances like Luxmed and Medicover offer different types of packages to suit different individual needs. You can choose one depending upon your requirements and budget.

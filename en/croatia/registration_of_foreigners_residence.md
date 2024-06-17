@@ -40,9 +40,10 @@ Foreign nationals who are planning to live, study, or work in Croatia are requir
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministry of Interior, Croatia |  [Link](http://www.mup.hr)       |      Case by case basis     |        To be decided based on individual case      |
 
 ## Additional details
 The duration for processing the residence registration may vary based on individual cases and the workload at the office. It is always recommended to apply for the residence registration as soon as possible upon arrival in the country.

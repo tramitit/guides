@@ -44,11 +44,10 @@ Typically, the following documents are necessary:
 
 ## Providers that can do it for you
 
-| Provider        |     Website                |     Timelines    |       Cost      |
-| --------------- | ------------------ |  :-------------: | :-------------: |
-| ČSOB            |  [ČSOB](https://www.csob.cz)               |      Varies      |        Varies       |
-| Komercni Banka |  [KB](https://www.kb.cz) |       Varies     |       Varies     |
-| Moneta Bank    |  [Moneta](https://www.moneta.cz) |  Varies  |  Varies  |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Some of these banks might require you to maintain a certain minimum balance in your account, and the banking services come with various fees, including for account maintenance and transactions. These specifics vary from bank to bank.

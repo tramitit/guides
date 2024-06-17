@@ -42,9 +42,11 @@ Note: For tourists, there are designated parking spaces available where you can 
 - Car registration documents.
 
 ## Providers that can do it for you
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Magistrat Hlavniho mesta Prahy      |  [Website](https://www.mhmp.cz/)       |      Varies      |        Varies       |
 
 ## Additional details
 - Bear in mind that public transport in Prague is highly efficient and extensive - it might be more convenient to use this mode of transport instead of dealing with limited parking spaces.

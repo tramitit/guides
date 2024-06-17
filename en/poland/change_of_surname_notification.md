@@ -38,9 +38,10 @@ The legal document granting the name change can be provided by the legal entity 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Urząd gminy     |  Not available  |      Varies      |        Varies   |
 
 ## Additional details
 The overall timeline can vary significantly depending on the reason for changing your surname. Bank and other private businesses have their own rules and procedures for processing name changes. In all cases, you could need to show documents that justify the name change, like a marriage certificate. Check with each one to find out what you need to do.

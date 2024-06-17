@@ -33,9 +33,10 @@ Young individuals who are planning to travel, work, or live in the UK temporaril
 
 ## Providers that can do it for you
 
-| Provider |     Website     |     Timelines    |       Cost      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Visa4UK |  [Visa4UK](https://www.gov.uk/apply-uk-visa)       |      3-6 weeks      |        Variable       |
 
 ## Additional details
 - The process could take up to a few weeks. It is important to start the application with anticipation to your desired travel date.

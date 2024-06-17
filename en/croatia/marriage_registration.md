@@ -47,9 +47,10 @@ The following documents will typically be required during the process:
 
 ## Providers that can do it for you
 
-| Provider             |     Website                                |     Timelines    |       Cost                                     |
-| -------------------- | ------------------------------------ |  :-------------: | :--------------------------------: |
-| Matični Ured         |  [Website](http://www.uprava.hr) |      30-45 days      |      Variable, depending on location and extra services    |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details 
 - Same-sex marriages are currently not legally recognized in Croatia.

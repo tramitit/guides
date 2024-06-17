@@ -35,9 +35,10 @@ Individuals looking to officially establish their citizenship status in Croatia,
 
 ## Providers that can do it for you
 
-| Provider        |     Website                         |     Timelines    |       Cost      |
-| --------------- | ----------------------------------  |  :-------------: | :-------------: |
-| Ministry of Interior |  http://www.mup.hr/  |      Varies      |        Varies       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that the process of obtaining a Croatian citizenship can be complex and time-consuming. It is advisable to consult with legal experts or people who have undergone the process. The [Croatian government website](http://www.mup.hr/) is an ideal starting point for official information regarding the process.

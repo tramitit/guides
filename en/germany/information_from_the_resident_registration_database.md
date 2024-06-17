@@ -32,11 +32,10 @@ Often, people involved with genealogy or family research, individuals tracing lo
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| N/A             |  N/A            |      N/A         |        N/A      |
-
-A service provider that can handle this on your behalf could not be established from the source. 
 
 ## Additional details
 - The information you can request may depend on your justification and local privacy laws.

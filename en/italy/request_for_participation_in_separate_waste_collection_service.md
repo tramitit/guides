@@ -40,10 +40,11 @@ You may be required to provide the following documents:
 1. Identification Proof: This could be passport, Driver's license, or any other government-issued ID.
 2. Proof of Address: This could be a utility bill, lease contract, or property deed.
 
-## Providers that can do it
+## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Council/Waste Management Company |  Website URLs are location-specific |  Varies by location  | Varies by location |
 
 ## Additional details
 The separate waste collection service might require you to have different colored bins or bags for different types of waste. The pickup schedule is also different for each waste type, so make sure to check it on your local council's or waste management company's website. Some areas might also have drop-off points for certain types of waste.

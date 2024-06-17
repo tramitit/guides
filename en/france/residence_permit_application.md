@@ -36,11 +36,11 @@ Anyone intending to live and work in France for an extended period of time, part
 
 Please ensure the documents are up-to-date and preferably translated into French.
 
-## Providers that can help with the application process
+## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider        |     Website                   |      Timeline    |        Cost      |
-| --------------- | ----------------------- |  :-------------: |  :-------------: |
-| Visa France     | http://visafrance.eu  |       Varies       |     Varies      |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

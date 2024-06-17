@@ -33,11 +33,10 @@ You'll typically need to provide identification and proof of address. For non-re
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| MEO             | [meo.pt](https://www.meo.pt/)            |      Varies      |        Varies       |
-| NOS             | [nos.pt](https://www.nos.pt/)            |      Varies      |        Varies       |
-| Vodafone        | [vodafone.pt](https://www.vodafone.pt/)            |      Varies      |        Varies       |
 
 ## Additional details
 * Most mobile data plans require a commitment of at least 12 months, although there are also prepaid plans with no long-term commitment.

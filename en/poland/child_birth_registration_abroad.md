@@ -34,10 +34,10 @@ Remember, the documents might need to be translated into German or Polish and no
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Polish National Office      | [Link](https://obywatel.gov.pl/)       |  Variable, reach out directly for information      |        Varies based on specific needs       |
-|German Registrar's Office | [Link](http://www.standesamt.com) | Variable, reach out directly for information | Varies based on specific needs |
 
 ## Additional details
 Please note that the procedures and document requirements can vary, and it is always best to directly contact the respective office for the most accurate information.

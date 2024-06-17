@@ -38,10 +38,10 @@ Anyone who plans to park their vehicle in regulated zones in Budapest. It is par
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Kormányablak      |  [Website](http://www.kormanyablak.hu/)      |      Depending on the specific case      | Varies depending on the zone |
-| BKK | [Website](https://bkk.hu/en/) | Depending on the specific case  | Varies depending on the zone |
 
 ## Additional details
 

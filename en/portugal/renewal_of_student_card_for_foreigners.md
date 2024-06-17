@@ -36,10 +36,10 @@ This service is essential for international students studying in Portugal who ne
 
 ## Providers that can do it for you
 
-| Provider        |     Website                      |     Timelines    |       Cost      |
-| --------------- | ---------------                  |  :-------------: | :-------------: |
-| University of Lisbon     |  [universidade.ulisboa.pt](http://universidade.ulisboa.pt)     |      Up to 20 working days      |        Varies      |
-| Polytechnic of Porto    |  [ipp.pt](https://www.ipp.pt)             |      Up to 20 working days      |        Varies      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 The renewal procedure and requirements may differ from one academic institution to another in Portugal, so it's advisable to inquire in advance. Always ensure that your student card is under an active status, as an inactive or expired card might disrupt access to various university services and amenities.

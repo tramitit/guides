@@ -38,9 +38,10 @@ Anyone who has lost, misplaced, or damaged their original marriage certificate c
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Vital Records Online    |  [Website](https://www.vitalrecordsonline.com/)   |   Varies   | Varies |
 
 ## Additional details
 Reordering a marriage certificate can be used for multiple purposes, such as proof of your marriage for legal purposes, for genealogy research, or even applying for dual-certification by descent in some countries. Always check with your local or national governmental body to ensure you meet all requirements and follow the correct process.

@@ -32,11 +32,12 @@ Anybody with children who are dependent on them and under the age of 18. This se
 3. Proof of Income (Pay Stubs, Form 16, Tax return Statements)
 4. Proof of number of dependents (Birth certificates of children)
 
-## Providers who can do it for you
+## Providers that can do it for you
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider 1      |  https//:       |      x days      |        $X       |
 
 ## Additional details
 Every application is evaluated on certain criteria which might include total family income, number of dependents, and special conditions, etc. Make sure to provide all the supporting documents for these details. It's important to notify the relevant office in case of any changes in these details post the application.

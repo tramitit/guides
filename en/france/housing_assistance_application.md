@@ -40,9 +40,10 @@ Ensure that all documents are translated in French.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| CAF |  [caf.fr](http://www.caf.fr/)      |      It varies based on individual circumstances|        No cost involved|
 
 ## Additional details
 In case you are a student needing a guarantor, CROUS (Centre régional des œuvres universitaires et scolaires) can step in as an eligible guarantor through the 'Visale' service. Apply at ['Visale'](https://www.visale.fr/#/).

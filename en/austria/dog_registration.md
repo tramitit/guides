@@ -34,9 +34,10 @@ Every dog owner who resides in Austria, is visiting the country with their pet o
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Municipality      |  N/A       |      Varies      |        Varies       |
 
 ## Additional details
 - If you're planning to take your dog to Austria from another country, make sure your pet meets the entry requirements. This may include vaccinations, health certificate from a vet, etc.

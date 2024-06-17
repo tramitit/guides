@@ -44,9 +44,10 @@ Any foreign national who intends to get married to a Portuguese citizen, or any 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Civil Registry Office |  [Website](http://www.irn.justica.gov.pt/)      |   Varies (generally 30 days for displaying marriage intent)   | Costs can vary |
 
 ## Additional details
 All documents provided must not be older than six months at the time of submission. If one of the partners is a widow or divorcee, they should bring the relevant documentation (death certificate or divorce paper). For any specific circumstances or further information, you should directly consult with the Civil Registry Office. It is advised to understand all the legal implications fully before proceeding. Additional assistance can also be obtained from local immigration authorities and legal advisors. The costs involved can vary significantly, so it is recommended to cross-check with the official resources.

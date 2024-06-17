@@ -33,11 +33,10 @@ You can refer to the official instructions [here](https://www.revolut.com/help/p
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Revolut      |  [Revolut](https://www.revolut.com)      |      Depends on review time      |        Free (Subject to terms)       |
-| Vinted | [Vinted](https://www.vinted.com/) | Nearest customer service availability | Free (Subject to terms) |
-| Olympics | [Olympics](https://www.olympic.org/) | Nearest customer service availability | Free (Subject to terms) |
 
 ## Additional details
 In some cases, updating your location might affect the services and functionalities of the platform you are using. Always check the app/platform details on location changing procedures.

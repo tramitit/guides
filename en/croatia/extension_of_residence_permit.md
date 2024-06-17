@@ -36,9 +36,10 @@ This guide is mainly targeted towards non-Croatian residents who are legally liv
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministry of Internal Affairs      |  [Official Website](http://www.mup.hr/)       |      Varies      |        Varies       |
 
 ## Additional details
 - It's imperative to apply for the extension before your current permit expires. Overstaying your visa can result in penalties, including deportation and bans from reentry.

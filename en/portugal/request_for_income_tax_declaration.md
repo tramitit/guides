@@ -32,9 +32,10 @@ This process is necessary for all individuals who have earned an income within t
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Autoridade Tributária (Tax Authority) |  [Link](https://www.portaldasfinancas.gov.pt/)       |      Varies, be sure to check tax declaration deadlines | Varies, depending on your income bracket |
 
 ## Additional details
 - In Portugal, there's support for young people getting started, so don't be afraid to ask questions if you're unsure.

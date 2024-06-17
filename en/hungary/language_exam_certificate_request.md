@@ -34,9 +34,10 @@ This certificate is most often needed by people who are applying for citizenship
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| NYESZE (National Accreditation Authority for Translators and Interpreters Ltd.)      |  [www.nyeak.gov.hu](http://www.nyeak.gov.hu/)       |      Varies by exam schedule      |        Varies based on the exam |
 
 ## Additional details
 The complexity and sequence of steps may vary based on the particular language you are taking the exam for. Remember to check with the specific testing center for the most accurate information about the process, requirements, and additional details like fees or preparation materials.

@@ -37,9 +37,10 @@ Note: Check local requirements as specific requirements may vary.
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Wohngeldstelle  |  N/A            |      Varies      |        Free     |
 
 ## Additional details
 - The amount of housing allowance you receive may vary and is dependent on your income, rent, and household size.

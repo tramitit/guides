@@ -33,10 +33,10 @@ Any individual who has lost their passport or had it confiscated or stolen while
 
 ## Providers that can do it for you
 
-| Provider         |     Website     |     Timelines    |       Cost      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| U.S Embassy in Croatia   |  [link](https://hr.usembassy.gov/)       |      Varies      |        Varies       |
-| UK Embassy in Croatia   |  [link](https://www.gov.uk/world/organisations/british-embassy-zagreb) |      Varies      |        Varies       |
 
 ## Additional details
 Remember, after the loss or theft, the passport is invalidated and can no longer be used for travel, even if it's found again. It's important to report the loss immediately to prevent identity theft or other forms of misusage. To reenter your home country, you'll likely need an emergency travel document issued by your embassy or consulate.

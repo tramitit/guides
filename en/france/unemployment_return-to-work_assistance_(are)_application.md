@@ -37,9 +37,10 @@ Anyone who has lost their job and is actively seeking employment may need to app
 
 ## Providers that can do it for you
 
-| Provider           | Website                     | Timelines    | Cost      |
-| ------------------ | --------------------------- | :----------: | :-------: |
-| Pôle Emploi        | [pole-emploi.fr](https://www.pole-emploi.fr/) | Varies       | Free      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - The amount of ARE you receive will depend on your previous salary.

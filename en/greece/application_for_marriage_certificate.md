@@ -36,8 +36,10 @@ Any couple who have married in Greece and require formal documentation of their 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
-| Registrar's Office (Ληξιαρχείο) |  Not available online | Varies (Typically, the marriage license requires a few days to process)| Fees may vary |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 In Greece, civil weddings are legal and binding. Religious weddings can be held as an additional ceremony if desired. It is advisable to check with your local authorities in your home country to ensure the Greek marriage certificate is legal and recognized. Additional paperwork may be required depending on the country.

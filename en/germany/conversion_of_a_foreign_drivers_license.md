@@ -35,10 +35,10 @@ Expats or anyone moving to United States or Germany from another country who pla
 
 ## Providers that can do it for you
 
-| Provider                 |     Website                |     Timelines     |       Cost      |
-| ------------------ | ------------------- |  :-----------:    | :----------: |
-| Munich Driving School | [Website](https://www.muenchner-fahrschule.de/) |      Varies      |   Varies   |
-| Führerschein Agentur Berlin | [Website](https://www.fuehrerscheinagentur.com/) |      Varies      |   Varies   |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 In Germany, holders of Turkish and EU driving licenses can be directly converted. For licenses from other places such as United States, the holder has to take a theoretical and practical exam after attending driving lessons. In the United States, conversion processes vary by states. Some states may require you to take a written and/or driving test, while others may simply exchange your foreign license for an American one after checking your documents and eyesight. Always remember to check the rules and regulations of the specific state you are moving to.

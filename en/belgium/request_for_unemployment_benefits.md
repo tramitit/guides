@@ -30,12 +30,10 @@ This guide is intended for anyone who has recently become unemployed in Belgium 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| The General Federation of Belgian Labour  (ABVV/FGTB)  |  [ABVV/FGTB](https://www.fgtb.be/)       |      Varies      |        Varies       |
-| The Confederation of Christian Trade Unions  (ACV/CSC) |  [ACV/CSC](https://www.acv-online.be/) | Varies | Varies |
-| The Liberal Confederation of Trade Unions (ACLVB/CGSLB)  |  [ACLVB/CGSLB](https://www.aclvb.be/)       |      Varies      |        Varies       |
-| Auxiliary Unemployment Benefit Fund (CAPAC) | [CAPAC](http://www.hvw-capac.fgov.be/) | Varies | No charge |
 
 ## Additional details
 - CAPAC does not charge a membership fee, whereas unions do. It might take longer to process your application at CAPAC due to more crowded conditions.

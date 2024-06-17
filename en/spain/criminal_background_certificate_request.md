@@ -34,9 +34,10 @@ Individuals applying for certain jobs, visas, or official permits may be request
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministry of Justice |  [mjusticia.gob.es](https://www.mjusticia.gob.es/) | 1-2 weeks | €3.70 |
 
 ## Additional details
 - The fee for requesting a Criminal Background Certificate as of 2024 is €3.70. 

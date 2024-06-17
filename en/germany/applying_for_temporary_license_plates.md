@@ -35,9 +35,10 @@ Note: The above are general documents that are usually required, other documents
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Registration Office      |  N/A       |      Depends on the location      |        Varies       |
 
 ## Additional details
 - Temporary license plates are usually valid for a short period of time (5-10 days), after which you should have received your permanent plates.

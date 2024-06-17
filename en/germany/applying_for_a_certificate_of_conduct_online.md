@@ -34,9 +34,10 @@ The Führungszeugnis is often required when applying for jobs, particularly thos
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Federal Office of Justice      |  [https://www.fuehrungszeugnis.bund.de](https://www.fuehrungszeugnis.bund.de)       |      2-3 weeks      |        13 Euros       |
 
 ## Additional details
 - Please note that the document is generally sent to the address registered in your identity document, so make sure your information is up to date.

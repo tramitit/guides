@@ -38,9 +38,10 @@ People with Italian ancestry who need to prove lineage for certain processes. Th
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Italian Communes      | Varied (depends on the specific commune)       |  1 to 2 months (may vary)     |     Free or low cost (may involve postal fees)      |
 
 ## Additional details
 

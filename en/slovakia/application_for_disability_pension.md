@@ -33,9 +33,10 @@ Anyone who is unable to work because of a noticeable and severe long-term disabi
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Social Security Office      |  [Link](https://www.socpoist.sk/)       |      Varies depending on the case      |        Varies       |
 
 ## Additional details
 It's important to note that the provision of a disability pension is primarily based on the nature of the individual's disability and not on their ability to work. Therefore, it is crucial that the medical certificate adequately documents the health condition of the individual. Similarly, anyone seeking a disability pension should ensure their insurance contributions are up-to-date, as this may affect the approval and amount of their pension.

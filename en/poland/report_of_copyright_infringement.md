@@ -41,9 +41,10 @@ The required 'documents' are essentially elements you need to include in your re
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Reddit, Inc.    |  [reddit.com](https://www.reddit.com/)  |      Varies     |        Free     |
 
 ## Additional details
 If you are unsure whether the material you report is in fact infringing, you may wish to contact an attorney before filing a notification with Reddit. The process can be complicated and have legal consequences, so understanding the ramifications fully before proceeding is advisable. 

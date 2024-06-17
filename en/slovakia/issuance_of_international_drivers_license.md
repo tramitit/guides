@@ -33,10 +33,10 @@ Any individual planning to drive in a foreign country(like Slovakia) who is not 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| AAA             |  [AAA website](https://www.aaa.com/vacation/idpf.html) |      10-15 days      |        $20       |
-| AATA             |  [AATA website](https://aataidp.com/)       |      10-15 days      |        $20       |
 
 ## Additional details
 - The International Driver's License is not a standalone document and should be carried alongside your original driver's license.

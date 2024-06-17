@@ -39,9 +39,10 @@ Please make sure to check the [Romanian Immigration Office](http://igi.mai.gov.r
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Romanian Immigration Office      |  [http://igi.mai.gov.ro/](http://igi.mai.gov.ro/)       |      Varies      |        Varies       |
 
 ## Additional details
 Work visa extension rules vary from country to country, so it's important to do your research and understand the rules and requirements specific to Romania. Make sure also to be aware of any changes in immigration law as they can affect your application process. Keeping an open line of communication with the Romanian Immigration Office is advisable to stay updated with any changes.

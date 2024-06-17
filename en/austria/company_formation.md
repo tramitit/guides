@@ -37,9 +37,10 @@ The documents required for company formation in Austria include:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| StartUs Insights |  [https://www.startus-insights.com](https://www.startus-insights.com/) |      x days      |        $X       |
 
 ## Additional details
 Remember, when forming a company in Austria, it's crucial to carefully consider tax implications. Depending on the legal form of your company, you might be eligible for certain tax benefits. Consulting with a tax professional or a lawyer can be beneficial in making the right decisions.

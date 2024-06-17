@@ -32,9 +32,10 @@ Anyone who has registered a residence (Wohnsitz) in Germany and plans to move ou
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| City Hall (Bürgeramt)      |  N/A       |      Varies (usually several business days)      |        Free or with minimal admin fee       |
 
 ## Additional details
 - Remember that failing to deregister might result in financial penalties and complications with future registrations or visa applications.

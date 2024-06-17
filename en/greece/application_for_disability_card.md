@@ -32,11 +32,11 @@ It is essential for individuals with disabilities, chronic illnesses, or any oth
 
 Please ensure all documents are translated in Greek as you are applying within Greece.
 
-## Providers that can help you
+## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministry of Health, Greece | [link here](https://www.moh.gov.gr/) | Varies | Varies  |
 
 ## Additional details
 If you are a non-EU citizen traveling to Greece, be sure to contact the Ministry of Health in advance to understand the complete process and regulations specific to non-EU residents. Also, being a part of the EU, the documentation might differ slightly, based on different agreements between Greece and your home country. Make sure to have these details clarified before you begin the application process.

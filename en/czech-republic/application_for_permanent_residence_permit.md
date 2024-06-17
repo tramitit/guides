@@ -37,9 +37,10 @@ It's needed by foreign nationals, including EU citizens who have lived in the Cz
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministry of Interior, Czech Republic |  [Link](https://www.mvcr.cz) | Up to 180 days |        Varies       |
 
 ## Additional details
 For non-EU citizens, besides the 10-year continuous residency, other categories like refugees or family members of Czech citizens can apply for permanent residence. After 5 years of holding a permanent residence permit, individuals are eligible to apply for Czech citizenship.

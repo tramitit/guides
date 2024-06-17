@@ -47,11 +47,10 @@ Please note that additional documentation may be required depending upon your sp
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| MGEN            |  https://www.mgen.fr/ |       Varies |     Varies     |
-| MACIF           |  https://www.macif.fr/ |       Varies |     Varies     |
-| Maif            |  https://www.maif.fr/   |       Varies |     Varies     |
 
 ## Additional details
 The cost of the insurance will depend on the coverage you choose. Some insurers offer customizable plans, allowing you to choose the services you need based on your health condition and budget. The involvement of the insurer in the procedures with healthcare professionals also varies from insurer to insurer.

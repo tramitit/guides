@@ -31,11 +31,10 @@ Any foreigner registered and residing in Belgium and Belgian citizens aged 15 an
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Your Local Commune   |  N/A       |      2 weeks      |        €25*  (approx.)   |
-
-\*The fee may vary slightly depending on your local commune.
 
 ## Additional details
 - If you forget your pin, you can request for a new one at the local commune or the federal portal (https://www.ibz.rrn.fgov.be).

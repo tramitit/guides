@@ -43,9 +43,10 @@ A comprehensive list of required documents can be found on the official website 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Office for Foreigners |  https://udsc.gov.pl/ | Varies |  340 PLN |
 
 ## Additional details
 

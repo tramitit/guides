@@ -36,9 +36,10 @@ Anyone intending to legally own, purchase, or carry a firearm in Poland would re
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Poland Shooting |  www.polandshooting.com       |      1-3 months      |        Varies       |
 
 ## Additional details
 Carrying a concealed firearm in public is allowed only for self-defence license holders.

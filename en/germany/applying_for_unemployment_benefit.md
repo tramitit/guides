@@ -37,9 +37,10 @@ This benefit is typically for people who have been working in Germany and have l
 
 ## Providers that can do it for you
 
-| Provider            |     Website                                         |     Timelines           |       Cost       |
-| ------------------- | ------------------------------------------------- | :------------------: | :----------: |
-| Bundesagentur für Arbeit     |  [https://www.arbeitsagentur.de/](https://www.arbeitsagentur.de/)         |   4-6 weeks after submission        |    Free     |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

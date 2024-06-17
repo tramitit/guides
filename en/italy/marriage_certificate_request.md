@@ -34,9 +34,10 @@ Anyone who was married in Italy and requires proof of their marriage for legal, 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Italian Civil Registry     |  Not available online      | Varies based on municipality and postal services  | Varies based on municipality |
 
 ## Additional details
 While the process might seem straightforward, be aware that it might take some time due to the slower pace of bureaucratic procedures in Italy, especially in smaller Comunes. It might be helpful to have patience and start the process well ahead of when you need the certificate.

@@ -35,9 +35,10 @@ This service is necessary for parents who are foreign citizens but wish to regis
 
 ## Providers that can do it for you
 
-| Provider          |     Website            |     Timelines     |       Cost       |
-| --------------- | ----------------- |  :-------------: | :------------: |
-| Consulate General of Portugal in your country | Varies based on location | Varies based on location  | Varies based on location |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Registering the birth of a child in Portugal as a foreign citizen varies depending on the specific circumstances surrounding the child's birth. It is advised to consult with the Portuguese Consulate in your home country or a legal professional experienced in Portuguese citizenship law. The process might take several weeks to months, depending on the complexity of your case and the current workload of the registry office.

@@ -41,9 +41,10 @@ Note: The exact documents required may differ depending on the type of visa you 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Official Croatian consulates or embassies | [Official Government Website](http://www.mvep.hr/en/) | Depending on the type of visa and duration of stay    | Varies depending on the type of visa |
 
 ## Additional details
 - Processing times for visa applications can vary depending on the consulate or embassy where you apply, the type of visa, and the time of year.

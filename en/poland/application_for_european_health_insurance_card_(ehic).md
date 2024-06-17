@@ -36,11 +36,10 @@ Here are the official websites to apply for EHIC based on your home country:
 
 ## Providers that can do it for you
 
-| Provider                                             |     Website              |     Timelines          |   Cost                |
-| -----------------------------------------------------| -------------------------|  :-------------------: | :-------------------: |
-| National Health Service (NHS) - UK                   |  [Link Here](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/) |      Varies            |        Free           |
-| Health Service Executive (HSE) - Ireland             | [Link Here](https://www2.hse.ie/services/ehic/ehic.html)     |      Varies            |        Free           |
-| National Health Fund (NFZ) - Poland                  |  [Link Here](https://www.nfz.gov.pl/)      |      Varies            |        Free           |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that the EHIC is not an alternative to travel insurance. It does not cover any private healthcare or costs such as a return flight to your home country or lost/stolen property. Therefore, it is advisable to have both an EHIC and a valid private travel insurance policy.

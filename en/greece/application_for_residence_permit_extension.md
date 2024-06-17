@@ -34,7 +34,10 @@ Any foreign citizen legally staying in Greece who wishes to extend their stay be
 
 ## Providers that can do it for you
 
-There is no specific provider for this, the residence permit extension application has to be submitted directly to the Greek Immigration Services.
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 The process may vary slightly depending on the specific municipality. If there is missing information or documents, the process may take longer, so it is advisable to start ahead of time. For any queries or complications, feel free to directly contact the local immigration office or the [Greek Ombudsman](https://www.synigoros.gr/).

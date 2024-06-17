@@ -46,12 +46,10 @@ Regarding acquiring these documents, except for financial proof, other documents
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| ...             |  ...            |      ...         |        ...      |
-
-(For this section, it's important to conduct some research to find providers who specialize in such cases. Mostly, these would be immigration lawyers or agencies.)
-
 
 ## Additional details
 Family reunification laws and conditions may vary greatly from one country to others. It is greatly recommended to check with the embassy/consulate of the country where your family member is residing to clear out specific details. Also, legal help can be taken to ease out the process.

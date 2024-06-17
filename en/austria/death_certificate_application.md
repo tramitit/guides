@@ -33,9 +33,10 @@ Any person directly related or involved in the legal and administrative processe
 
 ## Providers that can do it for you
 
-| Provider        |     Website     |     Timelines    |       Cost     |
-| --------------- | --------------- |  :-------------: | :------------: |
-| Standesamt      |  [Standesamt](https://www.wien.gv.at/english/) |      Depending on region, it generally takes a few days      | Varies depending on the number of copies requested |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 The cost varies depending on the number of copies required and the purpose of the certificate. It's usually below €30. It is advisable to get multiple copies of the death certificate, as numerous institutions will need an original. Note also that certificates in languages other than German may require an additional translation fee.

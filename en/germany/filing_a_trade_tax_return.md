@@ -38,9 +38,10 @@ These can usually be obtained through yearly reports from your trading platform,
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| SteuerGo      |  [link](https://steuergo.de/)       |      ~1-2 weeks      |        ~$25-50       |
 
 ## Additional details
 - Note that the free allowance is 801 Euros for single individuals and 1602 Euros for married couples per year.

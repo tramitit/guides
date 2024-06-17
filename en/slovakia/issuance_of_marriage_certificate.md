@@ -38,9 +38,10 @@ It's advisable to have these documents ready before heading to the civil registr
 
 ## Providers that can do it for you
 
-| Provider     |     Website                      |     Timelines             |       Cost |
-| ------------ | -------------------------------  | ----------------------- | ---------- |
-| Civil Registry Office (Matričný úrad) | [Slovakia Civil Registry Office](https://www.slovensko.sk/sk/contacts/) | As per internal procedure | Variable |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Remember to check the timings and working days of the Civil Registry Office as they may vary depending on the location. Some offices may also require setting up an appointment in advance. The processing time and cost can vary, so it's advised to check these details when you apply.

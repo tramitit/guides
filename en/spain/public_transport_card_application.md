@@ -32,10 +32,10 @@ Ideal for tourists, temporary residents, and long-term residents who frequently 
 
 ## Providers that can do it for you
 
-| Provider                   |     Website                                                   |     Timelines        |       Cost       |
-| ------------------- | -----------------------                      |  :------------:   | :-------------: |
-| Madrid Transport Consortium |  [www.crtm.es](https://www.crtm.es/) |      Same day     |   Varies on zone and type of card   |
-| Barcelona Metro              |  [www.tmb.cat](https://www.tmb.cat/en)   |      Same day      |   Varies on zone and type of card  |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - The transport card will cover travel within the specified zones and transport mediums it was bought for.

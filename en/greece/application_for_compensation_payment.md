@@ -33,11 +33,11 @@ The Required documents will be mostly based on the nature of the compensation:
 - Proof of Non-Deposit: Bank statements or any other document that can prove that you have not received the expected compensation.
 
 ## Providers that can do it for you
-Generally, the compensation procedure is something you would do individually. However, in certain cases, you may require legal help or a middleman, especially if it is tied to an employment contract or a commission-based job.
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Legal Firm (example)      |  https//:       |      Varies      |        Varies       |
 
 ## Additional details
 It's essential to keep in mind that the procedure and requirements can vary greatly depending on each individual case. It's essential to consider your financial losses and weigh them against the potential emotional toll and the amount of time spent. Depending on the scenario, you may have the option to negotiate a compromise for swift resolution.

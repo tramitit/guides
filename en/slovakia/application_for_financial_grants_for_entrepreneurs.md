@@ -37,9 +37,10 @@ Individuals or groups looking to start a new business or expand an existing one 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider information to be filled based on research and availability  |
 
 ## Additional details
 - Apply early. Grant providers usually have specific timelines that you should adhere to.

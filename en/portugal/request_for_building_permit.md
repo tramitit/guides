@@ -37,9 +37,10 @@ Anyone who plans to carry out construction activities in Portugal - be it homeow
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Municipality     |  *Varies by locality*       |      Several weeks      | Varies on project scale and location |
 
 ## Additional details
 - It is critical to abide by the building permit, or face potential fines or orders to halt construction.

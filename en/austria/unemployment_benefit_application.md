@@ -34,11 +34,11 @@ Individuals who have recently become unemployed and are currently looking for wo
 - Termination letter from the employer
 
 ## Providers that can do it for you
-No providers available. The application process to apply for the unemployment benefit is administered by the Public Employment Service Austria (AMS).
 
-| Provider        |     Website                        |     Timelines    |       Cost       |
-| --------------- | ---------------------------------- |  :-------------: | :--------------: |
-| AMS             |  [www.ams.at](http://www.ams.at/)  |   Varies         |     Free         |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

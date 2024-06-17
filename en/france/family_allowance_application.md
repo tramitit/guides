@@ -41,9 +41,10 @@ The application will then be processed, and if approved, you'll start receiving 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| CAF |  https://www.caf.fr/       |       Depending on each individual application   |        Free       |
 
 ## Additional details
 It's crucial to provide all the correct information and documents needed for the application. Misrepresentation of any kind could lead to fraud charges. Different countries have different conditions for the qualification of family allowances, ensure to confirm with your respective government's website.

@@ -30,7 +30,11 @@ Anyone who is interested in attending an event but missed out during the general
 Generally, you only need a valid and active email address for Waiting List Registrations. Certain events may also require proof of identity or other documentation, but these requirements would be specific to the website or event in question.
 
 ## Providers that can do it for you
-It should be noted that typically, one must register for a waiting list personally and it cannot be done through a third party. This helps prevent ticket scalping and keeps the process fair for everyone. 
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - It's important to note that registering for a waiting list does not guarantee you will receive tickets. It simply puts you in line should tickets become available.

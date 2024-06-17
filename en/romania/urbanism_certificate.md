@@ -40,9 +40,10 @@ The documentation requirements may vary according to the local laws, but the fol
 
 ## Providers that can do it for you
 
-| Provider        |     Website                       |     Timelines    |       Cost      |
-| --------------- | --------------------------------- |  :-------------: | :-------------: |
-| Local Town Hall |  Contact directly for website     |      30 days     | Varies depending on location and project scale|
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

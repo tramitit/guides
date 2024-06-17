@@ -33,9 +33,10 @@ Anyone who has unexpectedly or potentially received inheritance following the de
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Italian Notary  |  [Notai.it](https://notai.it/) |  Depends on individual cases  |  Varies based on complexity |
 
 ## Additional details
 - If the deceased did not leave a will, under Italian law, the succession of assets goes to the next of kin.

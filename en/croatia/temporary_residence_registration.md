@@ -37,9 +37,10 @@ Here is a list of mandatory documents:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Croatia Ministry of the Interior      |  [mup.hr](https://www.mup.hr/)       |      Variable based on case      |        Variable based on case       |
 
 ## Additional details
 Foreigners staying in Croatia on the basis of temporary stay may stay up to 90 days in each period of six months starting from the date of first entry. For any stays more than that, the foreigner should apply for a temporary residence permit. This information was sourced from the official regulations and policies as stated on the Ministry of Interior website.

@@ -31,9 +31,10 @@ Anyone born in Germany, who needs to prove their citizenship, identity, or other
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| German Missions in the United States  | [Link](https://www.germany.info/us-en/service/05-FamilyMatters/birth-certificate/906660) | 2-4 weeks| ~ €10-€20  |
 
 ## Additional details
 - Processing times can vary significantly, ranging from a few days to several weeks, depending on the specific Standesamt. Regular follow-up might expedite the process.

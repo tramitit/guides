@@ -32,9 +32,10 @@ Generally, you won't need any particular documents apart from a valid identifica
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Spa Teplice      |  www.spa-teplice.cz     |       Variable depending on the service      |   Varies depending on the service     |
 
 ## Additional details
 The Czech Republic is known for its long-standing spa culture, particularly in towns like Karlovy Vary. The public healthcare system in the Czech Republic is quite high standard, so medical and wellness services can be trusted to be of good quality. Keep in mind, most spas will have their own house rules, such as the mandatory use of swimsuits, caps, or slippers in the spa area. Check the specific spa's guidelines prior to your visit. Make sure to drink plenty of water before and after treatments to stay hydrated.

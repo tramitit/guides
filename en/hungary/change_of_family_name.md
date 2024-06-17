@@ -35,9 +35,10 @@ Primarily, individuals who are married and want to take on their spouse's surnam
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Government Office  |  N/A       |     30-90 days      |        Varies       |
 
 ## Additional details
 - Reasons for name change can vary widely – from wanting to take on a spouse’s name, to disliking one's current name, or seeking to take on a name that resonates with personal, cultural or professional identities.

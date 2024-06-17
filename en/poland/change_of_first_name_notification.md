@@ -35,9 +35,10 @@ Any individual who has changed their name and needs to update it in all official
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Legal Zoom      |  [Legal Zoom](https://www.legalzoom.com)       | 60 days (estimated)      |  $139-$349 (varies by state)       |
 
 ## Additional details
 Remember to update your name everywhere it's necessary to ensure unified legal identification. Frequently overlooked places include airline membership profiles, email accounts, auto registration and insurance, health and life insurance, and your will or estate plan. 

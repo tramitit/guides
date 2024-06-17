@@ -34,9 +34,10 @@ This service is commonly needed by foreign students, job seekers, and profession
 
 ## Providers that can do it for you
 
-| Provider        |     Website      |     Timelines    |       Cost      |
-| --------------- | -----------------|  :-------------: | :-------------: |
-| CIRDE            |  [CIRDE](http://www.nacid.bg/en/)       |      Varies depending on case      |        Varies depending on case       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 The recognition process can take time and involve administrative challenges. Be ready to follow up and provide additional documentation if needed. Understanding the Bulgarian language or having a reliable translator can be very helpful. It’s always a good idea to start the process well in advance of any deadlines related to employment, enrollment in education, or professional requirements.

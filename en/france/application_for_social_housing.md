@@ -39,10 +39,10 @@ The service is designed for those who are financially strained and cannot afford
 
 ## Providers that can do it for you
 
-| Provider        |     Website       |     Timelines    |       Cost      |
-| --------------- | -----------------  |  :-------------: | :-------------: |
-| Local government office    |  [https://www.gouvernement.fr/en/housing](https://www.gouvernement.fr/en/housing)     |    Varies based on individual case   |    Free    |
-| France Bienvenue |  [https://www.francebienvenue.fr/](https://www.francebienvenue.fr/) |     Varies based on individual case   |  Free  |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

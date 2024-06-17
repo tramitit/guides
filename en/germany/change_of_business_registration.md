@@ -40,10 +40,10 @@ Any business operating in Germany that undergoes a major change like relocation,
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-
-(No providers mentioned in the sources)
 
 ## Additional details
 If your business is an online business or e-commerce, the steps would largely be the same. Make sure to check if there are additional or different specifications for your business type with your local Gewerbeamt. 

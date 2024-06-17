@@ -39,9 +39,10 @@ All documents must be properly legalized for use in Spain. This may require obta
 
 ## Providers that can do it for you
 
-| Provider        |     Website                   |     Timelines    |       Cost      |
-| --------------- | ----------------------------- |  :-------------: | :-------------: |
-| Spanish Lawyers |  https://www.spanish-lawyers.org/ |      TBD |      TBD    |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Processing times for citizenship applications can vary, from months to possibly years. Also, note that Spanish citizenship is typically acquired either through residence, Spanish Origin, Sephardi Jews, marriage, or birth to a Spanish parent.

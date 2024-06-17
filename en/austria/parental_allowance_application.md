@@ -36,9 +36,10 @@ New parents who are residing in Austria or Germany may need this grant. It is id
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Parental Allowance Office |   https://www.elterngeld.net/elterngeldstellen.html  |      Depends on case        |        Free       |
 
 ## Additional details
 - You can apply for a parental allowance up to 3 months before the birth of your child.

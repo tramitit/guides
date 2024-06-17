@@ -32,11 +32,11 @@ The allowance is ideal for individuals who are above 60 years old and need help 
 * Medical certificate detailing the level of dependence
 * Most recent tax statement
 
-## Providers that can help
+## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Family Allowance Office      |  https://www.caf.fr/      |   Varies by case   |        Free       |
 
 ## Additional details
 Each department in France independently handles the process for APA. Waiting times and specific requirements can vary. APA can be used to cover professional care services, technical aids, and home adaptations.

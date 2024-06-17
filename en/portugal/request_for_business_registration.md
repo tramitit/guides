@@ -34,9 +34,10 @@ This guide is perfect for both local and foreign individuals or entities who wis
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Empresa na Hora  |  [Empresa na Hora](https://justica.gov.pt/Servicos/Empresa-na-Hora)       |      1-2 days      |        € 360      |
 
 ## Additional details
 - Business registration can be done by an individual or through the use of a legal representative if the process needs to be accomplished remotely.

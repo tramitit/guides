@@ -33,9 +33,10 @@ Anyone who owns a vehicle (used or new) in Romania, or anyone who has imported a
 
 ## Providers that can do it for you
 
-| Provider        |     Website                     |     Timelines    |       Cost      |
-| --------------- | ------------------------------- | :--------------: | :-------------: |
-| RCI Leasing     |  [Rci-romania.ro](http://www.rci-romania.ro/) |      Varies      |        Varies       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - If the vehicle has been imported, insurance and vehicle pollution tax (impozitul auto pentru poluare) need to be paid as well.

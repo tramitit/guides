@@ -32,11 +32,12 @@ People who are changing their contact details due to reasons like relocation, se
 1. Proof of new contact details (e.g., utility bill for new address, new phone number's receipt, etc.)
 2. Identity proof (may not be required everywhere)
 
-## Providers that can do it for you (example)
+## Providers that can do it for you
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Official Mail Forwarding Service      |  www.usps.com       |      7-10 days      |        $1.05       |
 
 ## Additional details
 Consider changing your contact details in the following entities for smooth communication:

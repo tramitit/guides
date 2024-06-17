@@ -36,9 +36,11 @@ Anyone intending to use a vehicle within the Czech Republic for longer than 185 
 - European conformity certificate or import certificate
 
 ## Providers that can do it for you
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Czech Automobile Association      |  [oca.cz](https://www.oca.cz/)       |      14 days      |        Variable depending on type of vehicle       |
 
 ## Additional details
 - Until the vehicle is registered in the Czech Republic, it is not legal to drive it on public roads.

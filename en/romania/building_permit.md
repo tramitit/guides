@@ -35,10 +35,10 @@ Any individual or company who intends to build a new structure, or to alter, rep
 
 ## Providers that can do it for you
 
-| Provider        |     Website           |     Timelines    |       Cost      |
-| --------------- | ---------------- |  :-------------: | :-------------: |
-| Professional Design Architect |  [www.archiforum.ro](http://www.archiforum.ro/) |  Upon Request  |  Upon Request  |
-| Consulting Companies focused on Building Permits |  [www.constructorii.ro](http://www.constructorii.ro/) |      Upon Request      |       Upon Request        |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - The process can be long and requires patience and exactitude.

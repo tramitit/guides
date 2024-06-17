@@ -37,9 +37,10 @@ Please note that these requirements can vary, so check with your local authoriti
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Government Agency      |  https://www.yourlocalgov.org       |      Varies      |        Varies      |
 
 ## Additional details
 It's important to remember that a Sex Offense Certificate only reflects the information in the database at the time of the request. It does not guarantee that an individual will not commit offenses in the future nor does it exclude the possibility of offenses that have not been reported or recorded.

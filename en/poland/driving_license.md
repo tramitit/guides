@@ -43,10 +43,10 @@ Anyone who wishes to drive motor vehicles on public roads in Poland needs a driv
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Polish Driving School 1      |  https//:example.com       |     2-3 months     |        Varies       |
-| Polish Driving School 2  |  https//:example2.com  |  2-3 months   |  Varies |
 
 ## Additional details
 

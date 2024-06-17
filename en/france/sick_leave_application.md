@@ -30,9 +30,10 @@ Any worker employed in France under a legal contract who finds themselves unable
   
 ## Providers that can do it for you
 
-| Provider        |     Website                                     |     Timelines    |       Cost      |
-| --------------- | ------------------------------------------------- |  :-------------: | :-------------: |
-| Health Professional      |  No official website available     |      Depends on the professional's availability      |        Depends on the healthcare system       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - Applying for a sick leave is the same in case of physical and mental illnesses. In France, workers are entitled to daily allowances if they have worked for at least 200 hours during the three months prior to stopping work.

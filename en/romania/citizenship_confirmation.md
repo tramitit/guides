@@ -32,10 +32,11 @@ People who have dual citizenship, people planning to work, study, or relocate to
 - Identity Document: A valid ID card or passport for identification.
 
 ## Providers that can do it for you
-| Provider               |           Website          |      Timelines     |        Cost       |
-| ---------------------- |  ------------------------- | :-----------------:| :---------------: |  
-|  Local Town Hall       |          N/A               |     Variable       |        Varies depending on local fees |
-| Citizenship and Migration Department| [Link](http://igi.mai.gov.ro)     |      Variable      |       Varies     |   
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - It is always beneficial to maintain a dual nationality given the various advantages it provides like more accessible travel, work, and education opportunities.

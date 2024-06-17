@@ -38,9 +38,10 @@ Below are commonly requested documents. Always refer to the specific requirement
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| [ENIC-NARIC](http://www.enic-naric.net/)      |  [ENIC-NARIC](http://www.enic-naric.net/)       | Varies   |        Variable       |
 
 ## Additional details
 While the general processes for recognition of qualifications are alike, specific processes can differ greatly depending on the country. As such, always ascertain the specific requirements from relevant professional organizations or regulatory bodies in the country where you intend to use the qualifications. 

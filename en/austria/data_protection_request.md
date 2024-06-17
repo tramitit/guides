@@ -33,11 +33,10 @@ Any individual who has interacted with businesses, especially those in the Europ
 
 ## Providers that can do it for you
 
-| Provider    |     Website     |  Timelines |     Cost      |
-| ----------- | :-------------: | :-------: | :----------: |
-| N/A         |      N/A         |  N/A    |     N/A     |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-(Note: This is an individual's right and usually does not need intermediary service providers)
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - You can request an extension if you feel that the given time for the company to reply is not enough.

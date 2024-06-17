@@ -38,9 +38,10 @@ This guide is particularly valuable for non-residents and foreign residents who 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| DGT      |  [https://www.dgt.es](https://www.dgt.es)       |      Varies      |        Varies      |
 
 ## Additional details
 - It's crucial to provide a valid Spanish address where you can receive the new driver's license via courier.

@@ -36,11 +36,10 @@ Please note that requirements could be different based on your age, residence st
 
 ## Providers that can do it for you
 
-| Provider        |     Website            |     Timelines    |       Cost      |
-| --------------- | ---------------------- |  :-------------: | :-------------: |
-| Local Driving Schools  |  VARIES              |      VARIES     |        VARIES   |
- 
-Please note that fees vary depending on the driving school and the region.
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 It may be possible for drivers with a driver's license issued by a non-EU/EEA country to convert their driving permit to a Greek one. The exact rules vary, so it's recommended to check with the Ministry of Transport: [Ministry of Transport website](https://www.yme.gr/).

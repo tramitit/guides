@@ -37,9 +37,10 @@ Please refer to the National Social Security Institute's website for a detailed 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| National Social Security Institute      |  [http://www.noi.bg](http://www.noi.bg)       |      Varies based on the type of benefit      |        Free       |
 
 ## Additional details
 - Social security contributions in Bulgaria are obligatory and are deducted from the person’s salary or income.

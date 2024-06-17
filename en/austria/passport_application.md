@@ -34,11 +34,10 @@ Any individual, regardless of age, planning to travel abroad needs a valid passp
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local City Office (Bürgeramt) |  https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeramt/       |      Up to several weeks*     |        Variable according to local regulations       |
-
-\*The exact timelines can vary widely based on the area or specific administrative circumstances
 
 ## Additional details
 

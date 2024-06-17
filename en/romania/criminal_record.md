@@ -31,11 +31,11 @@ The documents required may vary from country to country, but typically you will 
 1. Valid identification (such as a passport or ID card).
 2. Application form (you can generally find a template online or get one at the police station).
 
-## Providers that can help
+## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider        |     Website                 |     Timelines              |       Cost                             |
-| --------------- | --------------------------- |  :---------------------: | :-----------------------------: |
-| Romanian Police |  http://www.politiaromana.ro |  Generally a few days |  Typically a small administrative fee  |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Please note if you need a criminal record check from a foreign country while in Romania, or from Romania while abroad, the procedure may be slightly different. You may need to visit your embassy or consulate, or contact the appropriate foreign legal authority.

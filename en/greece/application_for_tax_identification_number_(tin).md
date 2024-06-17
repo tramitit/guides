@@ -31,9 +31,11 @@ Any individual or entity planning to do business or any activity that requires t
 - In case a legal representative applies on your behalf, a proxy is required
 
 ## Providers that can do it for you
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| AADE (Independent Authority for Public Revenue) |  Website not publicly available  |  Immediate typically  | Free |
 
 ## Additional details
 - Always protect your TIN and don't share it unless necessary (for example, when requested by a legitimate financial institution or tax authorities).

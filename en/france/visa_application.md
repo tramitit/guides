@@ -41,9 +41,10 @@ Note: Always cross-check the document list with the official website as requirem
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| TLS Contact      |  https://fr.tlscontact.com/       |   Varies based on nationality and visa type      |        Varies based on visa type       |
 
 ## Additional details
 - Be careful while filling out the application as mistakes can potentially lead to refusal.

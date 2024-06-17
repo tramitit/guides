@@ -33,11 +33,10 @@ Note that if the death occurred outside of Germany, additional documentation may
 
 ## Providers that can do it for you
 
-While the process is usually handled personally by the applicant, there are some funeral services providers who may offer assistance in dealing with administrative tasks such as applying for a death certificate.
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Funeral Service Providers    |  Consult locally       |  Varies     |  Varies  |
 
 ## Additional details
 It's important to note that it might take some time to receive the death certificate; the process could take anywhere from a few days to a few weeks. Having multiple copies of the death certificate can also be useful, as they may be required by different institutions (banks, insurance companies, etc.).

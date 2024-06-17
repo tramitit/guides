@@ -36,9 +36,10 @@ The required documents include:
 
 ## Providers that can do it for you
 
-| Provider        |     Website                  |     Timelines           |       Cost          |
-| --------------- | ---------------              |  :-------------:        | :-------------:     |
-| Ghiseul.ro      |  [ghiseul.ro](https://ghiseul.ro)    |  Variable depending on property    | Property taxing rate varies depending on property size, type, and region |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Romania is about to mandate CGT (Capital Gains Tax) withholding. This means that any profits made from selling your property should be taxed, which should be considered when calculating your total taxes due.

@@ -38,9 +38,10 @@ This supplement is ideal for working or student parents who have children under 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Pajemploi      |  [https://www.pajemploi.urssaf.fr](https://www.pajemploi.urssaf.fr)   |      Variable      |        Free       |
 
 ## Additional details
 - Be aware that your supplement amount will depend on your income, number of children, age of children, and the number of hours of childcare required.

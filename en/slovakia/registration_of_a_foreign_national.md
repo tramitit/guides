@@ -35,9 +35,10 @@ This service is necessary for non-Slovak residents who desire to reside in Slova
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Foreign Police Department| N/A |      90 days      |        Variable       |
 
 ## Additional details
 The Slovak Republic has lenient policies on foreign registration. However, foreign nationals planning on staying in Slovakia for 90 days or more are required to register. It is also worth noting, if you drive a car registered in a different country, you are required to go through procedures to register your car in Slovakia for use after six months of stay. Also, as per living arrangements during your stay, it's crucial to consider the cultural and societal norms that the Slovak natives uphold.

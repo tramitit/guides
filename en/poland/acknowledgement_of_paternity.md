@@ -39,10 +39,10 @@ You will need:
 
 ## Providers that can do it for you
 
-| Provider         |     Website     |     Timelines    |       Cost      |
-| ---------------  | --------------- |  :-------------: | :-------------: |
-| Local Family Court  |  [gov.pl](https://www.gov.pl/)  |     Depending on court schedule    |        Depending on court fees   |
-| Vital Records Office | [usc.gov.pl](http://www.usc.gov.pl/)|    Up to a week    |      Basic admin fee      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 In some cases, if paternity is being disputed, or in other complex circumstances, you may also need to hire a lawyer. This may also lead to additional costs. If parents cannot mutually agree on acknowledgement, a court procedure may be initiated for the establishment of paternity. 

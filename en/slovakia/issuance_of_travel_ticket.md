@@ -38,10 +38,10 @@ Additional steps for riveting physical copies of the ticket:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| ZSSK Rail       |  [zssk.sk](https://www.zssk.sk/)       |     Depends on availability and destination      |   Variable based on journey details     |
-| Universal Orlando| [universalorlando.com](https://www.universalorlando.com) | Instant Online Booking | Variable based on selected packages |
 
 ## Additional details
 - Always ensure you're booking from a reliable source to avoid scams.

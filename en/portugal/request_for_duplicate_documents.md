@@ -40,10 +40,10 @@ The documents required may vary depending on the type of document you want to du
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Portuguese Institute of Registries and Notaries      |  [Website](https://www.irn.justica.gov.pt/IRN/sections/irn/)       |      Varies      |        Varies       |
-| Instituto da Mobilidade e dos Transportes      |  [Website](https://www.imtonline.pt/)       |      Varies      |        Varies       |
 
 ## Additional details
 You may encounter a police report requirement for the duplication of certain documents, especially if they have been stolen or lost. Police reports can usually be obtained at the nearest police station or online at the [Portuguese Public Security Police](https://www.psp.pt/Pages/homePage.aspx) website.

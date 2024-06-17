@@ -36,9 +36,10 @@ Foreign nationals who are currently working in Spain and have a valid residence 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Spanish Immigration Office      |  [https://extranjeros.inclusion.gob.es/](https://extranjeros.inclusion.gob.es/)       |      Up to 3 months      |        Varies depending on your situation       |
 
 ## Additional details
 - If you need to travel abroad while waiting for your renewed work permit, ensure that you are legally covered to do so.

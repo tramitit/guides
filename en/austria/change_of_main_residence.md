@@ -39,9 +39,10 @@ Depending on the specifics of your situation, you might need:
 
 ## Providers that can do it for you
 
-| Provider   |     Website     |     Timelines    |       Cost      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| City of Vienna       |  [wien.gv.at](https://www.wien.gv.at)      |      2-3 days      |        -       |
 
 ## Additional details
 

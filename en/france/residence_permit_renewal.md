@@ -45,9 +45,10 @@ Non-French citizens living in France with a residence permit (“titre de séjou
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Prefecture      | [Prefecture Website](http://www.préfecture.fr/) |   Varies according to each Prefecture   |   Official fees vary depending on type of permit   |
 
 ## Additional details
 It’s advisable to keep every piece of official paper that you receive from the French administration, as you never know when it might be required. Also, consider using a mail service with delivery confirmation when sending documents to the 'Préfecture'. This can provide proof of the submission of your documents. Always ask for receipts for any transaction with the administration.

@@ -39,10 +39,10 @@ Please note that requirements may vary depending on the specific school, therefo
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Public School  |     N/A      |        N/A       |    Usually Free    |
-| Private School |  Varies depending on school | Varies depending on school | Varies depending on school |
 
 ## Additional details
 Please note that the French educational system is different from many other countries'. It's important to familiarize yourself with the structure and curriculum before enrolling your child. If your child requires special educational needs, please inform the school as the French system has programs and resources available to assist. Furthermore, if you are looking to enroll your child into an international or bilingual middle school in the country, make sure to research these schools well in advance as competition for spots can be high.

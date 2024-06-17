@@ -40,9 +40,10 @@ Each local council might have different requirements, so it's important to check
 
 ## Providers that can do it for you
 
-| Provider            |     Website            |     Timelines  |       Cost      |
-| ---------------- | -------------------- |  --------: | -----------: |
-| Local Council       |  https://www.localcouncilurl.com/       |       Varies        |        Varies       |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Note: The exact process and timeline can vary depending on the local laws and regulations of the area where your property located. Be sure to contact your local council to get the most accurate information.

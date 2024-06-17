@@ -31,9 +31,10 @@ The required documents for obtaining a TIN vary from country to country, but gen
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IRS (for ITINs in US)      |  [https://www.irs.gov](https://www.irs.gov)       |      Varies      |    Varies        |
 
 ## Additional details
 - ITIN in the United States does not authorize work in the U.S. or provide eligibility for Social Security benefits or the Earned Income Tax Credit.

@@ -33,9 +33,10 @@ Family members or legal representatives usually need it for various reasons incl
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| NYAK            |  [https://nyak.gov.hu/](https://nyak.gov.hu/) | TBA  | TBA |
 
 ## Additional details
 If the person died before 1895, church records are often used as they often contain death records. The church records can be found in the [FamilySearch](https://familysearch.org/search/collection/show#uri=http://familysearch.org/searchapi/search/collection/1452460) database.

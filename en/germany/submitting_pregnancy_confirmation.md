@@ -28,9 +28,10 @@ This procedure is typically necessary for pregnant persons who need to inform th
   
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Your healthcare provider      |  Can vary depending on the specific provider       |      Usually immediately but can vary      |       Varies depending on location and health insurance       |
 
 ## Additional details
 - It is important to be aware of your rights when submitting pregnancy confirmation. In many places, employers or service providers cannot discriminate against you or deny services based on your pregnant status.

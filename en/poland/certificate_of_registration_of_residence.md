@@ -33,9 +33,10 @@ This certificate is required for any individual planning to stay in Poland for m
 
 ## Providers that can do it for you
 
-| Provider        |     Website                                |     Timelines    |       Cost      |
-| --------------- | ---------------------------------- |  :-------------: | :-------------: |
-| Local City Council      |  Varies depending on city        |      Varies      |    Free or nominal charge     |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - A Certificate of Registration of Residence is not the same as a Residence Permit, which is required for non-EU citizens planning to stay in Poland for more than 90 days.

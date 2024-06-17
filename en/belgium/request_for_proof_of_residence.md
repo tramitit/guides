@@ -36,10 +36,10 @@ You may need the following documents:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Utility Co.  |  N/A       |      Varies      |        Varies       |
-| Your Bank      |  N/A       |      Varies      |        Varies       |
 
 ## Additional details
 - A Proof of Residence may be required by financial institutions or governmental entities. 

@@ -44,9 +44,10 @@ This guide is primarily aimed at students seeking financial aid in the form of s
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Campus France   |  [https://www.campusfrance.org/en](https://www.campusfrance.org/en) |      Varies      |        Free       |
 
 ## Additional details
 Ensure you apply as soon as the scholarship opportunity opens, as some scholarships have limited places and get filled quickly. Always ensure you meet all requirements before applying to improve your chances of success. Remember, it's not always about academic success - cultural exchanges, sports, and community service are also valued. Make your application stand out!

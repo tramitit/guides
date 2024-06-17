@@ -34,9 +34,10 @@ Any licensed driver who has lost, had stolen, or damaged their original driving 
 
 ## Providers that can do it for you
 
- | Provider        |     Website     |     Timelines    |       Cost      |
- | --------------- | --------------- |  :-------------: | :-------------: |
- | Instituto da Mobilidade e dos Transportes |  [http://www.imt-ip.pt](http://www.imt-ip.pt) |    Up to 15 days    |      €30      |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - If you request the duplicate license due to a change in your personal data (e.g., name), you must supply supporting legal documentation for the change.

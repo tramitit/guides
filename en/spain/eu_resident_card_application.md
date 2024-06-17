@@ -40,9 +40,10 @@ The following documents are typically required:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Spanish Embassy |  [Website](http://www.exteriores.gob.es/) |  1-3 months   |  Variable
 
 ## Additional details
 - If you are applying as the family member of an EU citizen, you will need to prove your relationship. This typically involves supplying marriage certificates, birth certificates, or other relevant documents.

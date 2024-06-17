@@ -40,11 +40,10 @@ Please note you will also require the translated and notarized copies of these d
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| ABC Translations      |  www.abctranslations.com       |      Varies depending on the document and service required      |        Varies depending on the service selected       |
-
-(Note: The provider mentioned above is hypothetical and meant to show the table format only.)
 
 ## Additional details
 

@@ -33,9 +33,10 @@ Anyone who is living in Hungary and is unable to meet their housing costs due to
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Government Offices      | No online portal       | Varies by region      | Free (though certain verification documents may incur costs) |
 
 ## Additional details
 - The process may vary slightly depending on your region, so it's best to visit your local government office for the most accurate information.

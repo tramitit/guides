@@ -35,9 +35,10 @@ This service is necessary for those who need to validate marital status for lega
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Archive office      |  [link to related website](http://)       |      Varies      |        Varies       |
 
 ## Additional details
 - Note the certificate might be in Hungarian language.

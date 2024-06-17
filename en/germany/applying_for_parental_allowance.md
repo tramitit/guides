@@ -35,10 +35,11 @@ Any parent who is currently residing in Germany and has a newborn or adopted chi
 - Passport or an identity card
 - Residence permit (if applicable)
   
-## Providers
+## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Bundesagentur für Arbeit | [https://www.arbeitsagentur.de/](https://www.arbeitsagentur.de/) | Varies | Free |
   
 ## Additional details
 - The amount of parental allowance you receive depends on your income before the birth of your child. It ranges from €300 to €1,800 per month.

@@ -34,9 +34,10 @@ Any person residing in Poland, whether citizen or foreigner, who has lost their 
 
 ## Providers that can do it for you
 
-|   Provider               |      Website                              |    Time spent      |      Price (PLN) |
-| -------------------    | -------------------             |  :-------------:   | :-------------:   |
-| Voivodeship Office | [Warsaw](http://www.mazowieckie.pl/en/), [Krakow](http://www.malopolska.uw.gov.pl/default.aspx?page=Start) | 2-3 hours       | Variable |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

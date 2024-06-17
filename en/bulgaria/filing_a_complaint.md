@@ -33,13 +33,10 @@ This procedure would be of benefit to anybody living or visiting Bulgaria who ma
 
 ## Providers that can do it for you
 
-**Note:** There's no exact provider specified for filing complaints, it depends on the nature of the complaint, here are few authorities where you could direct your complaints:
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider        |     Website   |     Timelines  |  Cost  |
-| --------------- | --------------- |  :-------------: | :-----:|
-| Ministry of Interior |  http://www.mvr.bg/    |     Varies     |  Free   |
-| Sofia Urban Mobility Center |  http://www.sofiatraffic.bg/   |    Varies    |  Free   |
-| Consumer Protection Commission |  http://www.kzp.bg/  |     Varies      |     Free     |  
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

@@ -39,9 +39,10 @@ Providing these documents might differ depending on the program you are applying
 
 ## Providers that can do it for you
 
-| Provider        |     Website         |     Timelines    |       Cost      |
-| --------------- | ----------------- | :-------------: | :-------------: |
-| Social Services |  [Social Services](https://www.msssi.gob.es) | Varies | Free |
-    
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 ## Additional details
 Remember that each aid program may have its own set of eligibility criteria. You might be eligible for some programs and not others, depending on factors like your income level, the number of children you have, and where you live. Be sure to check the eligibility requirements for each program carefully.

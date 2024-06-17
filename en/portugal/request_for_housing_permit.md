@@ -37,9 +37,10 @@ The permit is needed by anyone who intends to buy, sell, or rent property in Por
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| [Municipality]  |  https://www.portugal.gov.pt/ |      [Varies by location]      |        [Varies]       |
 
 ## Additional details
 - The length of time this process takes can vary depending on the complexity of the project and the speed of the local authority.

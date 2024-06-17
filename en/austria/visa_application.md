@@ -44,9 +44,10 @@ You can find the required application forms and other details on the [official A
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Austrian Embassy/Consulate      |  https://www.bmeia.gv.at/en/       |      Varies (generally 3-6 weeks)      |        Varies depending on type of visa and country of origin      |
 
 ## Additional details
 Keep in mind that the Schengen area including Austria, has a policy of requiring a verpflichtungserklärung or "obligation letter" from a host in order to allow certain non-EU citizens to visit. Make sure to check with the Austrian Embassy/Consulate regarding any such requirement. Be aware that processing times can vary greatly depending on the time of year and the specific circumstances of your application.

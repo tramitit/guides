@@ -38,10 +38,10 @@ The main demographic for social housing are people with a low income who can't a
 Documents can be obtained from relevant authorities such as your bank (for proof of income) and government ID issuing organizations (for ids).
 
 ## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
-| Provider | Website | Timelines | Cost |
-| --- | --- | --- | --- |
-| Housing Associations | Varied by region | Up to 10 years | Based on income |
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional Information
 

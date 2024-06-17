@@ -32,9 +32,10 @@ The permit is a must-have for individuals, builders, entrepreneurs or companies 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Building Offices     |      Government official sites |     Depending on individual cases   |       Depending on each specific project     |
 
 ## Additional details
 - The processing time for a building permit application may vary depending on the complexity of your project, the completeness of your application, and the workload of the building authority.

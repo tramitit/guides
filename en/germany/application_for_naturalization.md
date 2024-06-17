@@ -47,11 +47,12 @@ Ideal for foreigners living in Germany who are intending to obtain German citize
 
 For detailed information, visit [Required Documents for Applying for German Citizenship](https://www.germany.info/us-en/service/03-Citizenship/naturalization/925326) 
 
-## Providers that can do it for you 
+## Providers that can do it for you
+
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| German Mission in the U.S |   [Link to German Mission](https://www.germany.info/us-en/embassy-consulates)  |      Case-by-case basis      |        Varies depending on the individual case       |
 
 ## Additional details
 

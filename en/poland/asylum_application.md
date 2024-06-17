@@ -39,9 +39,10 @@ You will need:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Office for Foreigners     |  [https://udsc.gov.pl](https://udsc.gov.pl)       |      Dependent on individual case      |        No Cost       |
 
 ## Additional details
 While Poland is not traditionally the most sought after destination for asylum seekers, Poland's membership in European Union potentially creates the environment for relocation to other EU countries eventually. However, please note that Poland adheres to a stricter immigration policy and they have a less welcoming stance towards asylum seekers compared to other EU countries. Remember that the legality of your stay will be determined by a court or another state body.

@@ -39,9 +39,10 @@ Anyone who wishes to legally drive a motor vehicle on public roads in Bulgaria w
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Bulgaria Driving School      |  https://www.bulgariadrivingschool.com/       |  Around 3 months       |          Varied      |
 
 ## Additional details
 

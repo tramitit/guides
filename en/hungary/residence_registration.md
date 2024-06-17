@@ -35,9 +35,10 @@ Please note that all documents should be translated into Hungarian, if they are 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Government Office      |  [nyilvantarto.hu](https://nyilvantarto.hu/hu/online_szolgaltatasok)       |  15-30 days     |  Free of charge    |
 
 ## Additional details
 In case of non-EU citizens aiming for permanent residency in an EU country like Hungary, the process may involve additional steps such as applying for a residence permit. Such an application typically requires you to submit proof of income or financial stability, proof of health insurance, and a criminal record certificate. Be sure to check with the local authorities or legal experts to confirm specific requirements in your case.

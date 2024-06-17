@@ -32,9 +32,10 @@ The procedure is required for any non-national visiting Croatia, including touri
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Croatian Police | [link](http://www.mup.hr) |      Within 48 hours of arrival    |        Free       |
 
 ## Additional details
 - Note that failure to properly register your stay can lead to fines or even expulsion from the country. In addition, it's considered a security measure, so not complying could attract unnecessary attention from law enforcement. 

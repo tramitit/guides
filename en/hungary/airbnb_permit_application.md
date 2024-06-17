@@ -35,7 +35,10 @@ Please note that these are general requirements and there might be specific docu
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 Some cities may require you to have a business license in order to operate an Airbnb. Be sure to check with your local city council for specific information.

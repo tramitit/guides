@@ -36,9 +36,10 @@ Note: Always check with your local authorities for a comprehensive list of docum
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider 1      |  https//:       |      x days      |        $X       |
 
 ## Additional details
 Some countries may allow changes to be made online or via mail, check with your local authority to find out the specific procedure for your location.

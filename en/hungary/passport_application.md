@@ -47,9 +47,10 @@ Always check with your local Hungarian embassy or consulate for the most updated
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Hungarian Embassy      |  [www.mfa.gov.hu](http://www.mfa.gov.hu)       |      Varies      |        Varies       |
 
 ## Additional details
 Any changes in your personal data such as unwanted name changes should be reported to and modified at the issuing office.

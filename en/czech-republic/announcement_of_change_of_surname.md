@@ -35,9 +35,10 @@ Any person intending on changing their last name and thereby needing to update t
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| LegalZoom     |  [LegalZoom](https://www.legalzoom.com)     |      Variable depending on jurisdiction      |        Variable depending on jurisdiction       |
 
 ## Additional details
 • Deadlines to complete a name change process can vary depending on your local jurisdiction.

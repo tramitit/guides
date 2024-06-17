@@ -34,9 +34,10 @@ Anyone who is responsible for handling affairs after a person's death, such as f
 
 ## Providers that can do it for you
 
-| Provider         | Website | Timelines | Cost |
-| ---------------- | ------- | --------- | ---- |
-| Local Civil Registry Office | N/A | 4-5 working days | Free (Minor fees may apply for expedited services) |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - In most cases, deaths in Spain must be registered in the municipal area where the death occurred.

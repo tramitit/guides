@@ -36,9 +36,10 @@ Every Bulgarian citizen who is over 14 years old is required to have an identity
 
 ## Providers that can do it for you
 
-| Provider             | Website                                | Timelines   | Cost   |
-| -------------------- | -------------------------------------- | :---------: | :----: |
-| Ministry of Interior | [Website](http://www.mvr.bg/en)        | 30 days     | Varies |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - Keep in mind that all documents must be in Bulgarian or translated into Bulgarian by an official translator.

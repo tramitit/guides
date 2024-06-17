@@ -34,9 +34,10 @@ Individuals who have undergone significant legal changes in their personal ident
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Local Government Office |  Varies based on location |      Varies by location and case |        May vary depending on the location and complexity   |
 
 ## Additional details
 Make sure to update all places where your old ID was used. This could be your banks, schools or workplaces for corrrect records.

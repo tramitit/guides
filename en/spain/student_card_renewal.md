@@ -36,9 +36,10 @@ Every foreign student studying in Spain who has a student card that's about to e
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Spanish Government     |  https://sede.administracionespublicas.gob.es/icpplus/    |      30-60 days      |        Variable      |
 
 ## Additional details
 - Remember, the appointment for renewal should be booked around 60 days prior to the expiration of your student card. 

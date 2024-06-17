@@ -38,9 +38,10 @@ The exact documents required may vary depending on the specific nature of your b
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Intercompany    |  [Intercompany](https://www.intercompanysolutions.com/) |      Varies      |       Varies     |
 
 ## Additional details
 Remember to consult with a legal expert or a business consultant if you're unsure about any step in the process. Regulations can change, so it's important to ensure you're always following the most up-to-date procedures in order to fully comply with Bulgarian business laws.

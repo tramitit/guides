@@ -37,9 +37,10 @@ Individuals with a passport that is getting expired or has less than 6 months of
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Spanish Consulate      |  [Spanish Consulate website](https://www.maec.es/)       |      Depends on available appointments      |        Variable based on circumstance and urgency       |
 
 ## Additional details
 

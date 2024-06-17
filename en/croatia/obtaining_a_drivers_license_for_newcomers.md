@@ -33,9 +33,10 @@ Anyone who wishes to drive in Croatia, particularly newcomers moving to the coun
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Split Driving   |  [SplitDriving.hr](http://www.splitdriving.hr/)       |   Varies on proficiency      |  Varies on duration      |
 
 ## Additional details
 It's worth noting that the driving test in Croatia is conducted in Croatian, so a certain level of understanding of the Croatian language might be required. Understanding local driving laws and regulations is also crucial when getting ready to drive in Croatia.

@@ -33,10 +33,10 @@ It's most suited for anyone interested in constructing a house or a building, ma
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Reality.cz      |  [Reality](https://www.reality.cz/)   |      Variable      |        Variable       |
-| Sreality.cz      |  [Sreality](https://www.sreality.cz/) |      Variable      |        Variable       |
 
 ## Additional details
 - It's important to understand that buying a building plot is a major investment that must be considered carefully.

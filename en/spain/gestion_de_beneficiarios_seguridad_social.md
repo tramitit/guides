@@ -10,7 +10,6 @@ meta_title: Gestion de Beneficiarios Seguridad Social in Spain
 tags:
 - Social Security
 title: Gestion de Beneficiarios Seguridad Social in Spain
-translationKey: spain-beneficiaries-seguridad-social
 ---
 
 
@@ -41,9 +40,10 @@ The documents required to get a social security number in Spain are:
 
 ## Providers that can do it for you
 
-| Provider                         | Website | Timelines | Cost |
-| -------------------------------- | ------- | :-------: | :--: |
-| Tesorería de la Seguridad Social | N/A     |  Varies   | Free |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

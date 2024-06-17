@@ -35,9 +35,10 @@ You will typically need:
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| UK Government   | [GOV.UK](https://www.gov.uk/apply-first-provisional-driving-licence) |  Check Website  |       £34 + Shipping Cost       |
 
 ## Additional details
 The usual processing time is about a week if you apply online, but it may take longer due to high demand or other unforeseen circumstances. Be sure to check the official Government website for the most accurate and up-to-date information.

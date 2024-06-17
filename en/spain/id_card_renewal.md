@@ -34,9 +34,10 @@ Spanish citizens, both resident and non-resident, who possess an expired or soon
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Spanish Consulate |  [Consulate website](https://www.exteriores.gob.es/es/Paginas/index.aspx) |      Varies      |        Around 12 Euros       |
 
 ## Additional details
 - If your DNI expired while you were outside of Spain, it won't be considered an offence and you can renew it upon return.

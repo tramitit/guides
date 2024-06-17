@@ -34,9 +34,10 @@ All parents or guardians who are residents or employees in Germany are entitled 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Bundesagentur für Arbeit |  [https://www.arbeitsagentur.de/en](https://www.arbeitsagentur.de/en)  |     vary     |        -       |
 
 ## Additional details
 - The applications are processed within six weeks on average, but during peak times this can take longer.

@@ -33,9 +33,10 @@ If you are an immediate family member or executor of the will of a person who ha
 
 ## Providers that can do it for you
 
-| Provider       | Website             | Timeline | Cost |
-|----------------|---------------------|----------|------|
-| Standesamt.cz  | [standesamt.cz](http://www.standesamt.cz/) | Vary according to specific case| Vary according to specific case |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - **IMPORTANT:** It is essential to report the death to the registry office within 30 days. Failure to do so might lead to penal consequences.

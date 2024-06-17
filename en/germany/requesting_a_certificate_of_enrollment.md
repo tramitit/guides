@@ -37,12 +37,10 @@ Typically, the required documents or information are:
 4. Semester/Term for which you need the certificate
 
 ## Providers that can do it for you
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| National Student Clearinghouse      |  [http://www.studentclearinghouse.org/](http://www.studentclearinghouse.org/)     |      Varies      |        Varies       |
-
-Please note, not all institutions may secure services through the National Student Clearinghouse.
 
 ## Additional Details
 Please note that the institution may charge a nominal fee for generating this certificate. Also, depending on the time of the year, it may take several business days for the institution to process your request and issue the certificate. Also, the certificate does not typically disclose the subjects a student is enrolled in or their grades, just their enrollment status.

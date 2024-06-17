@@ -34,9 +34,10 @@ Any traveler or expat who has lost their passport or had it stolen will find thi
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| U.S. Embassy in Hungary | [https://hu.usembassy.gov/](https://hu.usembassy.gov/) |    Variable (Depends on individual case and urgency)  |     Varies (Fee for new passport)    |
 
 ## Additional details
 - It is recommended to keep copies of your passport’s biographic information page and the page containing your Hungarian entry stamp separately from your passport just in case it gets lost.

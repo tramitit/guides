@@ -38,9 +38,10 @@ Any Romanian citizen, or a foreign citizen living in Romania, who needs to verif
 
 ## Providers that can do it for you
 
-| Provider             |     Website          |     Timelines    |       Cost      |
-| -------------------- | -------------------- |  :------------:  | :------------:  |
-| Public Community Service for the Population      |    N/A    |      Varies, please visit office      |  Taxes vary |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - It's recommended to renew your card before it expires, as some services may not accept expired IDs

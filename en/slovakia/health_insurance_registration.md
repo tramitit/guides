@@ -33,11 +33,10 @@ Every foreign national who is employed, self-employed, studying, or living in Sl
 
 ## Providers that can do it for you
 
-| Provider                            |             Website                |     Timelines   |       Cost       |
-| ---------------------------------   | --------------------------------- |  :-------------:| :--------------: |
-| Všeobecná zdravotná poisťovňa       |  [vszp.sk](https://www.vszp.sk/)  |    2 weeks      |        NA        |
-| Dôvera zdravotná poisťovňa          |  [dovera.sk](https://www.dovera.sk/)|   2 weeks      |        NA        |
-| Union zdravotná poisťovňa           |  [unionzp.sk](https://www.unionzp.sk/)|  2 weeks     |        NA        |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 In many cases, your employer will register you for health insurance. If you're a student, your university may register you. If you are unemployed or self-employed, you ought to do it yourself. You need to make sure that you are registered within 8 days of starting work or becoming a resident. Failure to do so may result in a fine or denial of services.

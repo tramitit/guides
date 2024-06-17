@@ -34,9 +34,10 @@ Students who are residents of Germany (either EU-citizens or non-EU) and interna
 
 ## Providers that can do it for you
 
-| Provider       |     Website     |     Timelines   |       Cost      |
-| --------------- | -------------- |  :-------------: | :--------: |
-| Federal Ministry of Education and Research Germany | [www.bafoeg.bmbf.de](https://www.bafoeg.bmbf.de/) | 2-6 weeks after submission | Free    |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 - The amount of BAföG awarded depends on several factors, including the student's income and assets, parents' income, and whether the student lives with their parents or independently.

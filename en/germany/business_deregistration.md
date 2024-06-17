@@ -40,9 +40,10 @@ Any business owner who ceases conducting business or freelancing activities in G
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Abmeldung Service      |  [https://www.abmeldungservice.de/](https://www.abmeldungservice.de/)       |      2-3 weeks      |        Variable depending on the service       |
 
 ## Additional details
 - There is no cost to deregister your business in Germany.

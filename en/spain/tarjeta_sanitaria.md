@@ -10,7 +10,7 @@ meta_title: 'Spanish Tarjeta Sanitaria: Benefits, Procedure, and Providers'
 tags:
 - Social Security
 title: 'Spanish Tarjeta Sanitaria: Benefits, Procedure, and Providers'
-translationKey: 'spain-tarjeta_sanitaria'
+translationKey: 'spain-tarjeta-sanitaria'
 ---
 
 
@@ -42,9 +42,10 @@ Any resident in Spain, including expats, students, workers, retirees, among othe
 
 ## Providers that can do it for you
 
-| Provider          | Website                 | Timelines | Cost |
-| ----------------- | ----------------------- | :-------: | :--: |
-| In-person service | The local CAISS offices |    N/A    | Free |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 

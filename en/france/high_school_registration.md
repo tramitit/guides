@@ -43,9 +43,10 @@ This guide is ideal for parents or guardians looking to register their children 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Lycée français de Shanghai      |  [School Website](https://www.lyceeshanghai.com/)       |      Depending on admission cycle      |        Varies       |
 
 ## Additional details
 

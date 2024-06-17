@@ -45,9 +45,10 @@ Anyone who has been fired, or who is jobless and needs consultation on their ben
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| SEPE     |  [https://www.sepe.es/](https://www.sepe.es/)       |      Varies, dependent on availability      |        Free       |
 
 ## Additional details
 

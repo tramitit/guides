@@ -36,10 +36,10 @@ Anyone who owns a motor vehicle (car, motorcycle, truck etc.) and plans to opera
 
 ## Providers that can do it for you
 
-| Provider           |     Website                  |   Timelines    |  Cost  |
-| ---------------    | ---------------              |  :-------------: | :-------------: |
-| R.A.R              | [rarom.ro](http://www.rarom.ro/) |       1-2 days   |      Varies    |
-| S.E.P Iasi         |    [sepauto.ro](https://sepauto.ro/)          |       1-2 days  |      Varies    |
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
+
+| Provider        |     Website     |     Timelines    |       Cost      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
 In case of car registration from different countries, additional documents such as customs clearance declaration for vehicles coming from non-EU countries may be needed. Also, all the documents need to be translated into Romanian.

@@ -33,11 +33,10 @@ You can obtain your CRC report from Banco de Portugal or apply for credit cards 
 
 ## Providers that can do it for you
 
+_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Provider 1      |      [https//:](https://example.com)         |      Usually, within 10-15 days      |        Varies depending on the issuing authority       |
-
 
 ## Additional details
 CRC reports are crucial for financial stability and opportunities. Managing them responsibly is important for maintaining good financial health.
