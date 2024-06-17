@@ -36,10 +36,11 @@ Každá osoba, která dováží vozidlo ze zahraničí do svého domovského st�
 
 ## Poskytovatelé, kteří to za vás mohou udělat
 
-| Poskytovatel    |     Webová stránka       |    Časové termíny  |       Náklady    |
-| --------------- | ------------------------- |  :-------------: | :-------------: |
-| Místní dopravní úřad |    -        |      Stanoveno individuálně      |        Různé       |
-| Celní úřad    |    -          |      Stanoveno individuálně      |        Různé       |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 Dovážení vozidla ze zahraničí zahrnuje proměnlivé náklady včetně dopravy, celních poplatků a potenciálních úprav k dodržení místních předpisů. V některých případech může být praktické prodat vozidlo v původní zemi a zakoupit nové ve státě určení. Vždy pečlivě zkoumejte, abyste určili nejlepší finanční a praktickou možnost pro vaši konkrétní situaci.

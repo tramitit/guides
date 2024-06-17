@@ -32,10 +32,11 @@ Je zaměřena na ty, kteří ztratili práci, jsou v současné době nezaměstn
 Poznámka: Přesné požadované dokumenty se mohou změnit v závislosti na vaší konkrétní situaci. Měli byste zkontrolovat oficiální webovou stránku Úřadu práce, abyste zajistili, že máte všechny potřebné dokumenty.
 
 ## Poskytovatelé, kteří to mohou udělat za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel | Webová stránka  | Časové rozmezí | Cena |
-| ------------- | ----------------- |  :-------------: | :-------------: |
-| Úřad práce | www.uradprace.cz | 7 dní | Zdarma |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 Pamatujte, abyste byli oprávněni k podpoře v nezaměstnanosti, musíte být nezaměstnaní a aktivně hledat práci. Úřad práce může kdykoli žádat o prokázání tohoto, například odeslané žádosti nebo navštívené pohovory. Délka a výše podpory mohou být různé v závislosti na specifických proměnných, včetně vaší minulé mzdy, minulé pracovní historie a dalších. Doporučuje se zkontrolovat webovou stránku Úřadu práce nebo se s nimi přímo poradit, abyste lépe porozuměli tomu, jak to funguje.

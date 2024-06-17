@@ -37,10 +37,11 @@ Občané zemí mimo Evropskou unii, kteří plánují navštívit, studovat, pra
 - Předchozí schengenská víza (pokud existují)
 
 ## Poskytovatelé, kteří mohou zařídit vízum za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel    |     Webová stránka     |     Termíny    |       Náklady      |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Česká ambasáda      |  [https://www.mzv.cz](https://www.mzv.cz/jnp/en/index.html)       |     Proměnlivé v závislosti na konzulátu      |        Proměnlivé v závislosti na typu víza       |
+
 
 ## Další podrobnosti
 Doba zpracování víza se liší v závislosti na typu víza, o které žádáte. Doporučuje se podat žádost nejméně 15 dní před plánovaným výletem.

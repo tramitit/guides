@@ -29,11 +29,10 @@ Tento průvodce je ideální pro jednotlivce žijící v České republice, kte�
 - Údaje o vašem současném zdravotním pojištění.
 
 ## Poskytovatelé, kteří to mohou udělat za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel        |     Webová stránka     |     Časové termíny    |       Náklady      |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-
-*Poznámka: Tabulka výše je ilustrativní a skutečné časové rámce a náklady se mohou lišit. Prosím, zkontrolujte webové stránky pojišťovny pro aktuální informace.
 
 ## Další podrobnosti
 

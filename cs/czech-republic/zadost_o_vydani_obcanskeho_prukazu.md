@@ -34,7 +34,11 @@ Každá osoba, která žije v České republice a chce mít platný průkaz toto
 5. Předchozí občanský průkaz (pokud je použitelný).
 
 ## Poskytovatelé, kteří to mohou udělat za vás
-Neexistují žádní třetí poskytovatelé, kteří by mohli podat žádost jménem vás. Žádost musí být podána osobně na místním úřadu Ministerstva vnitra.
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 Podle zdroje obvykle trvá zpracování a vydání občanského průkazu kolem 2-3 týdnů. Cena žádosti se liší v závislosti na naléhavosti a věku žadatele. Každopádně je vyžadován platný důkaz totožnosti a/nebo stavu pobytu. Konkrétní požadavky a poplatky lze ověřit u Ministerstva vnitra.

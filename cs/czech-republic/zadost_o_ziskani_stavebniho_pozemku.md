@@ -32,11 +32,11 @@ Je vhodné pro každého, kdo má zájem postavit dům nebo budovu, ať už jsou
 - Důkaz o převodu. Obvykle se jedná o dokument poskytnutý místním katastrem, který uvádí, že pozemek byl převeden na nového vlastníka.
 
 ## Poskytovatelé, kteří to mohou udělat za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel   |     Webová stránka     |     Časové plány    |       Náklady      |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Reality.cz      |  [Reality](https://www.reality.cz/)   |      Proměnlivé      |        Proměnlivé       |
-| Sreality.cz      |  [Sreality](https://www.sreality.cz/) |      Proměnlivé      |        Proměnlivé       |
+
 
 ## Další podrobnosti
 - Je důležité si uvědomit, že nákup stavebního pozemku je závažná investice, která musí být pečlivě zvážena.

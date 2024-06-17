@@ -38,9 +38,11 @@ Konkrétní požadované dokumenty se mohou lišit v závislosti na požadavcíc
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel       |     Webová stránka     |     Termíny    |       Náklady      |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Magistrát hlavního města Prahy  |  [http://www.praha.eu](http://www.praha.eu/)       |      Podléhá dostupnosti termínů   |       Podléhá zvolené službě|
+
 
 ## Další podrobnosti
 V České republice musí všechny změny jména z důvodu uzavření manželství splňovat právní standardy. Ženy obvykle mají možnost přijmout jméno svého manžela nebo si ponechat své vlastní. Pokud jste cizinec a vaše domovská země má odlišná pravidla pro změnu jména po sňatku, český úřad matrik zohlední tato pravidla.

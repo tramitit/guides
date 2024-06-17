@@ -35,9 +35,11 @@ Každá osoba, která plánuje změnit své příjmení a tím aktualizovat svou
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel    |     Webová stránka     |     Časové termíny    |       Náklady      |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| LegalZoom     |  [LegalZoom](https://www.legalzoom.com)     |      Proměnné v závislosti na jurisdikci      |        Proměnné v závislosti na jurisdikci       |
+
 
 ## Další podrobnosti
 • Termíny pro dokončení procesu změny jména se mohou lišit v závislosti na vaší místní jurisdikci.

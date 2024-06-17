@@ -34,9 +34,11 @@ Lidé, kteří chtějí přidat k svým vozidlům jedinečný dotek nebo vyjád�
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel | Webová stránka | Časové termíny | Náklady |
-| ------------ | --------------- | :-------------: | :-----: |
-|              |                 |                 |         |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 Mějte na paměti, že každá země má odlišná pravidla týkající se nadstandardních nebo personalizovaných registračních značek, včetně České republiky. Dodržování těchto pravidel je zásadní pro úspěšnou žádost. Regulace mohou zahrnovat omezení na urážlivé nebo zavádějící kombinace, stejně jako požadavky na čitelnost značek a soulad s standardním formátem.

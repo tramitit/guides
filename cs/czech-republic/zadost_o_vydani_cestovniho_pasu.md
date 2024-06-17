@@ -36,10 +36,11 @@ Pokud jste občanem České republiky nebo máte nárok na to stát se jím a po
 Všechny dokumenty musí být originální nebo oficiálně ověřené kopie. Doporučuje se udělat si vlastní kopie pro osobní potřebu.
 
 ## Poskytovatelé, kteří to mohou udělat za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel    |     Webová stránka     |     Časové termíny    |       Cena      |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| České Ministerstvo vnitra | [Ministerstvo vnitra](http://www.mvcr.cz) |    2-4 týdny    |        Varies       |
+
 
 ## Další podrobnosti
 Doby zpracování se mohou výrazně lišit v závislosti na několika faktorech, včetně místa podání žádosti, objemu žádostí a času v roce. Všimněte si, že doby zpracování mohou být výrazně delší během rušných cestovních období. Pro nejaktuálnější informace pravidelně kontrolujte webové stránky Ministerstva vnitra.

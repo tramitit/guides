@@ -31,10 +31,11 @@ Tento proces je důležitý pro každého, kdo plánuje přestěhování na novo
 - Vyplněný registrační formulář
 
 ## Poskytovatelé, kteří vám mohou pomoci
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel        |     Webová stránka     |     Časové lhůty    |       Náklady      |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Prášský úřad      | [https://www.eservice.praha.eu/](https://www.eservice.praha.eu/)       |      Různé pro každý případ      |        N/A       |
+
 
 ## Další podrobnosti
 Nezapomeňte, že změna trvalého bydliště často znamená více než jen aktualizaci adresy na poštovním úřadě. Budete muset aktualizovat adresu také u vašeho poskytovatele zdravotní péče, pojišťovny, zaměstnavatele a jakékoli jiné organizace nebo služby, která používá vaši fyzickou adresu. Pokud se přestěhujete z ciziny, může být také nutné řešit celní a imigrační procedury, které mohou být doprovázeny svým vlastním souborem postupů a požadavků.

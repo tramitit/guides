@@ -36,9 +36,11 @@ Prosím, uvědomte si, že proces a požadavky se mohou lišit v závislosti na 
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel    |     Webová stránka     |     Doba zpracování    |       Náklady      |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Úřad práce    |  https://www.mpsv.cz/en/  |  cca 30 dní   |   Zdarma       |
+
 
 ## Další podrobnosti
 Předtím než požádáte o rodinný příspěvek, musíte se ujistit, že máte nárok. Příspěvek je poskytován rodičům, kteří momentálně nepracují, nestudují nebo nejsou mimo domov kvůli jiným povinnostem, a kteří se plně starají o své dítě.

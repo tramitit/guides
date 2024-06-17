@@ -35,9 +35,11 @@ Tento průvodce je ideální pro jednotlivce, kteří se přestěhovali do Česk
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel        |     Webová stránka     |     Doba trvání    |       Cena      |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministerstvo dopravy      | [odkaz](http://www.mdcr.cz/)       |      20-30 dní      |        Proměnlivá       |
+
 
 ## Další podrobnosti
 Pamatujte, že proces se může mírně lišit, pokud byl váš průkaz vydaný zemí EU/EEA. Je také důležité si uvědomit, že pokud informace na vašem zahraničním řidičském průkazu není v českém nebo anglickém jazyce nebo neodpovídá českým standardům, může být vyžadováno její přeložení ověřeným překladatelem. Váš původní průkaz bude zadržen českými úřady a vrácen vydávající stát.

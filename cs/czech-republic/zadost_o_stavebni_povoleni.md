@@ -39,9 +39,11 @@ Upozorňujeme, že postup a požadavky se mohou lišit podle obce a specifickéh
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel    |     Webová stránka |     Termíny    |       Náklady   |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Místní architekt |  [DoRozhodnutí]          |     DoRozhodnutí         |        DoRozhodnutí      |
+
 
 ## Další podrobnosti
 - Zohlednění stavebních předpisů je důležité nejen pro získání stavebního povolení, ale také pro vyhnutí se potenciálním právním a bezpečnostním problémům během stavby.

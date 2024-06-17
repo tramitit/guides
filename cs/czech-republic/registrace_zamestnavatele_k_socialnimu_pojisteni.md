@@ -34,11 +34,11 @@ Upozorňujeme, že příspěvky do sociálního pojištění by měly být place
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel    |     Webová stránka   |     Doba        |       Cena      |
-| --------------- | ---------------      |  :-------------: | :-------------: |
-| Právní poradenství |  https://abc.cz    |      5 dní      |       Variabilní |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-Poznámka: Cena za najmutí poradenského týmu se může lišit v závislosti na složitosti vašeho podnikání a službách, které potřebujete.
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 - Sazby příspěvků do sociálního pojištění se každý rok mění. Buďte v obraze pomocí tohoto [odkazu](https://www.cssz.cz/en/social-insurance/mandatory-and-voluntary-insurance/contributions).

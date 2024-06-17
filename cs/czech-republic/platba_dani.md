@@ -36,9 +36,11 @@ Dokumentace potřebná k daňovému přiznání může zahrnovat:
 
 ## Poskytovatelé, kteří mohou za vás udělat
 
-| Poskytovatel | Webová stránka | Termíny | Cena |
-| --------------- | --------------------| ------------: | ----------------: |
-| Příklad daňového úřadu | https://www.example.com | Závisí na konkrétním případu | Liší se podle poskytované služby |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 Pokud je proces placení daní v České republice příliš složitý, zvažte najmutí daňového poradce. Ten se postará o to, abyste správně dodržovali zákon a využívali případné daňové úlevy. Různé online poskytovatele mohou pomoci s vyplněním daně, což může zjednodušit proces.

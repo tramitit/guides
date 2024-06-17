@@ -34,9 +34,11 @@ Všichni obyvatelé České republiky, kteří chtějí legálně řídit vozidl
 - Povolení k pobytu: Důkaz vašeho legálního pobytu v zemi, pokud je vyžadován.
 
 ## Poskytovatelé, kteří to mohou udělat za vás
-| Poskytovatel                      |   Webová stránka               |   Časové lhůty  |     Cena     |
-| ------------------------ | ------------------------------ |  :---------: | :--------: |
-| Pražská autoškola        | [Webová stránka](https://praguedrivingschool.cz) | 2 - 3 měsíce | 14 900 CZK |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 - Pro různé typy vozidel je vyžadován minimální věk. Pro osobní automobily a tříkolky musí být uchazeči nejméně 18 let, zatímco pro motorky je minimální věk 16 let.

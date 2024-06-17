@@ -38,10 +38,10 @@ Jak obyvatelé, tak neobyvatelé České republiky, kteří touží vlastnit, no
 * Doklad o absolvování kurzu střelecké přípravy
 
 ## Poskytovatelé, kteří to mohou udělat za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel    |     Webová stránka     |     Termíny    |       Náklady      |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Czech Small Arms School   |  [https://www.czechsmallarmsschool.com/](https://www.czechsmallarmsschool.com/) |      1 týden      |        Náklady se liší, kontaktujte pro informace       |
 
 ## Další podrobnosti
 Pamatujte si, že zbrojní průkazy nejsou udělovány automaticky. Policisté mají právo zamítnout váš žádost, pokud nesplníte některý z požadavků nebo pokud mají podezření, že byste mohli zbraň zneužít. Proto je důležité se řádně připravit na zkoušky a dokázat, že jste schopní zodpovědně vlastnit zbraň.

@@ -36,9 +36,11 @@ Každý, kdo plánuje používat vozidlo v rámci České republiky déle než 1
 - Certifikát o shodě s evropskými předpisy nebo dovozní certifikát
 
 ## Poskytovatelé, kteří to mohou udělat za vás
-| Poskytovatel        |     Webová stránka     |     Časové plány    |       Náklady      |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Český automobilový svaz      |  [oca.cz](https://www.oca.cz/)       |      14 dní      |        Proměnné v závislosti na typu vozidla       |
+
 
 ## Další podrobnosti
 - Dokud není vozidlo zaregistrováno v České republice, není legální jezdit s ním na veřejných silnicích.

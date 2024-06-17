@@ -42,8 +42,11 @@ Každý jednotlivec žijící v České republice potřebuje zdravotní pojišt�
 
 ## Poskytovatelé, kteří vám mohou pomoci
 
-| Poskytovatel   |     Webová stránka     |     Doba trvání    |       Cena      |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
+
 
 
 ## Další podrobnosti

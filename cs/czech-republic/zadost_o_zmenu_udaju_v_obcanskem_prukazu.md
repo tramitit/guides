@@ -36,9 +36,11 @@ Pozn.: Vždy se poraďte s místními úřady ohledně podrobného seznamu dokum
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel    |     Webové stránky |     Časové rámce    |       Cena      |
-| --------------- | ---------------    |  :-------------:    | :-------------: |
-| Poskytovatel 1  |  https//:          |      x dní          |        $X       |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 Některé země mohou umožnit provádět změny online nebo poštou, zkontrolujte s místními úřady, abyste zjistili konkrétní postup pro vaši lokalitu.

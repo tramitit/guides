@@ -33,10 +33,10 @@ Občané EU, kteří plánují žít, pracovat nebo studovat v České republice
 - Důkaz o zaměstnání nebo studiu (smlouva nebo přijímací dopis od univerzity)
 
 ## Poskytovatelé, kteří to za vás mohou udělat
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel    |     Webová stránka                                       |     Termíny                |       Náklady                 |
-| --------------- | ---------------                                          |  :-------------:            | :-------------:               |
-| Ministerstvo vnitra      |  [mvcr.cz](https://www.mvcr.cz/mvcren/)              |      30 dní                 |        Zdarma (může se měnit)       |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Další podrobnosti
 - Dočasné potvrzení o pobytu není to samé jako povolení k pobytu. Potvrzení o pobytu potvrzuje vaše právo jako občana EU pobývat v České republice déle než 30 dní; nicméně, nepřiznává vám status rezidenta.

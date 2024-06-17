@@ -35,10 +35,11 @@ Tento registrační proces je určen pro podniky a zaměstnavatele v České rep
 4. Pro zahraniční zaměstnavatele bez sídla nebo místa podnikání v České republice je potřeba doklad, který dokládá právní důvod pobytu v České republice a dokumenty o jejich zaměstnancích.
 
 ## Poskytovatelé, kteří to mohou udělat za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel        |     Webová stránka     |     Časové termíny    |       Cena      |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| OSSZ CZ      |  [https://www.cssz.cz/](https://www.cssz.cz/)      |      Různé      |        Zdarma       |
+
 
 ## Další podrobnosti
 Systém zdravotního pojištění v České republice je povinný; proto je povinností zaměstnavatele registrovat své zaměstnance nejpozději 8. den od začátku pojištění.

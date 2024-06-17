@@ -36,9 +36,11 @@ Požadavky na dokumenty se mohou lišit v závislosti na podmínkách vašeho d�
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel   |     Webová stránka  |     Termíny dostupnosti   |       Náklady    |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Důchodový poskytovatel specifický pro jednotlivce      |  Specifický pro jednotlivce       |      Se liší podle poskytovatele     |        Se liší podle poskytovatele       |
+
 
 ## Další podrobnosti
 1. Postup a požadované dokumenty se mohou výrazně lišit v závislosti na konkrétním důchodovém plánu a poskytovateli.

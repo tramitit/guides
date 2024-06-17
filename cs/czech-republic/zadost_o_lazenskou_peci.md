@@ -31,9 +31,11 @@ Obvykle nebudete potřebovat žádné konkrétní doklady kromě platného průk
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel    |     Webová stránka     |     Termíny    |    Cena   |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Lázně Teplice      |  www.spa-teplice.cz     |   Proměnlivé v závislosti na službě    |  Se liší podle služby     |
+
 
 ## Další podrobnosti
 Česká republika je známa svou dlouhotrvající lázeňskou kulturou, zejména ve městech jako Karlovy Vary. Veřejný zdravotní systém v České republice je velmi kvalitní, takže lékařské a wellness služby můžete důvěřovat. Mějte na paměti, že většina lázní má svá vlastní pravidla, například povinnost nosit plavky, čepice nebo pantofle na lázeňském areálu. Před návštěvou se seznamte s konkrétními pokyny lázní. Nezapomeňte před a po ošetření vypít dostatek vody, abyste zůstali hydratovaní.

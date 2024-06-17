@@ -38,9 +38,11 @@ Následující dokumenty mohou být nezbytné pro úspěšnou registraci:
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel    |     Webová stránka     |     Termíny    |       Cena      |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Czech Relocation Services      |  [www.czrelocation.com](http://www.czrelocation.com)       |      Různé      |        Různé       |
+
 
 ## Další informace
 - Vždy se doporučuje přinést osobu, která mluví česky, na Úřad cizinecké policie, protože ne všichni úředníci mohou být plynní v angličtině.

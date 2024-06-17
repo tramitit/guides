@@ -36,10 +36,11 @@ Každý, kdo během daňového roku obdržel příjem a má daň k zaplacení po
 5. Doklady o zdravotním a sociálním zabezpečení.
 
 ## Poskytovatelé, kteří to mohou udělat za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel   |     Webová stránka          |     Termíny    |       Cena      |
-| --------------- | ---------------------------- | :------------: | :-------------: |
-| Daňoví poradci  |  http//:                    |   15-30 dní    |        $100-$500|
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 Existují pokuty za pozdní podání daňového přiznání a za pozdní placení daní, kterým lze vyhnout podáním včas. Nicméně jsou zde také ustanovení pro prodloužení termínu pro ty, kteří si najmou daňového poradce.

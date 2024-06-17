@@ -43,9 +43,10 @@ Jedinci trvale postižení fyzicky nebo duševně, kteří mají omezenou schopn
 
 ## Poskytovatelé, kteří to mohou udělat za vás
 
-| Poskytovatel    |     Webová stránka     |     Termíny    |       Náklady      |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Váše národní sociální pojišťovna      |  Podle oficiální vládní webové stránky vaší země      |    Doba zpracování žádosti se liší podle země a vašeho konkrétního případu     | Poplatky se mohou uplatňovat v závislosti na vaší situaci a předpisech vaší země |
 
 ## Další podrobnosti
 

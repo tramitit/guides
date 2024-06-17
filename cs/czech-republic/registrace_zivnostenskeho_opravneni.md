@@ -39,10 +39,11 @@ Jakýkoli jednotlivec s úmyslem vykonávat samostatnou práci nebo provozovat p
 - Vyúčtování rejstříku trestů
 
 ## Poskytovatelé, kteří to mohou udělat za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel        |     Webová stránka     |     Časové plány     |   Náklady   |
-| --------------- | --------------- |  :-------------:  | :------: |
-| CFC Consulting  | [cfcconsulting.cz](http://www.cfcconsulting.cz/) |      7 dní   |    Se různí |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 - Je důležité si uvědomit, že obchodní název by měl odpovídat činnosti vašeho podnikání.

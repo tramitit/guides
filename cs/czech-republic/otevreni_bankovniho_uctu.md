@@ -44,11 +44,11 @@ Obvykle jsou nutné následující dokumenty:
 
 ## Poskytovatelé, kteří to za vás mohou udělat
 
-| Poskytovatel    |     Webové stránky                |     Termíny    |       Cena      |
-| --------------- | ----------------------------- |  :-----------: | :------------: |
-| ČSOB            |  [ČSOB](https://www.csob.cz)              |      Různé      |       Různé      |
-| Komercni Banka |  [KB](https://www.kb.cz) |       Různé     |       Různé     |
-| Moneta Bank    |  [Moneta](https://www.moneta.cz) |  Různé  |  Různé  |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
+
 
 ## Další podrobnosti
 Některé z těchto bank mohou vyžadovat udržování určité minimální částky na vašem účtu, a bankovní služby jsou spojeny s různými poplatky, včetně za správu účtu a transakce. Tyto specifika se liší od banky k bance.

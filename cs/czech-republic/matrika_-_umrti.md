@@ -32,10 +32,10 @@ Pokud jste přímým členem rodiny nebo vykonavatelem závěti osoby, která ze
 - Všechny dokumenty by měly být v němčině nebo češtině v tomto kontextu. Pokud jsou v angličtině nebo jiných jazycích, může být zapotřebí překlad.
 
 ## Poskytovatelé, kteří to mohou udělat za vás
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
-| Poskytovatel  | Webová stránka     | Časový rámec | Náklady |
-|----------------|---------------------|----------|------|
-| Standesamt.cz  | [standesamt.cz](http://www.standesamt.cz/) | Liší se podle konkrétního případu| Liší se podle konkrétního případu |
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Další podrobnosti
 - **DŮLEŽITÉ:** Je nezbytné nahlásit úmrtí na úřadě matriky do 30 dnů. Nedodržení tohoto termínu může mít trestní následky.

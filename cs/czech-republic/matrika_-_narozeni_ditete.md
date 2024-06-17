@@ -41,8 +41,10 @@ Tento proces je aplikovatelný pro každého, kdo rodí v České republice, bez
 
 ## Poskytovatelé, kteří vám mohou pomoci
 
-| Poskytovatel        |     Webová stránka     |     Termíny    |       Náklady      |
-| Matriční úřad v Praze      |  [Matriční úřad v Praze](https://www.praha.eu/jnp/en/life_events/birth/index.html)      |      3-10 dní      |        Bez poplatku       |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Další podrobnosti
 

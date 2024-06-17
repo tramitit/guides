@@ -42,9 +42,11 @@ Poznámka: Pro turisty jsou k dispozici vyhrazená parkovací místa, kde může
 - Doklady o registraci vozidla.
 
 ## Poskytovatelé, kteří to mohou udělat za vás
-| Poskytovatel        |     Webová stránka     |     Časový rámec    |       Náklady      |
+_(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
+
+| Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Magistrát hlavního města Prahy      |  [Webová stránka](https://www.mhmp.cz/)       |      Různé      |        Různé       |
+
 
 ## Další podrobnosti
 - Mějte na paměti, že veřejná doprava v Praze je velmi efektivní a rozsáhlá - může být pohodlnější používat tento způsob dopravy místo boje s omezenými parkovacími místy.
