@@ -10,6 +10,7 @@ meta_title: 'Spain Digital Nomad Visa: Requirements, Process & Benefits'
 tags:
 - Foreigners
 title: 'Spain Digital Nomad Visa: Requirements, Process & Benefits'
+translationKey: spain-digital-nomad-visa
 ---
 
 

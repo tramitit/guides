@@ -10,6 +10,7 @@ meta_title: 'S-1 Declaration for Money Moved to Spain: Procedure & Documents'
 tags:
 - Foreigners
 title: 'S-1 Declaration for Money Moved to Spain: Procedure & Documents'
+translationKey: spain-s_1_form
 ---
 
 

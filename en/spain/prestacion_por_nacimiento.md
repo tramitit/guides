@@ -10,6 +10,7 @@ meta_title: 'Spanish Birth Certificate: Get Prestación por Nacimiento'
 tags:
 - Social Security
 title: 'Spanish Birth Certificate: Get Prestación por Nacimiento'
+translationKey: spain-birth-certificate
 ---
 
 

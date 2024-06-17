@@ -10,6 +10,7 @@ meta_title: 'Applying for Spanish Social Security Number: Procedure & Documents'
 tags:
 - Foreigners
 title: 'Applying for Spanish Social Security Number: Procedure & Documents'
+translationKey: spain-social-security-number
 ---
 
 

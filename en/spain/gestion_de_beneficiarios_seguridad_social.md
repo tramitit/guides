@@ -10,6 +10,7 @@ meta_title: Gestion de Beneficiarios Seguridad Social in Spain
 tags:
 - Social Security
 title: Gestion de Beneficiarios Seguridad Social in Spain
+translationKey: spain-beneficiaries-seguridad-social
 ---
 
 

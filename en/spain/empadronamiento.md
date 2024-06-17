@@ -11,6 +11,7 @@ meta_title: 'Empadronamiento in Spain: Registration Process and Requirements'
 tags:
 - Local
 title: 'Empadronamiento in Spain: Registration Process and Requirements'
+translationKey: spain-empadronamiento
 ---
 
 

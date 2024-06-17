@@ -10,6 +10,7 @@ meta_title: 'Opening a Bank Account in Spain: A Guide for Expats'
 tags:
 - Foreigners
 title: 'Opening a Bank Account in Spain: A Guide for Expats'
+translationKey: spain-open-bank-account
 ---
 
 

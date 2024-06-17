@@ -11,6 +11,7 @@ meta_title: 'Ingreso Mínimo Vital in Spain: Requirements & Application Process'
 tags:
 - Social Security
 title: 'Ingreso Mínimo Vital in Spain: Requirements & Application Process'
+translationKey: spain-ingreso-minimo-vital
 ---
 
 
