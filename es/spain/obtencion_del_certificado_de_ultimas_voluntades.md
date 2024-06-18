@@ -41,10 +41,10 @@ Este certificado es esencial para aquellos que necesitan liquidar una herencia e
 - Solicitud al Ministerio de Justicia
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Ministerio de Justicia de España      |  [https://www.mjusticia.gob.es](https://www.mjusticia.gob.es)      |   10 días laborales   |        Varía según la entidad bancaria       |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 

@@ -33,9 +33,10 @@ Cualquier persona que se mude de casa necesita actualizar su documento de identi
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor       |     Sitio Web    |       Plazos      |        Costo     |
-| --------------- | --------------- |  :-------------:  | :-------------:  |
-| Comisaría de Policía o Oficina de Extranjería   |  [Ministerio del Interior](http://www.interior.gob.es/)   |      Variables, generalmente inmediato     |       Gratuito      |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Después de haber cambiado tu dirección, asegúrate de actualizar tu información con otras instituciones también. Esto podría incluir tu banco, empleador o escuela. Si tu dirección ha cambiado en un país diferente, es posible que necesites seguir pasos adicionales para garantizar que tus derechos y acceso a servicios se mantengan en tu nuevo lugar de residencia. Siempre consulta las leyes y ordenanzas locales con respecto a cualquier obligación que puedas tener al mudarte.

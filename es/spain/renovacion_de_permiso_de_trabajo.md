@@ -36,9 +36,10 @@ Los extranjeros que actualmente están trabajando en España y tienen un permiso
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor       |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Oficina de Extranjería en España      |  [https://extranjeros.inclusion.gob.es/](https://extranjeros.inclusion.gob.es/)       |      Hasta 3 meses      |        Varía dependiendo de tu situación       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - Si necesitas viajar al extranjero mientras esperas la renovación de tu permiso de trabajo, asegúrate de estar legalmente cubierto para hacerlo.

@@ -36,9 +36,10 @@ Todos los estudiantes extranjeros que estudian en España y tienen una tarjeta d
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor       |     Sitio web    |    Plazos    |      Costo     |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
 | --------------- | --------------- | :-------------: | :-------------: |
-| Gobierno español    |  https://sede.administracionespublicas.gob.es/icpplus/   |      30-60 días     |      Variable      |
 
 ## Detalles adicionales
 - Recuerda, la cita para la renovación debe programarse unos 60 días antes de la expiración de tu tarjeta de estudiante.

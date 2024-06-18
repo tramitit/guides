@@ -36,9 +36,10 @@ Die benötigten Dokumente können je nach individuellen Umständen variieren. F�
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Website     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Einwanderungsanwälte Deutschland |  https://www.germany-lawyer.de/| Variiert | Abhängig von der Komplexität|
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Hinweis: Details können je nach Ihrer aktuellen Aufenthaltserlaubnis, der Stadt, in der Sie leben, Ihrer Arbeitssituation und anderen persönlichen Umständen variieren. Konsultieren Sie immer das Ausländerbehörde oder einen Einwanderungsanwalt, wenn Sie unsicher über die Details sind. Es ist wichtig zu beachten, dass der Besitz einer Aufenthaltserlaubnis für andere EU-Staaten Sie nicht zur Beantragung einer Niederlassungserlaubnis in Deutschland berechtigt. Sie müssen in Deutschland ansässig sein, um sich zu bewerben.

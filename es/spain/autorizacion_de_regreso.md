@@ -33,10 +33,10 @@ Para solicitar una Autorización de Devolución, es posible que necesites los si
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| IKEA      |  [IKEA](https://www.ikea.com/)       |      365 días      |        Gratis si el producto no está dañado       |
-| Office Depot     |  [Office Depot](https://www.officedepot.com/)       |      90 días      |        Gratis si el producto no está dañado       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Recuerda que cada empresa y minorista puede establecer sus propias políticas y procedimientos de devolución. Debido a esto, el límite de tiempo y los requisitos para una devolución pueden variar. Asegúrate de conocer la política de devolución del minorista antes de realizar una compra.

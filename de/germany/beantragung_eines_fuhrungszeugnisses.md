@@ -32,9 +32,10 @@ Dieses Zertifikat wird oft von Arbeitgebern angefordert, wenn man sich um bestim
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeit    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Bürgeramt       |  [https://www.berlin.de/buergeraemter/](https://www.berlin.de/buergeraemter/)      |      2 Wochen   |   13€    |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Das Führungszeugnis gibt es in zwei Formen: "Belegart N", das direkt an Ihre Adresse geschickt wird, und "Belegart O", das an eine Behörde wie Ihren Arbeitgeber gesendet wird. Für eine Bewerbung kann Ihr Arbeitgeber möglicherweise eine "Belegart O" anfordern. Es ist wichtig, diese Informationen zu kennen, damit Sie die richtige Version je nach Bedarf beantragen.

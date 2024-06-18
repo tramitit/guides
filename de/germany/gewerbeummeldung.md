@@ -39,10 +39,10 @@ Jedes Unternehmen, das in Deutschland tätig ist und eine wesentliche Änderung 
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-(In den Quellen werden keine Anbieter genannt)
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Wenn Ihr Unternehmen ein Online-Geschäft oder E-Commerce ist, wären die Schritte größtenteils die gleichen. Stellen Sie sicher, dass es keine zusätzlichen oder unterschiedlichen Vorgaben für Ihren Geschäftstyp beim örtlichen Gewerbeamt gibt.

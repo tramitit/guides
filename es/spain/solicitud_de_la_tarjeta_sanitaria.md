@@ -30,8 +30,10 @@ La tarjeta sanitaria es esencial para cualquier persona que resida en España, y
 - Si eres familiar residente de un ciudadano de la UE, necesitas tu tarjeta de residencia.
 
 ## Proveedores que pueden hacerlo por ti
-No hay proveedores de servicios externos para este procedimiento. Debes hacerlo tú mismo en tu oficina local de la Seguridad Social.
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Detalles adicionales
 - La atención médica en España es generalmente gratuita para residentes permanentes.
 - Si eres autónomo, debes contribuir a la Seguridad Social para calificar para la Tarjeta Sanitaria.

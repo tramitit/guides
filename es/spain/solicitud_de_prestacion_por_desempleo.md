@@ -34,10 +34,10 @@ Cualquier persona que se haya quedado desempleada involuntariamente en España y
 - P45 u otra prueba de terminación de su empleador
 
 ## Proveedores que pueden hacerlo por usted
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| SEPE            |  [www.sepe.es](http://www.sepe.es/)       |      1-3 semanas      |        Gratis       |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Recuerde, debe cumplir con sus obligaciones como buscador de empleo. Esto significa que debe asistir a todos los cursos o reuniones obligatorias y buscar activamente trabajo, o sus beneficios podrían ser suspendidos. Se realizarán controles regulares para verificar que esté buscando activamente empleo. Asegúrese de estar al tanto de sus obligaciones una vez que su reclamo haya sido aprobado.

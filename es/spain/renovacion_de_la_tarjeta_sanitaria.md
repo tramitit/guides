@@ -35,9 +35,10 @@ Principalmente para ciudadanos españoles o residentes que tengan planeado viaja
 
 ## Proveedores que pueden hacerlo por ti
 
-|      Proveedor         |     Sitio web                        |     Plazos    |       Costo      |
-| -------------------:  | :--------------------------------: |  :-------------: | :-------------: |
-| Seguridad Social      |  [https://sede.seg-social.gob.es/](https://sede.seg-social.gob.es/) |      1-30 días      |      Gratis      |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - Recuerda que la TSE no cubre tratamientos médicos planificados en otro país de la UE.

@@ -36,9 +36,10 @@ Jede ausländische Person, die in Deutschland lebt und über den gültigen Zeitr
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Ausländerbehörde |  [Ausländerbehörde](https://www.berlin.de/einwanderung/en/services/locations/)       |      Termine sollten weit vor dem Ablaufdatum vereinbart werden     |  Variiert je nach individueller Situation     |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Bearbeitungszeit kann je nach individueller Situation und Arbeitsbelastung der Ausländerbehörde variieren. Es ist wichtig, sich rechtzeitig um eine Verlängerung zu bemühen, um sicherzustellen, dass Sie nicht gegen die Bedingungen Ihrer aktuellen Aufenthaltserlaubnis verstoßen.

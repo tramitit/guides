@@ -45,9 +45,10 @@ Um diese Dokumente zu erhalten, müssen Sie relevante Institutionen wie Ihren Kr
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter   |      Webseite     |  Zeitrahmen    |      Kosten      |
-| -----------| ----------------- | :------------: | :--------------: |
-| Germany Visa | [germany-visa.org](http://www.germany-visa.org/) | Variiert | Variiert |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Bearbeitungszeit für Visaanträge kann je nach Botschaft, Konsulat oder Jahreszeit variieren. Es wird empfohlen, sich so früh wie möglich zu bewerben.

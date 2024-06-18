@@ -34,9 +34,10 @@ Das Führungszeugnis wird oft bei der Bewerbung um Arbeitsplätze benötigt, ins
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Website     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Bundesamt für Justiz      |  [https://www.fuehrungszeugnis.bund.de](https://www.fuehrungszeugnis.bund.de)       |      2-3 Wochen      |        13 Euro       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Bitte beachten Sie, dass das Dokument in der Regel an die Adresse gesendet wird, die in Ihrem Ausweisdokument registriert ist. Stellen Sie sicher, dass Ihre Informationen auf dem neuesten Stand sind.

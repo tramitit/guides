@@ -43,9 +43,10 @@ Cualquier persona que haya sido despedida, o que esté desempleada y necesite as
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor       |     Sitio Web    |     Plazos     |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| SEPE     |  [https://www.sepe.es/](https://www.sepe.es/)       |      Variables, dependiendo de la disponibilidad      |        Gratis       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 

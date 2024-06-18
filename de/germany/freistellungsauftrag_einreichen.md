@@ -33,9 +33,10 @@ Einwohner Deutschlands mit Bankkonten oder Investitionen, die Zinsen oder Divide
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Jede deutsche Bank | Verschiedene | Variiert | In der Regel kostenlos |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Zusätzliche Details
 Freistellungsaufträge sind nur für das Kalenderjahr gültig, in dem sie erstellt wurden, und müssen jährlich erneuert werden, damit sie in Kraft bleiben. Wenn Ihre Bank in Deutschland keine Steuern einbehält, müssen Sie ihnen eine Nichtveranlagungsbescheinigung von Ihrem örtlichen deutschen Finanzamt vorlegen.

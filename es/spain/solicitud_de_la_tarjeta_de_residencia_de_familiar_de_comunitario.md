@@ -35,9 +35,10 @@ Este proceso es necesario para los familiares no pertenecientes a la UE de un ci
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| N/A      |  N/A       |      N/A     |        N/A       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Antes de apresurarte a la cita, asegúrate de tener todos los documentos listos. Los documentos que obtengas de tu país deben estar debidamente traducidos al español y apostillados. También es una buena idea tener a tu familiar de la UE contigo durante el procedimiento. El proceso puede tomar hasta 3 meses para que la tarjeta esté lista para ser recogida, pero tendrás un documento de residencia temporal de tamaño A4 en el ínterin. Si sales de España mientras tanto, es recomendable tener un boleto de regreso y este documento como prueba de tu solicitud.

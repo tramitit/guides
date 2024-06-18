@@ -36,9 +36,10 @@ Die folgenden Dokumente sind erforderlich, wenn Sie das Internationale Führungs
 
 ## Anbieter, die dies für Sie tun können
 
-| Anbieter        |      Webseite           |     Bearbeitungszeit       |       Kosten     |
-| --------------  | ---------------        |  :-------------:    | :-------------:|
-| Bundesamt der Justiz | [fuehrungszeugnis.bund.de](https://www.fuehrungszeugnis.bund.de) | 14 Tage | 13€|
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Antragsfrist: Die Standard-Bearbeitungszeit für den Antrag beträgt ungefähr zwei Wochen. Ein Expressdienst ist nicht verfügbar.

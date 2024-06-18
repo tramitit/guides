@@ -30,10 +30,10 @@ Jeder, der in Deutschland geboren wurde und seine Staatsbürgerschaft, Identitä
 2. Nachweis der Beziehung oder Berechtigung zur Beantragung (wie Ihre eigene Geburtsurkunde mit den Namen Ihrer Eltern)
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Deutsche Vertretungen in den Vereinigten Staaten  | [Link](https://www.germany.info/us-en/service/05-FamilyMatters/birth-certificate/906660) | 2-4 Wochen| ~ €10-€20  |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Bearbeitungszeiten können erheblich variieren, von einigen Tagen bis zu mehreren Wochen, je nachdem, welchem Standesamt Sie sich wenden. Regelmäßige Nachverfolgung kann den Prozess beschleunigen.

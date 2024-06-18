@@ -38,9 +38,10 @@ Cualquier pareja que viva junta y desee que su relación sea legalmente reconoci
 
 ## Proveedores que pueden hacerlo por usted
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Registro Civil  |  [Registro Civil](https://www.mjusticia.gob.es/)       |      2 meses +/-      |        Varía según la región       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 

@@ -38,10 +38,10 @@ Jede Person, die vorhat, für mehr als nur ein paar Wochen in Deutschland zu ble
 - Ausgefülltes Anmeldeformular ([Anmeldeformular](https://service.berlin.de/dienstleistung/120686/standort/122346/))
 
 ## Anbieter, die es für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter       |     Webseite     |     Zeitrahmen    |       Kosten      |
-| -------------- | --------------- |  :-------------: | :-------------: |
-| N/A            |  N/A            |      N/A         |        N/A      |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 

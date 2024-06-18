@@ -35,9 +35,10 @@ Cualquier mujer trabajadora que esté esperando un hijo y desee tomar tiempo lib
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  -------------  | -------------  |
-| Seguridad Social de España |  [sitio web](http://www.seg-social.es/)     |  Variables (puede tardar algunas semanas)    |   Gratuito     |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - La baja por maternidad se puede tomar de forma continua o en periodos separados, con el acuerdo del empleador.

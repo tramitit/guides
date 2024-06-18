@@ -39,10 +39,10 @@ Personen oder Unternehmen, die in Deutschland ein unternehmerisches Vorhaben sta
 6. Genehmigte Satzung für Kapitalgesellschaften und Personengesellschaften
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Website     |     Zeitplan     |       Kosten      |
-| --------------- | --------------- |  :-------------:  | :-------------:   |
-| Brandenburg an der Havel     |  [brandenburg.de](https://www.brandenburg.de/)   |      variiert       |   variiert     |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 

@@ -46,9 +46,10 @@ Este proceso es necesario para cualquier residente extranjero que viva legalment
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Bufete de abogados X      |  https//:       |      x días      |        $X       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Ten en cuenta que cada caso es diferente y el proceso puede variar dependiendo de tus circunstancias específicas. Siempre consulta con un profesional legal para obtener asistencia personalizada. Además, recuerda, durante el proceso, respeta las leyes españolas y mantén siempre un estatus legal. Las solicitudes administrativas a veces pueden demorar más de lo previsto, por lo que la paciencia es vital. Además, incluso un pequeño error en la solicitud puede causar retrasos o denegaciones, así que revisa la información antes de enviarla.

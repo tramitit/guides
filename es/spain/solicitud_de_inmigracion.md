@@ -35,9 +35,10 @@ Nómadas digitales, trabajadores remotos o cualquier persona que tenga la intenc
 
 ## Proveedores que pueden hacerlo por usted
 
-| Proveedor        |     Sitio web               |     Plazos    |       Costo      |
-| --------------- | ------------------------  |  :-------------: | :-------------: |
-| Embajada de España |  http://www.exteriores.gob.es  |     Variables    |        Variables      |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - Asegúrese de que todos los documentos estén traducidos al español por un traductor jurado.

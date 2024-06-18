@@ -38,9 +38,10 @@ Necesitarás los siguientes documentos:
 
 ## Proveedores que pueden ayudarte
 
-| Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| FNMT      |  [FNMT](https://www.sede.fnmt.gob.es/en/certificados/persona-fisica)   |  Aproximadamente 20-30 días      |        Gratis       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 

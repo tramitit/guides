@@ -36,9 +36,10 @@ Deutsche Bürger oder Personen mit deutscher Abstammung, die einen Reisepass fü
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Website     |     Bearbeitungszeit    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Deutsche Botschaft/Konsulat      |  [Link zur Botschaft/Konsulat](https://www.auswaertiges-amt.de/en)       |   4-6 Wochen      |  Etwa €80 für Erwachsene, weniger für Minderjährige       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Um den Prozess zu beschleunigen, stellen Sie sicher, dass alle Dokumente aktuell, klar und ordnungsgemäß ausgefüllt sind.

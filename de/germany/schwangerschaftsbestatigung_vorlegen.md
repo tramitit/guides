@@ -28,9 +28,10 @@ Dieses Verfahren ist in der Regel für schwangere Personen erforderlich, die ihr
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Ihr Gesundheitsdienstleister      |  Kann je nach spezifischem Anbieter variieren       |      Normalerweise sofort, kann aber variieren      |       Variiert je nach Standort und Krankenversicherung       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Einzelheiten
 - Es ist wichtig, sich Ihrer Rechte bewusst zu sein, wenn Sie eine Schwangerschaftsbestätigung einreichen. An vielen Orten dürfen Arbeitgeber oder Dienstleister Sie nicht diskriminieren oder Ihnen aufgrund Ihres schwangeren Status den Service verweigern.

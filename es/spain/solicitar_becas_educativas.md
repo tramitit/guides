@@ -36,9 +36,10 @@ Este servicio es ideal para estudiantes que no pueden cubrir el costo total de s
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| N/A      |  N/A       |      N/A      |        N/A       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Diferentes becas tienen diferentes requisitos de elegibilidad, por lo que es importante investigar a fondo una beca antes de solicitarla para asegurarte de que cumples con todos los criterios. Algunas becas se basan en necesidades financieras, mientras que otras premian logros académicos o actividades extracurriculares. Siempre revisa tu solicitud y sigue todas las instrucciones cuidadosamente para aumentar tus posibilidades de éxito.

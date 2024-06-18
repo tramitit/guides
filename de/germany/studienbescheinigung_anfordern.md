@@ -38,11 +38,10 @@ In der Regel benötigte Dokumente oder Informationen sind:
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeit    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| National Student Clearinghouse      |  [http://www.studentclearinghouse.org/](http://www.studentclearinghouse.org/)     |      variiert      |        variiert       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-Bitte beachten Sie, dass nicht alle Einrichtungen möglicherweise Dienstleistungen über das National Student Clearinghouse beziehen.
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Bitte beachten Sie, dass die Einrichtung möglicherweise eine geringe Gebühr für die Erstellung dieses Zertifikats erhebt. Außerdem kann je nach Jahreszeit mehrere Werktage dauern, bis die Einrichtung Ihre Anfrage bearbeitet und das Zertifikat ausstellt. Das Zertifikat enthält in der Regel nicht die Fächer, in denen ein Student eingeschrieben ist, oder deren Noten, sondern nur den Immatrikulationsstatus.

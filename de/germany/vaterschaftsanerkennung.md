@@ -35,9 +35,10 @@ Jeder Mann, der rechtlich als leiblicher Vater eines Kindes anerkannt werden mö
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Lokales Jugendamt      |  [Webseite des Jugendamts](https://www.bmfsfj.de/bmfsfj)       |      Variiert      |        Kostenlos       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Anerkennung der Vaterschaft kann sowohl vor als auch nach der Geburt des Kindes erfolgen. Sie impliziert jedoch auch eine finanzielle Verpflichtung, bis das Kind seine Ausbildung abgeschlossen hat, einschließlich etwaiger weiterer Studien. Daher ist es eine Entscheidung, die nicht leichtfertig getroffen werden sollte. Wenn die Eltern nicht verheiratet sind, gewährt sie auch ein gemeinsames Sorgerecht für das Kind.

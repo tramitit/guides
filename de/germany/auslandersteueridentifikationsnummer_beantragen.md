@@ -30,10 +30,10 @@ Die erforderlichen Dokumente für den Erhalt einer TIN variieren von Land zu Lan
 - Ausgefülltes Antragsformular
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Zeiträume    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| IRS (für ITINs in den USA)      |  [https://www.irs.gov](https://www.irs.gov)       |      Variabel      |    Variabel        |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Eine ITIN in den Vereinigten Staaten berechtigt nicht zur Arbeit in den USA oder zur Inanspruchnahme von Sozialleistungen oder des Earned Income Tax Credit.

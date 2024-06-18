@@ -39,9 +39,10 @@ La presentación de estos documentos puede variar dependiendo del programa al cu
 
 ## Proveedores que pueden hacerlo por usted
 
-| Proveedor        |     Sitio web      |     Plazos    |       Costo      |
-| --------------- | ----------------- | :-------------: | :-------------: |
-| Servicios Sociales |  [Servicios Sociales](https://www.msssi.gob.es) | Variables | Gratis |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Recuerde que cada programa de ayuda puede tener su propio conjunto de criterios de elegibilidad. Es posible que sea elegible para algunos programas y no para otros, dependiendo de factores como su nivel de ingresos, el número de hijos que tiene y dónde vive. Asegúrese de revisar detenidamente los requisitos de elegibilidad de cada programa.

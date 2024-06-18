@@ -34,9 +34,10 @@ Dieser Leitfaden richtet sich an ausländische Studenten, hauptsächlich aus den
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Deutsche Berufsschulen |  Verschiedene  |    Abhängig vom Kurs    |  Unterschiedlich je nach Schule |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 In Deutschland sind die meisten Berufsschulen für lokale und ausländische Studenten kostenlos. Private Berufsschulen können jedoch Studiengebühren verlangen. Es ist wichtig, sich frühzeitig zu bewerben, da die Plätze an Berufsschulen begrenzt sind. Wenn Sie an technischen Studien interessiert sind, können einige technische Universitäten ein Berufsschulzeugnis verlangen, was die Bedeutung des Erwerbs dieses Nachweises betont, selbst wenn Sie einen Universitätsabschluss haben.

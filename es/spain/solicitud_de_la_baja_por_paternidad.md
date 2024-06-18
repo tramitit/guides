@@ -34,9 +34,10 @@ Principalmente, los padres recientes que desean tomar un tiempo libre del trabaj
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor      |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Seguridad Social      |  [https://sede.seg-social.gob.es](https://sede.seg-social.gob.es/wps/portal/sede/sede/Inicio)       |      Depende del caso individual, generalmente procesado en 1-3 semanas      |        Sin costo directo       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 

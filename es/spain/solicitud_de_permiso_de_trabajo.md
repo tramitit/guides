@@ -41,9 +41,10 @@ Cualquier ciudadano no español que desee trabajar legalmente en España necesit
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |   Costo   |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Embajada/Consulado Español      |  [https://www.exteriores.gob.es](https://www.exteriores.gob.es/)       |      Variables      |        Variables       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 

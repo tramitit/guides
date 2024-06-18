@@ -39,9 +39,10 @@ Todos los documentos deben estar debidamente legalizados para su uso en España.
 
 ## Proveedores que pueden hacerlo por usted
 
-| Proveedor        |     Sitio web                   |     Plazos    |       Costo      |
-| --------------- | ----------------------------- |  :-------------: | :-------------: |
-| Abogados españoles |  https://www.spanish-lawyers.org/ |      Por determinar |      Por determinar   |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Los tiempos de procesamiento para las solicitudes de ciudadanía pueden variar, desde meses hasta posiblemente años. Además, tenga en cuenta que la ciudadanía española se adquiere típicamente a través de la residencia, el origen español, los judíos sefardíes, el matrimonio o el nacimiento de un padre español.

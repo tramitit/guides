@@ -34,9 +34,10 @@ Diese Leistung richtet sich idealerweise an alle werdenden Mütter in Deutschlan
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Website     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Bundesversicherungsamt      |  https://www.bundesversicherungsamt.de/       |      Abhängig vom Fall      |        Kostenlos       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 In Deutschland ist Ihr Arbeitsplatz gesetzlich ab Beginn der Schwangerschaft bis vier Monate nach der Geburt geschützt, was als Schutzfrist bekannt ist. Während dieser Zeit haben Sie Anspruch auf Mutterschutzurlaub (in der Regel sechs Wochen vor und acht Wochen nach der Geburt) und Elterngeld. Zusätzlich können Sie nach Ihrem Mutterschutzurlaub auch von Elternzeit Gebrauch machen, die bis zum dritten Geburtstag des Kindes dauern kann.

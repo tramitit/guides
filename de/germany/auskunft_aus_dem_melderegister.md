@@ -32,11 +32,10 @@ Oft werden Personen, die sich mit Genealogie oder Familienforschung beschäftige
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter         |     Webseite      |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| N/A             |  N/A            |      N/A         |        N/A      |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-Ein Dienstleister, der dies in Ihrem Auftrag erledigen kann, konnte nicht aus der Quelle ermittelt werden.
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Informationen, die Sie anfordern können, können von Ihrer Rechtfertigung und den örtlichen Datenschutzgesetzen abhängen.

@@ -39,11 +39,10 @@ Ideale Empfänger sind Einzelpersonen oder Familien mit niedrigem Einkommen, Arb
 Hinweis: Überprüfen Sie die lokalen Anforderungen, da spezifische Anforderungen variieren können.
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Wohngeldstelle  |  Nicht verfügbar           |      Variiert      |        Kostenlos     |
-| Belastingdienst |  [Webseite](https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/huurtoeslag-aanvragen) | Variiert | Kostenlos |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Höhe des Wohngeldes, das Sie erhalten, kann variieren und hängt von Ihrem Einkommen, Ihrer Miete und Ihrer Haushaltsgröße ab.

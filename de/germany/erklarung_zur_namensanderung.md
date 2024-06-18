@@ -38,10 +38,10 @@ Die erforderlichen Dokumente können je nach individueller Situation variieren. 
 4. Zusätzliche Dokumente, die Ihre Gründe für eine Namensänderung unterstützen.
 
 ## Anbieter, die es für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter         |     Webseite       |       Bearbeitungszeiten       |       Kosten      |
-| ---------------- | ------------------ |  :-------------------------:    | :---------------: |
-| Ihr örtliches Standesamt (direkt)   |  Nicht verfügbar. Kontakt in persönlich oder telefonisch.    | Abhängig von der individuellen Fallkomplexität und der Auslastung des Standesamts.| Variiert je nach individueller Situation |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Der Prozess der Namensänderung kann je nach Komplexität Ihres Falls mehrere Wochen bis Monate dauern.

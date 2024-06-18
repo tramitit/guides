@@ -40,10 +40,10 @@ Diese Genehmigung ist erforderlich für Einzelpersonen, Unternehmen oder Organis
 Diese Unterlagen sollten mit professionellem Rat erstellt werden, um Fehler oder Fehlinterpretationen zu vermeiden.
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter              |     Webseite                            |     Zeitrahmen   |       Kosten     |
-| ---------------       | ---------------                         |  :-------------: | :-------------: |
-| Deutsche Architekten  |  [LINK](http://www.bak.de/)             |      Variabel     |        Variabel |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 

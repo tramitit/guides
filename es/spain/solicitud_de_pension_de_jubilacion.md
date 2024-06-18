@@ -46,10 +46,10 @@ Los documentos necesarios típicamente incluyen:
 Puedes obtener tu informe de vida laboral a través del [sitio web de la seguridad social](http://www.seg-social.es/wps/portal/wss/internet/Trabajadores/Afiliacion/10747/10749).
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor       |     Sitio Web    |     Plazos    |     Costo     |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Instituto Nacional de la Seguridad Social - INSS     |  [sitio web](http://www.seg-social.es/wps/portal/wss/internet/Inicio)       |      Variables      |        Gratis       |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles Adicionales
 

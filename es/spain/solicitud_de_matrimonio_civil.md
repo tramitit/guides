@@ -40,10 +40,10 @@ Este proceso es necesario para aquellos que tienen la intención de casarse en E
 * Ten en cuenta que todos los documentos deben ser traducidos oficialmente al español (si están en otro idioma) y legalizados de acuerdo con las leyes españolas.
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Embajada de España      |  [mexteriores.gob.es](https://www.mexteriores.gob.es/)       |      Variables      |        Variables       |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 El proceso puede parecer sencillo pero podría llevar una cantidad considerable de tiempo debido a los sistemas burocráticos españoles. El costo monetario del procedimiento también puede variar según las traducciones y legalizaciones de documentos necesarias. Se recomienda comenzar el proceso con suficiente antelación a la fecha de matrimonio prevista para asegurar que todo se desarrolle sin problemas.

@@ -36,10 +36,10 @@ Cualquier residente o ciudadano de España, incluyendo inmigrantes que deseen ad
 - Certificado de Registro.
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor         |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Policía Nacional |  [https://www.politica.gob.es](https://www.politica.gob.es) |      Hasta 30 días      |        Variará dependiendo de la localidad       |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 La validez del DNI es ilimitada para adultos, mientras que los menores deben renovar su DNI cada 2 años hasta los 5 años, luego cada 5 años hasta que alcancen la mayoría de edad. Tenga en cuenta que es posible que se le pida mostrar su DNI por la policía en cualquier momento. Tenga en cuenta que el proceso puede tardar hasta un mes en completarse y recibir su DNI. Es recomendable también solicitar un Certificado Digital, que otorga acceso en línea a una cantidad de servicios públicos.

@@ -33,9 +33,10 @@ Studierende, die in Deutschland ansässig sind (entweder EU-Bürger oder Nicht-E
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter       |     Webseite     |     Bearbeitungszeit   |       Kosten      |
-| --------------- | -------------- |  :-------------: | :--------: |
-| Bundesministerium für Bildung und Forschung Deutschland | [www.bafoeg.bmbf.de](https://www.bafoeg.bmbf.de/) | 2-6 Wochen nach Einreichung | Kostenlos    |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Höhe des BAföG-Hilfe richtet sich nach verschiedenen Faktoren, einschließlich des Einkommens und Vermögens des Studierenden, des Einkommens der Eltern und ob der Studierende bei den Eltern oder unabhängig lebt.

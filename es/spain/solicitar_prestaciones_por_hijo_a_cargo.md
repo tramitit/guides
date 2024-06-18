@@ -41,9 +41,10 @@ Este beneficio es ideal para familias con niños que residen en España, incluye
 
 ## Proveedores que pueden hacerlo por usted
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| No aplica      |  N/A       |      N/A      |        N/A       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 

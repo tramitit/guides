@@ -34,9 +34,10 @@ Jede Person, die in Deutschland arbeitet und Einkommen erzielt, benötigt eine S
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeit    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Örtliches Finanzamt      |  Website der örtlichen Regierung       |  Variiert je nach Bearbeitungszeit      | Die meisten Dienstleistungen sind kostenlos  |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Ihre Steuerklasse wird durch Ihren Familienstand, die Anzahl der Beschäftigungen und andere Faktoren bestimmt. Zum Beispiel ist die Steuerklasse III für verheiratete Steuerzahler, bei denen eine Person der Alleinverdiener ist oder wesentlich mehr verdient, während die Steuerklasse IV für den Fall vorgesehen ist, dass beide Partner ähnliche Beträge verdienen. In komplexeren Situationen können angestellte Steuerzahler in Deutschland beantragen, dass ihre individuellen Steuerlasten mit einem Faktorverfahren berechnet werden.

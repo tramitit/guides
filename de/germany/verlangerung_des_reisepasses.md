@@ -41,9 +41,10 @@ Jede Person mit einem ablaufenden Reisepass, die internationale Reisen plant, be
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Deutsche Botschaft oder Konsulat |  Besuchen Sie die Webseite der Botschaft |  Variabel, kann mehrere Wochen dauern  |  Gebühren variieren je nach Land und Passart |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Zusätzliche Details
 

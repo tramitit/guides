@@ -39,10 +39,10 @@ Jeder Unternehmenseigentümer, der den Geschäftsbetrieb oder freiberufliche Tä
 - Nachweis des eingestellten Geschäftsbetriebs
 
 ## Anbieter, die es für Sie übernehmen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Bearbeitungszeit    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Abmeldung Service      |  [https://www.abmeldungservice.de/](https://www.abmeldungservice.de/)      |      2-3 Wochen      |        Variabel, abhängig vom Service       |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Abmeldung Ihres Unternehmens in Deutschland ist kostenlos.

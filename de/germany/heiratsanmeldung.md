@@ -36,9 +36,10 @@ Jedes Dokument muss von einem beglaubigten Übersetzer ins Deutsche übersetzt w
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Standesamt      |  [Webseite](https://www.standesamt.de/)       |      Variiert je nach Standort      |        Variiert je nach Standort       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Der Prozess kann aufgrund der bürokratischen Natur des Verfahrens mehrere Wochen dauern, daher planen Sie entsprechend. Einige Standesämter können auch verlangen, dass Paare an Ehevorbereitungskursen teilnehmen. Es ist ratsam, Ihr örtliches Standesamt für die genauesten Informationen zu Ihrer spezifischen Situation zu kontaktieren. Sollte einer der Partner bei der Anmeldung nicht persönlich anwesend sein können, ist möglicherweise eine notarielle Vollmacht erforderlich.

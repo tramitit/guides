@@ -37,10 +37,10 @@ Normalmente necesitas presentar los siguientes documentos para registrar un naci
 Nota: Si los padres no son ciudadanos españoles, pueden requerirse documentos adicionales, como certificados de residencia o pasaportes de los países de origen.
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor                |     Sitio web                                       |     Plazos       |       Costo      |
-| ------------------------- | --------------------------------------------------- |  :-------------: | :-------------: |
-| Registro Civil            |  [Enlace](https://www.mjusticia.gob.es/)            |      Variables   |        Gratis     |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Se recomienda registrar el nacimiento tan pronto como sea posible después de ocurrido, idealmente dentro de la primera semana. Si no puedes registrar el nacimiento tú mismo, puedes autorizar a un representante para que lo haga en tu nombre. El procedimiento es gratuito, pero pueden existir costos relacionados si solicitas copias adicionales o versiones legalizadas del certificado de nacimiento.

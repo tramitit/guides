@@ -37,9 +37,10 @@ Ten en cuenta que estos requisitos pueden variar, por lo que debes verificar con
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Agencia del Gobierno Local      |  https://www.yourlocalgov.org       |      Varía      |        Varía      |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Es importante recordar que un Certificado de Delitos Sexuales solo refleja la información en la base de datos en el momento de la solicitud. No garantiza que un individuo no cometerá delitos en el futuro, ni excluye la posibilidad de delitos que no hayan sido reportados o registrados.

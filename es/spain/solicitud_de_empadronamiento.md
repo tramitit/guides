@@ -34,9 +34,10 @@ Algunos de los documentos requeridos para el Registro de Censo son usualmente:
 - Otros documentos como el NIE (Número de Identidad de Extranjero) a menudo son necesarios para residentes no españoles
 
 ## Proveedores que pueden hacerlo por ti
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Ayuntamiento Local |  [https://www.ayuntamientoespaña.es](https://www.ayuntamientoespaña.es)   |      5-7 días      |        Gratis       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Puedes hacer el Registro de Censo por tu cuenta, pero algunas personas encuentran útil llevar a alguien que hable español si no hablan el idioma. Algunos pueblos pueden aceptar los documentos y emitir el certificado el mismo día, mientras que otros pueden tardar algunos días. Siempre es buena idea verificar los requisitos específicos y el proceso con tu Ayuntamiento local.

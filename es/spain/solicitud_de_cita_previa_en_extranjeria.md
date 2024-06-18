@@ -35,10 +35,10 @@ Este servicio es necesario para cualquier persona que esté planeando emigrar a 
 - Otros documentos específicos que puedan ser requeridos según el procedimiento específico que necesitas llevar a cabo.
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Sede Electrónica      |  [https://sede.administracionespublicas.gob.es/icpplus/](https://sede.administracionespublicas.gob.es/icpplus/)       |      Variará según disponibilidad      |        Gratis       |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - La programación de citas puede ser competitiva, así que prepárate para reservar tan pronto como haya disponibilidad.

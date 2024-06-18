@@ -34,9 +34,10 @@ Alle Eltern oder Erziehungsberechtigten, die in Deutschland wohnhaft oder besch�
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Website     |     Zeiträume    |       Kosten      |
-| --------------- | --------------- |  :-------------:  | :-------------:  |
-| Bundesagentur für Arbeit |  [https://www.arbeitsagentur.de/en](https://www.arbeitsagentur.de/en)  |     variieren     |        -       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Anträge werden im Durchschnitt innerhalb von sechs Wochen bearbeitet, aber zu Stoßzeiten kann dies länger dauern.

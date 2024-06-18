@@ -38,9 +38,10 @@ Esto es ideal para estudiantes internacionales (no pertenecientes a la UE) que d
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web      |     Plazos    |       Costo         |
-| --------------- | ---------------- |  :-------------: | :----------------: |
-| No hay proveedores disponibles ya que este es un proceso personal que los estudiantes deben llevar a cabo por sí mismos. 
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles Adicionales
 1. Es importante tener en cuenta que el trabajo no debe interferir con las actividades educativas del estudiante.

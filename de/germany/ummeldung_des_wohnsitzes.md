@@ -39,9 +39,10 @@ Die Dokumente, die in der Regel erforderlich sind, um Ihre neue Adresse anzumeld
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Website                       |     Zeiten    |       Kosten      |
-| --------------- | ---------------                   |  :-------------: | :-------------: |
-| Berlin Bürgeramt|  https://service.berlin.de/dienstleistung/120686/       |   Unterschiedlich       |       Kostenlos      |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Bitte beachten Sie, dass es in Deutschland gegen das Gesetz verstößt, gleichzeitig an zwei Orten angemeldet zu sein. Falls Sie Ihre Wohnung innerhalb derselben Stadt wechseln, müssen Sie sich nicht von Ihrer alten Adresse abmelden, sondern nur an Ihrer neuen Adresse anmelden. Wenn Sie ein Fahrzeug besitzen, ist es auch vorgeschrieben, dieselbe Wohnadresse wie auf Ihrem Führerschein dem Zulassungsamt anzugeben. Es ist auch wichtig, Ihren Rundfunkanbieter (wie ARD, ZDF und Deutschlandradio) über die Änderung Ihrer Wohnadresse zu informieren. Ihr Anmeldedokument (Meldebescheinigung) könnte für die Eröffnung eines Bankkontos, den Abschluss eines Handyvertrags usw. erforderlich sein. Bitte denken Sie daran, sich innerhalb von zwei Wochen nach Ihrem Umzug an Ihre neue Adresse anzumelden.

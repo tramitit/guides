@@ -33,11 +33,10 @@ Jede Person, die entweder in Deutschland arbeitet oder lebt, benötigt diese Num
 - Krankenversicherungspolice
 
 ## Anbieter, die es für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Techniker Krankenkasse      |  [TK](https://www.tk.de/en)       |      N/A      |        -       |
-| AOK      |  [AOK](https://en.zuwanderer.aok.de/home/)       |      N/A      |        -       |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Sozialversicherungsnummer oder Versicherungsnummer ist nicht dasselbe wie Ihre Steuer-ID (Steuer ID) oder Ihre Steuernummer (Steuernummer). Die Steuer-ID ist eine weitere eindeutige Referenznummer für steuerliche Zwecke. Wenn Sie an Ihrer Universität oder bei einem Job nach einer Versicherungsnummer gefragt werden, beziehen sie sich in der Regel auf Ihre deutsche gesetzliche Krankenversicherungsnummer.

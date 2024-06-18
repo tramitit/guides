@@ -35,9 +35,10 @@ Sowohl Einwohner Deutschlands als auch Ausländer, die sich im Land aufhalten, u
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Website     |     Zeitleisten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Lokale Kfz-Zulassungsstelle      |  Kontaktieren Sie das örtliche Rathaus für Informationen       |      Variiert     |        Variiert       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Für Ausländer ist es unerlässlich, einen festen Wohnsitz in Deutschland zu haben, bevor sie ein Fahrzeug anmelden können. Selbst wenn Sie nicht vorhaben, das Fahrzeug zu benutzen, ist aufgrund der deutschen Vorschriften eine Versicherung erforderlich. Sie dürfen Ihre vorhandenen Fahrzeugkennzeichen behalten, wenn Sie den Besitz eines Fahrzeugs übertragen. Wenn Ihre Fahrzeugzulassung abläuft und Sie sie nicht verlängern, können Sie Strafen oder Geldbußen erhalten.

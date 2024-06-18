@@ -35,10 +35,10 @@ Cualquier extranjero que planea vivir en España por más de tres meses, o por r
 - Documentación que demuestre el motivo por el cual estás solicitando un NIE (contrato de trabajo, contrato de compra de propiedad, etc.)
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor       |     Sitio web                 |     Plazos       |       Costo     |
-| --------------- | ------------------------------ |  :-------------: | :-------------: |
-| SpainGuru       |  http://spainguru.es/          |     5 días       |     €90-€150    |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Por favor ten en cuenta que la validez de los números de NIE no caduca, pero los certificados de NIE (el papel que recibes en la comisaría de policía) sí caducan, y es posible que te pidan presentar uno actualizado, por lo que recomendamos que, si lo estás utilizando regularmente, lo renueves cada tres meses.

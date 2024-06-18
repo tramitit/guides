@@ -37,11 +37,10 @@ Diese Leistung gilt in der Regel für Personen, die in Deutschland gearbeitet ha
 - Bankverbindung für die Zahlungseingänge
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter            |     Webseite                                         |     Zeiträume           |       Kosten       |
-| ------------------- | ------------------------------------------------- | :------------------: | :----------: |
-| Bundesagentur für Arbeit     |  [https://www.arbeitsagentur.de/](https://www.arbeitsagentur.de/)         |   4-6 Wochen nach Einreichung        |    Kostenlos     |
-
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Weitere Details
 
 - Das Arbeitslosengeld wird als Prozentsatz Ihres durchschnittlichen Einkommens der letzten 12 Monate vor der Arbeitslosigkeit berechnet.

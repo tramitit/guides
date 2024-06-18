@@ -32,9 +32,10 @@ Una solicitud de asilo es ideal para individuos que enfrentan amenazas creíbles
 
 ## Proveedores que pueden ayudarlo
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Oficina de Asilo y Refugio      |  [Sitio web de OAR](http://www.interior.gob.es/web/servicios-al-ciudadano/extranjeria/asilo-y-refugio) | Depende del caso individual |        Sin costo       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - El proceso puede llevar varios meses mientras la Oficina de Asilo y Refugio revisa su caso.

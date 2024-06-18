@@ -33,11 +33,10 @@ Bitte beachten Sie, dass bei einem Todesfall außerhalb Deutschlands zusätzlich
 
 ## Anbieter, die dies für Sie erledigen können
 
-Obwohl der Prozess in der Regel persönlich vom Antragsteller durchgeführt wird, gibt es einige Bestattungsunternehmen, die bei administrativen Aufgaben wie dem Beantragen einer Sterbeurkunde Unterstützung anbieten können.
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Lokale Bestattungsdienstleister    |  Vor Ort erfragen       |  Variabel     |  Variabel  |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Es ist wichtig zu beachten, dass es einige Zeit dauern kann, bis die Sterbeurkunde vorliegt; der Prozess kann von wenigen Tagen bis zu einigen Wochen dauern. Mehrere Kopien der Sterbeurkunde zu haben, kann ebenfalls nützlich sein, da sie von verschiedenen Einrichtungen (Banken, Versicherungsunternehmen usw.) angefordert werden können.

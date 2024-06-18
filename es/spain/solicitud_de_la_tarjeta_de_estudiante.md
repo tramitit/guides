@@ -37,10 +37,10 @@ Los estudiantes no pertenecientes a la Unión Europea que se encuentren en Espa�
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| N/A            |  N/A       |      N/A      |        N/A       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 ## Detalles adicionales
 
 El empadronamiento o registro municipal también es necesario si planeas quedarte más de tres meses. Debe realizarse en el ayuntamiento local. Recuerda que las citas para la TIE se llenan rápidamente, por lo que se recomienda programar con antelación.

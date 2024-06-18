@@ -40,9 +40,10 @@ Los siguientes documentos suelen ser requeridos:
 
 ## Proveedores que pueden hacerlo por usted
 
-| Proveedor       |     Sitio Web      |     Plazos     |       Costo      |
-| --------------- | ---------------    |  :-------------: | :-------------: |
-| Embajada de España |  [Sitio Web](http://www.exteriores.gob.es/) |  1-3 meses     |  Variable
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - Si está solicitando como familiar de un ciudadano de la UE, deberá probar su relación. Esto suele implicar proporcionar certificados de matrimonio, actas de nacimiento u otros documentos relevantes.

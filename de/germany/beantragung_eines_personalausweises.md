@@ -37,9 +37,10 @@ Deutsche Staatsbürger (einschließlich Menschen, die erfolgreich in Deutschland
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Bearbeitungszeit    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Das Einwohnermeldeamt  (Bürgeramt)     |  **Variiert je nach Stadt**  |      Ca. 2 - 6 Wochen     |  Kosten für Erwachsene: €28,80; Personen unter 24 Jahren: €22,80    |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Die Wartezeit kann je nach Ihrem Standort in Deutschland und der Gesamtnachfrage variieren. Berücksichtigen Sie diesen Zeitraum, bevor Sie einen neuen Ausweis beantragen, wenn Ihr aktueller Ausweis kurz vor dem Ablauf steht. Ihr alter abgelaufener Ausweis gilt nicht mehr als gültiges Identifikationsdokument, sobald er abgelaufen ist. Dies gilt auch, wenn Sie bereits einen neuen beantragt haben und nur auf die Bearbeitung warten.

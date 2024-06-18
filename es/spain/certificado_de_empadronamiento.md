@@ -39,7 +39,10 @@ Cualquier extranjero que viva en España, ya sea ciudadano de un país miembro d
 
 ## Proveedores que pueden hacerlo por usted
 
-Desafortunadamente, esta es una tarea administrativa personal que no se puede externalizar a proveedores.
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 

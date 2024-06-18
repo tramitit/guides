@@ -36,9 +36,10 @@ Ciudadanos no pertenecientes a la Unión Europea que residan en España por un p
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Consulado de España      |  https://www.exteriores.gob.es/       |      Varía      |        Varía       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Por favor tenga en cuenta que la situación de cada persona puede variar, y algunos individuos pueden necesitar documentos adicionales no listados aquí. Es importante revisar siempre los requisitos con fuentes oficiales o profesionales legales. Además, recuerde que sin una renovación adecuada, se corre el riesgo de perder el estatus de residente.

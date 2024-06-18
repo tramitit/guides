@@ -34,9 +34,10 @@ Cualquier conductor cuya licencia de conducir esté a punto de caducar o ya haya
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Dirección General de Tráfico (DGT)     |  [DGT](https://sede.dgt.gob.es/es/tramites-y-multas/cita-previa/jefaturas/)       |      Aproximadamente 2 meses      |        24€       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - Validez de la licencia en España: 10 años para conductores menores de 65 años, 5 años para conductores de 65 años o más.

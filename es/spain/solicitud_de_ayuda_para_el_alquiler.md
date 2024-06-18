@@ -34,9 +34,10 @@ La asistencia para el alquiler puede ser necesaria para individuos o familias qu
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Proveedor 1      |  https//:       |      x días      |        $X       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Asegúrate de solicitar asistencia para el alquiler tan pronto como preveas que podrías comenzar a tener dificultades para pagar el alquiler. El proceso puede llevar varias semanas, por lo que es importante comenzar con antelación. También ten en cuenta que cada ciudad, condado o estado puede tener sus propios programas de asistencia para el alquiler, así que investiga sobre los programas disponibles en tu área.

@@ -31,10 +31,10 @@ Jeder Fahrzeughalter in Deutschland, der beabsichtigt, sein Auto zu verkaufen, z
 4. Abmeldeformular
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |             Webseite                         |     Bearbeitungszeiten      |       Kosten             |
-| --------------- | ---------------------------------- | :-------------: | :--------------: |
-| Kfz-Zulassungsstelle  |  Abhängig von der Zulassungsstelle der Stadt  |      N/A          |        Unterschiedlich      |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 Der Abmeldeprozess ist ziemlich unkompliziert und kann in der Regel sofort bei der örtlichen Zulassungsstelle durchgeführt werden. Bitte überprüfen Sie jedoch die spezifischen Öffnungszeiten und die Verfügbarkeit von Dienstleistungen, da sie je nach Standort variieren können.

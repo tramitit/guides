@@ -35,9 +35,10 @@ Cualquier ciudadano español que planea viajar al extranjero necesita un pasapor
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Ministerio del Interior de España |  https://www.interior.gob.es/      |      14-30 días      |        Aproximadamente 30 euros       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Cualquier ciudadano español, independientemente de su edad, puede solicitar un pasaporte español, pero los menores deben ir acompañados por sus padres o tutores legales. El período de validez del pasaporte depende de la edad del titular. La validez es de 2 años hasta los 5 años de edad, de 5 años para edades de 5 a 30 años, y de 10 años para mayores de 30 años.

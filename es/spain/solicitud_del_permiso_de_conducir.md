@@ -37,10 +37,10 @@ Esta guía es especialmente valiosa para los no residentes y residentes extranje
 - Certificado médico de un centro aprobado por la DGT como resultado de tu examen de la vista y psicotécnico.
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| DGT      |  [https://www.dgt.es](https://www.dgt.es)       |      Variables      |        Variables      |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - Es crucial proporcionar una dirección española válida donde puedas recibir la nueva licencia de conducir a través de mensajería.

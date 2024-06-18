@@ -32,9 +32,10 @@ EU-, EWR- und Schweizer Bürger, die in Deutschland leben und in andere EU-, EWR
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Webseite     |     Zeiträume    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Bürgeramt      |  www.berlin.de/ba-charlottenburg-wilmersdorf/politik-und-verwaltung/aemter/ |      Abhängig von der Terminverfügbarkeit      |        In der Regel kostenlos, kann je nach Region variieren       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Diese Bescheinigung verfällt nicht, solange der Inhaber weiterhin die Anforderungen erfüllt.

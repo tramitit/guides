@@ -37,9 +37,10 @@ Personas con un pasaporte que está a punto de expirar o tiene menos de 6 meses 
 
 ## Proveedores que pueden hacerlo por usted
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | -------------- |  :-------------: | :-------------: |
-| Consulado español      |  [Sitio web del Consulado español](https://www.maec.es/)       |      Depende de la disponibilidad de citas      |        Variable según circunstancias y urgencia       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 

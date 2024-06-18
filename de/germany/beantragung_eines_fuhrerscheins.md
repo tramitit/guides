@@ -35,9 +35,10 @@ Er richtet sich an ausländische Bewohner in Deutschland, insbesondere an diejen
 
 ## Anbieter, die es für Sie erledigen können
 
-| Anbieter       |     Website      |   Zeitrahmen    |       Kosten      |
-| -------------- | ---------------- |  :-----------: | :-------------: |
-| Fahrschule     |  [Hier](https://www.fahrschule.de/)  |      Variiert     |  Variiert        |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Ihr ausländischer Führerschein bleibt in Deutschland entweder sechs Monate ab Ihrem Anmeldedatum im Bürgeramt gültig oder sechs Monate ab Ihrem Ankunftsdatum, wenn Sie aus einem Nicht-EU-Land kommen und nicht planen, Wohnsitz zu nehmen.

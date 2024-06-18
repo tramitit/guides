@@ -32,10 +32,10 @@ Ideal para turistas, residentes temporales y residentes a largo plazo que utiliz
 
 ## Proveedores que pueden hacerlo por ti
 
-| Proveedor                   |     Sitio web                                                |     Plazos         |       Costo       |
-| ------------------- | -------------------------                |  :------------:   | :-------------: |
-| Consorcio de Transportes de Madrid |  [www.crtm.es](https://www.crtm.es/) |      Mismo día      |   Varía según zona y tipo de tarjeta   |
-| Metro de Barcelona             |  [www.tmb.cat](https://www.tmb.cat/en)   |      Mismo día      |   Varía según zona y tipo de tarjeta  |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - La tarjeta de transporte cubrirá los viajes dentro de las zonas y medios de transporte especificados para los que fue comprada.

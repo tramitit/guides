@@ -34,9 +34,10 @@ Ciudadanos españoles, tanto residentes como no residentes, que poseen un DNI ca
 
 ## Proveedores que pueden hacerlo por usted
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Consulado Español |  [Sitio web del consulado](https://www.exteriores.gob.es/consulados/londres/es/serviciosconsulares/citaparaeldni/Paginas/inicio.aspx) |      Varía      |        Alrededor de 12 euros       |
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
+
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - Si su DNI caducó mientras estaba fuera de España, no se considerará una infracción y podrá renovarlo al regresar.

@@ -41,10 +41,10 @@ Todo residente en España que haya obtenido ingresos en el año anterior debe pr
 - Pruebas documentales de deducciones (aportaciones a planes de pensiones, compra de vivienda, etc.)
 
 ## Proveedores que pueden hacerlo por usted
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Gestoría        |  [Información de la Gestoría](https://www.gestoria.es/) |   Hasta 30 días |        Varía       |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 Usted tiene derecho a modificar su declaración de impuestos después de presentarla si descubre errores u omisiones. Esto se puede hacer a través de una declaración de impuestos enmendada, también disponible en el portal de la agencia tributaria. Tenga en cuenta el tratado fiscal de su país de residencia con España para evitar la doble imposición, si corresponde. También puede solicitar ayuda a profesionales locales de impuestos si encuentra dificultades en el proceso.

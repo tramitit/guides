@@ -34,9 +34,10 @@ Hinweis: Die oben genannten Dokumente sind generell erforderlich, je nach den sp
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter        |     Website     |     Zeitrahmen    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Örtliche Zulassungsbehörde      |  N/A       |      Abhängig vom Standort      |        Variiert       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Zusätzliche Details
 - Kurzzeitkennzeichen sind in der Regel für einen kurzen Zeitraum gültig (5-10 Tage), nachdem Sie Ihre dauerhaften Kennzeichen erhalten haben sollten.

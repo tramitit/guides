@@ -36,9 +36,10 @@ Jeder Elternteil, der derzeit in Deutschland wohnt und ein neugeborenes oder ado
 - Aufenthaltsgenehmigung (falls zutreffend)
 
 ## Anbieter
-| Anbieter        |     Webseite     |     Zeitleisten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Bundesagentur für Arbeit | [https://www.arbeitsagentur.de/](https://www.arbeitsagentur.de/) | Variiert | Kostenlos |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Höhe des Elterngeldes hängt von Ihrem Einkommen vor der Geburt Ihres Kindes ab. Es reicht von €300 bis €1.800 pro Monat.

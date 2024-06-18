@@ -34,10 +34,10 @@ Expats oder alle, die in die Vereinigten Staaten oder nach Deutschland aus einem
 
 ## Anbieter, die das für Sie erledigen können
 
-| Anbieter                 |     Webseite                |     Zeitrahmen     |       Kosten      |
-| ------------------ | ------------------- |  :-----------:    | :----------: |
-| Munich Driving School | [Website](https://www.muenchner-fahrschule.de/) |      Variiert      |   Variiert   |
-| Führerschein Agentur Berlin | [Website](https://www.fuehrerscheinagentur.com/) |      Variiert      |   Variiert   |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 In Deutschland können Inhaber von türkischen und EU-Führerscheinen direkt umgewandelt werden. Für Führerscheine aus anderen Regionen wie den Vereinigten Staaten muss der Inhaber nach dem Besuch von Fahrstunden eine theoretische und praktische Prüfung ablegen. In den Vereinigten Staaten variieren die Umwandlungsprozesse je nach Bundesstaat. Einige Staaten können einen schriftlichen und/oder Fahrtest verlangen, während andere Ihren ausländischen Führerschein einfach gegen einen amerikanischen eintauschen können, nachdem sie Ihre Dokumente und Sehkraft überprüft haben. Vergessen Sie nicht, die Regeln und Vorschriften des spezifischen Bundesstaats zu überprüfen, in den Sie ziehen.

@@ -38,9 +38,10 @@ Diese Informationen können in der Regel aus Jahresberichten Ihrer Handelsplattf
 
 ## Anbieter, die dies für Sie erledigen können
 
-| Anbieter         | Webseite         | Zeitrahmen      | Kosten          |
-| ---------------  | ---------------  | :-------------: | :-------------: |
-| SteuerGo         | [Link](https://steuergo.de/)         | ~1-2 Wochen    | ~25-50 USD     |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Beachten Sie, dass die Freigrenze für Singles bei 801 Euro und für Ehepaare bei 1602 Euro pro Jahr liegt.

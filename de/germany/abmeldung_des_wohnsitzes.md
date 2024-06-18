@@ -31,10 +31,10 @@ Jeder, der einen Wohnsitz in Deutschland gemeldet hat und plant, aus diesem Wohn
 **Hinweis:** Einige Städte können zusätzliche Unterlagen wie Ihren Mietvertrag oder einen Brief von Ihrem Vermieter verlangen. Informieren Sie sich immer bei den örtlichen Behörden.
 
 ## Anbieter, die dies für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Rathaus (Bürgeramt)      |  N/A       |      Variiert (normalerweise mehrere Werktage)      |        Kostenlos oder mit minimaler Verwaltungsgebühr       |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Denken Sie daran, dass das Versäumnis, sich abzumelden, zu finanziellen Strafen und Komplikationen bei zukünftigen Anmeldungen oder Visumsanträgen führen kann.

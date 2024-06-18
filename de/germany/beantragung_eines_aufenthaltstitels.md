@@ -38,10 +38,10 @@ Nicht-europäische Bürger, die vorhaben, länger als drei Monate in Deutschland
 - Nachweise über Schulbesuch, Ausbildung und Qualifikationen (falls zutreffend)
 
 ## Anbieter, die es für Sie erledigen können
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
 
-| Anbieter        |     Webseite     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Deutsche Ausländerbehörde      |  [Deutsche Ausländerbehörde](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Aufenthaltstitel/aufenthaltstitel-node.html)       |      Variieren      |        Variieren       |
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 - Die Anträge werden in der Regel innerhalb weniger Wochen bearbeitet, es kann jedoch in stark frequentierten Zeiten länger dauern. Es ist wichtig, rechtzeitig einen Antrag zu stellen.

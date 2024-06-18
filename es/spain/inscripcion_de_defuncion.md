@@ -32,10 +32,10 @@ Cualquier persona que sea responsable de gestionar los asuntos después de la mu
 - Libro de Familia, si aplica.
 
 ## Proveedores que pueden hacerlo por ti
+_(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un proveedor, contáctenos o edite la página directamente)_
 
-| Proveedor         | Sitio web | Tiempos | Costo |
-| ---------------- | ------- | --------- | ---- |
-| Oficina del Registro Civil local | N/A | 4-5 días laborables | Gratis (Puede aplicar un cargo mínimo por servicios urgentes) |
+| Proveedor | Sitio web | Plazos | Costo |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Detalles adicionales
 - En la mayoría de los casos, las defunciones en España deben registrarse en el área municipal donde ocurrió la muerte.

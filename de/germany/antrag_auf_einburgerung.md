@@ -49,9 +49,10 @@ Für detaillierte Informationen besuchen Sie [Erforderliche Unterlagen für die 
 
 ## Anbieter, die es für Sie tun können
 
-| Anbieter        |     Website     |     Bearbeitungszeiten    |       Kosten      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Deutsche Mission in den USA |   [Link zur deutschen Mission](https://www.germany.info/us-en/embassy-consulates)  |      Fallabhängig      |        Variiert je nach individuellem Fall       |
+_(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder einen kennen, kontaktieren Sie uns bitte oder bearbeiten Sie die Seite direkt)_
+
+| Anbieter | Website | Zeitpläne | Kosten |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Weitere Details
 
