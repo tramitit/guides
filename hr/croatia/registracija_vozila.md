@@ -38,9 +38,10 @@ Svi koji posjeduju vozilo u Hrvatskoj, ili uvoze automobil iz druge zemlje u Hrv
 
 ## Davatelji koji to mogu obaviti za vas
 
-| Davatelj        |     Web stranica     |     Rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Hrvatsko Ministarstvo unutarnjih poslova   | [https://mup.gov.hr/](https://mup.gov.hr/)  | Ovisno o vašoj lokaciji | Varies ovisno o vašem vozilu |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Imajte na umu da ako odgodite zakazanu tehničku inspekciju više od 15 dana, morat ćete platiti dodatnu naknadu.

@@ -40,9 +40,10 @@ Ce guide est conçu pour les étudiants internationaux qui souhaitent poursuivre
 
 ## Fournisseurs pouvant le faire pour vous
 
-| Fournisseur        |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Campus France   |  [Campus France](http://www.usa.campusfrance.org/)  |   Variables selon l'université  |  Variables selon l'université  |
 
 ## Détails supplémentaires
 - Les étudiants européens ne sont pas tenus de payer les frais de scolarité pour les universités publiques françaises.

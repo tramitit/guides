@@ -36,15 +36,12 @@ Ovaj vodič je uglavnom usmjeren prema stranim državljanima koji legalno žive 
 
 ## Davatelji koji to mogu učiniti umjesto vas
 
-| Davatelj        |     Web stranica     |     Vremenski okvir    |       Trošak      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Ministarstvo unutarnjih poslova      |  [Službena web stranica](http://www.mup.hr/)       |      Varira      |        Varira       |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 - Preporučuje se podnijeti zahtjev za produženje prije isteka vaše trenutne dozvole. Prekoračenje vaše vize može rezultirati kaznama, uključujući deportaciju i zabrane ponovnog ulaska.
 - Ugovor o najmu treba biti notariziran za uporabu u službenim postupcima. To se može obaviti u lokalnom notarskom uredu.
 - Postupak može trajati od nekoliko tjedana do nekoliko mjeseci. Preporučuje se započeti postupak što prije prije isteka vaše trenutne dozvole.
-
-Reference:
-- Zahtjev za boravišnu dozvolu u Crnoj Gori možete pronaći [ovdje](https://www.reddit.com/r/montenegro/comments/1b2gqp0/crnogorsko_drzavljanstvo_i_dozvole_za_rad/)
-- Savjeti o tome kako koristiti svoju boravišnu dozvolu za otvaranje Revolut računa dostupni su [ovdje](https://www.reddit.com/r/Revolut/comments/zsrtcc/revolut_account_with_residence_permit/).

@@ -40,9 +40,10 @@ Svaki stranac koji namjerava boraviti u stranoj zemlji duže od dozvoljenog turi
 
 ## Pružatelji koji to mogu učiniti umjesto vas
 
-| Pružatelj       |    Web stranica   |     Rokovi       |      Troškovi     |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Primjer Pružatelja      |  primjer.com       |      Nepoznato      |       Nepoznato       |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatni detalji
 

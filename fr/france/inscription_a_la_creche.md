@@ -36,10 +36,10 @@ Vous devrez généralement fournir un ou plusieurs des documents suivants lors d
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur        |     Site web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Centres de garderie en Ontario      |  [ontario.ca](https://www.ontario.ca/page/child-care-and-daycare)       |      Varie en fonction du fournisseur      |        Varie en fonction du fournisseur       |
-| Centres de garderie au Québec     |  [quebec.ca](https://www.quebec.ca/en/family-and-support-for-individuals/childcare/)       |      Varie en fonction du fournisseur      |        Varie en fonction du fournisseur |
 
 ## Détails supplémentaires
 - Certaines garderies au Canada offrent des cours en français ou une immersion. Cela peut être bénéfique si vous souhaitez que votre enfant soit bilingue, mais il est utile de s'assurer à l'avance que votre enfant pourra évoluer dans cet environnement. Au Québec, des subventions peuvent être disponibles pour participer à un programme de francisation.

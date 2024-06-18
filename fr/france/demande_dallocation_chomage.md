@@ -38,9 +38,10 @@ Le service est adapté aux personnes récemment devenues chômeurs, suite à des
 
 ## Fournisseurs pouvant le faire pour vous
 
-| Fournisseur     |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Pôle emploi      |  [www.pole-emploi.fr](http://www.pole-emploi.fr/)       |   Dépend de la complexité du cas   |    Gratuit    |
 
 ## Détails supplémentaires
 

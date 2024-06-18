@@ -36,9 +36,10 @@ Idealan profil kupca uključuje svakoga tko treba promijeniti svoje osobne podat
 
 ## Pružatelji usluga koji to mogu učiniti za vas
 
-| Pružatelj       |     Web stranica  |     Rokovi       |       Trošak     |
-| --------------- | ---------------   |  :-------------: | :-------------: |
-| Pružatelj 1     |  https//:         |      x dana      |        $X        |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Uvijek zapamtite komunicirati s relevantnim organizacijama o svom novom imenu kako biste spriječili neočekivane probleme poput neslaganja identiteta i drugih. U kontekstu kupovine karata ili igara, promjena imena možda neće biti odobrena ili dostupna u svim slučajevima, stoga uvijek validirajte takve opcije unaprijed. Budite sigurni da ste svjesni svih implikacija i mogućih posljedica koje promjena imena može imati.

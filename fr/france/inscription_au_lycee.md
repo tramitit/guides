@@ -44,10 +44,10 @@ Ce guide est idéal pour les parents ou tuteurs qui souhaitent inscrire leurs en
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur            |      Site Web         |      Délais      |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Lycée français de Shanghai      |  [Site Web de l'école](https://www.lyceeshanghai.com/)       |      Selon le cycle d'admission      |        Varie       |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 ## Détails supplémentaires
 
 - Les frais de scolarité varient grandement d'une école à l'autre et peuvent être trouvés sur le site Web de l'école respective.

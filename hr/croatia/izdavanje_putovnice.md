@@ -38,9 +38,10 @@ Svi koji planiraju putovati internacionalno i trebaju dokumentaciju koja potvrđ
 
 ## Davatelji usluga koji to mogu obaviti za vas
 
-| Davatelj        |     Web stranica     |     Rokovi      |       Trošak         |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Hrvatsko Ministarstvo unutarnjih poslova      |  [MUP](https://mup.gov.hr)       |      30 dana      |        55 eura (oko 66 dolara)  |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Postoje dva tipa postupaka: redovni i hitni. Redovni postupak traje oko 30 dana, dok hitni postupak može značajno ubrzati proces, ali uz veće troškove. U slučaju gubitka, krađe ili oštećenja putovnice, treba dobiti policijsko izvješće i dostaviti ga prilikom aplikacije. Moguće je imati samo jednu valjanu hrvatsku putovnicu istovremeno.

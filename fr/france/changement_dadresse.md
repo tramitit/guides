@@ -32,11 +32,10 @@ Ce guide peut être bénéfique pour ceux qui ont déménagé d'un endroit à un
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur     |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Revolut      |  [Revolut](https://www.revolut.com)      |      Dépend du délai de traitement      |        Gratuit (sous réserve de conditions)       |
-| Vinted | [Vinted](https://www.vinted.com/) | Disponibilité du service client le plus proche | Gratuit (sous réserve de conditions) |
-| Jeux olympiques | [Jeux olympiques](https://www.olympic.org/) | Disponibilité du service client le plus proche | Gratuit (sous réserve de conditions) |
 
 ## Détails supplémentaires
 Dans certains cas, mettre à jour votre emplacement peut affecter les services et les fonctionnalités de la plateforme que vous utilisez. Vérifiez toujours les détails de l'application/plateforme sur les procédures de changement d'emplacement.

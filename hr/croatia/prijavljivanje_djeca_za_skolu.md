@@ -39,9 +39,10 @@ Kako biste pribavili ove dokumente, morat ćete kontaktirati nadležne vlasti il
 
 ## Ponuđači koji to mogu učiniti umjesto vas
 
-| Ponuđač         |     Web stranica     |      Rokovi     |       Trošak     |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Ministarstvo obrazovanja i znanosti Republike Hrvatske |  [www.mzo.hr](http://www.mzo.hr/)      |      Ovisno o rasporedu školske godine     |      Nema dostupnih informacija     |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 

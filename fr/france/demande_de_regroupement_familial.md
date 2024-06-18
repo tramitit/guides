@@ -38,10 +38,9 @@ Ce processus est idéal pour les résidents hors UE ayant des membres de leur fa
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur           | Site Web                            | Délais                   | Coût                 |
-| ----------------- | -----------------------------| :----------------: | :--------------: |
-| OFII                        |  [OFII](http://www.ofii.fr)  |      Varie                  |       Varie          |
-| France Visas            | [France Visas](https://france-visas.gouv.fr/) | Varie | Varie |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 ## Détails supplémentaires
 Veuillez noter que le processus de demande peut être long et compliqué. Assurez-vous de vérifier les délais de traitement et les coûts sur les sites pertinents et d'avoir tous les documents prêts avant de commencer votre demande.

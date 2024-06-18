@@ -36,9 +36,10 @@ Ovi dokumenti trebaju se donijeti u lokalni matični ured radi obrade.
 
 ## Davatelji koji to mogu učiniti umjesto vas
 
-| Davatelj            |     Web stranica                               |     Rokovi         |        Trošak            |
-| ------------------- | --------------------------------- |  :-------------: |  :-------------: |
-| Hrvatska Vlada |  [gov.hr](https://www.gov.hr/) |   Oko 5 dana |      Varira      |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Provjerite jeste li zabilježili sve potrebne detalje o rođenju (uključujući grad i bolnicu) kako biste olakšali proces. Osobe koje ne govore hrvatski jezik možda žele kontaktirati lokalnog prevoditelja jer će sva dokumentacija i postupci biti na hrvatskom jeziku. Točan trošak i rokovi mogu varirati ovisno o količini zahtjeva. Uzmite u obzir moguće kašnjenje. Ako se prijavljujete iz inozemstva, preporučuje se da prođete kroz lokalnog konzultanta ili pravnog zastupnika kako biste ubrzali proces.

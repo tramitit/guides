@@ -37,10 +37,10 @@ Ovaj vodič je namijenjen strancima, digitalnim nomadima ili bilo kojim strancim
 - Putovnica
 
 ## Davatelji koji to mogu učiniti umjesto vas
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-| Davatelj                |         Web stranica                     |  Vremenski okviri |       Troškovi      |
-| ------------------- | ------------------------------- | :--------: | :--------: |
-| Hrvatski zavod za zdravstveno osiguranje (HZZO) |  [http://www.hzzo.hr](http://www.hzzo.hr)    |  1-2 mjeseca   | Varira ovisno o čimbenicima poput dobi, prihoda itd. |
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 Sudjelovanje u hrvatskom državnom zdravstvenom sustavu obvezno je za sve stanovnike, uključujući strance koji žive u Hrvatskoj. Sustav se financira obveznim doprinosima za zdravstveno osiguranje. Napomena: privatno zdravstvo također je dostupno, iako obično služi kao dodatno osiguranje uz obvezno državno zdravstveno osiguranje.

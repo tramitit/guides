@@ -34,6 +34,7 @@ Svatko tko je izgubio putovnicu ili mu je oduzeta ili ukradena dok se nalazio u 
 
 ## Davatelji usluga koji to mogu obaviti za vas
 
-| Davatelj         |     Web stranica     |     Vremenski okviri    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Američko veleposlanstvo u Hrvatskoj   |  [link](https://hr.usembassy.gov/)       |      Vari
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |

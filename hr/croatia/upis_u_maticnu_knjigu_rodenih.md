@@ -33,11 +33,10 @@ Ovaj postupak je potreban svakome tko je rodio dijete u Hrvatskoj ili ima dijete
 
 ## Davatelji koji mogu to učiniti za vas
 
-| Davatelj        |     Web stranica     |     Rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Nije primjenjivo  |                 |                  |                 |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-Ne postoje eksplicitni davatelji za ovu uslugu jer je obično provodi pojedinac uz vođenje bolnice i lokalnih vlasti.
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 - Rokovi se mogu razlikovati od slučaja do slučaja. Molimo uzeti u obzir moguće kašnjenja.

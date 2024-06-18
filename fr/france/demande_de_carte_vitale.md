@@ -32,11 +32,10 @@ Le service est requis par tous les résidents légaux en France, en Pologne et e
 
 ## Prestataires qui peuvent le faire pour vous
 
-| Prestataire        |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Caisse Primaire d'Assurance Maladie (CPAM) pour la France |  [Ameli](https://www.ameli.fr/) |      2-3 semaines      |        Gratuit       |
-| Health Service Executive (HSE) pour l'Irlande | [HSE](https://www2.hse.ie/) | 2-3 semaines | Gratuit |
-| NFZ pour la Pologne | [NFZ](http://www.nfz.gov.pl/) | 2-3 semaines | Gratuit |
 
 ## Détails supplémentaires
 - Pour la France, un certificat temporaire peut vous être délivré en attendant votre carte.

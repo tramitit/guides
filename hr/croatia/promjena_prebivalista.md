@@ -35,9 +35,10 @@ Svaki pojedinac ili obitelj koja planira preseliti se sa svoje trenutačne regis
 
 ## Pružatelji usluga koji to mogu obaviti umjesto vas
 
-| Pružatelj      |     Web stranica     |     Rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Policijska uprava Hrvatske |  [Poveznica](http://www.mup.hr/)     |      Varijabilno (obično nekoliko dana do nekoliko tjedana)       |        Besplatno       |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 

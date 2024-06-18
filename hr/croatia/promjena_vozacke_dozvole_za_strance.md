@@ -37,9 +37,10 @@ Iseljenici koji su se preselili u Hrvatsku zbog posla ili drugih razloga i žele
 
 ## Davatelji usluga koji mogu to obaviti umjesto vas
 
-| Davatelj               |     Web stranica    | Vremenski rokovi |       Trošak    |
-| --------------- | --------------- |:-------------:|:-------------:|
-| Hrvatska policija |  www.mup.hr    |      7-10 radnih dana  |  Različito |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 

@@ -34,9 +34,10 @@ Tout titulaire de passeport ayant besoin de prolonger sa validité.
 
 ## Fournisseurs pouvant le faire pour vous
 
-| Fournisseur        |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Gouvernement Français     |  [https://www.service-public.fr](https://www.service-public.fr/)      |      variables      |        variables       |
 
 ## Détails supplémentaires
 - Les frais de renouvellement de passeport dépendront du type de passeport (biométrique ou non, adultes ou enfants, etc.).

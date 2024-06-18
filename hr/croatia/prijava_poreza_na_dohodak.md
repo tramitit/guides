@@ -37,9 +37,10 @@ Ovo je bitno za sve zaposlene osobe, slobodne umjetnike ili vlasnike poslovanja 
 
 ## Davatelji koji vam to mogu obaviti
 
-| Davatelj        |     Web stranica     |     Rokovi    |       Trošak      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Porezna Uprava  |  www.porezna-uprava.hr |      Varijabilno      |    Ovisno o dohotku       |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 Važno je napomenuti da rokovi za podnošenje prijave poreza obično padaju početkom godine, obično krajem veljače. Točan datum može se mijenjati svake godine, pa je najbolje provjeriti s lokalnim poreznim uredom ili njihovom službenom web stranicom za najpreciznije informacije.

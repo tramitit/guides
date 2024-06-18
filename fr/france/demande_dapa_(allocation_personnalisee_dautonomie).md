@@ -32,9 +32,10 @@ L'allocation est idéale pour les personnes de plus de 60 ans ayant besoin d'aid
 
 ## Fournisseurs qui peuvent aider
 
-| Fournisseur        |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Caisse d'Allocations Familiales      |  https://www.caf.fr/      |   Variables selon les cas   |        Gratuit       |
 
 ## Détails supplémentaires
 Chaque département en France gère indépendamment le processus d'APA. Les délais d'attente et les exigences spécifiques peuvent varier. L'APA peut être utilisée pour couvrir les services de soins professionnels, les aides techniques et les adaptations domiciliaires.

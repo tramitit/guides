@@ -39,10 +39,10 @@ Ce service est conçu pour ceux qui sont financièrement contraints et ne peuven
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur | Site Web | Délais | Coût |
-| --------------- | ----------------- | :-------------: | :-------------: |
-| Bureau du gouvernement local | [https://www.gouvernement.fr/fr/logement](https://www.gouvernement.fr/fr/logement) | Varie en fonction du cas individuel | Gratuit |
-| France Bienvenue | [https://www.francebienvenue.fr/](https://www.francebienvenue.fr/) | Varie en fonction du cas individuel | Gratuit |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 

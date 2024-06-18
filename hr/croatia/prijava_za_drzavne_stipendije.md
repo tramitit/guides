@@ -42,9 +42,10 @@ Detalji o tome kako doći do ovih dokumenata obično se mogu pronaći na interne
 
 ## Davatelji koji to mogu obaviti za vas
 
-| Davatelj      | Web stranica   | Rokovi    | Trošak    |
-|---------------|---------------|-----------|-----------|
-| Vlada         | [State.gov](http://www.state.gov)   | Varira    | Besplatno   |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 

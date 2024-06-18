@@ -33,9 +33,10 @@ Tout tuteur ou parent résidant en France ayant un enfant prêt à commencer l'�
 - Preuve d'identité des tuteurs.
 
 ## Fournisseurs qui peuvent le faire pour vous
-|      Fournisseur       |             Site Web             | Délais | Coût |
-| :-----------------: | :-------------------------------: | :-------: | :--: |
-| Mairie locale | [Site Web](http://www.mairie.fr) |   Variable    |  Gratuit |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 L'éducation en France commence vers 8h30 et se termine vers 16h30, avec une pause déjeuner. Cela peut varier légèrement en fonction des écoles et des régions spécifiques. Assurez-vous d'être pleinement informé sur les routines quotidiennes et les horaires lors de la réunion avec l'école. Une présence régulière est nécessaire une fois l'enfant inscrit. Si vous déménagez d'un autre pays, soyez prêt pour des différences dans le système éducatif et cherchez du soutien si nécessaire.

@@ -42,10 +42,10 @@ Un permis de construire est crucial pour les propriétaires, les entrepreneurs o
 - Tout autre document demandé par l'autorité locale
 
 ## Fournisseurs qui peuvent le faire pour vous
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Fournisseur        |     Site Web          |     Délais        |   Coût                                                  |
-| --------------- | ---------------          |  :-------------: | :-------------:                                         |
-| Gouvernement local| [Site du gouvernement](https://www.service-public.fr/particuliers/vosdroits/F1986)    |  Environ 2 mois   | Généralement un pourcentage du coût estimé des travaux |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 La durée du processus de demande de permis peut varier en fonction de l'autorité locale et de la complexité des travaux. Si la permission est refusée, vous pouvez modifier vos plans et soumettre à nouveau ou faire appel de la décision. N'oubliez pas que travailler sans permis là où il est requis peut entraîner des amendes et des coûts supplémentaires.

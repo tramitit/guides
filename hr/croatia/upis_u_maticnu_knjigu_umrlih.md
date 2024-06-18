@@ -34,9 +34,10 @@ Svi stanovnici stana ili članovi uže obitelji preminule osobe, bilo da su hrva
 
 ## Pružatelji usluga koji mogu obaviti postupak umjesto vas
 
-| Pružatelj       |     Web stranica     |     Rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Lokalni ured općine |   N/A      |  Različito (obično unutar 1 tjedna od prijave)  |  Minimalno ili nikakvo (ovisno o broju ovjerenih primjeraka koji se zatražuju)   |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 Izvršavanje upisa u knjigu umrlih je bitno jer službeno evidentira smrt preminulog i pomaže u provedbi njegove oporuke i ostavine. Također se preporučuje da se zadrže više primjeraka ovjerenog upisa smrti kako bi se riješile eventualne buduće komplikacije ili potrebe.

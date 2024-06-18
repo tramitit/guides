@@ -38,11 +38,10 @@ Les documents suivants peuvent être nécessaires pour le processus d'inscriptio
 Veuillez noter que les exigences peuvent varier en fonction de l'école spécifique, il est donc important de vérifier directement auprès de l'école.
 
 ## Prestataires pouvant le faire pour vous
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Prestataire     |     Site web    |     Délais       |      Coût       |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| École publique  |     N/A         |        N/A       |    Généralement gratuit  |
-| École privée    |  Variable en fonction de l'école | Variable en fonction de l'école | Variable en fonction de l'école |
 
 ## Détails supplémentaires
 Veuillez noter que le système éducatif français est différent de celui de nombreux autres pays. Il est important de se familiariser avec la structure et le programme avant d'inscrire votre enfant. Si votre enfant a des besoins éducatifs spéciaux, veuillez informer l'école car le système français dispose de programmes et de ressources pour aider. De plus, si vous envisagez d'inscrire votre enfant dans un collège international ou bilingue du pays, assurez-vous de bien vous renseigner à l'avance car la concurrence pour les places peut être élevée.

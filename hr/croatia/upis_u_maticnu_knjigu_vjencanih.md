@@ -36,10 +36,10 @@ Parovi koji su odlučili se vjenčati u Hrvatskoj, ili pojedinci koji su se vjen
 7. Svi dokumenti moraju biti prevedeni na hrvatski.
 
 ## Davatelji usluga koji to mogu učiniti za vas
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-| Davatelj | Web stranica | Rokovi | Troškovi |
-| --- | --- | :---: | :---: |
-| Ministarstvo uprave | [Hrvatsko Ministarstvo uprave](https://uprava.gov.hr/) | Razlikuje se ovisno o pojedinačnom slučaju | Razlikuje se ovisno o slučaju |
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Važno je napomenuti da se rokovi i troškovi mogu razlikovati ovisno o dostupnosti potrebnih dokumenata i brzini administrativnog procesa. Preporučuje se da se obratite Ministarstvu uprave ili svojem lokalnom uredu za maticu vjenčanih radi više pojedinosti o postupku, potrebnim dokumentima i naknadama. Molimo imajte na umu da neki uredi mogu zahtijevati da svi dokumenti budu ovjereni apostilom, što može produžiti rokove i troškove.

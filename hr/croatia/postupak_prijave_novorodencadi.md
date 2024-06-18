@@ -33,9 +33,10 @@ Ovi dokumenti se obično traže tijekom postupka registracije novorođenčadi:
 
 ## Davatelji usluga koji to mogu učiniti za vas
 
-| Davatelj        |     Web stranica                |     Rokovi       |       Troškovi      |
-| --------------- | ------------------------------- |  :-------------: | :-------------: |
-| Hrvatski ured za matične knjige |[Službena web stranica](http://uprava.gov.hr/)| Do nekoliko dana | Obično besplatno   |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Registracija novorođenčeta obično mora biti obavljena u roku od mjesec dana od djetetovog rođenja. U slučaju da roditelji ne uspiju registrirati rođenje djeteta unutar postavljenog roka, mogu biti podvrgnuti minimalnoj novčanoj kazni. Postupak se može neznatno razlikovati ovisno o vašim konkretnim lokalnim vlastima. Uvijek se obratite svom nadležnom uredu za matične knjige radi najtočnijih informacija.

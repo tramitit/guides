@@ -39,10 +39,10 @@ Međunarodni studenti, posebno oni koji planiraju studirati preddiplomske ili di
 8. Legalizirani originalni dokumenti
 
 ## Pružatelji usluga koji to mogu obaviti umjesto vas
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-| Pružatelj      |     Web stranica     |     Rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Pružatelj 1      |  https//:       |      x dana      |        $X       |
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 - Originalni dokumenti mogu biti potrebno "legalizirati ili apostilizirati". To ovisi o tome je li zemlja potpisnica Haške konvencije ili ne.

@@ -45,9 +45,10 @@ Sljedeći dokumenti će obično biti potrebni tijekom procesa:
 
 ## Davatelji usluga koji to mogu učiniti umjesto vas
 
-| Davatelj usluga             |     Web stranica                                |     Rokovi    |       Troškovi                                     |
-| -------------------- | ------------------------------------ |  :-------------: | :--------------------------------: |
-| Matični ured         |  [Web stranica](http://www.uprava.hr) |      30-45 dana      |      Varijabilno, ovisno o lokaciji i dodatnim uslugama    |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije 
 - Brakovi istospolnih osoba trenutno nisu zakonski priznati u Hrvatskoj.

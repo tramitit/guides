@@ -31,9 +31,10 @@ Toute personne craignant la persécution ou le préjudice dans son pays d'origin
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur        |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Office français de protection des réfugiés et apatrides (OFPRA)      |  [https://www.ofpra.gouv.fr/](https://www.ofpra.gouv.fr/)       |      Variables, en fonction de la complexité/sensibilité du cas      |        Le processus de demande d'asile est gratuit        |
 
 ## Détails supplémentaires
 Consultez des conseils juridiques auprès d'organisations apportant un soutien aux demandeurs d'asile en France. La CNDA et l'OFPRA fournissent des conseils juridiques gratuitement. Soyez patient, car il peut falloir du temps aux autorités françaises pour prendre une décision concernant votre demande. Restez en contact avec les autorités et informez-les de tout changement dans votre situation.

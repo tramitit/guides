@@ -33,9 +33,10 @@ Toute personne ayant une incapacité de déplacement limitant sa capacité à se
 
 ## Prestataires qui peuvent le faire pour vous
 
-| Prestataire      |     Site web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| MDPH      |  [http://www.mdph.fr/](http://www.mdph.fr/)       |      Variables en fonction du cas individuel      |        Variables en fonction de l'aide       |
 
 ## Détails supplémentaires
 - Toutes les aides à la mobilité ne seront pas entièrement prises en charge par la sécurité sociale et vous pourriez avoir des frais.

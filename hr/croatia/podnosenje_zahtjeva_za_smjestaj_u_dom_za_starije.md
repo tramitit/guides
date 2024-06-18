@@ -35,10 +35,10 @@ Ovaj vodič prvenstveno je namijenjen starijim osobama koje traže opcije za pom
 4. Ostali dokumenti mogu biti potrebni ovisno o politici određenog doma za starije osobe ili zakonodavstvu zemlje.
 
 ## Pružatelji koji mogu to učiniti umjesto vas
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-| Pružatelj       |     Web stranica    |     Rokovi      |       Troškovi      |
-| --------------- | ------------------- |  :-------------: | :----------------: |
-| Pružatelj 1     |  https//:           |      x dana      |        $X           |
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 Obavezno pitajte o uslugama koje nudi dom, poput zdravstvene njege, rekreacijskih aktivnosti, usluga hrane, itd. prije donošenja odluke. Također, recenzije ili preporuke od drugih mogu biti korisne tijekom procesa odabira.

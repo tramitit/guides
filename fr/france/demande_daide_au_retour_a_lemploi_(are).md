@@ -37,9 +37,10 @@ Toute personne ayant perdu son emploi et recherchant activement un emploi peut a
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur       | Site internet               | Délais      | Coût      |
-| ------------------ | --------------------------- | :----------: | :-------: |
-| Pôle Emploi        | [pole-emploi.fr](https://www.pole-emploi.fr/) | Variables    | Gratuit   |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - Le montant de l'ARE que vous recevrez dépendra de votre salaire précédent.

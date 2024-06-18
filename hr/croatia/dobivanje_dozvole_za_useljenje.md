@@ -39,6 +39,7 @@ Napomena: Dodatni dokumenti mogu biti potrebni ovisno o svrsi vašeg boravka.
 
 ## Pružatelji usluga koji to mogu obaviti umjesto vas
 
-| Pružatelj        |     Web stranica     |     Rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Hrvatsko veleposlanstvo      |  [Link](http://www.mvep.hr/en/diplomatic-directory/diplomatic-missions-and-consular-offices-of-croatia/)       |      Vari
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |

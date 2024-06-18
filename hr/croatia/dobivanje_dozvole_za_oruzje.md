@@ -41,9 +41,10 @@ Svatko tko je stanovnik Hrvatske stariji od 18 godina koji ispunjava potrebne uv
 
 ## Davatelji usluga koji to mogu učiniti za vas
 
-| Davatelj        |     Web stranica     |     Vremenski rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Hrvatska policija |  [Poveznica ovdje](https://www.mup.hr)  |   Ovisi o vremenu potrebnom za ispunjavanje svih zahtjeva  |   Troškovi mogu varirati, više detalja na relevantnoj web stranici policije | 
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatni detalji
 - Važno je napomenuti da može postojati zakonski propisani rok čekanja između podnošenja zahtjeva za dozvolu i kupnju oružja.

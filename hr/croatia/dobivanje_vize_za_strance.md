@@ -40,9 +40,10 @@ Napomena: Točni dokumenti koji su potrebni mogu varirati ovisno o tipu vize za 
 
 ## Pružatelji usluga koji to mogu učiniti umjesto vas
 
-| Pružatelj       |     Web stranica  |     Vremenski okviri   |      Troškovi    |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Službene hrvatske konzulati ili veleposlanstva | [Službena Vlada Hrvatske web stranica](http://www.mvep.hr/en/) | Ovisno o vrsti vize i trajanju boravka    | Varira ovisno o vrsti vize |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 - Vremena obrade aplikacija za vize mogu varirati ovisno o konzulatu ili veleposlanstvu gdje aplicirate, vrsti vize i vremenu godine.

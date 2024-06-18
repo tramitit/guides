@@ -36,10 +36,10 @@ Ovdje je popis obaveznih dokumenata:
 - Dokaz o adresi u Hrvatskoj
 
 ## Davatelji usluge koji vam mogu pomoći
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-| Davatelj        |     Web stranica     |     Rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Ministarstvo unutarnjih poslova Hrvatske      |  [mup.hr](https://www.mup.hr/)       |      Varijabilno ovisno o slučaju      |        Varijabilno ovisno o slučaju       |
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Stranci koji borave u Hrvatskoj na temelju privremenog boravka mogu boraviti do 90 dana u svakom razdoblju od šest mjeseci počevši od datuma prvog ulaska. Za svaki boravak dulji od toga, stranac treba zatražiti dozvolu za privremeni boravak. Ove informacije potječu iz službenih propisa i politika navedenih na web stranici Ministarstva unutarnjih poslova.

@@ -37,10 +37,10 @@ Svaki stanovnik, domaći ili strani, u Hrvatskoj treba imati zdravstveno osigura
 Imajte na umu da se neki dokumenti mogu razlikovati prema zahtjevima pružatelja zdravstvenog osiguranja.
 
 ## Pružatelji koji to mogu obaviti umjesto vas
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-| Pružatelj                                               |      Web stranica                    | Rokovi      |     Troškovi   |
-| ------------------------------------------------------- | ------------------------------------  | :---------: | :------------: |
-| Hrvatski zavod za zdravstveno osiguranje (HZZO)         |  [Poveznica](http://www.hzzo.hr/)     | N/A         | Varies |
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Provjerite da je vaše zdravstveno osiguranje uvijek aktivno i da pokriva vaše potrebe, posebno u slučaju hitne medicinske pomoći ili hospitalizacije. Neke ljekarne mogu odbiti pružiti uslugu ako vaše zdravstveno osiguranje nije važeće, dok troškovi bolnice bez osiguranja mogu biti primjetno visoki.

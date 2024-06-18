@@ -35,9 +35,10 @@ Svaka osoba koja je izgubila svoju hrvatsku osobnu iskaznicu i treba zamjensku.
 
 ## Davatelji usluga koji to mogu učiniti umjesto vas
 
-| Davatelj         |               Web stranica               |     Vremenski okviri    |       Trošak      |
-| --------------- | ----------------------------------- |  :-------------: | :-------------: |
-| Hrvatska policija |  [https://www.mup.hr](https://www.mup.hr)       |      Varijabilno - Ovisno o specifičnom slučaju     |        Varijabilno - Ovisno o specifičnom slučaju      |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 - Važno je što prije prijaviti izgubljenu osobnu iskaznicu kako bi se spriječila moguća krađa identiteta ili prijevara.

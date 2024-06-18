@@ -39,10 +39,10 @@ Cela peut être requis par des étrangers qui vivent en France depuis un certain
 Notez que certains documents pourraient devoir être légalisés ou apostillés. De plus, certains documents ne doivent pas dater de plus de trois mois (comme le justificatif de domicile).
 
 ## Prestataires qui peuvent le faire pour vous
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Prestataire        |     Site Web    |     Délais   |    Coût  |
-| --------------- | -------------- |  :------------: | :------: |
-| Préfecture locale | *Pas de site web disponible* | Variable selon le cas | Demande gratuite |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails Supplémentaires
 Veuillez noter qu'une fois la demande soumise, le processus peut prendre jusqu'à un an. Les candidats devront également réussir un entretien sur leur connaissance de la France, de sa culture et de la société. La nationalité française est acccordée à la discrétion du gouvernement même si toutes les conditions sont remplies.

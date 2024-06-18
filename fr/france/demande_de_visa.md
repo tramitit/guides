@@ -42,9 +42,10 @@ Remarque : Vérifiez toujours la liste des documents sur le site officiel car le
 
 ## Fournisseurs pouvant le faire pour vous
 
-| Fournisseur        |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| TLS Contact      |  https://fr.tlscontact.com/       |   Variables en fonction de la nationalité et du type de visa     |        Variables en fonction du type de visa       |
 
 ## Détails supplémentaires
 - Faites attention en remplissant la demande car des erreurs peuvent potentiellement entraîner un refus.

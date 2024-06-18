@@ -34,10 +34,10 @@ Usluga je potrebna za stanovnike u Hrvatskoj koji nemaju vozačku dozvolu i žel
 
 ## Pružatelji usluga koji to mogu učiniti umjesto vas
 
-| Pružatelj       |     Web stranica                    |    Vremenski okviri    |      Troškovi     |
-| ---------------- | ----------------------------------- | :--------------------: | :----------------: |
-| Autoškola 1     | [Web stranica1](http://www.primjer.com) |   Različito           |      Različito     |
-| Autoškola 2     | [Web stranica2](http://www.primjer.com) |   Različito           |      Različito     |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Neki autoškole mogu zahtijevati ​​liječničku potvrdu kojom se potvrđuje da ste sposobni voziti, te je preporuka odabrati između tečajeva vožnje s ručnim ili automatskim mjenjačem jer će izdana dozvola biti važeća samo za onaj način koji ste učili i ispit položili. Za međunarodne stanovnike, zahtjevi za dokumentaciju i točan postupak mogu varirati ovisno o vašoj zemlji podrijetla, uvijek se konzultirajte s policijskim odjelom odgovornim za vozačke dozvole na vašem mjestu prebivališta.

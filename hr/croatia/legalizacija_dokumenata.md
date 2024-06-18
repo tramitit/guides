@@ -39,10 +39,10 @@ Dokumenti potrebni za legalizaciju će ovisiti o svrsi dokumenta. Često tražen
 Molimo imajte na umu da će također biti potrebne prevedene i ovjerene kopije ovih dokumenata.
 
 ## Pružatelji usluga koji to mogu obaviti umjesto vas
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-| Pružatelj      |     Web stranica     |     Vremenski okvir    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| ABC Prijevodi      |  www.abcprijevodi.hr       |      Varira ovisno o dokumentu i usluzi koja je potrebna      |        Varira ovisno o odabranoj usluzi       |
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 (Napomena: Navedeni pružatelj je hipotetski i služi samo za prikaz tabličnog formata.)
 

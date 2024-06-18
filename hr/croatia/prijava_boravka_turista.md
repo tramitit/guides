@@ -32,9 +32,10 @@ Procedura je obavezna za sve strane državljane koji posjećuju Hrvatsku, uklju�
 
 ## Usluge koje to mogu učiniti umjesto vas
 
-| Davatelj        |   Web stranica    |     Rokovi    |       Trošak      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Hrvatska policija | [link](http://www.mup.hr) |      Unutar 48 sati od dolaska    |        Besplatno       |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 - Imajte na umu da nepravilna registracija boravka može rezultirati kaznama ili čak progonom iz zemlje. Osim toga, to se smatra sigurnosnom mjerom, pa nepoštivanje može privući nepotrebnu pažnju nadležnih tijela.

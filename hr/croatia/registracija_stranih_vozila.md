@@ -33,9 +33,10 @@ Svi stranci koji žive u Hrvatskoj, a koji su uvezli vozila iz matične zemlje i
 
 ## Davatelji koji to mogu obaviti za vas
 
-| Davatelj        |     Web stranica    |     Rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Hrvatski centar za motorna vozila |  [croatianmotorvehiclecentre] (http://test.cvh.hr/)  |      Ovisno o davatelju     |        Različito ovisno o uslugama  
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Svako vozilo registrirano u Hrvatskoj treba proći godišnji tehnički pregled. Također, imajte na umu da morate prijaviti registraciju vašeg stranog vozila hrvatskim vlastima unutar 15 dana kako biste izbjegli kazne. Ako uvozite novo vozilo u Hrvatsku, imajte na umu da možda morate platiti PDV i porez na vozila. Vrijedi provjeriti može li se ove zadatke obaviti treća strana ako niste vješti u hrvatskom jeziku.

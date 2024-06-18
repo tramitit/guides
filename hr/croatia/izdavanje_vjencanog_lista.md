@@ -39,10 +39,10 @@ Ovaj postupak je potreban za sve koji planiraju se vjenčati u Hrvatskoj, bez ob
 - Za strance, ovi dokumenti bi trebali biti prevedeni na hrvatski jezik.
 
 ## Pruzatelji koji to mogu obaviti umjesto vas
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-| Pružatelj        |     Web stranica     |     Vremenski rokovi    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| e-Gradjani     |  [https://e-građani.gov.hr](https://e-građani.gov.hr/)  |      Ovisi o uredu       |        Varies        |
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 - Zakoniti proces vjenčanja u Hrvatskoj temelji se na građanskom pravu, a ne religioznim ceremonijama.

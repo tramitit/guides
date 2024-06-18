@@ -41,10 +41,10 @@ Evo dokumenata koje bi trebali imati:
 Zahtjevi se mogu malo razlikovati ovisno o zakonima i propisima u vašoj zemlji, stoga je uvijek preporučljivo potvrditi kod nadležnog tijela prije nego što započnete postupak.
 
 ## Davatelji koji to mogu učiniti za vas
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
 
-| Davatelj        |     Web stranica            |     Rokovi       |        Troškovi         |
-| --------------- | ---------------             |  :-------------: |  :-------------: |
-| Lokalna policija| [web stranica lokalne policije](#)   |     x dana       |        $X         |
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 U nekim slučajevima, ako je potrebno dostaviti ovu potvrdu stranom tijelu, može biti potrebno prevesti je i ovjeriti. Također, neke zemlje zahtijevaju da certifikat bude izdan nedavno, tj. unutar određenog vremenskog perioda prije podnošenja zahtjeva. Visoko je preporučljivo potvrditi to s tijelom, organizacijom ili institucijom koja od vas zahtijeva ovaj dokument.

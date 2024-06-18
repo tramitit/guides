@@ -34,9 +34,10 @@ Svaki stranac koji živi u Hrvatskoj, bilo zbog rada, studija ili dugoročnog bo
 
 ## Davatelji usluga koji to mogu učiniti umjesto vas
 
-| Davatelj        |     Web stranica     |     Vremenski okviri    |       Trošak      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Lokalna policijska postaja     |  N/A      |      Može ovisiti o lokalnom uredu     |       Nema naknada za registraciju       |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 - Ponekad osoba koja posjeduje mjesto na kojem ćete boraviti također može trebati pratiti vas u procesu registracije.

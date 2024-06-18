@@ -37,9 +37,10 @@ Ce guide est essentiel pour toute personne non européenne ayant obtenu un emplo
 
 ## Prestataires qui peuvent le faire pour vous
 
-| Prestataire        |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministère du Travail français       |  [Lien](http://travail-emploi.gouv.fr/)    |     Variables en fonction de la situation spécifique    |        Variables en fonction du contrat de travail        |
 
 ## Détails supplémentaires
 Les délais de traitement varient, il est donc conseillé de planifier et de commencer la procédure bien à l'avance de la date de début prévue. De plus, avoir au moins une compréhension de base du français aiderait grandement votre transition.

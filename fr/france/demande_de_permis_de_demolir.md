@@ -36,9 +36,10 @@ Toute personne envisageant de démolir un bâtiment résidentiel ou commercial e
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur      |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Hôtel de Ville de Paris | [Site de l'hôtel de ville](http://www.paris.fr)       |      Dépendant de l'examen      |        Selon la taille du projet       |
 
 ## Détails supplémentaires
 * Certaines zones ou bâtiments peuvent avoir des restrictions ou des exigences supplémentaires, comme les bâtiments historiques ou les bâtiments situés dans des zones agricoles.

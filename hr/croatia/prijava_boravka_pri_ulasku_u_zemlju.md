@@ -40,7 +40,10 @@ Za provjeru potrebne dokumentacije, posjetite službenu web stranicu Ministarstv
 
 ## Pružatelji usluga koji to mogu obaviti umjesto vas
 
-Nažalost, registraciju boravka morate obaviti osobno.
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne pojedinosti
 

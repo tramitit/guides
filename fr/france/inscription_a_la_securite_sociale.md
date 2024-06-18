@@ -35,10 +35,10 @@ Veuillez consulter le site officiel de la [Sécurité sociale](https://www.ameli
 
 ## Prestataires pouvant le faire pour vous
 
-| Prestataire   |     Site Web     |    Délais    |       Coût      |
-| ------------  | --------------- |  :-------------: |  :-------------:  |
-| CAF           |  [Site Web](https://www.caf.fr/)       |      1-3 mois      |        Gratuit       |
-| Ameli     |  [Site Web](https://www.ameli.fr/)     |      1-3 mois      |        Gratuit       |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Veuillez noter que la procédure prend du temps et il est normal qu'elle prenne plusieurs mois, surtout pendant les périodes de forte affluence. Si vous n'avez pas de nouvelles depuis un certain temps, essayez de les contacter directement. Cela peut être un processus long, mais une fois que vous êtes inscrit, il est beaucoup plus facile de gérer vos soins de santé et vos prestations en France.

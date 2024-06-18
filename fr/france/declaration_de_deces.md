@@ -34,9 +34,10 @@ Les proches parents ou les personnes en charge des arrangements funéraires du d
 
 ## Prestataires pouvant le faire pour vous
 
-| Prestataire       |       Site Internet        |       Délais      |      Coût       |
-| ----------------- | -------------------------- |  :-------------:  | :-------------: |
-| Mairie            |  Spécifique à la ville     |        1 jour     |      Gratuit    |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Dans la plupart des cas, la procédure doit être effectuée par un proche du défunt ou par une personne ayant l'autorité légale ou la responsabilité de le faire. Si le décès est survenu suite à un acte de violence, un accident, un suicide ou dans des circonstances suspectes, la police doit être informée, et elle informera ensuite le procureur de la République. Le certificat de décès délivré sera nécessaire pour la plupart des démarches administratives liées au décès (funérailles, changement d'état civil, banque, assurances, etc.).

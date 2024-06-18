@@ -36,9 +36,10 @@ Svaki građanin Hrvatske stariji od 14 godina mora imati važeću osobnu iskazni
 
 ## Davatelji usluga koji to mogu obaviti za vas
 
-| Davatelj        |     Web stranica     |     Vremenski okvir    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Ministarstvo unutarnjih poslova Republike Hrvatske     |  https://mup.gov.hr/       |      15-30 dana     |        Varira       |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 - Obavezno je za svakog hrvatskog građanina starijeg od 14 godina posjedovati svoju osobnu iskaznicu i nositi je uvijek sa sobom.

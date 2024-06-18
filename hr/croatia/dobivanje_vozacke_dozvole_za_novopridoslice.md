@@ -33,9 +33,10 @@ Svi koji žele voziti u Hrvatskoj, posebno novopridošlice koje se sele u zemlju
 
 ## Pružatelji usluga koji to mogu učiniti umjesto vas
 
-| Pružatelj      |     Web stranica     |     Vremenski okvir    |       Cijena      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Split Driving   |  [SplitDriving.hr](http://www.splitdriving.hr/)    |   Varira ovisno o vještini      |  Varira ovisno o trajanju      |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Važno je napomenuti da se vozački ispit u Hrvatskoj provodi na hrvatskom jeziku, stoga bi se mogao zahtijevati određeni nivo razumijevanja hrvatskog jezika. Razumijevanje lokalnih zakona i propisa o vožnji također je ključno pripremajući se za vožnju u Hrvatskoj.

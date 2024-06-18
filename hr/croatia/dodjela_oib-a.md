@@ -47,9 +47,10 @@ Napomena: Molimo osigurajte da imate sve originalne dokumente i njihove kopije.
 
 ## Davatelji koji to mogu napraviti umjesto vas
 
-| Davatelj        |     Web stranica      |     Vremenski okviri    |       Troškovi      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Porezna Uprava Hrvatske      |  [https://www.porezna-uprava.hr](https://www.porezna-uprava.hr/en/Pages/default.aspx)       |      2-3 tjedna      |        Bez troškova (usluga je besplatna)      |
+_(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja usluga, kontaktirajte nas ili izravno uredite stranicu)_
+
+| Davatelj | Web stranica | Vremenski okviri | Trošak |
+| --------------- | --------------- | :-------------: | :-------------: |
 
 ## Dodatne informacije
 Nema izravnog online postupka prijave. Stoga je jedini način dobivanja OIB-a posjet poreznom uredu osobno. OIB ostaje valjan za cijeli život, bez obzira na promjene u osobnom statusu, prebivalištu, boravištu ili državljanstvu.

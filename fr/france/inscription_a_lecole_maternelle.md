@@ -37,10 +37,10 @@ Vous aurez besoin des documents suivants pour traiter une inscription à la mate
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur        |     Site web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Écoles publiques françaises      |  [education.gouv.fr](http://www.education.gouv.fr/)       |      Selon les délais de l'école      |        Généralement gratuit       |
-| Écoles privées| Vérifiez le site web spécifique de l'école| Varie| Varie|
 
 ## Détails supplémentaires
 Le processus d'inscription, les délais et les exigences peuvent varier légèrement d'une école à l'autre. Il est donc important de contacter votre école choisie bien à l'avance pour comprendre leurs procédures et exigences spécifiques. Gardez toujours des copies de tous les documents que vous soumettez pour vos archives.
