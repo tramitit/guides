@@ -31,9 +31,10 @@ De obicei, este necesar pentru persoanele care intenționează să aplice pentru
 
 ## Furnizori care vă pot ajuta
 
-| Furnizor       |     Website     |     Timp de procesare    |       Cost      |
-| ---------------| --------------- |  :-------------: | :-------------: |
-| ANAF           |  [ANAF](https://www.anaf.ro/ro/) |     Variabil       |      Gratuit      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 1. Dacă aveți venituri din dobânzi, trebuie să le declarați și pe acestea.

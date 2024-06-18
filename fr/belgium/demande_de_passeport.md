@@ -38,10 +38,10 @@ Vous aurez besoin de :
 4. Paiement : Des frais sont nécessaires pour traiter une demande de passeport.
 
 ## Fournisseurs qui peuvent le faire pour vous
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Fournisseur        |     Site Web     |     Délais    |       Coût      |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Gouvernement belge      |  [https://diplomatie.belgium.be](https://diplomatie.belgium.be) |      Dépend du délai de traitement      |        Variables       |
 
 ## Détails supplémentaires
 

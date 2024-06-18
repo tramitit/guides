@@ -34,11 +34,11 @@ Os documentos necessários podem variar dependendo das informações a serem alt
 - Certidão de casamento em caso de mudança de estado civil.
 - Outros documentos relevantes com base no tipo de alteração necessária.
 
-## Prestadores que podem fazer isso por si
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador       |     Website     |     Prazos     |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Autoridade Tributária e Aduaneira       |  [Link](https://www.portaldasfinancas.gov.pt/)       |      Variável com base no pedido      |        Gratuito       |
 
 ## Detalhes Adicionais
 Lembre-se sempre de verificar as suas informações antes de submeter para evitar erros. Além disso, esteja ciente de que a alteração dos seus Dados de NIF pode demorar um pouco para ser processada, então planeie adequadamente.

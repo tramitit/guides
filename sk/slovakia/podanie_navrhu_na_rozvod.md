@@ -37,9 +37,10 @@ Každý, kto je ženatý a chce legálne ukončiť svoje manželstvo.
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ       |     Webová stránka     |     Termíny    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Advokát na rozvod na Slovensku   | https://www.familylawcounsels.com/ | Podľa zložitosti prípadu | Konzultujte webovú stránku |
 
 ## Ďalšie podrobnosti
 Dĺžka celého procesu rozvodu sa môže výrazne líšiť v závislosti na faktoroch ako ochota strán spolupracovať, zložitosť prípadu rozvodu a kapacita súdu.

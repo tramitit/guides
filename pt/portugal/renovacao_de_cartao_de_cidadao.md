@@ -29,12 +29,11 @@ Qualquer cidadão português com um Cartão de Cidadão expirado ou prestes a ex
 - Cartão de Cidadão antigo ou passaporte para identificação.
 - Em caso de perda, roubo ou destruição, é necessário fazer um relatório para a PSP - Polícia de Segurança Pública.
 
-## Prestadores de serviços que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador           |     Website                        |     Prazos       |       Custos     |
-| --------------- | ---------------                    |  :-------------:  | :-------------: |
-| IRN             |  www.irn.justica.gov.pt                     |      7-10 dias    |        ~$18     |
-| Correios        |  www.ctt.pt                        |      Variável     |    Preço Variável |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 A renovação do Cartão de Cidadão para aqueles que vivem fora de Portugal também pode ser feita nos consulados portugueses em seu país de residência.

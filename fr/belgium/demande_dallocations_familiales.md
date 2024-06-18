@@ -34,10 +34,10 @@ Tout parent(s) ou tuteur(s) ayant des enfants de moins de 25 ans et vivant en Be
 Ces documents devront être traduits en français ou en néerlandais s'ils ne sont pas dans ces langues.
 
 ## Fournisseurs qui peuvent le faire pour vous
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Fournisseur     |     Site Web     |     Délais    |       Coût      |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| FAMIFED         |  [Lien](http://www.famifed.be)       |     Jusqu'à 30 jours      |        Gratuit       |
 
 ## Détails supplémentaires
 - Les parents non-résidents travaillant dans une institution internationale peuvent demander des allocations familiales directement auprès de FAMIFED.

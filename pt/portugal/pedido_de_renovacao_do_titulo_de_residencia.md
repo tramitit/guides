@@ -41,11 +41,11 @@ Aqui está uma lista simples dos documentos necessários para a renovação:
 - Comprovante de alojamento.
 - Registro criminal limpo.
 
-## Prestadores de serviço que podem fazer por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador       |     Site                                    |     Prazos     |       Custo      |
-| --------------- | -------------------------------------| ---------------   | -------------- |
-| SEF               |  [sef.pt](https://www.sef.pt/)          |      30-60 dias |  €83            |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 

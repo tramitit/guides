@@ -33,9 +33,10 @@ Każdy obywatel Polski powyżej 18 roku życia jest zobowiązany do posiadania D
 
 ## Dostawcy, którzy mogą to zrobić dla ciebie
 
-| Dostawca        |     Strona internetowa     |     Terminy    |       Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Urząd Miasta    |  [Twojemiasto.pl](http://www.twojemiasto.pl)  |  Do 30 dni  |  Bezpłatnie  |
 
 ## Dodatkowe informacje
 - Polskie Dowody Osobiste posiadają datę ważności, po której należy je odnowić.

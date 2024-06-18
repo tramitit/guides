@@ -32,9 +32,10 @@ Hier zijn de documenten die meestal nodig zijn bij het aanvragen van een huwelij
 4. Apostille voor de huwelijksakte (vooral als het buitenlands is) - Je kunt een Apostille aanvragen bij een bevoegde autoriteit in het land waar het document is uitgegeven.
 
 ## Aanbieders die het voor je kunnen doen
-| Aanbieder        |     Website                                   |     Doorlooptijden    |       Kosten          |
-| --------------- | --------------------------------------- |  :-------------: | :-------------: |
-| Belgische overheid     |  [Belgium.be](https://www.belgium.be/)  |      Variërend       |        Variërend      |
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
+
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Aanvullende details
 Vergeet niet om te controleren bij de lokale autoriteiten of de gerelateerde overheidswebsite voor de meest actuele informatie, aangezien regelgeving kan veranderen. Let ook op dat het noodzakelijk is dat jouw huwelijksakte erkend wordt in het land waar je getrouwd bent en ook in België.

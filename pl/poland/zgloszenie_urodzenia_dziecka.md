@@ -34,9 +34,10 @@ Do rejestracji potrzebne są następujące dokumenty:
 
 ## Dostawcy, którzy mogą to zrobić za ciebie
 
-| Dostawca            |    Strona internetowa                      |     Terminy    |       Koszt      |
-| ------------------- | -------------------------                |  :-------------: | :-------------: |
-| Miejscowy Urząd Stanu Cywilnego  |  Brak dostępności online                         |       21 dni       |    Bezpłatnie    |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 Ważne jest poinformowanie lokalnego USC w ciągu 21 dni od urodzenia. Niezrobienie tego może skutkować konsekwencjami administracyjnymi lub prawnymi. Pamiętaj też, aby zarejestrować urodzenie dziecka w ambasadzie lub konsulacie swojego kraju, jeśli nie jesteś rezydentem w Polsce. W niektórych przypadkach równoczesna rejestracja zarówno w Polsce, jak i w swoim kraju może być wymagana lub korzystna. Zaleca się zweryfikowanie tego z lokalną ambasadą.

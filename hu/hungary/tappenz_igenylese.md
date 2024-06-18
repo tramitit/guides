@@ -36,9 +36,10 @@ Bármely alkalmazott, aki betegség miatt kell szabadságot kivennie, hasznos le
 
 ## Szolgáltatók, akik elvégzik helyetted
 
-| Szolgáltató    |     Honlap     |     Határidők    |      Költség      |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Te munkahelyed       |  N/A       |      Változó      |        N/A       |
 
 ## További részletek
 Figyelembe kell venni, hogy a betegszabadság igénylési eljárásai eltérőek lehetnek helyszíntől és vállalattól függően. Fontos megjegyezni, hogy egyes esetekben a fogorvosi vizitekhez hasonló orvosi beavatkozások miatti hiányzásaid is jogosultak lehetnek betegszabadságra, ahogyan azt néhány kaliforniai állami munkahely is megerősítette.

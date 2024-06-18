@@ -37,9 +37,10 @@ De specifieke benodigde documenten kunnen variëren afhankelijk van de situatie.
 
 ## Dienstverleners die het voor u kunnen doen
 
-| Dienstverlener   |     Website     |     Tijdschema's    |       Kosten      |
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
+
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Belgische Lokale Gemeente      |  Variërend (Controleer de website van de lokale gemeente)      |    Variërend     |     Meestal gratis    |
 
 ## Aanvullende details
 In België is het verplicht om te stemmen zodra u geregistreerd bent in het bevolkingsregister. Dit in tegenstelling tot sommige landen waar stemmen optioneel is. Niet naleven van deze verkiezingsverplichting kan leiden tot straffen zoals boetes. Bovendien kan de genoemde procedure enigszins verschillen tussen de verschillende gemeentes, dus het is altijd aan te raden om de lokale regels te controleren.

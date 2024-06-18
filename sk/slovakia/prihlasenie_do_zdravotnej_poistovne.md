@@ -34,11 +34,10 @@ Každý cudzinec, ktorý je zamestnaný, sebapodnikateľ, študujúci alebo žij
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ                       |             Webová stránka       |     Doby vybavenia   |       Náklady       |
-| ---------------------------------   | --------------------------------- |  :-------------:     | :--------------:    |
-| Všeobecná zdravotná poisťovňa       |  [vszp.sk](https://www.vszp.sk/)  |    2 týždne          |        N/A          |
-| Dôvera zdravotná poisťovňa          |  [dovera.sk](https://www.dovera.sk/)|   2 týždne          |        N/A          |
-| Union zdravotná poisťovňa           |  [unionzp.sk](https://www.unionzp.sk/)|  2 týždne         |        N/A          |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 V mnohých prípadoch vás váš zamestnávateľ zaregistruje do zdravotného poistenia. Ak ste študent, vaša univerzita vás môže zaregistrovať. Ak ste nezamestnaní alebo samozamestnaní, musíte to urobiť sami. Musíte sa uistiť, že ste zaregistrovaní do 8 dní od začatia práce alebo získania trvalého pobytu. Nedodržanie môže viesť k pokute alebo odmietnutiu služieb. Zdravotné služby na Slovensku nie sú bezplatné a môže sa vyžadovať spoluplatba za niektoré služby. Základné zdravotné služby sú však kryté poistením.

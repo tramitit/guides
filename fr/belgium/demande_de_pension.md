@@ -32,10 +32,10 @@ Tout employé qui va prendre sa retraite ou qui a atteint l'âge légal de la re
 - Preuve d'économies de pension optionnelles, le cas échéant
 
 ## Fournisseurs qui peuvent le faire pour vous
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Fournisseur      |     Site web     |     Délais    |       Coût      |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Service de Pension Belge      |  [https://www.sfpd.fgov.be/en](https://www.sfpd.fgov.be/en)       |      Variables      |        Gratuit       |
 
 ## Détails supplémentaires
 Le montant de la pension que vous recevez dépendra de la durée de votre carrière et du montant de vos revenus en Belgique. Il est également possible d'accumuler d'autres droits à la pension après l'âge de 65 ans si vous continuez à travailler. Assurez-vous toujours de suivre vos cotisations de sécurité sociale pour vous assurer de recevoir le montant maximal possible à la retraite.

@@ -35,11 +35,11 @@ Certificados de casamento podem ser solicitados pelo próprio casal, seus descen
 - Data e local do casamento.
 - Documento de identidade para identificação (pode ser Passaporte, Cartão de Identidade ou Carteira de Motorista).
 
-## Prestadores de serviços que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Provedor        |     Site     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Registro Civil Online Portugal |  [Site](https://www.registro-civil.pt/) |      Normalmente, 10-14 dias  |        Variável       |
 
 ## Detalhes adicionais
 A taxa exata e o tempo de processamento podem variar. Para casos urgentes, pode haver um serviço acelerado disponível mediante taxa adicional. Entre em contato com o registro civil ou seu provedor de serviços para obter as informações mais atualizadas.

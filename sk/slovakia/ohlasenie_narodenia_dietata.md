@@ -33,9 +33,10 @@ Táto služba je povinná pre každého, kto mal dieťa, bez ohľadu na ich št�
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ  |     Webová stránka     |     Časové rámce    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Miestny registrátor |  [Odkaz na webovú stránku miestneho registrátora] |      Záleží na lokalite |    Typicky bezplatne |
 
 ## Ďalšie podrobnosti
 Postup sa môže mierne líšiť v závislosti na vašej krajine a miestnej oblasti, najmä v prípade imigračných rodín. Vždy skontrolujte s miestnym registračným úradom aktuálne informácie. Uistite sa, že meno dieťaťa spĺňa miestne predpisy. Niektoré krajiny majú zákony, ktoré upravujú, ako môže byť dieťa pomenované, preto je najlepšie byť o týchto pravidlách informovaný pred definitívnym stanovením mena vášho dieťaťa.

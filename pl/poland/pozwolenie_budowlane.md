@@ -37,9 +37,10 @@ Proszę zauważyć, że wszystkie dokumenty muszą być w języku polskim lub by
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie
 
-| Dostawca        |     Strona internetowa     |     Harmonogram    |       Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Urban Planning Arch    |  [Strona internetowa](https://urbanplanarch.com)      |      30-60 dni    |        Zależny od złożoności projektu       |
 
 ## Dodatkowe informacje
 - Jest istotne surowe przestrzeganie zatwierdzonego projektu podczas budowy. Jakiekolwiek odstępstwa mogą skutkować karą lub cofnięciem pozwolenia na budowę.

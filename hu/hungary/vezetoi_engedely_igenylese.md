@@ -34,9 +34,10 @@ Minden olyan egyének, akik jogosítvánnyal szeretnének rendelkezni Magyarorsz
 
 ## Szolgáltatók, akik ezt meg tudják csinálni Ön helyett
 
-| Szolgáltató     |     Honlap     |     Időtartam    |       Ár      |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Műszaki Megoldások Autósiskola | [link](https://Muszaki-Megoldasok.com)  | kb. 3 hónap |  170 000 - 200 000 HUF |
 
 ## További részletek
 Mielőtt egy kiskorú (17 éves) jogosítvánnyal vezethetne Magyarországon, minden esetben egy felelős felnőttnek is jelen kell lennie a járműben. A korlátozások nélküli vezetés jogi kora 18 év. Szükséges lesz szerződést kötnie az autósiskolával, amely lényegében kimondja, hogy felelősséget vállal az autókra okozott károkért a tanórák során.

@@ -35,11 +35,11 @@ Qualquer pessoa que planeje realizar atividades de construção em Portugal - se
 - Planos do prédio e plano de localização
 - Recibo de taxas de processamento
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Site     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Câmara Municipal     |  *Varia de acordo com a localidade*       |      Várias semanas      | Varia de acordo com o escopo e localização do projeto |
 
 ## Detalhes adicionais
 - É crucial respeitar o alvará de construção, ou enfrentar possíveis multas ou ordens para interromper a construção.

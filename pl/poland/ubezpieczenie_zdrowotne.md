@@ -34,11 +34,10 @@ Każdy mieszkający w Polsce, w tym zarówno mieszkańcy polscy, jak i obcokrajo
 
 ## Dostawcy, którzy mogą to załatwić za Ciebie
 
-| Dostawca       |     Strona internetowa                |     Harmonogramy   |       Koszty     |
-| --------------- | --------------------------------- |  :-------------: | :-------------: |
-| NFZ                |  [https://www.nfz.gov.pl/](https://www.nfz.gov.pl/) |      Różni się     |        Różni się        |
-| Luxmed          |  [https://www.luxmed.pl/](https://www.luxmed.pl/)   |      Różni się     |        Różni się        |
-| Medicover      |  [https://www.medicover.pl/](https://www.medicover.pl/)   |      Różni się     |        Różni się        |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 - Prywatne ubezpieczenia zdrowotne, takie jak Luxmed i Medicover, oferują różne rodzaje pakietów, dostosowanych do różnych indywidualnych potrzeb. Możesz wybrać jeden zależnie od swoich wymagań i budżetu.

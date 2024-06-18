@@ -37,9 +37,10 @@ Le persone con ascendenza italiana che devono dimostrare la discendenza per dete
 
 ## Fornitori che possono aiutarti
 
-| Fornitore        |     Sito web     |     Tempi    |       Costo      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Comuni Italiani      | Variabile (dipende dal comune specifico)       |  1 a 2 mesi (può variare)     |     Gratuito o a basso costo (potrebbero essere previste spese postali)      |
 
 ## Dettagli aggiuntivi
 

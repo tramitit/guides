@@ -37,9 +37,10 @@ Na Slovensku sú potrebné nasledujúce doklady na požiadanie o zmenu priezvisk
 - Potvrdenie o zaplatení správneho poplatku
 
 ## Poskytovatelia, ktorí môžu zabezpečiť zmenu
-| Poskytovateľ  |      Webová stránka     |     Časové harmonogramy     |  Náklady   |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministerstvo vnútra Slovenskej republiky      |  https://www.minv.sk  |      30 až 60 dní     |        Závisí od prípadu       |
 
 ## Ďalšie podrobnosti
 - Je dôležité si uvedomiť, že proces môže trvať niekoľko týždňov alebo dokonca mesiacov, preto je múdre začať s dostatočným predstihom, ak potrebujete, aby vaše nové priezvisko bolo legálne do konkrétneho termínu.

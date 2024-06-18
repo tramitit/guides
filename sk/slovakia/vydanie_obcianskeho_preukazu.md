@@ -36,9 +36,10 @@ Poznámka: Ak podávate žiadosť o svoj prvý občiansky preukaz alebo ste svoj
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ    |      Webová stránka       |      Doba        |       Cena       |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Miestny úrad    | N/A             |      Rôzne       |  Rôzne          |
 
 ## Ďalšie podrobnosti
 - Slovenská občianska preukazka slúži aj ako zdravotná kartička na Slovensku.

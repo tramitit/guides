@@ -33,9 +33,10 @@ Voici les documents généralement requis lors de la demande d'un certificat de 
 4. Apostille pour le certificat de mariage (surtout s'il est étranger) - Vous pouvez demander une apostille à une autorité compétente dans le pays où le document a été délivré.
 
 ## Fournisseurs qui peuvent le faire pour vous
-| Fournisseur         |      Site Web                                    |      Délais        |      Coût             |
-| --------------- | --------------------------------------- |  :-------------: | :-------------: |
-| Gouvernement belge   |  [Belgium.be](https://www.belgium.be/)  |      Variables      |        Variables     |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 N'oubliez pas de vérifier avec les autorités locales ou le site web du gouvernement concerné pour obtenir les informations les plus à jour car les réglementations peuvent changer. Notez également qu'il est nécessaire que votre certificat de mariage soit reconnu dans le pays où vous vous êtes marié ainsi qu'en Belgique.

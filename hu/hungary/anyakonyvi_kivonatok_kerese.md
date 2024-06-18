@@ -33,9 +33,10 @@ A családtagok vagy jogi képviselők általában azért igénylik, hogy életbi
 
 ## Szolgáltatók, akik ezt megtehetik helyetted
 
-| Szolgáltató     |     Honlap       |     Időkeretek   |       Költség    |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| NYAK            |  [https://nyak.gov.hu/](https://nyak.gov.hu/) | Feladva  | Megállapítás alatt |
 
 ## További részletek
 Ha a személy 1895 előtt halt meg, gyakran egyházi anyakönyveket használnak, mivel ezekben gyakran megtalálhatók a halottak adatai. Az egyházi anyakönyvek megtalálhatók a [FamilySearch](https://familysearch.org/search/collection/show#uri=http://familysearch.org/searchapi/search/collection/1452460) adatbázisban.

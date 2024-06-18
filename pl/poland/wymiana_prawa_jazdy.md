@@ -37,9 +37,10 @@ Pamiętaj, że wymiana prawa jazdy UE jest zazwyczaj prostsza i szybsza niż wym
 
 ## Usługi, które mogą to zrobić za ciebie
 
-| Usługodawca | Strona internetowa | Terminy | Koszt |
-| --------------- | --------------- | :-------------: | :-------------: |
-| Urząd Stanu Cywilnego     |  [Warszawa](http://www.um.warszawa.pl/)  |  Różni się  |  Różni się w zależności od urzędu  |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Niektóre kraje mają wzajemne umowy o wymianie praw jazdy z Polską, co upraszcza i przyspiesza proces. Upewnij się, czy twój kraj ma taką umowę.

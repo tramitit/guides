@@ -35,10 +35,10 @@ Questo documento è necessario per i residenti italiani, cittadini e non cittadi
 Si prega di notare che i dettagli relativi ai documenti richiesti possono variare a seconda del comune. Pertanto, è consigliabile verificare i requisiti locali.
 
 ## Fornitori che possono farlo per te
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
-| Fornitore        |     Sito Web               |     Tempi         |       Costo     |
-| --------------- | ----------------- |  :-------------: | :-------------: |
-| Comune italiano |  Ufficio locale     |    Circa 1-2 settimane  |        Varia       |
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 Ricordati sempre di tenere la tua Carta d'Identità in un posto sicuro. Alcuni consigliano un portafoglio mentre altri suggeriscono un porta documenti per conservare la condizione della carta poiché è fatta di carta/cartone. Inoltre, nota che luoghi come hotel o ostelli in Italia potrebbero richiedere il tuo documento d'identità per scopi di registrazione come pratica normale.

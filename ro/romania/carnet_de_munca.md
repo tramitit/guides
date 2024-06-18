@@ -32,9 +32,10 @@ Toate informațiile necesare despre experiența dvs. de muncă și realizările.
 
 ## Furnizori care vă pot ajuta
 
-| Furnizor        |     Website     |     Termene    |       Cost      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| N/A             |  N/A            |      N/A         |        N/A      |
 
 ## Detalii suplimentare
 - Scrierea caietului de lucru într-un mod clar, concis și profesional poate face acesta mai eficient. Evitați folosirea jargonului și concentrați-vă pe rezultate și realizări.

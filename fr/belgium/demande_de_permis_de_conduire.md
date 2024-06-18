@@ -46,9 +46,10 @@ Voici généralement les documents requis:
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur      |     Site web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Mairie locale |  N/A            |    2-3 semaines     |      Varie     |
 
 ## Détails supplémentaires
 Veuillez noter que les lois et réglementations en matière de conduite peuvent varier entre les différentes régions de la Belgique, il est donc important de vérifier les exigences spécifiques auprès des autorités locales pertinentes. En cas d'échange d'un permis étranger, selon votre pays d'origine, vous pourriez être amené à passer un examen théorique et/ou pratique.

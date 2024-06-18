@@ -37,11 +37,10 @@ Bárki, aki tervezi járművének parkolását szabályozott zónákban Budapest
 (Megjegyzés: A szükséges dokumentumok listája változhat; érdemes ellátogatni az hivatalos BKK vagy helyi kormány weboldalra a legfrissebb információkért)
 
 ## Szolgáltatók, akik ezt megtehetik Önért
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
-| Szolgáltató     |     Weboldal    |     Időkeretek    |       Díj      |
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Kormányablak      |  [Weboldal](http://www.kormanyablak.hu/)      |      A konkrét esettől függően      | Változó a zónától függően |
-| BKK | [Weboldal](https://bkk.hu/en/) | A konkrét esettől függően  | Változó a zónától függően |
 
 ## További részletek
 

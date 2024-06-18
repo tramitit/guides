@@ -37,9 +37,10 @@ Chiunque abbia bisogno di fornire prove del proprio stato di famiglia per vari m
 
 ## Fornitori che possono occuparsene per te
 
-| Fornitore        |     Sito Web     |     Tempi    |       Costo      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Comuni Italiani     |  Vari (ciascun comune avrà il proprio)      |      Varia     |        Varia       |
 
 ## Dettagli aggiuntivi
 - La procedura esatta e il costo possono variare da un comune all'altro. Si consiglia di verificare il sito ufficiale del comune specifico per le informazioni più accurate.

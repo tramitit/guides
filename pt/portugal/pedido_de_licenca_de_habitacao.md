@@ -36,11 +36,11 @@ A licença é necessária para quem pretende comprar, vender ou alugar proprieda
 - Certificado de Ligação ao Sistema Público de Esgotos
 - Certificação Acústica
 
-## Prestadores de serviços que podem fazer por si
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| [Município]  |  https://www.portugal.gov.pt/ |      [Varia de acordo com a localização]      |        [Varia]       |
 
 ## Detalhes Adicionais
 - O tempo que este processo leva pode variar dependendo da complexidade do projeto e da rapidez da autoridade local.

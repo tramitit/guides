@@ -31,11 +31,11 @@ Se estiver no exterior e desejar solicitar uma certidão de nascimento de Portug
 1. Identificação válida (cartão de identidade ou passaporte)
 2. Detalhes do nascimento (nome completo, data e local de nascimento)
 
-## Prestadores de serviço que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-|   Certidão de Nascimento Portugal |  [certidaonascimento-portugal.com](https://www.certidaonascimento-portugal.com) |       Variados   |        Variados |
 
 ## Detalhes adicionais
 Se necessário para uso internacional, a certidão de nascimento deve ser legalizada através de Apostila. Esta certificação confirma a autenticidade do documento emitido. Este processo pode ser solicitado no Cartório do Registro Civil ou através do Ministério dos Negócios Estrangeiros de Portugal.

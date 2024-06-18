@@ -34,10 +34,11 @@ Qualquer indivíduo que compre um veículo novo ou usado.
 - Documentos de Registo Anteriores do Veículo
 - Em caso de veículo usado de um país estrangeiro, Certificado de Inspeção do Veículo
 
-## Prestadores que podem ajudar
-| Prestador        |     Website     |     Prazos    |       Custo      |
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
+
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IMT      | [IMT Online](https://www.imtonline.pt/)      |      x dias      |        Variável conforme o serviço       |
 
 ## Detalhes adicionais
 Tenha em mente que se o carro for de um país estrangeiro, podem ser necessários documentos ou procedimentos adicionais. É também obrigatório obter um Seguro Automóvel Português. Consulte os sites dos prestadores para obter informações mais precisas e recentes.

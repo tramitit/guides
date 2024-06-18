@@ -38,9 +38,10 @@ Nižšie sú bežne požadované dokumenty. Vždy sa odkazujte na konkrétne po�
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ    |     Webová stránka     |     Časové plány    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| [ENIC-NARIC](http://www.enic-naric.net/)      |  [ENIC-NARIC](http://www.enic-naric.net/)       | Rôzne   |        Premenné       |
 
 ## Ďalšie podrobnosti
 Aj keď všeobecné postupy pre uznávanie kvalifikácií sú podobné, konkrétne postupy sa môžu výrazne líšiť v závislosti od krajiny. Preto vždy overte konkrétne požiadavky pracovných organizácií alebo regulačných orgánov v krajine, kde plánujete využiť kvalifikácie.

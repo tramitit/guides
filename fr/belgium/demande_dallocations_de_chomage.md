@@ -30,12 +30,10 @@ Ce guide est destiné à toute personne qui vient de perdre son emploi en Belgiq
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur        |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Fédération Générale du Travail Belge (FGTB)  |  [FGTB](https://www.fgtb.be/)       |      Variables      |        Variables       |
-| Confédération des Syndicats Chrétiens (CSC) |  [CSC](https://www.acv-online.be/)       | Variables | Variables |
-| Confédération des Syndicats Libéraux (CGSLB)  |  [CGSLB](https://www.aclvb.be/)       |      Variables      |        Variables       |
-| Fonds de Compensation de l'Allocation de Chômage (CAPAC) | [CAPAC](http://www.hvw-capac.fgov.be/) | Variables | Gratuit |
 
 ## Détails supplémentaires
 - CAPAC ne facture pas de frais d'adhésion, contrairement aux syndicats. Le traitement de votre demande pourrait prendre plus de temps au CAPAC en raison de conditions plus encombrées.

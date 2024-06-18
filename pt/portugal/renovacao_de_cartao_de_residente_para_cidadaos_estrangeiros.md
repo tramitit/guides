@@ -30,13 +30,13 @@ Estrangeiros que vivem em Portugal cuja validade do cartão de residente está c
 - Comprovativo de alojamento
 - Documento que comprove a situação legal (se aplicável)
 
-## Provedores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Provedor        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| SEF      |  [website do SEF](http://www.sef.pt/)   |      Varia dependendo da complexidade do caso     |        Varia dependendo das especificidades       |
 
-Detalhes adicionais
+## Detalhes adicionais
 
 - Em caso de discrepâncias em seu status de residente ou dúvidas sobre o processo de renovação, você pode entrar em contato diretamente com o SEF.
 - Garanta que todos os documentos estejam atualizados e, caso contrário, entre em contato com a autoridade apropriada para atualizá-los antes de prosseguir com a renovação.

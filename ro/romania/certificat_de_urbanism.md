@@ -39,9 +39,10 @@ Cerințele de documentare pot varia în funcție de legile locale, dar următoar
 
 ## Furnizori care pot obține certificatul pentru tine
 
-| Furnizor        |     Website                       |     Timpi de livrare    |       Cost      |
-| --------------- | --------------------------------- |  :-------------: | :-------------: |
-| Primăria locală |  Contactează direct pentru website     |      30 de zile     | Variază în funcție de locație și amploarea proiectului|
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 

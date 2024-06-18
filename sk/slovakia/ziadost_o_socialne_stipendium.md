@@ -35,9 +35,10 @@ Ideálnymi žiadateľmi o sociálne štipendium na Slovensku sú študenti (baka
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ   |     Webová stránka              |     Doba spracovania    |       Náklady      |
-| --------------- | ---------------------------- |  :-------------: | :-------------: |
-| Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky |  [edu.gov.sk](https://www.minedu.sk/)  |      Rôzna      |        Zadarmo       |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Sumy štipendií sa môžu líšiť v závislosti od hodnotenia ekonomickej situácie žiadateľa a úrovne úspechu.

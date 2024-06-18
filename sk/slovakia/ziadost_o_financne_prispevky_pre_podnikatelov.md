@@ -37,9 +37,10 @@ Jednotlivci alebo skupiny, ktoré chcú začať nový biznis alebo rozšíriť e
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ    |     Webová stránka     |     Termíny    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Údaje o poskytovateľovi sa vyplnia na základe výskumu a dostupnosti |
 
 ## Ďalšie podrobnosti
 - Aplikujte skoro. Poskytovatelia grantov zvyčajne dodržujú špecifické termíny, ktoré by ste mali dodržať.

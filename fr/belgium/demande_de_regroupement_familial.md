@@ -43,11 +43,10 @@ Pour obtenir ces documents, à l'exception de la preuve financière, les autres 
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur    |     Site Web     |     Délais      |       Coût      |
-| --------------- | ---------------  |  :-------------: | :-------------: |
-| ...            |  ...             |      ...        |        ...      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-(Pour cette section, il est important de mener des recherches pour trouver des fournisseurs spécialisés dans de tels cas. Il s'agira généralement d'avocats en immigration ou d'agences.)
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Les lois et conditions de réunification familiale peuvent varier considérablement d'un pays à l'autre. Il est fortement recommandé de vérifier auprès de l'ambassade/consulat du pays où réside votre membre de famille pour obtenir des détails spécifiques. De plus, une aide juridique peut être consultée pour faciliter le processus.

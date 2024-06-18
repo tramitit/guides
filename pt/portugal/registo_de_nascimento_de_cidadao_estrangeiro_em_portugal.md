@@ -29,11 +29,11 @@ Este serviço é necessário para pais que são cidadãos estrangeiros, mas dese
 
 **Observação:** Todos esses documentos devem ser originais ou cópias autenticadas.
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador          |     Site            |     Prazos     |       Custo       |
-| --------------- | ----------------- |  :-------------: | :------------: |
-| Consulado Geral de Portugal em seu país | Variável de acordo com a localização | Variável de acordo com a localização | Variável de acordo com a localização |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Registrar o nascimento de um filho em Portugal como cidadão estrangeiro varia dependendo das circunstâncias específicas em torno do nascimento da criança. É aconselhável consultar o Consulado Português em seu país de origem ou um profissional legal experiente em direito de cidadania portuguesa. O processo pode levar várias semanas a meses, dependendo da complexidade do seu caso e da carga de trabalho atual do cartório.

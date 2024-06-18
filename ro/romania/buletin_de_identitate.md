@@ -38,10 +38,10 @@ Orice cetățean român, sau un cetățean străin care locuiește în România 
 - 1 fotografie color, conform cerințelor oficiale
 
 ## Furnizori care pot face acest lucru pentru tine
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
-| Furnizor             |     Website          |     Termene    |       Cost      |
-| -------------------- | -------------------- |  :------------:  | :------------:  |
-| Serviciul Public Comunitar pentru Evidența Persoanelor      |    N/A    |      Variază, te rugăm să vizitezi biroul      |  Taxele variază |
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 - Este recomandat să-ți reînnoiești cardul înainte de expirare, deoarece unele servicii pot să nu accepte carduri expirate

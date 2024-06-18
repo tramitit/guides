@@ -35,10 +35,10 @@ Ce service est idéal pour les étudiants qui dépendent des transports en commu
 
 ## Fournisseurs pouvant le faire pour vous
 
-| Fournisseur        |     Site web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Belgian Rail (NMBS/SNCB) | [www.belgiantrain.be](https://www.belgiantrain.be/)  | Immédiat avec ID | À déterminer |
-| De Lijn | [www.delijn.be](https://www.delijn.be/) | Immédiat avec ID | À déterminer |
 
 ## Détails supplémentaires
 N'oubliez pas que selon les conditions du fournisseur de transport, votre réduction étudiante peut ne s'appliquer qu'à certaines lignes ou horaires. Assurez-vous toujours d'avoir votre carte d'identité étudiante ou votre carte de transport avec la réduction étudiante lorsque vous utilisez les transports en commun.

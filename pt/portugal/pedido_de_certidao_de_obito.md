@@ -32,11 +32,11 @@ Familiares e partes relevantes que precisam processar assuntos legais (reivindic
 - Prova de identidade da pessoa que está fazendo o pedido (Passaporte / Cartão de Identificação).
 - Quaisquer documentos de apoio que possam fornecer detalhes sobre o falecido. Por exemplo, cópias de certidão de nascimento, certidão de casamento, etc.
 
-## Provedores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Provedor            |     Site                |     Prazos    |       Custo           |
-| --------------- | ------------------- |  :-------------: | :-------------: |
-| IRN Portugal  |  [IRN](https://www.irn.justica.gov.pt/)  | Até 10 dias úteis | Varia de acordo com o tipo de pedido |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Lembre-se, para obter um atestado de óbito em Portugal, é crucial que a morte tenha sido primeiro comunicada e registrada neste país.

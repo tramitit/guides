@@ -37,9 +37,10 @@ Prosím, upozornite: požadované dokumenty sa môžu líšiť v závislosti na 
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ        |     Webová stránka     |     Časové rámce    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Miestny vodičský preukazový úrad     |              | V závislosti od spracovania | Rôzne podľa krajiny |
 
 ## Ďalšie podrobnosti
 - Niektoré krajiny môžu vyžadovať, aby ste absolvovali ďalšie testy (písomné alebo jazdné), aj keď majú vzájomnú dohodu s vašou domovskou krajinou.

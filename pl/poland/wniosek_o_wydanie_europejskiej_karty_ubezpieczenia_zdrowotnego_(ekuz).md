@@ -39,11 +39,10 @@ Oto oficjalne strony internetowe do aplikacji o kartę EHIC w zależności od kr
 
 ## Dostawcy, którzy mogą załatwić to za Ciebie
 
-| Dostawca                                             |     Strona internetowa  |     Czas oczekiwania    |   Koszt               |
-| -----------------------------------------------------| -------------------------|  :-------------------: | :-------------------: |
-| National Health Service (NHS) - UK                   |  [Link tutaj](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/) |      Różni się          |        Bezpłatnie     |
-| Health Service Executive (HSE) - Irlandia            | [Link tutaj](https://www2.hse.ie/services/ehic/ehic.html)     |      Różni się          |        Bezpłatnie     |
-| National Health Fund (NFZ) - Polska                  |  [Link tutaj](https://www.nfz.gov.pl/)      |      Różni się          |        Bezpłatnie     |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Pamiętaj, że EHIC nie zastępuje ubezpieczenia podróżnego. Nie obejmuje on prywatnej opieki zdrowotnej ani kosztów takich jak powrót do kraju zamieszkania czy utracone/skradzione przedmioty. Dlatego zaleca się posiadanie zarówno EHIC, jak i ważnej polisy ubezpieczenia podróżnego.

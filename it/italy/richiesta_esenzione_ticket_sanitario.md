@@ -36,9 +36,10 @@ Assicurati di verificare i documenti esatti necessari in quanto potrebbero varia
 
 ## Fornitori che possono assisterti
 
-| Fornitore        |     Sito Web     |     Tempistiche    |       Costo      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Azienda Sanitaria Locale      |  http://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=1382&area=Assistenza%20sanitaria&menu=vuoto       |      Varia      |        Gratuito       |
 
 ## Dettagli aggiuntivi
 Ogni esenzione ha una durata specifica, dopo la quale deve essere rinnovata. Alcune esenzioni sono permanenti ma richiederanno comunque una conferma periodica. Per i cittadini stranieri residenti in Italia, l'esenzione si estende anche ai membri della famiglia. Per i cittadini ipovedenti, l'esenzione dai costi sanitari è possibile, ma si applicano condizioni. Consulta sempre il tuo operatore sanitario o la tua ASL locale per informazioni accurate.

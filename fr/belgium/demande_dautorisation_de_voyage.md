@@ -38,9 +38,10 @@ L'obtention de ces documents implique souvent une planification préalable et de
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur        |     Site Web     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| VisaHQ      |  [https://www.visahq.com/](https://www.visahq.com/)      |      Variables      | Variables en fonction de votre lieu de résidence et de votre nationalité       |
 
 ## Détails supplémentaires
 Les autorisations de voyage ou les visas peuvent être refusés pour diverses raisons ; il est toujours important de faire la demande en temps utile et de fournir des informations complètes et précises. Consultez toujours le site web de l'ambassade ou du consulat concerné pour des informations à jour sur les exigences en matière de visa, car elles sont sujettes à changement.

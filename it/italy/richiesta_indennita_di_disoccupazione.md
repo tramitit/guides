@@ -32,10 +32,10 @@ L'indennità di disoccupazione in Italia, nota anche come NASpI (Nuova Assicuraz
 - Documenti di identificazione
 
 ## Fornitori che possono farlo per te
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
-| Fornitore        |     Sito web     |     Tempi    |       Costo      |
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| INPS      |  [www.inps.it](http://www.inps.it)       |      Variabile      |        Gratuito       |
 
 ## Dettagli aggiuntivi
 Ricorda che durante il periodo in cui ricevi l'indennità di disoccupazione, devi essere attivamente alla ricerca di lavoro, e se rifiuti un'offerta di lavoro che corrisponde alle tue competenze, rischi di perdere i tuoi benefici. La NASpI è calcolata sulla base del salario medio giornaliero che hai guadagnato nei due anni precedenti alla tua disoccupazione. L'importo verrà ridotto dopo 4 mesi, e la durata del pagamento varia in base alla tua età e agli anni di contribuzione.

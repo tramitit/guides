@@ -31,10 +31,10 @@ Principalmente coloro che stanno cercando la storia della propria famiglia e ind
 
 ## Fornitori che possono gestire la pratica per te
 
-| Fornitore        |     Sito Web     |     Tempi    |       Costo      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| My Italian Family |  https://www.myitalianfamily.com/ |    4-6 settimane    |  $75-$300 |
-| German Citizenship Services | https://germancitizenships.com/ | 6-9 mesi |   $2500+   |
 
 ## Dettagli aggiuntivi
 Per l'Italia, se non sei sicuro su quale distretto militare sia rilevante, puoi richiedere informazioni da tutti i distretti indirizzando la tua richiesta all'"Ufficio Leva" presso il Ministero della Difesa a Roma.

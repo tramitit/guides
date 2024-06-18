@@ -37,9 +37,10 @@ Ez a szolgáltatás ideális azok számára, akik jelenleg munkanélküliek, akt
 
 ## Szolgáltatók, akik segíthetnek Önnek
 
-| Szolgáltató         |     Honlap                    |     Határidők    |       Költség      |
-| -----------------  | ------------------------------ |  :-------------: | :-------------: |
-| Munkaügyi Központ |  [honlap](https://www.gov.uk) |      14 nap     |        ingyenes     |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 Győződjön meg róla, hogy minden utazás alkalmával jelentést tesz a munkaügyi központnak, mivel ez befolyásolhatja a juttatását. Ha bármilyen változás következik be a körülményeiben, fontos azonnal értesíteni a Munkaügyi Központot, hogy elkerüljön minden kellemetlenséget a kifizetéseknél.

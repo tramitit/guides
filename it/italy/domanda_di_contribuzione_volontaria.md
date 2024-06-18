@@ -34,10 +34,10 @@ Ogni individuo che pianifica il pensionamento o che desidera garantire di avere 
 - Dettagli del conto bancario per i pagamenti
 
 ## Fornitori che possono assisterti
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
-| Fornitore       |     Sito Web     |     Tempi di Lavorazione    |       Costo      |
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Fornitore 1      |  https//:       |     10 giorni      |        $0       |
 
 ## Dettagli Aggiuntivi
 I contributi volontari possono potenzialmente aumentare il tuo diritto complessivo alla pensione ma sono anche soggetti a determinate regole e regolamenti. Interagire presto con un consulente pensionistico o un esperto simile può offrire consigli personalizzati considerando la tua situazione specifica.

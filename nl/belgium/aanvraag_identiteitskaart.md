@@ -31,11 +31,10 @@ Elke buitenlander die geregistreerd en verblijvend is in België en Belgische bu
 
 ## Aanbieders die het voor u kunnen doen
 
-| Aanbieder | Website | Termijnen | Kosten |
-| --------------- | --------------- | :-------------: | :-------------: |
-| Uw lokale gemeente | N/B | 2 weken | €25* (ongeveer) |
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
-\*De vergoeding kan licht variëren, afhankelijk van uw lokale gemeente.
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Extra details
 - Als u uw pincode vergeet, kunt u een nieuwe aanvragen bij de lokale gemeente of het federale portaal (https://www.ibz.rrn.fgov.be).

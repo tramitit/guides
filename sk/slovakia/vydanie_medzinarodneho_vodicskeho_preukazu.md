@@ -33,10 +33,10 @@ Každá osoba, ktorá plánuje jazdiť v zahraničí (napríklad v Slovensku) a 
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ   |     Webová stránka     |     Časové náročnosti    |       Cena      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| AAA             |  [Webová stránka AAA](https://www.aaa.com/vacation/idpf.html) |      10-15 dní      |        $20       |
-| AATA             |  [Webová stránka AATA](https://aataidp.com/)       |      10-15 dní      |        $20       |
 
 ## Ďalšie podrobnosti
 - Medzinárodný vodičský preukaz nie je samostatným dokumentom a mali by ste ho nosiť spolu so svojím originálnym vodičským preukazom.

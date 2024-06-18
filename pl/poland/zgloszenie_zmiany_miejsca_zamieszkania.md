@@ -35,9 +35,10 @@ Usługa jest obowiązkowa dla każdego obecnego mieszkańca Polski - czy to obyw
 
 ## Dostawcy, którzy mogą za Ciebie to zrobić
 
-| Dostawca        |     Strona internetowa               |     Terminy    |       Koszt      |
-| --------------- | ------------------ |  :-------------: | :-------------: |
-| Urząd Miasta    |  Link różny w zależności od miasta     |   Różne |   Zazwyczaj bezpłatne    |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 

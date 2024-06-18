@@ -41,11 +41,10 @@ Każdy, kto chce prowadzić pojazdy mechaniczne na drogach publicznych w Polsce,
 4. Zaświadczenie lekarskie potwierdzające Twoją zdolność do prowadzenia pojazdów mechanicznych.
 
 ## Usługi, które mogą to zrobić za Ciebie
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
-| Dostawca        |     Strona internetowa     |     Terminy    |       Koszt      |
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Polska Szkoła Jazdy 1      |  https//:przyklad.com       |     2-3 miesiące     |        Różni się       |
-| Polska Szkoła Jazdy 2  |  https//:przyklad2.com  |  2-3 miesiące   |  Różni się |
 
 ## Dodatkowe informacje
 

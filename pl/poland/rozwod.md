@@ -41,9 +41,10 @@ Ten proces jest istotny dla każdej pary małżeńskiej mieszkającej w Polsce, 
 
 ## Dostawcy, którzy mogą wykonać to dla Ciebie
 
-| Dostawca          |     Strona internetowa                               |     Trafność    |       Koszt      |
-| --------------- | ---------------                                  |  :-------------: | :-------------: |
-| Usługi Prawne  | [legalservices.pl](http://www.legalservices.pl/) |  90-180 dni     | Różnie          |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 
 ## Dodatkowe szczegóły

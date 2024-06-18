@@ -34,11 +34,11 @@ Para obter um Atestado de Residência em Portugal, é necessário fornecer o seg
 
 Nota: Algumas juntas podem requerer documentos adicionais. É aconselhável verificar com a sua junta local antes de prosseguir.
 
-## Entidades que podem fazer por si
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Entidade        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Junta de Freguesia local      |  N/A       |      Varia conforme a junta      |        Varia conforme a junta       |
 
 ## Detalhes Adicionais
 Em Portugal, a emissão do Atestado de Residência é gerida ao nível local por cada junta. Portanto, o procedimento, documentos necessários, prazos e taxas podem variar significativamente de uma junta para outra. É essencial fazer consultas à sua junta local antes de iniciar o processo.

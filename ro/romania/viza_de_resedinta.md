@@ -38,10 +38,10 @@ Ghidul este ideal pentru persoanele străine care intenționează să stea în R
 - Dovada resurselor financiare: dovada financiară că puteți susține șederea dumneavoastră.
 
 ## Furnizori care pot să o facă pentru dumneavoastră
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
-| Furnizor| Website | Amânare | Cost |
-|-------- | --------| -------- | -------- |
-| Consulatul României | www.mae.ro/en | Varioază | Varioază |
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 - Durata șederii conform permisului de ședere nu trebuie să depășească 90 de zile.

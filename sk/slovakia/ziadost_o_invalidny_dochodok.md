@@ -33,9 +33,10 @@ Kohokoľvek, kto nie je schopný pracovať kvôli zreteľnej a závažnej dlhodo
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ   |      Webová stránka     |     Termíny    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Úrad Sociálneho Zabezpečenia      |  [Odkaz](https://www.socpoist.sk/)       |      V závislosti od prípadu      |        Rôzne       |
 
 ## Ďalšie podrobnosti
 Je dôležité poznamenať, že poskytnutie invalidného dôchodku je predovšetkým založené na povaha individuálnej invalidity a nie na schopnosti pracovať. Preto je kľúčové, aby lekársky certifikát primerane popisoval zdravotný stav jednotlivca. Podobne by mal každý, kto žiada o invalidný dôchodok, zabezpečiť, že jeho poistné platby sú aktuálne, pretože to môže ovplyvniť schválenie a výšku jeho dôchodku.

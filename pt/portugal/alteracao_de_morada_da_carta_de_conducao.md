@@ -33,11 +33,11 @@ Pessoas que se mudaram recentemente e precisam que sua carteira de motorista ref
 - Comprovante do novo endereço (por exemplo, conta de serviços públicos, contrato de locação, etc. mostrando o novo endereço)
 - O formulário de alteração de endereço preenchido.
 
-## Prestadores de serviços que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador      |     Site     |     Prazos    |       Custos      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IMT            | [www.imt-ip.pt](http://www.imt-ip.pt) |      Variados      |       Variados     |
 
 ## Detalhes adicionais
 Lembre-se, é importante atualizar o endereço em sua carteira de motorista logo após se mudar. Em muitos lugares, é uma obrigação legal, e a falha em fazê-lo pode resultar em multas ou outras penalidades. Também é uma boa ideia verificar os requisitos específicos da sua autoridade local de carteira de motorista, pois o procedimento pode variar entre locais.

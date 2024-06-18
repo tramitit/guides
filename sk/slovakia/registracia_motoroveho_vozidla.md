@@ -35,9 +35,10 @@ Každá osoba, ktorá si kúpi nové alebo použité vozidlo, alebo dovezie vozi
 4. Technický preukaz: Získaný od autorizovanej technickej služby po úspešnej kontrole vozidla
 
 ## Poskytovatelia, ktorí môžu za vás vybaviť
-| Poskytovateľ   | Webová Stránka  | Časový rámec     | Náklady         |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Obvodný Úrad    | [Oficiálna webová stránka Slovenska](https://www.slovakia.com/)  |      7 dní       | Rôznorodé - závisí od typu, veku a veľkosti vozidla |
 
 ## Ďalšie podrobnosti
 - Upozorňujeme, že dovozené vozidlá môžu mať ďalšie náklady súvisiace s rozdielmi v štandardoch alebo emisných normách.

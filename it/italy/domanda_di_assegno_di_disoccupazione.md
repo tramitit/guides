@@ -30,10 +30,10 @@ Qualsiasi individuo che attualmente non è impiegato ma sta cercando attivamente
 * IBAN, della banca o del postale
 
 ## Fornitori che possono aiutarti
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
-| Fornitore        |     Sito Web     |     Tempi    |       Costi      |
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| INPS      |  https://www.inps.it/       |      Variabili     |        Gratuito       |
 
 ## Dettagli aggiuntivi
 * Sono offerti diversi tipi di prestazioni di disoccupazione in base a potenziali diversi aspetti della storia lavorativa dell'individuo.

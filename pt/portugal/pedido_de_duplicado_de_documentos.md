@@ -38,12 +38,11 @@ Os documentos necessários podem variar dependendo do tipo de documento que voc�
 - Informações do documento original
 - Boletim de ocorrência (no caso de roubo)
 
-## Prestadores de serviço que podem fazer por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Site     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Instituto dos Registos e do Notariado      |  [Site](https://www.irn.justica.gov.pt/IRN/sections/irn/)       |      Varia      |        Varia       |
-| Instituto da Mobilidade e dos Transportes      |  [Site](https://www.imtonline.pt/)       |      Varia      |        Varia       |
 
 ## Detalhes adicionais
 Você pode encontrar a exigência de boletim de ocorrência para a duplicação de certos documentos, especialmente se eles foram roubados ou perdidos. Boletins de ocorrência geralmente podem ser obtidos na delegacia de polícia mais próxima ou online no site da [Polícia de Segurança Pública Portuguesa](https://www.psp.pt/).

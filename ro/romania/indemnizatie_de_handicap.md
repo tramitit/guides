@@ -33,9 +33,10 @@ Dacă ai un handicap care necesită tratament medical continuu sau îți afectea
 
 ## Furnizori care pot să te ajute
 
-| Furnizor        |     Website     |     Termene    |       Cost      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Guvern          |  https://www.anpiss.ro/   |      N/A      |        Gratuit       |
 
 ## Detalii suplimentare
 Este crucial să aduni cât mai multe dovezi posibile pentru a-ți susține cererea. Acest lucru include înregistrările medicale, scrisori de la profesioniștii din domeniul sănătății și chiar mărturii de la persoane care pot confirma situația ta.

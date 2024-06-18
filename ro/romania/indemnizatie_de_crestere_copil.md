@@ -38,11 +38,10 @@ Această asistență financiară este ideală pentru părinții care lucrează, 
 Vă rugăm să rețineți că documentele necesare pot varia în funcție de locație, așadar este recomandat să confirmați aceste detalii la Primăria sau la Direcția de Asistență Socială și Protecția Copilului din județul dumneavoastră.
 
 ## Furnizori care pot să vă ajute
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
-| Furnizor        |     Website     |     Termenele    |       Costul     |
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Primărie       |  [http://www.primaria.ro](http://www.primaria.ro)      |      Variabil       |        Gratuit       |
-| Direcția de Asistență Socială și Protecția Copilului | [http://www.dgasp.ro](http://www.dgasp.ro)|   Variabil   |    Gratuit    |
 
 ## Detalii suplimentare
 Valoarea indemnizației pentru creșterea copiilor variază în funcție de mai mulți factori, precum venitul părintelui și numărul de copii din familie. Perioada minimă legală pentru acest tip de concediu este de un an, însă poate fi prelungită până la doi ani, sau chiar trei ani în cazuri speciale. Părinții care decid să lucreze cu normă redusă în timp ce primesc indemnizația trebuie să respecte anumite reguli. Nerespectarea acestora poate duce la amenzi.

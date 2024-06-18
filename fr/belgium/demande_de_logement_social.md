@@ -38,10 +38,10 @@ La principale population concernée par le logement social sont les personnes à
 Les documents peuvent être obtenus auprès des autorités compétentes telles que votre banque (pour la preuve de revenu) et les organismes émetteurs de pièces d'identité gouvernementaux (pour les pièces d'identité).
 
 ## Fournisseurs qui peuvent le faire pour vous
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Fournisseur | Site Web | Délais | Coût |
-| --- | --- | --- | --- |
-| Associations de logement | Variable selon la région | Jusqu'à 10 ans | Basé sur le revenu |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Informations complémentaires
 

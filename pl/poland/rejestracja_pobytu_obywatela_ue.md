@@ -35,10 +35,10 @@ Ten proces jest odpowiedni dla każdego obywatela UE mieszkającego i/lub pracuj
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie
 
-| Dostawca       |     Strona internetowa    |     Terminy    |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
-Obecnie nie ma znanych dostawców, którzy mogliby przeprowadzić ten proces w Twoim imieniu. Rejestracja miejsca zamieszkania musi być dokonana osobiście.
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 

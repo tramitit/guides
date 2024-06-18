@@ -34,9 +34,10 @@ Toto je sprievodca, ktorý vás prevedie procesom žiadosti o trvalý pobyt s pr
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ   |     Webová stránka     |     Časové rámce    |       Cena      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Translations Worldwide      |  [Odkaz](https://translationsworldwide.com)       |      5 dní      |        $50       |
 
 ## Ďalšie podrobnosti
 - Celý proces môže trvať dlhšie v závislosti od tempa, akým ambasáda Slovenskej republiky spracúva žiadosti.

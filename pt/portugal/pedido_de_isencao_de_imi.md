@@ -35,11 +35,11 @@ Donos de propriedades em Portugal que residem em sua própria propriedade como r
 
 Os documentos devem ser digitalizados e prontos para serem enviados no formulário online.
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Site     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Autoridade Tributária e Aduaneira      |  [https://www.portaldasfinancas.gov.pt/](https://www.portaldasfinancas.gov.pt/)       |      Variado      |        Dependendo do valor da propriedade       |
 
 ## Detalhes adicionais
 A isenção deve ser solicitada no ano de aquisição da propriedade ou no ano seguinte. A isenção do IMI é concedida por um período de três anos, se o Valor Patrimonial Tributário (VPT) da propriedade não exceder €125.000 e se o rendimento tributável do IRS do proprietário (sozinho ou com o cônjuge), no ano em que a propriedade foi adquirida, não exceder €153.300.

@@ -46,9 +46,10 @@ Orice organizație sau persoană care intenționează să angajeze un angajat ar
 
 ## Furnizori care pot face asta pentru tine
 
-| Furnizor        |     Website     |     Termene    |       Cost      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Furnizor 1      |  https://www.exampleprovider.com  |      x zile      |        Variabil, în funcție de nevoile specifice       |
 
 ## Detalii suplimentare
 Este vital să compari diferite structuri de contracte de muncă, cum ar fi contractele B2B versus contractele de angajare, pentru a alege ceea ce se potrivește cel mai bine pentru tine sau organizația ta. Fiecare contract are meritele și limitările sale. Fii atent să verifici detaliile contractului pentru a evita eventualele complicații legale pe viitor.

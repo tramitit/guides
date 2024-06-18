@@ -32,11 +32,11 @@ Este guia é perfeito tanto para indivíduos ou entidades locais quanto estrange
 4. Comprovante de capital inicial.
 5. Comprovante de um endereço válido em Portugal.
 
-## Prestadores de Serviço que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador       |     Site        |     Prazos       |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Empresa na Hora  |  [Empresa na Hora](https://justica.gov.pt/Servicos/Empresa-na-Hora)       |      1-2 dias      |        €360      |
 
 ## Detalhes Adicionais
 - O registro da empresa pode ser feito por um indivíduo ou através do uso de um representante legal se o processo precisar ser feito remotamente.

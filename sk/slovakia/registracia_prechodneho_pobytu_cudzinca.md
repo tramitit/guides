@@ -45,9 +45,10 @@ Všetci cudzinci, ktorí sa plánujú na dočasný pobyt v zahranej krajine na u
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ   |     Webová stránka     |     Časový rámec    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Imigračný úrad      |  Webový odkaz   |      Voľne sa mení      |        Voľne sa mení       |
 
 ## Ďalšie podrobnosti
 Pred podaním žiadosti o TRC si uistite, že ste si prešli celý dokument a sledujte prípadné chýbajúce alebo nesprávne informácie, pretože to by mohlo oneskoriť spracovanie vašej žiadosti. 

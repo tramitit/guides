@@ -42,9 +42,10 @@ Kérjük, vegye figyelembe, hogy ez a általános folyamat, néhány eltérés e
 
 ## Az Ön helyett ezt elvégező szolgáltatók
 
-| Szolgáltató        |     Honlap     |     Időkeretek    |       Díj      |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Magyar Adó- és Vámhivatal      |  [nav.gov.hu](https://nav.gov.hu/)       |      Általában 60 nap      |        Változik az ingatlan értékétől függően       |  
 
 ## További részletek
 

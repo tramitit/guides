@@ -33,11 +33,11 @@ Os requisitos podem variar de acordo com o seu ISP, mas geralmente os seguintes 
 - Comprovante de endereço
 - Contrato de serviço
 
-## Provedores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Provedor     |     Website     |     Prazos    |    Custo   |
-| ------------| --------------- |  :---------:  |  :-------:|
-| Provedor 1   |  https//:       |    x dias    |     $X    |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 Antes de prosseguir com o cancelamento, é melhor verificar se há alguma taxa de rescisão antecipada em seu contrato. Se estiver dentro de um período de penalidades, pode ser mais econômico esperar até o término do prazo. Além disso, esteja preparado para esforços de retenção por parte do ISP, pois eles podem tentar oferecer melhores ofertas para mantê-lo no serviço. Por fim, lembre-se de confirmar se há algum dispositivo que precisa ser devolvido para evitar cobranças adicionais.

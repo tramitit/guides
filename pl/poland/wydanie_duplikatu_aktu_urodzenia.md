@@ -41,9 +41,10 @@ Każdy obywatel lub osoba pochodzenia polskiego, która aktualnie nie ma swojego
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie
 
-| Dostawca        |     Strona internetowa     |     Czas oczekiwania    |       Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Dostawca 1      |  https//:       |      Około 2-4 tygodnie; może się różnić w zależności od konkretnych okoliczności      |        Zmienne; zależne od konkretnych opłat ustanowionych przez lokalny urząd stanu cywilnego       |
 
 ## Dodatkowe informacje
 Proces składania wniosku można często przyspieszyć, jeśli złożysz go bezpośrednio osobiście w urzędzie stanu cywilnego. Możesz jednak również przesłać kogoś w Twoim imieniu z notarialnie potwierdzonym dokumentem pełnomocnictwa.

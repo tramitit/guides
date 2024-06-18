@@ -38,11 +38,11 @@ Qualquer cidadão não pertencente à UE que planeie ficar em Portugal por mais 
 - Seguro médico ou cobertura pela Segurança Social (se aplicável)
 - Comprovante de pagamento da taxa de candidatura do Cartão de Utilizador
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Site     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| SEF      |  [sef.pt](https://www.sef.pt/)       |      30-60 dias      |        Varia dependendo do tipo de residência       |
 
 ## Detalhes adicionais
 - Os usuários registrados recebem uma conta de usuário de serviço público que combina todas as interações com os serviços públicos.

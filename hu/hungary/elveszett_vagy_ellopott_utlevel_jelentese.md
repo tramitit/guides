@@ -33,9 +33,10 @@ Bármely utazó vagy expat, akinek elveszett a passzportja vagy ellopták, haszn
 - Egyéb dokumentumok, amelyeket hazája nagykövetsége vagy konzulátusa kér
 
 ## Szolgáltatók, akik segítenek
-| Szolgáltató     |     Honlap     |     Időkeretek    |       Költség      |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Amerikai Nagykövetség Magyarországon | [https://hu.usembassy.gov/](https://hu.usembassy.gov/) |    Változó (Az egyéni eset és az eset súlyosságától függ)  |     Változó (Díj az új passzportért)    |
 
 ## További részletek
 - Javasolt, hogy tartsa külön a passzport biográfiai oldalának és a magyar belépési pecsét oldalának másolatait az esetleges elvesztésre való tekintettel.

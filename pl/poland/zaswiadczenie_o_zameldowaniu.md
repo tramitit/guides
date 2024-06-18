@@ -33,9 +33,10 @@ To świadectwo jest wymagane dla każdej osoby planującej przebywać w Polsce p
 
 ## Dostawcy, którzy mogą to załatwić za Ciebie
 
-| Dostawca        |     Strona internetowa                                |     Harmonogram    |       Koszt      |
-| --------------- | ---------------------------------- |  :-------------: | :-------------: |
-| Lokalna Rada Miasta      |  Zależy od miasta        |      Różne      |    Darmowe lub niewielka opłata     |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 - Świadectwo zameldowania nie jest tym samym, co zezwolenie na pobyt, które jest wymagane dla obywateli spoza UE planujących przebywanie w Polsce dłużej niż 90 dni.

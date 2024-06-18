@@ -35,11 +35,10 @@ Qualsiasi individuo che pianifichi di trasferirsi in una nuova località, in par
 
 ## Provider che possono assisterti
 
-| Provider      |     Sito Web     |     Tempi    |       Costi      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Revolut      |  [Revolut Help](https://www.revolut.com/help)       |      Dipende dal caso individuale      |        Variabile (In base ai servizi e alla consegna della carta)      |
-| N26 | [Centro Assistenza N26](https://support.n26.com/en-eu/account-and-personal-details/personal-information/update-my-personal-information) | Dipende dal caso individuale | Variabile (In base ai servizi e alla consegna della carta) |
-| Coinbase | [Supporto Coinbase](https://help.coinbase.com/) | Dipende dal caso individuale | Nessun costo per il cambio di indirizzo |
 
 ## Dettagli Aggiuntivi
 Ricorda di aggiornare il tuo indirizzo con tutte le diverse istituzioni pubbliche e private, inclusi ma non limitati a istituti finanziari, fornitori di servizi pubblici, uffici di cittadinanza ecc. Questo garantirà una transizione più agevole e impedirà potenziali questioni burocratiche. La tua banca avrà bisogno specificamente di una prova di residenza, quindi tieni a portata di mano questi documenti.

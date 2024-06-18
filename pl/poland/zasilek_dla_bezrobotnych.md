@@ -32,9 +32,10 @@ Ta usługa jest niezbędna dla każdego, kto stracił pracę i obecnie szuka now
 
 ## Dostawcy, którzy mogą za Ciebie to zrobić
 
-| Dostawca        |     Strona internetowa     |     Terminy    |       Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Powiatowy Urząd Pracy (PUP) | [PUP](https://www.pup.gov.pl/) | Zmienny, zależny od indywidualnego przypadku | Bezpłatnie |
 
 ## Dodatkowe szczegóły
 - Warto zauważyć, że wysokość zasiłku dla bezrobotnych, do którego masz prawo, zależy od twoich poprzednich zarobków.

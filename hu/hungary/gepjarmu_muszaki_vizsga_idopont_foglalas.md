@@ -38,9 +38,10 @@ Mindenkinek, akinek Magyarországon regisztrált járműve van.
 
 ## Szolgáltatók, akik megtehetik helyetted
 
-| Szolgáltató     |     Weboldal     |     Idővonalak   |       Költség    |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Szolgáltató 1   |  https://www.szolgaltato1.hu       |      7-14 nap      |        Változó a járműtől függően       |
 
 ## További részletek
 - Teljesen rendben van, ha a műszaki vizsga előtt a kereskedéstől azonosítószámot szerzel be.

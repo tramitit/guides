@@ -33,9 +33,10 @@ Elke werknemer die met pensioen gaat of de wettelijke pensioenleeftijd in BelgiÃ
 
 ## Aanbieders die het voor u kunnen doen
 
-| Aanbieder        |     Website     |     Tijdlijnen    |       Kosten      |
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
+
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Belgische Pensioendienst      |  [https://www.sfpd.fgov.be/nl](https://www.sfpd.fgov.be/nl)       |      Varieert      |        Gratis       |
 
 ## Extra details
 Het bedrag van het pensioen dat u ontvangt, zal afhangen van de duur van uw loopbaan en het bedrag van uw verdiensten in BelgiÃ«. Er is ook de mogelijkheid om na de leeftijd van 65 jaar verdere pensioenaanspraken op te bouwen, mits u blijft werken. Houd altijd uw socialezekerheidsbijdragen bij om ervoor te zorgen dat u het maximale bedrag bij pensionering ontvangt.

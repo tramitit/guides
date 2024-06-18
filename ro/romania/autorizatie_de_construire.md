@@ -35,10 +35,10 @@ Orice persoană sau companie care intenționează să construiască o nouă stru
 
 ## Furnizori care vă pot ajuta
 
-| Furnizor        |     Website           |     Termene    |       Cost      |
-| --------------- | ---------------- |  :-------------: | :-------------: |
-| Arhitect de design profesionist |  [www.archiforum.ro](http://www.archiforum.ro/) |  La cerere  |  La cerere  |
-| Companii de consultanță specializate în permise de construcție |  [www.constructorii.ro](http://www.constructorii.ro/) |      La cerere      |       La cerere        |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 - Procesul poate fi lung și necesită răbdare și exactitate.

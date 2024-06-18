@@ -40,9 +40,10 @@ Oricine câștigă venituri și este obligat să plătească taxe în țara sa r
 
 ## Furnizori care pot face acest lucru pentru dvs.
 
-| Furnizor        |     Website     |     Termene    |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------:  |
-| Biroul de Impozite Local |   Siteurile oficiale ale birourilor de impozite  | Depinde de procedurile biroului de impozite local | Gratuit |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 

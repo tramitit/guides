@@ -35,7 +35,10 @@ Kérjük, vedd figyelembe, hogy ezek általános követelmények, és az adott v
 
 ## Szolgáltatók, akik ezt megtehetik helyetted
 
-| Szolgáltató | Weboldal | Időkeretek | Költség |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 Néhány városban lehet, hogy üzleti engedélyre van szükség az Airbnb működtetéséhez. Győződj meg róla, hogy konkrét információkat szereztél-e a helyi önkormányzattól.

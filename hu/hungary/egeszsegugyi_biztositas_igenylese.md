@@ -34,11 +34,10 @@ Az egészségügyi biztosítás szinte bárkinek előnyös lehet, különösen f
 
 ## Szolgáltatók, akik ezt megtehetik helyetted
 
-| Szolgáltató     |     Honlap      |     Időszakok    |       Költségek |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Cigna           |  [www.cigna.com](https://www.cigna.com/)   | Az egyéni helyzettől függ | Változó |
-| Aetna           | [www.aetna.com](https://www.aetna.com/)   | Az egyéni helyzettől függ | Változó |
-| BUPA            | [www.bupa.com](https://www.bupa.com/)   | Az egyéni helyzettől függ | Változó |
 
 ## További részletek
 Fontos megjegyezni, hogy a költségek és időszakok változhatnak az egyéni körülmények függvényében, beleértve az életkorod, egészségi állapotod és a kiválasztott tervet. Fontos azt is biztosítani, hogy a kiválasztott terv fedezze az igényeidet, például a speciális kezeléseket vagy a nemzetközi fedezetet, ha szükséges.

@@ -30,8 +30,10 @@ Iedereen die geïnteresseerd is in het bijwonen van een evenement maar tijdens d
 Over het algemeen heeft u alleen een geldig en actief e-mailadres nodig voor Wachtlijst Registraties. Voor bepaalde evenementen kan ook identiteitsbewijs of andere documentatie nodig zijn, maar deze vereisten zouden specifiek zijn voor de website of het evenement in kwestie.
 
 ## Aanbieders die dit voor u kunnen doen
-Het moet worden opgemerkt dat men doorgaans persoonlijk moet registreren voor een wachtlijst en dat dit niet via een derde partij kan worden gedaan. Dit helpt ticketdoorverkoop te voorkomen en houdt het proces eerlijk voor iedereen.
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 ## Aanvullende details
 - Belangrijk om te weten is dat het registreren voor een wachtlijst niet garandeert dat u kaartjes zult ontvangen. Het plaatst u eenvoudigweg in de rij mochten er kaartjes beschikbaar komen.
 - Aanbieders beheren hun wachtlijsten doorgaans op basis van wie het eerst komt, het eerst maalt. Sommigen gebruiken een loteri

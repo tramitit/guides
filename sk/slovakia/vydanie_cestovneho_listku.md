@@ -38,10 +38,10 @@ Každý, kto plánuje cestovať, najmä v a okolo Slovenska, by potreboval túto
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ   |     Internetová stránka     |     Časové rozpätie    |       Náklady      |
-| --------------- | --------------------------- |  :-----------------:   | :----------------: |
-| ZSSK Rail       |  [zssk.sk](https://www.zssk.sk/)       |     Závisí od dostupnosti a destinácie      |   Premenné na základe detailov cesty    |
-| Universal Orlando| [universalorlando.com](https://www.universalorlando.com) | Okamžitá online rezervácia | Premenné na základe vybraných balíkov |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Vždy si overte, že rezervujete od spoľahlivého zdroja, aby ste sa vyhli podvodom.

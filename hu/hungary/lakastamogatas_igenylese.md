@@ -32,10 +32,10 @@ Bárki, aki Magyarországon él, és alacsony jövedelem, munkanélküliség vag
 - Bármely további dokumentum, amelyet a helyi hatóság megkövetel. Ezekről tájékoztatást kap a helyi kormányhivatalban történő látogatáskor.
 
 ## Olyan szolgáltatók, akik segíthetnek Önnek
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
-| Szolgáltató        |     Honlap     |     Ütemterv    |       Költség      |
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Helyi Kormányhivatalok      | Nincs online portál       | Régió szerint változó      | Ingyenes (bár bizonyos igazoló dokumentumok költségeket eredményezhetnek) |
 
 ## További részletek
 - Az eljárás kissé eltérhet régiótól függően, ezért a leghitelesebb információkért látogasson el a helyi kormányhivatalba.

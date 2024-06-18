@@ -37,10 +37,10 @@ Hieronder volgen de gebruikelijke vereiste documenten, maar deze kunnen enigszin
 Onthoud om de specifieke vereisten binnen uw rechtsgebied te controleren, omdat deze enigszins kunnen verschillen.
 
 ## Aanbieders die dit voor u kunnen regelen
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
-| Aanbieder        |     Website     |     Tijdschema    |       Prijs      |
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Stad Brussel      |  https://www.brussels.be |  14 werkdagen  |  Variabel per gebied |
 
 ## Aanvullende details
 - Vergeet niet om uw parkeerkaart te vernieuwen voordat deze verloopt. Gewoonlijk zijn kaarten één jaar geldig.

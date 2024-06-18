@@ -43,9 +43,10 @@ Szczegółowa lista wymaganych dokumentów dostępna jest na oficjalnej stronie 
 
 ## Usługi, które mogą załatwić sprawę za Ciebie
 
-| Dostawca        |     Strona internetowa     |     Czas oczekiwania    |     Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Urząd do Spraw Cudzoziemców |  https://udsc.gov.pl/ | Różnie |  340 PLN |
 
 ## Dodatkowe szczegóły
 

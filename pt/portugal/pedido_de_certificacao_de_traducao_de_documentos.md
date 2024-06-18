@@ -32,11 +32,11 @@ Pessoas que precisam de traduções oficiais para seus documentos. Estes podem i
 - Documento original que precisa ser traduzido
 - Comprovante de identificação
 
-## Prestadores de serviços que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador       |     Website     |     Prazos      |       Custo     |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-|  Tradutor Certificado|  `URL do site do prestador`       |      depende da complexidade      |        varia      |
 
 ## Detalhes adicionais
 - Alguns documentos podem exigir um nível adicional de certificação conhecido como Apostila, que certifica a autenticidade da assinatura na tradução.

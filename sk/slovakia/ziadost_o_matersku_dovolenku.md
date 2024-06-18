@@ -34,7 +34,10 @@ Každá pracujúca žena, ktorá očakáva dieťa, potrebuje poznať svoje práv
 - Ďalšie podporné dokumenty (na základe politiky zamestnávateľa alebo požiadaviek práce)
 
 ## Poskytovatelia, ktorí vám môžu pomôcť
-Bohužiaľ, žiadosť o materskú dovolenku je osobný proces a nie je možné ju outsourcovať externým poskytovateľom.
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Počas materskej dovolenky ženy na Slovensku dostávajú platbu od zdravotnej poisťovne. Financie sú poskytované Sociálnou poisťovňou a predstavujú približne 65% ich výpočtovej základne. Nezabudnite, že pravidlá a práva sa môžu líšiť od odvetvia k odvetviu, vždy sa obráťte na svoju zmluvu alebo personálne oddelenie pre personalizovanú radu.

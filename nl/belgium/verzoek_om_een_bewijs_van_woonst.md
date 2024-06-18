@@ -36,10 +36,10 @@ Je hebt mogelijk de volgende documenten nodig:
 
 ## Dienstverleners die het voor je kunnen doen
 
-| Dienstverlener     |     Website     |     Tijdslijnen    |       Kosten      |
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
+
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Plaatselijk nutsbedrijf  |  N/A       |     Varieert      |        Varieert       |
-| Jouw bank      |  N/A       |     Varieert      |        Varieert       |
 
 ## Aanvullende details
 - Een Bewijs van Woonplaats kan vereist zijn door financiële instellingen of overheidsinstanties.

@@ -30,10 +30,11 @@ Este cartão é necessário para qualquer residente em Portugal, independentemen
 - Comprovativo de residência: por exemplo, um contrato de arrendamento, fatura de serviços, etc.
 - NIF: O número de identificação fiscal que pode ser obtido no serviço local de finanças.
 
-## Entidades que podem ajudar
-| Entidade        |     Website                 |     Prazos    |       Custo      |
-| --------------- | ---------------             |  :-------------: | :-------------: |
-| Centro de Saúde Local | N/A       |      Depende do centro      |      Gratuito       |
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
+
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - Embora o cartão de utente do SNS seja necessário, em situações de emergência, o centro de saúde irá atendê-lo mesmo sem ele.

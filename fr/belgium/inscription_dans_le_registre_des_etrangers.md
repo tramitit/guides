@@ -35,9 +35,10 @@ Ce service est nécessaire pour les personnes qui ont l'intention de résider da
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur        |     Site Internet     |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Agent de migration |  www.migrationagent.com |      7-14 jours      |        Varie en fonction de la complexité       |
 
 ## Détails supplémentaires
 Veuillez noter que les exigences en matière d'inscription peuvent varier en fonction du pays. Il est toujours conseillé de consulter les autorités compétentes ou un agent de migration pour assurer la conformité avec toutes les lois et réglementations locales. Le non-respect de ces règles peut entraîner des amendes ou d'autres sanctions.

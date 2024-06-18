@@ -36,9 +36,10 @@ Ez az útmutató hasznos bármelyik egyén számára, aki közeledik a nyugdíjk
 - Munkaviszonyt igazoló dokumentumok a szükséges hozzájárulási időszakról. Ezeket beszerezheti korábbi/jelenlegi munkáltatóitól és az [Országos Nyugdíjbiztosítási Intézettől](https://onkormanyzat.munka.hu/Lapok/fooldal.aspx).
 
 ## Szolgáltatók, akik megtehetik Ön helyett
-| Szolgáltató      |     Weboldal     |     Határidők     |       Költség     |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Magyar Nyugdíj Tanácsadás |  https:Not available     | Egyéni esettől függően      | Változó       |
 
 ## További részletek
 Az igényléskor érdeklődjön a elérhető különböző nyugdíj típusokról (pl. időskori nyugellátás, rokkantsági nyugdíj stb.) és döntse el, melyik a legmegfelelőbb az Ön helyzetében. Expatriánsként érdemes lehet felfedezni az adózási következményeket és konzultálni egy adószakértővel is.

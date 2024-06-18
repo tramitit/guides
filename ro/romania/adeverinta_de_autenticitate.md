@@ -32,9 +32,10 @@ Oricine dorește să verifice autenticitatea unui obiect valoros. Acest lucru ar
 
 ## Furnizori care te pot ajuta
 
-| Furnizor        |     Website     |     Termene    |       Cost      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Furnizor 1      |  https//:       |      x zile      |        $X       |
 
 ## Detalii suplimentare
 Costul și termenul acestui proces pot varia în mare măsură în funcție de tipul obiectului și de furnizorul pe care-l alegi. În unele cazuri, furnizorul poate emite certificatul pe loc, în timp ce în altele ar putea avea nevoie de mai mult timp pentru a evalua cu atenție obiectul. Este întotdeauna mai bine să contactezi furnizorul în avans pentru a avea o înțelegere clară a procesului, costului și termenului.

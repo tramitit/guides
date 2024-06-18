@@ -39,9 +39,10 @@ Będziesz potrzebować:
 
 ## Dostawcy, którzy mogą to zrobić dla Ciebie
 
-| Dostawca        |     Strona internetowa     |     Terminy    |       Koszty      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Urząd do Spraw Cudzoziemców     |  [https://udsc.gov.pl](https://udsc.gov.pl)       |      Zależne od indywidualnego przypadku      |        Brak kosztów       |
 
 ## Dodatkowe informacje
 Mimo że Polska nie jest tradycyjnie najbardziej poszukiwanym miejscem dla osób ubiegających się o azyl, członkostwo Polski w Unii Europejskiej tworzy potencjalne warunki do przeniesienia się do innych krajów UE w przyszłości. Jednakże, należy zauważyć, że Polska przestrzega bardziej restrykcyjnej polityki imigracyjnej i ma mniej przyjazne podejście do osób ubiegających się o azyl, w porównaniu do innych krajów UE. Pamiętaj, że legalność Twego pobytu zostanie określona przez sąd lub inny organ państwowy.

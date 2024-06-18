@@ -31,11 +31,11 @@ Os documentos comumente necessários incluem:
 
 Você pode obter esses certificados de órgãos governamentais locais ou instituições financeiras.
 
-## Prestadores que podem fazer isso para você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Site     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Prestador 1      |      [https//:](https://example.com)         |      Geralmente, em 10-15 dias      |        Variável dependendo da autoridade emissora       |
 
 ## Detalhes adicionais
 Deve-se notar que o processo de solicitação e a autoridade emissora podem variar dependendo da localização. É essencial garantir que você tenha todos os detalhes financeiros necessários e precisos ao se inscrever. Se houver alguma discrepância nas informações fornecidas, isso pode levar a certificados negados ou incorretos. Lembre-se, certas taxas podem estar associadas ao processo de inscrição também.

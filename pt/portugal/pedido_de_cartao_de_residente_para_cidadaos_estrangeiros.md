@@ -35,11 +35,11 @@ Os documentos exatos podem depender das suas circunstâncias específicas, mas a
 - Contrato de trabalho para trabalhadores
 - Documentos de matrícula escolar para estudantes
 
-## Fornecedores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Fornecedor      |     Site     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| SEF      |  [sef.pt](https://www.sef.pt/pt/)       |      Variável      |        Variável       |
 
 ## Detalhes adicionais
 A validação de um cartão de residência pode levar várias semanas ou, em alguns casos, vários meses. Além disso, a documentação necessária para a aplicação pode variar significativamente dependendo das circunstâncias individuais, por isso é recomendável verificar com o SEF quaisquer requisitos específicos. Além disso, observe que alguns documentos precisam ser traduzidos para o português por um tradutor profissional reconhecido pelo consulado.

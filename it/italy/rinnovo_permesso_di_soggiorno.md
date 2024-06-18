@@ -42,7 +42,10 @@ Si prega di verificare con le autorità locali l'elenco esatto dei documenti ric
 
 ## Fornitori che possono farlo per te
 
-Non ci sono fornitori esterni per questo servizio, poiché è fornito dal governo italiano. L'appuntamento deve essere fissato presso l'ufficio locale di immigrazione (questura).
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 

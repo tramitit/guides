@@ -39,9 +39,10 @@ Nezabudnite, všetky dokumenty musia byť preložené do slovenčiny autorizovan
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ        |     Webová stránka     |     Časové harmonogramy    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Slovenské veľvyslanectvo alebo konzulát v blízkosti | V závislosti od vašej polohy | Časové harmonogramy sa môžu líšiť | Lokálne špecifické |
 
 ## Ďalšie podrobnosti
 

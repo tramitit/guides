@@ -41,10 +41,10 @@ Ten przewodnik jest przeznaczony dla wszystkich planujących założenie firmy w
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie
 
-| Dostawca                    |     Strona internetowa        |     Terminy      |       Koszt      |
-| --------------------------- | -----------------------------  |  :-------------: | :-------------: |
-| Warsaw Business Journal     |  https://wbj.pl/               |      Różnią się   |        Różnią się  |
-| Polish Investment Agency    |  https://www.paih.gov.pl/      |      Różnią się   |        Różnią się  |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Mimo że proces może być skomplikowany, poświęcenie czasu na właściwą rejestrację firmy jest ważnym krokiem. Bez względu na rodzaj firmy, którą planujesz założyć, postępowanie zgodnie z tymi krokami zapewni, że Twoja firma będzie prawnie uznana i będzie działała w ramach polskiego prawa. Zawsze warto również zasięgnąć porady od profesjonalistów prawników lub konsultantów biznesowych z doświadczeniem w polskim prawie gospodarczym.

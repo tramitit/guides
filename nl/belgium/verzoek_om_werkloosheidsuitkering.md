@@ -30,12 +30,10 @@ Deze gids is bedoeld voor iedereen die recentelijk werkloos is geworden in Belgi
 
 ## Aanbieders die dit voor u kunnen doen
 
-| Aanbieder        |     Website     |     Doorlooptijden    |       Kosten      |
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
+
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| De Algemene Centrale der Belgische Arbeiders  (ABVV/FGTB)  |  [ABVV/FGTB](https://www.fgtb.be/)       |      Variabel      |        Variabel       |
-| Het Algemeen Christelijk Vakverbond  (ACV/CSC) |  [ACV/CSC](https://www.acv-online.be/) | Variabel | Variabel |
-| De Liberale Vakbond (ACLVB/CGSLB)  |  [ACLVB/CGSLB](https://www.aclvb.be/)       |      Variabel      |        Variabel       |
-| Hulpkas voor Werkloosheidsuitkeringen (CAPAC) | [CAPAC](http://www.hvw-capac.fgov.be/) | Variabel | Geen kosten |
 
 ## Bijkomende details
 - CAPAC brengt geen lidmaatschapskosten in rekening, terwijl vakbonden dat wel doen. Het kan langer duren om uw aanvraag te verwerken bij CAPAC vanwege drukkere omstandigheden.

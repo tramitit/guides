@@ -35,10 +35,10 @@ Questo assegno è destinato ai lavoratori, compresi quelli autonomi, che sono in
 Questi documenti devono essere presentati nella loro forma originale. Tutti i documenti necessari devono essere aggiornati e contenere le informazioni corrette.
 
 ## Enti che possono assisterti
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
-| Ente        |     Sito web     |     Tempi    |       Costo      |
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Istituto Nazionale Previdenza Sociale (INPS)     |  www.inps.it       |      Di norma elaborato entro 4 settimane     |        Gratuito       |
 
 ## Dettagli aggiuntivi
 - L'importo dell'Assegno di Maternità dipenderà dalle tue circostanze specifiche, inclusi il reddito o il tipo di lavoro.

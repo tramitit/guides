@@ -41,9 +41,10 @@ Wymagane "dokumenty" to w zasadzie elementy, które musisz zawrzeć w swoim zgł
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie
 
-| Dostawca        |     Strona     |     Czas wykonywania    |       Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Reddit, Inc.    |  [reddit.com](https://www.reddit.com/)  |      Różne     |        Bezpłatny     |
 
 ## Dodatkowe informacje
 Jeśli nie jesteś pewien, czy materiał, który zgłaszasz, faktycznie jest naruszający, możesz skontaktować się z prawnikiem przed złożeniem powiadomienia na Redditzie. Proces może być skomplikowany i wiązać się z konsekwencjami prawnych, dlatego zaleca się w pełni zrozumieć konsekwencje przed podjęciem działań.

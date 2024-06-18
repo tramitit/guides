@@ -33,10 +33,10 @@ Osoby niebędące mieszkańcami UE, które dokonują zakupów detalicznych w ram
 
 ## Dostawcy, którzy mogą zrobić to dla ciebie
 
-| Dostawca        |     Strona internetowa     |     Terminy    |       Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Global Blue     |  [www.globalblue.com](http://www.globalblue.com)       |      21 dni      |        Zależny od kwoty zakupu      |
-| Premier Tax Free | [www.premiertaxfree.com](http://www.premiertaxfree.com) | 21 dni | Zależny od kwoty zakupu |
 
 ## Dodatkowe informacje
 Warto zauważyć, że nie wszystkie towary kwalifikują się do zwrotu VAT. Pewne wydatki, takie jak noclegi w hotelu czy posiłki w restauracji, zazwyczaj nie są wliczane. Zwrot może potrwać pewien czas (nawet kilka tygodni), dlatego zaplanuj odpowiednio. Ponadto niektóre sklepy mogą nie brać udziału w programach zwrotu VAT, a niektóre mogą wyznaczyć minimalną kwotę zakupu, aby się kwalifikować, dlatego zawsze lepiej zapytać przed dokonaniem zakupu.

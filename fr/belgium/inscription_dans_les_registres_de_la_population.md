@@ -37,9 +37,10 @@ Les documents spécifiques requis peuvent varier en fonction de la situation. Ce
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur     |     Site Web    |     Délais    |       Coût      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Commune Locale belge      |  Varie (Consultez le site web de la commune locale)      |    Varie     |     Généralement Gratuit    |
 
 ## Détails Supplémentaires
 En Belgique, le vote est obligatoire une fois que vous êtes inscrit dans le registre de la population. Cela diffère de certains pays où le vote est facultatif. Le non-respect de cette obligation électorale peut entraîner des sanctions telles que des amendes. De plus, la procédure mentionnée peut légèrement varier entre les différentes communes, il est donc toujours recommandé de vérifier les règles locales.

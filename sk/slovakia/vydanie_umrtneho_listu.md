@@ -34,8 +34,10 @@ Tento dokument je potrebný pre všetkých jednotlivcov na ďalšie postupy po �
 
 ## Poskytovatelia, ktorí to môžu za vás urobiť
 
-| Poskytovateľ                        | Webová stránka                                | Časové rámce | Cena          |
-| Úrad matriky v Sao Paulu       |[Webová stránka ÚM SP](https://www.spcro.gov/) |6-10 týždňov |       $50      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Je dôležité vyhotoviť si viacero kópií úmrtného listu, keď už bol vydany. Tie môžu byť potrebné pre rôzne právne a administratívne postupy. Tiež si uvedomte, že nie každý môže požiadať o úmrtný list; zvyčajne musíte byť tesne príbuzní s osobou, ktorá zomrela. Niektoré vlády poskytujú viacjazyčné úmrtné listy, čo môže byť potrebné, ak budete dokument predkladať v krajine, kde sa nerozpráva oficiálnym jazykom vydávajúca vláda.

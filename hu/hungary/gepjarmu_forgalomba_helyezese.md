@@ -32,9 +32,10 @@ Minden olyan egyént (magyar lakosokat vagy Magyarországon élő külföldieket
 - Azonosító dokumentum (útlevél vagy személyi igazolvány)
 
 ## Az Ön számára ezt elvégző szolgáltatók
-| Szolgáltató     |       Weboldal                       |   Időzítés     | Költség      |
-| --------------- | ---------------                          |  :-------------: | :-------------: |
-| Allianz            |  [Allianz](https://www.allianz.hu) |      1 nap         |       A jármű típusától és életkorától függ |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 - Lehetnek további díjak tolmács szolgáltatásért, ha nem beszél magyarul a Közlekedési Hatóság irodájában.

@@ -30,11 +30,11 @@ Qualquer cidadão de Portugal que deseje viajar para fora de Portugal e não ten
 - Documento de Identificação (Cartão de Cidadão ou BI)
 - Comprovativo de Pagamento
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| SEF      |  [Website do SEF](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=13)      |      5 dias úteis para normal, 2 dias para urgente, 1 dia para super urgente     |        Os custos variam com base na urgência e idade do requerente       |
 
 ## Detalhes adicionais
 O requerente deve ter em mente que os prazos podem variar dependendo da demanda e diferenças regionais. Em segundo lugar, os custos podem variar - a entrega normal para um adulto é de aproximadamente 65 euros, urgente é 85 euros e super urgente é 95 euros. É mais barato para crianças. Sempre verifique os preços e requisitos atuais no website oficial do SEF.

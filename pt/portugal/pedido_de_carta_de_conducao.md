@@ -33,11 +33,11 @@ Qualquer pessoa que pretende operar um veículo motorizado, seja para fins pesso
 2. Cartão de Residência para cidadãos estrangeiros.
 3. Atestado Médico que comprove aptidão física e mental para conduzir.
 
-## Provedores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Provedor        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IMT            |  [https://www.imt-ip.pt](https://www.imt-ip.pt)   |      Variável      |        Variável dependendo da categoria       |
 
 ## Detalhes Adicionais
 Você precisa ter pelo menos 18 anos para solicitar uma carteira de habilitação. Indivíduos que não passarem no exame de condução podem precisar esperar antes de poder repeti-lo. O período de espera depende dos requisitos específicos estabelecidos pelas autoridades reguladoras de trânsito.

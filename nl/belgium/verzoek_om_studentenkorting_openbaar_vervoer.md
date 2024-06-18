@@ -34,11 +34,10 @@ Deze dienst is ideaal voor studenten die afhankelijk zijn van het openbaar vervo
 - Bewijs van huidige inschrijving bij een onderwijsinstelling
 
 ## Aanbieders die dit voor je kunnen regelen
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
-| Aanbieder        |     Website     |     Tijdschema's    |       Kosten      |
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Belgische Spoorwegen (NMBS/SNCB) | [www.belgiantrain.be](https://www.belgiantrain.be/)  | Onmiddellijk met ID | n.n.b. |
-| De Lijn | [www.delijn.be](https://www.delijn.be/) | Onmiddellijk met ID | n.n.b. |
 
 ## Aanvullende details
 Onthoud dat afhankelijk van de voorwaarden van de vervoerder, je studentenkorting mogelijk alleen van toepassing is op bepaalde routes of tijden. Zorg er altijd voor dat je je studentenkaart of vervoerskaart met de studentenkorting bij je hebt wanneer je gebruik maakt van het openbaar vervoer.

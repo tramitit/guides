@@ -31,11 +31,10 @@ Minden olyan dolgozó egyén, aki tervezett nyugdíjelőtakarítást szeretne, r
 - Munkaviszony igazolására: Ez lehet munkaszerződés vagy bérszámfejtés.
 
 ## Olyan szolgáltatók, akik ezt meg tudják csinálni Ön helyett
-Az állami nyugdíjrendszer kezelése bonyolult lehet. Az alábbi szolgáltatók szolgáltatásokat kínálnak az állami nyugdíj regisztrációjának és kezelésének segítésére:
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
-| Szolgáltató     |     Weboldal      |      Időkeretek      |      Költség      |
-| :-------------: | :--------------:  |    :-------------:   |   :----------:  |
-| Nemzeti Biztosítás   | [Nemzeti Biztosítás](https://www.gov.uk/) |  30 nap  |      Ingyenes       |
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 A kötelező nyugdíjhozzájárulás időtartama országonként és az adott nyugdíjterveken múlik. Emellett fontos megjegyezni, hogy a munkahelyváltás nem befolyásolja az állami nyugdíját; a hozzájárulások kumulatívak az összes munkavégzési éved alatt, függetlenül attól, hogy hány munkaadója volt. Biztosítania kell, hogy hozzájárulásai pontosan legyenek rögzítve, mivel a hibák költségesek lehetnek a nyugdíjkiegészítések terén.

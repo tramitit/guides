@@ -32,10 +32,10 @@ Azok az emberek, akik megsértették a közlekedési szabályokat Magyarországo
 - A közlekedési bírság vagy az értesítő levél, amelyen szerepel a bírság száma és más részletek.
 
 ## Szolgáltatók, akik ezt elvégezhetik Ön helyett
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
-| Szolgáltató         |     Weboldal                        |     Határidők    |       Költség       |
-| ------------------- |  --------------------------------  |  :-------------: |  :-------------: |
-| Magyar Közút Nonprofit Zrt.| [https://en.nemzetiutdij.hu/](https://en.nemzetiutdij.hu/)   |      Azonnali      | A bírság összegétől függően változó |
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 - Lehetősége van a bírság helyszíni kifizetésére is, attól függően, hogy milyen típusú szabálysértésről van szó.

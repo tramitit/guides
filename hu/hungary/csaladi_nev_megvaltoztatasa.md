@@ -34,9 +34,10 @@ Elsősorban azok, akik házasok és szeretnék felvenni a házastársuk vezeték
 - A névváltoztatást alátámasztó bizonyíték (házassági anyakönyvi kivonat, bírósági végzés stb.)
 
 ## Szolgáltatók, akik segíthetnek
-| Szolgáltató      |     Honlap     |     Időkeretek    |       Költség      |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Helyi Önkormányzat  |  N/A       |     30-90 nap      |        Változó       |
 
 ## További részletek
 - A névváltoztatás okai széles skálán mozoghatnak - a házastárs nevének felvételétől a jelenlegi név nem szeretéséig, vagy olyan név felvétele, amely összhangban van a személyes, kulturális vagy szakmai identitással.

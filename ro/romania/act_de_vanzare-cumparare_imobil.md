@@ -39,9 +39,10 @@ Oricine planifică să cumpere sau să vândă proprietate imobiliară în Româ
 
 ## Furnizori care pot să facă acest lucru pentru tine
 
-| Furnizor        |     Website     |     Termene    |       Cost      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Avocați pentru Proprietăți din România      |  [https://www.romanianlawoffice.com](https://www.romanianlawoffice.com)       | de confirmat     |  de confirmat |
 
 ## Detalii Suplimentare
 

@@ -31,10 +31,10 @@ Dowolna osoba, która doświadczyła kradzieży w Polsce, zarówno jako ofiara, 
 
 ## Podmioty, które mogą zrobić to za Ciebie
 
-| Podmiot              |     Strona internetowa                 |     Terminy     |       Koszty      |
-| ---------------------| -------------------------------------- |  :-------------: | :-------------: |
-| Policja Polska      |  http://www.policja.pl/pol/english-version|  Natychmiastowe |        Darmowe     |
-| Twoje Bank            |  Strona internetowa banku            |      Natychmiastowe |        Darmowe       |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 - Zawsze pamiętaj, aby zachować kopię raportu o kradzieży dla swoich dokumentacji.

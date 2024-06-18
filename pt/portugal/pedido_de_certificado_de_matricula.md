@@ -28,11 +28,11 @@ Qualquer pessoa que possua um veículo em Portugal ou esteja procurando importar
 ## Documentos necessários
 1. Documentos de importação para o veículo - Estes incluirão o "Documento Único Automóvel" ou DUA e prova de pagamento do imposto ISV (Imposto sobre o registo de veículos) obtido da "Autoridade Tributária e Aduaneira".
 
-## Prestadores que podem fazê-lo por si
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador       |     Website                            |     Prazos       |       Custo      |
-| --------------- | -------------------------------------- |  :-------------: | :--------------: |
-| IMT             |  [imt-ip.pt](http://www.imt-ip.pt)     |      15 dias     |        Variável  |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Lembre-se de verificar os padrões de emissão do seu veículo, pois Portugal possui requisitos rigorosos de limite de emissão. As verificações regulares são obrigatórias. Faça uma inspeção veicular abrangente após o registro, em um centro autorizado.

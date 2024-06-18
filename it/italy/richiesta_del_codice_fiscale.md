@@ -34,10 +34,10 @@ Chiunque abbia intenzione di risiedere, lavorare o svolgere qualsiasi tipo di at
 
 ## Provider che possono farlo per te
 
-| Provider   |          Sito Web        |    Tempi        |       Costo     |
-| -----------| ------------------------  | :-------------: | :------------: |
-| Consolato o Ambasciata Italiana | [Consolati Italiani](https://www.esteri.it/it/) | Fino a qualche settimana | Gratuito |
-| Agenzia delle Entrate Italiana | [Agenzia delle Entrate](https://www.agenziaentrate.gov.it/) | Immediato | Gratuito |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dettagli Aggiuntivi
 Anche se il Codice Fiscale è immediatamente necessario per la maggior parte delle attività, ci sono stati casi in cui gli utenti sono riusciti a ottenere servizi come contratti telefonici senza di esso. Tuttavia, avere un Codice Fiscale italiano renderà qualsiasi procedura amministrativa in Italia significativamente più semplice.

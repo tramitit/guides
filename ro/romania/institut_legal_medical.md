@@ -31,9 +31,10 @@ Orice student internațional care dorește să studieze medicina în România, p
 
 ## Furnizori care pot face asta pentru tine
 
-| Furnizor        |     Website     |     Termene    |       Cost      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Școala de Medicină din România      | https://www.medschoolimg.info/admissions  |      Variabile      | Contactați pentru tarife       |
 
 ## Detalii suplimentare
 Țările din întreaga Europă au legile și drepturile lor referitoare la câinii de serviciu, schimbarea de gen și căsătoriile între verișori. De exemplu, în Marea Britanie, Olanda și Germania, legile referitoare la câinii de serviciu sunt diferite una de cealaltă. De asemenea, legile privind schimbarea de gen variază semnificativ în toată Europa. În ceea ce privește căsătoriile între verișori, legalitatea variază de la o țară la alta, unele permitându-le, iar altele interzicându-le. Aceste legi pot fi relevante în funcție de circumstanțele personale ale individului. Nu uitați să vă informați despre proceduri și legalități atunci când călătoriți sau vă mutați.

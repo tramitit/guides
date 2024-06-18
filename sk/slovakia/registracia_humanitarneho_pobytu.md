@@ -33,9 +33,10 @@ Registrácia humanitárneho pobytu je proces, v rámci ktorého jednotlivci, kto
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ   |     Webová stránka     |     Časové harmonogramy    |       Cena      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Nórska riadiaca úrad pre imigráciu      |  [https://www.udi.no](https://www.udi.no/)      |  Rôzne      |   Rôzne      |
 
 ## Ďalšie podrobnosti
 Zatiaľ čo niektoré krajiny, ako napríklad Nórsko, vyžadujú víza na žiadosť o azyl, iné ako Slovensko, pre registráciu procesu víza nevyžadujú. Avšak, pamätajte si, že každá krajina má svoj vlastný proces a požiadavky na udelenie humanitárneho pobytu.

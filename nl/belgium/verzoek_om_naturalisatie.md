@@ -34,10 +34,10 @@ Dit geldt meestal voor immigranten of langdurige buitenlandse inwoners die aan b
 - Bewijs van economische integratie (zichzelf financieel onderhouden)
 
 ## Dienstverleners die dit voor u kunnen regelen
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
-| Dienstverlener  |     Website     |     Doorlooptijden    |       Kosten      |
-| --------------- | --------------- |  :-------------:      | :-------------:    |
-| Gemeente        |  https//:       |  6 - 24 maanden       | Variërend afhankelijk van de transactie |
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Aanvullende details
 Houd er rekening mee dat het naturalisatieproces langdurig kan zijn (meestal tussen 6 en 24 maanden) en continu legaal verblijf vereist. De doorlooptijden kunnen verschillen afhankelijk van individuele omstandigheden en lokale eisen. Juridisch advies moet indien nodig worden ingewonnen.

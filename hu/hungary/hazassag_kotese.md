@@ -31,10 +31,10 @@ Ez a vezető ideális magyar állampolgárok, lakosok és külföldiek számára
 - Ha az egyik vagy mindkettő nem magyar állampolgár, be kell nyújtania egy akadálymentességi igazolást annak igazolására, hogy jogilag szabadon házasodik. Ezt bármelyik ország nagykövetségénél Magyarországon lehet beszerezni.
 
 ## Szolgáltatók, akik megtehetik helyetted
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
-| Szolgáltató        |     Honlap     |     Időkeretek    |       Költség      |
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Helyi Kormányhivatal      |  [kormanyhivatal.hu](https://www.kormanyhivatal.hu)       |      30+ nap      |        Változó, az sürgősségtől függően      |
 
 ## További részletek
 - A folyamat kissé eltérhet külföldiek vagy nem-lakosok esetén. Ezért javasolt konzultálni a helyi kormányhivatallal vagy egy jogi tanácsadóval, aki jártas a magyar házassági törvényekben.

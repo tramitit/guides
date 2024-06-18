@@ -42,9 +42,10 @@ Tento proces je dôležitý pre ľudí, ktorí si želajú zmeniť svoje krstné
 
 ## Poskytovatelia, ktorí to môžu spraviť za vás
 
-| Poskytovateľ        |     Webová stránka     |     Časové harmonogramy    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Matričný úrad      |  [Ministerstvo vnútra Slovenskej republiky](http://www.minv.sk/?)       |      Rôzne podľa obce      |        Rôzne podľa obce       |
 
 ## Ďalšie podrobnosti
 - Dôvody pre zmenu mena môžu zahŕňať osobnú preferenciu, rozvod, sobáš alebo zjednodušenie.

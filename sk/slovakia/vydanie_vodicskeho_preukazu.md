@@ -36,9 +36,10 @@ Ideálny pre jednotlivcov, ktorí chcú legálne prevádzkovať motorizované vo
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ | Webová stránka | Časové harmonogramy | Náklady |
-| --------------- | --------------- | :-------------: | :-------------: |
-| Lokálne autoškoly | Prehľadávanie miestnych ponúk by malo poskytnúť výsledky v súlade s tým | Závislosť na rýchlosti učenia a úspechu pri skúškach | Náklady sa môžu líšiť, odporúča sa porovnávať ponuky miestne |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Vodičský preukaz z krajín mimo Európskej únie je v Slovensku povolený maximálne jeden rok. Ak pochádzate z krajiny mimo EÚ, odporúča sa získať medzinárodný vodičský preukaz. Majte na pamäti, že musíte vždy nosiť aj tento spolu so svojím bežným vodičským preukazom pri jazde.

@@ -34,10 +34,10 @@ Pamiętaj, że dokumenty mogą wymagać tłumaczenia na niemiecki lub polski i n
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie
 
-| Dostawca        |     Strona internetowa     |     Terminy    |       Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Polskie Biuro Narodowe      | [Link](https://obywatel.gov.pl/)       |  Zmienny, skontaktuj się bezpośrednio w celu uzyskania informacji      |        Zależy od konkretnej potrzeby       |
-|Niemiecka Strona Urzędu Stanu Cywilnego | [Link](http://www.standesamt.com) | Zmienny, skontaktuj się bezpośrednio w celu uzyskania informacji | Zależy od konkretnej potrzeby |
 
 ## Dodatkowe informacje
 Prosimy zauważyć, że procedury i wymagania dokumentów mogą się różnić, dlatego zawsze najlepiej jest skontaktować się bezpośrednio z odpowiednim biurem w celu uzyskania najbardziej precyzyjnych informacji.

@@ -36,11 +36,10 @@ Ez a szolgáltatás nélkülözhetetlen mindazoknak, akiknek azonosító vagy ut
 - Fizetési bizonylat (Ha a fizetést az időpont előtt végezte el)
 
 ## Az Ön számára elvégezhető szolgáltatók
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
-| Szolgáltató        |     Weboldal     |     Idővonalak    |       Költségek      |
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Magyar Bevándorlási Hivatal      |  [https://www.bmbah.hu/](https://www.bmbah.hu/)      |      Az adott dokumentum típusától függően változik      |        Az adott dokumentumtípustól függően változik      |
-| VFS Global (Schengeni Vízum) | [https://www.vfsglobal.com/](https://www.vfsglobal.com/) |  Az eredeti országtól és a vízum típusától függően változik | Országonként és vízum típustól függően változik |
 
 ## További részletek
 Kérjük, vegye figyelembe, hogy mindig ellenőrizze a megfelelő szolgáltató hivatalos weboldalát a legfrissebb információkért a dokumentumkövetelményekről, az időpontokról és a költségekről. Készüljön fel az összes szükséges dokumentummal az időpont előtt, hogy zökkenőmentesen menjen végbe az eljárás.

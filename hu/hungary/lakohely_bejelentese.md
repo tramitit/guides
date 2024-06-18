@@ -34,9 +34,10 @@ Kérjük, vegye figyelembe, hogy minden dokumentumot le kell fordítani magyar n
 
 ## Szolgáltatók, akik segíthetnek
 
-| Szolgáltató        |     Weboldal     |     Időkeretek    |       Költség      |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Kormányzati Hivatal      |  [nyilvantarto.hu](https://nyilvantarto.hu/hu/online_szolgaltatasok)       |  15-30 nap     |  Ingyenes    |
 
 ## További részletek
 Amennyiben nem EU-állampolgárok törvényes tartózkodási engedélyre pályáznak egy EU-tagállamban, mint például Magyarország, a folyamat további lépéseket is magában foglalhat, mint például a tartózkodási engedély kérelmezése. Ilyen jellegű kérelem benyújtása általában azt követeli meg, hogy igazolják a jövedelem vagy anyagi stabilitás meglétét, egészségbiztosítási igazolást és erkölcsi bizonyítványt. Győződjön meg róla, hogy konzultál a helyi hatóságokkal vagy jogi szakértőkkel az esetleges speciális követelmények megerősítése érdekében az Ön esetében.

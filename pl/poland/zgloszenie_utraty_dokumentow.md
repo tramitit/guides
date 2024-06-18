@@ -34,9 +34,10 @@ Każda osoba przebywająca w Polsce, bez względu na obywatelstwo, która utraci
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie
 
-|   Dostawca               |      Strona internetowa                |   Czas trwania      |      Cena (PLN) |
-| -------------------    | -------------------             |  :-------------:   | :-------------:   |
-| Urząd Wojewódzki    | [Warszawa](http://www.mazowieckie.pl/en/), [Kraków](http://www.malopolska.uw.gov.pl/default.aspx?page=Start) | 2-3 godziny      | Zmienna |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 

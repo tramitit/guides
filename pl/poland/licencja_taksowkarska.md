@@ -33,9 +33,10 @@ Ta usługa jest idealna dla osób, które chcą pracować jako kierowcy taksówk
 
 ## Usługodawcy, którzy mogą to zrobić za Ciebie
 
-| Usługodawca      |     Strona internetowa     |     Terminy    |       Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| TODO      |  https//:       |      x dni      |        $X       |
 
 ## Dodatkowe informacje
 - W Polsce dostępne jest także Uber, jeśli wolisz alternatywny sposób przemieszczania się. Jednak kierowcy Ubera także powinni rozważyć uzyskanie licencji taksówkarskiej ze względu na lokalne przepisy.

@@ -49,9 +49,10 @@ I cittadini non-UE, inclusi gli americani, che intendono risiedere, lavorare o s
 
 ## Fornitori che possono assisterti
 
-| Provider        |     Sito Web     |     Tempi    |       Costi      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Poste Italiane   |  [https://www.poste.it](https://www.poste.it)     | dipende dagli appuntamenti disponibili     |       I costi variano a seconda dei motivi e della durata del soggiorno      |
 
 ## Dettagli Aggiuntivi
 * Le regole e i regolamenti possono variare a seconda della tua nazionalità e delle tue circostanze personali. Si consiglia di verificare presso l'ambasciata italiana nel tuo paese di origine prima di viaggiare.

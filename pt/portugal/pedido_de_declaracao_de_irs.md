@@ -31,11 +31,11 @@ Este processo é necessário para todos os indivíduos que tenham recebido rendi
 - Detalhes de quaisquer benefícios, subsídios ou deduções não padronizadas
 - Formulário de declaração de imposto anterior (se aplicável)
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Autoridade Tributária |  [Link](https://www.portaldasfinancas.gov.pt/)       |      Variável, verifique sempre os prazos de declaração de impostos | Variável, dependendo da sua faixa de renda |
 
 ## Detalhes Adicionais
 - A Revolut continua pedindo para atualizar o NIF para aqueles que têm suas contas lá, então certifique-se de que suas informações estejam sempre atualizadas ([fonte](https://www.reddit.com/r/Revolut/comments/1bgxhzc/revolut_keeps_asking_to_update_tax_id_for_a/)).

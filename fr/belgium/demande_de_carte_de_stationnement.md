@@ -37,10 +37,10 @@ Les documents suivants sont couramment nécessaires, mais peuvent légèrement v
 N'oubliez pas de vérifier les exigences spécifiques dans votre juridiction car elles pourraient légèrement varier.
 
 ## Fournisseurs qui peuvent le faire pour vous
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Fournisseur     |     Site web     |     Délais      |       Coût      |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Conseil de la Ville de Bruxelles      |  https://www.brussels.be |  14 jours ouvrables |  Varie selon la zone |
 
 ## Détails supplémentaires
 - N'oubliez pas de renouveler votre carte de stationnement avant son expiration. Généralement, les cartes sont valables un an.

@@ -34,10 +34,10 @@ Oricine s-a căsătorit în România și are nevoie de dovada oficială a căsă
 Pentru ca certificatele să fie recunoscute în afara României, este posibil să fie nevoie de apostilare. Contactează Ministerul Administrației și Justiției Publice pentru acest proces.
 
 ## Furnizori care pot face acest lucru pentru tine
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
-| Furnizor        |     Website                                 |     Termene    |       Cost      |
-| --------------- | ----------------------------------|  :-------------: | :-------------: |
-| Primăria Română |  N/A (Prezintă-te personal)       |      Imediat (la căsătorie)      |        Gratuit       |
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Când un cetățean român se căsătorește cu un străin, certificatul de căsătorie trebuie transcris autorităților române. Transcrierea certificatului de căsătorie se realizează la primăriile din România sau la birourile consulare române din străinătate.

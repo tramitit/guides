@@ -40,9 +40,10 @@ Veți avea nevoie de următoarele documente:
 
 ## Furnizorii care pot face acest lucru pentru dvs.
 
-| Furnizor        |     Site-ul                     |     Termenele de realizare        |       Costul         |
-| --------------- | -------------------- |  ------------- | :-------------:| 
-| ANAF                 |  [http://www.anaf.ro/](http://www.anaf.ro/) |      Depinde de caz |        Gratuit       |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Certificatul fiscal este valabil pe o perioadă de 12 luni. Păstrați certificatul fiscal emis în siguranță, deoarece s-ar putea să aveți nevoie să-l furnizați ca dovadă a rezidenței fiscale către diverse instituții financiare și s-ar putea să dureze ceva timp să obțineți o înlocuire în caz de pierdere.

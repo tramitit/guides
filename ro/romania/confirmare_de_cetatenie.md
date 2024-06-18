@@ -32,10 +32,10 @@ Persoanele care au dublă cetățenie, persoanele care planifică să lucreze, s
 - Documentul de identitate: Un card de identitate sau pașaport valabil pentru identificare.
 
 ## Furnizori care pot face acest lucru pentru tine
-| Furnizor               |           Website          |      Termene     |        Cost       |
-| ---------------------- |  ------------------------- | :-----------------:| :---------------: |  
-| Primăria locală       |          N/A               |     Variabil       |        Diferă în funcție de taxele locale |
-| Departamentul de Cetățenie și Migrație| [Link](http://igi.mai.gov.ro)     |      Variabil      |       Diferă     |   
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 - Este întotdeauna benefic să menții o cetățenie dublă, având în vedere diferitele avantaje pe care le oferă, precum oportunități de călătorie, muncă și educație mai accesibile.

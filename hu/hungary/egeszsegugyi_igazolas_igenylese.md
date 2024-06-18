@@ -33,9 +33,10 @@ Minden olyan egyén, aki részt kíván venni egy maratonon vagy bármilyen megt
 
 ## Szolgáltatók, akik ezt megtehetik Önnek
 
-| Szolgáltató    |     Weboldal              |        Időkeretek       |       Költség      |
-| -------------- | ---------------------- |  :---------------:      | :-------------: |
-| Háziorvos | [www.egeszsegugy.hu](https://www.egeszsegugy.hu) |    Változó   |  Egyéni egészségbiztosítástól függően |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 

@@ -34,9 +34,10 @@ Ezt a bizonyítványt leggyakrabban azoknak a embereknek szükséges beszerezni�
 
 ## Szolgáltatók, akik elintézik Ön helyett
 
-| Szolgáltató        |     Honlap     |     Időkeretek    |       Költség      |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| NYESZE (National Accreditation Authority for Translators and Interpreters Ltd.)      |  [www.nyeak.gov.hu](http://www.nyeak.gov.hu/)       |      Változik a vizsgaidőponttól függően      |        Változó a vizsga alapján |
 
 ## További részletek
 A lépések bonyolultsága és sorrendje változhat az adott nyelvnek megfelelően, amelyből a vizsgát teszi. Ne felejtse el konzultálni a specifikus vizsgaközponttal a folyamat, követelmények és további részletek, mint például a díjak vagy felkészülési anyagok kapcsán a legpontosabb információkért.

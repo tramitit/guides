@@ -34,9 +34,10 @@ Chiunque si sia sposato in Italia e necessiti di una prova del proprio matrimoni
 
 ## Fornitori che possono farlo per te
 
-| Fornitore        |     Sito web     |     Tempi    |       Costo      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ufficio Anagrafe Italiano     |  Non disponibile online       | Varia in base al Comune e ai servizi postali  | Varia in base al Comune |
 
 ## Dettagli aggiuntivi
 Anche se il processo potrebbe sembrare semplice, ricorda che potrebbe richiedere del tempo a causa del lento ritmo delle procedure burocratiche in Italia, specialmente nei Comuni più piccoli. Potrebbe essere utile avere pazienza e avviare il processo con largo anticipo rispetto alla data in cui hai bisogno del certificato.

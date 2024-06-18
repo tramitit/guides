@@ -36,9 +36,10 @@ Przede wszystkim jest on wymagany przez obywateli polskich planujących podróż
 
 ## Podmioty, które mogą załatwić to za Ciebie
 
-| Dostawca       |     Strona internetowa     |     Terminy    |       Koszty      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Polski Rząd  |  https://www.gov.pl/ (może być konieczne użycie narzędzia do tłumaczenia)   |      Różni się      |        Różni się       |
 
 ## Dodatkowe informacje
 - Musisz być obywatelem polskim, aby złożyć wniosek o polski paszport.

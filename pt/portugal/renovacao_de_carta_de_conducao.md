@@ -33,13 +33,11 @@ Poderá ser necessário apresentar os seguintes documentos, entre outros, depend
 - Carta de condução atual
 - Cumprimento de quaisquer requisitos médicos
 
-## Prestadores que podem fazê-lo por si
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| DVLA            |  [Site da DVLA](https://www.gov.uk/renew-driving-licence)      |     1-3 semanas      |  Cerca de £14 online, £17 por correio |
-| IMT      |  [Site do IMT](https://www.imt-ip.pt/)             |      Variável      |        Variável       |
-| DETRAN  | [Site do DETRAN](http://www.detran.sp.gov.br/) |       Variável       |       Variável       |
 
 ## Detalhes adicionais
 Os preços e procedimentos podem variar de local para local. Em alguns casos, pode ser necessário solicitar através de um consulado ou embaixada local. Além disso, alguns governos podem ter requisitos para que os residentes convertam para cartas de condução locais após um certo período de tempo a viver no país. Certifique-se de verificar minuciosamente as regulamentações locais antes e durante o processo de renovação.

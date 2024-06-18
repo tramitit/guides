@@ -33,9 +33,10 @@ Oricine deține un vehicul (folosit sau nou) în România sau oricine a importat
 
 ## Furnizori care pot face acest lucru pentru tine
 
-| Furnizor        |     Website                     |     Perioada    |       Cost      |
-| --------------- | ------------------------------- | :--------------: | :-------------: |
-| RCI Leasing     |  [Rci-romania.ro](http://www.rci-romania.ro/) |      Variabil      |        Variabil       |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 - Dacă vehiculul a fost importat, trebuie plătită și asigurarea și impozitul pentru poluare al vehiculului.

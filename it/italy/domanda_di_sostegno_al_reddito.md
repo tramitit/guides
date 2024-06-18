@@ -38,10 +38,10 @@ I seguenti documenti sono necessari per richiedere il reddito di cittadinanza:
 - Certificato ISEE, che misura la situazione economica dell'individuo o della famiglia
 
 ## Fornitori che possono farlo per te
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
-| Fornitore      |     Sito web    |     Tempistiche    |       Costi     |
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| CAF CGIL       |  [caf.cgil.it](https://www.caf.cgil.it/)       |      Variabili      |        Gratuito       |
 
 ## Dettagli aggiuntivi
 

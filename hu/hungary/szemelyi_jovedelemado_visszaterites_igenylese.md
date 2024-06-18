@@ -38,11 +38,10 @@ Kérjük, vedd figyelembe, hogy a folyamat kissé eltérhet az országod adósza
 A dokumentumok kissé eltérhetnek a helyi adó törvények alapján.
 
 ## Szolgáltatók, akik elvégezhetik helyetted
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
-| Szolgáltató | Weboldal | Időkeret | Költség |
-| --------------- | --------------- | :-------------: | :-------------: |
-| TaxAct | [taxact.com](https://www.taxact.com/) | 1-2 hét | Változó |
-| TurboTax | [turbotax.intuit.com](https://turbotax.intuit.com/) | 1-2 hét | Változó |
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 Az ilyen országokban, mint Hollandia, az adófizetők adóvisszatérítést vagy visszatérítést kérhetnek bizonyos típusú ingatlani adókra (onroerende zaken). A folyamat eltérhet az országtól és az adótípustól függően, tehát győződj meg róla, hogy a helyi vagy nemzeti adóhatóság weboldalán megbízható információkat találsz. Fontos megjegyezni, hogy az adóelőkészítési szolgáltatásoknak általában van költsége, de egyszerűsíthetik a folyamatot, és biztosítják, hogy a bevallásod helyesen legyen kitöltve.

@@ -36,9 +36,10 @@ Questa procedura è obbligatoria per tutti gli individui nati, sposati o decedut
 
 ## Fornitori che possono farlo per te
 
-| Fornitore        |     Sito Web     |     Tempistiche    |       Costi      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ambasciata / Consolato Italiano      |  [Link](http://www.esteri.it/)       |      Varie      |        Gratuito, a meno che non sia richiesta la traduzione legalizzata del documento       |
   
 ## Dettagli Aggiuntivi
 - Registrazione AIRE: I cittadini italiani residenti all'estero possono registrare il loro stato e le modifiche nel loro stato civile con l'AIRE (Anagrafe degli Italiani Residenti all'Estero).

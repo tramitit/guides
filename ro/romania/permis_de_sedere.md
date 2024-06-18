@@ -42,9 +42,10 @@ Un permis de ședere este necesar pentru cetățenii non-UE care plănuiesc să 
 
 ## Furnizori care pot obține permisul în locul dumneavoastră
 
-| Furnizor        |     Website     |     Termene    |       Cost      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Inspectoratul General pentru Imigrări   |  [http://igi.mai.gov.ro](http://igi.mai.gov.ro)  |  30-60 zile | Variabil în funcție de naționalitate și tipul de permis |
 
 ## Detalii suplimentare
 În funcție de natura șederii dumneavoastră, s-ar putea să trebuiască să reînnoiți permisul de ședere cu cel puțin 30 de zile înainte de expirare. De asemenea, verificați întotdeauna cu Ambasada sau Consulatul României și cu Inspectoratul General pentru Imigrări pentru actualizări și modificări în proces.

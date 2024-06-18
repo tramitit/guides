@@ -31,11 +31,11 @@ Este serviço é necessário por qualquer pessoa que tenha vendido seu carro par
 - 'Auto de Compra e Venda' do Cartório ou Advogado.
 - Se o carro for importado, é necessário um certificado de conformidade.
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IMT Portugal    | [IMT Online](https://servicos.imt-ip.pt/)  |      10-15 dias |        Varia dependendo do carro   |
 
 ## Detalhes Adicionais
 - Pode haver penalidades se você não concluir o procedimento de mudança de propriedade rapidamente após a venda do veículo.

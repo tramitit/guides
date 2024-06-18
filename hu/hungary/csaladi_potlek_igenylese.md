@@ -33,9 +33,10 @@ A családi pótlék igényléséhez szükséges dokumentumok lehetnek:
 
 ## Szolgáltatók, akik intézhetik Ön helyett
 
-| Szolgáltató      |      Honlap        |   Időkeretek  |    Költség      |
-| ---------------- | ------------------- | :----------: | :-------------: | 
-| Családsegítő Szolgálat   |  [Honlap](http://www.socmap.gov.hu/family)  |  változó    |        Ingyenes       |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 Ne felejtsd el, hogy a családi pótlék igénylési eljárása és jogosultsága változhat az adott helyi szabályozás, valamint az aktuális jövedelmi és foglalkoztatási helyzet függvényében. Ezért kiemelten fontos, hogy tájékozódj a konkrét részletekről a helyi családsegítő szolgálat irodájában. Emellett a családi pótlék összege változhat a gyermek korától függően, attól, hogy fogyatékos-e, vagy hogy van-e több eltartott gyermek a családban.

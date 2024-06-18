@@ -32,11 +32,11 @@ Pessoas que possuem um Cartão de Residência de Portugal e mudaram seu endereç
 
 Por favor, note que todos os documentos precisam estar em português ou traduzidos para o português por um tradutor certificado.
 
-## Provedores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Provedor        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Serviço de Estrangeiros e Fronteiras (SEF)     |  [SEF](https://www.sef.pt/)       |      Variável      |        Gratuito       |
 
 ## Detalhes Adicionais
 Lembre-se de fazer a notificação de mudança de endereço o mais rápido possível após se mudar. Isso ajuda a estar em conformidade com a lei de imigração de Portugal. Esteja ciente de que a falta de fazê-lo pode levar a implicações legais.

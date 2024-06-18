@@ -32,10 +32,10 @@ Qualsiasi individuo che pianifica di partecipare a un'attività che richiede la 
 
 ## Fornitori che possono farlo per voi
 
-| Fornitore        |     Sito web     |     Tempi    |       Costo      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Medico Generico (SSN) |  [SSN](https://www.sanita.gov.it/)        |      Variabile      |        Gratuito/Prezzo simbolico       |
-| Medico Privato      |  Variabile       |      Variabile      |        Variabile       |
 
 ## Dettagli aggiuntivi
 Tenete presente che il certificato medico deve essere specifico per l'attività che state per intraprendere. Ad esempio, un certificato per il ciclismo potrebbe non essere valido per una maratona. Consultate sempre l'organizzazione che richiede il certificato per assicurarvi di ottenere la certificazione corretta.

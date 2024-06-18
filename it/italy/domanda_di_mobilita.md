@@ -32,9 +32,10 @@ Giovani individui che stanno pianificando di viaggiare, lavorare o vivere tempor
 
 ## Fornitori che possono gestirlo per te
 
-| Fornitore |     Sito web     |     Tempistiche    |       Costi      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Visa4UK |  [Visa4UK](https://www.gov.uk/apply-uk-visa)       |      3-6 settimane      |        Variabile       |
 
 ## Dettagli aggiuntivi
 - Il processo potrebbe richiedere alcune settimane. È importante iniziare la domanda con anticipo rispetto alla data di viaggio desiderata.

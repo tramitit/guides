@@ -38,11 +38,10 @@ Je nevyhnutný pre jednotlivcov, ktorí sú občanmi Slovenska a potrebujú cest
 Poznámka: Uistite sa, že všetky vaše dokumenty sú aktuálne a overené.
 
 ## Poskytovatelia, ktorí to za vás môžu urobiť
-| Poskytovateľ    |     Webová stránka                                 |     Časové rámce      |      Náklady       |
-| --------------- | ---------------------------------- |  :-------------:  | :-------------: |
-| Regionálny úrad |  [Odkaz](https://www.minv.sk/) |     ~30 dní        |       Neuvedené       |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
-Informácie o nákladoch môžete získať priamym kontaktom s regionálnym úradom.
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Uistite sa, že všetky informácie v žiadosti sú presné a zodpovedajú s predloženými dokumentmi. Chyby alebo rozpory môžu viesť k zamietnutiu žiadosti alebo k oneskoreniu. Starý pas, ak je to možné, si ponechajte v bezpečí, pretože by mohol byť počas procesu vyžadovaný.

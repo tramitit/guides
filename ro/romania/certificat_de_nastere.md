@@ -33,9 +33,10 @@ Documentele necesare pot varia, dar includ în general:
 
 ## Furnizori care pot face acest lucru pentru dumneavoastră
 
-| Furnizor        |     Website     |     Timpul de livrare    |       Costul      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Direcția de Stare Civilă - România | [Website Link](http://www.djn.ro/) |   Variază |   Variază |
 
 ## Detalii suplimentare
 Vă rugăm să rețineți că procesul poate varia în funcție de situația individuală a fiecăruia. Se recomandă consultarea cu oficialii relevanți sau cu experți legali pentru ghidare. În plus, pentru cei care locuiesc în străinătate, consultați cea mai apropiată ambasadă sau consulat românesc. S-ar putea să fie necesară și o traducere a documentelor care nu sunt în limba română.

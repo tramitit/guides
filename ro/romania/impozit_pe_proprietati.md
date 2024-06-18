@@ -36,9 +36,10 @@ Documentele necesare includ:
 
 ## Furnizori care pot face aceste lucruri pentru tine
 
-| Furnizor        |     Website                  |     Timpuri estimative    |       Cost          |
-| --------------- | ---------------              |  :-------------:        | :-------------:     |
-| Ghiseul.ro      |  [ghiseul.ro](https://ghiseul.ro)    |  Variabil, în funcție de proprietate    | Rata de impozitare a proprietății variază în funcție de dimensiunea proprietății, tip și regiune |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 România urmează să impună reținerea impozitului pe profituri de capital. Aceasta înseamnă că orice profit obținut din vânzarea proprietății dvs. ar trebui să fie impozitat, ceea ce ar trebui să fie luat în considerare atunci când calculați totalul impozitelor datorate.

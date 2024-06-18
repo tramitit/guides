@@ -35,9 +35,10 @@ Proces jest konieczny dla każdego mieszkańca Polski, który przeprowadził si�
 
 ## Usługi, które mogą to zrobić za Ciebie
 
-| Usługodawca                |    Strona internetowa          |      Terminy      |      Koszt     |
-| --------------------------  | ------------------------------ |  :--------------: | :-----------: |
-| Biuro Gminy                |  Nie dotyczy                   |  Różnią się       |  Różni się    |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Proces może zająć różną ilość czasu w zależności od szczegółów Twojego przypadku i szybkości działania lokalnego biura gminy. Zaleca się poproszenie o oszacowany termin podczas wizyty. Ponadto, opłaty mogą się różnić w zależności od charakteru zmiany. Na przykład, prosta zmiana adresu może kosztować mniej niż zmiana z powodu znaczących zmian w pojeździe.

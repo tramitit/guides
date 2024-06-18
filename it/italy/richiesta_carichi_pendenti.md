@@ -33,9 +33,10 @@ Si prega di notare che le procedure esatte potrebbero variare e in alcuni casi p
 
 ## Fornitori che possono farlo per te
 
-| Fornitore      |     Sito Web     |     Tempi    |       Costo      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Ministero della Giustizia, Italia      |  https://www.giustizia.it       | Variabile| Variabile |
 
 ## Dettagli aggiuntivi
 

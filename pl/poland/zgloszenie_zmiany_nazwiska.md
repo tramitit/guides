@@ -38,9 +38,10 @@ Dokument prawny zatwierdzający zmianę nazwiska może być dostarczony przez or
 
 ## Dostawcy, którzy mogą to dla Ciebie załatwić
 
-| Dostawca        |     Strona internetowa     |     Terminy    |       Koszty      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Urząd gminy     |  Brak informacji  |      Różni się     |        Różni się   |
 
 ## Dodatkowe informacje
 Całkowity czas może znacząco się różnić w zależności od powodu zmiany nazwiska. Banki i inne prywatne firmy mają swoje własne zasady i procedury dotyczące procesowania zmian nazwisk. W każdym przypadku możesz być zobowiązany do przedstawienia dokumentów uzasadniających zmianę nazwiska, jak świadectwo małżeństwa. Sprawdź z każdym z nich, co musisz zrobić.

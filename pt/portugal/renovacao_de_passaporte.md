@@ -35,12 +35,12 @@ Este serviço é necessário para cidadãos portugueses que vivem no exterior cu
 1. Passaporte expirado ou expirando: você deve apresentar este documento durante o seu horário agendado.
 
 2. Duas fotografias coloridas recentes (3,5 x 4,5 cm): estas fotografias devem ser tiradas em um fundo liso, de cor clara e uniforme.
+  
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-## Prestadores de Serviços que podem fazer para Você
-
-| Prestador       |       Site       |     Prazos    |       Custo        |
-| --------------- | ---------------- |  :----------: | :----------------: |
-| Embaixada/Consulado Português |  [Embaixadas e Consulados de Portugal](https://www.portaldascomunidades.mne.gov.pt/pt/rede-consular/portugal-no-estrangeiro)    |      Aproximadamente 5 - 10 dias úteis      |        Varia dependendo da localização       |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 Lembre-se de verificar os requisitos e procedimentos específicos para o seu consulado local, pois pode haver variações dependendo da sua localização. Você pode ser solicitado a apresentar identificação adicional durante o seu horário agendado, e pode haver requisitos específicos para as fotografias. Sempre verifique as taxas e os métodos de pagamento com o seu consulado, pois estes podem variar.

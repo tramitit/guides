@@ -35,9 +35,10 @@ Osoby, które przeszły znaczące zmiany w swoich dokumentach tożsamości mogą
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie
 
-| Dostawca        |     Strona internetowa     |     Terminy    |       Koszty      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Urząd Miejski |  Zależy od lokalizacji |      Różni się w zależności od lokalizacji i przypadku |        Koszty mogą się różnić w zależności od lokalizacji i złożoności   |
 
 ## Dodatkowe informacje
 Upewnij się, że zaktualizujesz wszystkie miejsca, w których używano Twego starego dowodu osobistego. Mogą to być Twoje banki, szkoły lub miejsca pracy, dla poprawnych danych.

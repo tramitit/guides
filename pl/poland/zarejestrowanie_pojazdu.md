@@ -35,9 +35,10 @@ Każda osoba, która niedawno zakupiła lub sprowadziła samochód, motocykl, sk
 
 ## Usługodawcy, którzy mogą to zrobić za Ciebie
 
-| Usługodawca        |     Strona internetowa     |     Terminy    |       Koszty      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| PZU SA         |  [https://www.pzu.pl](https://www.pzu.pl/)       |      1-3 dni     |        Zależy od rodzaju i wieku pojazdu        |
 
 ## Dodatkowe szczegóły
 Tablice rejestracyjne w Polsce składają się z dwóch części oddzielonych myślnikiem: pierwsza część odnosi się do Powiatu, a druga część to unikalny numer dla Twojego pojazdu. Powodzenie przetworzenia Twojego wniosku spowoduje przydzielenie takich tablic.

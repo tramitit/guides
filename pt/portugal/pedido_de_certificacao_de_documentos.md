@@ -34,12 +34,11 @@ Os documentos necessários dependeriam da natureza do pedido. No entanto, alguns
 - Tradução notarizada do documento (se não estiver em português)
 - Formulário de inscrição (específico para a agência certificadora)
 
-## Prestadores de serviços que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador       |     Site         |     Prazos       |       Custo     |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Cartório        |  N/A            |      Variados    |    Variados     |
-| Autoridade Legal |   N/A          |       Variados   |       Variados  |
 
 ## Detalhes adicionais
 - Para documentos relacionados a impostos, como uma conta de corretagem, você pode precisar preencher determinados formulários (como "Formulário 836") com seu corretor, que deve então encaminhá-lo para as autoridades fiscais.

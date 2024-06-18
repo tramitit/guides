@@ -34,11 +34,11 @@ Qualquer pessoa que cumpra os seguintes critérios:
 - Prova de residência portuguesa: Se os seus pais estavam a residir em Portugal no momento do seu nascimento.
 - Comprovativo de residência legal em Portugal: Para aqueles que residiram em Portugal pelo período mínimo exigido.
 
-## Prestadores que podem fazer isso por si
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador       |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Registo Central      |  [Website](https://www.irn.justica.gov.pt/sections/irn/a_registral/registos-centrais/docs-da-nacionalidade/processo-da-nacionalidade)      |  6-12 meses      |   A determinar        |
 
 ## Detalhes adicionais
 - O procedimento pode variar ligeiramente dependendo da sua situação individual, por isso é crucial investigar e entender completamente o processo.

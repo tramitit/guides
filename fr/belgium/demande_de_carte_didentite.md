@@ -31,12 +31,10 @@ Tout étranger inscrit et résidant en Belgique ainsi que les citoyens belges â
 2. Deux photos d'identité récentes.
 
 ## Fournisseurs qui peuvent le faire pour vous
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Fournisseur        |     Site Web     |     Délais    |       Coût      |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Votre commune locale   |  N/A       |      2 semaines      |        €25*  (environ)   |
-
-\*Les frais peuvent varier légèrement en fonction de votre commune locale.
 
 ## Détails supplémentaires
 - Si vous oubliez votre code PIN, vous pouvez en demander un nouveau à la commune locale ou sur le portail fédéral (https://www.ibz.rrn.fgov.be).

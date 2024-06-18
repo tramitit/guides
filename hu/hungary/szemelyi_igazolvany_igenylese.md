@@ -35,9 +35,10 @@ Minden Magyarország lakosa, legyen az helyi vagy külföldi állampolgár, ide�
 Kérjük, vegye figyelembe: az összes dokumentum változhat az kiadó intézmény szabályainak és az változásainak függvényében. Mindig győződjön meg arról, hogy ellenőrizze az alkalmazás folyamata megkezdése előtt szükséges dokumentumokat.
 
 ## Szolgáltatók, akik segíthetnek
-| Szolgáltató     |     Honlap      |       Időkeretek      |       Költség      |
-| --------------- | --------------- |  :----------------:   | :----------------: |
-| Helyi Városháza |  Nem elérhető   |  Kb. 2 hét            |    Változhat       |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 Mindig ügyeljen a személyes adatok védelmére. Kerülje a személyes adatok vagy az ID kártya, útlevél vagy más személyes dokumentumok másolatainak megosztását olyan platformokon, mint az Airbnb, hogy elkerülje az esetleges visszaélés lehetőségét.

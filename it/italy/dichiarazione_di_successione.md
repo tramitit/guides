@@ -34,10 +34,10 @@ Chiunque abbia inaspettatamente o potenzialmente ricevuto un'eredità dopo la mo
 
 ## Fornitori che possono assisterti
 
-| Fornitore       |     Sito Web     |     Tempi    |     Costo     |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Notaio Italiano  |  [Notai.it](https://notai.it/) |  Dipende dai singoli casi  |  Varia in base alla complessità |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 ## Dettagli aggiuntivi
 - Se il defunto non ha lasciato un testamento, secondo la legge italiana, l'eredità passa ai parenti più prossimi.
 - L'imposta di successione in Italia varia a seconda del rapporto con il defunto. Ad esempio, coniugi e figli hanno significative detrazioni fiscali.

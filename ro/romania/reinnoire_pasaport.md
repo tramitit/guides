@@ -35,9 +35,10 @@ Veți avea nevoie de următoarele documente:
 
 ## Furnizori care pot efectua acest serviciu pentru dvs.
 
-| Furnizor        |     Website                             |     Termene    |       Cost      |
-| --------------- | --------------------------------------  |  :-------------: | :-------------: |
-| Guvernul României |  [site](https://www.politiadefrontiera.ro/)  |      90 de zile      |        Depinde de serviciul selectat       |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Rețineți că timpul de procesare poate dura până la 3 luni, așadar planificați-vă reînnoirea pașaportului în avans pentru a evita orice probleme de ultim moment. De asemenea, va trebui să plătiți o taxă de poliție de 18 RON la biroul unde se face cererea. În unele cazuri, prezentarea unei dovezi de urgență poate accelera timpul de procesare. Dacă aplicați din străinătate, contactați cea mai apropiată ambasadă sau consulat românesc pentru instrucțiuni suplimentare.

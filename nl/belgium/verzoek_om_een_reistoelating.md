@@ -38,9 +38,10 @@ Het verkrijgen van deze documenten vereist vaak voorafgaande planning en interac
 
 ## Aanbieders die het voor u kunnen doen
 
-| Aanbieder          |     Website     |     Tijdlijnen    |       Kosten      |
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
+
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| VisaHQ      |  [https://www.visahq.com/](https://www.visahq.com/)      |      Variabel      | Variabel op basis van uw locatie en nationaliteit       |
 
 ## Aanvullende details
 Reistoestemmingen of visa kunnen worden geweigerd om verschillende redenen; het is altijd belangrijk om op tijd aan te vragen en volledige en nauwkeurige informatie te verstrekken. Raadpleeg altijd de website van de relevante ambassade of consulaat voor actuele informatie over visumvereisten, aangezien deze onderhevig zijn aan veranderingen.

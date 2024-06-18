@@ -34,9 +34,10 @@ Osoby zmieniające swoje dane kontaktowe z powodu przeprowadzki, obaw związanyc
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie (przykład)
 
-| Dostawca        |     Strona internetowa     |     Terminy    |       Koszt      |
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
+
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Oficjalna Usługa Przekierowania Poczty      |  www.usps.com       |      7-10 dni      |        $1.05       |
 
 ## Dodatkowe informacje
 Rozważ zmianę danych kontaktowych w następujących instytucjach w celu ułatwienia komunikacji:

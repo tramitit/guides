@@ -38,9 +38,10 @@ Ideális szabadúszók, vállalkozók vagy bárki számára, aki saját vállalk
 
 ## Szolgáltatók, akik elvégezhetik Ön helyett
 
-| Szolgáltató    |     Honlap      |     Határidők    |      Költség     |
-| ---------------| ----------------|  :-------------:  | :-------------:  |
-| Szolgáltató 1  |  https//:       |      x nap       |         $X        |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 

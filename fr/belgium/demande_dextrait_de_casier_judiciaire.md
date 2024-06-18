@@ -34,11 +34,10 @@ Veuillez noter que le processus peut varier en fonction de la municipalité.
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-Actuellement, le service d'obtention d'un extrait de casier judiciaire ne peut être fourni que par la municipalité concernée en Belgique.
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
-| Fournisseur     |     Site Web    |     Délais       |       Coût      |
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Municipalité locale |  Non disponible |   Varie         |     Gratuit    |
 
 ## Détails supplémentaires
 

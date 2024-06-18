@@ -31,11 +31,11 @@ Para alterar o endereço, os seguintes documentos precisam ser fornecidos:
 - Seu Cartão de Cidadão.
 - Comprovante do seu novo endereço (validação NCMV, validação AT ou declaração do senhorio).
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website     |     Prazos    |       Custo      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| IRN      | [Website do IRN](https://www.irn.justica.gov.pt/)       |     Variável com base na data da consulta   |    Variável dependendo do serviço      |
 
 ## Detalhes Adicionais
 Certifique-se de que as informações no comprovante de endereço refletem com precisão seu novo local de residência. Dependendo do serviço escolhido, pode ser necessário ter um PIN para autenticação online. Os prazos e taxas podem diferir dependendo do caso individual e da localização. Certifique-se de verificar os detalhes de custo e prazo ao enviar seus documentos para a mudança de endereço.

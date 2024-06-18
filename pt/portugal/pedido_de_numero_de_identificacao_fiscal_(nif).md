@@ -33,11 +33,11 @@ Por favor, note que o processo pode diferir ligeiramente dependendo se você é 
 - Para não residentes, pode ser necessário um endereço em Portugal que possa ser usado para correspondência. Se você não tiver um endereço em Portugal, você pode nomear um representante fiscal que seja residente de Portugal.
 Por favor, note que os requisitos exatos podem variar, então é aconselhável verificar com a repartição de finanças local ou embaixada portuguesa.
 
-## Prestadores de serviço que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador      |     Website              |     Prazos    |        Custo             |
-| --------------- | ---------------------- |  :-------------: | :-------------: |
-| NIF Online      |  [NIF Online](https://www.nifonline.pt)    |      1-2 dias      |        Variado        |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - Você sempre deve informar seu NIF quando solicitado em transações financeiras.

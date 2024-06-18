@@ -40,9 +40,10 @@ Niet-EU-burgers die willen werken in België.
 
 ## Aanbieders die het voor u kunnen doen
 
-| Aanbieder       |     Website     |     Tijdschema's   |       Kosten                                                                 
+_(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
+
+| Aanbieder       |     Website     |     Termijnen    |       Kosten     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Fragomen        | [Website](https://www.fragomen.com/)  | Afhankelijk van elk geval  | Afhankelijk van elk geval |
 
 ## Aanvullende details
 

@@ -35,9 +35,10 @@ Egy egyházi okirat hiteles másolatának beszerzéséhez előfordulhat, hogy pr
 
 ## Szolgáltatók, akik ezt megtehetik helyetted
 
-| Szolgáltató              | Honlap                       | Időkeretek  | Költség |
-| ------------------------ | ---------------------------- | ---------- | ---- |
-| Budapesti Jegyzői Hivatal   | https://www.bp13.kormanyhivatal.hu/ | Változó, hívjon az egyeztetéshez | Az okirat típusától függően változó díjak |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 - Egy dokumentum hiteles másolata lehet szükséges ingatlanügyletekhez, cég alapításhoz és más közigazgatási folyamatokhoz Magyarországon.

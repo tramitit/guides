@@ -31,11 +31,11 @@ Qualquer pessoa que seja residente legal ou cidadão de Portugal, incluindo cria
 - Fotografia tipo passe: para o cartão.
 - Documento de identificação válido: para validar a sua identidade durante o processo de candidatura.
 
-## Prestadores que podem fazer por si
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website            |     Prazos    |       Custo          |
-| --------------- | ------------------- |  :-------------: | :-------------: |
-| IRN                 |  [https://www.irn.justica.gov.pt/](https://www.irn.justica.gov.pt/) | Depende do caso  |   Consultar o website   |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - O custo do Cartão de Cidadão varia consoante o caso.

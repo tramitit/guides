@@ -41,9 +41,10 @@ Na zrušenie vášho trvalého pobytu obvykle potrebujete:
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ   |     Webová stránka     |     Časové harmonogramy    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Imigračný úrad v krajine      |  Konkrétna krajina       |      Konkrétna krajina      |        Konkrétna krajina       |
 
 ## Ďalšie detaily
 Pamätajte, že po zrušení vášho statusu trvalého pobytu môžete stratiť určité práva a výhody v danej krajine. Je tiež dôležité mať na pamäti, že nie každá krajina umožňuje priamu zrušenie trvalého pobytu. V závislosti na predpisoch danej krajiny môžete musieť najprv zmeniť svoj status na dočasného obyvateľa alebo odísť z krajiny celkom. Vždy sa poraďte s imigračnými úradníkmi, aby ste si boli istí, že rozumiete zákonov a predpisov vo vašej konkrétnej situácii. Hoci sa postup môže líšiť v závislosti na konkrétnej krajine, vyššie uvedené kroky poskytujú všeobecný sprievodca tým, čo môžete očakávať. Profesionálna pomoc je vždy prospešná v takýchto prípadoch.

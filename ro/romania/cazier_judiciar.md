@@ -32,10 +32,10 @@ Documentele necesare pot varia de la țară la țară, dar în general veți ave
 2. Un formular de cerere (de obicei puteți găsi un model online sau să obțineți unul de la secția de poliție).
 
 ## Furnizorii care vă pot ajuta
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
-| Furnizor        |     Website                 |     Termene de livrare     |       Cost                             |
-| --------------- | --------------------------- |  :---------------------: | :-----------------------------: |
-| Poliția Română |  http://www.politiaromana.ro |  De obicei câteva zile |  De obicei o mică taxă administrativă  |
+| Furnizor        |     Website     |     Termene      |       Cost       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Vă rugăm să rețineți că dacă aveți nevoie de o verificare a cazierului judiciar dintr-o țară străină în timp ce vă aflați în România, sau din România în timp ce sunteți în străinătate, procedura ar putea fi ușor diferită. S-ar putea să fie nevoie să vizitați ambasada sau consulatul dvs., sau să contactați autoritatea legală străină corespunzătoare.

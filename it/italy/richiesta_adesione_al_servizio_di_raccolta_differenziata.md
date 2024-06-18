@@ -43,9 +43,10 @@ Potrebbe essere necessario fornire i seguenti documenti:
 2. Prova di indirizzo: potrebbe essere una bolletta dei servizi, un contratto di locazione o un atto di proprietà.
 
 ## Fornitori che possono farlo
-| Fornitore        |     Sito Web     |     Tempi    |       Costo      |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Consiglio Locale/Azienda di Gestione Rifiuti |  Gli URL dei siti web sono specifici alla località |  Varia in base alla località  | Varia in base alla località |
 
 ## Dettagli aggiuntivi
 Il servizio di raccolta differenziata potrebbe richiedere l'uso di bidoni o sacchetti colorati diversi per tipi di rifiuti diversi. Anche il calendario di raccolta è diverso per ogni tipo di rifiuto, assicurati quindi di controllarlo sul sito web del tuo consiglio locale o dell'azienda di gestione rifiuti. Alcune aree potrebbero anche avere punti di raccolta per alcuni tipi di rifiuti.

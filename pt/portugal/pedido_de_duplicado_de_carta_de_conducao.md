@@ -32,10 +32,11 @@ Qualquer condutor licenciado que tenha perdido, tido roubado ou danificado a sua
 - Prova de identidade (cartão de identificação ou passaporte)
 - Uma declaração que justifique a necessidade de uma duplicata (por exemplo, um relatório policial)
 
-## Entidades que podem ajudar
- | Entidade        |     Website     |     Prazos    |       Custo      |
- | --------------- | --------------- |  :-------------: | :-------------: |
- | Instituto da Mobilidade e dos Transportes |  [http://www.imt-ip.pt](http://www.imt-ip.pt) |    Até 15 dias    |      €30      |
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
+
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - Se solicitar a carta de condução duplicada devido a uma alteração nos seus dados pessoais (por exemplo, nome), deve apresentar documentação legal de suporte para a alteração.

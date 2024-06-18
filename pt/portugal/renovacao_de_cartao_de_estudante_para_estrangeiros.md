@@ -34,12 +34,11 @@ Este serviço é essencial para estudantes internacionais que estudam em Portuga
 - Comprovativo de matrícula na sua instituição.
 - Recibo do pagamento da taxa de renovação (se aplicável).
 
-## Prestadores que podem fazer isso por si
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website                      |     Prazos        |     Custo       |
-| --------------- | ---------------                  |  :-------------: | :-------------: |
-| Universidade de Lisboa    |  [universidade.ulisboa.pt](http://universidade.ulisboa.pt)     |      Até 20 dias úteis      |        Variável      |
-| Instituto Politécnico do Porto    |  [ipp.pt](https://www.ipp.pt)             |      Até 20 dias úteis      |        Variável      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 O procedimento de renovação e os requisitos podem variar de uma instituição académica para outra em Portugal, portanto, é aconselhável informar-se antecipadamente. Certifique-se sempre de que o seu cartão de estudante está num estado ativo, pois um cartão inativo ou expirado pode prejudicar o acesso a vários serviços e comodidades universitárias.

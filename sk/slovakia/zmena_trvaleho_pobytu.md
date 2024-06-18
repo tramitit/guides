@@ -34,9 +34,10 @@ Je to potrebné kýmkoľvek, kto si želá oficiálne označiť a registrovať n
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ   |     Webová stránka   |     Časové rámce    |       Náklady      |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Miestna samospráva      |  N/A |      Záleží na obci      |       Závisí od obce |
 
 ## Ďalšie podrobnosti
 Presťahovanie sa na Slovensko a stanie sa obyvateľom môže predstavovať tiež príležitosti získať občianstvo, najmä pre ľudí s slovenskými koreňmi. Odporúča sa porozumieť občianskym povinnostiam spojeným s zmenou trvalého pobytu, ako sú zmeny vo volebných právach, daňové povinnosti atď. Tento proces môžu absolvovať slovenskí občania aj cudzí štátni príslušníci žijúci na Slovensku, keď sa rozhodnú presťahovať v rámci krajiny.

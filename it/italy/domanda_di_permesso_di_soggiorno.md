@@ -39,9 +39,10 @@ Un permesso di soggiorno, altrimenti noto come 'permesso di soggiorno', è un do
 
 ## Fornitori che possono farlo per te
 
-| Fornitore        |     Sito Web     |     Tempi    |       Costo       |
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
+
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Poste Italiane      |  [https://www.poste.it](https://www.poste.it)|      60 - 120 giorni      |        Varia       |
 
 ## Dettagli aggiuntivi
 Ti sarebbe di grande aiuto se trovassi qualcuno fluente in italiano per aiutarti con la domanda. Il processo è complesso e in gran parte in italiano.

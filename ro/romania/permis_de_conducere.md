@@ -33,9 +33,10 @@ Orice persoană care are vârsta legală de a conduce în România, adică 18 an
 
 ## Furnizori care pot face acest lucru pentru tine
 
-| Furnizor        |     Website     |     Termene    |       Cost      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Școala de conducere ABC  | www.abcdrivingschool.ro |  Aproximativ 3 luni      |        Variază       |
 
 ## Detalii suplimentare
 - Anumite țări au acorduri de echivalență cu România în care permisul de conducere din țara ta de origine poate fi convertit într-un permis de conducere românesc.

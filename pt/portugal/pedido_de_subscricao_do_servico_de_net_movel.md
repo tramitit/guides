@@ -31,13 +31,11 @@ Qualquer pessoa que deseje permanecer conectada à internet em movimento, seja p
 ## Documentos necessários
 Normalmente, você precisará fornecer identificação e comprovante de endereço. Para não residentes, pode ser exigida a apresentação de passaporte ou documento de identidade equivalente.
 
-## Provedores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Provedor        |     Website     |     Cronograma    |       Custos      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| MEO             | [meo.pt](https://www.meo.pt/)            |      Variável      |        Variável       |
-| NOS             | [nos.pt](https://www.nos.pt/)            |      Variável      |        Variável       |
-| Vodafone        | [vodafone.pt](https://www.vodafone.pt/)            |      Variável      |        Variável       |
 
 ## Detalhes adicionais
 * A maioria dos planos de dados móveis requer um compromisso de pelo menos 12 meses, embora também existam planos pré-pagos sem compromisso de longo prazo.

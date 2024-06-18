@@ -35,9 +35,10 @@ Poznámka: Všetky zahraničné dokumenty musia byť preložené do slovenčiny 
 
 ## Poskytovatelia, ktorí to môžu urobiť za vás
 
-| Poskytovateľ |     Webová stránka       |     Termíny     |       Náklady      |
-| --------------- | -----------------------   |  :------------: | :-------------: |
-| Matričný úrad |  [Odkaz](http://www.minv.sk/?resortne-a-okresne-urady) |      Rôzne      |        Rôzne       |
+_(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
+
+| Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 

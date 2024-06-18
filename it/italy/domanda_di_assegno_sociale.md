@@ -35,12 +35,10 @@ Di solito dovrai fornire i seguenti documenti, anche se i dettagli possono varia
 - Eventuali altre documentazioni richieste dal governo locale.
 
 ## Fornitori che possono occuparsene per te
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
-I fornitori disponibili specifici dipenderanno dalla tua zona locale. Tuttavia, il sostegno sociale di solito viene fornito da organizzazioni governative.
-
-| Fornitore       |     Sito web      |     Tempistiche     |       Costi         |
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Governo locale  |  (Sito web del governo locale) | Varia | Varia |
 
 ## Dettagli aggiuntivi
 Assicurati di verificare la tua ammissibilità e comprendere appieno il processo di domanda prima di presentarla. Inoltre, tieni presente che i dettagli menzionati qui possono variare a seconda della tua zona locale: verificali sempre con l'autorità locale.

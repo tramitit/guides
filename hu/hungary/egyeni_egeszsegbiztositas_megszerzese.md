@@ -35,11 +35,10 @@ Az Ön által szükséges pontos dokumentumok változhatnak, de általában tart
 - Egészségügyi nyilatkozat vagy orvosi vizsgálat eredményei (néhány biztosítónál)
 
 ## Szolgáltatók, akik segíthetnek Önnek
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
-| Szolgáltató        |     Honlap     |     Határidők    |       Költségek      |
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Allianz        |  [https://www.allianz.hu](https://www.allianz.hu/)       |      Változó      |        Változó       |
-| Cigna Global      |  [https://www.cignaglobal.com/](https://www.cignaglobal.com/)       |      Változó      |        Változó       |
 
 ## További részletek
 - Magánegészségbiztosítási díjakért gyakran online is lehet árajánlatot kérni.

@@ -32,11 +32,11 @@ Qualquer pessoa que seja obrigada a divulgar seu histórico criminal para fins c
 
 Todos esses documentos devem estar acessíveis durante o processo, pois informações detalhadas serão solicitadas.
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador        |     Website     |    Prazos    |       Custos      |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Portal da Justiça Portuguesa      |  [https://justica.gov.pt/](https://justica.gov.pt/Registos/Criminal/Registo-Criminal)      |      1-3 dias úteis      |        A ser confirmado durante o processo de solicitação       |
 
 ## Detalhes adicionais
 Se você estiver fora de Portugal, ainda é possível solicitar isso através do Consulado Português em seu país ou através do Portal da Justiça Portuguesa, pois o certificado é fornecido eletronicamente. Se você estiver se candidatando a um emprego como motorista ou uma empresa de recrutamento está solicitando isso, provavelmente eles precisam garantir que você não tenha histórico criminal que possa afetar o seu cargo.

@@ -35,10 +35,10 @@ En général, cela s'applique aux immigrants ou aux résidents étrangers de lon
 
 ## Prestataires qui peuvent le faire pour vous
 
-| Prestataire     |     Site web    |     Délais       |       Coût      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| Commune/Gemeente|  https//:       |  6 - 24 mois     | Varie selon la transaction |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 ## Détails supplémentaires
 Veuillez noter que le processus de naturalisation peut être long (typiquement entre 6 et 24 mois) et nécessite une résidence légale continue. Les délais peuvent varier en fonction des circonstances individuelles et des exigences locales. Il est conseillé de consulter un conseiller juridique si nécessaire.
 

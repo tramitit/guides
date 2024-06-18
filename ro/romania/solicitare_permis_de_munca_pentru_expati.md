@@ -41,9 +41,10 @@ Documentele necesare pot varia în funcție de tipul de permis de muncă pentru 
 
 ## Furnizori care pot face acest lucru pentru dumneavoastră
 
-| Furnizor        |     Site web     |     Perioade de timp    |       Cost      |
+_(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
+
+| Furnizor        |     Website     |     Termene      |       Cost       |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| Inspectoratul General pentru Imigrări     |  http://igi.mai.gov.ro/       |      Variază      |        Variază       |
 
 ## Detalii suplimentare
 Permisul de muncă este emis în termen de 30 de zile de la data depunerii cererii, iar perioada sa de valabilitate este aceeași cu durata contractului individual de muncă.

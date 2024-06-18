@@ -34,9 +34,10 @@ Azoknak a magyarországi tartózkodási hellyel rendelkező személyeknek, akik 
 
 ## Olyan szolgáltatók, akik megtehetik helyetted
 
-| Szolgáltató      |     Honlap     |     Időablakok    |       Költség      |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| H&R Block      | [H&RBlock](https://www.hrblock.com/) |      Változó      | Változó       |
 
 ## További részletek
 Fontos, hogy nyomon kövesse az összes kriptovaluta tranzakcióját annak érdekében, hogy pontosan be tudja számolni nyereségét vagy veszteségét az adóbevallás során. A magyar adójogszabály jelenleg előír egy 15%-os jövedelemadót és egy 19,5%-os egészségbiztosítási hozzájárulást a virtuális valutával kapcsolatos tevékenységekből származó értéknövekedésre.

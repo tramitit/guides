@@ -36,10 +36,10 @@ Les candidats idéaux peuvent inclure des employés déménageant pour le travai
 
 ## Fournisseurs qui peuvent le faire pour vous
 
-| Fournisseur      |     Site Web     |     Délais    |       Coût      |
-| ------------- | --------------- |  :-------------: | :-------------: |
-| KPMG Belgique  |  [KPMG](https://home.kpmg/be/en/home.html)       |       Varie en fonction des spécificités de chaque cas         |        Varie en fonction des spécificités du cas      |
-| PwC Belgique   | [PwC](https://www.pwc.be/)  |      Varie en fonction des spécificités du cas      |        Varie en fonction des spécificités du cas      |
+_(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
+
+| Fournisseur     |     Site web    |     Délais       |       Coût       |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Le processus d'obtention d'un permis de résidence peut être long et nécessite de nombreuses étapes. Il peut y avoir une inspection officielle de votre résidence, et souvent la permission n'est pas accordée avant l'expiration de votre visa. Il est recommandé de commencer le processus le plus tôt possible. Pour les personnes ayant déjà vécu légalement en Belgique pendant cinq ans, elles peuvent demander le statut de résident à long terme. Au-delà de cela, elles peuvent peut-être demander la nationalité belge.

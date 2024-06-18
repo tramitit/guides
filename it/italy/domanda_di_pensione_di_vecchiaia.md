@@ -34,10 +34,10 @@ Ogni individuo che ha raggiunto l'età ufficiale del pensionamento (67 anni in I
 Un consiglio, tutti questi documenti possono spesso essere ottenuti attraverso l'organizzazione in cui eri impiegato.
 
 ## Fornitori che possono farlo per te
+_(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
-| Fornitore       |     Sito Web     |     Tempi    |       Costi      |
+| Fornitore       |     Sito web    |     Tempi        |       Costo      |
 | --------------- | --------------- |  :-------------: | :-------------: |
-| INPS Italia     |  [http://www.inps.it](http://www.inps.it)  |      Variabile (in genere 2-3 mesi)      |        Gratuito       |
 
 ## Dettagli aggiuntivi
 Ricorda che l'importo della tua pensione dipenderà dalla durata dei tuoi contributi e dal loro importo. È meglio verificare preventivamente la possibile quantità per pianificare la tua vita dopo il pensionamento.

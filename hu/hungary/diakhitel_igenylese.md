@@ -36,10 +36,10 @@ Ideális esetben olyan diákok számára tervezték, akik pénzügyi segítsége
 
 ## Szolgáltatók, akik meg tudják ezt tenni Ön helyett
 
-| Szolgáltató | Weboldal | Időkeretek | Költség |
-| --------------- | --------------- | :-------------: | :-------------: |
-| Szövetségi Diáksegély | [FAFSA](https://studentaid.gov/) | Változó | A hitel típusától függ |
-| Sallie Mae | [SallieMae](https://www.salliemae.com/) | Változó | A hitel típusától függ |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 - Az kamatlábak lehetnek fixek vagy változóak és a kamatláb általában a kölcsönfelvevő vagy társtulajdonos hiteltörténetétől függ.

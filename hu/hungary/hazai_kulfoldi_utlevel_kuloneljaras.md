@@ -50,10 +50,10 @@ Magyar ideiglenes úti okmányhoz:
 
 ## Szolgáltatók, akik segíthetnek
 
-| Szolgáltató         |     Honlap                                         |     Időkeretek  |       Költség    |
-| ---------           | -------------------                                 |  :-------------: | :-------------: |
-| Szlovák Nagykövetség |  [Link](https://www.mzv.sk/web/en)                  |      Változó     |        Változó        |
-| Magyar Nagykövetség | [Link](http://kum.hu/balatonkenese/en/index.php)    |      Változó     |        Nincs        |
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
+
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 

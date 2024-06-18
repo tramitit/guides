@@ -38,11 +38,10 @@ Będziesz potrzebować:
 3. Formularz uznanie ojcostwa (dostępny w lokalnym urzędzie stanu cywilnego lub sądzie rodzinnym)
 
 ## Dostawcy, którzy mogą to zrobić dla Ciebie
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
-| Dostawca         |     Strona internetowa     |     Harmonogram    |       Koszt      |
-| ---------------  | --------------- |  :-------------: | :-------------: |
-| Lokalny Sąd Rodzinny  |  [gov.pl](https://www.gov.pl/)  |     W zależności od terminów sądu    |        W zależności od opłat sądowych   |
-| Urząd Stanu Cywilnego | [usc.gov.pl](http://www.usc.gov.pl/)|    Do tygodnia    |      Podstawowa opłata administracyjna      |
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 W niektórych przypadkach, jeśli ojcostwo jest kwestionowane, lub w innych skomplikowanych okolicznościach, możesz także musieć zatrudnić prawnika. Może to również wiązać się z dodatkowymi kosztami. Jeśli rodzice nie mogą wzajemnie się zgodzić na uznanie, procedura sądowa może zostać zainicjowana w celu ustanowienia ojcostwa.

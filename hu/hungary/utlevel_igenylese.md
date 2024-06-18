@@ -46,10 +46,10 @@ Magyar állampolgárság és útlevél igényléséhez szükséges dokumentumok 
 Mindig ellenőrizze a legfrissebb követelményeket és rendeleteket a helyi magyar nagykövetségen vagy konzulátuson.
 
 ## Szolgáltatók, akik megtehetik Önért
+_(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
-| Szolgáltató         |     Honlap     |     Határidők    |       Költség     |
-| -------------- | -------------- | :--------------: | :--------------: |
-| Magyar Nagykövetség        |  [www.mfa.gov.hu](http://www.mfa.gov.hu)       |      Változó      |       Változó       |
+| Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## További részletek
 Minden olyan személyes adat változást be kell jelenteni és módosítani kell a kibocsátó irodánál.

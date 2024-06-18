@@ -36,11 +36,11 @@ Qualquer pessoa que esteja comprando, alugando ou gerenciando imóveis em Portug
 
 Primariamente, é necessário o 'Código de Acesso à Certidão Permanente' do imóvel. É um código único dado a cada imóvel registrado em Portugal.
 
-## Prestadores que podem fazer isso por você
+## Prestadores de serviços que podem fazê-lo por si
+_(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
-| Prestador       |     Site                                      |     Prazos           |       Custo             |
-| --------------- | ---------------                                  |  :-------------:        | :-------------:        |
-| Predial Online  |  [Link](https://www.predialonline.pt/PredialOnline/) |      Acesso online instantâneo |        15€            |
+| Fornecedor      |     Website     |     Prazos       |       Custo      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Lembre-se, a Certidão Predial Permanente é válida apenas por seis meses. Você precisa renová-la se precisar de informações atualizadas após esse período.

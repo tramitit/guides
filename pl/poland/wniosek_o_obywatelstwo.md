@@ -35,10 +35,10 @@ Ten przewodnik jest idealny dla osób, które spełniają kryteria do uzyskania 
 Wszystkie dokumenty powinny być idealnie przetłumaczone na język polski przez tłumacza przysięgłego. Zaleca się skonsultowanie się z ekspertem prawnym lub dostawcą usług, aby upewnić się, że masz kompletny zestaw dokumentów.
 
 ## Dostawcy, którzy mogą to zrobić za Ciebie
+_(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
-| Dostawca        | Strona internetowa  | Terminy  | Koszt |
-| --------------- | -------- | ---------- | ---- |
-| Dostawca 1  | [Strona internetowa](#) | x dni | $X |
+| Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
+| --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 
