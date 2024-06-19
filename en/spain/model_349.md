@@ -1,6 +1,7 @@
 ---
 author: Ricardo Batista
-categories: Spain
+categories:
+- Spain
 date: '2024-06-17'
 description: Learn how to complete and submit Spain's Model 349 for declaring intra-community transactions, including necessary steps, documents, and providers.
 draft: false

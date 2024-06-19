@@ -1,6 +1,7 @@
 ---
 author: Ricardo Batista
-categories: Spain
+categories:
+- Spain
 date: '2024-06-17'
 description: Discover everything about Form 720, who must present it, the process of declaration and the possible sanctions for delay or errors. Complies with the Treasury.
 draft: false

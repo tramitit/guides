@@ -1,6 +1,7 @@
 ---
 author: Ricardo Batista
-categories: Spain
+categories:
+- Spain
 date: '2024-06-17'
 description: Aprende cómo completar y presentar el Modelo 130, un formulario de impuestos trimestral esencial para autónomos y pequeños empresarios en España.
 draft: false

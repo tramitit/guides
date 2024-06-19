@@ -1,6 +1,7 @@
 ---
 author: Ricardo Batista
-categories: Spain
+categories:
+- Spain
 date: '2024-06-17'
 description: Learn about Model 130, a vital tax form for self-employed individuals in Spain. Discover the steps, required documents, and submission deadlines.
 draft: false

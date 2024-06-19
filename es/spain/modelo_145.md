@@ -1,6 +1,7 @@
 ---
 author: Ricardo Batista
-categories: Spain
+categories:
+- Spain
 date: '2024-06-17'
 description: Aprende a completar el Modelo 145 para comunicar cambios personales y familiares que afectan las retenciones fiscales en España. Sigue estos pasos detallados.
 draft: false

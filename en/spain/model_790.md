@@ -1,6 +1,7 @@
 ---
 author: Ricardo Batista
-categories: Spain
+categories:
+- Spain
 date: '2024-06-17'
 description: Learn how to properly fill out and submit the Model 790 form, necessary for various Spanish administrative processes, including obtaining a NIE.
 draft: false

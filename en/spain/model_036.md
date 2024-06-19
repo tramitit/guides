@@ -1,6 +1,7 @@
 ---
 author: Ricardo Batista
-categories: Spain
+categories:
+- Spain
 date: '2024-06-17'
 description: Learn how to obtain, complete, and submit Form 036 for self-employment in Spain. Get tips on required documents and follow-up procedures for tax registration.
 draft: false

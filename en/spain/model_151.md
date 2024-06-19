@@ -1,6 +1,7 @@
 ---
 author: Ricardo Batista
-categories: Spain
+categories:
+- Spain
 date: '2024-06-17'
 description: Learn how to file Spain’s Model 151 for foreign assets disclosure under the Beckham Law. Step-by-step procedure, required documents, and submission tips.
 draft: false

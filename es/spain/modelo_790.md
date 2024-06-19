@@ -1,6 +1,7 @@
 ---
 author: Ricardo Batista
-categories: Spain
+categories:
+- Spain
 date: '2024-06-17'
 description: Descubre cómo completar y pagar el Modelo 790 para trámites con autoridades españolas, incluyendo NIE. Guía paso a paso y documentos necesarios.
 draft: false
