@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Detailed guide on how to download, complete and submit the Model
-  790 Code 012 for the payment and regularization of the NIE in Spain.
+description: Detailed guide on how to download, complete and submit the Model 790 Code 012 for the payment and regularization of the NIE in Spain.
 draft: false
 meta_title: 'Form 790 Code 012: Complete Guide for Payment of Fees'
 title: 'Form 790 Code 012: Complete Guide for Payment of Fees'

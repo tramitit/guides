@@ -38,6 +38,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 | --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
-- A Revolut continua pedindo para atualizar o NIF para aqueles que têm suas contas lá, então certifique-se de que suas informações estejam sempre atualizadas ([fonte](https://www.reddit.com/r/Revolut/comments/1bgxhzc/revolut_keeps_asking_to_update_tax_id_for_a/)).
-- Em Portugal, há suporte para jovens que estão começando, então não hesite em fazer perguntas se estiver inseguro ([fonte](https://www.reddit.com/r/literaciafinanceira/comments/12ae727/esclarecimento_de_d%C3%BAvidas_acerca_do_irs_jovem/))
-- Se sua renda for baixa, você pode ficar isento de apresentar uma declaração de imposto. Nesse caso, você receberá uma declaração de dispensa ([fonte](https://www.reddit.com/r/literaciafinanceira/comments/14m51o9/certid%C3%A3o_de_dispensa_de_entrega_de_irs/)).
+- A Revolut continua pedindo para atualizar o NIF para aqueles que têm suas contas lá, então certifique-se de que suas informações estejam sempre atualizadas.
+- Em Portugal, há suporte para jovens que estão começando, então não hesite em fazer perguntas se estiver inseguro.
+- Se sua renda for baixa, você pode ficar isento de apresentar uma declaração de imposto. Nesse caso, você receberá uma declaração de dispensa.

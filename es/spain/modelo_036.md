@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Aprende a completar y enviar el Modelo 036 para registrarte como autónomo
-  o iniciar un negocio en España. Guía detallada y documentos requeridos.
+description: Aprende a completar y enviar el Modelo 036 para registrarte como autónomo o iniciar un negocio en España. Guía detallada y documentos requeridos.
 draft: false
 meta_title: Guía Completa para Registrarse como Autónomo en España
 title: Guía Completa para Registrarse como Autónomo en España

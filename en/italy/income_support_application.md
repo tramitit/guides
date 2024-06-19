@@ -21,7 +21,7 @@ It is designed primarily for Italian citizens, European Union citizens, and some
 
 ## Procedure
 
-1. First, check your eligibility for the Citizens’ Income via the [official online tool](https://www.reddit.com/r/italy/).
+1. First, check your eligibility for the Citizens’ Income via the official online tool.
 
 2. If you qualify, you need to fill out an application form where you declare your financial situation, your family situation and your willingness to accept job offers.
 

@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Todo sobre el Modelo 720, el formulario obligatorio para residentes en
-  España que poseen activos extranjeros superiores a €50,000.
+description: Todo sobre el Modelo 720, el formulario obligatorio para residentes en España que poseen activos extranjeros superiores a €50,000.
 draft: false
 meta_title: 'Guía Completa para el Modelo 720: Declaración de Activos'
 title: 'Guía Completa para el Modelo 720: Declaración de Activos'

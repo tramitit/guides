@@ -44,4 +44,4 @@ _(We are currently curating the best providers. If you are or know a provider, p
 | --------------- | --------------- |  :-------------: | :-------------: |
 
 ## Additional details
-Please note that for some services you will need proof of registration (Meldezettel). It is therefore important to register your residing address within 3 days of moving in. Failure to do so can result in a fine up to 726 Euros ([referenced information source](https://www.reddit.com/r/Austria/comments/1cad9ix/didnt_register_in_austria/)).
+Please note that for some services you will need proof of registration (Meldezettel). It is therefore important to register your residing address within 3 days of moving in. Failure to do so can result in a fine up to 726 Euros.

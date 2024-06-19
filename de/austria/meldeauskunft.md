@@ -41,5 +41,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 
 | Anbieter | Website | Zeitpläne | Kosten |
 | --------------- | --------------- | :-------------: | :-------------: |
+
 ## Weitere Details
-Bitte beachten Sie, dass für einige Dienstleistungen ein Nachweis der Registrierung (Meldezettel) erforderlich ist. Es ist daher wichtig, Ihre Wohnadresse innerhalb von 3 Tagen nach dem Einzug zu registrieren. Ein versäumtes Registrieren kann mit einer Geldstrafe von bis zu 726 Euro belegt werden ([verlinkte Informationsquelle](https://www.reddit.com/r/Austria/comments/1cad9ix/didnt_register_in_austria/)).
+Bitte beachten Sie, dass für einige Dienstleistungen ein Nachweis der Registrierung (Meldezettel) erforderlich ist. Es ist daher wichtig, Ihre Wohnadresse innerhalb von 3 Tagen nach dem Einzug zu registrieren. Ein versäumtes Registrieren kann mit einer Geldstrafe von bis zu 726 Euro belegt werden.

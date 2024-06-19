@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Aprende sobre el Modelo 349 para declarar transacciones intracomunitarias
-  en España. Proceso, documentos requeridos y quién debe presentarlo.
+description: Aprende sobre el Modelo 349 para declarar transacciones intracomunitarias en España. Proceso, documentos requeridos y quién debe presentarlo.
 draft: false
 meta_title: 'Modelo 349: Declaración de Transacciones Intracomunitarias'
 title: 'Modelo 349: Declaración de Transacciones Intracomunitarias'

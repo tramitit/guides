@@ -21,7 +21,7 @@ Il reddito di cittadinanza è un'assistenza finanziaria fornita dal governo ital
 
 ## Procedura
 
-1. Per prima cosa, verificare la propria idoneità al Reddito di Cittadinanza tramite lo [strumento ufficiale online](https://www.reddit.com/r/italy/).
+1. Per prima cosa, verificare la propria idoneità al Reddito di Cittadinanza tramite lo strumento ufficiale online.
 
 2. Se si è idonei, è necessario compilare un modulo di domanda in cui si dichiara la propria situazione finanziaria, la situazione familiare e la disponibilità ad accettare offerte di lavoro.
 

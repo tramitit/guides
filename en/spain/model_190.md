@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Learn to complete Form 145, the essential form to communicate
-personal and family changes that affect your tax withholdings in Spain.
+description: Learn to complete Form 145, the essential form to communicate personal and family changes that affect your tax withholdings in Spain.
 draft: false
 meta_title: 'Model 145: Complete Guide for Residents in Spain'
 title: 'Model 145: Complete Guide for Residents in Spain'

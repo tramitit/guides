@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Descubre cómo completar y presentar el Modelo 190 en España, incluyendo
-  la documentación y pasos necesarios para la declaración de retenciones del IRPF.
+description: Descubre cómo completar y presentar el Modelo 190 en España, incluyendo la documentación y pasos necesarios para la declaración de retenciones del IRPF.
 draft: false
 meta_title: 'Guía Completa del Modelo 190: Declaración de Retenciones IRPF'
 title: 'Guía Completa del Modelo 190: Declaración de Retenciones IRPF'

@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Conoce cómo completar el Modelo 151 bajo la Ley Beckham, los documentos
-  requeridos y posibles penalidades si no se presenta correctamente.
+description: Conoce cómo completar el Modelo 151 bajo la Ley Beckham, los documentos requeridos y posibles penalidades si no se presenta correctamente.
 draft: false
 meta_title: 'Todo sobre el Modelo 151: Guía para Expatriados en España'
 title: 'Todo sobre el Modelo 151: Guía para Expatriados en España'

@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Guía completa del Modelo 347 para declarar transacciones anuales con
-  terceros en España, superando los €3,005.06 con detalles de procedimiento y requisitos.
+description: Guía completa del Modelo 347 para declarar transacciones anuales con terceros en España, superando los €3,005.06 con detalles de procedimiento y requisitos.
 draft: false
 meta_title: 'Modelo 347: Declaración de Transacciones Anuales en España'
 title: 'Modelo 347: Declaración de Transacciones Anuales en España'

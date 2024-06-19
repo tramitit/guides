@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Learn about Form 347, mandatory for Spanish businesses with transactions
-  over €3,005.06. Follow our guide to complete and submit the form correctly.
+description: Learn about Form 347, mandatory for Spanish businesses with transactions over €3,005.06. Follow our guide to complete and submit the form correctly.
 draft: false
 meta_title: 'Form 347: Annual Transaction Declaration for Spanish Businesses'
 title: 'Form 347: Annual Transaction Declaration for Spanish Businesses'

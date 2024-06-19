@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Discover everything about Form 720, who must present it, the process
-  of declaration and the possible sanctions for delay or errors. Complies with the Treasury.
+description: Discover everything about Form 720, who must present it, the process of declaration and the possible sanctions for delay or errors. Complies with the Treasury.
 draft: false
 meta_title: 'Complete Guide on Form 720: Declaration of Assets Abroad'
 title: 'Complete Guide on Form 720: Declaration of Assets Abroad'

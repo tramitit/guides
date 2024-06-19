@@ -45,7 +45,3 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It's imperative to apply for the extension before your current permit expires. Overstaying your visa can result in penalties, including deportation and bans from reentry.
 - The rental contract needs to be notarized for use in official procedures. This can be done at a local notary office.
 - The process may take from several weeks to a few months. It's recommended to initiate the process early before the expiration of your current permit. 
-
-References:
-- In order to apply for a residence permit in Montenegro, please refer to [here](https://www.reddit.com/r/montenegro/comments/1b2gqp0/crnogorsko_drzavljanstvo_i_dozvole_za_rad/)
-- Tips on how one can use their residence permit to create a Revolut account are available [here](https://www.reddit.com/r/Revolut/comments/zsrtcc/revolut_account_with_residence_permit/).

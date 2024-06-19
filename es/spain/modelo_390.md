@@ -1,10 +1,8 @@
 ---
 author: Ricardo Batista
-categories:
-- Spain
+categories: Spain
 date: '2024-06-17'
-description: Aprende a completar y presentar el Modelo 790 Código 012 para pagar tarifas
-  del NIE en España. Incluye paso a paso y documentos necesarios.
+description: Aprende a completar y presentar el Modelo 790 Código 012 para pagar tarifas del NIE en España. Incluye paso a paso y documentos necesarios.
 draft: false
 meta_title: 'Guía del Modelo 790 Código 012: Pago y Regularización del NIE'
 title: 'Guía del Modelo 790 Código 012: Pago y Regularización del NIE'
