@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Descubre cómo obtener tu NIE en España, los documentos necesarios, el
-  proceso de cita y todo lo que necesitas saber.
+description: Learn about the NIE process for non-Spanish nationals in Spain. Find
+  out who needs it, required documents, appointment booking, and processing times.
 draft: false
-meta_title: 'Obtén tu NIE en España: Guía Completa y Requisitos'
-title: 'Obtén tu NIE en España: Guía Completa y Requisitos'
+meta_title: 'Obtaining an NIE in Spain: Requirements and Procedure Guide'
+title: 'Obtaining an NIE in Spain: Requirements and Procedure Guide'
 translationKey: spain-assignment_of_nie_at_the_request_of_the_interested_party
 ---
+
 
 
 ## Description

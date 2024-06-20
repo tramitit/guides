@@ -3,12 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Learn to complete Form 145, the essential form to communicate personal and family changes that affect your tax withholdings in Spain.
+description: Learn how to fill and submit Model 190 for withholdings and payments
+  on account of Personal Income Tax in Spain. Step-by-step guide included.
 draft: false
-meta_title: 'Model 145: Complete Guide for Residents in Spain'
-title: 'Model 145: Complete Guide for Residents in Spain'
+meta_title: 'Model 190: Guide to Spanish Tax Withholding Declarations'
+title: 'Model 190: Guide to Spanish Tax Withholding Declarations'
 translationKey: spain-model_190
 ---
+
 
 
 ## Description

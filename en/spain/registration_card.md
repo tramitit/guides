@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: 'Guía detallada para obtener el NIE en España: desde la cita y documentos
-  hasta el pago y recogida del registro de identidad para extranjeros.'
+description: Learn the steps, required documents, and tips for obtaining a NIE in
+  Spain. Understand whether you need Modelo EX-15 or EX-18 based on your nationality.
 draft: false
-meta_title: 'Cómo obtener tu tarjeta de NIE en España: Procedimiento y requisitos'
-title: 'Cómo obtener tu tarjeta de NIE en España: Procedimiento y requisitos'
+meta_title: 'How to Get a Spanish NIE: Steps, Requirements, and Tips'
+title: 'How to Get a Spanish NIE: Steps, Requirements, and Tips'
 translationKey: spain-registration_card
 ---
+
 
 
 ## Description

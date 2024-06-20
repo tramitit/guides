@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Aprende cómo renovar tu pasaporte en España con nuestra guía detallada,
-  que incluye requisitos, documentos necesarios y pasos del procedimiento.
+description: Learn the step-by-step process for renewing your passport in Spain, including
+  required documents and appointment booking. Start early to avoid delays.
 draft: false
-meta_title: Guía Completa para Renovación de Pasaporte en España
-title: Guía Completa para Renovación de Pasaporte en España
+meta_title: 'How to Renew Your Passport in Spain: A Complete Guide'
+title: 'How to Renew Your Passport in Spain: A Complete Guide'
 translationKey: spain-passport_renewal
 ---
+
 
 
 ## Description

@@ -3,13 +3,15 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Guía completa sobre cómo obtener un certificado de nacimiento en España,
-  incluyendo pasos, requisitos y opciones en línea o por correo.
+description: Learn how to obtain a birth certificate in Spain, including required
+  documents, procedures, and where to request it, both online or at Civil Registry
+  offices.
 draft: false
-meta_title: Cómo Obtener un Certificado de Nacimiento en España
-title: Cómo Obtener un Certificado de Nacimiento en España
+meta_title: 'How to Obtain a Birth Certificate in Spain: Step-by-Step Guide'
+title: 'How to Obtain a Birth Certificate in Spain: Step-by-Step Guide'
 translationKey: spain-birth_certificate
 ---
+
 
 
 ## Description

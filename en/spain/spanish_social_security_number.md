@@ -2,7 +2,7 @@
 author: Ricardo Batista
 categories:
 - Spain
-date: 2024-05-22 05:00:00+00:00
+date: 2024-05-22
 description: Learn how residents in Spain can obtain a unique identification number
   for work, healthcare, and more. Find procedure details and required documents here!
 draft: false

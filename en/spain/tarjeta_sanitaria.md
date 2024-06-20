@@ -2,7 +2,7 @@
 author: Ricardo Batista
 categories:
 - Spain
-date: 2024-05-22 05:00:00+00:00
+date: 2024-05-22
 description: Learn about the non-transferable Health Card granting rights to Spanish
   Social Security health benefits. Procedure, required docs, and providers included.
 draft: false

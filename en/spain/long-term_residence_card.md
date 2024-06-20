@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Descubre cómo los ciudadanos no-UE pueden vivir y trabajar en España,
-  cumpliendo cinco años de residencia legal. Información sobre requisitos y trámites.
+description: 'Learn how to get a long-term residence card in Spain: eligibility, procedure,
+  required documents, and providers. Ensure your legal stay and work rights.'
 draft: false
-meta_title: Guía Completa para Obtener la Tarjeta de Larga Duración en España
-title: Guía Completa para Obtener la Tarjeta de Larga Duración en España
+meta_title: Guide to Obtaining a Long-Term Residence Card in Spain
+title: Guide to Obtaining a Long-Term Residence Card in Spain
 translationKey: spain-long-term_residence_card
 ---
+
 
 
 ## Description

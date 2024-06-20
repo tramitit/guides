@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Guía completa para obtener el Certificado de Registro para ciudadanos
-  de la UE que residan en España. Aprende los pasos, documentos y detalles necesarios.
+description: Step-by-step guide for EU citizens to obtain the Certificate of Registration
+  in Spain. Essential documents, procedure, and tips for a smooth process.
 draft: false
-meta_title: Obtén Tu Certificado de Registro de Ciudadano de la UE en España
-title: Obtén Tu Certificado de Registro de Ciudadano de la UE en España
+meta_title: How to Get an EU Citizen Registration Certificate in Spain
+title: How to Get an EU Citizen Registration Certificate in Spain
 translationKey: spain-certificate_of_registration_of_eu_citizen
 ---
+
 
 
 ## Description

@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: 'Descubre cómo solicitar tu licencia de conducir en España: pasos, documentos
-  necesarios y procedimientos detallados.'
+description: Learn how non-residents and foreign residents can apply for a driver's
+  license in Spain with detailed steps, required documents, and additional tips.
 draft: false
-meta_title: Guía para obtener tu licencia de conducir en España
-title: Guía para obtener tu licencia de conducir en España
+meta_title: 'Guide to Applying for a Driver''s License in Spain: Step-by-Step'
+title: 'Guide to Applying for a Driver''s License in Spain: Step-by-Step'
 translationKey: spain-drivers_license_application
 ---
+
 
 
 ## Description

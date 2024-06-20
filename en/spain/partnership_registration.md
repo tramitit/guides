@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: 'Registro de pareja de hecho en España: proceso, documentos necesarios
-  y beneficios para parejas, especialmente con miembros no-UE.'
+description: Learn about pareja de hecho, the procedure, required documents, benefits,
+  and regional regulations for partnership registration in Spain.
 draft: false
-meta_title: 'Guía para registro de pareja de hecho en España: requisitos y proceso'
-title: 'Guía para registro de pareja de hecho en España: requisitos y proceso'
+meta_title: Guide to Partnership Registration (Pareja de Hecho) in Spain
+title: Guide to Partnership Registration (Pareja de Hecho) in Spain
 translationKey: spain-partnership_registration
 ---
+
 
 
 ## Description

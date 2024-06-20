@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Guía completa para extender tu estancia corta en España por turismo o
-  trabajo, cumpliendo con requisitos legales y de documentación.
+description: Learn the legal process to extend a short-term stay in Spain, requirements,
+  documents needed, application steps, and tips for a smooth extension.
 draft: false
-meta_title: 'Extensión de Estancia Corta en España: Guía Completa Legal'
-title: 'Extensión de Estancia Corta en España: Guía Completa Legal'
+meta_title: 'How to Extend Your Stay in Spain: Step-by-Step Guide'
+title: 'How to Extend Your Stay in Spain: Step-by-Step Guide'
 translationKey: spain-extension_of_short_stay
 ---
+
 
 
 ## Description

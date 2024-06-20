@@ -3,11 +3,10 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Guía detallada para extranjeros sobre cómo obtener la nacionalidad española
-  mediante residencia legal en España.
+description: Detailed guide for foreigners on how to obtain Spanish nationality through legal residence in Spain.
 draft: false
-meta_title: Cómo Obtener la Nacionalidad Española por Residencia
-title: Cómo Obtener la Nacionalidad Española por Residencia
+meta_title: How to Obtain Spanish Nationality by Residence
+title: How to Obtain Spanish Nationality by Residence
 translationKey: spain-spanish_nationality_by_residence
 ---
 

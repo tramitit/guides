@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Aprende cómo cambiar la dirección en tu NIE en España. Procedimiento,
-  documentos requeridos y más información útil para residentes extranjeros.
+description: Learn the step-by-step process to update your address on the NIE in Spain.
+  This guide includes required documents and key information for foreign residents.
 draft: false
-meta_title: Guía para cambiar la dirección en el NIE en España
-title: Guía para cambiar la dirección en el NIE en España
+meta_title: How to Update Your Address on NIE in Spain - Essential Guide
+title: How to Update Your Address on NIE in Spain - Essential Guide
 translationKey: spain-change_of_address_on_id
 ---
+
 
 
 ## Description

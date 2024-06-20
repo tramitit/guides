@@ -3,13 +3,15 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Descubre cómo traer a tus seres queridos a España. Sigue este detallado
-  proceso de reunificación familiar y evita errores comunes.
+description: Learn how immigrants can reunite with family in Spain. Steps include
+  eligibility, documentation, application, visa, and obtaining the Foreigner Identity
+  Card.
 draft: false
-meta_title: Guía Completa para la Reunificación Familiar en España
-title: Guía Completa para la Reunificación Familiar en España
+meta_title: 'Family Reunification in Spain: Step-by-Step Guide for Immigrants'
+title: 'Family Reunification in Spain: Step-by-Step Guide for Immigrants'
 translationKey: spain-family_reunification
 ---
+
 
 
 ## Description

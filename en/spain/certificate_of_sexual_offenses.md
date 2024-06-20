@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Obtén tu Certificado de Delitos de Naturaleza Sexual para trabajar con
-  menores en España. Sigue estos pasos y requisitos para la solicitud y procesamiento.
+description: Learn the procedure, required documents, and tips for obtaining the Certificate
+  of Sexual Offenses for jobs involving minors in Spain.
 draft: false
-meta_title: 'Certificado de Delitos Sexuales en España: Guía Completa'
-title: 'Certificado de Delitos Sexuales en España: Guía Completa'
+meta_title: How to Obtain a Certificate of Sexual Offenses in Spain
+title: How to Obtain a Certificate of Sexual Offenses in Spain
 translationKey: spain-certificate_of_sexual_offenses
 ---
+
 
 
 ## Description

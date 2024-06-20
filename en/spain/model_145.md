@@ -3,12 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Aprende a completar el Modelo 145, el formulario esencial para comunicar cambios personales y familiares que afectan tus retenciones fiscales en España.
+description: Learn how and why to file Model 145 in Spain for tax withholding. This
+  guide covers form details, procedures, required documents, and submission tips.
 draft: false
-meta_title: 'Modelo 145: Guía Completa para Residentes en España'
-title: 'Modelo 145: Guía Completa para Residentes en España'
+meta_title: 'Complete Guide to Model 145: Tax Withholding in Spain'
+title: 'Complete Guide to Model 145: Tax Withholding in Spain'
 translationKey: spain-model_145
 ---
+
 
 
 ## Description

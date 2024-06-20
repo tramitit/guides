@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Todo lo que necesitas saber sobre la pensión de jubilación en España,
-  desde los requisitos hasta el proceso de solicitud y los documentos necesarios.
+description: Learn how to determine eligibility and apply for a retirement pension
+  in Spain, including required documents and steps for expats and digital nomads.
 draft: false
-meta_title: Guía Completa para Obtener la Pensión de Jubilación en España
-title: Guía Completa para Obtener la Pensión de Jubilación en España
+meta_title: Guide to Retirement Pension in Spain for Expats and Workers
+title: Guide to Retirement Pension in Spain for Expats and Workers
 translationKey: spain-retirement_pension_application
 ---
+
 
 
 ## Description

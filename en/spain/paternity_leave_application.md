@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: 'Todo lo que necesitas saber sobre el permiso de paternidad: requisitos,
-  documentos y cómo solicitarlo a través de la Seguridad Social.'
+description: Learn how new fathers can take paternity leave, required steps, and documents.
+  Spanish law offers 16 weeks of equal, non-transferable leave for both parents.
 draft: false
-meta_title: Guía Completa sobre el Permiso de Paternidad en España
-title: Guía Completa sobre el Permiso de Paternidad en España
+meta_title: 'Paternity Leave: Guide for New Fathers on Legal Entitlement'
+title: 'Paternity Leave: Guide for New Fathers on Legal Entitlement'
 translationKey: spain-paternity_leave_application
 ---
+
 
 
 ## Description

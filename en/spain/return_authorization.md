@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Conoce cómo obtener la Autorización de Regreso para residentes no-UE
-  en España, incluyendo documentos necesarios y pasos a seguir.
+description: Learn how to apply for a Return Authorization in Spain, a permit for
+  non-EU residents with expired residency cards awaiting renewal.
 draft: false
-meta_title: 'Autorización de Regreso en España: Guía y Procedimiento Detalles'
-title: 'Autorización de Regreso en España: Guía y Procedimiento Detalles'
+meta_title: 'Return Authorization in Spain: Procedure and Requirements'
+title: 'Return Authorization in Spain: Procedure and Requirements'
 translationKey: spain-return_authorization
 ---
+
 
 
 ## Description

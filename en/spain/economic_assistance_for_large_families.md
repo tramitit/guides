@@ -3,13 +3,15 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: 'Descubre cómo obtener ayudas económicas para familias numerosas: programas,
-  requisitos y proveedores para gestionar tu solicitud.'
+description: Explore financial aids available for large families including grants,
+  subsidies, and discounted services. Find out how to apply and get the assistance
+  needed.
 draft: false
-meta_title: Guía de ayudas financieras para familias numerosas
-title: Guía de ayudas financieras para familias numerosas
+meta_title: 'Financial Aids for Large Families: Grants, Subsidies & Services'
+title: 'Financial Aids for Large Families: Grants, Subsidies & Services'
 translationKey: spain-economic_assistance_for_large_families
 ---
+
 
 
 ## Description

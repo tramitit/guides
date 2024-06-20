@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: 'Guía paso a paso para solicitar el Certificado de Antecedentes Penales
-  en España: documentos necesarios, procesos y proveedores recomendados.'
+description: Learn how to obtain a Criminal Record Certificate in Spain. Includes
+  details on required documents, application process, fees, and more.
 draft: false
-meta_title: Cómo obtener el Certificado de Antecedentes Penales en España
-title: Cómo obtener el Certificado de Antecedentes Penales en España
+meta_title: Guide to Obtaining a Criminal Record Certificate in Spain
+title: Guide to Obtaining a Criminal Record Certificate in Spain
 translationKey: spain-criminal_record_certificate
 ---
+
 
 
 ## Description
