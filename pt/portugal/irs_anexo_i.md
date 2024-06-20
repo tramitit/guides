@@ -3,11 +3,10 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Aprenda como preencher o IRS Anexo I, declarar rendimentos estrangeiros
-  e seguir o procedimento correto no Portal das Finanças. Evite penalidades!
+description:
 draft: false
-meta_title: Guia Completo para Preencher o IRS Anexo I em Portugal
-title: Guia Completo para Preencher o IRS Anexo I em Portugal
+meta_title: Guia Comortugal
+title: Guia C
 translationKey: portugal-irs_anexo_i
 ---
 

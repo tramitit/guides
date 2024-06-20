@@ -3,11 +3,10 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Aprenda a preencher o IRS Anexo A, passo a passo, com este guia detalhado.
-  Inclui documentos necessários e dicas para evitar problemas fiscais.
+description: 
 draft: false
-meta_title: Guia Completo para Preencher o IRS Anexo A em Portugal
-title: Guia Completo para Preencher o IRS Anexo A em Portugal
+meta_title: 
+title: 
 translationKey: portugal-irs_anexo_a
 ---
 

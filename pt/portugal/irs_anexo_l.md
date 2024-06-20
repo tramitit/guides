@@ -3,11 +3,10 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba como declarar rendimentos no Anexo L do IRS se é não residente
-  em Portugal. Siga o guia passo-a-passo para preencher e submeter corretamente.
+description: 
 draft: false
-meta_title: 'Anexo L IRS: Guia Completo para Não Residentes em Portugal'
-title: 'Anexo L IRS: Guia Completo para Não Residentes em Portugal'
+meta_title: 
+title: 
 translationKey: portugal-irs_anexo_l
 ---
 

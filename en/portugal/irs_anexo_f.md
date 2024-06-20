@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba como proprietários em Portugal podem declarar rendimentos de renda
-  no Anexo F do IRS e quais documentos são necessários.
+description: Learn how to report rental income in Portugal using IRS Anexo F. Follow
+  our step-by-step procedure to ensure accurate tax declarations.
 draft: false
-meta_title: 'IRS Anexo F: Declarar Rendimentos de Renda em Portugal'
-title: 'IRS Anexo F: Declarar Rendimentos de Renda em Portugal'
+meta_title: 'IRS Anexo F: A Guide for Reporting Rental Income in Portugal'
+title: 'IRS Anexo F: A Guide for Reporting Rental Income in Portugal'
 translationKey: portugal-irs_anexo_f
 ---
+
 
 
 ## Description

@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba como preencher o Anexo E para declarar rendimentos passivos como
-  juros, dividendos e rendas no IRS. Guia detalhado e requisitos essenciais.
+description: Learn the steps to file Anexo E for IRS in Portugal. Include passive
+  income such as interest, dividends, and rental income. Follow the updated procedures.
 draft: false
-meta_title: 'Anexo E: Declarar Rendimentos Passivos no IRS Portugal'
-title: 'Anexo E: Declarar Rendimentos Passivos no IRS Portugal'
+meta_title: 'Guide to Filing Anexo E for IRS in Portugal: Income Declaration'
+title: 'Guide to Filing Anexo E for IRS in Portugal: Income Declaration'
 translationKey: portugal-irs_anexo_e
 ---
+
 
 
 ## Description

@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba como preencher o Anexo G1 no IRS para declarar ganhos de capital
-  de valores mobiliários e criptomoedas em Portugal. Procedimento e documentos necessários.
+description: Learn about IRS Anexo G1 for reporting capital gains from securities
+  and cryptocurrencies in Portuguese tax returns. A step-by-step guide to ensure compliance.
 draft: false
-meta_title: 'IRS Anexo G1: Declarar Ganhos de Capital e Criptomoedas'
-title: 'IRS Anexo G1: Declarar Ganhos de Capital e Criptomoedas'
+meta_title: 'IRS Anexo G1: Declaring Capital Gains and Cryptocurrency in Portugal'
+title: 'IRS Anexo G1: Declaring Capital Gains and Cryptocurrency in Portugal'
 translationKey: portugal-irs_anexo_g1
 ---
+
 
 
 ## Description

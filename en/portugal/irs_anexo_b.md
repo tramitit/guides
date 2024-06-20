@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Aprenda a preencher e submeter o IRS Anexo B em Portugal. Guia passo
-  a passo essencial para freelancers e trabalhadores independentes.
+description: Learn how to navigate IRS Anexo B for self-employment income reporting.
+  Follow our step-by-step guide for a smooth Portuguese tax return process.
 draft: false
-meta_title: 'Como Submeter o IRS Anexo B: Guia Completo de Preenchimento'
-title: 'Como Submeter o IRS Anexo B: Guia Completo de Preenchimento'
+meta_title: Complete Guide to IRS Anexo B for Portuguese Self-Employed
+title: Complete Guide to IRS Anexo B for Portuguese Self-Employed
 translationKey: portugal-irs_anexo_b
 ---
+
 
 
 ## Description

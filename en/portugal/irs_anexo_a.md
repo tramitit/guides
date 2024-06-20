@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba como preencher o IRS Anexo A em Portugal com nosso guia detalhado.
-  Inclui procedimentos, documentos necessários e dicas essenciais.
+description: Learn how to fill out IRS Anexo A for declaring employment income in
+  Portugal. Step-by-step procedure, required documents, and tips for accurate submission.
 draft: false
-meta_title: 'Como Preencher o IRS Anexo A: Guia Completo para 2023'
-title: 'Como Preencher o IRS Anexo A: Guia Completo para 2023'
+meta_title: Complete Guide to Filling Out IRS Anexo A for Portugal Tax
+title: Complete Guide to Filling Out IRS Anexo A for Portugal Tax
 translationKey: portugal-irs_anexo_a
 ---
+
 
 
 ## Description

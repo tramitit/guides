@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba como preencher o Anexo H do IRS para reportar despesas dedutíveis,
-  incluindo saúde, educação e habitação, e obter os benefícios fiscais aplicáveis.
+description: Learn how to report healthcare, education, and housing expenses using
+  IRS Anexo H in Portugal to claim your tax deductions. Follow this step-by-step guide.
 draft: false
-meta_title: 'IRS Anexo H: Guia Completo de Despesas Dedutíveis em Portugal'
-title: 'IRS Anexo H: Guia Completo de Despesas Dedutíveis em Portugal'
+meta_title: Guide to Filing IRS Anexo H in Portugal for Tax Deductions
+title: Guide to Filing IRS Anexo H in Portugal for Tax Deductions
 translationKey: portugal-irs_anexo_h
 ---
+
 
 
 ## Description

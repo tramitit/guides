@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba como autônomos em Portugal podem preencher e enviar o IRS Anexo
-  C com precisão, evitando erros comuns e garantindo a validação eficaz.
+description: Learn step-by-step how self-employed individuals in Portugal can submit
+  IRS Anexo C with their annual tax returns. Follow our detailed procedure.
 draft: false
-meta_title: Guia Completo para Submissão do IRS Anexo C em Portugal
-title: Guia Completo para Submissão do IRS Anexo C em Portugal
+meta_title: Complete Guide to IRS Anexo C for Self-Employed in Portugal
+title: Complete Guide to IRS Anexo C for Self-Employed in Portugal
 translationKey: portugal-irs_anexo_c
 ---
+
 
 
 ## Description

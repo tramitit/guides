@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba como preencher o IRS Anexo H em Portugal, relatando despesas dedutíveis
-  para obter benefícios fiscais na sua declaração de imposto.
+description: Saiba como declarar suas despesas no IRS Anexo H para aproveitar deduções
+  fiscais em saúde, educação e habitação. Procedimentos simples e claros.
 draft: false
-meta_title: 'Guia Completo do IRS Anexo H: Deduções Fiscais Detalhadas'
-title: 'Guia Completo do IRS Anexo H: Deduções Fiscais Detalhadas'
+meta_title: 'Guia Completo sobre o IRS Anexo H: Dedução de Despesas Fiscais'
+title: 'Guia Completo sobre o IRS Anexo H: Dedução de Despesas Fiscais'
 translationKey: portugal-irs_anexo_h
 ---
+
 
 
 ## Descrição

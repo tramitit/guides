@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Aprenda a preencher o IRS Anexo J para declarar rendimentos estrangeiros
-  como trabalho, pensões e investimentos, seguindo este guia detalhado.
+description: Saiba como declarar rendimentos estrangeiros com o IRS Anexo J. Siga
+  os passos e documentos necessários para garantir a correta declaração fiscal.
 draft: false
-meta_title: 'IRS Anexo J: Guia Completo para Declaração de Rendimentos Estrangeiros'
-title: 'IRS Anexo J: Guia Completo para Declaração de Rendimentos Estrangeiros'
+meta_title: Guia Completo para Preenchimento do IRS Anexo J em Portugal
+title: Guia Completo para Preenchimento do IRS Anexo J em Portugal
 translationKey: portugal-irs_anexo_j
 ---
+
 
 
 ## Descrição

@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba quem precisa preencher o IRS Anexo J, os documentos necessários
-  e como declarar rendimentos do estrangeiro para garantir conformidade fiscal.
+description: Learn how Portuguese residents can properly fill out IRS Anexo J for
+  declaring foreign income. Follow the steps and required document checklist for compliance.
 draft: false
-meta_title: Guia Completo para Preencher o IRS Anexo J (Rendimentos no Exterior)
-title: Guia Completo para Preencher o IRS Anexo J (Rendimentos no Exterior)
+meta_title: Guide to Completing IRS Anexo J for Portuguese Taxpayers
+title: Guide to Completing IRS Anexo J for Portuguese Taxpayers
 translationKey: portugal-irs_anexo_j
 ---
+
 
 
 ## Description

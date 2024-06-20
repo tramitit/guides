@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Saiba quem precisa do Anexo D, como preencher corretamente e quais documentos
-  são necessários para sua declaração de IRS em Portugal.
+description: Learn who needs Anexo D, steps for filing, required documents, and tips
+  to ensure a smooth Portuguese IRS declaration process.
 draft: false
-meta_title: Guia Completo para Preencher o Anexo D do IRS em Portugal
-title: Guia Completo para Preencher o Anexo D do IRS em Portugal
+meta_title: Complete Guide to Filing Anexo D for Portuguese IRS Declaration
+title: Complete Guide to Filing Anexo D for Portuguese IRS Declaration
 translationKey: portugal-irs_anexo_d
 ---
+
 
 
 ## Description
