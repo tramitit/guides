@@ -1,7 +1,7 @@
 ---
 author: Ricardo Batista
 categories:
-- España
+- Spain
 date: '2024-06-20'
 description: Instrucciones detalladas para obtener tu certificado de matrimonio en
   España. Procedimientos, documentos necesarios y tiempos de procesamiento.

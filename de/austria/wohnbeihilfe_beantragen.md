@@ -3,7 +3,9 @@ translationKey: austria-housing_allowance_application
 title: "Wohnungszulagenantrag in Österreich und den Niederlanden"
 author: "Ricardo Batista"
 date: "2024-06-07"
-categories: ["Austria", "The Netherlands"]
+categories:
+ - "Austria"
+ - "Netherlands"
 meta_title: "Leitfaden für Wohnungszulagenantrag in Österreich und den Niederlanden"
 description: "Dieser Artikel bietet einen schrittweisen Leitfaden zur Beantragung einer Wohnungszulage in Österreich und den Niederlanden"
 draft: false

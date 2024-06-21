@@ -1,7 +1,7 @@
 ---
 author: Ricardo Batista
 categories:
-- España
+- Spain
 date: '2024-06-20'
 description: Obtén información detallada sobre cómo solicitar el NIE en España. Requisitos,
   procedimientos y documentación necesarios para extranjeros.

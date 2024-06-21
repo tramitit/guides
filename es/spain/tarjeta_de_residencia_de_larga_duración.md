@@ -1,7 +1,7 @@
 ---
 author: Ricardo Batista
 categories:
-- España
+- Spain
 date: '2024-06-20'
 description: 'Guía completa: obtén la tarjeta de residencia de larga duración en España
   para vivir y trabajar legalmente después de 5 años de residencia.'
