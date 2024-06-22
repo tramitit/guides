@@ -49,3 +49,12 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Sie sind auch verpflichtet, sich regelmäßig (monatlich oder alle zwei Monate) beim Jobcenter zu melden und nachzuweisen, dass Sie aktiv nach Beschäftigung suchen.
 
 Bitte beachten Sie: Die Informationen in diesem Leitfaden unterliegen Änderungen und können je nach individuellem Status variieren. Überprüfen Sie den Prozess und die Anforderungen immer auf der Website der Bundesagentur für Arbeit.
+
+
+## Related Posts
+
+- [Elterngeld in Deutschland: Anspruch, Antrag und Leistungen](https://tramitit.com/de/guides/germany/elterngeld_beantragen/)
+- [Kindergeld in Deutschland: Antrag, Voraussetzungen & Anbieter](https://tramitit.com/de/guides/germany/kindergeld_beantragen/)
+- [Wohngeld und Huurtoeslag in Deutschland und den Niederlanden](https://tramitit.com/de/guides/germany/wohngeld_beantragen/)
+- [BAföG in Deutschland: Finanzielle Unterstützung für Studierende](https://tramitit.com/de/guides/germany/bafog_beantragen/)
+- [Mutterschaftsgeld in Deutschland: Anspruch, Beantragung und mehr](https://tramitit.com/de/guides/germany/mutterschaftsgeld_beantragen/)

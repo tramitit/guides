@@ -40,3 +40,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Postup sa môže mierne líšiť v závislosti na vašej krajine a miestnej oblasti, najmä v prípade imigračných rodín. Vždy skontrolujte s miestnym registračným úradom aktuálne informácie. Uistite sa, že meno dieťaťa spĺňa miestne predpisy. Niektoré krajiny majú zákony, ktoré upravujú, ako môže byť dieťa pomenované, preto je najlepšie byť o týchto pravidlách informovaný pred definitívnym stanovením mena vášho dieťaťa.
+
+
+## Related Posts
+
+- [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)
+- [Získanie slovenského občianstva na základe pôvodu: Sprievodca](https://tramitit.com/sk/guides/slovakia/podanie_prihlasky_na_statne_obcianstvo/)
+- [Získanie občianstva v Slovensku: Postup a Požadované Dokumenty](https://tramitit.com/sk/guides/slovakia/nadobudnutie_slovenskeho_obcianstva/)
+- [Registrácia a založenie spoločnosti na Slovensku: Postup a dokumenty](https://tramitit.com/sk/guides/slovakia/zapis_do_obchodneho_registra/)

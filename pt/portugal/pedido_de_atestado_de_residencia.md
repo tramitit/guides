@@ -42,3 +42,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes Adicionais
 Em Portugal, a emissão do Atestado de Residência é gerida ao nível local por cada junta. Portanto, o procedimento, documentos necessários, prazos e taxas podem variar significativamente de uma junta para outra. É essencial fazer consultas à sua junta local antes de iniciar o processo.
+
+
+## Related Posts
+
+- [Certificado de Registo para Cidadãos da UE em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_de_cidadao_da_uniao_europeia/)
+- [Pedido de Cartão de Residente para Cidadãos Estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_residente_para_cidadaos_estrangeiros/)
+- [Residir legalmente em Portugal: Cartão de Utilizador para estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_utente_para_estrangeiros/)
+- [Como Renovar o Título de Residência em Portugal: Guia Completo](https://tramitit.com/pt/guides/portugal/pedido_de_renovacao_do_titulo_de_residencia/)
+- [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)

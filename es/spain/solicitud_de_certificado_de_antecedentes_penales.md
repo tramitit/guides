@@ -42,3 +42,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 - La tarifa para solicitar un Certificado de Antecedentes Penales a partir de 2024 es de €3.70.
 - Los usuarios de Certificado Digital deben seleccionar la opción 'Con certificado'. Aquellos sin Certificado Digital deben completar un formulario en persona o utilizar la opción 'Sin certificado' en línea y luego pagar la tarifa en un banco.
 - Si te encuentras fuera de España, el mismo procedimiento aplica, pero en lugar de recibir el certificado por correo postal, recibirás una versión electrónica por correo electrónico.
+
+
+## Related Posts
+
+- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/certificado_de_antecedentes_penales/)
+- [Cómo Obtener el Certificado de Delitos de Naturaleza Sexual](https://tramitit.com/es/guides/spain/certificado_de_delitos_de_naturaleza_sexual/)
+- [Certificado de Delitos Sexuales: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_del_certificado_de_delitos_sexuales/)
+- [Cómo obtener un Certificado Digital en España: Guía completa](https://tramitit.com/es/guides/spain/solicitud_del_certificado_digital/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)

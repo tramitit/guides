@@ -41,3 +41,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 V mnohých prípadoch vás váš zamestnávateľ zaregistruje do zdravotného poistenia. Ak ste študent, vaša univerzita vás môže zaregistrovať. Ak ste nezamestnaní alebo samozamestnaní, musíte to urobiť sami. Musíte sa uistiť, že ste zaregistrovaní do 8 dní od začatia práce alebo získania trvalého pobytu. Nedodržanie môže viesť k pokute alebo odmietnutiu služieb. Zdravotné služby na Slovensku nie sú bezplatné a môže sa vyžadovať spoluplatba za niektoré služby. Základné zdravotné služby sú však kryté poistením.
+
+
+## Related Posts
+
+- [Odhlásenie zo zdravotného poistenia: Postup a požadované dokumenty](https://tramitit.com/sk/guides/slovakia/odhlasenie_zo_zdravotnej_poistovne/)
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)
+- [Registrácia a založenie spoločnosti na Slovensku: Postup a dokumenty](https://tramitit.com/sk/guides/slovakia/zapis_do_obchodneho_registra/)
+- [Trestný register na Slovensku: Získanie výpisu a požadované dokumenty](https://tramitit.com/sk/guides/slovakia/ziadost_o_vydanie_vypisu_z_registra_trestov/)
+- [Zmena Trvalého Pobytu na Slovensku: Postup a Doklady](https://tramitit.com/sk/guides/slovakia/zmena_trvaleho_pobytu/)

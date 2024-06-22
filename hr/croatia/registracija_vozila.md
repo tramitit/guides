@@ -51,3 +51,12 @@ Ako uvozite automobil, mogu se primijeniti dodatni troškovi i naknade poput PDV
 Posjetiteljanje različitih internetskih foruma za lokalna iskustva i savjete može pružiti dodatne uvide.
 
 Rok registracije vozila u Hrvatskoj je godinu dana, i dopušteno je registrirati svoj automobil 60 dana prije isteka registarskih pločica.
+
+
+## Related Posts
+
+- [Registracija Stranih Vozila u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/registracija_stranih_vozila/)
+- [Registracija Boravišta u Hrvatskoj: Procedura i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista/)
+- [Registracija boravka turista u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravka_turista/)
+- [Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija](https://tramitit.com/hr/guides/croatia/prijava_boravka_pri_ulasku_u_zemlju/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)

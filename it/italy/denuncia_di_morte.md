@@ -41,3 +41,12 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - Il certificato di morte può essere utilizzato per gestire tutte le successive questioni amministrative legate alla successione del defunto, tra cui, ma non solo, questioni bancarie, trasferimenti di proprietà e questioni di eredità.
 - È importante effettuare la Dichiarazione di Morte entro 24 ore dalla sua occorrenza.
 - Potrebbero essere richieste versioni tradotte del certificato di morte per questioni internazionali. L'ufficio anagrafe locale può fornirle, spesso a un piccolo costo.
+
+
+## Related Posts
+
+- [Certificato di Morte in Italia: Procedura, Documenti e Fornitori](https://tramitit.com/it/guides/italy/richiesta_certificato_di_morte/)
+- [Eredità in Italia: Dichiarazione di Successione e Procedura Legale](https://tramitit.com/it/guides/italy/dichiarazione_di_successione/)
+- [Dichiarazione di Nascita in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/denuncia_di_nascita/)
+- [Registrazione Anagrafe in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/iscrizione_al_registro_degli_anagrafici/)
+- [Come richiedere un certificato di nascita in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_nascita/)

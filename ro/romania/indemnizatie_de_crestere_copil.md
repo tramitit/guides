@@ -45,3 +45,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Valoarea indemnizației pentru creșterea copiilor variază în funcție de mai mulți factori, precum venitul părintelui și numărul de copii din familie. Perioada minimă legală pentru acest tip de concediu este de un an, însă poate fi prelungită până la doi ani, sau chiar trei ani în cazuri speciale. Părinții care decid să lucreze cu normă redusă în timp ce primesc indemnizația trebuie să respecte anumite reguli. Nerespectarea acestora poate duce la amenzi.
+
+
+## Related Posts
+
+- [Indemnizația de Handicap: Procedura și Documente Necesare](https://tramitit.com/ro/guides/romania/indemnizatie_de_handicap/)
+- [Înregistrarea certificatului de naștere pentru expatriați](https://tramitit.com/ro/guides/romania/inregistrare_certificate_de_nastere_pentru_expati/)
+- [Extensie de viză de lucru în România: Procedură și documente necesare](https://tramitit.com/ro/guides/romania/prelungire_viza_de_lucru/)
+- [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)
+- [Impozitul de Rezidență în România: Ce Este și Cine Este Vizat](https://tramitit.com/ro/guides/romania/taxa_de_habitat/)

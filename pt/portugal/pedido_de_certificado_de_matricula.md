@@ -36,3 +36,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Lembre-se de verificar os padrões de emissão do seu veículo, pois Portugal possui requisitos rigorosos de limite de emissão. As verificações regulares são obrigatórias. Faça uma inspeção veicular abrangente após o registro, em um centro autorizado.
+
+
+## Related Posts
+
+- [Matrícula de Veículo em Portugal: Procedimentos e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_registo_de_automovel/)
+- [Certificado de Registo Criminal em Portugal: Procedimento e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_criminal/)
+- [Transferência de Propriedade de Veículo em Portugal: Como Fazer](https://tramitit.com/pt/guides/portugal/alteracao_de_propriedade_de_automovel/)
+- [Certificado de Registo para Cidadãos da UE em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_de_cidadao_da_uniao_europeia/)
+- [Como Obter uma Carteira de Habilitação em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_carta_de_conducao/)

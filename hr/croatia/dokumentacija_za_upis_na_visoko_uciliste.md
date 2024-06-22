@@ -49,3 +49,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Za Poljsku, neki studijski programi zahtijevaju specifične prijemne testove, osim dokaza o znanju jezika. Provjerite specifične programske stranice na web stranici sveučilišta.
 - Provjerite rok prijave za svako sveučilište kako biste izbjegli paniku u zadnji trenutak.
 - Provjerite web stranicu veleposlanstva ili konzulata specifične zemlje za točne informacije o procesima dobivanja studentske vize.
+
+
+## Related Posts
+
+- [Guide to Getting a Visa in Croatia: Process, Documents & Tips](https://tramitit.com/hr/guides/croatia/dobivanje_vize_za_strance/)
+- [Kako dobivati vozačku dozvolu u Hrvatskoj: Postupak, dokumenti i upute](https://tramitit.com/hr/guides/croatia/izdavanje_vozacke_dozvole/)
+- [Postupak konverzije strane vozačke dozvole u Hrvatskoj](https://tramitit.com/hr/guides/croatia/promjena_vozacke_dozvole_za_strance/)
+- [Registracija djece za školu u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijavljivanje_djeca_za_skolu/)
+- [Boravišna dozvola: Postupak i dokumenti za legalan boravak](https://tramitit.com/hr/guides/croatia/izdavanje_boravisne_dozvole_za_strance/)

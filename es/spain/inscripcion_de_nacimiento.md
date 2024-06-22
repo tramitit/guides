@@ -44,3 +44,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Detalles adicionales
 Se recomienda registrar el nacimiento tan pronto como sea posible después de ocurrido, idealmente dentro de la primera semana. Si no puedes registrar el nacimiento tú mismo, puedes autorizar a un representante para que lo haga en tu nombre. El procedimiento es gratuito, pero pueden existir costos relacionados si solicitas copias adicionales o versiones legalizadas del certificado de nacimiento.
+
+
+## Related Posts
+
+- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)
+- [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_de_defuncion/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
+- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)

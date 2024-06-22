@@ -47,3 +47,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 ## Dodatne informacije
 
 U određenim područjima ili za određene škole mogu postojati dodatni zahtjevi ili koraci prilikom registracije. Određeni obrazovni programi također mogu zahtijevati upisne ispite ili intervjue. Preporuča se izravno kontaktirati namjeravanu školu kako biste osigurali da imate sve relevantne informacije i zahtjeve za registraciju. Strani rezidenti mogu razmotriti međunarodne ili dvojezične škole koje se posebno bave iseljeničkim učenicima.
+
+
+## Related Posts
+
+- [Registracija Novorođenčadi u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/postupak_prijave_novorodencadi/)
+- [Registracija rođenja u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/upis_u_maticnu_knjigu_rodenih/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)
+- [Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija](https://tramitit.com/hr/guides/croatia/prijava_boravka_pri_ulasku_u_zemlju/)
+- [Registracija Vozila U Hrvatskoj: Postupak, Dokumentacija i Informacije](https://tramitit.com/hr/guides/croatia/registracija_vozila/)

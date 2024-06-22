@@ -41,3 +41,12 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Mielőtt egy kiskorú (17 éves) jogosítvánnyal vezethetne Magyarországon, minden esetben egy felelős felnőttnek is jelen kell lennie a járműben. A korlátozások nélküli vezetés jogi kora 18 év. Szükséges lesz szerződést kötnie az autósiskolával, amely lényegében kimondja, hogy felelősséget vállal az autókra okozott károkért a tanórák során.
+
+
+## Related Posts
+
+- [Betegszabadság Eljárásai és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/tappenz_igenylese/)
+- [Nyelvvizsga Bizonyítvány: Sikeres felkészülés és beszerzés folyamata](https://tramitit.com/hu/guides/hungary/nyelvvizsga_bizonyitvany_igenylese/)
+- [Magyarországi Jármű Műszaki Vizsga: Eljárás és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/gepjarmu_muszaki_vizsga_idopont_foglalas/)
+- [Magyar Állampolgárság Megszerzése: Útmutató és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/allampolgarsagi_kerelmek/)
+- [Egészségügyi Igazolás Maratonra - Követelmények és Eljárás](https://tramitit.com/hu/guides/hungary/egeszsegugyi_igazolas_igenylese/)

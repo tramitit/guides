@@ -50,3 +50,12 @@ _(Estamos atualmente a selecionar os melhores prestadores de serviços. Se é ou
 ## Detalhes Adicionais
 - **Rendimentos Estrangeiros**: Ao declarar rendimentos de fontes estrangeiras, é importante seguir diretrizes específicas sobre taxas de câmbio e documentação necessária.
 - **Assistência**: Se não tiver a certeza de como preencher o formulário, considere consultar um consultor fiscal para evitar erros que possam resultar em penalidades.
+
+
+## Related Posts
+
+- [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)
+- [Guia Completo para Preencher o IRS Anexo A em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_a/)
+- [Anexo E: Guia Completo para Declarar Rendimentos Passivos no IRS](https://tramitit.com/pt/guides/portugal/irs_anexo_e/)
+- [Guia Completo para Preencher o Anexo B do IRS em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_b/)
+- [Anexo L do IRS: Guia Completo para Não Residentes em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_l/)

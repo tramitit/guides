@@ -41,3 +41,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Počas materskej dovolenky ženy na Slovensku dostávajú platbu od zdravotnej poisťovne. Financie sú poskytované Sociálnou poisťovňou a predstavujú približne 65% ich výpočtovej základne. Nezabudnite, že pravidlá a práva sa môžu líšiť od odvetvia k odvetviu, vždy sa obráťte na svoju zmluvu alebo personálne oddelenie pre personalizovanú radu.
+
+
+## Related Posts
+
+- [Manželský certifikát na Slovensku: Požiadavky a postup](https://tramitit.com/sk/guides/slovakia/vydanie_sobasneho_listu/)
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)
+- [Zmena Trvalého Pobytu na Slovensku: Postup a Doklady](https://tramitit.com/sk/guides/slovakia/zmena_trvaleho_pobytu/)
+- [Registration of Health Insurance in Slovakia: Guide & Providers](https://tramitit.com/sk/guides/slovakia/prihlasenie_do_zdravotnej_poistovne/)
+- [Guide to Permanent Residency with Work Permit in Slovakia](https://tramitit.com/sk/guides/slovakia/ziadost_o_pobyt_s_pracovnym_povolenim/)

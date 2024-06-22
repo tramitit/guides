@@ -45,3 +45,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 ## Ďalšie podrobnosti
 Úrad ministerstva je obvykle otvorený od pondelka do piatku, odporúčame skontrolovať webovú stránku pre presné časy. Upozorňujeme, že za túto službu sa platí poplatok, ktorý môžete skontrolovať na webovej stránke alebo zavolaním na kontaktné číslo ministerstva.
 Poznámka: Tento proces môže trvať niekoľko dní/týždňov v závislosti na množstve žiadostí na ministerstve. Dokument je zvyčajne zasielaný poštou na trvalú adresu žiadateľa.
+
+
+## Related Posts
+
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)
+- [Registrácia a založenie spoločnosti na Slovensku: Postup a dokumenty](https://tramitit.com/sk/guides/slovakia/zapis_do_obchodneho_registra/)
+- [Registrácia Prechodného Pobytu Cudzinca: Postup a Dokumenty](https://tramitit.com/sk/guides/slovakia/registracia_prechodneho_pobytu_cudzinca/)
+- [Získanie občianstva v Slovensku: Postup a Požadované Dokumenty](https://tramitit.com/sk/guides/slovakia/nadobudnutie_slovenskeho_obcianstva/)
+- [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)

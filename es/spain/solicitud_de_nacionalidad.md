@@ -46,3 +46,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Detalles adicionales
 Los tiempos de procesamiento para las solicitudes de ciudadanía pueden variar, desde meses hasta posiblemente años. Además, tenga en cuenta que la ciudadanía española se adquiere típicamente a través de la residencia, el origen español, los judíos sefardíes, el matrimonio o el nacimiento de un padre español.
+
+
+## Related Posts
+
+- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/es/guides/spain/nacionalidad_española_por_residencia/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Certificado de No Residente: Qué es, Cómo Obtenerlo y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_no_residente/)
+- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
+- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_residente/)

@@ -45,3 +45,13 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Preporučuje se podnijeti zahtjev za produženje prije isteka vaše trenutne dozvole. Prekoračenje vaše vize može rezultirati kaznama, uključujući deportaciju i zabrane ponovnog ulaska.
 - Ugovor o najmu treba biti notariziran za uporabu u službenim postupcima. To se može obaviti u lokalnom notarskom uredu.
 - Postupak može trajati od nekoliko tjedana do nekoliko mjeseci. Preporučuje se započeti postupak što prije prije isteka vaše trenutne dozvole.
+
+
+
+## Related Posts
+
+- [Boravišna dozvola: Postupak i dokumenti za legalan boravak](https://tramitit.com/hr/guides/croatia/izdavanje_boravisne_dozvole_za_strance/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)
+- [Registracija privremenog boravka u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravista/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)
+- [Postupak konverzije strane vozačke dozvole u Hrvatskoj](https://tramitit.com/hr/guides/croatia/promjena_vozacke_dozvole_za_strance/)

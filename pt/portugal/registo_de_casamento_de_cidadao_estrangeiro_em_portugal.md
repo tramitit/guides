@@ -54,3 +54,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Todos os documentos fornecidos não devem ter mais de seis meses na data da submissão. Se um dos parceiros for viúvo ou divorciado, eles devem apresentar a documentação relevante (certidão de óbito ou documento de divórcio). Para circunstâncias específicas ou informações adicionais, é aconselhável consultar diretamente o Cartório do Registo Civil. É aconselhável entender completamente todas as implicações legais antes de prosseguir. Assistência adicional também pode ser obtida junto às autoridades de imigração locais e consultores jurídicos. Os custos envolvidos podem variar significativamente, então é recomendável verificar com as fontes oficiais.
+
+
+## Related Posts
+
+- [Registo de Nascimento de Cidadão Estrangeiro em Portugal](https://tramitit.com/pt/guides/portugal/registo_de_nascimento_de_cidadao_estrangeiro_em_portugal/)
+- [Certidão de Casamento: Como Obter e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certidao_de_casamento/)
+- [Certificado de Registo para Cidadãos da UE em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_de_cidadao_da_uniao_europeia/)
+- [Adquirir Nacionalidade Portuguesa: Procedimento e Requisitos](https://tramitit.com/pt/guides/portugal/pedido_de_nacionalidade_portuguesa/)
+- [Como Registrar uma Empresa em Portugal: Guia Completo](https://tramitit.com/pt/guides/portugal/pedido_de_registo_de_empresa/)

@@ -51,3 +51,12 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 ## Další podrobnosti
 
 Výše invalidního důchodu a specifické požadavky budou převážně záviset na vaší lokalitě a místních předpisech. Některé země poskytují více benefitů lidem s těžšími postiženími, zatímco jiné distribuují pevné částky. V některých případech může být výše důchodu ovlivněna vaším minulým zaměstnaneckým statusem. Pro více informací se obraťte na místní důchodový orgán.
+
+
+## Related Posts
+
+- [Proces žádosti o důchod: Postup a požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_duchod/)
+- [Zdravotní Pojištění v České Republice: Jak Si Je Pořídit](https://tramitit.com/cs/guides/czech-republic/registrace_na_zdravotni_pojistovnu/)
+- [Registrace zaměstnavatele pro zdravotní pojištění v České republice](https://tramitit.com/cs/guides/czech-republic/registrace_zamestnavatele_k_zdravotnimu_pojisteni/)
+- [Rodinný příspěvek v České republice - Jak a kdo ho může získat](https://tramitit.com/cs/guides/czech-republic/zadost_o_rodicovsky_prispevek/)
+- [Živnostenský list v České republice: Jak ho získat a co je třeba vědět](https://tramitit.com/cs/guides/czech-republic/registrace_zivnostenskeho_opravneni/)

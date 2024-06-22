@@ -48,3 +48,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Detalles adicionales
 Usted tiene derecho a modificar su declaración de impuestos después de presentarla si descubre errores u omisiones. Esto se puede hacer a través de una declaración de impuestos enmendada, también disponible en el portal de la agencia tributaria. Tenga en cuenta el tratado fiscal de su país de residencia con España para evitar la doble imposición, si corresponde. También puede solicitar ayuda a profesionales locales de impuestos si encuentra dificultades en el proceso.
+
+
+## Related Posts
+
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
+- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/es/guides/spain/modelo_130/)
+- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/es/guides/spain/modelo_145/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
+- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/es/guides/spain/modelo_720/)

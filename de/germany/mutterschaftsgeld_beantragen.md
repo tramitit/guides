@@ -41,3 +41,12 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 
 ## Weitere Details
 In Deutschland ist Ihr Arbeitsplatz gesetzlich ab Beginn der Schwangerschaft bis vier Monate nach der Geburt geschützt, was als Schutzfrist bekannt ist. Während dieser Zeit haben Sie Anspruch auf Mutterschutzurlaub (in der Regel sechs Wochen vor und acht Wochen nach der Geburt) und Elterngeld. Zusätzlich können Sie nach Ihrem Mutterschutzurlaub auch von Elternzeit Gebrauch machen, die bis zum dritten Geburtstag des Kindes dauern kann.
+
+
+## Related Posts
+
+- [Elterngeld in Deutschland: Anspruch, Antrag und Leistungen](https://tramitit.com/de/guides/germany/elterngeld_beantragen/)
+- [Kindergeld in Deutschland: Antrag, Voraussetzungen & Anbieter](https://tramitit.com/de/guides/germany/kindergeld_beantragen/)
+- [Schwangerschaftsbestätigung: Was es ist und wer es braucht](https://tramitit.com/de/guides/germany/schwangerschaftsbestatigung_vorlegen/)
+- [Arbeitslosengeld in Deutschland: Antrag, Berechtigung und Anbieter](https://tramitit.com/de/guides/germany/arbeitslosengeld_beantragen/)
+- [Vaterschaftsanerkennung in Deutschland: Leitfaden & Erfordernisse](https://tramitit.com/de/guides/germany/vaterschaftsanerkennung/)

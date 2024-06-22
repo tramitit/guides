@@ -52,3 +52,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 Você também pode precisar mostrar comprovante de contribuições para a Previdência Social durante a sua estadia, dependendo da sua situação. Lembre-se de que a validade do seu título renovado está condicionada à sua capacidade de atender a esses requisitos.
 
 Erros no formulário de inscrição podem levar a atrasos no processo. Portanto, é preciso ter cuidado extra ao preencher o formulário.
+
+
+## Related Posts
+
+- [Renovação do Cartão de Residência para Cidadãos Estrangeiros](https://tramitit.com/pt/guides/portugal/renovacao_de_cartao_de_residente_para_cidadaos_estrangeiros/)
+- [Atualização de Endereço no Cartão de Residência em Portugal](https://tramitit.com/pt/guides/portugal/alteracao_de_morada_do_titulo_de_residencia/)
+- [Pedido de Cartão de Residente para Cidadãos Estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_residente_para_cidadaos_estrangeiros/)
+- [Renovação de Passaporte para Cidadãos Portugueses no Exterior](https://tramitit.com/pt/guides/portugal/renovacao_de_passaporte/)
+- [Residir legalmente em Portugal: Cartão de Utilizador para estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_utente_para_estrangeiros/)

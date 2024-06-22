@@ -46,3 +46,12 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 1. Postup a požadované dokumenty se mohou výrazně lišit v závislosti na konkrétním důchodovém plánu a poskytovateli.
 2. Termín schválení žádosti a zahájení plateb důchodu může také kolísat.
 3. Vždy zvažte konzultaci s finančním poradcem nebo odborníkem na důchody při plánování a žádosti o důchod. Můžou poskytnout cenné rady a zajistit, že využíváte své důchodové prostředky co nejlépe.
+
+
+## Related Posts
+
+- [Invalidní důchod: Jak ho získat a co potřebujete vědět](https://tramitit.com/cs/guides/czech-republic/zadost_o_invalidni_duchod/)
+- [Daňové přiznání v České republice: Postup a Požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/podani_danoveho_priznani/)
+- [Placení daní v České republice: Postup a daňové povinnosti](https://tramitit.com/cs/guides/czech-republic/platba_dani/)
+- [Rodinný příspěvek v České republice - Jak a kdo ho může získat](https://tramitit.com/cs/guides/czech-republic/zadost_o_rodicovsky_prispevek/)
+- [Zdravotní Pojištění v České Republice: Jak Si Je Pořídit](https://tramitit.com/cs/guides/czech-republic/registrace_na_zdravotni_pojistovnu/)

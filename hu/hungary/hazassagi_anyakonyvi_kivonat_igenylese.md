@@ -42,3 +42,12 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Mindig ellenőrizd a legfrissebb követelményeket és szabályozásokat a helyi anyakönyvi hivataloddal. Különböző hivataloknak lehetnek enyhén eltérő követelményei vagy eljárásuk. Előzetes jóváhagyás szükséges lehet a házasságkötés előtt, és időpont egyeztetése is lehet szükséges a kérelmek benyújtásához az irodánál.
+
+
+## Related Posts
+
+- [Dupla Születési Anyakönyvi Kivonat Magyarországon: Kérelem és Eljárás](https://tramitit.com/hu/guides/hungary/szuletesi_anyakonyvi_kivonat_masodpeldanyanak_igenylese/)
+- [Házasságkötés Magyarországon: Folyamat, Dokumentumok, Szolgáltatók](https://tramitit.com/hu/guides/hungary/hazassag_kotese/)
+- [Egyházi Okirat Hiteles Másolatának Beszerzése Magyarországon](https://tramitit.com/hu/guides/hungary/kozjegyzoi_okiratok_masolasa/)
+- [Lakcímváltoztatás Magyarországon - Eljárás és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/lakohely_bejelentese/)
+- [Magyar Állampolgárság Megszerzése: Útmutató és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/allampolgarsagi_kerelmek/)

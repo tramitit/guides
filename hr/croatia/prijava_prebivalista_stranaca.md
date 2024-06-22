@@ -48,3 +48,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne informacije
 Rok za obradu registracije boravišta može varirati ovisno o pojedinačnim slučajevima i opterećenju u uredu. Uvijek se preporučuje podnijeti zahtjev za registraciju boravišta što je prije moguće nakon dolaska u zemlju.
+
+
+## Related Posts
+
+- [Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija](https://tramitit.com/hr/guides/croatia/prijava_boravka_pri_ulasku_u_zemlju/)
+- [Registracija Boravišta u Hrvatskoj: Procedura i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista/)
+- [Registracija boravka turista u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravka_turista/)
+- [Registracija privremenog boravka u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravista/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)

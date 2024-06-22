@@ -38,3 +38,12 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Fontos megjegyezni, hogy miután beszereztél egy diákigazolványt Magyarországon, azt kedvezményes vagy akár ingyenes közlekedésre is használhatod. Ezen kártya szolgál a diákok fő azonosító okirataként Magyarországon, és kedvezményeket nyújthat különböző létesítményekben. Győződj meg róla, hogy minden tanév elején megújítod, különben érvényét veszítheti.
+
+
+## Related Posts
+
+- [Azonosító Kártya (ID Kártya) Igénylési Eljárás Magyarországon](https://tramitit.com/hu/guides/hungary/szemelyi_igazolvany_igenylese/)
+- [Diákhitel - Hogyan igényeljen diákoknak tervezett hitelt](https://tramitit.com/hu/guides/hungary/diakhitel_igenylese/)
+- [Magyar Állampolgárság Megszerzése: Útmutató és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/allampolgarsagi_kerelmek/)
+- [Magyar Útlevél Igénylés - Eljárás, Dokumentumok, Szükséges lépések](https://tramitit.com/hu/guides/hungary/utlevel_igenylese/)
+- [Szlovák Állampolgárság Beszerzése és Magyar Úti Okmányok Eljárása](https://tramitit.com/hu/guides/hungary/hazai_kulfoldi_utlevel_kuloneljaras/)

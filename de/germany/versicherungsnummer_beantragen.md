@@ -40,3 +40,12 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 
 ## Weitere Details
 Die Sozialversicherungsnummer oder Versicherungsnummer ist nicht dasselbe wie Ihre Steuer-ID (Steuer ID) oder Ihre Steuernummer (Steuernummer). Die Steuer-ID ist eine weitere eindeutige Referenznummer für steuerliche Zwecke. Wenn Sie an Ihrer Universität oder bei einem Job nach einer Versicherungsnummer gefragt werden, beziehen sie sich in der Regel auf Ihre deutsche gesetzliche Krankenversicherungsnummer.
+
+
+## Related Posts
+
+- [Sozialversicherungskarte in Deutschland: Beantragung und Details](https://tramitit.com/de/guides/germany/sozialversicherungsausweis_beantragen/)
+- [Steuerkarte in Deutschland: Was, wer, Verfahren, Dokumente](https://tramitit.com/de/guides/germany/lohnsteuerkarte_beantragen/)
+- [Antrag auf eine ausländische Steueridentifikationsnummer](https://tramitit.com/de/guides/germany/auslandersteueridentifikationsnummer_beantragen/)
+- [Anmeldung des Wohnsitzes in Deutschland: Verfahren & Dokumente](https://tramitit.com/de/guides/germany/anmeldung_des_wohnsitzes/)
+- [Aufenthaltstitel in Deutschland: Antrag, Verfahren & Dokumente](https://tramitit.com/de/guides/germany/beantragung_eines_aufenthaltstitels/)

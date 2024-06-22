@@ -42,3 +42,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Tenha em mente que se o carro for de um país estrangeiro, podem ser necessários documentos ou procedimentos adicionais. É também obrigatório obter um Seguro Automóvel Português. Consulte os sites dos prestadores para obter informações mais precisas e recentes.
+
+
+## Related Posts
+
+- [Certificado de Matrícula: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_matricula/)
+- [Transferência de Propriedade de Veículo em Portugal: Como Fazer](https://tramitit.com/pt/guides/portugal/alteracao_de_propriedade_de_automovel/)
+- [Como Obter uma Carteira de Habilitação em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_carta_de_conducao/)
+- [Certificado de Registo Criminal em Portugal: Procedimento e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_criminal/)
+- [Renovação da Carta de Condução: Procedimentos e Documentos Necessários](https://tramitit.com/pt/guides/portugal/renovacao_de_carta_de_conducao/)

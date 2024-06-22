@@ -45,3 +45,12 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Pamatujte si, že zbrojní průkazy nejsou udělovány automaticky. Policisté mají právo zamítnout váš žádost, pokud nesplníte některý z požadavků nebo pokud mají podezření, že byste mohli zbraň zneužít. Proto je důležité se řádně připravit na zkoušky a dokázat, že jste schopní zodpovědně vlastnit zbraň.
+
+
+## Related Posts
+
+- [Jak získat občanský průkaz v České republice - Postup a dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_vydani_obcanskeho_prukazu/)
+- [Jak získat řidičský průkaz v České republice: Postup a požadavky](https://tramitit.com/cs/guides/czech-republic/zadost_o_ridicsky_prukaz/)
+- [Jak vyměnit nečeský řidičský průkaz za český - Průvodce](https://tramitit.com/cs/guides/czech-republic/vymena_ridicskeho_prukazu/)
+- [Změna údajů v občanském průkazu - Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/zadost_o_zmenu_udaju_v_obcanskem_prukazu/)
+- [Živnostenský list v České republice: Jak ho získat a co je třeba vědět](https://tramitit.com/cs/guides/czech-republic/registrace_zivnostenskeho_opravneni/)

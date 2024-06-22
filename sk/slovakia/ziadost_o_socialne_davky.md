@@ -42,3 +42,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Sociálne dávky na Slovensku sú rozdelené do rôznych kategórií, pričom každá má vlastné kritériá oprávnenosti a proces žiadosti. Preto je dôležité sa o tom informovať, aby ste pochopili, na ktoré dávky máte nárok a ako o ne žiadať. Treba si všimnúť, že systém sociálnych dávok na Slovensku sa môže čas od času meniť, takže vždy overujte najnovšie informácie. Ak nie ste ničím istí, môže byť užitočné porozprávať sa s sociálnym pracovníkom alebo podobným odborníkom, ktorý vás môže sprevádzať procesom.
+
+
+## Related Posts
+
+- [Sociálne štipendium na Slovensku: Podmienky, Dokumenty, Postup](https://tramitit.com/sk/guides/slovakia/ziadost_o_socialne_stipendium/)
+- [Invalidný dôchodok: Právo na príjem pre chorých a zranených](https://tramitit.com/sk/guides/slovakia/ziadost_o_invalidny_dochodok/)
+- [Slovenská Občianska Preukazka: Požiadavky a Postup](https://tramitit.com/sk/guides/slovakia/vydanie_obcianskeho_preukazu/)
+- [Odhlásenie zo zdravotného poistenia: Postup a požadované dokumenty](https://tramitit.com/sk/guides/slovakia/odhlasenie_zo_zdravotnej_poistovne/)
+- [Získanie občianstva v Slovensku: Postup a Požadované Dokumenty](https://tramitit.com/sk/guides/slovakia/nadobudnutie_slovenskeho_obcianstva/)

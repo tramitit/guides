@@ -49,3 +49,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Dvojité občianstvo je v Slovensku komplikované. Odporúča sa dôkladné preskúmanie pred začatím procesu.
 - Všetky právne postupy budú v slovenčine a mať hovoriaceho po slovensky bude neuveriteľne užitočné.
 - Proces je údajne byrokratický a môže si vyžadovať vytrvalosť.
+
+
+## Related Posts
+
+- [Získanie slovenského občianstva na základe pôvodu: Sprievodca](https://tramitit.com/sk/guides/slovakia/podanie_prihlasky_na_statne_obcianstvo/)
+- [Žiadosť o slovenský pas: Postup a Požadované dokumenty](https://tramitit.com/sk/guides/slovakia/vydanie_cestovneho_pasu/)
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)
+- [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)
+- [Manželský certifikát na Slovensku: Požiadavky a postup](https://tramitit.com/sk/guides/slovakia/vydanie_sobasneho_listu/)

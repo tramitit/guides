@@ -43,3 +43,12 @@ _(Αυτή τη στιγμή επιμελούμε τους καλύτερους 
 
 ## Πρόσθετες λεπτομέρειες
 Παρακαλούμε σημειώστε ότι ο δικαστής θα λάβει υπόψη το καλό συμφέρον του παιδιού κατά την απόφαση εάν θα χορηγήσει την αλλαγή ονόματος. Τα δικαστήρια συνήθως λαμβάνουν υπόψη το χρονικό διάστημα που το παιδί χρησιμοποίησε το τρέχον όνομα, την επίδραση μιας αλλαγής στη σχέση του παιδιού με κάθε γονέα, και τους λόγους για την επιθυμητή αλλαγή.
+
+
+## Related Posts
+
+- [Πιστοποιητικό Αλλαγής Ονόματος: Οδηγός και Απαιτούμενα Έγγραφα](https://tramitit.com/el/guides/greece/aitese_gia_pistopoietiko_allages_eponumou/)
+- [Οδηγός Υποβολής Αίτησης Αλλαγής Ονόματος Σύζυγου στην Ελλάδα](https://tramitit.com/el/guides/greece/aitese_gia_allage_eponumou_suzugou/)
+- [Αίτηση για Αποδοχή Κληρονομιάς: Οδηγός Ελλάδας για Κληρονόμους](https://tramitit.com/el/guides/greece/aitese_gia_apodokhe_kleronomias/)
+- [Αιτήσεις διαβατηρίου στην Ελλάδα: Διαδικασία, Έγγραφα και Πληροφορίες](https://tramitit.com/el/guides/greece/aitese_gia_ekdose_diabateriou/)
+- [Αίτηση Ελληνικής Υπηκοότητας: Απαιτήσεις και Διαδικασία](https://tramitit.com/el/guides/greece/aitese_gia_apoktese_ellenikes_ithageneias/)

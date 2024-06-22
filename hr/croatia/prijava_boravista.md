@@ -43,3 +43,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne informacije
 Stranci koji borave u Hrvatskoj na temelju privremenog boravka mogu boraviti do 90 dana u svakom razdoblju od šest mjeseci počevši od datuma prvog ulaska. Za svaki boravak dulji od toga, stranac treba zatražiti dozvolu za privremeni boravak. Ove informacije potječu iz službenih propisa i politika navedenih na web stranici Ministarstva unutarnjih poslova.
+
+
+## Related Posts
+
+- [Registracija Boravišta u Hrvatskoj: Procedura i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)
+- [Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija](https://tramitit.com/hr/guides/croatia/prijava_boravka_pri_ulasku_u_zemlju/)
+- [Registracija boravka turista u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravka_turista/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)

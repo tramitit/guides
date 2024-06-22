@@ -39,3 +39,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Vă rugăm să rețineți că dacă aveți nevoie de o verificare a cazierului judiciar dintr-o țară străină în timp ce vă aflați în România, sau din România în timp ce sunteți în străinătate, procedura ar putea fi ușor diferită. S-ar putea să fie nevoie să vizitați ambasada sau consulatul dvs., sau să contactați autoritatea legală străină corespunzătoare.
+
+
+## Related Posts
+
+- [Procedura pentru certificari medicale legale in Europa](https://tramitit.com/ro/guides/romania/institut_legal_medical/)
+- [Procedura de înregistrare a vehiculului în România](https://tramitit.com/ro/guides/romania/viza_autovehicul/)
+- [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)
+- [Certificat de Căsătorie în România: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_de_casatorie/)
+- [Înregistrarea mașinii în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/inmatriculare_auto/)

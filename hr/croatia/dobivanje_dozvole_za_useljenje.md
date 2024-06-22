@@ -43,3 +43,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 | Davatelj | Web stranica | Vremenski okviri | Trošak |
 | --------------- | --------------- | :-------------: | :-------------: |
+
+
+## Related Posts
+
+- [Boravišna dozvola: Postupak i dokumenti za legalan boravak](https://tramitit.com/hr/guides/croatia/izdavanje_boravisne_dozvole_za_strance/)
+- [Registracija privremenog boravka u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravista/)
+- [Registracija Boravišta u Hrvatskoj: Procedura i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)
+- [Produženje boravišne dozvole u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/produzenje_boravisne_dozvole/)

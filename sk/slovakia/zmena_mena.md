@@ -51,3 +51,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Dôvody pre zmenu mena môžu zahŕňať osobnú preferenciu, rozvod, sobáš alebo zjednodušenie.
 - Schválenie zmeny mena nie je zaručené a zostáva na diskrécii miestnych orgánov.
 - Keďže zmena mena bola schválená a nový certifikát bol vydávaný, všetky osobné dokumenty by mali byť aktualizované tak, aby odrážali nové meno.
+
+
+## Related Posts
+
+- [Zmena Priezviska na Slovensku: Postup, Doklady, Podrobnosti](https://tramitit.com/sk/guides/slovakia/zmena_priezviska/)
+- [Manželský certifikát na Slovensku: Požiadavky a postup](https://tramitit.com/sk/guides/slovakia/vydanie_sobasneho_listu/)
+- [Získanie občianstva v Slovensku: Postup a Požadované Dokumenty](https://tramitit.com/sk/guides/slovakia/nadobudnutie_slovenskeho_obcianstva/)
+- [Zmena Trvalého Pobytu na Slovensku: Postup a Doklady](https://tramitit.com/sk/guides/slovakia/zmena_trvaleho_pobytu/)
+- [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)

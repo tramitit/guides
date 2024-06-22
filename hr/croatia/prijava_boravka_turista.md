@@ -40,3 +40,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 ## Dodatne pojedinosti
 - Imajte na umu da nepravilna registracija boravka može rezultirati kaznama ili čak progonom iz zemlje. Osim toga, to se smatra sigurnosnom mjerom, pa nepoštivanje može privući nepotrebnu pažnju nadležnih tijela.
 - Također je preporučljivo nositi potvrdu registracije u slučaju da je zatraži bilo koja vlast tijekom vašeg boravka.
+
+
+## Related Posts
+
+- [Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija](https://tramitit.com/hr/guides/croatia/prijava_boravka_pri_ulasku_u_zemlju/)
+- [Registracija Boravišta u Hrvatskoj: Procedura i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)
+- [Registracija privremenog boravka u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravista/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)

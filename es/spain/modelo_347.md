@@ -42,3 +42,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Tenga en cuenta que no presentar el Modelo 347 correctamente y a tiempo puede resultar en multas o sanciones.
 - Es recomendable mantener registros claros y organizados de todas las transacciones a lo largo del año para simplificar el proceso de completar y presentar el formulario.
 - Se recomienda la asistencia de un contador profesional o asesor fiscal para garantizar el cumplimiento de todos los requisitos.
+
+
+## Related Posts
+
+- [Modelo 349: Declaración de Transacciones Intracomunitarias](https://tramitit.com/es/guides/spain/modelo_349/)
+- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/es/guides/spain/modelo_130/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
+- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/es/guides/spain/modelo_720/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)

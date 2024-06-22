@@ -51,3 +51,12 @@ Notez qu'un 'récépissé' ne vous permet pas de revenir en France si vous parte
 La carte de résident française ne vous accorde pas automatiquement le droit de travailler dans le reste de l'UE. Vous devriez toujours respecter les règles d'immigration spécifiques des autres pays de l'UE.
 
 Avoir un statut de résident en France depuis au moins cinq ans vous permet de demander un Certificat de Résidence de Longue Durée pour Ressortissant de l'UE (Carte de résident de longue durée-UE).
+
+
+## Related Posts
+
+- [Procédure pour obtenir un permis de résidence en France](https://tramitit.com/fr/guides/france/demande_de_carte_de_sejour/)
+- [Renewal of French Residence Permit: Complete Guide](https://tramitit.com/fr/guides/france/renouvellement_de_carte_de_sejour/)
+- [Carte Nationale d'Identité en France: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/demande_de_carte_nationale_didentite/)
+- [Obtenir un Visa pour la France : Procédure, Documents & Détails](https://tramitit.com/fr/guides/france/demande_de_visa/)
+- [Guide de Naturalisation en France: Processus, Documents & Délais](https://tramitit.com/fr/guides/france/demande_de_naturalisation/)

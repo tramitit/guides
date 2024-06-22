@@ -41,3 +41,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - A Revolut continua pedindo para atualizar o NIF para aqueles que têm suas contas lá, então certifique-se de que suas informações estejam sempre atualizadas.
 - Em Portugal, há suporte para jovens que estão começando, então não hesite em fazer perguntas se estiver inseguro.
 - Se sua renda for baixa, você pode ficar isento de apresentar uma declaração de imposto. Nesse caso, você receberá uma declaração de dispensa.
+
+
+## Related Posts
+
+- [Guia Completo para Preencher o IRS Anexo A em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_a/)
+- [IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros](https://tramitit.com/pt/guides/portugal/irs_anexo_i/)
+- [Guia Completo para Preencher o Anexo B do IRS em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_b/)
+- [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)
+- [Guia Completo para Preencher o Anexo D na Declaração de IRS](https://tramitit.com/pt/guides/portugal/irs_anexo_d/)

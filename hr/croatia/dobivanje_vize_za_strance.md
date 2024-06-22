@@ -50,3 +50,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Preporučuje se aplicirati najmanje tri mjeseca prije planiranog datuma putovanja.
 - Dok čekate odobrenje vize, preporučuje se da ne radite neopozive aranžmane za putovanje.
 - Za specifična pitanja vezana uz vizu, možete potražiti pomoć u hrvatskom konzulatu ili veleposlanstvu u vašoj zemlji.
+
+
+## Related Posts
+
+- [Boravišna dozvola: Postupak i dokumenti za legalan boravak](https://tramitit.com/hr/guides/croatia/izdavanje_boravisne_dozvole_za_strance/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)
+- [Produženje boravišne dozvole u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/produzenje_boravisne_dozvole/)
+- [Kako do hrvatske putovnice: Postupak, dokumenti i informacije](https://tramitit.com/hr/guides/croatia/izdavanje_putovnice/)
+- [Kako dobivati vozačku dozvolu u Hrvatskoj: Postupak, dokumenti i upute](https://tramitit.com/hr/guides/croatia/izdavanje_vozacke_dozvole/)

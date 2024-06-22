@@ -41,3 +41,12 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 
 ## Aanvullende details
 Onthoud dat afhankelijk van de voorwaarden van de vervoerder, je studentenkorting mogelijk alleen van toepassing is op bepaalde routes of tijden. Zorg er altijd voor dat je je studentenkaart of vervoerskaart met de studentenkorting bij je hebt wanneer je gebruik maakt van het openbaar vervoer.
+
+
+## Related Posts
+
+- [Parkeerkaart aanvragen en gebruiken: Procedure en documenten](https://tramitit.com/nl/guides/belgium/verzoek_om_parkeerkaart/)
+- [Rijbewijs in België: Procedure, Benodigde Documenten & Aanbieders](https://tramitit.com/nl/guides/belgium/verzoek_om_een_rijbewijs/)
+- [Belgische eID: Aanvraagprocedure en vereisten in België](https://tramitit.com/nl/guides/belgium/aanvraag_identiteitskaart/)
+- [Wachtlijstregistratie voor evenementen: Procedure en vereisten](https://tramitit.com/nl/guides/belgium/inschrijving_in_de_wachtregisters/)
+- [Kinderbijslag in België: Aanvraagprocedure en vereiste documenten](https://tramitit.com/nl/guides/belgium/verzoek_om_kinderbijslag/)

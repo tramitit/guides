@@ -46,3 +46,12 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - Conserva una copia dei documenti presentati per futuri riferimenti.
 - Presta attenzione alle scadenze: la domanda di Assegno di Maternità deve essere presentata non prima della dodicesima settimana di gravidanza e non oltre l'undicesima settimana prima della data prevista del parto.
 - L'assegno di norma dura al massimo venti settimane.
+
+
+## Related Posts
+
+- [Assegno Familiare in Italia: Requisiti, Procedura, Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_assegno_per_il_nucleo_familiare/)
+- [Guida all'Assegno Sociale: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/domanda_di_assegno_sociale/)
+- [Indennità di Disoccupazione: Come richiederla e documenti necessari](https://tramitit.com/it/guides/italy/domanda_di_assegno_di_disoccupazione/)
+- [Guida alla NASpI in Italia: Requisiti, Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_indennita_di_disoccupazione/)
+- [Pensione di Invalidità: Come Richiederla e Documenti Necessari](https://tramitit.com/it/guides/italy/domanda_di_pensione_di_invalidita/)

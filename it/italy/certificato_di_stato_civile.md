@@ -36,3 +36,12 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Si prega di notare che queste procedure possono variare leggermente in base ai requisiti specifici della città o del paese. Si consiglia di contattare il municipio locale per informazioni precise e aggiornate. Inoltre, se stai richiedendo questo certificato per scopi matrimoniali, il certificato deve essere datato non più di sei mesi prima della data del matrimonio.
+
+
+## Related Posts
+
+- [Come Ottenere un Certificato di Matrimonio in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_matrimonio/)
+- [Certificato di Stato di Famiglia in Italia: Procedura e Requisiti](https://tramitit.com/it/guides/italy/richiesta_certificato_di_stato_di_famiglia/)
+- [Come richiedere un certificato di nascita in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_nascita/)
+- [Certificato di Godimento dei Diritti Civili e Politici in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_godimento_dei_diritti_civili/)
+- [Certificato di Residenza in Italia: Guida Dettagliata](https://tramitit.com/it/guides/italy/richiesta_certificato_di_residenza/)

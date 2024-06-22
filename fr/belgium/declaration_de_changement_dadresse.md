@@ -38,3 +38,12 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Veuillez noter que le processus et les réglementations peuvent légèrement différer entre les différentes municipalités. Lorsque vous déménagez dans une ville ou une municipalité différente, assurez-vous de vous désinscrire de l'administration de la ville/ville précédente. Enfin, notifiez un changement d'adresse n'affecte pas les prestations de chômage mais il est crucial de tenir à jour votre adresse auprès de ces institutions pour des communications transparentes.
+
+
+## Related Posts
+
+- [Preuve de Résidence: Guide Complet pour la Documentation](https://tramitit.com/fr/guides/belgium/demande_de_certificat_de_residence/)
+- [Inscription dans les Registres de la Population en Belgique](https://tramitit.com/fr/guides/belgium/inscription_dans_les_registres_de_la_population/)
+- [Residence Permit in Belgium: Process, Requirements & Help](https://tramitit.com/fr/guides/belgium/demande_de_titre_de_sejour/)
+- [Obtenir la Carte d'Identité Belge (eID) : Quoi, Qui, Comment](https://tramitit.com/fr/guides/belgium/demande_de_carte_didentite/)
+- [Obtaining Belgian Criminal Record Extract: Procedures & Requirements](https://tramitit.com/fr/guides/belgium/demande_dextrait_de_casier_judiciaire/)

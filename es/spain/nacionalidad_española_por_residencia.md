@@ -61,3 +61,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Detalles adicionales
 - **Requisitos de idioma**: Los exámenes DELE para demostrar competencia en español son obligatorios a menos que seas de un país de habla hispana.
 - **Consideraciones especiales**: Algunos nacionales pueden tener un trato preferencial o un período de residencia reducido debido a acuerdos bilaterales entre España y sus países.
+
+
+## Related Posts
+
+- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Certificado de No Residente: Qué es, Cómo Obtenerlo y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_no_residente/)
+- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_residente/)

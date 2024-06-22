@@ -45,3 +45,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Nezabudnite skontrolovať otváracie hodiny a pracovné dni Matričného úradu, pretože sa môžu líšiť v závislosti od lokality. Niektoré úrady môžu tiež vyžadovať vopred dohodnutý termín. Doba spracovania a náklady sa môžu líšiť, preto je odporúčané overiť tieto podrobnosti pri podaní žiadosti.
+
+
+## Related Posts
+
+- [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)
+- [Certifikát slovenského predkovstva - Postup a požadované dokumenty](https://tramitit.com/sk/guides/slovakia/osvedcenie_o_tradicii_slovenskeho_povodu/)
+- [Získanie občianstva v Slovensku: Postup a Požadované Dokumenty](https://tramitit.com/sk/guides/slovakia/nadobudnutie_slovenskeho_obcianstva/)
+- [Zmena Menových Údajov na Slovensku: Proces a Doklady](https://tramitit.com/sk/guides/slovakia/zmena_mena/)
+- [Slovenská Občianska Preukazka: Požiadavky a Postup](https://tramitit.com/sk/guides/slovakia/vydanie_obcianskeho_preukazu/)

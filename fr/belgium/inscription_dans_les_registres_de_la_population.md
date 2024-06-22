@@ -43,3 +43,12 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails Supplémentaires
 En Belgique, le vote est obligatoire une fois que vous êtes inscrit dans le registre de la population. Cela diffère de certains pays où le vote est facultatif. Le non-respect de cette obligation électorale peut entraîner des sanctions telles que des amendes. De plus, la procédure mentionnée peut légèrement varier entre les différentes communes, il est donc toujours recommandé de vérifier les règles locales.
+
+
+## Related Posts
+
+- [Guide de l'inscription au registre des étrangers en 2023](https://tramitit.com/fr/guides/belgium/inscription_dans_le_registre_des_etrangers/)
+- [Residence Permit in Belgium: Process, Requirements & Help](https://tramitit.com/fr/guides/belgium/demande_de_titre_de_sejour/)
+- [Obtenir la Carte d'Identité Belge (eID) : Quoi, Qui, Comment](https://tramitit.com/fr/guides/belgium/demande_de_carte_didentite/)
+- [Obtaining a Birth Certificate in Belgium: Procedure & Details](https://tramitit.com/fr/guides/belgium/demande_dacte_de_naissance/)
+- [Obtaining a Driver's License in Belgium: Process and Requirements](https://tramitit.com/fr/guides/belgium/demande_de_permis_de_conduire/)

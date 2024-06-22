@@ -47,3 +47,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Detalles adicionales
 El proceso puede parecer sencillo pero podría llevar una cantidad considerable de tiempo debido a los sistemas burocráticos españoles. El costo monetario del procedimiento también puede variar según las traducciones y legalizaciones de documentos necesarias. Se recomienda comenzar el proceso con suficiente antelación a la fecha de matrimonio prevista para asegurar que todo se desarrolle sin problemas.
+
+
+## Related Posts
+
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
+- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)
+- [Registro de nacimiento en España: Procedimiento y requisitos](https://tramitit.com/es/guides/spain/inscripcion_de_nacimiento/)
+- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)
+- [Registro de Pareja en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_en_el_registro_de_parejas_de_hecho/)

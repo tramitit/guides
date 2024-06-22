@@ -42,3 +42,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Rețineți că timpul de procesare poate dura până la 3 luni, așadar planificați-vă reînnoirea pașaportului în avans pentru a evita orice probleme de ultim moment. De asemenea, va trebui să plătiți o taxă de poliție de 18 RON la biroul unde se face cererea. În unele cazuri, prezentarea unei dovezi de urgență poate accelera timpul de procesare. Dacă aplicați din străinătate, contactați cea mai apropiată ambasadă sau consulat românesc pentru instrucțiuni suplimentare.
+
+
+## Related Posts
+
+- [Procedura și documentele necesare pentru pașaportul românesc](https://tramitit.com/ro/guides/romania/pasaport/)
+- [Card de Identitate Românesc: Proceduri, Documente și Furnizori](https://tramitit.com/ro/guides/romania/buletin_de_identitate/)
+- [Procesul de obținere a permisului de ședere în România](https://tramitit.com/ro/guides/romania/viza_de_resedinta/)
+- [Înregistrarea certificatului de naștere pentru expatriați](https://tramitit.com/ro/guides/romania/inregistrare_certificate_de_nastere_pentru_expati/)
+- [Procesul de Confirmare a Cetățeniei Românești și Moldovenești](https://tramitit.com/ro/guides/romania/confirmare_de_cetatenie/)

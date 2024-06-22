@@ -72,3 +72,12 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - É crucial manter registros precisos de todas as transações para garantir que possa comprovar os valores declarados no Anexo G1.
 - Contribuintes que possuem criptomoedas há mais de um ano, mas ainda não as venderam, não são obrigados a declarar essas holdings no Anexo G1.
 - Sempre consulte um consultor fiscal se estiver inseguro sobre os detalhes ou tiver transações complexas para declarar.
+
+
+## Related Posts
+
+- [Anexo G do IRS em Portugal: Guia Completo para Mais-Valias](https://tramitit.com/pt/guides/portugal/irs_anexo_g/)
+- [IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros](https://tramitit.com/pt/guides/portugal/irs_anexo_i/)
+- [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)
+- [Guia Completo para Preencher o Anexo D na Declaração de IRS](https://tramitit.com/pt/guides/portugal/irs_anexo_d/)
+- [Anexo E: Guia Completo para Declarar Rendimentos Passivos no IRS](https://tramitit.com/pt/guides/portugal/irs_anexo_e/)

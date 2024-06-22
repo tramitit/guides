@@ -46,3 +46,12 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Vous devrez peut-être assister à des réunions régulières avec un conseiller Pôle Emploi dans le cadre de votre recherche d'emploi.
 - Vous devriez consulter régulièrement les offres d'emploi et soumettre des candidatures, et être prêt à fournir des preuves de vos activités de recherche d'emploi si on vous le demande.
 - Si vous refusez deux offres d'emploi raisonnables, vos prestations ARE peuvent être suspendues.
+
+
+## Related Posts
+
+- [Allocations de Chômage en France: Comment les Obtenir](https://tramitit.com/fr/guides/france/demande_dallocation_chomage/)
+- [Aide au Logement: Procédure, Documents Requis, Détails](https://tramitit.com/fr/guides/france/demande_daide_au_logement/)
+- [Allocations Familiales en France: Comment les demander](https://tramitit.com/fr/guides/france/demande_dallocation_familiale/)
+- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_(allocation_personnalisee_dautonomie)/)
+- [Pension de Retraite en France: Admissibilité, Documents & Procédure](https://tramitit.com/fr/guides/france/demande_de_pension_de_retraite/)

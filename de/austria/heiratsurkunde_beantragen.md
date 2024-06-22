@@ -49,3 +49,12 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 ## Weitere Details
 
 Wenn Sie als Nicht-EU/EWR-Bürger mit einem EU-Bürger, der in Österreich lebt, verheiratet sind, können Sie eine Aufenthaltsgenehmigung beantragen, die es Ihnen ermöglicht, in Österreich zu leben und zu arbeiten. Im Falle eines Nicht-EU-Bürgers, der mit einem österreichischen Staatsbürger verheiratet ist, kann der Nicht-EU-Ehepartner auch die Möglichkeit haben, eine dauerhafte Aufenthaltserlaubnis zu beantragen. Bitte beachten Sie, dass zusätzliche Regeln und Anforderungen gelten können und Sie Klarstellungen von örtlichen Behörden oder Rechtsberatern einholen sollten.
+
+
+## Related Posts
+
+- [Geburtsurkunde in Österreich: Antrag, Verfahren & Kosten](https://tramitit.com/de/guides/austria/geburtsurkunde_beantragen/)
+- [Heiratsurkunde neu bestellen: Verfahren und Anbieter](https://tramitit.com/de/guides/austria/heiratsurkunde_nachbestellung/)
+- [Staatsbürgerschaftsnachweis in Österreich: Antrag, Dokumente & Ablauf](https://tramitit.com/de/guides/austria/staatsburgerschaftsnachweis/)
+- [Erhalten Sie Ihren Aufenthaltstitel für Österreich problemlos](https://tramitit.com/de/guides/austria/aufenthaltstitel_beantragen/)
+- [Wie man eine Sterbeurkunde beantragt und was benötigt wird](https://tramitit.com/de/guides/austria/sterbeurkunde_beantragen/)

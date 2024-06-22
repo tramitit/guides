@@ -46,3 +46,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 Važno je napomenuti da rokovi za podnošenje prijave poreza obično padaju početkom godine, obično krajem veljače. Točan datum može se mijenjati svake godine, pa je najbolje provjeriti s lokalnim poreznim uredom ili njihovom službenom web stranicom za najpreciznije informacije.
 
 Za određene osobe poput slobodnih umjetnika korisno je provjeriti specifična pravila i propise koji se odnose na njihovu situaciju. Porezno pravo može biti kompleksno i specifično za svaki slučaj, a ovaj vodič je općenit pristup. Za preciznije informacije i savjete, uvijek je najbolje konzultirati se s poreznim stručnjakom ili službenom web stranicom porezne uprave.
+
+
+## Related Posts
+
+- [Kako dobiti osobni identifikacijski broj (OIB) u Hrvatskoj](https://tramitit.com/hr/guides/croatia/dodjela_oib-a/)
+- [Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/izdavanje_osobne_iskaznice/)
+- [Postupak Stjecanja Potvrde Hrvatskog Državljanstva](https://tramitit.com/hr/guides/croatia/izdavanje_domovnice/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)
+- [Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija](https://tramitit.com/hr/guides/croatia/prijava_boravka_pri_ulasku_u_zemlju/)

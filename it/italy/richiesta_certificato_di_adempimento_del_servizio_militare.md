@@ -40,3 +40,12 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 Per l'Italia, se non sei sicuro su quale distretto militare sia rilevante, puoi richiedere informazioni da tutti i distretti indirizzando la tua richiesta all'"Ufficio Leva" presso il Ministero della Difesa a Roma.
 
 Per la Germania, si noti che a causa della distruzione di alcuni documenti durante la Seconda Guerra Mondiale, la Deutsche Dienststelle (WASt) potrebbe non avere un registro completo di tutti coloro che hanno prestato servizio.
+
+
+## Related Posts
+
+- [Certificato di Morte in Italia: Procedura, Documenti e Fornitori](https://tramitit.com/it/guides/italy/richiesta_certificato_di_morte/)
+- [Certificato di Stato Civile: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/certificato_di_stato_civile/)
+- [Come richiedere un certificato di nascita in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_nascita/)
+- [Certificato di Stato di Famiglia in Italia: Procedura e Requisiti](https://tramitit.com/it/guides/italy/richiesta_certificato_di_stato_di_famiglia/)
+- [Come Ottenere un Certificato di Matrimonio in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_matrimonio/)

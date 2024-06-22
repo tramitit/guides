@@ -41,3 +41,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Vă rugăm să rețineți că pot exista reguli și scutiri diferite în funcție de circumstanțele specifice ale contribuabilului. Consultați întotdeauna legile locale sau un consilier financiar pentru sfaturi mai personalizate. Neconformarea cu obligațiile fiscale poate duce la penalități și consecințe legale.
+
+
+## Related Posts
+
+- [Impozitul pe proprietate în România: Ghid complet și proceduri](https://tramitit.com/ro/guides/romania/impozit_pe_proprietati/)
+- [Taxe Auto în România: Ghid complet pentru proprietarii de mașini](https://tramitit.com/ro/guides/romania/taxe_si_impozite_auto/)
+- [Certificat de Rezidență Fiscală: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_fiscal/)
+- [Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/obtinere_numar_de_identificare_fiscala_(nif)/)
+- [Procesul de obținere a rezidenței permanente în străinătate](https://tramitit.com/ro/guides/romania/solicitare_rezidenta_permanenta/)

@@ -42,3 +42,12 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 - Jeśli byłeś zatrudniony na umowie B2B (firmy do firmy) w Polsce, zwróć uwagę, że może to wpłynąć na Twoje uprawnienia do zasiłku dla bezrobotnych.
 - Pamiętaj o zachowaniu ubezpieczenia zdrowotnego nawet podczas okresu bezrobocia. Jeśli jesteś obywatelem UE, możesz mieć prawo do ubezpieczenia zdrowotnego pomimo bezrobocia.
 - Wskazane jest śledzenie aktualnych wskaźników bezrobocia w Europie, a w szczególności w Polsce, ponieważ mogą one wpływać na politykę związana z zasiłkami dla bezrobotnych.
+
+
+## Related Posts
+
+- [Housing Benefit w Wielkiej Brytanii: Kto, Procedura, Dokumenty](https://tramitit.com/pl/guides/poland/wniosek_o_dodatek_mieszkaniowy/)
+- [Ubezpieczenie Zdrowotne w Polsce: Co, Kto, Procedura, Dokumenty](https://tramitit.com/pl/guides/poland/ubezpieczenie_zdrowotne/)
+- [Zezwolenie na Pracę w Polsce: Procedura i Wymagane Dokumenty](https://tramitit.com/pl/guides/poland/pozwolenie_na_prace_dla_cudzoziemcow/)
+- [Procedura ubiegania się o azyl w Polsce: kroki i wymagane dokumenty](https://tramitit.com/pl/guides/poland/wniosek_o_azyl/)
+- [Rejestracja miejsca zamieszkania dla obywateli UE w Polsce](https://tramitit.com/pl/guides/poland/rejestracja_pobytu_obywatela_ue/)

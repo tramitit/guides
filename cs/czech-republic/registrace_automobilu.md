@@ -47,3 +47,12 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - V některých případech může být vyžadováno, aby bylo vozidlo před registrací předvedeno k technické kontrole.
 - Pokud jste auto koupili na úvěr nebo leasing, mohou být vyžadovány další dokumenty v závislosti na pravidlech finanční společnosti.
 - Pokud chybí některý dokument nebo jsou v nich uvedeny nesprávné informace, může dojít k odmítnutí registrace.
+
+
+## Related Posts
+
+- [Registrace vozidla ze zahraničí - Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/registrace_vozidla_dovezeneho_ze_zahranici/)
+- [Registrace Pobytu v České Republice: Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/registrace_k_pobytu_pro_cizince/)
+- [Jak získat řidičský průkaz v České republice: Postup a požadavky](https://tramitit.com/cs/guides/czech-republic/zadost_o_ridicsky_prukaz/)
+- [Nadstandardní Registrační Značka: Personalizace pro Vaše Vozidlo](https://tramitit.com/cs/guides/czech-republic/registracni_znacka_na_prani/)
+- [Registrace narození dítěte v České republice: Postup a dokumenty](https://tramitit.com/cs/guides/czech-republic/matrika_-_narozeni_ditete/)

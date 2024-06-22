@@ -39,3 +39,12 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Nezapomeňte, že změna trvalého bydliště často znamená více než jen aktualizaci adresy na poštovním úřadě. Budete muset aktualizovat adresu také u vašeho poskytovatele zdravotní péče, pojišťovny, zaměstnavatele a jakékoli jiné organizace nebo služby, která používá vaši fyzickou adresu. Pokud se přestěhujete z ciziny, může být také nutné řešit celní a imigrační procedury, které mohou být doprovázeny svým vlastním souborem postupů a požadavků.
+
+
+## Related Posts
+
+- [Registrace Pobytu v České Republice: Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/registrace_k_pobytu_pro_cizince/)
+- [Jak změnit příjmení: Postup a požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/ohlaseni_zmeny_prijmeni/)
+- [Změna údajů v občanském průkazu - Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/zadost_o_zmenu_udaju_v_obcanskem_prukazu/)
+- [Jak změnit poskytovatele zdravotního pojištění v České republice](https://tramitit.com/cs/guides/czech-republic/zmena_zdravotni_pojistovny/)
+- [Jak vyměnit nečeský řidičský průkaz za český - Průvodce](https://tramitit.com/cs/guides/czech-republic/vymena_ridicskeho_prukazu/)

@@ -43,3 +43,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 - Si su DNI caducó mientras estaba fuera de España, no se considerará una infracción y podrá renovarlo al regresar.
 - Si vive fuera de España pero está de visita, aún puede renovarlo estando en el país.
 - El DNI puede tardar alrededor de 2 semanas en ser entregado. Sin embargo, se le puede dar un documento provisional para usar durante este período.
+
+
+## Related Posts
+
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
+- [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/es/guides/spain/renovacion_de_pasaporte/)
+- [Renovación de Licencia de Conducir en España: Proceso y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_permiso_de_conducir/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)

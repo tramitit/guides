@@ -52,3 +52,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Dôležitým zvážením je, že možno bude potrebné zaoberať sa niektorými aspektmi dejín Československa a Slovenska, keďže Slovakia bola súčasťou československej federácie až do roku 1993.
 - Za bežných okolností môže celý proces zabezpečenia slovenského občianstva trvať od niekoľkých mesiacov do niekoľkých rokov.
 - Všetky dokumenty odovzdané slovenským úradom by mali byť staré menej ako 90 dní, oficiálne uznané (apostilizované alebo superlegalizované, v závislosti na krajine) a preložené do slovenčiny oficiálnym prekladateľom.
+
+
+## Related Posts
+
+- [Získanie občianstva v Slovensku: Postup a Požadované Dokumenty](https://tramitit.com/sk/guides/slovakia/nadobudnutie_slovenskeho_obcianstva/)
+- [Žiadosť o slovenský pas: Postup a Požadované dokumenty](https://tramitit.com/sk/guides/slovakia/vydanie_cestovneho_pasu/)
+- [Certifikát slovenského predkovstva - Postup a požadované dokumenty](https://tramitit.com/sk/guides/slovakia/osvedcenie_o_tradicii_slovenskeho_povodu/)
+- [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)

@@ -39,3 +39,12 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Ricorda che durante il periodo in cui ricevi l'indennità di disoccupazione, devi essere attivamente alla ricerca di lavoro, e se rifiuti un'offerta di lavoro che corrisponde alle tue competenze, rischi di perdere i tuoi benefici. La NASpI è calcolata sulla base del salario medio giornaliero che hai guadagnato nei due anni precedenti alla tua disoccupazione. L'importo verrà ridotto dopo 4 mesi, e la durata del pagamento varia in base alla tua età e agli anni di contribuzione.
+
+
+## Related Posts
+
+- [Indennità di Disoccupazione: Come richiederla e documenti necessari](https://tramitit.com/it/guides/italy/domanda_di_assegno_di_disoccupazione/)
+- [Pensione di Invalidità: Come Richiederla e Documenti Necessari](https://tramitit.com/it/guides/italy/domanda_di_pensione_di_invalidita/)
+- [Guida all'Assegno di Maternità in Italia: Procedura e Requisiti](https://tramitit.com/it/guides/italy/domanda_di_assegno_di_maternita/)
+- [Guida all'Assegno Sociale: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/domanda_di_assegno_sociale/)
+- [Assegno Familiare in Italia: Requisiti, Procedura, Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_assegno_per_il_nucleo_familiare/)

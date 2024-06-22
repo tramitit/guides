@@ -40,3 +40,12 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 
 ## Extra details
 Het bedrag van het pensioen dat u ontvangt, zal afhangen van de duur van uw loopbaan en het bedrag van uw verdiensten in België. Er is ook de mogelijkheid om na de leeftijd van 65 jaar verdere pensioenaanspraken op te bouwen, mits u blijft werken. Houd altijd uw socialezekerheidsbijdragen bij om ervoor te zorgen dat u het maximale bedrag bij pensionering ontvangt.
+
+
+## Related Posts
+
+- [Kinderbijslag in België: Aanvraagprocedure en vereiste documenten](https://tramitit.com/nl/guides/belgium/verzoek_om_kinderbijslag/)
+- [Gids voor Werkloosheidsuitkeringen Aanvragen in België](https://tramitit.com/nl/guides/belgium/verzoek_om_werkloosheidsuitkering/)
+- [Werkvergunning in België: Procedure, Vereisten & Aanbieders](https://tramitit.com/nl/guides/belgium/verzoek_om_werkvergunning/)
+- [Verblijfsvergunning in België: Procedure, Documenten & Dienstverleners](https://tramitit.com/nl/guides/belgium/verzoek_om_verblijfstitel/)
+- [Registering in Belgian Population Register: Procedure & Documents](https://tramitit.com/nl/guides/belgium/inschrijving_in_de_bevolkingsregisters/)

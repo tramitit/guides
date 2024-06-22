@@ -40,3 +40,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne informacije
 Registracija novorođenčeta obično mora biti obavljena u roku od mjesec dana od djetetovog rođenja. U slučaju da roditelji ne uspiju registrirati rođenje djeteta unutar postavljenog roka, mogu biti podvrgnuti minimalnoj novčanoj kazni. Postupak se može neznatno razlikovati ovisno o vašim konkretnim lokalnim vlastima. Uvijek se obratite svom nadležnom uredu za matične knjige radi najtočnijih informacija.
+
+
+## Related Posts
+
+- [Registracija rođenja u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/upis_u_maticnu_knjigu_rodenih/)
+- [Registracija djece za školu u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijavljivanje_djeca_za_skolu/)
+- [Rodni list u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga](https://tramitit.com/hr/guides/croatia/izdavanje_rodnog_lista/)
+- [Registracija Braka u Hrvatskoj: Postupak, Dokumenti i Više](https://tramitit.com/hr/guides/croatia/registracija_braka/)
+- [Vjenčanje u Hrvatskoj: Postupak za službeno registriranje braka](https://tramitit.com/hr/guides/croatia/upis_u_maticnu_knjigu_vjencanih/)

@@ -43,3 +43,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 Izvršavanje upisa u knjigu umrlih je bitno jer službeno evidentira smrt preminulog i pomaže u provedbi njegove oporuke i ostavine. Također se preporučuje da se zadrže više primjeraka ovjerenog upisa smrti kako bi se riješile eventualne buduće komplikacije ili potrebe.
 
 Imajte na umu da se stvarni postupak i zahtjevi mogu malo razlikovati ovisno o specifičnom području ili općini u Hrvatskoj. Uvijek provjerite s lokalnim uredom općine ili građanskim centrom kako biste dobili najtočnije i najnovije informacije.
+
+
+## Related Posts
+
+- [Rodni list u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga](https://tramitit.com/hr/guides/croatia/izdavanje_rodnog_lista/)
+- [Postupak Zamjene Hrvatske Osobne Iskaznice Nakon Gubitka](https://tramitit.com/hr/guides/croatia/prijava_nestanka_osobne_iskaznice/)
+- [Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/izdavanje_osobne_iskaznice/)
+- [Registracija Novorođenčadi u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/postupak_prijave_novorodencadi/)
+- [Registracija rođenja u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/upis_u_maticnu_knjigu_rodenih/)

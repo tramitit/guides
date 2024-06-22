@@ -46,3 +46,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Niektoré krajiny môžu vyžadovať, aby ste absolvovali ďalšie testy (písomné alebo jazdné), aj keď majú vzájomnú dohodu s vašou domovskou krajinou.
 - Je dôležité overiť konkrétne požiadavky v krajine, v ktorej plánujete jazdiť, pretože predpisy sa menia.
 - Po určitom období (obvykle šesť mesiacov až rok) mnohé krajiny vyžadujú získanie miestneho vodičského preukazu.
+
+
+## Related Posts
+
+- [Medzinárodný vodičský preukaz: Získanie, požiadavky a postup](https://tramitit.com/sk/guides/slovakia/vydanie_medzinarodneho_vodicskeho_preukazu/)
+- [Vodičský preukaz na Slovensku: Získanie, požadované dokumenty a postup](https://tramitit.com/sk/guides/slovakia/vydanie_vodicskeho_preukazu/)
+- [Slovenská Občianska Preukazka: Požiadavky a Postup](https://tramitit.com/sk/guides/slovakia/vydanie_obcianskeho_preukazu/)
+- [Uznanie Zahraničných Kvalifikácií: Postup a Dokumenty](https://tramitit.com/sk/guides/slovakia/uznanie_kvalifikacie_ziskanej_v_zahranici/)
+- [Registrácia Prechodného Pobytu Cudzinca: Postup a Dokumenty](https://tramitit.com/sk/guides/slovakia/registracia_prechodneho_pobytu_cudzinca/)

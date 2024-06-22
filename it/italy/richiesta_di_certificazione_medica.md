@@ -39,3 +39,12 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Tenete presente che il certificato medico deve essere specifico per l'attività che state per intraprendere. Ad esempio, un certificato per il ciclismo potrebbe non essere valido per una maratona. Consultate sempre l'organizzazione che richiede il certificato per assicurarvi di ottenere la certificazione corretta.
+
+
+## Related Posts
+
+- [Come Ottenere un Certificato di Matrimonio in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_matrimonio/)
+- [Health Ticket Exemption in Italy: How to Apply and Required Documents](https://tramitit.com/it/guides/italy/richiesta_esenzione_ticket_sanitario/)
+- [Certificato di Morte in Italia: Procedura, Documenti e Fornitori](https://tramitit.com/it/guides/italy/richiesta_certificato_di_morte/)
+- [Dichiarazione di Morte in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/denuncia_di_morte/)
+- [Certificato di Residenza in Italia: Guida Dettagliata](https://tramitit.com/it/guides/italy/richiesta_certificato_di_residenza/)

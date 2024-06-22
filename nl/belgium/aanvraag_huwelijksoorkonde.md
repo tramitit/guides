@@ -39,3 +39,12 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 
 ## Aanvullende details
 Vergeet niet om te controleren bij de lokale autoriteiten of de gerelateerde overheidswebsite voor de meest actuele informatie, aangezien regelgeving kan veranderen. Let ook op dat het noodzakelijk is dat jouw huwelijksakte erkend wordt in het land waar je getrouwd bent en ook in België.
+
+
+## Related Posts
+
+- [Geboorteakte in België: Procedure en Dienstverleners](https://tramitit.com/nl/guides/belgium/aanvraag_geboorteakte/)
+- [Bewijs van Woonplaats: Procedure, Documenten, Dienstverleners](https://tramitit.com/nl/guides/belgium/verzoek_om_een_bewijs_van_woonst/)
+- [Rijbewijs in België: Procedure, Benodigde Documenten & Aanbieders](https://tramitit.com/nl/guides/belgium/verzoek_om_een_rijbewijs/)
+- [Naturalisatieproces: Vereisten, Procedure & Advies](https://tramitit.com/nl/guides/belgium/verzoek_om_naturalisatie/)
+- [Paspoort aanvragen: Procedure, vereiste documenten & meer](https://tramitit.com/nl/guides/belgium/aanvraag_paspoort/)

@@ -39,3 +39,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 É importante saber que no SNS você não deve esperar mais de 4 meses por uma consulta com um especialista. No entanto, é recomendado que aqueles que procuram consultas urgentes comuniquem sua urgência à equipe do SNS. No Portal do SNS, você pode acompanhar suas consultas, exames, prescrições e outros serviços de saúde prestados pelo SNS. É uma ferramenta útil para gerenciar sua saúde de forma eficiente.
+
+
+## Related Posts
+
+- [Cartão de Utente do SNS em Portugal: Procedimento e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_utente_do_sns/)
+- [Pedido de Cartão de Residente para Cidadãos Estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_residente_para_cidadaos_estrangeiros/)
+- [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)
+- [Residir legalmente em Portugal: Cartão de Utilizador para estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_utente_para_estrangeiros/)
+- [Passaporte Português: Procedimento, Documentos e Custos](https://tramitit.com/pt/guides/portugal/pedido_de_passaporte_portugues/)

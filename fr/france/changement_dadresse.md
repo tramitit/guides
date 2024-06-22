@@ -38,3 +38,12 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Dans certains cas, mettre à jour votre emplacement peut affecter les services et les fonctionnalités de la plateforme que vous utilisez. Vérifiez toujours les détails de l'application/plateforme sur les procédures de changement d'emplacement.
+
+
+## Related Posts
+
+- [Renewal of French Residence Permit: Complete Guide](https://tramitit.com/fr/guides/france/renouvellement_de_carte_de_sejour/)
+- [Carte Nationale d'Identité en France: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/demande_de_carte_nationale_didentite/)
+- [Carte de Résident en France: Procédure, Documents et Détails](https://tramitit.com/fr/guides/france/demande_de_carte_de_resident/)
+- [Comment s'inscrire sur les listes électorales en France](https://tramitit.com/fr/guides/france/inscription_sur_les_listes_electorales/)
+- [Obtenir un Visa pour la France : Procédure, Documents & Détails](https://tramitit.com/fr/guides/france/demande_de_visa/)

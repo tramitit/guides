@@ -43,3 +43,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 A taxa exata e o tempo de processamento podem variar. Para casos urgentes, pode haver um serviço acelerado disponível mediante taxa adicional. Entre em contato com o registro civil ou seu provedor de serviços para obter as informações mais atualizadas.
+
+
+## Related Posts
+
+- [Certidão de Nascimento: Procedimentos e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certidao_de_nascimento/)
+- [Processo de Registro de Casamento em Portugal para Estrangeiros](https://tramitit.com/pt/guides/portugal/registo_de_casamento_de_cidadao_estrangeiro_em_portugal/)
+- [Certificação de Documentos: Processo e Prestadores de Serviços](https://tramitit.com/pt/guides/portugal/pedido_de_certificacao_de_documentos/)
+- [Certificado de Matrícula: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_matricula/)
+- [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)

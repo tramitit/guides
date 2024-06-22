@@ -43,3 +43,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Celý proces môže trvať dlhšie v závislosti od tempa, akým ambasáda Slovenskej republiky spracúva žiadosti.
 - Uistite sa, že vašu žiadosť a priložené dokumenty overíte a dvojnásobne skontrolujete, aby ste predišli zbytočným oneskoreniam.
 - Poplatok za žiadosť sa líši v závislosti od krajiny, odkiaľ podávate žiadosť. Vždy sa obráťte na ambasádu, aby ste si vyjasnili sumu.
+
+
+## Related Posts
+
+- [Zmena Trvalého Pobytu na Slovensku: Postup a Doklady](https://tramitit.com/sk/guides/slovakia/zmena_trvaleho_pobytu/)
+- [Žiadosť o slovenský pas: Postup a Požadované dokumenty](https://tramitit.com/sk/guides/slovakia/vydanie_cestovneho_pasu/)
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)
+- [Získanie občianstva v Slovensku: Postup a Požadované Dokumenty](https://tramitit.com/sk/guides/slovakia/nadobudnutie_slovenskeho_obcianstva/)
+- [Zrušenie Trvalého Pobytu: Postup a Dôležité Informácie](https://tramitit.com/sk/guides/slovakia/zrusenie_trvaleho_pobytu/)

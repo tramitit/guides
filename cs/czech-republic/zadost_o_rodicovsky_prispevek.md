@@ -46,3 +46,12 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 Předtím než požádáte o rodinný příspěvek, musíte se ujistit, že máte nárok. Příspěvek je poskytován rodičům, kteří momentálně nepracují, nestudují nebo nejsou mimo domov kvůli jiným povinnostem, a kteří se plně starají o své dítě.
 
 Mějte na paměti, že výše poskytnutého rodinného příspěvku se může lišit v závislosti na příjmu rodiny a počtu dětí. Pro více informací navštivte oficiální webové stránky vlády České republiky nebo kontaktujte přímo Úřad práce. Prosím, uvědomte si, že všechny dokumenty musí být přeloženy do češtiny certifikovaným překladatelem, pokud jsou v jiném jazyce.
+
+
+## Related Posts
+
+- [Daňové přiznání v České republice: Postup a Požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/podani_danoveho_priznani/)
+- [Proces žádosti o důchod: Postup a požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_duchod/)
+- [Podpora v nezaměstnanosti: Registrace, postup a požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_podporu_v_nezamestnanosti/)
+- [Trvalý pobyt v České republice: Požadavky a postup pro získání](https://tramitit.com/cs/guides/czech-republic/zadost_o_povoleni_k_trvalemu_pobytu/)
+- [Placení daní v České republice: Postup a daňové povinnosti](https://tramitit.com/cs/guides/czech-republic/platba_dani/)

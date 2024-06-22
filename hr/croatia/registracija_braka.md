@@ -58,3 +58,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - U određenim okolnostima, višestruki svjedoci (dva ili više) mogu osigurati zakonitost ceremonije vjenčanja.
 - Da bi brak bio priznat u vašoj matičnoj državi, možda ćete trebati proći kroz dodatni postupak legalizacije/ovjeravanja.
 - Za specifičnije informacije, najbolje je stupiti u kontakt s lokalnim vlastima ili pravnim stručnjakom specijaliziranim za hrvatsko građansko pravo.
+
+
+## Related Posts
+
+- [Vjenčanje u Hrvatskoj: Postupak za službeno registriranje braka](https://tramitit.com/hr/guides/croatia/upis_u_maticnu_knjigu_vjencanih/)
+- [Vjenčanje u Hrvatskoj: Potrebni dokumenti i postupak](https://tramitit.com/hr/guides/croatia/izdavanje_vjencanog_lista/)
+- [Registracija Novorođenčadi u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/postupak_prijave_novorodencadi/)
+- [Registracija rođenja u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/upis_u_maticnu_knjigu_rodenih/)
+- [Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija](https://tramitit.com/hr/guides/croatia/prijava_boravka_pri_ulasku_u_zemlju/)

@@ -44,3 +44,12 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Existují pokuty za pozdní podání daňového přiznání a za pozdní placení daní, kterým lze vyhnout podáním včas. Nicméně jsou zde také ustanovení pro prodloužení termínu pro ty, kteří si najmou daňového poradce.
+
+
+## Related Posts
+
+- [Placení daní v České republice: Postup a daňové povinnosti](https://tramitit.com/cs/guides/czech-republic/platba_dani/)
+- [Proces žádosti o důchod: Postup a požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_duchod/)
+- [Živnostenský list v České republice: Jak ho získat a co je třeba vědět](https://tramitit.com/cs/guides/czech-republic/registrace_zivnostenskeho_opravneni/)
+- [Jak získat občanský průkaz v České republice - Postup a dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_vydani_obcanskeho_prukazu/)
+- [Registrace zaměstnavatele pro zdravotní pojištění v České republice](https://tramitit.com/cs/guides/czech-republic/registrace_zamestnavatele_k_zdravotnimu_pojisteni/)

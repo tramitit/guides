@@ -45,3 +45,12 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 
 ## Weitere Details
 Bitte beachten Sie, dass die Einrichtung möglicherweise eine geringe Gebühr für die Erstellung dieses Zertifikats erhebt. Außerdem kann je nach Jahreszeit mehrere Werktage dauern, bis die Einrichtung Ihre Anfrage bearbeitet und das Zertifikat ausstellt. Das Zertifikat enthält in der Regel nicht die Fächer, in denen ein Student eingeschrieben ist, oder deren Noten, sondern nur den Immatrikulationsstatus.
+
+
+## Related Posts
+
+- [How to Obtain a Vocational School Certificate in Germany](https://tramitit.com/de/guides/germany/berufsschulbescheinigung_anfordern/)
+- [Schwangerschaftsbestätigung: Was es ist und wer es braucht](https://tramitit.com/de/guides/germany/schwangerschaftsbestatigung_vorlegen/)
+- [Freizügigkeitsbescheinigung in Deutschland: Antrag, Dokumente, Kosten](https://tramitit.com/de/guides/germany/freizugigkeitsbescheinigung/)
+- [Deutscher Personalausweis: Beantragung und Anforderungen](https://tramitit.com/de/guides/germany/beantragung_eines_personalausweises/)
+- [Geburtsurkunde in Deutschland beantragen: Prozess und Tipps](https://tramitit.com/de/guides/germany/geburtsurkunde_beantragen/)

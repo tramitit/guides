@@ -42,3 +42,12 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 Ha a személy 1895 előtt halt meg, gyakran egyházi anyakönyveket használnak, mivel ezekben gyakran megtalálhatók a halottak adatai. Az egyházi anyakönyvek megtalálhatók a [FamilySearch](https://familysearch.org/search/collection/show#uri=http://familysearch.org/searchapi/search/collection/1452460) adatbázisban.
 
 A családfakutatás során fontos megjegyezni, hogy a pontos születési dátum, a születési hely, a szülők nevei stb. magánadatok, melyeket egyetlen magyar hatóság sem ad ki vagy erősít meg a magánszféra törvénye miatt, hacsak nem tudod bizonyítani a jogos érdeklődésedet. Még akkor is, ha közvetlen rokon vagy, eljárás hosszadalmas és időigényes lehet.
+
+
+## Related Posts
+
+- [Halálozási Regisztráció Magyarországon: Dokumentumok, Eljárás](https://tramitit.com/hu/guides/hungary/halal_bejelentese/)
+- [Magyar Útlevél Igénylés - Eljárás, Dokumentumok, Szükséges lépések](https://tramitit.com/hu/guides/hungary/utlevel_igenylese/)
+- [Magyar Állampolgárság Megszerzése: Útmutató és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/allampolgarsagi_kerelmek/)
+- [Lakcímváltoztatás Magyarországon - Eljárás és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/lakohely_bejelentese/)
+- [Házasítási Anyakönyvi Kivonat Kérelmezése Magyarországon](https://tramitit.com/hu/guides/hungary/hazassagi_anyakonyvi_kivonat_igenylese/)

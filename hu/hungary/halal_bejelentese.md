@@ -37,3 +37,12 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Egyes esetekben, különösen történelmi halálesetek esetén, a feljegyzések lehetnek vallási intézményeknél. Az 1895 előtti halálesetek esetén vedd fel a kapcsolatot az adott egyházzal vagy vallási intézménnyel. Magyarország Nemzeti Levéltára is rendelkezhet feljegyzésekkel, keresd fel weboldalukat további információkért: [http://www.mnl.gov.hu/](http://www.mnl.gov.hu/)
+
+
+## Related Posts
+
+- [Halálozási Bizonyítvány Igénylése: Lépések és Információk](https://tramitit.com/hu/guides/hungary/anyakonyvi_kivonatok_kerese/)
+- [Jármű lejelentése Magyarországon - Eljárás, dokumentumok, szolgáltatók](https://tramitit.com/hu/guides/hungary/gepjarmu_forgalombol_valo_kivonasa/)
+- [Hungarian Vehicle Registration Process: Steps and Requirements](https://tramitit.com/hu/guides/hungary/gepjarmu_forgalomba_helyezese/)
+- [Magyar Útlevél Igénylés - Eljárás, Dokumentumok, Szükséges lépések](https://tramitit.com/hu/guides/hungary/utlevel_igenylese/)
+- [Állami Nyugdíjrendszer: Regisztráció és Hozzájárulások](https://tramitit.com/hu/guides/hungary/belepes_az_allami_nyugdijrendszerbe/)

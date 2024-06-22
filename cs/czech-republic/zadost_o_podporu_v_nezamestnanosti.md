@@ -40,3 +40,12 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Pamatujte, abyste byli oprávněni k podpoře v nezaměstnanosti, musíte být nezaměstnaní a aktivně hledat práci. Úřad práce může kdykoli žádat o prokázání tohoto, například odeslané žádosti nebo navštívené pohovory. Délka a výše podpory mohou být různé v závislosti na specifických proměnných, včetně vaší minulé mzdy, minulé pracovní historie a dalších. Doporučuje se zkontrolovat webovou stránku Úřadu práce nebo se s nimi přímo poradit, abyste lépe porozuměli tomu, jak to funguje.
+
+
+## Related Posts
+
+- [Rodinný příspěvek v České republice - Jak a kdo ho může získat](https://tramitit.com/cs/guides/czech-republic/zadost_o_rodicovsky_prispevek/)
+- [Registrace zaměstnavatele pro zdravotní pojištění v České republice](https://tramitit.com/cs/guides/czech-republic/registrace_zamestnavatele_k_zdravotnimu_pojisteni/)
+- [Proces žádosti o důchod: Postup a požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_duchod/)
+- [Živnostenský list v České republice: Jak ho získat a co je třeba vědět](https://tramitit.com/cs/guides/czech-republic/registrace_zivnostenskeho_opravneni/)
+- [Invalidní důchod: Jak ho získat a co potřebujete vědět](https://tramitit.com/cs/guides/czech-republic/zadost_o_invalidni_duchod/)

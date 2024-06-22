@@ -47,3 +47,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 Postoje dva tipa postupaka: redovni i hitni. Redovni postupak traje oko 30 dana, dok hitni postupak može značajno ubrzati proces, ali uz veće troškove. U slučaju gubitka, krađe ili oštećenja putovnice, treba dobiti policijsko izvješće i dostaviti ga prilikom aplikacije. Moguće je imati samo jednu valjanu hrvatsku putovnicu istovremeno.
 
 Napomena: Zbog COVID-a moguća su odgađanja. Provjeravajte ažurirane informacije redovito.
+
+
+## Related Posts
+
+- [Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/izdavanje_osobne_iskaznice/)
+- [Postupak Stjecanja Potvrde Hrvatskog Državljanstva](https://tramitit.com/hr/guides/croatia/izdavanje_domovnice/)
+- [Prijavljivanje izgubljene putovnice u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_nestanka_putovnice/)
+- [Postupak konverzije strane vozačke dozvole u Hrvatskoj](https://tramitit.com/hr/guides/croatia/promjena_vozacke_dozvole_za_strance/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)

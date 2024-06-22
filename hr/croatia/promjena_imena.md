@@ -43,3 +43,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne informacije
 Uvijek zapamtite komunicirati s relevantnim organizacijama o svom novom imenu kako biste spriječili neočekivane probleme poput neslaganja identiteta i drugih. U kontekstu kupovine karata ili igara, promjena imena možda neće biti odobrena ili dostupna u svim slučajevima, stoga uvijek validirajte takve opcije unaprijed. Budite sigurni da ste svjesni svih implikacija i mogućih posljedica koje promjena imena može imati.
+
+
+## Related Posts
+
+- [Promjena prebivališta: Kako ažurirati adresu i dokumente](https://tramitit.com/hr/guides/croatia/promjena_prebivalista/)
+- [Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/izdavanje_osobne_iskaznice/)
+- [Postupak Zamjene Hrvatske Osobne Iskaznice Nakon Gubitka](https://tramitit.com/hr/guides/croatia/prijava_nestanka_osobne_iskaznice/)
+- [Kako dobiti osobni identifikacijski broj (OIB) u Hrvatskoj](https://tramitit.com/hr/guides/croatia/dodjela_oib-a/)
+- [Rodni list u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga](https://tramitit.com/hr/guides/croatia/izdavanje_rodnog_lista/)

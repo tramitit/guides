@@ -59,3 +59,12 @@ _(Estamos atualmente a selecionar os melhores prestadores. Se é ou conhece um p
 - **Prazos:** Esteja atento aos prazos de entrega do IRS para evitar penalizações.
 
 É crucial manter todos os documentos organizados e facilmente acessíveis para um processo de declaração de IRS sem problemas e preciso.
+
+
+## Related Posts
+
+- [Guia Completo para Preencher o Anexo B do IRS em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_b/)
+- [Guia Completo para Preencher o IRS Anexo A em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_a/)
+- [IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros](https://tramitit.com/pt/guides/portugal/irs_anexo_i/)
+- [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)
+- [Anexo E: Guia Completo para Declarar Rendimentos Passivos no IRS](https://tramitit.com/pt/guides/portugal/irs_anexo_e/)

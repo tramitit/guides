@@ -52,3 +52,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Dacă sunteți expat sau nerezident cu obligații fiscale, verificați cu biroul de impozite din țara dvs. de origine pentru a vedea dacă este necesar un TIN și cum să aplicați pentru unul.
 
 - Păstrați întotdeauna TIN-ul dvs. confidențial pentru a evita potențiale cazuri de furt de identitate și fraudă.
+
+
+## Related Posts
+
+- [Certificat de Rezidență Fiscală: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_fiscal/)
+- [Impozitul de Rezidență în România: Ce Este și Cine Este Vizat](https://tramitit.com/ro/guides/romania/taxa_de_habitat/)
+- [Certificat de Atestare Fiscală: Ghid Complet și Procedură](https://tramitit.com/ro/guides/romania/certificat_de_atestare_fiscala/)
+- [Taxe Auto în România: Ghid complet pentru proprietarii de mașini](https://tramitit.com/ro/guides/romania/taxe_si_impozite_auto/)
+- [Impozitul pe proprietate în România: Ghid complet și proceduri](https://tramitit.com/ro/guides/romania/impozit_pe_proprietati/)

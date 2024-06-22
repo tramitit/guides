@@ -39,3 +39,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 ## Detalii suplimentare
 1. Dacă aveți venituri din dobânzi, trebuie să le declarați și pe acestea.
 2. În cazul străinilor care locuiesc în România, odată ce primiți "Cardul de ședere", puteți aplica pentru un certificat de venit.
+
+
+## Related Posts
+
+- [Certificat de Rezidență Fiscală: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_fiscal/)
+- [Certificat de Atestare Fiscală: Ghid Complet și Procedură](https://tramitit.com/ro/guides/romania/certificat_de_atestare_fiscala/)
+- [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)
+- [Card de Identitate Românesc: Proceduri, Documente și Furnizori](https://tramitit.com/ro/guides/romania/buletin_de_identitate/)
+- [Certificat de Căsătorie în România: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_de_casatorie/)

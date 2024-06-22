@@ -48,3 +48,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne pojedinosti
 U nekim slučajevima, ako je potrebno dostaviti ovu potvrdu stranom tijelu, može biti potrebno prevesti je i ovjeriti. Također, neke zemlje zahtijevaju da certifikat bude izdan nedavno, tj. unutar određenog vremenskog perioda prije podnošenja zahtjeva. Visoko je preporučljivo potvrditi to s tijelom, organizacijom ili institucijom koja od vas zahtijeva ovaj dokument.
+
+
+## Related Posts
+
+- [Postupak Stjecanja Potvrde Hrvatskog Državljanstva](https://tramitit.com/hr/guides/croatia/izdavanje_domovnice/)
+- [Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/izdavanje_osobne_iskaznice/)
+- [Kako do hrvatske putovnice: Postupak, dokumenti i informacije](https://tramitit.com/hr/guides/croatia/izdavanje_putovnice/)
+- [Legalizacija Dokumenata u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/legalizacija_dokumenata/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)

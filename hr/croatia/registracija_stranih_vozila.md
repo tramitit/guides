@@ -40,3 +40,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne informacije
 Svako vozilo registrirano u Hrvatskoj treba proći godišnji tehnički pregled. Također, imajte na umu da morate prijaviti registraciju vašeg stranog vozila hrvatskim vlastima unutar 15 dana kako biste izbjegli kazne. Ako uvozite novo vozilo u Hrvatsku, imajte na umu da možda morate platiti PDV i porez na vozila. Vrijedi provjeriti može li se ove zadatke obaviti treća strana ako niste vješti u hrvatskom jeziku.
+
+
+## Related Posts
+
+- [Registracija Vozila U Hrvatskoj: Postupak, Dokumentacija i Informacije](https://tramitit.com/hr/guides/croatia/registracija_vozila/)
+- [Kako dobivati vozačku dozvolu u Hrvatskoj: Postupak, dokumenti i upute](https://tramitit.com/hr/guides/croatia/izdavanje_vozacke_dozvole/)
+- [Postupak konverzije strane vozačke dozvole u Hrvatskoj](https://tramitit.com/hr/guides/croatia/promjena_vozacke_dozvole_za_strance/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)
+- [Proces dobivanja hrvatske vozačke dozvole: Savjeti i procedura](https://tramitit.com/hr/guides/croatia/dobivanje_vozacke_dozvole_za_novopridoslice/)

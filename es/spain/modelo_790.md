@@ -54,3 +54,12 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 ## Detalles Adicionales
 - Algunos usuarios han mencionado que podría ser posible pagar la tarifa en línea a través de aplicaciones bancarias específicas si tienes una cuenta bancaria española.
 - Si no estás en España, podría ser útil contactar al consulado español más cercano para orientación o instrucciones específicas aplicables a tu situación.
+
+
+## Related Posts
+
+- [Guía del Modelo 790 Código 012: Pago y Regularización del NIE](https://tramitit.com/es/guides/spain/modelo_390/)
+- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)

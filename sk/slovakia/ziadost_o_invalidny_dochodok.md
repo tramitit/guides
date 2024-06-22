@@ -40,3 +40,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Je dôležité poznamenať, že poskytnutie invalidného dôchodku je predovšetkým založené na povaha individuálnej invalidity a nie na schopnosti pracovať. Preto je kľúčové, aby lekársky certifikát primerane popisoval zdravotný stav jednotlivca. Podobne by mal každý, kto žiada o invalidný dôchodok, zabezpečiť, že jeho poistné platby sú aktuálne, pretože to môže ovplyvniť schválenie a výšku jeho dôchodku.
+
+
+## Related Posts
+
+- [Sociálne dávky v Slovensku: Kritériá, Žiadosti a Doklady](https://tramitit.com/sk/guides/slovakia/ziadost_o_socialne_davky/)
+- [Odhlásenie zo zdravotného poistenia: Postup a požadované dokumenty](https://tramitit.com/sk/guides/slovakia/odhlasenie_zo_zdravotnej_poistovne/)
+- [Slovenská Občianska Preukazka: Požiadavky a Postup](https://tramitit.com/sk/guides/slovakia/vydanie_obcianskeho_preukazu/)
+- [Registration of Health Insurance in Slovakia: Guide & Providers](https://tramitit.com/sk/guides/slovakia/prihlasenie_do_zdravotnej_poistovne/)
+- [Sociálne štipendium na Slovensku: Podmienky, Dokumenty, Postup](https://tramitit.com/sk/guides/slovakia/ziadost_o_socialne_stipendium/)

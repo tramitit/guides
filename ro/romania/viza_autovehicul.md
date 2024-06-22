@@ -42,3 +42,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Dacă vehiculul a fost importat, trebuie plătită și asigurarea și impozitul pentru poluare al vehiculului.
 - Vă rugăm să rețineți că toate documentele ar trebui traduse în limba română.
 - Este recomandat să consultați ajutor profesional sau furnizori de servicii specifici pentru a vă asista în proces, în special în cazul unei bariere lingvistice sau a necunoașterii birocrației românești.
+
+
+## Related Posts
+
+- [Înregistrarea mașinii în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/inmatriculare_auto/)
+- [Permis de Conducere în România: Proceduri și Cerințe](https://tramitit.com/ro/guides/romania/permis_de_conducere/)
+- [Procesul de obținere a permisului de ședere în România](https://tramitit.com/ro/guides/romania/viza_de_resedinta/)
+- [Taxe Auto în România: Ghid complet pentru proprietarii de mașini](https://tramitit.com/ro/guides/romania/taxe_si_impozite_auto/)
+- [Certificat de Venit în România: Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/adeverinta_de_venit/)

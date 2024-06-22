@@ -40,3 +40,12 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Dans la plupart des cas, la procédure doit être effectuée par un proche du défunt ou par une personne ayant l'autorité légale ou la responsabilité de le faire. Si le décès est survenu suite à un acte de violence, un accident, un suicide ou dans des circonstances suspectes, la police doit être informée, et elle informera ensuite le procureur de la République. Le certificat de décès délivré sera nécessaire pour la plupart des démarches administratives liées au décès (funérailles, changement d'état civil, banque, assurances, etc.).
+
+
+## Related Posts
+
+- [Déclaration de Naissance en France: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/declaration_de_naissance/)
+- [Demande d'Arrêt Maladie: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/demande_darret_de_travail/)
+- [Carte Nationale d'Identité en France: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/demande_de_carte_nationale_didentite/)
+- [Permis de Démolition en France: Processus, Documents & Conseils](https://tramitit.com/fr/guides/france/demande_de_permis_de_demolir/)
+- [Déclaration de revenus en France: Guide complet de A à Z](https://tramitit.com/fr/guides/france/declaration_dimpots_sur_le_revenu/)

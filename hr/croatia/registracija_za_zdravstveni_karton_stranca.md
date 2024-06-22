@@ -44,3 +44,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne pojedinosti
 Sudjelovanje u hrvatskom državnom zdravstvenom sustavu obvezno je za sve stanovnike, uključujući strance koji žive u Hrvatskoj. Sustav se financira obveznim doprinosima za zdravstveno osiguranje. Napomena: privatno zdravstvo također je dostupno, iako obično služi kao dodatno osiguranje uz obvezno državno zdravstveno osiguranje.
+
+
+## Related Posts
+
+- [Zdravstveno osiguranje u Hrvatskoj: Obveza, Postupak i Pružatelji](https://tramitit.com/hr/guides/croatia/dobivanje_zdravstvenog_osiguranja/)
+- [Kako do hrvatske putovnice: Postupak, dokumenti i informacije](https://tramitit.com/hr/guides/croatia/izdavanje_putovnice/)
+- [Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/izdavanje_osobne_iskaznice/)
+- [Kako dobiti osobni identifikacijski broj (OIB) u Hrvatskoj](https://tramitit.com/hr/guides/croatia/dodjela_oib-a/)
+- [Postupak Stjecanja Potvrde Hrvatskog Državljanstva](https://tramitit.com/hr/guides/croatia/izdavanje_domovnice/)

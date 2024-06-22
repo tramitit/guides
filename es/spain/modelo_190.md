@@ -71,3 +71,12 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 - El Modelo 190 debe presentarse anualmente dentro de los primeros 20 días de enero siguiente al fin del año fiscal.
 
 Para obtener más información y orientación paso a paso, visita la [guía oficial de la Agencia Tributaria española](https://www.agenciatributaria.gob.es/AEAT.sede/tramitacion/Gedi/190.shtml).
+
+
+## Related Posts
+
+- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/es/guides/spain/modelo_130/)
+- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/es/guides/spain/modelo_145/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
+- [Cómo presentar la declaración de impuestos en España: guía detallada](https://tramitit.com/es/guides/spain/presentacion_de_la_declaracion_de_la_renta/)
+- [Guía Completa del Modelo 790: Cómo Pagar Tarifas Administrativas](https://tramitit.com/es/guides/spain/modelo_790/)

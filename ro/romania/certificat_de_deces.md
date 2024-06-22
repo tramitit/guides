@@ -42,3 +42,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Acest proces ar trebui finalizat cât mai curând posibil după deces pentru a evita orice complicatii legale.
 - Dacă decedatul avea active, datorii sau obligații legale, certificatul de deces va fi necesar pentru procedurile legale corespunzătoare.
 - Taxele asociate obținerii unui certificat de deces pot fi diferite în funcție de urgența solicitării și de locația unde este solicitat.
+
+
+## Related Posts
+
+- [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)
+- [Certificat de Căsătorie în România: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_de_casatorie/)
+- [Procedura pentru certificari medicale legale in Europa](https://tramitit.com/ro/guides/romania/institut_legal_medical/)
+- [Certificat de Venit în România: Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/adeverinta_de_venit/)
+- [Certificat de Autenticitate: Ce Este, Cine Are Nevoie și Cum Obții](https://tramitit.com/ro/guides/romania/adeverinta_de_autenticitate/)

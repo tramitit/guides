@@ -45,3 +45,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 Vodičský preukaz z krajín mimo Európskej únie je v Slovensku povolený maximálne jeden rok. Ak pochádzate z krajiny mimo EÚ, odporúča sa získať medzinárodný vodičský preukaz. Majte na pamäti, že musíte vždy nosiť aj tento spolu so svojím bežným vodičským preukazom pri jazde.
 
 Majte na pamäti, že všetky kroky a postupy môžu podliehať zmenám a odporúča sa obrátiť sa na miestny úrad cestnej dopravy alebo miestnu autoškolu pre najpresnejšie a najaktuálnejšie informácie.
+
+
+## Related Posts
+
+- [Medzinárodný vodičský preukaz: Získanie, požiadavky a postup](https://tramitit.com/sk/guides/slovakia/vydanie_medzinarodneho_vodicskeho_preukazu/)
+- [Slovenská Občianska Preukazka: Požiadavky a Postup](https://tramitit.com/sk/guides/slovakia/vydanie_obcianskeho_preukazu/)
+- [Exchange Foreign Driver's License: Process, Documents, & Providers](https://tramitit.com/sk/guides/slovakia/vymena_cudzozemskeho_vodicskeho_preukazu/)
+- [Žiadosť o slovenský pas: Postup a Požadované dokumenty](https://tramitit.com/sk/guides/slovakia/vydanie_cestovneho_pasu/)
+- [Registration of Vehicles in Slovakia: Process, Documents & Providers](https://tramitit.com/sk/guides/slovakia/registracia_motoroveho_vozidla/)

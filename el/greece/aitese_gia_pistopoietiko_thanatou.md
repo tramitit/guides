@@ -39,3 +39,12 @@ _(Αυτή τη στιγμή επιμελούμε τους καλύτερους 
 
 ## Επιπρόσθετες λεπτομέρειες
 Εάν ο νεκρός είναι ξένος, ο θάνατος πρέπει να δηλωθεί τόσο στην πόλη όπου συνέβη όσο και στην Αθήνα στο Τμήμα Ξένων & Εξωτερικών Υποθέσεων (`Τμήμα Ξένων & Εξωτερικών`) του Δήμου Αθηναίων.
+
+
+## Related Posts
+
+- [Πιστοποιητικό Κληρονομιάς στην Ελλάδα: Οδηγός για Κληρονόμους](https://tramitit.com/el/guides/greece/aitese_gia_pistopoietiko_kleronomias/)
+- [Πιστοποιητικό Μόνιμης Κατοικίας στην Ελλάδα: Αίτηση και Απαιτήσεις](https://tramitit.com/el/guides/greece/aitese_gia_bebaiose_monimou_katoikias/)
+- [Αίτηση για Πιστοποιητικό Γέννησης στην Ελλάδα και την Κύπρο](https://tramitit.com/el/guides/greece/aitese_gia_pistopoietiko_genneses/)
+- [Πιστοποιητικό Γάμου στην Ελλάδα: Απαιτούμενα Έγγραφα και Διαδικασία](https://tramitit.com/el/guides/greece/aitese_gia_pistopoietiko_gamou/)
+- [Πιστοποιητικό Αλλαγής Ονόματος: Οδηγός και Απαιτούμενα Έγγραφα](https://tramitit.com/el/guides/greece/aitese_gia_pistopoietiko_allages_eponumou/)

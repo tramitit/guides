@@ -44,3 +44,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Detalles adicionales
 - **Certificados Bilingües**: Algunos registros pueden ofrecer certificados de defunción en varios idiomas, lo cual puede ser útil si el documento necesita ser utilizado internacionalmente.
 - **Certificado Digital**: Para aquellos que tienen un certificado digital o CL@VE, algunos procesos se pueden llevar a cabo en línea.
+
+
+## Related Posts
+
+- [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_de_defuncion/)
+- [Certificado de Últimas Voluntades: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_actos_de_última_voluntad/)
+- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)
+- [Cómo obtener un Certificado de Últimas Voluntades en España](https://tramitit.com/es/guides/spain/obtencion_del_certificado_de_ultimas_voluntades/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)

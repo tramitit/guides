@@ -41,3 +41,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Detalles adicionales
 Recuerde, debe cumplir con sus obligaciones como buscador de empleo. Esto significa que debe asistir a todos los cursos o reuniones obligatorias y buscar activamente trabajo, o sus beneficios podrían ser suspendidos. Se realizarán controles regulares para verificar que esté buscando activamente empleo. Asegúrese de estar al tanto de sus obligaciones una vez que su reclamo haya sido aprobado.
+
+
+## Related Posts
+
+- [Cómo solicitar cita en SEPE España y qué documentos necesitas](https://tramitit.com/es/guides/spain/solicitud_de_cita_previa_para_el_sepe/)
+- [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_pension_de_jubilacion/)
+- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
+- [Baja por Maternidad en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_la_baja_por_maternidad/)
+- [Baja por Paternidad en España: Procedimiento y Prestaciones](https://tramitit.com/es/guides/spain/solicitud_de_la_baja_por_paternidad/)

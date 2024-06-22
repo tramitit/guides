@@ -53,3 +53,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 ## Ďalšie podrobnosti
 Pred podaním žiadosti o TRC si uistite, že ste si prešli celý dokument a sledujte prípadné chýbajúce alebo nesprávne informácie, pretože to by mohlo oneskoriť spracovanie vašej žiadosti. 
 Upozorňujeme, že ide o všeobecný sprievodca a proces sa môže mierne líšiť od krajiny krajine, preto sa ubezpečte, že zároveň skontrolujete webovú stránku konkrétnej krajiny pre presné informácie.
+
+
+## Related Posts
+
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)
+- [Zmena Trvalého Pobytu na Slovensku: Postup a Doklady](https://tramitit.com/sk/guides/slovakia/zmena_trvaleho_pobytu/)
+- [Zrušenie Trvalého Pobytu: Postup a Dôležité Informácie](https://tramitit.com/sk/guides/slovakia/zrusenie_trvaleho_pobytu/)
+- [Registrácia humanitárneho pobytu: Postup a Potrebné dokumenty](https://tramitit.com/sk/guides/slovakia/registracia_humanitarneho_pobytu/)
+- [Trestný register na Slovensku: Získanie výpisu a požadované dokumenty](https://tramitit.com/sk/guides/slovakia/ziadost_o_vydanie_vypisu_z_registra_trestov/)

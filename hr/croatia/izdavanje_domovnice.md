@@ -42,3 +42,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne pojedinosti
 Imajte na umu da proces dobivanja hrvatskog državljanstva može biti složen i dugotrajan. Preporučuje se konzultirati se s pravnim stručnjacima ili osobama koje su prošle kroz proces. [Web stranica hrvatske vlade](http://www.mup.hr/) je idealno polazište za službene informacije o procesu.
+
+
+## Related Posts
+
+- [Kako do hrvatske putovnice: Postupak, dokumenti i informacije](https://tramitit.com/hr/guides/croatia/izdavanje_putovnice/)
+- [Rodni list u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga](https://tramitit.com/hr/guides/croatia/izdavanje_rodnog_lista/)
+- [Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/izdavanje_osobne_iskaznice/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)
+- [Legalizacija Dokumenata u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/legalizacija_dokumenata/)

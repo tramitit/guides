@@ -47,3 +47,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Za strance, osobne iskaznice se izdaju za vrijeme njihovog boravka na određeno vrijeme.
 - Biometrijski podaci na hrvatskim osobnim iskaznicama zadovoljavaju sigurnosne standarde.
 - Nove hrvatske osobne iskaznice izdane od kolovoza 2021. godine imaju ažurirani dizajn i dodatne sigurnosne značajke.
+
+
+## Related Posts
+
+- [Kako do hrvatske putovnice: Postupak, dokumenti i informacije](https://tramitit.com/hr/guides/croatia/izdavanje_putovnice/)
+- [Postupak Zamjene Hrvatske Osobne Iskaznice Nakon Gubitka](https://tramitit.com/hr/guides/croatia/prijava_nestanka_osobne_iskaznice/)
+- [Postupak Stjecanja Potvrde Hrvatskog Državljanstva](https://tramitit.com/hr/guides/croatia/izdavanje_domovnice/)
+- [Prijavljivanje izgubljene putovnice u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_nestanka_putovnice/)
+- [Rodni list u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga](https://tramitit.com/hr/guides/croatia/izdavanje_rodnog_lista/)

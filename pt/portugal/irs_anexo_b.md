@@ -45,3 +45,12 @@ Este formulário é necessário para indivíduos que tenham obtido rendimentos a
 - **Recibos de Despesas**: Recibos e registos de despesas dedutíveis.
 
 Estes documentos podem ser obtidos a partir dos seus registos pessoais, faturas, e recibos relacionados com as suas atividades empresariais ao longo do ano fiscal.
+
+
+## Related Posts
+
+- [Guia Completo para Preencher o IRS Anexo A em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_a/)
+- [Guia Completo do IRS Anexo C para Trabalhadores Independentes](https://tramitit.com/pt/guides/portugal/irs_anexo_c/)
+- [IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros](https://tramitit.com/pt/guides/portugal/irs_anexo_i/)
+- [Guia Completo para Preencher o Anexo D na Declaração de IRS](https://tramitit.com/pt/guides/portugal/irs_anexo_d/)
+- [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)

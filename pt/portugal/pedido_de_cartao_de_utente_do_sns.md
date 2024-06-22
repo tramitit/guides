@@ -40,3 +40,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Embora o cartão de utente do SNS seja necessário, em situações de emergência, o centro de saúde irá atendê-lo mesmo sem ele.
 - O número do Cartão de Utente será único e ligado ao seu NIF pessoal, portanto é seguro mesmo se for perdido.
 - O cartão é gratuito, embora substituições por cartões perdidos possam ter uma pequena taxa.
+
+
+## Related Posts
+
+- [Agendar Consulta Médica no SNS: Guia Completo e Passo a Passo](https://tramitit.com/pt/guides/portugal/pedido_de_marcacao_de_consulta_no_sns/)
+- [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)
+- [Residir legalmente em Portugal: Cartão de Utilizador para estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_utente_para_estrangeiros/)
+- [Pedido de Cartão de Residente para Cidadãos Estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_residente_para_cidadaos_estrangeiros/)
+- [Descubra Como Renovar Seu Cartão de Cidadão Português](https://tramitit.com/pt/guides/portugal/renovacao_de_cartao_de_cidadao/)

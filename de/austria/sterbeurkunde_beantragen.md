@@ -42,3 +42,12 @@ Die Kosten variieren je nach der Anzahl der benötigten Kopien und dem Verwendun
 Für Ausländer, die in Österreich leben, wird das Standesamt wahrscheinlich auch den Tod an die Botschaft ihres Heimatlandes melden.
 
 Bitte denken Sie daran, dass Gesetze und Vorschriften variieren und Änderungen unterliegen können, und während dieser Leitfaden informieren soll, sollten Sie sich immer an die Ressourcen der regionalen Regierung für die genauesten Informationen wenden.
+
+
+## Related Posts
+
+- [Geburtsurkunde in Österreich: Antrag, Verfahren & Kosten](https://tramitit.com/de/guides/austria/geburtsurkunde_beantragen/)
+- [Heiratsurkunde neu bestellen: Verfahren und Anbieter](https://tramitit.com/de/guides/austria/heiratsurkunde_nachbestellung/)
+- [Heiratsurkundenanwendung in Österreich: Prozess & Anforderungen](https://tramitit.com/de/guides/austria/heiratsurkunde_beantragen/)
+- [Apostille: Internationales Zertifikat für Dokumente](https://tramitit.com/de/guides/austria/apostille_beantragen/)
+- [Strafregisterauszug: Antrag, Verfahren und erforderliche Dokumente](https://tramitit.com/de/guides/austria/fuhrungszeugnis_beantragen/)

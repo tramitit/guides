@@ -40,3 +40,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Lembre-se, para obter um atestado de óbito em Portugal, é crucial que a morte tenha sido primeiro comunicada e registrada neste país.
+
+
+## Related Posts
+
+- [Certidão de Nascimento: Procedimentos e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certidao_de_nascimento/)
+- [Certidão de Casamento: Como Obter e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certidao_de_casamento/)
+- [Obter Atestado de Residência em Portugal: Procedimento e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_atestado_de_residencia/)
+- [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)
+- [Solicitação de Documentos Duplicados em Portugal: Guia Completo](https://tramitit.com/pt/guides/portugal/pedido_de_duplicado_de_documentos/)

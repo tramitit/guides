@@ -46,3 +46,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Regulile de extensie a vizei de muncă variază de la o țară la alta, deci este important să vă documentați și să înțelegeți regulile și cerințele specifice pentru România. Asigurați-vă, de asemenea, că sunteți la curent cu eventuale schimbări în legislația privind imigrația, deoarece acestea pot afecta procesul dumneavoastră de aplicare. Menținerea unei linii deschise de comunicare cu Oficiul Român de Imigrare este recomandabilă pentru a rămâne la curent cu orice modificări.
+
+
+## Related Posts
+
+- [Procesul de obținere a permisului de ședere în România](https://tramitit.com/ro/guides/romania/viza_de_resedinta/)
+- [Permisiune de Muncă în România: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/solicitare_permis_de_munca_pentru_expati/)
+- [Procesul de obținere a rezidenței permanente în străinătate](https://tramitit.com/ro/guides/romania/solicitare_rezidenta_permanenta/)
+- [Obținerea unui Permis de Ședere în România: Ghid complet](https://tramitit.com/ro/guides/romania/permis_de_sedere/)
+- [Cum să obții un visa de studiu: ghid complet pentru români](https://tramitit.com/ro/guides/romania/obtinere_viza_de_studii/)

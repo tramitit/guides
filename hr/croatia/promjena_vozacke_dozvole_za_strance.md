@@ -47,3 +47,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Hrvatski zakon ne priznaje Međunarodne vozačke dozvole (IDP) kao valjan oblik vozačke dozvole. Stoga međunarodni stanovnici moraju prenijeti svoju stranu vozačku dozvolu u hrvatsku kako bi legalno vozili u zemlji.
 - Ovaj proces ne zahtijeva ponovno polaganje vozačkog ispita.
 - Imajte na umu da se naknade mogu razlikovati i da može biti potrebno dodatno plaćanje za službene prijevode, te je preporučljivo kontaktirati lokalne vlasti ili stručnjaka za točne informacije.
+
+
+## Related Posts
+
+- [Kako dobivati vozačku dozvolu u Hrvatskoj: Postupak, dokumenti i upute](https://tramitit.com/hr/guides/croatia/izdavanje_vozacke_dozvole/)
+- [Proces dobivanja hrvatske vozačke dozvole: Savjeti i procedura](https://tramitit.com/hr/guides/croatia/dobivanje_vozacke_dozvole_za_novopridoslice/)
+- [Registracija Stranih Vozila u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/registracija_stranih_vozila/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)
+- [Kako do hrvatske putovnice: Postupak, dokumenti i informacije](https://tramitit.com/hr/guides/croatia/izdavanje_putovnice/)

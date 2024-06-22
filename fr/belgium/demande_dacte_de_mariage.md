@@ -39,3 +39,12 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 N'oubliez pas de vérifier avec les autorités locales ou le site web du gouvernement concerné pour obtenir les informations les plus à jour car les réglementations peuvent changer. Notez également qu'il est nécessaire que votre certificat de mariage soit reconnu dans le pays où vous vous êtes marié ainsi qu'en Belgique.
+
+
+## Related Posts
+
+- [Obtaining a Birth Certificate in Belgium: Procedure & Details](https://tramitit.com/fr/guides/belgium/demande_dacte_de_naissance/)
+- [Obtention de passeport : procédure, documents requis et fournisseurs](https://tramitit.com/fr/guides/belgium/demande_de_passeport/)
+- [Residence Permit in Belgium: Process, Requirements & Help](https://tramitit.com/fr/guides/belgium/demande_de_titre_de_sejour/)
+- [Obtenez un permis de travail en Belgique: Guide et Documents Requis](https://tramitit.com/fr/guides/belgium/demande_de_permis_de_travail/)
+- [Obtaining a Driver's License in Belgium: Process and Requirements](https://tramitit.com/fr/guides/belgium/demande_de_permis_de_conduire/)

@@ -44,3 +44,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 A partir de 2021, los padres españoles tienen derecho a una baja por paternidad igual e intransferible a la de las madres. Esto significa que ambos padres pueden tomar hasta 16 semanas de baja. La baja puede ser tomada hasta un año después del nacimiento o adopción. El beneficio se paga al 100% del salario base regulador.
 
 Ten en cuenta: mientras estás de baja por paternidad, estás protegido contra el despido. Asegúrate de haber discutido tus planes con tu empleador para que encajen con su planificación de bajas.
+
+
+## Related Posts
+
+- [Baja por Maternidad en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_la_baja_por_maternidad/)
+- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_prestacion_por_desempleo/)
+- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
+- [Registro de nacimiento en España: Procedimiento y requisitos](https://tramitit.com/es/guides/spain/inscripcion_de_nacimiento/)
+- [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_pension_de_jubilacion/)

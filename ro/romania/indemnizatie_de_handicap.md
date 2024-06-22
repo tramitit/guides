@@ -42,3 +42,12 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 Este crucial să aduni cât mai multe dovezi posibile pentru a-ți susține cererea. Acest lucru include înregistrările medicale, scrisori de la profesioniștii din domeniul sănătății și chiar mărturii de la persoane care pot confirma situația ta.
 
 Notă: Este posibil să dureze ceva timp până când cererea este procesată și plățile încep. Este important să începi acest proces cât mai devreme posibil și să verifici în mod regulat starea cererii tale. De asemenea, reține că suma indemnizației pe care o primești poate depinde de alte venituri.
+
+
+## Related Posts
+
+- [Indemnizația pentru creșterea copiilor: ghid complet în România](https://tramitit.com/ro/guides/romania/indemnizatie_de_crestere_copil/)
+- [Procedura pentru certificari medicale legale in Europa](https://tramitit.com/ro/guides/romania/institut_legal_medical/)
+- [Impozitul de Rezidență în România: Ce Este și Cine Este Vizat](https://tramitit.com/ro/guides/romania/taxa_de_habitat/)
+- [Extensie de viză de lucru în România: Procedură și documente necesare](https://tramitit.com/ro/guides/romania/prelungire_viza_de_lucru/)
+- [Certificat de Venit în România: Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/adeverinta_de_venit/)

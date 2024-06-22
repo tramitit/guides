@@ -38,3 +38,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 | Davatelj | Web stranica | Vremenski okviri | Trošak |
 | --------------- | --------------- | :-------------: | :-------------: |
+
+
+## Related Posts
+
+- [Postupak Zamjene Hrvatske Osobne Iskaznice Nakon Gubitka](https://tramitit.com/hr/guides/croatia/prijava_nestanka_osobne_iskaznice/)
+- [Kako do hrvatske putovnice: Postupak, dokumenti i informacije](https://tramitit.com/hr/guides/croatia/izdavanje_putovnice/)
+- [Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/izdavanje_osobne_iskaznice/)
+- [Postupak Stjecanja Potvrde Hrvatskog Državljanstva](https://tramitit.com/hr/guides/croatia/izdavanje_domovnice/)
+- [Postupak konverzije strane vozačke dozvole u Hrvatskoj](https://tramitit.com/hr/guides/croatia/promjena_vozacke_dozvole_za_strance/)

@@ -41,3 +41,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 * A maioria dos planos de dados móveis requer um compromisso de pelo menos 12 meses, embora também existam planos pré-pagos sem compromisso de longo prazo.
 * Se você estiver viajando e seu telefone estiver bloqueado, considere comprar um telefone desbloqueado barato para usar com um cartão SIM local.
 * Em alguns países, você pode encomendar o serviço de Internet de provedores como [Starlink](https://www.starlink.com/) e tê-lo enviado para usar em diferentes regiões. Certifique-se de verificar os termos e condições do provedor.
+
+
+## Related Posts
+
+- [Como Cancelar o Serviço de Internet Móvel: Procedimentos e Dicas Úteis](https://tramitit.com/pt/guides/portugal/cancelamento_de_servico_de_net_movel/)
+- [Matrícula de Veículo em Portugal: Procedimentos e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_registo_de_automovel/)
+- [Como Obter uma Carteira de Habilitação em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_carta_de_conducao/)
+- [Pedido de Cartão de Residente para Cidadãos Estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_residente_para_cidadaos_estrangeiros/)
+- [Cartão de Utente do SNS em Portugal: Procedimento e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_utente_do_sns/)

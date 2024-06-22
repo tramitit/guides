@@ -49,3 +49,12 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 ## Další podrobnosti
 
 Pokud neovládáte český jazyk, může být dobrý nápad přivést tlumočníka do matričního úřadu. Navíc, v případě, že rodiče jsou cizinci nebo nejsou občany EU, je dobré konzultovat s matričním úřadem předem ohledně specifických požadovaných dokumentů. Různé scénáře mohou vyžadovat dodatečnou dokumentaci. Pro občany, kteří jsou oprávněni k německému občanství dle předků, je klíčové konzultovat příslušnou sekci v Německém velvyslanectví k dokončení tohoto postupu.
+
+
+## Related Posts
+
+- [Registrace manželství na matričním úřadu v České republice](https://tramitit.com/cs/guides/czech-republic/matrika_-_snatek/)
+- [Registrace vozidla v České republice: Postup a požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/registrace_automobilu/)
+- [Registrace Pobytu v České Republice: Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/registrace_k_pobytu_pro_cizince/)
+- [Registrace vozidla ze zahraničí - Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/registrace_vozidla_dovezeneho_ze_zahranici/)
+- [Jak získat občanský průkaz v České republice - Postup a dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_vydani_obcanskeho_prukazu/)

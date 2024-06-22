@@ -45,3 +45,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Detalles adicionales
 - **Registros Históricos**: Encontrar certificados de nacimiento de los años 1800 o principios del 1900 podría requerir visitar o contactar archivos históricos o registros eclesiásticos, especialmente si los registros civiles locales están incompletos.
 - **Idioma**: El certificado y los formularios pueden estar en español, por lo tanto tener un entendimiento básico del idioma o un servicio de traducción podría ser necesario.
+
+
+## Related Posts
+
+- [Registro de nacimiento en España: Procedimiento y requisitos](https://tramitit.com/es/guides/spain/inscripcion_de_nacimiento/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
+- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)

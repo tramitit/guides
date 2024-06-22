@@ -38,3 +38,12 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - CAPAC ne facture pas de frais d'adhésion, contrairement aux syndicats. Le traitement de votre demande pourrait prendre plus de temps au CAPAC en raison de conditions plus encombrées.
 - Si vous êtes un jeune employé et que vous n'avez pas travaillé pendant plus de 12 des 18 derniers mois, vous pourriez encore être éligible aux allocations en tant que jeune diplômé (demandeur d’emploi stage d’insertion).
 - Les titulaires d'un permis de travail B qui perdent leur emploi peuvent également demander des allocations de chômage.
+
+
+## Related Posts
+
+- [Child Benefit in Belgium: How to Apply and Eligibility](https://tramitit.com/fr/guides/belgium/demande_dallocations_familiales/)
+- [Comment Demander une Pension de Retraite en Belgique](https://tramitit.com/fr/guides/belgium/demande_de_pension/)
+- [Obtenez un permis de travail en Belgique: Guide et Documents Requis](https://tramitit.com/fr/guides/belgium/demande_de_permis_de_travail/)
+- [Residence Permit in Belgium: Process, Requirements & Help](https://tramitit.com/fr/guides/belgium/demande_de_titre_de_sejour/)
+- [Logement Social aux Pays-Bas: Inscription et Procédures](https://tramitit.com/fr/guides/belgium/demande_de_logement_social/)

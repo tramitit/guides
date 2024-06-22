@@ -49,3 +49,12 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a u
 - **Reserva con anticipación**: Las citas pueden ser difíciles de obtener, por lo que se recomienda reservar tan pronto como sepas que necesitas el certificado.
 - **Datos biométricos**: Prepárate para que tomen tus huellas dactilares cuando presentes tu solicitud.
 - **Recogida vs Envío**: En algunos casos, es posible que puedas elegir entre recoger el certificado en persona o que te lo envíen por correo a tu dirección.
+
+
+## Related Posts
+
+- [Certificado de Delitos Sexuales: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_del_certificado_de_delitos_sexuales/)
+- [Cómo obtener un Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/solicitud_de_certificado_de_antecedentes_penales/)
+- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/certificado_de_antecedentes_penales/)
+- [Cómo obtener un Certificado Digital en España: Guía completa](https://tramitit.com/es/guides/spain/solicitud_del_certificado_digital/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)

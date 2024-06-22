@@ -43,3 +43,12 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - È importante che la lettera di richiesta sia in italiano.
 - Se stai richiedendo il certificato di morte per scopi genealogici, può essere utile includere qualsiasi legame familiare con la regione. Informazioni come i nomi dei genitori del defunto, del coniuge e dei figli possono velocizzare il processo.
 - Tieni presente che alcuni comuni potrebbero addebitare una tassa per l'emissione di questi certificati.
+
+
+## Related Posts
+
+- [Dichiarazione di Morte in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/denuncia_di_morte/)
+- [Come richiedere un certificato di nascita in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_nascita/)
+- [Come Ottenere un Certificato di Matrimonio in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_matrimonio/)
+- [Certificato di Stato di Famiglia in Italia: Procedura e Requisiti](https://tramitit.com/it/guides/italy/richiesta_certificato_di_stato_di_famiglia/)
+- [Certificato di Stato Civile: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/certificato_di_stato_civile/)

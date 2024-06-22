@@ -53,3 +53,12 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Übersetzungsdienste können erforderlich sein, wenn der Empfänger kein Deutsch versteht.
 
 (Hinweis: Die Verfahren und Gebühren können in verschiedenen Regionen Österreichs variieren)
+
+
+## Related Posts
+
+- [Wie man eine Sterbeurkunde beantragt und was benötigt wird](https://tramitit.com/de/guides/austria/sterbeurkunde_beantragen/)
+- [Heiratsurkunde neu bestellen: Verfahren und Anbieter](https://tramitit.com/de/guides/austria/heiratsurkunde_nachbestellung/)
+- [Heiratsurkundenanwendung in Österreich: Prozess & Anforderungen](https://tramitit.com/de/guides/austria/heiratsurkunde_beantragen/)
+- [Staatsbürgerschaftsnachweis in Österreich: Antrag, Dokumente & Ablauf](https://tramitit.com/de/guides/austria/staatsburgerschaftsnachweis/)
+- [Österreichischer Personalausweis: Antrag, Kosten & Gültigkeit](https://tramitit.com/de/guides/austria/personalausweis_beantragen/)

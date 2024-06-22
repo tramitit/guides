@@ -40,3 +40,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Se você estiver fora de Portugal, ainda é possível solicitar isso através do Consulado Português em seu país ou através do Portal da Justiça Portuguesa, pois o certificado é fornecido eletronicamente. Se você estiver se candidatando a um emprego como motorista ou uma empresa de recrutamento está solicitando isso, provavelmente eles precisam garantir que você não tenha histórico criminal que possa afetar o seu cargo.
+
+
+## Related Posts
+
+- [Certificado de Registo para Cidadãos da UE em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_de_cidadao_da_uniao_europeia/)
+- [Certificado de Matrícula: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_matricula/)
+- [Obtenção do Certificado de Registo Predial em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_certidao_de_registo_predial/)
+- [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)
+- [Certificação de Documentos: Processo e Prestadores de Serviços](https://tramitit.com/pt/guides/portugal/pedido_de_certificacao_de_documentos/)

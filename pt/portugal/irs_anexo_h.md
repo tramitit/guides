@@ -57,3 +57,12 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é um presta
 ## Detalhes adicionais
 - Sempre certifique-se de ter toda a documentação de suporte organizada e prontamente disponível em caso de auditorias ou verificação adicional pela autoridade fiscal portuguesa.
 - Verifique cuidadosamente por quaisquer erros comuns, como aquele relacionado às despesas de habitação. Assegure-se de que todas as despesas de habitação sejam relatadas corretamente para evitar o erro do código 249H.
+
+
+## Related Posts
+
+- [Guia Completo para Preencher o Anexo D na Declaração de IRS](https://tramitit.com/pt/guides/portugal/irs_anexo_d/)
+- [Guia Completo para Preencher o IRS Anexo A em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_a/)
+- [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)
+- [Guia Completo para Preencher o Anexo B do IRS em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_b/)
+- [IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros](https://tramitit.com/pt/guides/portugal/irs_anexo_i/)

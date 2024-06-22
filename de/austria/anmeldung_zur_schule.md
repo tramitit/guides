@@ -52,3 +52,12 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Studenten aus Drittländern ohne eine Aufenthaltserlaubnis als Student müssen eine Studiengebühr von 726,72 Euro pro Semester und den Österreichische Hochschülerinnen- und Hochschülerschaftsbeitrag und Studentenversicherungsbeitrag von etwa 19,20 Euro pro Semester zahlen.
 
 **Dies sind allgemeine Richtlinien, überprüfen Sie immer die spezifischen Anforderungen der Schule und des Kurses, für den Sie sich interessieren.**
+
+
+## Related Posts
+
+- [Studieren in Österreich: Ein Leitfaden für internationale Studierende](https://tramitit.com/de/guides/austria/anmeldung_zur_universitat/)
+- [Studienzuschuss in Österreich: Beantragung, Voraussetzungen und Ablauf](https://tramitit.com/de/guides/austria/antrag_auf_studienbeihilfe/)
+- [Leben als Student in Österreich: Stipendien, Wien und Budgetplanung](https://tramitit.com/de/guides/austria/unterstutzung_fur_schuler/)
+- [Residence Registration in Austria: Procedure and Required Documents](https://tramitit.com/de/guides/austria/meldeauskunft/)
+- [Anmeldung bei der Sozialversicherung in Österreich](https://tramitit.com/de/guides/austria/sozialversicherung_anmelden/)

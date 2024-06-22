@@ -45,3 +45,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Izuzeci se mogu primijeniti na državljane zemalja EU. Uvijek se savjetujte s službenim smjernicama koje pruža Ministarstvo unutarnjih poslova Hrvatske.
 - Imajte na umu da ste zakonski obvezni prijaviti svaku promjenu adrese unutar 15 dana od selidbe, lokalnoj policijskoj postaji. To znači da ako se preselite, morate ponoviti postupak i registrirati svoju novu adresu.
 - Nakon uspješnog završetka postupka, primit ćete Potvrdu o privremenom boravku. Trebate je čuvati tijekom boravka u zemlji jer vam može trebati za druge postupke.
+
+
+## Related Posts
+
+- [Registracija privremenog boravka u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravista/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)
+- [Registracija boravka turista u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravka_turista/)
+- [Registracija Boravka u Hrvatskoj: Postupak i Dokumentacija](https://tramitit.com/hr/guides/croatia/prijava_boravka_pri_ulasku_u_zemlju/)
+- [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)

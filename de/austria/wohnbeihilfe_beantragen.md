@@ -45,3 +45,12 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - In bestimmten Fällen haben auch Studenten Anspruch auf Wohnbeihilfe.
 - Der Zuschussbetrag wird in der Regel direkt auf Ihr Bankkonto überwiesen.
 - In Österreich können auch Personen, die ihren Job verloren haben, um Wohnbeihilfe ersuchen, müssen jedoch ihre Situation nachweisen.
+
+
+## Related Posts
+
+- [Studienzuschuss in Österreich: Beantragung, Voraussetzungen und Ablauf](https://tramitit.com/de/guides/austria/antrag_auf_studienbeihilfe/)
+- [Kindergeld: Finanzielle Unterstützung für Eltern mit Kindern](https://tramitit.com/de/guides/austria/antrag_auf_kinderbetreuungsgeld/)
+- [Elterngeld in Österreich und Deutschland: Antrag und Voraussetzungen](https://tramitit.com/de/guides/austria/elternbeihilfe_beantragen/)
+- [Wohnsitznachweis: Beantragung, Verfahren & Erforderliche Dokumente](https://tramitit.com/de/guides/austria/wohnsitzbescheinigung/)
+- [Arbeitslosengeld in Österreich: Antragsverfahren und Dokumente erklärt](https://tramitit.com/de/guides/austria/antrag_auf_arbeitslosengeld/)

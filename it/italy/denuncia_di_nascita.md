@@ -41,3 +41,12 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - Dopo che la nascita è registrata nel Registro di Nascita, l'ufficio di statistica vitale annoterà questo evento nel Certificato di Stato di Famiglia.
 - Nel caso in cui i genitori non siano in grado di registrare la nascita, l'operatore sanitario che ha assistito alla nascita o qualsiasi altra persona che ha conoscenza della nascita può farlo.
 - La mancata dichiarazione della nascita entro il periodo stabilito può comportare delle sanzioni.
+
+
+## Related Posts
+
+- [Come richiedere un certificato di nascita in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_nascita/)
+- [Registrazione Anagrafe in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/iscrizione_al_registro_degli_anagrafici/)
+- [Dichiarazione di Morte in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/denuncia_di_morte/)
+- [Certificato di Stato di Famiglia in Italia: Procedura e Requisiti](https://tramitit.com/it/guides/italy/richiesta_certificato_di_stato_di_famiglia/)
+- [Certificato di Morte in Italia: Procedura, Documenti e Fornitori](https://tramitit.com/it/guides/italy/richiesta_certificato_di_morte/)

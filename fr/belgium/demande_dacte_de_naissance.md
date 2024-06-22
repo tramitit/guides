@@ -38,3 +38,12 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 Si vous avez besoin d'utiliser l'acte de naissance à l'étranger, vous devrez peut-être l'apostiller. Une apostille rend un document reconnaissable dans les pays membres de la Convention de La Haye en fournissant un cachet qui valide la signature sur le document. Vous obtenez généralement une apostille auprès du Ministère des Affaires étrangères.
 
 De plus, veuillez noter que l'acte de naissance doit être dans la langue du pays où le lieu de naissance est situé. Selon la destination du document, vous pourriez avoir besoin de le traduire et éventuellement le soumettre à un processus de légalisation.
+
+
+## Related Posts
+
+- [Obtaining and Translating a Marriage Certificate in Belgium](https://tramitit.com/fr/guides/belgium/demande_dacte_de_mariage/)
+- [Inscription dans les Registres de la Population en Belgique](https://tramitit.com/fr/guides/belgium/inscription_dans_les_registres_de_la_population/)
+- [Obtaining a Driver's License in Belgium: Process and Requirements](https://tramitit.com/fr/guides/belgium/demande_de_permis_de_conduire/)
+- [Obtenir la Carte d'Identité Belge (eID) : Quoi, Qui, Comment](https://tramitit.com/fr/guides/belgium/demande_de_carte_didentite/)
+- [Naturalisation: Processus, Documents & Prestataires](https://tramitit.com/fr/guides/belgium/demande_de_naturalisation/)

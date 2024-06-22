@@ -38,3 +38,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 O requerente deve ter em mente que os prazos podem variar dependendo da demanda e diferenças regionais. Em segundo lugar, os custos podem variar - a entrega normal para um adulto é de aproximadamente 65 euros, urgente é 85 euros e super urgente é 95 euros. É mais barato para crianças. Sempre verifique os preços e requisitos atuais no website oficial do SEF.
+
+
+## Related Posts
+
+- [Renovação de Passaporte para Cidadãos Portugueses no Exterior](https://tramitit.com/pt/guides/portugal/renovacao_de_passaporte/)
+- [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)
+- [Pedido de Cartão de Residente para Cidadãos Estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_residente_para_cidadaos_estrangeiros/)
+- [Descubra Como Renovar Seu Cartão de Cidadão Português](https://tramitit.com/pt/guides/portugal/renovacao_de_cartao_de_cidadao/)
+- [Residir legalmente em Portugal: Cartão de Utilizador para estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_utente_para_estrangeiros/)

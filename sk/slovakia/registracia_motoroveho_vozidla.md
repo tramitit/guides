@@ -46,3 +46,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Po registrácii je vlastníkovi poskytnuté registračné číslo, ktoré sa má zobraziť na poznávacej značke, a dokument, ktorý slúži ako dôkaz o registrácii.
 - Registrácia vozidla bude potrebné pravidelne obnovovať.
 - Nemôžete žiť na Slovensku s vozidlom registrovaným v inom štáte nad dovolenú dobu (zvyčajne 183 dní). Ak áno, budete považovaní za daňového rezidenta na Slovensku a budete povinní zaregistrovať vozidlo tam.
+
+
+## Related Posts
+
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)
+- [Registrácia a založenie spoločnosti na Slovensku: Postup a dokumenty](https://tramitit.com/sk/guides/slovakia/zapis_do_obchodneho_registra/)
+- [Registrácia narodenia dieťaťa: Postup a požadované dokumenty](https://tramitit.com/sk/guides/slovakia/ohlasenie_narodenia_dietata/)
+- [Registration of Health Insurance in Slovakia: Guide & Providers](https://tramitit.com/sk/guides/slovakia/prihlasenie_do_zdravotnej_poistovne/)
+- [Vodičský preukaz na Slovensku: Získanie, požadované dokumenty a postup](https://tramitit.com/sk/guides/slovakia/vydanie_vodicskeho_preukazu/)

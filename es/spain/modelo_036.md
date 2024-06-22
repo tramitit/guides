@@ -59,3 +59,12 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Detalles Adicionales
 - Registrarse como autónomo vs. comenzar un negocio: En España, ser autónomo significa que eres un profesional autónomo individual, mientras que comenzar un negocio puede implicar la creación de una entidad legal separada, como una empresa.
 - Conocer las obligaciones locales: Diferentes regiones en España podrían tener requisitos adicionales o beneficios para autónomos; siempre verifica con las autoridades locales.
+
+
+## Related Posts
+
+- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/es/guides/spain/modelo_130/)
+- [Modelo 349: Declaración de Transacciones Intracomunitarias](https://tramitit.com/es/guides/spain/modelo_349/)
+- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/es/guides/spain/modelo_145/)
+- [Guía del Modelo 790 Código 012: Pago y Regularización del NIE](https://tramitit.com/es/guides/spain/modelo_390/)
+- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/es/guides/spain/modelo_347/)

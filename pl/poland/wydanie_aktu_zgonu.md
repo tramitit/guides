@@ -41,3 +41,12 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 Po śmierci, polski dowód osobisty lub inne dokumenty tożsamości muszą zostać przekazane do urzędu, w którym zarejestrowano zgon. Zazwyczaj robi to dyrektor pogrzebowy, jeśli jest zaangażowany. Ważne jest, aby upewnić się, że wszystkie informacje podane w aplikacjach i dokumentach są precyzyjne i poprawne, aby uniknąć opóźnień lub komplikacji w uzyskaniu świadectwa zgonu. Nieprawidłowy lub niekompletny wniosek może zostać odrzucony. Osoby przebywające za granicą często mogą załatwić formalności za pośrednictwem swojego lokalnego konsulatu polskiego.
 
 **UWAGA**: Powyższe kroki i informacje mogą ulegać zmianom w związku z odpowiednimi przepisami i powinny zostać zweryfikowane u lokalnych władz przed przystąpieniem do procedury.
+
+
+## Related Posts
+
+- [Świadectwo Małżeństwa w Polsce: Procedura i Wymagane Dokumenty](https://tramitit.com/pl/guides/poland/akt_malzenstwa/)
+- [Świadectwo zameldowania w Polsce: Wymagane dokumenty i procedura](https://tramitit.com/pl/guides/poland/zaswiadczenie_o_zameldowaniu/)
+- [Świadectwo o niekaralności w Polsce: procedura, dokumenty, usługodawcy](https://tramitit.com/pl/guides/poland/zaswiadczenie_o_niekaralnosci/)
+- [Dowód Osobisty w Polsce: Procedura, Wymagane dokumenty i Informacje](https://tramitit.com/pl/guides/poland/dowod_osobisty/)
+- [Duplikat Świadectwa Urodzenia: Procedura, Wymagane Dokumenty, Dostawcy](https://tramitit.com/pl/guides/poland/wydanie_duplikatu_aktu_urodzenia/)

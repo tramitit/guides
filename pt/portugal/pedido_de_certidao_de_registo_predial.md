@@ -45,3 +45,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 ## Detalhes adicionais
 Lembre-se, a Certidão Predial Permanente é válida apenas por seis meses. Você precisa renová-la se precisar de informações atualizadas após esse período.
 O site também está disponível em inglês e outros idiomas para aqueles que não falam português.
+
+
+## Related Posts
+
+- [Certificado de Registo para Cidadãos da UE em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_de_cidadao_da_uniao_europeia/)
+- [Certificado de Registo Criminal em Portugal: Procedimento e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_criminal/)
+- [Certificado de Matrícula: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_matricula/)
+- [Certidão de Casamento: Como Obter e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certidao_de_casamento/)
+- [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)

@@ -39,3 +39,12 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 - CAPAC brengt geen lidmaatschapskosten in rekening, terwijl vakbonden dat wel doen. Het kan langer duren om uw aanvraag te verwerken bij CAPAC vanwege drukkere omstandigheden.
 - Als u een jonge werknemer bent en in de afgelopen 18 maanden niet meer dan 12 maanden heeft gewerkt, komt u mogelijk nog steeds in aanmerking voor uitkeringen als schoolverlater (demandeur d’emploi stage d’insertion).
 - Houders van een arbeidsvergunning B die hun baan verliezen, kunnen ook een aanvraag indienen voor werkloosheidsuitkeringen.
+
+
+## Related Posts
+
+- [Pensioenaanvraag in België: Procedure, Documenten & Aanbieders](https://tramitit.com/nl/guides/belgium/aanvraag_pensioen/)
+- [Kinderbijslag in België: Aanvraagprocedure en vereiste documenten](https://tramitit.com/nl/guides/belgium/verzoek_om_kinderbijslag/)
+- [Werkvergunning in België: Procedure, Vereisten & Aanbieders](https://tramitit.com/nl/guides/belgium/verzoek_om_werkvergunning/)
+- [Verblijfsvergunning in België: Procedure, Documenten & Dienstverleners](https://tramitit.com/nl/guides/belgium/verzoek_om_verblijfstitel/)
+- [Uittreksel Strafregister in België: Aanvraag & Procedure](https://tramitit.com/nl/guides/belgium/aanvraag_van_een_uittreksel_uit_het_strafregister/)

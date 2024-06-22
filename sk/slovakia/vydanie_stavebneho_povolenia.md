@@ -43,3 +43,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Uistite sa, že dodržiavate všetky podmienky stanovené vo vašom stavebnom povolení. Nedodržiavanie môže viesť k pokutám a dokonca aj k odvolaniu povolenia.
 - Odporúča sa požiadať o pomoc profesionálov, ako sú architekti alebo inžinieri, pri príprave vašich projektových plánov a pomoci so žiadosťou.
 - Náklady na stavebné povolenie sa môžu tiež líšiť v závislosti od povahy a veľkosti vášho projektu.
+
+
+## Related Posts
+
+- [Guide to Permanent Residency with Work Permit in Slovakia](https://tramitit.com/sk/guides/slovakia/ziadost_o_pobyt_s_pracovnym_povolenim/)
+- [Žiadosť o slovenský pas: Postup a Požadované dokumenty](https://tramitit.com/sk/guides/slovakia/vydanie_cestovneho_pasu/)
+- [Slovenská Občianska Preukazka: Požiadavky a Postup](https://tramitit.com/sk/guides/slovakia/vydanie_obcianskeho_preukazu/)
+- [Získanie občianstva v Slovensku: Postup a Požadované Dokumenty](https://tramitit.com/sk/guides/slovakia/nadobudnutie_slovenskeho_obcianstva/)
+- [Zmena Priezviska na Slovensku: Postup, Doklady, Podrobnosti](https://tramitit.com/sk/guides/slovakia/zmena_priezviska/)

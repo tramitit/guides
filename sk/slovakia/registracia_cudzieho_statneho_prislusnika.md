@@ -43,3 +43,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Slovenská republika má liberálne politiky týkajúce sa registrácie cudzincov. Avšak, cudzinci, ktorí plánujú zostať na Slovensku 90 dní alebo dlhšie, sú povinní sa registrovať. Tiež je dôležité poznamenať, že ak riadite vozidlo registrované v inej krajine, musíte prejsť procedúrami na registráciu vášho auta na Slovensku na použitie po šiestich mesiacoch pobytu. Tiež, pokiaľ ide o ubytovanie počas vášho pobytu, je dôležité zvažovať kultúrne a spoločenské normy, ktoré Slováci dodržiavajú.
+
+
+## Related Posts
+
+- [Registrácia Prechodného Pobytu Cudzinca: Postup a Dokumenty](https://tramitit.com/sk/guides/slovakia/registracia_prechodneho_pobytu_cudzinca/)
+- [Zmena Trvalého Pobytu na Slovensku: Postup a Doklady](https://tramitit.com/sk/guides/slovakia/zmena_trvaleho_pobytu/)
+- [Guide to Permanent Residency with Work Permit in Slovakia](https://tramitit.com/sk/guides/slovakia/ziadost_o_pobyt_s_pracovnym_povolenim/)
+- [Registration of Health Insurance in Slovakia: Guide & Providers](https://tramitit.com/sk/guides/slovakia/prihlasenie_do_zdravotnej_poistovne/)
+- [Registration of Vehicles in Slovakia: Process, Documents & Providers](https://tramitit.com/sk/guides/slovakia/registracia_motoroveho_vozidla/)

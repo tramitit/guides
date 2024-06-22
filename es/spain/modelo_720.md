@@ -42,3 +42,12 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 - **Multas por Retraso:** Históricamente, España imponía multas severas por presentaciones tardías o incorrectas, pero cambios recientes según el fallo del Tribunal de Justicia de la Unión Europea han hecho que estas sanciones sean menos severas.
 - **Requisitos Anuales:** La declaración solo es obligatoria en años posteriores si el valor total de cualquier categoría aumenta en más de €20,000 en comparación con la declaración anterior.
 - **Nómadas Digitales:** Aquellos que poseen visas de nómadas digitales españolas y residen en España también están sujetos al Modelo 720 si sus activos extranjeros cumplen con el umbral.
+
+
+## Related Posts
+
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
+- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/es/guides/spain/modelo_347/)
+- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/es/guides/spain/modelo_130/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)

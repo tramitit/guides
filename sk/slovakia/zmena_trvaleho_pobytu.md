@@ -41,3 +41,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Presťahovanie sa na Slovensko a stanie sa obyvateľom môže predstavovať tiež príležitosti získať občianstvo, najmä pre ľudí s slovenskými koreňmi. Odporúča sa porozumieť občianskym povinnostiam spojeným s zmenou trvalého pobytu, ako sú zmeny vo volebných právach, daňové povinnosti atď. Tento proces môžu absolvovať slovenskí občania aj cudzí štátni príslušníci žijúci na Slovensku, keď sa rozhodnú presťahovať v rámci krajiny.
+
+
+## Related Posts
+
+- [Zrušenie Trvalého Pobytu: Postup a Dôležité Informácie](https://tramitit.com/sk/guides/slovakia/zrusenie_trvaleho_pobytu/)
+- [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)
+- [Registrácia Prechodného Pobytu Cudzinca: Postup a Dokumenty](https://tramitit.com/sk/guides/slovakia/registracia_prechodneho_pobytu_cudzinca/)
+- [Zmena Priezviska na Slovensku: Postup, Doklady, Podrobnosti](https://tramitit.com/sk/guides/slovakia/zmena_priezviska/)
+- [Guide to Permanent Residency with Work Permit in Slovakia](https://tramitit.com/sk/guides/slovakia/ziadost_o_pobyt_s_pracovnym_povolenim/)

@@ -51,3 +51,12 @@ Buďte informovaní o zmienkach v týchto nariadeniach v dôsledku brexitu alebo
 Plánujte vopred: tento proces môže trvať niekoľko týždňov alebo dokonca mesiacov v závislosti od krajiny a kvalifikácie.
 
 Niektoré krajiny priamo neuznávajú zahraničné kvalifikácie, ale namiesto toho vám umožnia zúčastniť sa miestnej skúšky alebo akreditačného programu. Je dôležité vedieť, aké možnosti sú k dispozícii vo vašej cieľovej krajine.
+
+
+## Related Posts
+
+- [Exchange Foreign Driver's License: Process, Documents, & Providers](https://tramitit.com/sk/guides/slovakia/vymena_cudzozemskeho_vodicskeho_preukazu/)
+- [Medzinárodný vodičský preukaz: Získanie, požiadavky a postup](https://tramitit.com/sk/guides/slovakia/vydanie_medzinarodneho_vodicskeho_preukazu/)
+- [Registrácia Prechodného Pobytu Cudzinca: Postup a Dokumenty](https://tramitit.com/sk/guides/slovakia/registracia_prechodneho_pobytu_cudzinca/)
+- [Žiadosť o slovenský pas: Postup a Požadované dokumenty](https://tramitit.com/sk/guides/slovakia/vydanie_cestovneho_pasu/)
+- [Získanie občianstva v Slovensku: Postup a Požadované Dokumenty](https://tramitit.com/sk/guides/slovakia/nadobudnutie_slovenskeho_obcianstva/)

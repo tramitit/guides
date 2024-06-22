@@ -51,3 +51,12 @@ Pokud zaměstnavatel nezajišťuje pojištění, bude finančně zodpovědný za
 Poplatek za zdravotní pojištění je rozdělen mezi zaměstnavatele a zaměstnance - zaměstnavatel platí 4,5 % hrubého příjmu, zatímco zaměstnanec hradí 9 %.
 
 Tyto postupy a požadavky se mohou vztahovat také na osoby samostatně výdělečně činné nebo na freelancery, s mírnými odchylkami v procesu. Vždy ověřte konkrétní podmínky a pravidla u příslušné autority nebo právního poradce.
+
+
+## Related Posts
+
+- [Registrace zaměstnavatele do sociálního pojištění v České republice](https://tramitit.com/cs/guides/czech-republic/registrace_zamestnavatele_k_socialnimu_pojisteni/)
+- [Zdravotní Pojištění v České Republice: Jak Si Je Pořídit](https://tramitit.com/cs/guides/czech-republic/registrace_na_zdravotni_pojistovnu/)
+- [Živnostenský list v České republice: Jak ho získat a co je třeba vědět](https://tramitit.com/cs/guides/czech-republic/registrace_zivnostenskeho_opravneni/)
+- [Jak změnit poskytovatele zdravotního pojištění v České republice](https://tramitit.com/cs/guides/czech-republic/zmena_zdravotni_pojistovny/)
+- [Daňové přiznání v České republice: Postup a Požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/podani_danoveho_priznani/)

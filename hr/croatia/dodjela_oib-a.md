@@ -54,3 +54,12 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne informacije
 Nema izravnog online postupka prijave. Stoga je jedini način dobivanja OIB-a posjet poreznom uredu osobno. OIB ostaje valjan za cijeli život, bez obzira na promjene u osobnom statusu, prebivalištu, boravištu ili državljanstvu.
+
+
+## Related Posts
+
+- [Nacionalna Osobna Iskaznica u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/izdavanje_osobne_iskaznice/)
+- [Rodni list u Hrvatskoj: Postupak, Dokumenti i Davatelji usluga](https://tramitit.com/hr/guides/croatia/izdavanje_rodnog_lista/)
+- [Kako do hrvatske putovnice: Postupak, dokumenti i informacije](https://tramitit.com/hr/guides/croatia/izdavanje_putovnice/)
+- [How to Get Health Insurance in Croatia - Guide for Foreigners](https://tramitit.com/hr/guides/croatia/registracija_za_zdravstveni_karton_stranca/)
+- [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)

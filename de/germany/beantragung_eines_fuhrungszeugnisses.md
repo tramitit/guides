@@ -43,3 +43,12 @@ Das Führungszeugnis gibt es in zwei Formen: "Belegart N", das direkt an Ihre Ad
 Wenn Sie aus dem Ausland beantragen, müssen Sie möglicherweise eine vertrauenswürdige Person in Deutschland bitten, das Zertifikat in Ihrem Namen einzureichen und abzuholen. Das Zertifikat wird jedoch an die auf dem Antrag angegebene Adresse geschickt, die sich in Deutschland befinden muss.
 
 Bitte beachten Sie außerdem, dass das Zertifikat nur für einen begrenzten Zeitraum gültig ist (in der Regel drei Monate), also bewerben Sie sich immer in der Nähe des Zeitpunkts, zu dem Sie es benötigen werden. Außerdem wird im Zertifikat ausdrücklich festgestellt, dass Ihr Vorstrafenregister leer ist, falls keine Einträge vorhanden sind.
+
+
+## Related Posts
+
+- [Führungszeugnis in Deutschland: Antrag, Kosten & Ablauf](https://tramitit.com/de/guides/germany/fuhrungszeugnis_online_beantragen/)
+- [Internationales Führungszeugnis Beantragung: Ablauf und Dokumente](https://tramitit.com/de/guides/germany/beantragung_eines_internationalen_fuhrungszeugnisses/)
+- [Deutscher Führerschein beantragen: Prozess und Anforderungen](https://tramitit.com/de/guides/germany/beantragung_eines_fuhrerscheins/)
+- [Freizügigkeitsbescheinigung in Deutschland: Antrag, Dokumente, Kosten](https://tramitit.com/de/guides/germany/freizugigkeitsbescheinigung/)
+- [How to Obtain a Vocational School Certificate in Germany](https://tramitit.com/de/guides/germany/berufsschulbescheinigung_anfordern/)

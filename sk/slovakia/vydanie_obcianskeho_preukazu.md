@@ -46,3 +46,12 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Slovenské občianske preukazky sú obvykle platné 10 rokov pre dospelých a 5 rokov pre neplnoletých.
 - Existuje právna povinnosť nahlásiť stratu alebo krádež občianskeho preukazu polícii.
 - Ďalšie informácie nájdete na oficiálnej stránke vlády [tu](https://www.minv.sk/).
+
+
+## Related Posts
+
+- [Vodičský preukaz na Slovensku: Získanie, požadované dokumenty a postup](https://tramitit.com/sk/guides/slovakia/vydanie_vodicskeho_preukazu/)
+- [Žiadosť o slovenský pas: Postup a Požadované dokumenty](https://tramitit.com/sk/guides/slovakia/vydanie_cestovneho_pasu/)
+- [Zmena Trvalého Pobytu na Slovensku: Postup a Doklady](https://tramitit.com/sk/guides/slovakia/zmena_trvaleho_pobytu/)
+- [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)
+- [Medzinárodný vodičský preukaz: Získanie, požiadavky a postup](https://tramitit.com/sk/guides/slovakia/vydanie_medzinarodneho_vodicskeho_preukazu/)

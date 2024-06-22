@@ -45,3 +45,12 @@ Ważne jest poinformowanie lokalnego USC w ciągu 21 dni od urodzenia. Niezrobie
 Jeśli rodzice nie są małżeństwem, ojciec musi być obecny w USC, aby uznać ojcostwo. Jeśli ojciec nie może być obecny, może przekazać pisemne uznanie, które zostanie potwierdzone przez notariusza.
 
 Pamiętaj o poproszeniu o międzynarodowy akt urodzenia, ponieważ jest napisany w kilku językach, co ułatwia jego użycie za granicą. Proces ten może się nieznacznie różnić w zależności od miasta w Polsce. Zaleca się skontaktowanie się z lokalnym USC w celu uzyskania konkretnych informacji.
+
+
+## Related Posts
+
+- [Rejestracja Urodzenia Dziecka w Polsce i Niemczech](https://tramitit.com/pl/guides/poland/rejestracja_urodzenia_dziecka_za_granica/)
+- [Uznanie Ojcostwa: Procedura, Wymagane Dokumenty, Dostawcy](https://tramitit.com/pl/guides/poland/uznanie_ojcostwa/)
+- [Duplikat Świadectwa Urodzenia: Procedura, Wymagane Dokumenty, Dostawcy](https://tramitit.com/pl/guides/poland/wydanie_duplikatu_aktu_urodzenia/)
+- [Rejestracja miejsca zamieszkania dla obywateli UE w Polsce](https://tramitit.com/pl/guides/poland/rejestracja_pobytu_obywatela_ue/)
+- [Rejestracja pojazdu w Polsce: Procedura i wymagane dokumenty](https://tramitit.com/pl/guides/poland/zarejestrowanie_pojazdu/)

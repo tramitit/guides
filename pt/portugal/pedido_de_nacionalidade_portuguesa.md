@@ -45,3 +45,12 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Em alguns casos, se os pais não possuírem nacionalidade portuguesa, mas tiverem residido em Portugal pelo período necessário, os seus filhos também podem ser elegíveis para a nacionalidade.
 - Se estiver a utilizar um advogado ou agência para o ajudar, certifique-se de que são legítimos e confiáveis.
 - Também é importante notar que os tempos de processamento podem variar bastante dependendo da complexidade de cada caso.
+
+
+## Related Posts
+
+- [Registo de Nascimento de Cidadão Estrangeiro em Portugal](https://tramitit.com/pt/guides/portugal/registo_de_nascimento_de_cidadao_estrangeiro_em_portugal/)
+- [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)
+- [Certificado de Registo para Cidadãos da UE em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_de_cidadao_da_uniao_europeia/)
+- [Pedido de Cartão de Residente para Cidadãos Estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_residente_para_cidadaos_estrangeiros/)
+- [Certidão de Nascimento: Procedimentos e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certidao_de_nascimento/)

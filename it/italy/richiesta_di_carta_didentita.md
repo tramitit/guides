@@ -42,3 +42,12 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Ricordati sempre di tenere la tua Carta d'Identità in un posto sicuro. Alcuni consigliano un portafoglio mentre altri suggeriscono un porta documenti per conservare la condizione della carta poiché è fatta di carta/cartone. Inoltre, nota che luoghi come hotel o ostelli in Italia potrebbero richiedere il tuo documento d'identità per scopi di registrazione come pratica normale.
+
+
+## Related Posts
+
+- [Guida per ottenere duplicata carta d'identità italiana](https://tramitit.com/it/guides/italy/richiesta_duplicato_carta_didentita/)
+- [Certificato di Residenza in Italia: Guida Dettagliata](https://tramitit.com/it/guides/italy/richiesta_certificato_di_residenza/)
+- [Guida per ottenere un Passaporto Biometrico Italiano](https://tramitit.com/it/guides/italy/rilascio_del_passaporto/)
+- [Guida alla Cittadinanza Italiana: Procedura, Documenti e Fornitori](https://tramitit.com/it/guides/italy/richiesta_di_cittadinanza_italiana/)
+- [Guida al Codice Fiscale Italiano: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_del_codice_fiscale/)

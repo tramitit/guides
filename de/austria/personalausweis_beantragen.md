@@ -48,3 +48,12 @@ Die Gültigkeitsdauer österreichischer Personalausweise:
 - Über 30 Jahren: 10 Jahre
 
 Bitte beachten Sie, dass sich diese Anforderungen ändern können. Es wird daher empfohlen, bei der örtlichen Gemeindeverwaltung oder auf ihrer offiziellen Website nach detaillierten und aktualisierten Informationen zu suchen.
+
+
+## Related Posts
+
+- [Reisepass - Beantragung und Erneuerung für Auslandsreisen](https://tramitit.com/de/guides/austria/reisepass_beantragen/)
+- [Personalausweis verloren oder gestohlen melden in Österreich](https://tramitit.com/de/guides/austria/verlustmeldung_personalausweis/)
+- [Reisepassverlängerung in Österreich: Antrag, Verfahren & Kosten](https://tramitit.com/de/guides/austria/reisepassverlangerung/)
+- [Ersatz-Führerschein in Österreich: Antragsverfahren & Dokumente](https://tramitit.com/de/guides/austria/ersatzfuhrerschein_beantragen/)
+- [Staatsbürgerschaftsnachweis in Österreich: Antrag, Dokumente & Ablauf](https://tramitit.com/de/guides/austria/staatsburgerschaftsnachweis/)
