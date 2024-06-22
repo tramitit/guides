@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Discover the legal process for changing your surname in Slovakia, including
-  required documents and steps involved. Ensure a seamless transition with our guide.
+description: Learn the legal process for changing your surname in Slovakia, including
+  required documents, steps, and important considerations to keep in mind.
 draft: false
-meta_title: 'Guide to Surname Change in Slovakia: Steps and Requirements'
-title: 'Guide to Surname Change in Slovakia: Steps and Requirements'
+meta_title: 'How to Change Your Surname in Slovakia: A Detailed Guide'
+title: 'How to Change Your Surname in Slovakia: A Detailed Guide'
 translationKey: slovakia-change_of_surname
 ---
-
 
 ## Description
 ### What is it?

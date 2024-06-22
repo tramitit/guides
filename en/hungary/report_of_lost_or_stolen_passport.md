@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to report loss/theft, contact embassy, and get a new passport
-  in Hungary. Keep key documents safe and inform airline timely.
+description: Comprehensive guide for travelers on replacing a lost or stolen passport
+  in Hungary. Learn the steps, required documents, and important tips to follow.
 draft: false
-meta_title: 'Lost or Stolen Passport Procedure in Hungary: Guide & Tips'
-title: 'Lost or Stolen Passport Procedure in Hungary: Guide & Tips'
+meta_title: Guide for Replacing a Lost or Stolen Passport in Hungary
+title: Guide for Replacing a Lost or Stolen Passport in Hungary
 translationKey: hungary-report_of_lost_or_stolen_passport
 ---
-
 
 ## Description
 ### What is it?

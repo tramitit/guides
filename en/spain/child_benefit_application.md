@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to apply for financial aid in Spain for families with children.
-  Check eligibility criteria, required documents, and monthly deposit process.
+description: Learn about Child Benefit in Spain, eligibility criteria, application
+  process, required documents, and benefits for families, including expats and immigrants.
 draft: false
-meta_title: 'Child Benefit in Spain: Eligibility, Application, and Documents'
-title: 'Child Benefit in Spain: Eligibility, Application, and Documents'
+meta_title: 'Child Benefit in Spain: Essential Aid for Families Explained'
+title: 'Child Benefit in Spain: Essential Aid for Families Explained'
 translationKey: spain-child_benefit_application
 ---
-
 
 ## Description
 ### What is it?

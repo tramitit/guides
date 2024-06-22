@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn the legal process of updating your address in Slovakia for residency.
-  Required documents, providers, and citizenship opportunities explained in detail.
+description: Learn about the legal process, required documents, and steps to change
+  your permanent residence in Slovakia. Ensure your civic responsibilities are updated.
 draft: false
-meta_title: 'Changing Permanent Residence in Slovakia: Procedure & Requirements'
-title: 'Changing Permanent Residence in Slovakia: Procedure & Requirements'
+meta_title: 'Guide to Changing Permanent Residence in Slovakia: Steps and Tips'
+title: 'Guide to Changing Permanent Residence in Slovakia: Steps and Tips'
 translationKey: slovakia-change_of_permanent_residence
 ---
-
 
 ## Description
 ### What is it?

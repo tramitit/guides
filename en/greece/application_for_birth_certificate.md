@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to get a birth certificate in Greece, including procedures,
-  necessary documents, and where to apply. Find out more for dual citizenship.
+description: Learn the essential steps and required documents to apply for a Greek
+  birth certificate. Useful for genealogists and those seeking Greek dual citizenship.
 draft: false
-meta_title: 'Obtaining a Greek Birth Certificate: Process, Requirements'
-title: 'Obtaining a Greek Birth Certificate: Process, Requirements'
+meta_title: 'How to Obtain a Birth Certificate in Greece: Step-by-Step Guide'
+title: 'How to Obtain a Birth Certificate in Greece: Step-by-Step Guide'
 translationKey: greece-application_for_birth_certificate
 ---
-
 
 ## Description
 ### What is it?

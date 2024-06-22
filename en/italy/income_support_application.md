@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn about Reddito di Cittadinanza, eligibility criteria, required documents,
-  application process through CAF or INPS, and compliance details in Italy.
+description: 'Understand the Citizens'' Income in Italy: check eligibility, required
+  documents, and application process. Ensure compliance to avoid penalties and revocation.'
 draft: false
-meta_title: 'Italian Citizen’s Income: Eligibility, Application & Providers'
-title: 'Italian Citizen’s Income: Eligibility, Application & Providers'
+meta_title: 'Income Support in Italy: Eligibility, Application, and Requirements'
+title: 'Income Support in Italy: Eligibility, Application, and Requirements'
 translationKey: italy-income_support_application
 ---
-
 
 ## Description
 ### What is it?

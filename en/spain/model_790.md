@@ -3,13 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Learn how to properly fill out and submit the Model 790 form, necessary for various Spanish administrative processes, including obtaining a NIE.
+description: Learn how to complete and pay the Model 790 fee for various Spanish administrative
+  procedures including NIE applications and residency documentation.
 draft: false
-meta_title: 'How to Pay Spanish Government Fees: Model 790 Guide'
-title: 'How to Pay Spanish Government Fees: Model 790 Guide'
+meta_title: How to Pay Spain's Model 790 Fee for Administrative Processes
+title: How to Pay Spain's Model 790 Fee for Administrative Processes
 translationKey: spain-model_790
 ---
-
 
 ## Description
 ### What is it?

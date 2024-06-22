@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Discover how to apply for unemployment benefits ('paro') in Spain after
-  involuntary job loss. Learn about eligibility criteria and required documents in
-  detail.
+description: Learn how to apply for unemployment benefits in Spain. Steps, requirements,
+  and important details to secure your social security support while job hunting.
 draft: false
-meta_title: 'Unemployment Benefits (Paro) in Spain: Procedures & Requirements'
-title: 'Unemployment Benefits (Paro) in Spain: Procedures & Requirements'
+meta_title: How to Apply for Unemployment Benefits in Spain - Guide 2023
+title: How to Apply for Unemployment Benefits in Spain - Guide 2023
 translationKey: spain-unemployment_benefit_application
 ---
-
 
 ## Description
 ### What is it?

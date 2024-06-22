@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-07'
-description: Learn about the mandatory procedure for foreign residents in Croatia,
-  including required documents and registration process. Ensure legal status in the
-  country!
+description: Mandatory residence registration in Croatia for foreigners. Learn the
+  steps, required documents, and legal obligations for staying legally in the country.
 draft: false
-meta_title: 'Croatia Residence Registration: Procedure & Required Documents'
-title: 'Croatia Residence Registration: Procedure & Required Documents'
+meta_title: 'Croatia Residence Registration: Essential Guide for Foreigners'
+title: 'Croatia Residence Registration: Essential Guide for Foreigners'
 translationKey: croatia-residence_registration
 ---
-
 
 ## Description
 ### What is it?

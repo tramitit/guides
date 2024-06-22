@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Comprehensive guide on enrolling in Austrian schools, including application
-  steps, required documents, residence permits, and more for international students.
+description: Learn the steps and requirements for school registration in Austria,
+  including application, residence permit, documents required, and important guidelines.
 draft: false
-meta_title: Guide to School Registration for International Students in Austria
-title: Guide to School Registration for International Students in Austria
+meta_title: Guide for International Students Registering in Austrian Schools
+title: Guide for International Students Registering in Austrian Schools
 translationKey: austria-school_registration
 ---
+
 
 
 

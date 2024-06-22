@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Scopri come ottenere la pensione di vecchiaia in Italia, requisiti necessari,
-  procedure e documentazione richiesta per una pensione garantita.
+description: Learn how to qualify for Italian old age pension. Get details on eligibility,
+  necessary documents, and the application procedure through the INPS website.
 draft: false
-meta_title: 'Guida alla Pensione di Vecchiaia in Italia: Procedura e Requisiti'
-title: 'Guida alla Pensione di Vecchiaia in Italia: Procedura e Requisiti'
+meta_title: 'Guide to Italian Old Age Pension: Eligibility and Application'
+title: 'Guide to Italian Old Age Pension: Eligibility and Application'
 translationKey: italy-old_age_pension_application
 ---
-
 
 ## Description
 ### What is it?

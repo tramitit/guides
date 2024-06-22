@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn the legal procedure for registering a marriage in Czech Republic,
-  including eligibility, required documents, translation, ceremony, and provider options.
+description: Detailed steps and document requirements for foreigners to legally register
+  a marriage at a Czech registry office.
 draft: false
-meta_title: 'Registry Office Marriage in Czech Republic: Guide and Requirements'
-title: 'Registry Office Marriage in Czech Republic: Guide and Requirements'
+meta_title: Marriage Registration Guide for Foreigners in the Czech Republic
+title: Marriage Registration Guide for Foreigners in the Czech Republic
 translationKey: czech-republic-registry_office_-_marriage
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to apply for a Slovak Identity Card, mandatory for citizens
-  above 15 years. Explore its use as an EU travel document and health insurance card.
+description: Learn the steps to apply for a Slovak ID card, required documents, and
+  important details. Essential for citizens aged 15+ and valid within EU.
 draft: false
-meta_title: 'Slovak Identity Card (Občiansky preukaz): Application & Benefits'
-title: 'Slovak Identity Card (Občiansky preukaz): Application & Benefits'
+meta_title: 'How to Obtain a Slovak Identity Card: Steps and Requirements'
+title: 'How to Obtain a Slovak Identity Card: Steps and Requirements'
 translationKey: slovakia-issuance_of_identity_card
 ---
-
 
 ## Description
 ### What is it?

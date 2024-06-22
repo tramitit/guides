@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: 'Learn how to get a long-term residence card in Spain: eligibility, procedure,
-  required documents, and providers. Ensure your legal stay and work rights.'
+description: Learn step-by-step how non-EU citizens can obtain a long-term residence
+  card in Spain, along with required documents and eligibility criteria.
 draft: false
-meta_title: Guide to Obtaining a Long-Term Residence Card in Spain
-title: Guide to Obtaining a Long-Term Residence Card in Spain
+meta_title: 'How to Get a Long-term Residence Card in Spain: A Complete Guide'
+title: 'How to Get a Long-term Residence Card in Spain: A Complete Guide'
 translationKey: spain-long-term_residence_card
 ---
+
 
 
 

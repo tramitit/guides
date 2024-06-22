@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to register a death in Spain, including obtaining the official
-  death certificate and required documents. Vital for legal and administrative purposes.
+description: Learn the steps and requirements for registering a death in Spain. Obtain
+  the official death certificate necessary for administrative and legal purposes.
 draft: false
-meta_title: 'Spain Death Registration: Procedure & Required Documents'
-title: 'Spain Death Registration: Procedure & Required Documents'
+meta_title: Guide to Death Registration and Obtaining Death Certificate in Spain
+title: Guide to Death Registration and Obtaining Death Certificate in Spain
 translationKey: spain-death_registration
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Tudja meg, hogyan kell adóbevallást készíteni Magyarországon, beleértve
-  a kriptobefektetések adóit is. Lépésről lépésre kalauz és szükséges dokumentumok.
+description: Learn how to submit tax returns in Hungary, including crypto taxes. Follow
+  steps, gather documents, register online, fill forms, and claim deductions.
 draft: false
-meta_title: 'Bevallási útmutató: Adóbevallás Magyarországon, kriptadókkal'
-title: 'Bevallási útmutató: Adóbevallás Magyarországon, kriptadókkal'
+meta_title: Guide to Submitting Hungarian Tax Returns and Crypto Taxes
+title: Guide to Submitting Hungarian Tax Returns and Crypto Taxes
 translationKey: hungary-tax_return_submission
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to apply for a Polish ID Card, required documents, renewal
-  process, benefits of the card such as electronic services and costs involved.
+description: Learn the procedure to apply for a Polish ID Card, required documents,
+  and essential details for Polish citizens and permanent residents.
 draft: false
-meta_title: 'Polish ID Card (Dowod Osobisty): Application, Renewal & Benefits'
-title: 'Polish ID Card (Dowod Osobisty): Application, Renewal & Benefits'
+meta_title: How to Obtain a Polish ID Card (Dowod Osobisty) - Step-by-Step Guide
+title: How to Obtain a Polish ID Card (Dowod Osobisty) - Step-by-Step Guide
 translationKey: poland-id_card
 ---
-
 
 ## Description
 ### What is it?

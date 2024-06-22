@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to apply for a work permit in Spain as a non-Spanish citizen.
-  Follow steps, gather required documents, and attend a visa interview at the embassy.
+description: Learn the essential steps and requirements for obtaining a legal work
+  permit in Spain, including documents, application process, and eligibility criteria.
 draft: false
-meta_title: Spain Work Permit Application Process and Requirements
-title: Spain Work Permit Application Process and Requirements
+meta_title: 'How to Apply for a Spain Work Permit: Step-by-Step Guide'
+title: 'How to Apply for a Spain Work Permit: Step-by-Step Guide'
 translationKey: spain-work_permit_application
 ---
-
 
 ## Description
 ### What is it?

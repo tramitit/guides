@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: 'Tot ce trebuie să știi despre contractele de muncă în România: descriere,
-  responsabilități, beneficii și procedură detaliată pentru angajatori și angajați.'
+description: Learn how to create a binding Employment Contract in Romania, from job
+  details to legal advice. Ensure your contract meets all necessary legal requirements.
 draft: false
-meta_title: 'Ghid contract de muncă în România: Drepturi și obligații'
-title: 'Ghid contract de muncă în România: Drepturi și obligații'
+meta_title: 'Guide to Employment Contracts in Romania: Essential Steps & Tips'
+title: 'Guide to Employment Contracts in Romania: Essential Steps & Tips'
 translationKey: romania-employment_contract
 ---
-
 
 ## Description
 ### What is it?

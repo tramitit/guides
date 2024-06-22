@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn about the 'empadronamiento' process in Spain, required documents,
-  providers, and tips. Stay legal and access local services as a resident in Spain!
+description: Learn what Census Registration is, who needs it, the required documents,
+  and the step-by-step procedure in Spain. Essential for residents' legal compliance.
 draft: false
-meta_title: 'Census Registration in Spain: Process, Documents & Providers'
-title: 'Census Registration in Spain: Process, Documents & Providers'
+meta_title: Comprehensive Guide to Spanish Census Registration Process
+title: Comprehensive Guide to Spanish Census Registration Process
 translationKey: spain-census_registration
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn the steps to apply for refugee status, necessary documents, and
-  how to navigate the formal process to secure protection in a safe country.
+description: Learn the refugee status application process, required documents, and
+  steps to follow for a successful application. Protect your future in a safe country.
 draft: false
-meta_title: Guide to Refugee Status Application and Required Documents
-title: Guide to Refugee Status Application and Required Documents
+meta_title: 'How to Apply for Refugee Status: Steps and Requirements'
+title: 'How to Apply for Refugee Status: Steps and Requirements'
 translationKey: hungary-request_for_refugee_status
 ---
-
 
 ## Description
 ### What is it?

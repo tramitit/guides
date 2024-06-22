@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to renew your Portuguese Citizen Card online or in person.
-  Find out the required documents, costs, timelines, and providers for the renewal
-  process.
+description: Discover how to renew your Portuguese Citizen Card online or in-person,
+  required documents, and available expedited services options.
 draft: false
-meta_title: Renewal Process for Portuguese Citizen Card - Steps & Providers
-title: Renewal Process for Portuguese Citizen Card - Steps & Providers
+meta_title: 'Citizen Card Renewal: Process, Requirements, and Providers'
+title: 'Citizen Card Renewal: Process, Requirements, and Providers'
 translationKey: portugal-renewal_of_citizen_card
 ---
-
 
 ## Description
 ### What is it?

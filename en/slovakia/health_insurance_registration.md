@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to register for health insurance in Slovakia, including required
-  documents and timelines. Ensure timely registration to avoid fines or service denial.
+description: Learn the steps to register for health insurance in Slovakia, including
+  required documents, providers, and procedure for foreign nationals.
 draft: false
-meta_title: 'Slovakia Health Insurance Registration: Process & Providers'
-title: 'Slovakia Health Insurance Registration: Process & Providers'
+meta_title: Health Insurance Registration Guide for Foreigners in Slovakia
+title: Health Insurance Registration Guide for Foreigners in Slovakia
 translationKey: slovakia-health_insurance_registration
 ---
-
 
 ## Description
 ### What is it?

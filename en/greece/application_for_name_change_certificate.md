@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to get a name change certificate in Greece, including required
-  documents, process steps, and providers. Ensure compliance and update vital records.
+description: Learn how to legally change your name in Greece. Find out the required
+  documents, steps, and tips for a smooth name change process.
 draft: false
-meta_title: 'Name Change Certificate in Greece: Process and Requirements'
-title: 'Name Change Certificate in Greece: Process and Requirements'
+meta_title: 'Legal Name Change in Greece: Steps, Required Documents & Tips'
+title: 'Legal Name Change in Greece: Steps, Required Documents & Tips'
 translationKey: greece-application_for_name_change_certificate
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn how to apply for a work permit in Romania as a foreign national.
-  Find out the steps, required documents, and providers who can assist you efficiently.
+description: Learn how to get a work permit in Romania, from job search to visa application,
+  including required documents and procedures to follow.
 draft: false
-meta_title: 'Obtaining a Work Permit in Romania: Procedure & Documents'
-title: 'Obtaining a Work Permit in Romania: Procedure & Documents'
+meta_title: 'How to Obtain a Work Permit for Romania: A Complete Guide'
+title: 'How to Obtain a Work Permit for Romania: A Complete Guide'
 translationKey: romania-work_permit_application_for_expats
 ---
-
 
 ## Description
 ### What is it?

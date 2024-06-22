@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to register a car in Hungary, including compulsory technical
-  inspection, insurance, and necessary documents. Find providers for assistance.
+description: Learn the essential steps and required documents for vehicle registration
+  in Hungary. Ensure your car is legally registered with this comprehensive guide.
 draft: false
-meta_title: 'Vehicle Registration in Hungary: Process & Requirements'
-title: 'Vehicle Registration in Hungary: Process & Requirements'
+meta_title: 'Vehicle Registration in Hungary: Complete Step-by-Step Guide'
+title: 'Vehicle Registration in Hungary: Complete Step-by-Step Guide'
 translationKey: hungary-vehicle_registration
 ---
-
 
 ## Description
 ### What is it?

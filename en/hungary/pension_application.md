@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn the official procedures, required documents, and get help from
-  professionals to apply for your pension in Hungary. Plan ahead for a smooth process.
+description: Learn about the procedures, required documents, and professional providers
+  to help you apply for a pension in Hungary. Ideal for retirees and expatriates.
 draft: false
-meta_title: Comprehensive Guide to Applying for Pension in Hungary
-title: Comprehensive Guide to Applying for Pension in Hungary
+meta_title: 'Guide to Applying for Pension in Hungary: Procedures & Documents'
+title: 'Guide to Applying for Pension in Hungary: Procedures & Documents'
 translationKey: hungary-pension_application
 ---
-
 
 ## Description
 ### What is it?

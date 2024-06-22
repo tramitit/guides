@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn about the process, necessary documents, and providers for document
-  certification. Helpful for immigration, study abroad, and legal transactions.
+description: Learn about document certification for legal recognition abroad. Steps,
+  required documents, and who needs it are all detailed in one concise guide.
 draft: false
-meta_title: 'Document Certification: Procedure, Required Docs & Providers'
-title: 'Document Certification: Procedure, Required Docs & Providers'
+meta_title: 'Document Certification: Ensuring Authenticity for Legal Use'
+title: 'Document Certification: Ensuring Authenticity for Legal Use'
 translationKey: portugal-request_for_document_certification
 ---
-
 
 ## Description
 ### What is it?

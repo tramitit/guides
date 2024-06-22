@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn how to apply for Belgian unemployment benefits - steps to follow,
-  required documents, providers and eligibility criteria explained in detail.
+description: Learn how to apply for unemployment benefits in Belgium. Steps include
+  registering, documenting job search, submitting forms, and choosing payment institutions.
 draft: false
-meta_title: Guide to Applying for Unemployment Benefits in Belgium
-title: Guide to Applying for Unemployment Benefits in Belgium
+meta_title: Guide to Apply for Unemployment Benefits in Belgium
+title: Guide to Apply for Unemployment Benefits in Belgium
 translationKey: belgium-request_for_unemployment_benefits
 ---
-
 
 ## Description
 ### Who is it for?

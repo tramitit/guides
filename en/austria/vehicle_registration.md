@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Guía completa sobre el registro de vehículos en Austria, incluyendo requisitos,
-  documentos necesarios y los pasos a seguir para cumplir con las normas.
+description: Learn the steps and documents needed for vehicle registration in Austria.
+  Ensure compliance with local laws for cars, motorcycles, and trailers.
 draft: false
-meta_title: 'Proceso de registro de vehículos en Austria: requisitos y pasos'
-title: 'Proceso de registro de vehículos en Austria: requisitos y pasos'
+meta_title: 'Vehicle Registration in Austria: Requirements and Steps'
+title: 'Vehicle Registration in Austria: Requirements and Steps'
 translationKey: austria-vehicle_registration
 ---
-
 
 ## Description
 ### What is it?

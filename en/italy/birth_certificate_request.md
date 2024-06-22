@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Guía detallada para solicitar certificados de nacimiento en Italia para
-  procesos de ciudadanía y genealogía, incluyendo los pasos y documentos requeridos.
+description: Learn how to obtain an Italian birth certificate for citizenship, genealogy
+  or other purposes. Follow our step-by-step guide and ensure a smooth process.
 draft: false
-meta_title: Como solicitar un certificado de nacimiento en Italia
-title: Como solicitar un certificado de nacimiento en Italia
+meta_title: 'How to Request a Birth Certificate from Italy: A Step-by-Step Guide'
+title: 'How to Request a Birth Certificate from Italy: A Step-by-Step Guide'
 translationKey: italy-birth_certificate_request
 ---
+
 
 
 

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to apply for a Marriage Certificate in Hungary. Understand
-  the steps, required documents, and essential information to complete the process.
+description: Learn the steps and requirements for obtaining a marriage certificate
+  in Hungary, including necessary documents and contacting local registry offices.
 draft: false
-meta_title: Marriage Certificate Application Process in Hungary Explained
-title: Marriage Certificate Application Process in Hungary Explained
+meta_title: How to Apply for a Marriage Certificate in Hungary
+title: How to Apply for a Marriage Certificate in Hungary
 translationKey: hungary-marriage_certificate_application
 ---
-
 
 ## Description
 ### What is it?

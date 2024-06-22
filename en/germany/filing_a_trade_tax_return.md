@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to file trade tax returns in Germany as a private investor,
-  avoiding legal issues. Includes procedures, required docs, and helpful service providers.
+description: Learn how to file trade tax returns for capital gains and dividends in
+  Germany. Ideal for investors, freelancers, and business owners.
 draft: false
-meta_title: Germany Trade Tax Return Guide for Private Investors
-title: Germany Trade Tax Return Guide for Private Investors
+meta_title: Guide to Filing Trade Tax Returns for Investors in Germany
+title: Guide to Filing Trade Tax Returns for Investors in Germany
 translationKey: germany-filing_a_trade_tax_return
 ---
-
 
 ## Description
 ### What is it?

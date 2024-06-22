@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn the steps for EU citizens to register residence in Czech Republic,
-  including required documents and benefits like health insurance and parking permits.
+description: Learn the essential steps and required documents for EU citizens to register
+  temporary residence in the Czech Republic for stays over 30 days.
 draft: false
-meta_title: Residence Registration for EU Citizens in the Czech Republic
-title: Residence Registration for EU Citizens in the Czech Republic
+meta_title: EU Citizens' Guide to Temporary Residence in Czech Republic
+title: EU Citizens' Guide to Temporary Residence in Czech Republic
 translationKey: czech-republic-residence_registration_for_eu_citizens
 ---
-
 
 ## Description
 ### What is it?

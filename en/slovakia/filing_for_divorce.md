@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn the divorce filing procedure, required documents, and providers.
-  Get legal advice before ending your marriage. Ensure all details are covered.
+description: Learn the detailed steps to file for divorce, what documents are needed,
+  and the legal procedures involved to successfully end your marriage.
 draft: false
-meta_title: 'Divorce Filing: Procedure, Documents, and Providers'
-title: 'Divorce Filing: Procedure, Documents, and Providers'
+meta_title: 'Filing for Divorce: Steps, Required Documents, and Legal Guide'
+title: 'Filing for Divorce: Steps, Required Documents, and Legal Guide'
 translationKey: slovakia-filing_for_divorce
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn the process of removing your vehicle from public records in Hungary.
-  Obtain necessary documents and follow steps for de-registering a vehicle.
+description: Learn how to de-register your vehicle in Hungary. Step-by-step guide,
+  required documents, and tips for exporting or selling your car. Read now for details!
 draft: false
-meta_title: Hungary Vehicle De-Registration Process - Requirements & Steps
-title: Hungary Vehicle De-Registration Process - Requirements & Steps
+meta_title: Complete Guide on Vehicle De-registration Process in Hungary
+title: Complete Guide on Vehicle De-registration Process in Hungary
 translationKey: hungary-vehicle_de-registration
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Discover how to qualify and apply for healthcare cost exemptions in Italy,
-  essential documents needed, and trusted providers offering this service.
+description: Learn how to apply for health ticket exemptions in Italy. Find out if
+  you qualify, the necessary documents, and the step-by-step application process.
 draft: false
-meta_title: 'Health Ticket Exemption in Italy: Guidelines and Providers'
-title: 'Health Ticket Exemption in Italy: Guidelines and Providers'
+meta_title: 'Health Ticket Exemption in Italy: Eligibility and Procedure'
+title: 'Health Ticket Exemption in Italy: Eligibility and Procedure'
 translationKey: italy-health_ticket_exemption_request
 ---
-
 
 ## Description
 ### What is it?

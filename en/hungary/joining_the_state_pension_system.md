@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn about the state pension system, eligibility requirements, contribution
-  process, necessary documents, and a provider for registration assistance.
+description: Learn what the state pension is, who needs it, and how to ensure you're
+  properly contributing to secure your retirement. Stay informed about required documents.
 draft: false
-meta_title: 'State Pension System: Key Steps, Eligibility, & Providers'
-title: 'State Pension System: Key Steps, Eligibility, & Providers'
+meta_title: 'Understanding the State Pension System: Key Steps and Essentials'
+title: 'Understanding the State Pension System: Key Steps and Essentials'
 translationKey: hungary-joining_the_state_pension_system
 ---
-
 
 ## Description
 ### What is it?

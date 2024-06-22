@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to apply for sick leave in France, including the procedure
-  involving medical certificates and requirements for workers' health recovery.
+description: Learn the necessary steps, required documents, and providers to apply
+  for a sick leave in France. Understand your rights and obligations when unable to
+  work.
 draft: false
-meta_title: 'Sick Leave Application in France: Procedure and Requirements'
-title: 'Sick Leave Application in France: Procedure and Requirements'
+meta_title: 'Sick Leave Application: Procedure, Documents, and Providers Guide'
+title: 'Sick Leave Application: Procedure, Documents, and Providers Guide'
 translationKey: france-sick_leave_application
 ---
-
 
 ## Description
 ### What is it?

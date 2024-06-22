@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Protect yourself from unexpected health costs in Croatia with mandatory
-  health insurance. Learn about requirements, providers, and key tips for active coverage.
+description: Health insurance in Croatia is essential for all residents, students,
+  and expats. Learn about the process, required documents, and providers to get insured.
 draft: false
-meta_title: 'Health Insurance in Croatia: Guide for Residents and Expats'
-title: 'Health Insurance in Croatia: Guide for Residents and Expats'
+meta_title: Get Mandatory Health Insurance in Croatia for Residents & Expats
+title: Get Mandatory Health Insurance in Croatia for Residents & Expats
 translationKey: croatia-obtaining_health_insurance
 ---
-
 
 ## Description
 ### What is it?

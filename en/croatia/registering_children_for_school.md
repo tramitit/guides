@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to officially register your child in a Croatian school, including
-  required documents, procedure steps, and potential additional requirements.
+description: Learn how to register your child for school in Croatia. Follow our step-by-step
+  guide to understand required documents and procedures.
 draft: false
-meta_title: 'Enrolling Your Child in a Croatian School: Process & Requirements'
-title: 'Enrolling Your Child in a Croatian School: Process & Requirements'
+meta_title: 'Guide to School Registration in Croatia: Steps and Documents'
+title: 'Guide to School Registration in Croatia: Steps and Documents'
 translationKey: croatia-registering_children_for_school
 ---
-
 
 ## Description
 ### What is it?

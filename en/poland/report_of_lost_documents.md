@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to report and replace lost official documents like residence
-  card or passport in Poland. Follow police report and application steps swiftly.
+description: Learn how to report and get replacements for lost residence cards, IDs,
+  or passports in Poland. Follow these steps for a smooth process.
 draft: false
-meta_title: 'Replace Lost Documents in Poland: Police Report & Procedures'
-title: 'Replace Lost Documents in Poland: Police Report & Procedures'
+meta_title: Guide to Reporting and Replacing Lost Documents in Poland
+title: Guide to Reporting and Replacing Lost Documents in Poland
 translationKey: poland-report_of_lost_documents
 ---
-
 
 ## Description
 ### What is it?

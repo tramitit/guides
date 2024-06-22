@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to obtain a disability pension for individuals with physical
-  or mental disabilities, including required documents and application process globally.
+description: Learn the steps to apply for disability pension, necessary documents,
+  and who qualifies based on their physical or mental impairments.
 draft: false
-meta_title: 'How to Apply for a Disability Pension: Procedure & Requirements'
-title: 'How to Apply for a Disability Pension: Procedure & Requirements'
+meta_title: 'Disability Pension: Process, Requirements, and Eligibility'
+title: 'Disability Pension: Process, Requirements, and Eligibility'
 translationKey: czech-republic-application_for_disability_pension
 ---
-
 
 ## Description
 ### What is it?

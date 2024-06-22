@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Guide on obtaining medical legal certifications, essential documents,
-  and laws for studying and working in Romania, UK, Netherlands, and Germany.
+description: Guide to obtaining medical legal certifications, study, and work in Europe.
+  Learn about required documents and country-specific laws in Romania, UK, NL, and
+  DE.
 draft: false
-meta_title: Understanding Medical Legal Certifications in Europe
-title: Understanding Medical Legal Certifications in Europe
+meta_title: 'Medical Legal Certification in Europe: Process and Requirements'
+title: 'Medical Legal Certification in Europe: Process and Requirements'
 translationKey: romania-medical_legal_institute
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn who needs an IDP, the procedure to apply including required documents,
-  providers, costs, and important details for driving abroad with an IDP.
+description: Learn how to apply for an International Driver’s Permit to drive abroad.
+  Follow simple steps to confirm eligibility, complete forms, and get your IDP quickly.
 draft: false
-meta_title: 'International Driver''s Permit: Application Process and Eligibility'
-title: 'International Driver''s Permit: Application Process and Eligibility'
+meta_title: 'Get Your International Driver’s Permit: Easy and Quick Process'
+title: 'Get Your International Driver’s Permit: Easy and Quick Process'
 translationKey: slovakia-issuance_of_international_drivers_license
 ---
-
 
 ## Description
 ### What is it?

@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to get a Family Status Certificate in Bulgaria for adoption
-  or immigration purposes. Find the steps, required documents, and provider details
-  here.
+description: Learn the steps and required documents to get a Family Status Certificate
+  in Bulgaria for adoption, immigration, and other legal processes.
 draft: false
-meta_title: 'Family Status Certificate in Bulgaria: Procedure & Documents'
-title: 'Family Status Certificate in Bulgaria: Procedure & Documents'
+meta_title: How to Obtain a Family Status Certificate in Bulgaria
+title: How to Obtain a Family Status Certificate in Bulgaria
 translationKey: bulgaria-issuance_of_a_family_status_certificate
 ---
-
 
 ## Description
 ### What is it?

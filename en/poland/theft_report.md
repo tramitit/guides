@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to file a theft report in Poland efficiently. Find out who
-  needs it, required documents, procedure steps, and available providers for assistance.
+description: Learn how to report theft in Poland, including steps, required documents,
+  and tips for handling stolen credit cards. Stay informed and prepared.
 draft: false
-meta_title: 'Filing a Theft Report in Poland: Procedure & Providers'
-title: 'Filing a Theft Report in Poland: Procedure & Providers'
+meta_title: 'How to File a Theft Report in Poland: A Complete Guide'
+title: 'How to File a Theft Report in Poland: A Complete Guide'
 translationKey: poland-theft_report
 ---
-
 
 ## Description
 ### What is it?

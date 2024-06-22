@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to request a Criminal Background Certificate in Spain online
-  or in person. Find out the procedure, required documents, provider details, and
-  more.
+description: Learn how to obtain a Criminal Background Certificate for jobs, visas,
+  or permits. Follow our detailed steps and requirements for an easy application process.
 draft: false
-meta_title: Obtaining a Criminal Background Certificate in Spain
-title: Obtaining a Criminal Background Certificate in Spain
+meta_title: 'Get Your Criminal Background Certificate: Easy Steps and Tips'
+title: 'Get Your Criminal Background Certificate: Easy Steps and Tips'
 translationKey: spain-criminal_background_certificate_request
 ---
-
 
 ## Description
 ### What is it?

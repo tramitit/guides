@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn how to navigate IRS Anexo B for self-employment income reporting.
-  Follow our step-by-step guide for a smooth Portuguese tax return process.
+description: Learn how to accurately file IRS Anexo B for self-employment income in
+  Portugal. Step-by-step procedure, required documents, and key details included.
 draft: false
-meta_title: Complete Guide to IRS Anexo B for Portuguese Self-Employed
-title: Complete Guide to IRS Anexo B for Portuguese Self-Employed
+meta_title: Complete Guide on IRS Anexo B for Self-Employed in Portugal
+title: Complete Guide on IRS Anexo B for Self-Employed in Portugal
 translationKey: portugal-irs_anexo_b
 ---
+
 
 
 

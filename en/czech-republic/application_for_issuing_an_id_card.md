@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to apply for an ID card in the Czech Republic, including required
-  documents, process steps, and important details about processing time and costs.
+description: Learn the process of obtaining an ID card in the Czech Republic, including
+  required documents, application steps, and associated fees.
 draft: false
-meta_title: Czech Republic ID Card Application Guide & Requirements
-title: Czech Republic ID Card Application Guide & Requirements
+meta_title: 'How to Get an ID Card in the Czech Republic: Requirements & Steps'
+title: 'How to Get an ID Card in the Czech Republic: Requirements & Steps'
 translationKey: czech-republic-application_for_issuing_an_id_card
 ---
-
 
 ## Description
 ### What is it?

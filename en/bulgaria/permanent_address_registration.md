@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: 'Proceso legal para residir, trabajar o iniciar un negocio en Bulgaria:
-  requisitos, documentos y pasos a seguir para nacionales y extranjeros.'
+description: Learn the steps and requirements for permanent address registration in
+  Bulgaria for foreign residents. Obtain your Personal Number of a Foreigner (PNF)
+  easily.
 draft: false
-meta_title: Guía de registro de dirección permanente en Bulgaria
-title: Guía de registro de dirección permanente en Bulgaria
+meta_title: 'Permanent Address Registration in Bulgaria: A Complete Guide'
+title: 'Permanent Address Registration in Bulgaria: A Complete Guide'
 translationKey: bulgaria-permanent_address_registration
 ---
-
 
 ## Description
 ### What is it?

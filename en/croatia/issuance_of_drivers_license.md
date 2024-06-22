@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-07'
-description: Learn how to obtain a driver's license in Croatia through a driving academy
-  & tests. Includes required documents & info for international residents.
+description: Learn the process of getting a Croatian driver's license, including school
+  enrollment, tests, and necessary documents for residents and internationals.
 draft: false
-meta_title: 'Driver''s License Process in Croatia: A Complete Guide'
-title: 'Driver''s License Process in Croatia: A Complete Guide'
+meta_title: 'How to Obtain a Driver''s License in Croatia: Step-by-Step Guide'
+title: 'How to Obtain a Driver''s License in Croatia: Step-by-Step Guide'
 translationKey: croatia-issuance_of_drivers_license
 ---
-
 
 ## Description
 ### What is it?

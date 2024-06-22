@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn the steps, documents needed, and tips for international students
-  applying to Austrian universities for undergraduate and graduate programs.
+description: Detailed guide on admission procedures for international students applying
+  to undergraduate and graduate programs in Austrian universities.
 draft: false
-meta_title: Ultimate Guide for International Students in Austrian Universities
-title: Ultimate Guide for International Students in Austrian Universities
+meta_title: 'Guide for International Students: Study in Austria'
+title: 'Guide for International Students: Study in Austria'
 translationKey: austria-university_registration
 ---
+
 
 
 

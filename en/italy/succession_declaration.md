@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Scopri come gestire la dichiarazione di successione in Italia, includendo
-  documenti necessari e tasse applicabili. Guida passo per passo.
+description: 'Learn about succession declarations in Italy: who needs it, the procedure,
+  required documents, and more. Ensure proper handling of inheritance legally.'
 draft: false
-meta_title: 'Dichiarazione di Successione in Italia: Guida Completa'
-title: 'Dichiarazione di Successione in Italia: Guida Completa'
+meta_title: 'Guide to Succession Declarations in Italy: Steps and Documents'
+title: 'Guide to Succession Declarations in Italy: Steps and Documents'
 translationKey: italy-succession_declaration
 ---
-
 
 ## Description
 ### What is it?

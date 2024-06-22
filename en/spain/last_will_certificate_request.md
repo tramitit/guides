@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to obtain a Last Will Certificate in Spain, essential for settling
-  an estate with assets or property. Follow precise steps & required documents.
+description: Learn the steps to get a Last Will Certificate in Spain, required documents,
+  fees, and processing timelines for settling estates with Spanish assets.
 draft: false
-meta_title: 'Spain Last Will Certificate: How to Obtain & Who Needs It'
-title: 'Spain Last Will Certificate: How to Obtain & Who Needs It'
+meta_title: Guide to Obtaining a Last Will Certificate in Spain
+title: Guide to Obtaining a Last Will Certificate in Spain
 translationKey: spain-last_will_certificate_request
 ---
-
 
 ## Description
 

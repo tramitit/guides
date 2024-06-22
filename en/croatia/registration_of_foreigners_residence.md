@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn the process of legally reporting and documenting a non-native person's
-  residence in Croatia. Required documents and steps explained clearly.
+description: Learn how to legally register a foreigner's residence in Croatia. Understand
+  the procedure, required documents, and who needs to register.
 draft: false
-meta_title: 'Registering Foreigner''s Residence in Croatia: Procedure & Requirements'
-title: 'Registering Foreigner''s Residence in Croatia: Procedure & Requirements'
+meta_title: 'How to Register Foreign Residence in Croatia: Step-by-Step Guide'
+title: 'How to Register Foreign Residence in Croatia: Step-by-Step Guide'
 translationKey: croatia-registration_of_foreigners_residence
 ---
-
 
 ## Description
 ### What is it?

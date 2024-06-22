@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to determine eligibility, apply, and receive Housing Benefit
-  in the UK administered by local councils. Details on required documents and providers.
+description: 'Discover how to apply for Housing Benefit, who is eligible, and required
+  documentation. Note: It''s gradually being replaced by Universal Credit.'
 draft: false
-meta_title: 'Housing Benefit in the UK: Eligibility, Application, and Providers'
-title: 'Housing Benefit in the UK: Eligibility, Application, and Providers'
+meta_title: 'Housing Benefit: UK Social Security for Rental Costs Assistance'
+title: 'Housing Benefit: UK Social Security for Rental Costs Assistance'
 translationKey: poland-application_for_housing_benefit
 ---
-
 
 ## Description
 ### What is it?

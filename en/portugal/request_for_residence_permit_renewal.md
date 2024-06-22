@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to extend your stay in Portugal by renewing your residence
-  permit through SEF. Find the procedure, required documents, costs, and timelines
-  here.
+description: Learn how to renew your Portuguese residence permit with step-by-step
+  guidelines and the necessary documents for a seamless SEF process.
 draft: false
-meta_title: 'Portugal Residence Permit Renewal: How-to Guide & Providers'
-title: 'Portugal Residence Permit Renewal: How-to Guide & Providers'
+meta_title: Guide to Residence Permit Renewal in Portugal - SEF Procedure
+title: Guide to Residence Permit Renewal in Portugal - SEF Procedure
 translationKey: portugal-request_for_residence_permit_renewal
 ---
-
 
 ## Description
 

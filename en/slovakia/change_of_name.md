@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to legally change your name in Slovakia. Find out who needs
-  it, required documents, step-by-step procedure, costs, and provider information.
+description: Learn about the legal steps and required documents for a name change
+  in Slovakia. Find out the process, costs, and how to update your personal documentation.
 draft: false
-meta_title: 'Slovakia Name Change Process: Requirements and Steps'
-title: 'Slovakia Name Change Process: Requirements and Steps'
+meta_title: 'Name Change Process in Slovakia: Legal Steps and Requirements'
+title: 'Name Change Process in Slovakia: Legal Steps and Requirements'
 translationKey: slovakia-change_of_name
 ---
-
 
 ## Description
 ### What is it?

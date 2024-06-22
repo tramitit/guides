@@ -3,13 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Learn how to complete and submit Spain's Model 349 for declaring intra-community transactions, including necessary steps, documents, and providers.
+description: Learn about Model 349 for declaring intra-community transactions in Spain.
+  Find out who needs it, the procedure, and required documents for submission.
 draft: false
-meta_title: 'Model 349: Guide to Intra-Community Transactions in Spain'
-title: 'Model 349: Guide to Intra-Community Transactions in Spain'
+meta_title: 'Model 349: Spain''s Intra-Community Transaction Declaration Form'
+title: 'Model 349: Spain''s Intra-Community Transaction Declaration Form'
 translationKey: spain-model_349
 ---
-
 
 ## Description
 ### What is it?

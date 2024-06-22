@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to obtain a Hungarian residence permit for digital nomads,
-  including required documents and application procedures.
+description: Learn about the process, required documents, and who needs a residence
+  permit for staying in Hungary beyond 90 days. Essential guide for digital nomads.
 draft: false
-meta_title: Residence Permit Guide for Digital Nomads in Hungary
-title: Residence Permit Guide for Digital Nomads in Hungary
+meta_title: How to Get a Residence Permit in Hungary as a Digital Nomad
+title: How to Get a Residence Permit in Hungary as a Digital Nomad
 translationKey: hungary-residence_permit_application
 ---
-
 
 ## Description
 ### What is it?

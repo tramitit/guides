@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how non-residents and foreign residents can apply for a driver's
-  license in Spain with detailed steps, required documents, and additional tips.
+description: Step-by-step guide for non-residents to apply for a Spanish driver's
+  license, detailing appointments, tests, necessary documents, and timelines.
 draft: false
-meta_title: 'Guide to Applying for a Driver''s License in Spain: Step-by-Step'
-title: 'Guide to Applying for a Driver''s License in Spain: Step-by-Step'
+meta_title: Guide to Obtaining a Driver's License in Spain for Non-Residents
+title: Guide to Obtaining a Driver's License in Spain for Non-Residents
 translationKey: spain-drivers_license_application
 ---
+
 
 
 

@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how foreign parents can register a newborn's birth in Portugal,
-  granting Portuguese citizenship. Get detailed steps, requirements, and provider
-  options.
+description: Learn how foreign parents can register their newborn's birth in Portugal,
+  including required documents and the step-by-step registration process.
 draft: false
-meta_title: Registering Non-Portuguese Newborns as Portuguese Citizens
-title: Registering Non-Portuguese Newborns as Portuguese Citizens
+meta_title: Guide to Register Non-Portuguese Newborns in Portugal
+title: Guide to Register Non-Portuguese Newborns in Portugal
 translationKey: portugal-registration_of_birth_of_foreign_citizen_in_portugal
 ---
-
 
 ## Description
 ### What is it?

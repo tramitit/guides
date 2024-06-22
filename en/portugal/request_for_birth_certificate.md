@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to get a birth certificate in Portugal - requirements, process,
-  and options. Connect with local offices or use online services for convenience.
+description: Learn how to obtain a birth certificate, required documents, and steps
+  from local Civil Registry Offices or Portuguese consulates.
 draft: false
-meta_title: 'Obtaining a Birth Certificate in Portugal: Procedure & Providers'
-title: 'Obtaining a Birth Certificate in Portugal: Procedure & Providers'
+meta_title: 'How to Obtain a Birth Certificate: Steps and Requirements'
+title: 'How to Obtain a Birth Certificate: Steps and Requirements'
 translationKey: portugal-request_for_birth_certificate
 ---
-
 
 ## Description
 ### What is it?

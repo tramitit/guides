@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn about 'mutuelle', voluntary insurance to cover healthcare costs
-  in France. Find out who needs it, how to choose, required documents, and provider
-  options.
+description: Discover the benefits of complementary health insurance in France, its
+  procedure, required documents, and how to choose the best provider to suit your
+  needs.
 draft: false
-meta_title: Comprehensive Guide to Complementary Health Insurance in France
-title: Comprehensive Guide to Complementary Health Insurance in France
+meta_title: Complete Guide to Complementary Health Insurance in France
+title: Complete Guide to Complementary Health Insurance in France
 translationKey: france-complementary_health_insurance_application
 ---
-
 
 ## Description
 ### What is it?

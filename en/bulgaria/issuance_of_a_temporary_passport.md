@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to get a temporary passport when your full validity one is
-  unavailable. A detailed guide with 9 steps and necessary documents for the process.
+description: Learn the steps to get a temporary passport. Find out who needs it, required
+  documents, and processing times for urgent international travel.
 draft: false
-meta_title: 'Temporary Passport: How to Obtain in 9 Steps & Required Documents'
-title: 'Temporary Passport: How to Obtain in 9 Steps & Required Documents'
+meta_title: 'How to Obtain a Temporary Passport: Requirements and Procedure'
+title: 'How to Obtain a Temporary Passport: Requirements and Procedure'
 translationKey: bulgaria-issuance_of_a_temporary_passport
 ---
-
 
 ## Description
 ### What is it?

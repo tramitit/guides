@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to register a car in Austria as a resident or EU citizen. Follow
-  the guide to pass inspections, get insurance, and pay fees hassle-free.
+description: Learn the steps and documents needed to register a car in Austria. Includes
+  details on inspections, insurance, and registration process for EU citizens.
 draft: false
-meta_title: 'Car Registration Guide in Austria: Procedure & Documents'
-title: 'Car Registration Guide in Austria: Procedure & Documents'
+meta_title: Guide to Car Registration in Austria for Residents and EU Citizens
+title: Guide to Car Registration in Austria for Residents and EU Citizens
 translationKey: austria-car_registration_application
 ---
-
 
 ## Description
 ### What is it?

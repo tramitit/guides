@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn the process of registering for French Social Security, required
-  documents, providers, and timelines. Essential for anyone living and working in
-  France.
+description: Learn the step-by-step process to register for French Social Security,
+  required documents, and important details to ensure access to healthcare and benefits.
 draft: false
-meta_title: 'French Social Security Registration: How to Register in France'
-title: 'French Social Security Registration: How to Register in France'
+meta_title: 'French Social Security Registration: Essential Guide for Expats'
+title: 'French Social Security Registration: Essential Guide for Expats'
 translationKey: france-social_security_registration
 ---
-
 
 ## Description
 ### What is it?

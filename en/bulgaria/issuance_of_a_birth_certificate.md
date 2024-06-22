@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to obtain a birth certificate in Bulgaria, mandatory for all
-  citizens. Includes procedure details, required documents, and provider information.
+description: Learn how to obtain a Bulgarian birth certificate, required documents,
+  and step-by-step procedure for parents and legal guardians.
 draft: false
-meta_title: 'Obtaining a Birth Certificate in Bulgaria: Process & Requirements'
-title: 'Obtaining a Birth Certificate in Bulgaria: Process & Requirements'
+meta_title: 'Bulgarian Birth Certificate: Essential Guide & Process Overview'
+title: 'Bulgarian Birth Certificate: Essential Guide & Process Overview'
 translationKey: bulgaria-issuance_of_a_birth_certificate
 ---
-
 
 ## Description
 

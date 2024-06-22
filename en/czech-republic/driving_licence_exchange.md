@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how residents from non-EU countries can trade their foreign driver's
-  license for a Czech one to drive legally in the Czech Republic.
+description: Step-by-step guide for non-EU residents to exchange their driver's license
+  for a Czech one. Includes procedures, required documents, and timeline.
 draft: false
-meta_title: Exchange Non-Czech Driver's License for Czech License Guide
-title: Exchange Non-Czech Driver's License for Czech License Guide
+meta_title: 'Guide: Exchange Non-Czech Driver''s License for Czech One'
+title: 'Guide: Exchange Non-Czech Driver''s License for Czech One'
 translationKey: czech-republic-driving_licence_exchange
 ---
-
 
 ## Description
 ### What is it?

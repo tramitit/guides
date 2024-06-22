@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn about the procedure and required documents for obtaining a residence
-  certificate in Italy. Ensure timely registration to avoid legal issues and penalties.
+description: Learn the steps to apply for a residence certificate in Italy, required
+  documents, and the verification process to establish your official residence.
 draft: false
-meta_title: 'Residence Certificate in Italy: Requirements & Process'
-title: 'Residence Certificate in Italy: Requirements & Process'
+meta_title: How to Obtain a Residence Certificate in Italy - Step-by-Step Guide
+title: How to Obtain a Residence Certificate in Italy - Step-by-Step Guide
 translationKey: italy-residence_certificate_request
 ---
-
 
 ## Description
 ### What is it?

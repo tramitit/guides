@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn who needs the certificate, required documents, application procedure,
-  and find out about providers. Stay informed to avoid legal concerns.
+description: Learn how to obtain a Fiscal Attestation Certificate including who needs
+  it, required documents, application steps, and additional important details.
 draft: false
-meta_title: 'Fiscal Attestation Certificate in Romania: Requirements & Process'
-title: 'Fiscal Attestation Certificate in Romania: Requirements & Process'
+meta_title: 'Fiscal Attestation Certificate Guide: Steps and Requirements'
+title: 'Fiscal Attestation Certificate Guide: Steps and Requirements'
 translationKey: romania-fiscal_attestation_certificate
 ---
-
 
 ## Description
 ### What is it?

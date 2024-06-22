@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to extend your residence permit in Greece with the step-by-step
-  procedure and required documents. Stay legally longer in Greece hassle-free!
+description: Learn the steps and documents needed to extend your stay in Greece. Start
+  your application process early to ensure a smooth extension of your residence permit.
 draft: false
-meta_title: 'Extending Residence Permit in Greece: Procedures & Requirements'
-title: 'Extending Residence Permit in Greece: Procedures & Requirements'
+meta_title: 'How to Extend Your Residence Permit in Greece: A Complete Guide'
+title: 'How to Extend Your Residence Permit in Greece: A Complete Guide'
 translationKey: greece-application_for_residence_permit_extension
 ---
-
 
 ## Description
 ### What is it?

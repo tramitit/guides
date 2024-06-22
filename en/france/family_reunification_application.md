@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn about how non-EU residents with family in France can reunite through
-  a detailed process involving application, verification, visas, and integration.
+description: Learn about family reunification in France, its eligibility, procedures,
+  required documents, and essential steps for non-EU family members.
 draft: false
-meta_title: 'Family Reunification in France: Eligibility, Steps & Documents'
-title: 'Family Reunification in France: Eligibility, Steps & Documents'
+meta_title: 'Family Reunification in France: Complete Process and Requirements'
+title: 'Family Reunification in France: Complete Process and Requirements'
 translationKey: france-family_reunification_application
 ---
-
 
 ## Description
 

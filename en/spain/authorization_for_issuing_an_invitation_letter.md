@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: 'Guide on obtaining authorization for inviting a foreign guest to Spain:
-  steps, required documents, and tips for booking appointments and tracking status.'
+description: Learn the detailed process for issuing an invitation letter for a foreign
+  guest visiting Spain, including required documents and steps for Spanish residents.
 draft: false
-meta_title: How to Obtain an Invitation Letter Authorization for Spain
-title: How to Obtain an Invitation Letter Authorization for Spain
+meta_title: 'Guide to Inviting Foreign Guests to Spain: Process & Requirements'
+title: 'Guide to Inviting Foreign Guests to Spain: Process & Requirements'
 translationKey: spain-authorization_for_issuing_an_invitation_letter
 ---
-
 
 ## Description
 ### What is it?

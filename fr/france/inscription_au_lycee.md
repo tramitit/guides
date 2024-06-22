@@ -11,8 +11,6 @@ title: 'Inscription au Lycée en France : Guide Complet et Procédure Facile'
 translationKey: france-high_school_registration
 ---
 
-
-
 ## Description
 
 ### Qu'est-ce que c'est ?

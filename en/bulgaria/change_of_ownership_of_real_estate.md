@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn about changing property ownership in Bulgaria, including steps
-  to follow, required documents, legal advice importance, and licensed agent necessities.
+description: Learn the steps to transfer real estate ownership in Bulgaria, required
+  documents, and legal procedures. Essential for buyers and sellers.
 draft: false
-meta_title: 'Real Estate Ownership Transfer in Bulgaria: Process & Docs'
-title: 'Real Estate Ownership Transfer in Bulgaria: Process & Docs'
+meta_title: 'Real Estate Ownership Transfer in Bulgaria: Complete Guide'
+title: 'Real Estate Ownership Transfer in Bulgaria: Complete Guide'
 translationKey: bulgaria-change_of_ownership_of_real_estate
 ---
-
 
 ## Description
 ### What is it?

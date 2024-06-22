@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how Spanish citizens can apply for a passport, the steps involved,
-  required documents, validity periods, and costs involved in the process.
+description: Learn how to apply for a Spanish passport. See the required documents
+  and step-by-step procedures for Spanish citizens to travel abroad.
 draft: false
-meta_title: 'Spanish Passport: How to Apply & Required Documents'
-title: 'Spanish Passport: How to Apply & Required Documents'
+meta_title: Guide to Obtaining a Spanish Passport – Requirements & Procedure
+title: Guide to Obtaining a Spanish Passport – Requirements & Procedure
 translationKey: spain-passport_application
 ---
-
 
 ## Description
 ### What is it?

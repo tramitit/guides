@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn about building permits in the Czech Republic, including who needs
-  one, the application process, necessary documents, and provider information.
+description: Learn the steps to obtain a Building Permit in the Czech Republic, including
+  necessary documents and potential costs. Ensure compliance with local regulations.
 draft: false
-meta_title: Building Permit Procedure and Requirements in the Czech Republic
-title: Building Permit Procedure and Requirements in the Czech Republic
+meta_title: 'Building Permits in Czech Republic: Procedure and Requirements'
+title: 'Building Permits in Czech Republic: Procedure and Requirements'
 translationKey: czech-republic-application_for_a_building_permit
 ---
-
 
 ## Description
 ### What is it?

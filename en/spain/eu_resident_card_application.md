@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how non-EU residents can legally reside in Spain for over 90 days.
-  Guide includes required documents, application steps, and timelines for approval.
+description: Learn how non-EU residents can legally reside in Spain with our detailed
+  guide on applying for a EU Resident Card, including required documents and procedures.
 draft: false
-meta_title: 'EU Resident Card Application in Spain: Process & Documents'
-title: 'EU Resident Card Application in Spain: Process & Documents'
+meta_title: Ultimate Guide to Applying for a EU Resident Card in Spain
+title: Ultimate Guide to Applying for a EU Resident Card in Spain
 translationKey: spain-eu_resident_card_application
 ---
-
 
 ## Description
 ### What is it?

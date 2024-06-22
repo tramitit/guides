@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Step-by-step guide for foreign residents in Germany on applying for a
-  driver's license, including required documents and procedures.
+description: Learn the steps, required documents, and tips for foreign residents to
+  get a German driver's license. Essential for non-EU citizens living in Germany.
 draft: false
-meta_title: How to Apply for a German Driver's License for Foreign Residents
-title: How to Apply for a German Driver's License for Foreign Residents
+meta_title: Guide to Applying for a German Driver's License for Foreign Residents
+title: Guide to Applying for a German Driver's License for Foreign Residents
 translationKey: germany-application_for_a_drivers_license
 ---
-
 
 ## Description
 ### What is it?

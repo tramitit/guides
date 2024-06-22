@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to extend your stay in Croatia legally. Follow a simple process
-  including required documents and tips to avoid penalties and lengthy delays.
+description: Learn the steps and required documents for extending your residence permit
+  in Croatia. This guide covers digital nomads, expatriates, and long-term tourists.
 draft: false
-meta_title: 'Extending Croatia Residence Permit: Guide for Non-Croatian Residents'
-title: 'Extending Croatia Residence Permit: Guide for Non-Croatian Residents'
+meta_title: 'How to Extend Your Residence Permit in Croatia: A Complete Guide'
+title: 'How to Extend Your Residence Permit in Croatia: A Complete Guide'
 translationKey: croatia-extension_of_residence_permit
 ---
-
 
 ## Description
 ### What is it?

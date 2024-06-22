@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how Czech businesses can enroll employees in the state-run health
-  insurance system. Follow the process and fulfill legal obligations to avoid penalties.
+description: Step-by-step guide for employers in Czech Republic to register staff
+  under state health insurance, ensuring coverage and compliance with regulations.
 draft: false
-meta_title: Employer Registration for Health Insurance in Czech Republic
-title: Employer Registration for Health Insurance in Czech Republic
+meta_title: Employer Health Insurance Registration in Czech Republic Guide
+title: Employer Health Insurance Registration in Czech Republic Guide
 translationKey: czech-republic-employer_registration_for_health_insurance
 ---
-
 
 ## Description
 ### What is it?

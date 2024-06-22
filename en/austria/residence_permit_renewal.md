@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn the process of renewing your residence permit in Austria. Get details
-  on documents, procedures, and tips for foreign nationals staying over six months.
+description: Learn how to renew your residence permit in Austria. Includes a detailed
+  procedure, required documents, and tips for dealing with MA35.
 draft: false
-meta_title: 'Residence Permit Renewal in Austria: Essential Steps and Tips'
-title: 'Residence Permit Renewal in Austria: Essential Steps and Tips'
+meta_title: 'Renew Your Austrian Residence Permit: A Step-by-Step Guide'
+title: 'Renew Your Austrian Residence Permit: A Step-by-Step Guide'
 translationKey: austria-residence_permit_renewal
 ---
-
 
 ## Description
 ### What is it?

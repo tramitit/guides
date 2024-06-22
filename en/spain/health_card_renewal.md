@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn about the Tarjeta Sanitaria Europea for temporary healthcare in
-  EU, EEA, & Switzerland. Follow steps to apply online via Seguridad Social for free.
+description: Learn the steps to apply for the Spanish Health Card (TSE) for EU, EEA,
+  and Switzerland travel. Required documents and online application process included.
 draft: false
-meta_title: 'Spanish Health Card (TSE) for EU Travelers: Guide & Process'
-title: 'Spanish Health Card (TSE) for EU Travelers: Guide & Process'
+meta_title: How to Apply for the Spanish European Health Card (TSE)
+title: How to Apply for the Spanish European Health Card (TSE)
 translationKey: spain-health_card_renewal
 ---
-
 
 ## Description
 ### What is it?

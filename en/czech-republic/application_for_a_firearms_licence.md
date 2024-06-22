@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to get a firearms license in Czech Republic for residents and
-  non-residents. Includes application process, exams, and required documents.
+description: Learn the steps to get a firearms licence in the Czech Republic, from
+  training to exams, and the required documents for application.
 draft: false
-meta_title: 'Obtaining a Firearms License in Czech Republic: Complete Guide'
-title: 'Obtaining a Firearms License in Czech Republic: Complete Guide'
+meta_title: How to Obtain a Firearms Licence in the Czech Republic
+title: How to Obtain a Firearms Licence in the Czech Republic
 translationKey: czech-republic-application_for_a_firearms_licence
 ---
-
 
 ## Description
 ### What is it?

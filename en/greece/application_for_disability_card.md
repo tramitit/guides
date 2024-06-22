@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Μάθετε τη διαδικασία έκδοσης κάρτας αναπηρίας στην Ελλάδα. Οδηγίες για
-  έγγραφα και απαιτούμενα βήματα για να επωφεληθείτε από τα προνόμια.
+description: Learn about the process, benefits, and required documents for obtaining
+  a Disability Living Allowance card in Greece for individuals with disabilities.
 draft: false
-meta_title: 'Πώς να πάρετε την κάρτα αναπηρίας στην Ελλάδα: Οδηγίες'
-title: 'Πώς να πάρετε την κάρτα αναπηρίας στην Ελλάδα: Οδηγίες'
+meta_title: Guide to Obtaining a Disability Living Allowance Card in Greece
+title: Guide to Obtaining a Disability Living Allowance Card in Greece
 translationKey: greece-application_for_disability_card
 ---
-
 
 ## Description
 ### What is it?

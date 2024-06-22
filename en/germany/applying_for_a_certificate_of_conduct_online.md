@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn about the Führungszeugnis, required for jobs involving vulnerable
-  groups or visas. Get details on applying online, needed documents, costs, and timeline.
+description: Learn the steps to apply for a German Certificate of Conduct (Führungszeugnis),
+  required documents, costs, and where to obtain it quickly.
 draft: false
-meta_title: 'German Certificate of Conduct: Requirements, Procedure & Providers'
-title: 'German Certificate of Conduct: Requirements, Procedure & Providers'
+meta_title: How to Obtain a Certificate of Conduct (Führungszeugnis) in Germany
+title: How to Obtain a Certificate of Conduct (Führungszeugnis) in Germany
 translationKey: germany-applying_for_a_certificate_of_conduct_online
 ---
-
 
 ## Description
 ### What is it?

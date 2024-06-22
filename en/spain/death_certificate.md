@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn how to obtain a death certificate, the required documents, and
-  the steps involved in Spain. Essential for legal and administrative matters.
+description: Learn the necessary steps, documents, and procedures to obtain a death
+  certificate in Spain for legal and administrative purposes.
 draft: false
-meta_title: 'Obtaining a Death Certificate: Step-by-Step Guide and Requirements'
-title: 'Obtaining a Death Certificate: Step-by-Step Guide and Requirements'
+meta_title: How to Obtain a Death Certificate in Spain - Step-by-Step Guide
+title: How to Obtain a Death Certificate in Spain - Step-by-Step Guide
 translationKey: spain-death_certificate
 ---
-
 
 ## Description
 ### What is it?

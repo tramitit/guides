@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn about child benefits, eligibility criteria, required documents,
-  and application process. Receive payments every 4 weeks directly into your account.
+description: Learn how to apply for child benefits and find out if you qualify. Get
+  detailed steps, required documents, and important details to maximize your benefits.
 draft: false
-meta_title: 'Child Benefits: Eligibility, Application & Payment Process'
-title: 'Child Benefits: Eligibility, Application & Payment Process'
+meta_title: Complete Guide to Child Benefits Eligibility and Application
+title: Complete Guide to Child Benefits Eligibility and Application
 translationKey: bulgaria-application_for_child_benefits
 ---
-
 
 ## Description
 ### What is it?

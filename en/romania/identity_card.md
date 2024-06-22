@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn about the Romanian Identity Card, its application process, required
-  documents, renewal considerations, and providers offering this service in Romania.
+description: Learn the process to obtain a Romanian Identity Card, required documents,
+  and tips for citizens and foreign residents. Stay compliant and prepared.
 draft: false
-meta_title: 'Romanian Identity Card: Application, Requirements & Providers'
-title: 'Romanian Identity Card: Application, Requirements & Providers'
+meta_title: 'Romanian Identity Card: How to Obtain, Required Documents, and More'
+title: 'Romanian Identity Card: How to Obtain, Required Documents, and More'
 translationKey: romania-identity_card
 ---
-
 
 ## Description
 ### What is it?

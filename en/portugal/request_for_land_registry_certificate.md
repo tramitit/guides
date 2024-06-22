@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to get a Certidão Predial Permanente in Portugal online through
-  'Predial Online', including necessary documents and costs. Renewal info included.
+description: Get your Land Registry Certificate in Portugal. Learn the steps, required
+  documents, and how to ensure your property is debt-free and legally unoccupied.
 draft: false
-meta_title: 'Portugal Land Registry Certificate: How to Obtain & Requirements'
-title: 'Portugal Land Registry Certificate: How to Obtain & Requirements'
+meta_title: 'Land Registry Certificate in Portugal: Essential Guide & Steps'
+title: 'Land Registry Certificate in Portugal: Essential Guide & Steps'
 translationKey: portugal-request_for_land_registry_certificate
 ---
-
 
 ## Description
 

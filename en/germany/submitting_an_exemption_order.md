@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to submit an exemption order in Germany to avoid tax deductions
-  on interest and dividends. Find providers, procedure, and required documents here.
+description: Learn about the Freistellungsauftrag, how to apply, and its benefits.
+  Avoid capital gains tax up to €801 for singles or €1,602 for couples annually.
 draft: false
-meta_title: Understanding Freistellungsauftrag for German Residents
-title: Understanding Freistellungsauftrag for German Residents
+meta_title: Guide to German Exemption Order (Freistellungsauftrag)
+title: Guide to German Exemption Order (Freistellungsauftrag)
 translationKey: germany-submitting_an_exemption_order
 ---
-
 
 ## Description
 ### What is it?

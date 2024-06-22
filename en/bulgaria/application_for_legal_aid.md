@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Discover who qualifies for legal aid in Bulgaria and how to navigate
-  legal challenges with professional advice and public institution support.
+description: Learn about legal aid in Bulgaria, who qualifies, and where to seek help.
+  Discover how it ensures fair justice and find professional aid providers.
 draft: false
-meta_title: 'Comprehensive Guide to Legal Aid in Bulgaria: Eligibility & Advice'
-title: 'Comprehensive Guide to Legal Aid in Bulgaria: Eligibility & Advice'
+meta_title: 'Legal Aid in Bulgaria: Access, Eligibility, and Providers'
+title: 'Legal Aid in Bulgaria: Access, Eligibility, and Providers'
 translationKey: bulgaria-application_for_legal_aid
 ---
-
 
 ## Description
 ### What is it?

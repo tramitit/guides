@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: 'Learn how to extend your Romanian work visa: Eligibility, required documents,
-  process steps, and key information for a smooth application.'
+description: Learn how to extend your work visa in Romania. Find out about eligibility,
+  required documents, and the step-by-step process. Stay compliant and stay longer.
 draft: false
-meta_title: 'Extend Your Romanian Work Visa: Procedures and Requirements'
-title: 'Extend Your Romanian Work Visa: Procedures and Requirements'
+meta_title: 'Work Visa Extension Guide for Romania: Complete Procedure & Tips'
+title: 'Work Visa Extension Guide for Romania: Complete Procedure & Tips'
 translationKey: romania-work_visa_extension
 ---
-
 
 ## Description
 ### What is it?

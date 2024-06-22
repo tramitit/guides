@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to determine eligibility and apply for a retirement pension
-  in Spain, including required documents and steps for expats and digital nomads.
+description: Learn how to apply for a retirement pension in Spain, eligibility criteria,
+  required documents, and steps for a successful application process.
 draft: false
-meta_title: Guide to Retirement Pension in Spain for Expats and Workers
-title: Guide to Retirement Pension in Spain for Expats and Workers
+meta_title: 'Guide to Retirement Pension in Spain: Eligibility and Application'
+title: 'Guide to Retirement Pension in Spain: Eligibility and Application'
 translationKey: spain-retirement_pension_application
 ---
+
 
 
 

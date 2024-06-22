@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to establish Austrian citizenship with required documents,
-  application steps, and key details on the process for legal status verification.
+description: Learn the steps and required documents for acquiring Proof of Citizenship
+  in Austria, including important details on submission and legal considerations.
 draft: false
-meta_title: 'Guide to Obtaining Austrian Proof of Citizenship: Steps & Docs'
-title: 'Guide to Obtaining Austrian Proof of Citizenship: Steps & Docs'
+meta_title: 'How to Obtain Proof of Austrian Citizenship: Steps and Requirements'
+title: 'How to Obtain Proof of Austrian Citizenship: Steps and Requirements'
 translationKey: austria-proof_of_citizenship
 ---
-
 
 ## Description
 ### What is it?

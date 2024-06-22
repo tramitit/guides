@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Discover how to apply for a study grant in Austria, eligibility criteria,
-  required documents, application process, funding period, and providers' details.
+description: Learn about study grants in Austria, eligibility criteria, application
+  process, required documents, and more for students from various backgrounds.
 draft: false
-meta_title: 'Study Grant in Austria: Eligibility, Application & Providers'
-title: 'Study Grant in Austria: Eligibility, Application & Providers'
+meta_title: 'Guide to Study Grants in Austria: Eligibility and Procedure'
+title: 'Guide to Study Grants in Austria: Eligibility and Procedure'
 translationKey: austria-study_grant_application
 ---
-
 
 ## Description
 ### What is it?

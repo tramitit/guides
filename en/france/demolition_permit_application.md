@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to obtain a demolition permit in France for residential or
-  commercial buildings. Procedure, required documents, providers & regulations outlined
-  here.
+description: Learn who needs a demolition permit in France, step-by-step process,
+  required documents and avoid unauthorized demolitions with our comprehensive guide.
 draft: false
-meta_title: 'Demolition Permit in France: Procedure & Required Documents'
-title: 'Demolition Permit in France: Procedure & Required Documents'
+meta_title: 'Demolition Permit Guide: Requirements and Process in France'
+title: 'Demolition Permit Guide: Requirements and Process in France'
 translationKey: france-demolition_permit_application
 ---
-
 
 ## Description
 ### What is it?

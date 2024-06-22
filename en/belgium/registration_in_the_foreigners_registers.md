@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn about the process and required documents for registering as a foreigner
-  in a new country. Ensure compliance with local laws and avoid penalties.
+description: Learn how to register as a foreigner, required documents, and steps to
+  follow. Ensure legal residency and access to local services in your new home.
 draft: false
-meta_title: 'Foreigner''s Register: Requirements and Process for Residency'
-title: 'Foreigner''s Register: Requirements and Process for Residency'
+meta_title: 'Registering as a Foreigner: Steps and Requirements Explained'
+title: 'Registering as a Foreigner: Steps and Requirements Explained'
 translationKey: belgium-registration_in_the_foreigners_registers
 ---
-
 
 ## Description
 ### What is it?

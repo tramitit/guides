@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn about pareja de hecho, the procedure, required documents, benefits,
-  and regional regulations for partnership registration in Spain.
+description: Learn how to register as a partnership in Spain, including required documents,
+  steps, and benefits like residence permits for non-EU partners.
 draft: false
-meta_title: Guide to Partnership Registration (Pareja de Hecho) in Spain
-title: Guide to Partnership Registration (Pareja de Hecho) in Spain
+meta_title: How to Register as a Partnership ('pareja de hecho') in Spain
+title: How to Register as a Partnership ('pareja de hecho') in Spain
 translationKey: spain-partnership_registration
 ---
+
 
 
 

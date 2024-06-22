@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn how to declare foreign income with IRS Anexo I in Portugal. Follow
-  our step-by-step guide to ensure accurate and complete submission.
+description: Learn the steps to correctly fill and submit IRS Anexo I for declaring
+  foreign income or other specific income types in Portugal.
 draft: false
-meta_title: 'IRS Anexo I in Portugal: Complete Guide to Special Income'
-title: 'IRS Anexo I in Portugal: Complete Guide to Special Income'
+meta_title: How to Complete IRS Anexo I for Special Income in Portugal
+title: How to Complete IRS Anexo I for Special Income in Portugal
 translationKey: portugal-irs_anexo_i
 ---
-
 
 ## Description
 ### What is it?

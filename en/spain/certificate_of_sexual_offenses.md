@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn the procedure, required documents, and tips for obtaining the Certificate
-  of Sexual Offenses for jobs involving minors in Spain.
+description: Learn about the steps to get a Certificate of Sexual Offenses in Spain,
+  including required documents, booking appointments, and processing times.
 draft: false
 meta_title: How to Obtain a Certificate of Sexual Offenses in Spain
 title: How to Obtain a Certificate of Sexual Offenses in Spain
 translationKey: spain-certificate_of_sexual_offenses
 ---
+
 
 
 

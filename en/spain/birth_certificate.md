@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn how to obtain a birth certificate in Spain, including required
-  documents, procedures, and where to request it, both online or at Civil Registry
-  offices.
+description: Learn how to get a birth certificate in Spain. Includes detailed steps,
+  required documents, and information on fees and timelines for various request methods.
 draft: false
-meta_title: 'How to Obtain a Birth Certificate in Spain: Step-by-Step Guide'
-title: 'How to Obtain a Birth Certificate in Spain: Step-by-Step Guide'
+meta_title: How to Obtain a Birth Certificate in Spain - Step-by-Step Guide
+title: How to Obtain a Birth Certificate in Spain - Step-by-Step Guide
 translationKey: spain-birth_certificate
 ---
+
 
 
 

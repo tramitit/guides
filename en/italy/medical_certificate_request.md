@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to get a medical certificate in Italy to prove physical fitness
-  for activities like marathons. Includes providers, procedures, and required documents.
+description: Learn the steps to get a medical certificate for marathons, cycling races
+  and more in Italy. Includes appointment booking, examination, and required documents.
 draft: false
-meta_title: Obtaining a Medical Certificate in Italy for Physical Fitness
-title: Obtaining a Medical Certificate in Italy for Physical Fitness
+meta_title: How to Obtain a Medical Certificate for Activities in Italy
+title: How to Obtain a Medical Certificate for Activities in Italy
 translationKey: italy-medical_certificate_request
 ---
-
 
 ## Description
 ### What is it?

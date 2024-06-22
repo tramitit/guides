@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Renew your resident card in Portugal seamlessly. Know the procedure,
-  required documents, providers, costs, and essential tips for a successful renewal
-  process.
+description: Learn the steps and documents needed for Resident Card renewal in Portugal.
+  Ensure timely renewal by following our detailed guide and contact SEF for issues.
 draft: false
-meta_title: 'Portugal Resident Card Renewal: Process, Documents & Tips'
-title: 'Portugal Resident Card Renewal: Process, Documents & Tips'
+meta_title: 'Resident Card Renewal in Portugal: Steps and Requirements'
+title: 'Resident Card Renewal in Portugal: Steps and Requirements'
 translationKey: portugal-renewal_of_resident_card_for_foreign_citizens
 ---
-
 
 ## Description
 ### What is it?

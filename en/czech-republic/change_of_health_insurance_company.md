@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Step-by-step guide for switching health insurance providers in Czech
-  Republic. Find best fit per needs; submit form by September for next year change.
+description: Step-by-step guide to switch health insurance in Czech Republic. Learn
+  the procedures, required documents, and tips to choose the best provider for your
+  needs.
 draft: false
-meta_title: Changing Health Insurance Providers in Czech Republic
-title: Changing Health Insurance Providers in Czech Republic
+meta_title: Guide to Changing Health Insurance Provider in Czech Republic
+title: Guide to Changing Health Insurance Provider in Czech Republic
 translationKey: czech-republic-change_of_health_insurance_company
 ---
-
 
 ## Description
 ### What is it?

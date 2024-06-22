@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn about IRS Anexo G1 for reporting capital gains from securities
-  and cryptocurrencies in Portuguese tax returns. A step-by-step guide to ensure compliance.
+description: Learn how to declare capital gains, including cryptocurrencies, in your
+  Portuguese IRS using Anexo G1. Step-by-step procedure and key documentation included.
 draft: false
-meta_title: 'IRS Anexo G1: Declaring Capital Gains and Cryptocurrency in Portugal'
-title: 'IRS Anexo G1: Declaring Capital Gains and Cryptocurrency in Portugal'
+meta_title: 'Guide to IRS Anexo G1: Declaration of Capital Gains'
+title: 'Guide to IRS Anexo G1: Declaration of Capital Gains'
 translationKey: portugal-irs_anexo_g1
 ---
+
 
 
 

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to apply for a disability pension due to injury or illness.
-  Get info on required documents, providers, and the application process.
+description: Learn what a disability pension is, who qualifies, necessary documents,
+  and application process for securing your income if you can't work due to disability.
 draft: false
-meta_title: 'Disability Pension: Procedure, Documents & Providers'
-title: 'Disability Pension: Procedure, Documents & Providers'
+meta_title: 'Understanding Disability Pension: Eligibility and Application Steps'
+title: 'Understanding Disability Pension: Eligibility and Application Steps'
 translationKey: slovakia-application_for_disability_pension
 ---
-
 
 ## Description
 ### What is it?

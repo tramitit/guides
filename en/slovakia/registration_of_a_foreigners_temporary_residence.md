@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn the essentials of registering as a temporary resident abroad, from
-  documentation to application submission, and follow our step-by-step guide.
+description: Learn how to apply for a temporary residence card, required documents,
+  and necessary steps for foreign nationals to live abroad temporarily.
 draft: false
-meta_title: Guidelines for Temporary Residence Registration Abroad
-title: Guidelines for Temporary Residence Registration Abroad
+meta_title: Guide to Registering a Foreigner's Temporary Residence Abroad
+title: Guide to Registering a Foreigner's Temporary Residence Abroad
 translationKey: slovakia-registration_of_a_foreigner’s_temporary_residence
 ---
-
 
 ## Description
 ### What is it?

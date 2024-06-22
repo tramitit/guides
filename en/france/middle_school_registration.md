@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Step-by-step process for parents to register children in French middle
-  schools including required documents and tips for international or bilingual schools.
+description: Step-by-step guide for parents on enrolling children in French middle
+  schools, including documents, procedures, and tips for successful registration.
 draft: false
-meta_title: 'Enrolling Your Child in Middle School in France: A Comprehensive Guide'
-title: 'Enrolling Your Child in Middle School in France: A Comprehensive Guide'
+meta_title: 'Registering Your Child for Middle School in France: A Guide'
+title: 'Registering Your Child for Middle School in France: A Guide'
 translationKey: france-middle_school_registration
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Renew your expired or expiring student card in Portugal by following
-  specific steps at your institution. Check providers' timelines and costs for assistance.
+description: Renew your student ID in Portugal with our simple guide. Follow the steps,
+  submit required documents, and ensure uninterrupted university access.
 draft: false
-meta_title: 'Renewal of Student ID in Portugal: Process and Providers'
-title: 'Renewal of Student ID in Portugal: Process and Providers'
+meta_title: Renew Your Student ID in Portugal - Step-by-Step Guide
+title: Renew Your Student ID in Portugal - Step-by-Step Guide
 translationKey: portugal-renewal_of_student_card_for_foreigners
 ---
-
 
 ## Description
 ### What is it?

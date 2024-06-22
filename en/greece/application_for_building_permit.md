@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn about building permits, who needs them, how to apply, required
-  documents, and consequences of not obtaining permits. Get started now!
+description: Learn who needs a building permit, the procedure, and documents needed.
+  Follow these steps to ensure compliance and avoid penalties for your next project.
 draft: false
-meta_title: 'Building Permits: Types, Procedure & Required Documents'
-title: 'Building Permits: Types, Procedure & Required Documents'
+meta_title: 'Building Permit Guide: Essential Steps and Documents Required'
+title: 'Building Permit Guide: Essential Steps and Documents Required'
 translationKey: greece-application_for_building_permit
 ---
-
 
 ## Description 
 

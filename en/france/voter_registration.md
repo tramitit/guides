@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how French citizens aged 18+ can register to vote, get on the electoral
-  list, and participate in elections. Includes procedures and necessary documents.
+description: Learn how to register to vote in France, required documents, and deadlines.
+  Ensure your place on the electoral list with our step-by-step instructions.
 draft: false
-meta_title: 'French Voter Registration: How to Register & Required Documents'
-title: 'French Voter Registration: How to Register & Required Documents'
+meta_title: 'How to Register to Vote in France: A Comprehensive Guide'
+title: 'How to Register to Vote in France: A Comprehensive Guide'
 translationKey: france-voter_registration
 ---
-
 
 ## Description
 ### What is it?

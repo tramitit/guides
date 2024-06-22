@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: 'Learn about acquiring a building plot: from identifying land and legal
-  checks to negotiation, financing, and required documents. Find providers for assistance.'
+description: Learn how to buy land for construction, including legal checks, financing,
+  and necessary documents. Ideal for investors, families, and developers.
 draft: false
-meta_title: 'Building Plot Acquisition: Process, Documents, and Providers'
-title: 'Building Plot Acquisition: Process, Documents, and Providers'
+meta_title: 'Guide to Acquiring a Building Plot: Steps and Requirements'
+title: 'Guide to Acquiring a Building Plot: Steps and Requirements'
 translationKey: czech-republic-application_for_acquiring_a_building_plot
 ---
-
 
 ## Description
 ### What is it?

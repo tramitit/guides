@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn how to apply for a passport with detailed procedures, required
-  documents, and a list of providers. Ensure timely processing for international travel!
+description: Learn the detailed process for applying, renewing, and receiving a passport,
+  including required documents, fees, and deadlines for international travel.
 draft: false
-meta_title: 'Passport Application Guide: Procedures, Documents & Providers'
-title: 'Passport Application Guide: Procedures, Documents & Providers'
+meta_title: 'How to Apply for a Passport: Requirements and Procedure Guide'
+title: 'How to Apply for a Passport: Requirements and Procedure Guide'
 translationKey: belgium-request_for_passport
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Le CMG aide les familles en France à financer une nounou ou micro-crèche
-  enregistrée. Idéal pour parents d'enfants < 6 ans. Suivez les étapes pour postuler.
+description: Get help with childcare costs for nannies or micro-creches in France.
+  Ideal for working or student parents with kids under six. Learn how to apply today.
 draft: false
-meta_title: 'Le supplément choix de garde : aide pour nounou ou micro-crèche'
-title: 'Le supplément choix de garde : aide pour nounou ou micro-crèche'
+meta_title: 'Childcare Choice Supplement: Assistance for Nannies & Micro-Creches'
+title: 'Childcare Choice Supplement: Assistance for Nannies & Micro-Creches'
 translationKey: france-application_for_childcare_choice_supplement_(cmg)
 ---
-
 
 ## Description
 ### What is it?

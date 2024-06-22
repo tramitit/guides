@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn the process to get a legally recognized duplicate birth certificate
-  in Poland, essential info, required documents, and providers handling the issuance.
+description: Learn the steps to get a duplicate birth certificate in Poland, including
+  required documents, application procedure, and key details you need to know.
 draft: false
 meta_title: How to Obtain a Duplicate Birth Certificate in Poland
 title: How to Obtain a Duplicate Birth Certificate in Poland
 translationKey: poland-issuance_of_duplicate_birth_certificate
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn the steps and required documents for legally registering a civil
-  marriage in Spain, including the necessary translations and legalizations.
+description: Learn how to legalize a civil marriage in Spain, the required documents,
+  and the procedure needed to ensure your marriage is recognized by Spanish law.
 draft: false
-meta_title: Civil Marriage Application Process and Requirements in Spain
-title: Civil Marriage Application Process and Requirements in Spain
+meta_title: 'Legalize Your Civil Marriage in Spain: Step-by-Step Guide'
+title: 'Legalize Your Civil Marriage in Spain: Step-by-Step Guide'
 translationKey: spain-civil_marriage_application
 ---
-
 
 ## Description
 ### What is it?

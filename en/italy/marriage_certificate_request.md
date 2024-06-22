@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn the steps to request an Italian marriage certificate, required
-  documents, and tips for a smooth process.
+description: Learn the steps to get your marriage certificate from Italian authorities.
+  Includes required documents and tips for a smooth process.
 draft: false
-meta_title: How to Obtain Your Italian Marriage Certificate Easily
-title: How to Obtain Your Italian Marriage Certificate Easily
+meta_title: How to Obtain Your Marriage Certificate from Italy
+title: How to Obtain Your Marriage Certificate from Italy
 translationKey: italy-marriage_certificate_request
 ---
-
 
 ## Description
 ### What is it?

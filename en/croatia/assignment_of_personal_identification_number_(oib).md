@@ -1,13 +1,17 @@
 ---
-title: "Assignment of Personal Identification Number (OIB)"
-author: "Ricardo Batista"
-date: "2024-06-08"
-categories: ["Croatia"]
-meta_title: ""
-description: "This is a step-by-step guide on how to acquire the Personal Identification Number, also known as OIB, in Croatia."
+author: Ricardo Batista
+categories:
+- Croatia
+date: '2024-06-08'
+description: Learn how to apply for an OIB in Croatia, essential for citizens and
+  foreign residents. Step-by-step guide, required documents, and important details
+  included.
 draft: false
-translationKey: "croatia-assignment_of_personal_identification_number_(oib)"
+meta_title: How to Obtain Your Personal Identification Number (OIB) in Croatia
+title: How to Obtain Your Personal Identification Number (OIB) in Croatia
+translationKey: croatia-assignment_of_personal_identification_number_(oib)
 ---
+
 
 ## Description
 ### What is it?

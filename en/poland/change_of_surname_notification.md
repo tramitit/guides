@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to legally change your surname in Poland. Follow this guide
-  to notify authorities, update documents, and inform relevant entities efficiently.
+description: Learn the essential steps and required documents for notifying authorities
+  of a legal surname change in Poland.
 draft: false
-meta_title: 'Surname Change Notification in Poland: Procedure & Documents'
-title: 'Surname Change Notification in Poland: Procedure & Documents'
+meta_title: Legal Surname Change Notification Process in Poland
+title: Legal Surname Change Notification Process in Poland
 translationKey: poland-change_of_surname_notification
 ---
-
 
 ## Description
 ### What is it?

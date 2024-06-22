@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to legally register your vehicle in Bulgaria. Find out steps
-  to follow, required documents, and provider details for a smooth process.
+description: Learn the process for vehicle registration in Bulgaria, including required
+  documents, steps, and key details to ensure your registration goes smoothly.
 draft: false
-meta_title: 'Vehicle Registration Process in Bulgaria: Steps & Requirements'
-title: 'Vehicle Registration Process in Bulgaria: Steps & Requirements'
+meta_title: 'Vehicle Registration in Bulgaria: Steps, Needs, and Documents'
+title: 'Vehicle Registration in Bulgaria: Steps, Needs, and Documents'
 translationKey: bulgaria-registration_of_a_new_vehicle
 ---
-
 
 ## Description
 ### What is it?

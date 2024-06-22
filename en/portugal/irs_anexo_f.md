@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn how to report rental income in Portugal using IRS Anexo F. Follow
-  our step-by-step procedure to ensure accurate tax declarations.
+description: Learn how property owners in Portugal can report rental income in Anexo
+  F of their IRS tax return with this step-by-step guide.
 draft: false
-meta_title: 'IRS Anexo F: A Guide for Reporting Rental Income in Portugal'
-title: 'IRS Anexo F: A Guide for Reporting Rental Income in Portugal'
+meta_title: Guide to Filing IRS Anexo F for Rental Income in Portugal
+title: Guide to Filing IRS Anexo F for Rental Income in Portugal
 translationKey: portugal-irs_anexo_f
 ---
+
 
 
 

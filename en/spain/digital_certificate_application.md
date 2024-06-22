@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: 'Get a Certificado Digital for Spain online with FNMT. Ideal for those
-  moving or doing business in Spain. Required documents: ID, Passport. Renew yearly.'
+description: Learn how to get a Digital Certificate for Spain. Ideal for expats and
+  businesses. Easy steps with required documents and provider info.
 draft: false
-meta_title: 'Spanish Digital Certificate: Identity Verification for Spain'
-title: 'Spanish Digital Certificate: Identity Verification for Spain'
+meta_title: How to Obtain a Digital Certificate for Spain - Step-by-Step Guide
+title: How to Obtain a Digital Certificate for Spain - Step-by-Step Guide
 translationKey: spain-digital_certificate_application
 ---
-
 
 ## Description
 

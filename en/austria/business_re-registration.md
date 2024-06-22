@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to change your business form in Austria from freelancer to
-  company with required documents and providers. Stay compliant and avoid penalties.
+description: Learn how to re-register your business in Austria, from consulting a
+  tax advisor to submitting documents. Understand the full procedure and required
+  paperwork.
 draft: false
-meta_title: 'Business Re-registration in Austria: Process and Providers'
-title: 'Business Re-registration in Austria: Process and Providers'
+meta_title: 'Business Re-Registration in Austria: A Complete Guide'
+title: 'Business Re-Registration in Austria: A Complete Guide'
 translationKey: austria-business_re-registration
 ---
-
 
 ## Description
 ### What is it?

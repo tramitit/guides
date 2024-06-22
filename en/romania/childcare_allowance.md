@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Aflați despre concediul de creștere a copilului, cine poate beneficia
-  și care sunt pașii de urmat pentru a obține acest sprijin financiar în România.
+description: Learn about Romania's childcare allowance, the required documents, and
+  application procedure. Financial aid for working parents to balance career and family.
 draft: false
-meta_title: Allowanța pentru creșterea copilului în România - Ghid Esențial
-title: Allowanța pentru creșterea copilului în România - Ghid Esențial
+meta_title: 'Childcare Allowance in Romania: Financial Support for Parents'
+title: 'Childcare Allowance in Romania: Financial Support for Parents'
 translationKey: romania-childcare_allowance
 ---
-
 
 ## Description
 ### What is it?

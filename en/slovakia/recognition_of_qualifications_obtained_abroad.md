@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Discover how to get your foreign qualifications validated for study or
-  work abroad. Learn about required documents and key steps in the recognition process.
+description: Learn the process of recognizing foreign qualifications to work or study
+  abroad, including required documents, provider info, and country-specific guidelines.
 draft: false
-meta_title: 'Foreign Qualifications Recognition: Procedures and Providers'
-title: 'Foreign Qualifications Recognition: Procedures and Providers'
+meta_title: 'Recognition of Foreign Qualifications: Steps and Requirements'
+title: 'Recognition of Foreign Qualifications: Steps and Requirements'
 translationKey: slovakia-recognition_of_qualifications_obtained_abroad
 ---
-
 
 ## Description
 ### What is it?

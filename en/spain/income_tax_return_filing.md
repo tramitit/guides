@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to file income tax return in Spain, including required documents
-  and online procedure. Find out who must submit and where to get help if needed.
+description: Learn step-by-step how to file your income tax return in Spain, required
+  documents, and tips to ensure accuracy. Accessible via the Spanish Tax Agency portal.
 draft: false
-meta_title: 'Filing Income Tax Return in Spain: Process & Requirements'
-title: 'Filing Income Tax Return in Spain: Process & Requirements'
+meta_title: Complete Guide to Filing Income Tax Returns in Spain
+title: Complete Guide to Filing Income Tax Returns in Spain
 translationKey: spain-income_tax_return_filing
 ---
-
 
 ## Description
 ### What is it?

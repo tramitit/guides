@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Step-by-step process to apply for a work permit in France for non-EU
-  individuals with a job contract. Includes required documents and provider details.
+description: Learn how non-EU citizens can apply for a French work permit, including
+  necessary documents, application steps, and tips for a smooth transition.
 draft: false
-meta_title: 'France Work Permit Application Guide: Procedure & Documents'
-title: 'France Work Permit Application Guide: Procedure & Documents'
+meta_title: Steps for Non-EU Citizens to Get a Work Permit in France
+title: Steps for Non-EU Citizens to Get a Work Permit in France
 translationKey: france-work_permit_application
 ---
-
 
 ## Description
 ### What is it?

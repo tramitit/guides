@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to apply for a Bulgarian identity card, required documents,
-  the application process, and important details about issuance and fees.
+description: Learn the procedure to obtain a Bulgarian ID card, required documents,
+  and important details. Compulsory for Bulgarian citizens aged 14 and above.
 draft: false
-meta_title: 'Bulgarian Identity Card: Application, Requirements, and Process'
-title: 'Bulgarian Identity Card: Application, Requirements, and Process'
+meta_title: 'How to Obtain a Bulgarian Identity Card: Step-by-Step Guide'
+title: 'How to Obtain a Bulgarian Identity Card: Step-by-Step Guide'
 translationKey: bulgaria-issuance_of_an_identity_card
 ---
-
 
 ## Description
 ### What is it?

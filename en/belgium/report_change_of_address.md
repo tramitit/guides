@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn how to report your change of address within Belgium to update your
-  official residence. Understand the process, required documents, and providers near
-  you.
+description: Learn how to report a change of address in Belgium. Follow our step-by-step
+  guide to ensure a smooth transition and comply with local regulations.
 draft: false
-meta_title: 'Change of Address Report in Belgium: Procedure & Documents'
-title: 'Change of Address Report in Belgium: Procedure & Documents'
+meta_title: How to Report a Change of Address in Belgium | Step-by-Step Guide
+title: How to Report a Change of Address in Belgium | Step-by-Step Guide
 translationKey: belgium-report_change_of_address
 ---
-
 
 ## Description
 ### What is it?

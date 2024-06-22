@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to renew your passport, including application steps, required
-  documents, fees, and processing times. Stay updated before it expires!
+description: Learn how to renew your passport, required documents, fees, and step-by-step
+  procedure to ensure your travel plans are uninterrupted.
 draft: false
-meta_title: 'Passport Renewal: Procedures and Required Documents'
-title: 'Passport Renewal: Procedures and Required Documents'
+meta_title: 'Passport Renewal: Your Complete Guide to Extend Validity'
+title: 'Passport Renewal: Your Complete Guide to Extend Validity'
 translationKey: france-passport_renewal
 ---
-
 
 ## Description
 ### What is it?

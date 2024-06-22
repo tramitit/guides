@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to obtain health insurance cards in France, Ireland, Poland.
-  Steps, required documents, providers, timelines, and more essential details.
+description: Learn how residents in France, Ireland, and Poland can get health insurance
+  cards, required documents, and application procedures.
 draft: false
-meta_title: Guide to Health Insurance Cards in France, Ireland, Poland
-title: Guide to Health Insurance Cards in France, Ireland, Poland
+meta_title: How to Obtain Health Insurance Cards in France, Ireland, Poland
+title: How to Obtain Health Insurance Cards in France, Ireland, Poland
 translationKey: france-health_insurance_card_application
 ---
+
 
 
 

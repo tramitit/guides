@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to get a small-scale building permit for minor construction
-  or renovations. Follow the procedure and find providers who can assist you efficiently.
+description: Learn about obtaining small-scale building permits, necessary documents,
+  and the step-by-step procedure to ensure compliance with local building codes.
 draft: false
-meta_title: 'Small-Scale Building Permit: Procedure & Providers'
-title: 'Small-Scale Building Permit: Procedure & Providers'
+meta_title: 'Small-Scale Building Permits: Requirements, Procedure & Providers'
+title: 'Small-Scale Building Permits: Requirements, Procedure & Providers'
 translationKey: greece-application_for_a_small-scale_building_permit
 ---
-
 
 ## Description
 ### What is it?

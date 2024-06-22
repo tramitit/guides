@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to formally change your surname post-divorce in Bulgaria. Includes
-  steps, required documents, and guidance for updating all identification records.
+description: Follow a formal procedure to change your surname after divorce in Bulgaria.
+  File at your local municipality and update IDs legally to reflect this change.
 draft: false
-meta_title: 'Change Surname After Divorce in Bulgaria: Procedure and Documents'
-title: 'Change Surname After Divorce in Bulgaria: Procedure and Documents'
+meta_title: Legally Change Your Surname After Divorce in Bulgaria
+title: Legally Change Your Surname After Divorce in Bulgaria
 translationKey: bulgaria-registration_of_name_change_after_divorce
 ---
-
 
 ## Description
 ### What is it?

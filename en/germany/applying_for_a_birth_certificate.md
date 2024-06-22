@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to request a birth certificate from a Standesamt in Germany
-  to prove citizenship & identity. Include required documents and procedure details.
+description: Learn how to get a German birth certificate. Follow steps like identifying
+  the Standesamt, writing a request, paying the fee, and more.
 draft: false
-meta_title: Obtaining a Birth Certificate in Germany for Citizenship Proof
-title: Obtaining a Birth Certificate in Germany for Citizenship Proof
+meta_title: 'How to Obtain a Birth Certificate in Germany: Step-by-Step Guide'
+title: 'How to Obtain a Birth Certificate in Germany: Step-by-Step Guide'
 translationKey: germany-applying_for_a_birth_certificate
 ---
-
 
 ## Description
 ### What is it?

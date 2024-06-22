@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to change your address on your driving license, including required
-  forms and documents. Failure to update may lead to fines or penalties.
+description: Learn the essential steps to update your driving license with your new
+  address. Ensure compliance with local laws and avoid potential fines.
 draft: false
-meta_title: 'Updating Driving License Address: Procedure & Documents'
-title: 'Updating Driving License Address: Procedure & Documents'
+meta_title: How to Change Your Address on Your Driving License Properly
+title: How to Change Your Address on Your Driving License Properly
 translationKey: portugal-change_of_address_on_driving_license
 ---
-
 
 ## Description
 ### What is it?

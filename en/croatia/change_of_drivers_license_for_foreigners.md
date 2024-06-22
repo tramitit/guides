@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Comprehensive guide for expats in Croatia to legally drive by transferring
-  their foreign driver's license to a Croatian one. No driving test involved.
+description: Learn how expats can transfer their foreign driver's license to a Croatian
+  one. Follow the step-by-step procedure and ensure all required documents are ready.
 draft: false
-meta_title: Convert Foreign Driver's License to Croatian in Croatia
-title: Convert Foreign Driver's License to Croatian in Croatia
+meta_title: Guide to Converting a Foreign Driver's License in Croatia
+title: Guide to Converting a Foreign Driver's License in Croatia
 translationKey: croatia-change_of_drivers_license_for_foreigners
 ---
-
 
 ## Description
 ### What is it?

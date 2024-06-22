@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to request a Marriage Certificate in Portugal through the Civil
-  Registry Online. Find out the process, required documents, and provider details.
+description: Learn the steps and required documents to obtain your marriage certificate
+  from the Civil Registry, whether married locally or internationally.
 draft: false
-meta_title: 'Obtaining a Marriage Certificate in Portugal: Process and Requirements'
-title: 'Obtaining a Marriage Certificate in Portugal: Process and Requirements'
+meta_title: 'How to Obtain a Marriage Certificate: Complete Guide'
+title: 'How to Obtain a Marriage Certificate: Complete Guide'
 translationKey: portugal-request_for_marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

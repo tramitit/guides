@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn about EFKA, Greece's social insurance. Registration steps, required
-  documents, and providers. Essential for anyone working in Greece.
+description: Learn how to register with EFKA in Greece for social security and health
+  insurance, necessary documents, and step-by-step procedures for employed individuals.
 draft: false
-meta_title: 'EFKA: Greece''s Social Insurance Organization Guide and Steps'
-title: 'EFKA: Greece''s Social Insurance Organization Guide and Steps'
+meta_title: 'EFKA Greece: Social Security & Health Insurance Registration Guide'
+title: 'EFKA Greece: Social Security & Health Insurance Registration Guide'
 translationKey: greece-application_for_efka_(social_insurance_fund)
 ---
-
 
 ## Description
 ### What is it?

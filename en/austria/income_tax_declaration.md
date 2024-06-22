@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to declare income tax in Austria accurately & timely. Gather
-  docs, fill forms, submit online, pay owed tax & use providers. Avoid penalties!
+description: Learn about income tax declaration in Austria, who needs it, required
+  documents, and the step-by-step procedure for filing your taxes efficiently.
 draft: false
-meta_title: 'Austria Income Tax Declaration: Procedure, Required Docs & Providers'
-title: 'Austria Income Tax Declaration: Procedure, Required Docs & Providers'
+meta_title: 'Guide to Income Tax Declaration in Austria: Steps and Requirements'
+title: 'Guide to Income Tax Declaration in Austria: Steps and Requirements'
 translationKey: austria-income_tax_declaration
 ---
-
 
 ## Description
 ### What is it?

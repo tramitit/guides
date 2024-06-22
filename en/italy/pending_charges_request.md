@@ -1,14 +1,16 @@
 ---
-title: 'Requesting Criminal Records In Italy: Procedure & Documents'
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-description: Learn how to obtain your penal certificate in Italy for visa, employment,
-  or citizenship purposes. Follow steps outlined & gather required documents accurately.
-meta_title: 'Requesting Criminal Records In Italy: Procedure & Documents'
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn the steps to get your Italian criminal record. Required for visas,
+  jobs, and more. Obtain your Certificato Penale efficiently with our guide.
 draft: false
-translationKey: "italy-pending_charges_request"
+meta_title: 'How to Request a Criminal Record in Italy: Certificato Penale'
+title: 'How to Request a Criminal Record in Italy: Certificato Penale'
+translationKey: italy-pending_charges_request
 ---
+
 
 ## Description
 ### What is it?

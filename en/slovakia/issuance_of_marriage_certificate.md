@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to get a Marriage Certificate in Slovakia from civil registry
-  offices. Find out necessary documents and providers along with costs and procedures.
+description: Learn how to obtain a marriage certificate in Slovakia. Find out the
+  necessary documents, steps, and important details to ensure a smooth process.
 draft: false
-meta_title: 'Marriage Certificate in Slovakia: How to Obtain & Required Documents'
-title: 'Marriage Certificate in Slovakia: How to Obtain & Required Documents'
+meta_title: 'Obtaining a Marriage Certificate in Slovakia: Step-by-Step Guide'
+title: 'Obtaining a Marriage Certificate in Slovakia: Step-by-Step Guide'
 translationKey: slovakia-issuance_of_marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

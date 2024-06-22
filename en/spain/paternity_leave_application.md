@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how new fathers can take paternity leave, required steps, and documents.
-  Spanish law offers 16 weeks of equal, non-transferable leave for both parents.
+description: Learn the steps to apply for paternity leave, including required documents
+  and legal details. This guide helps new fathers take their entitled time off.
 draft: false
-meta_title: 'Paternity Leave: Guide for New Fathers on Legal Entitlement'
-title: 'Paternity Leave: Guide for New Fathers on Legal Entitlement'
+meta_title: 'Comprehensive Guide on Paternity Leave: Steps and Requirements'
+title: 'Comprehensive Guide on Paternity Leave: Steps and Requirements'
 translationKey: spain-paternity_leave_application
 ---
+
 
 
 

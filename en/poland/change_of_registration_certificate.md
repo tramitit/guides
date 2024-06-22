@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to modify vehicle registration info in Poland due to relocation,
-  ownership change, or vehicle alterations. Find required docs and steps here.
+description: Learn the steps to change your vehicle registration in Poland due to
+  relocation, ownership change, or vehicle modifications. Essential documents included.
 draft: false
-meta_title: 'Change of Registration Certificate in Poland: Process & Requirements'
-title: 'Change of Registration Certificate in Poland: Process & Requirements'
+meta_title: Guide to Changing Vehicle Registration Certificate in Poland
+title: Guide to Changing Vehicle Registration Certificate in Poland
 translationKey: poland-change_of_registration_certificate
 ---
-
 
 ## Description
 ### What is it?

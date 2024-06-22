@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to legally register your marriage in Germany at the local Standesamt.
-  Find out the documents needed and steps to follow for a smooth wedding ceremony.
+description: Learn about the marriage registration process in Germany, necessary documents,
+  and procedures to ensure your union is legal under German law.
 draft: false
-meta_title: 'Marriage Registration in Germany: Process, Requirements & Providers'
-title: 'Marriage Registration in Germany: Process, Requirements & Providers'
+meta_title: 'Guide to Marriage Registration in Germany: Steps and Documents'
+title: 'Guide to Marriage Registration in Germany: Steps and Documents'
 translationKey: germany-marriage_registration
 ---
-
 
 ## Description
 ### What is it?

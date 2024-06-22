@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to apply for a National Identity Card in France, including
-  required documents, providers, and key details. Complete guide for all French citizens.
+description: Learn about the procedure, required documents, and providers for obtaining
+  a National Identity Card in France. Essential for French citizens worldwide.
 draft: false
-meta_title: 'French National Identity Card: Application Process & Requirements'
-title: 'French National Identity Card: Application Process & Requirements'
+meta_title: 'National Identity Card in France: Procedure, Requirements, Providers'
+title: 'National Identity Card in France: Procedure, Requirements, Providers'
 translationKey: france-national_identity_card_application
 ---
-
 
 ## Description
 ### What is it?

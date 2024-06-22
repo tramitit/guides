@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to claim a tax refund in Italy for overpaid IRPEF taxes. Steps,
-  required documents, timelines, and tips for a successful refund request included.
+description: Learn the procedure to request a refund for overpaid IRPEF tax in Italy.
+  Gather necessary documents, submit the form online, and ensure timely processing.
 draft: false
-meta_title: 'IRPEF Tax Refund in Italy: Request Process for Overpaid Taxes'
-title: 'IRPEF Tax Refund in Italy: Request Process for Overpaid Taxes'
+meta_title: 'How to Request an IRPEF Tax Refund in Italy: A Step-by-Step Guide'
+title: 'How to Request an IRPEF Tax Refund in Italy: A Step-by-Step Guide'
 translationKey: italy-irpef_refund_request
 ---
-
 
 ## Description
 ### What is it?

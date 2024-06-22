@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn the steps involved in obtaining a building permit, required documents,
-  and providers that can assist. Ensure compliance to avoid penalties.
+description: Learn the essential steps and required documents for obtaining a building
+  permit. Ensure your project complies with local zoning and building codes.
 draft: false
-meta_title: 'Building Permit Application: Process, Documents, and Providers'
-title: 'Building Permit Application: Process, Documents, and Providers'
+meta_title: 'Building Permit Application: Essential Steps and Requirements'
+title: 'Building Permit Application: Essential Steps and Requirements'
 translationKey: france-building_permit_application
 ---
-
 
 ## Description
 ### What is it?

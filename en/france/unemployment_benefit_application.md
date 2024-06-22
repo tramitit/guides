@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn about financial aid in France for the jobless & how to apply. Include
-  documentation needed. Get expert advice from Pôle emploi for a smooth process.
+description: Discover how to apply for unemployment benefits in France, including
+  eligibility criteria, required documents, and steps to register with Pôle emploi.
 draft: false
-meta_title: 'French Unemployment Benefits: Eligibility and Application Process'
-title: 'French Unemployment Benefits: Eligibility and Application Process'
+meta_title: 'Unemployment Benefits in France: Eligibility and Application Guide'
+title: 'Unemployment Benefits in France: Eligibility and Application Guide'
 translationKey: france-unemployment_benefit_application
 ---
-
 
 ## Description
 ### What is it?

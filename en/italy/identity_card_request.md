@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to get the Italian Carta d'Identità, needed by residents and
-  travelers in Italy & the EU. Details on required documents and procedures.
+description: Learn how to apply for the Italian Identity Card, required documents,
+  and step-by-step procedures. Essential for Italian residents and travelers within
+  the EU.
 draft: false
-meta_title: 'Italian Identity Card: How to Obtain & Essential Details'
-title: 'Italian Identity Card: How to Obtain & Essential Details'
+meta_title: 'Italian Identity Card: Complete Guide to Application & Requirements'
+title: 'Italian Identity Card: Complete Guide to Application & Requirements'
 translationKey: italy-identity_card_request
 ---
-
 
 ## Description
 ### What is it?

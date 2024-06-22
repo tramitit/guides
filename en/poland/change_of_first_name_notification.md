@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to change your name officially due to marriage, divorce, or
-  personal choice. Update records, IDs, bank info, and more efficiently.
+description: Learn how to notify institutions about your name change due to marriage,
+  divorce, or personal reasons. Follow the steps for a smooth transition.
 draft: false
-meta_title: 'Name Change Notification Process: How to Update Your Name Officially'
-title: 'Name Change Notification Process: How to Update Your Name Officially'
+meta_title: Guide to Official Name Change Notification Process
+title: Guide to Official Name Change Notification Process
 translationKey: poland-change_of_first_name_notification
 ---
-
 
 ## Description
 ### What is it?

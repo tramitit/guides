@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn how to obtain a criminal record extract from a Belgian municipality,
-  required documents, and its use for job applications, visas, and gun licenses.
+description: Learn how to request a criminal record extract, required documents, and
+  who needs it for jobs, visas, citizenship, or gun licenses.
 draft: false
-meta_title: 'Criminal Record Extract in Belgium: Procedure & Providers'
-title: 'Criminal Record Extract in Belgium: Procedure & Providers'
+meta_title: 'How to Obtain a Criminal Record Extract: Step-by-Step Guide'
+title: 'How to Obtain a Criminal Record Extract: Step-by-Step Guide'
 translationKey: belgium-request_for_criminal_record_extract
 ---
-
 
 ## Description
 ### What is it?

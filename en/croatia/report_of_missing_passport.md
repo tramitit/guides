@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: 'Guía para reportar pasaportes perdidos en Croacia: contactar policía,
-  embajada y obtener documentos de viaje de emergencia. Requisitos y pasos detallados.'
+description: Learn how to report a lost or stolen passport in Croatia. Steps include
+  contacting police, your embassy, and required documents for a replacement.
 draft: false
-meta_title: Proceso de Reporte y Reemplazo de Pasaportes Perdidos en Croacia
-title: Proceso de Reporte y Reemplazo de Pasaportes Perdidos en Croacia
+meta_title: Lost or Stolen Passport Reporting Process in Croatia
+title: Lost or Stolen Passport Reporting Process in Croatia
 translationKey: croatia-report_of_missing_passport
 ---
-
 
 ## Description
 ### What is it?

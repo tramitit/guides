@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to update your address on Revolut, Vinted, and Olympics. Required
-  docs and provider options included. Keep your app updated for Revolut changes.
+description: Learn the steps to update your address on Revolut, Vinted, and Olympics.
+  Understand required documents and procedures. Stay informed and updated!
 draft: false
-meta_title: Guide to Changing Your Address on Revolut, Vinted, and Olympics
-title: Guide to Changing Your Address on Revolut, Vinted, and Olympics
+meta_title: How to Change Your Address on Revolut, Vinted, and More
+title: How to Change Your Address on Revolut, Vinted, and More
 translationKey: france-change_of_address
 ---
-
 
 ## Description
 ### What is it?

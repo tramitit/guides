@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn about the EHIC, a free card for medical assistance in EU countries.
-  Find out who needs it, and the steps to apply for it with required documents.
+description: Learn how to get an EHIC and ensure you're covered for medical care while
+  traveling in Europe. Follow the step-by-step procedure and required documents.
 draft: false
-meta_title: 'European Health Insurance Card: Benefits and Application Procedure'
-title: 'European Health Insurance Card: Benefits and Application Procedure'
+meta_title: Get Your European Health Insurance Card (EHIC) Easily
+title: Get Your European Health Insurance Card (EHIC) Easily
 translationKey: bulgaria-issuance_of_a_european_health_insurance_card
 ---
-
 
 ## Description
 ### What is it?

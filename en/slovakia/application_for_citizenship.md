@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Comprehensive guide for individuals eligible for Slovakian citizenship
-  by descent, including required documents, translation, and application process timelines.
+description: Comprehensive guide for individuals seeking Slovakian citizenship by
+  descent. Learn the steps, required documents, and important considerations for eligibility.
 draft: false
 meta_title: Guide to Applying for Slovakian Citizenship by Descent
 title: Guide to Applying for Slovakian Citizenship by Descent
 translationKey: slovakia-application_for_citizenship
 ---
-
 
 ## Description
 ### What is it?

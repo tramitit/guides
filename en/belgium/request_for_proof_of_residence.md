@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn how to obtain a Proof of Residence for bank accounts, loans, or
-  citizenship. Follow our steps and check required documents for various purposes.
+description: Learn how to get your Proof of Residence for bank accounts, loans, migration,
+  and more. Follow our detailed, step-by-step guide to ensure smooth processing.
 draft: false
-meta_title: 'Proof of Residence: Complete Guide for Utility and Bank Verification'
-title: 'Proof of Residence: Complete Guide for Utility and Bank Verification'
+meta_title: 'Proof of Residence Guide: How to Verify Your Address Easily'
+title: 'Proof of Residence Guide: How to Verify Your Address Easily'
 translationKey: belgium-request_for_proof_of_residence
 ---
-
 
 ## Description
 ### What is it?

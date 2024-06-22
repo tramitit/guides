@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn the essential steps, documents, and providers needed to obtain
-  a death certificate in Austria. Ensure a smooth process in managing the deceased's
-  estate.
+description: Learn the steps and documents needed for obtaining a death certificate.
+  Essential for legal, estate, and insurance matters. Ensure compliance with local
+  laws.
 draft: false
-meta_title: 'How to Obtain a Death Certificate in Austria: A Complete Guide'
-title: 'How to Obtain a Death Certificate in Austria: A Complete Guide'
+meta_title: 'How to Obtain a Death Certificate: Requirements and Process'
+title: 'How to Obtain a Death Certificate: Requirements and Process'
 translationKey: austria-death_certificate_application
 ---
-
 
 ## Description
 ### What is it?

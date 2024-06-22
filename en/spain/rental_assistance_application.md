@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn about the rental assistance application process, eligibility criteria,
-  required documents, and providers. Get financial aid for rent today!
+description: Learn the steps to apply for rental assistance, from determining eligibility
+  to submitting your application. Ensure you have all required documents ready.
 draft: false
-meta_title: 'Rental Assistance Application: Process, Eligibility, & Providers'
-title: 'Rental Assistance Application: Process, Eligibility, & Providers'
+meta_title: 'Guide to Applying for Rental Assistance: Eligibility & Steps'
+title: 'Guide to Applying for Rental Assistance: Eligibility & Steps'
 translationKey: spain-rental_assistance_application
 ---
-
 
 ## Description
 ### What is it?

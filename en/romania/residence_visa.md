@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn the step-by-step process to obtain a residence visa for Romania,
-  including document requirements and application procedures. Ideal for long-term
-  stays.
+description: Comprehensive guide on obtaining a Residence Visa for Romania. Includes
+  necessary documents, application steps, and key details for a successful process.
 draft: false
-meta_title: Comprehensive Guide to Obtaining a Residence Visa for Romania
-title: Comprehensive Guide to Obtaining a Residence Visa for Romania
+meta_title: 'Romania Residence Visa Guide: Application Steps and Requirements'
+title: 'Romania Residence Visa Guide: Application Steps and Requirements'
 translationKey: romania-residence_visa
 ---
-
 
 ## Description
 ### What is it?

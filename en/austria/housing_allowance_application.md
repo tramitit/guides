@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn about Austria's housing allowance program, eligibility criteria,
-  application procedure, required documents, and providers such as Municipal Department
-  50.
+description: Learn about housing allowance in Austria, who needs it, eligibility criteria,
+  required documents, and the application process to receive rental cost aid.
 draft: false
-meta_title: 'Housing Allowance in Austria: Eligibility, Application & Providers'
-title: 'Housing Allowance in Austria: Eligibility, Application & Providers'
+meta_title: 'Housing Allowance in Austria: Eligibility and Application Process'
+title: 'Housing Allowance in Austria: Eligibility and Application Process'
 translationKey: austria-housing_allowance_application
 ---
-
 
 ## Description
 ### What is it?

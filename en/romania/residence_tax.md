@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn who needs to pay Residence Tax in Romania, the required documents,
-  and the procedure to ensure compliance with Romanian tax laws.
+description: Learn about the residence tax in Romania. Find out who needs to pay,
+  necessary documents, and step-by-step payment procedures to avoid penalties.
 draft: false
-meta_title: Understanding and Complying with Residence Tax in Romania
-title: Understanding and Complying with Residence Tax in Romania
+meta_title: 'Residence Tax Guide in Romania: Requirements and Procedures'
+title: 'Residence Tax Guide in Romania: Requirements and Procedures'
 translationKey: romania-residence_tax
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to legally change your surname for personal or professional
-  reasons. Find out the process, required documents, and provider details in Hungary.
+description: Learn how to legally change your family name with this step-by-step guide.
+  Understand the procedure, required documents, and tips for a seamless process.
 draft: false
-meta_title: 'Changing Your Family Name: Procedure & Required Documents'
-title: 'Changing Your Family Name: Procedure & Required Documents'
+meta_title: 'Guide to Legally Changing Your Family Name: Steps and Requirements'
+title: 'Guide to Legally Changing Your Family Name: Steps and Requirements'
 translationKey: hungary-change_of_family_name
 ---
-
 
 ## Description
 ### What is it?

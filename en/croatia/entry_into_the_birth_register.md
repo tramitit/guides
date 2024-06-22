@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn about the legal process of birth registration in Croatia, required
-  documents, timelines, and how Croatian citizens can register a birth abroad.
+description: Learn about the process of birth registration in Croatia, including required
+  documents, steps, and key details for both domestic and international births.
 draft: false
-meta_title: 'Croatia Birth Registration: Process, Documents & Requirements'
-title: 'Croatia Birth Registration: Process, Documents & Requirements'
+meta_title: 'Guide to Birth Registration in Croatia: Steps and Requirements'
+title: 'Guide to Birth Registration in Croatia: Steps and Requirements'
 translationKey: croatia-entry_into_the_birth_register
 ---
-
 
 ## Description
 ### What is it?

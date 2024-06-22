@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to officially announce your surname change due to marriage,
-  divorce, or personal preference with required documents and a step-by-step procedure.
+description: Steps to change your surname legally, notify key entities, and update
+  documents effectively. Essential guide for a seamless name change process.
 draft: false
-meta_title: Change of Surname Announcement Procedure and Documents
-title: Change of Surname Announcement Procedure and Documents
+meta_title: Guide to Officially Announcing and Changing Your Surname
+title: Guide to Officially Announcing and Changing Your Surname
 translationKey: czech-republic-announcement_of_change_of_surname
 ---
-
 
 ## Description
 ### What is it?

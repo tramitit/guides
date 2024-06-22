@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Legal process in Poland recognizing a child's rights including nationality.
-  Learn required docs, providers, and important details for new parents and guardians.
+description: Learn the step-by-step process and documents needed for child birth registration
+  in Poland. Ensure your child's right to nationality, healthcare, and education.
 draft: false
-meta_title: 'Child Birth Registration in Poland: Procedures & Requirements'
-title: 'Child Birth Registration in Poland: Procedures & Requirements'
+meta_title: 'How to Register a Child''s Birth in Poland: A Complete Guide'
+title: 'How to Register a Child''s Birth in Poland: A Complete Guide'
 translationKey: poland-child_birth_registration
 ---
-
 
 ## Description
 ### What is it?

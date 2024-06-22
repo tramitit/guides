@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to obtain an Italian Biometric Passport, essential for international
-  travel. Follow the detailed procedure and see required documents.
+description: Step-by-step guide to secure your Italian Biometric Passport, detailing
+  required documents, fees, and processing times for smooth international travel.
 draft: false
-meta_title: 'Italian Biometric Passport: Step-by-Step Guide and Requirements'
-title: 'Italian Biometric Passport: Step-by-Step Guide and Requirements'
+meta_title: 'How to Obtain an Italian Biometric Passport: A Comprehensive Guide'
+title: 'How to Obtain an Italian Biometric Passport: A Comprehensive Guide'
 translationKey: italy-passport_issuance
 ---
-
 
 ## Description
 ### What is it?

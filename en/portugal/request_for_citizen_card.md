@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to apply for the official ID in Portugal, including required
-  documents and process steps. Legal residents, immigrants, and children eligible.
+description: Learn how to apply for a Citizen Card in Portugal. Find out who needs
+  it, required documents, and the complete application procedure.
 draft: false
-meta_title: 'Portugal Citizen Card: Application Procedure and Requirements'
-title: 'Portugal Citizen Card: Application Procedure and Requirements'
+meta_title: 'Citizen Card in Portugal: Application Guide and Requirements'
+title: 'Citizen Card in Portugal: Application Guide and Requirements'
 translationKey: portugal-request_for_citizen_card
 ---
-
 
 ## Description
 ### What is it?

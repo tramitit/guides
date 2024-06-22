@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn the vital steps and required documents to update your address with
-  institutions, agencies, and services as an expatriate.
+description: Learn the steps expatriates must take to notify institutions of a change
+  of address, including updating financial and governmental records, and postal services.
 draft: false
-meta_title: 'Essential Guide for Expatriates: Changing Your Address Effectively'
-title: 'Essential Guide for Expatriates: Changing Your Address Effectively'
+meta_title: 'Essential Guide: Address Change Notification for Expatriates'
+title: 'Essential Guide: Address Change Notification for Expatriates'
 translationKey: romania-address_change_notification_for_expats
 ---
-
 
 ## Description
 ### What is it?

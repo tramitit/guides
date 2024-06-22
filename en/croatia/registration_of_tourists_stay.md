@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to comply with Croatia's mandatory tourist stay registration,
-  including procedure, required documents, and consequences of non-compliance.
+description: Learn the steps and requirements for registering your stay in Croatia
+  as a tourist. Stay compliant and avoid fines; ensure a smooth and enjoyable trip.
 draft: false
-meta_title: 'Croatia Tourist Stay Registration: Procedure & Requirements'
-title: 'Croatia Tourist Stay Registration: Procedure & Requirements'
+meta_title: How to Register Your Stay as a Tourist in Croatia - A Guide
+title: How to Register Your Stay as a Tourist in Croatia - A Guide
 translationKey: croatia-registration_of_tourists_stay
 ---
-
 
 ## Description
 ### What is it?

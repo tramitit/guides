@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to register and obtain a vehicle certificate in Portugal. Ensure
-  proper documents, pay fees, and follow emission standards for vehicle operation.
+description: Learn the steps to register your vehicle in Portugal, including required
+  documents, procedures, fees, and emission standards. Essential for all vehicle owners.
 draft: false
-meta_title: 'Vehicle Registration in Portugal: Process and Requirements'
-title: 'Vehicle Registration in Portugal: Process and Requirements'
+meta_title: Guide to Vehicle Registration Certificate in Portugal
+title: Guide to Vehicle Registration Certificate in Portugal
 translationKey: portugal-request_for_registration_certificate
 ---
-
 
 ## Description
 ### What is it?

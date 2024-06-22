@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to obtain a marriage certificate in Croatia, including required
-  documents and procedures. Ensure timely preparation for your wedding day.
+description: Learn how to get your marriage certificate in Croatia, the required documents,
+  and steps for both residents and foreigners planning to marry.
 draft: false
-meta_title: 'Getting a Marriage Certificate in Croatia: Procedure & Docs'
-title: 'Getting a Marriage Certificate in Croatia: Procedure & Docs'
+meta_title: 'How to Obtain a Marriage Certificate in Croatia: A Complete Guide'
+title: 'How to Obtain a Marriage Certificate in Croatia: A Complete Guide'
 translationKey: croatia-issuance_of_marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

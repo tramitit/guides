@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to register your new surname in your home country after marrying
-  overseas. Required documents, procedures, providers, and important details included.
+description: Learn how to register your new surname in your home country after getting
+  married abroad. Follow our step-by-step guide and essential document checklist.
 draft: false
-meta_title: Changing Surname after Foreign Marriage Guide | Procedures & Documents
-title: Changing Surname after Foreign Marriage Guide | Procedures & Documents
+meta_title: 'Guide: Registering Your New Surname Post-Marriage Abroad'
+title: 'Guide: Registering Your New Surname Post-Marriage Abroad'
 translationKey: bulgaria-registration_of_surname_change_after_marriage
 ---
-
 
 ## Description
 ### What is it?

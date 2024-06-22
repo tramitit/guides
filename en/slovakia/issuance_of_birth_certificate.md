@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how Slovakian citizens can obtain a birth certificate, including
-  application process, required documents, and potential delays for those living abroad.
+description: Learn how to request a birth certificate in Slovakia, required documents,
+  fees, and steps for both residents and citizens living abroad.
 draft: false
-meta_title: 'Obtaining a Birth Certificate in Slovakia: Procedures & Requirements'
-title: 'Obtaining a Birth Certificate in Slovakia: Procedures & Requirements'
+meta_title: How to Obtain a Birth Certificate in Slovakia | Step-by-Step Guide
+title: How to Obtain a Birth Certificate in Slovakia | Step-by-Step Guide
 translationKey: slovakia-issuance_of_birth_certificate
 ---
-
 
 ## Description
 ### What is it?

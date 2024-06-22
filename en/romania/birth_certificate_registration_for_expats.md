@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn how expats or those with Romanian descent can register a child's
-  birth in Romania or abroad. Find out required documents and procedures in this guide.
+description: Learn about registering a birth in Romania, essential documents needed,
+  and the process for expats or those with Romanian descent.
 draft: false
-meta_title: 'Birth Certificate Registration in Romania: How to Register'
-title: 'Birth Certificate Registration in Romania: How to Register'
+meta_title: Guide to Birth Certificate Registration in Romania for Expats
+title: Guide to Birth Certificate Registration in Romania for Expats
 translationKey: romania-birth_certificate_registration_for_expats
 ---
-
 
 ## Description
 ### What is it?

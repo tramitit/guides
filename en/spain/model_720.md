@@ -3,13 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Discover everything about Form 720, who must present it, the process of declaration and the possible sanctions for delay or errors. Complies with the Treasury.
+description: Learn about Spain's Model 720 form, who needs it, required documents,
+  and submission process for declaring foreign assets over €50,000.
 draft: false
-meta_title: 'Complete Guide on Form 720: Declaration of Assets Abroad'
-title: 'Complete Guide on Form 720: Declaration of Assets Abroad'
+meta_title: 'Model 720: Spanish Tax Declaration for Foreign Assets Guide'
+title: 'Model 720: Spanish Tax Declaration for Foreign Assets Guide'
 translationKey: spain-model_720
 ---
-
 
 ## Description
 ### What is it?

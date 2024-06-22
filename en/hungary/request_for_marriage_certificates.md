@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn the process to request a marriage certificate in Hungary for legal,
-  genealogy or citizenship purposes. Find providers, required documents & more.
+description: Learn how to request a marriage certificate in Hungary, including steps,
+  required documents, and tips for dealing with Hungarian language records.
 draft: false
-meta_title: 'Marriage Certificate Request in Hungary: Procedure & Providers'
-title: 'Marriage Certificate Request in Hungary: Procedure & Providers'
+meta_title: Guide to Requesting a Marriage Certificate in Hungary
+title: Guide to Requesting a Marriage Certificate in Hungary
 translationKey: hungary-request_for_marriage_certificates
 ---
-
 
 ## Description
 ### What is it?

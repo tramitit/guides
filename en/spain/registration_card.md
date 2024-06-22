@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn the steps, required documents, and tips for obtaining a NIE in
-  Spain. Understand whether you need Modelo EX-15 or EX-18 based on your nationality.
+description: Learn how non-Spaniards can get a NIE in Spain for legal and fiscal activities.
+  Step-by-step process, required documents, and helpful tips included.
 draft: false
-meta_title: 'How to Get a Spanish NIE: Steps, Requirements, and Tips'
-title: 'How to Get a Spanish NIE: Steps, Requirements, and Tips'
+meta_title: 'Guide to Obtaining a NIE in Spain: Requirements and Procedure'
+title: 'Guide to Obtaining a NIE in Spain: Requirements and Procedure'
 translationKey: spain-registration_card
 ---
+
 
 
 

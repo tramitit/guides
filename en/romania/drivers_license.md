@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn how to obtain a Romanian driver's license including required documents,
-  steps, providers, and essential tips for driving safely in Romania.
+description: Learn how to get a Romanian driver's license with required documents,
+  steps, and additional details to legally drive in Romania.
 draft: false
-meta_title: 'Romanian Driver''s License: Procedures, Requirements & Tips'
-title: 'Romanian Driver''s License: Procedures, Requirements & Tips'
+meta_title: 'How to Obtain a Romanian Driver''s License: A Step-by-Step Guide'
+title: 'How to Obtain a Romanian Driver''s License: A Step-by-Step Guide'
 translationKey: romania-drivers_license
 ---
-
 
 ## Description
 ### What is it?

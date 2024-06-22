@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn the process for non-Slovak residents to live, work, or study in
-  Slovakia. Understand required documents, procedures, and additional regulations.
+description: Learn how to register as a foreign national in Slovakia, including required
+  documents and detailed procedure for residence permit application.
 draft: false
-meta_title: 'Residence Permit in Slovakia: Guidelines for Foreign Nationals'
-title: 'Residence Permit in Slovakia: Guidelines for Foreign Nationals'
+meta_title: Guide to Foreign National Registration in Slovakia
+title: Guide to Foreign National Registration in Slovakia
 translationKey: slovakia-registration_of_a_foreign_national
 ---
-
 
 ## Description
 ### What is it?

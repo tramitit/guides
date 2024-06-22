@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn the steps and requirements to register a business in Slovakia's
-  Obchodný register, including preparation, submission, and verification of documents.
+description: Learn about the commercial register in Slovakia, necessary for companies.
+  Step-by-step guide on documents, submission, fees, and verification process.
 draft: false
-meta_title: Guide to Registering Your Business in Slovakia - Obchodný Register
-title: Guide to Registering Your Business in Slovakia - Obchodný Register
+meta_title: Guide to Commercial Register in Slovakia – Requirements & Procedure
+title: Guide to Commercial Register in Slovakia – Requirements & Procedure
 translationKey: slovakia-registration_in_the_commercial_register
 ---
-
 
 ## Description
 ### What is it?

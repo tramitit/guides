@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Comprehensive guide for international students pursuing higher education
-  in France. Covers application, acceptance, registration steps and required documents.
+description: Detailed steps for international students to register at French universities,
+  including required documents, visa application, and tuition fees.
 draft: false
-meta_title: University Registration Guide in France for International Students
-title: University Registration Guide in France for International Students
+meta_title: Guide to University Registration for International Students in France
+title: Guide to University Registration for International Students in France
 translationKey: france-university_registration
 ---
-
 
 ## Description
 ### What is it?

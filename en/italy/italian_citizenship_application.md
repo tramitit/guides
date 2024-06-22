@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Scopri come applicare per la cittadinanza italiana, requisiti, documenti
-  necessari, e procedure dettagliate. Diventa cittadino italiano facilmente.
+description: Learn the steps to apply for Italian Citizenship through ancestry, residency,
+  or marriage. Get detailed information on eligibility, documents, and procedures.
 draft: false
-meta_title: Guida Completa alla Domanda di Cittadinanza Italiana
-title: Guida Completa alla Domanda di Cittadinanza Italiana
+meta_title: 'How to Apply for Italian Citizenship: A Comprehensive Guide'
+title: 'How to Apply for Italian Citizenship: A Comprehensive Guide'
 translationKey: italy-italian_citizenship_application
 ---
+
 
 
 

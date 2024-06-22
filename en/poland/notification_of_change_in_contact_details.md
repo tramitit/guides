@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to update contact details online and offline for a smooth transition.
-  Required documents and provider examples included. Stay connected effortlessly.
+description: Learn how to update your contact details in banks, social media, utilities,
+  and government entities efficiently with our comprehensive guide.
 draft: false
-meta_title: 'Updating Contact Details: Procedure & Required Documents'
-title: 'Updating Contact Details: Procedure & Required Documents'
+meta_title: 'How to Update Your Contact Details: A Step-by-Step Guide'
+title: 'How to Update Your Contact Details: A Step-by-Step Guide'
 translationKey: poland-notification_of_change_in_contact_details
 ---
-
 
 ## Description
 ### What is it?

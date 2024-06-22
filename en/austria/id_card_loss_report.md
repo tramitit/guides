@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Notify authorities & apply for a replacement ID card in Austria to prevent
-  identity theft. Learn the process, required documents, and waiting times.
+description: Learn the steps to report your lost/stolen ID card in Austria and apply
+  for a replacement. Prevent identity theft by following this essential procedure.
 draft: false
-meta_title: 'Lost or Stolen ID Card Reporting in Austria: Procedure & Providers'
-title: 'Lost or Stolen ID Card Reporting in Austria: Procedure & Providers'
+meta_title: How to Report and Replace a Lost or Stolen ID Card in Austria
+title: How to Report and Replace a Lost or Stolen ID Card in Austria
 translationKey: austria-id_card_loss_report
 ---
-
 
 ## Description
 ### What is it?

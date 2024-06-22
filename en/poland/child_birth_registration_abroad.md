@@ -3,13 +3,15 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to register a child's birth abroad with Poland and Germany.
-  Find required documents, procedures, providers, costs, and timelines in this guide.
+description: Learn how to register a child's birth abroad for Polish and German citizens.
+  Understand key steps, required documents, and contacting the right offices.
 draft: false
-meta_title: Birth Registration Procedures in Poland and Germany
-title: Birth Registration Procedures in Poland and Germany
+meta_title: 'Birth Registration Abroad: Procedures for Poland and Germany'
+title: 'Birth Registration Abroad: Procedures for Poland and Germany'
 translationKey: poland-child_birth_registration_abroad
 ---
+
+
 
 
 ## Description

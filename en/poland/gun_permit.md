@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to legally own a firearm in Poland, from enrolling in a safety
-  course to obtaining necessary documents. Find providers, costs, and renewal details.
+description: Learn the steps to obtain a firearm permit in Poland, required documents,
+  and procedures for hunters, sports shooters, and collectors.
 draft: false
-meta_title: 'Acquiring a Firearm License in Poland: Procedure and Requirements'
-title: 'Acquiring a Firearm License in Poland: Procedure and Requirements'
+meta_title: 'How to Get a Firearm Permit in Poland: Step-by-Step Guide'
+title: 'How to Get a Firearm Permit in Poland: Step-by-Step Guide'
 translationKey: poland-gun_permit
 ---
-
 
 ## Description
 ### What is it?

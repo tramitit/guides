@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn the steps and requirements to get a criminal record certificate
-  in Bulgaria for work, immigration, and other purposes.
+description: Learn what a criminal record certificate is, who needs it, the application
+  procedure, required documents, and tips for a smooth process.
 draft: false
-meta_title: How to Obtain a Criminal Record Certificate in Bulgaria
-title: How to Obtain a Criminal Record Certificate in Bulgaria
+meta_title: 'How to Obtain a Criminal Record Certificate: Steps and Requirements'
+title: 'How to Obtain a Criminal Record Certificate: Steps and Requirements'
 translationKey: bulgaria-issuance_of_a_criminal_record_certificate
 ---
-
 
 ## Description
 ### What is it?

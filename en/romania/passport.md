@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn how to get a Romanian passport if you're a citizen or meet specific
-  criteria. Find out the process, required documents, and where to apply.
+description: Learn how to apply for a Romanian passport, including required documents,
+  application steps, and where to apply. Essential guide for Romanian citizens.
 draft: false
-meta_title: 'Applying for a Romanian Passport: Steps and Requirements'
-title: 'Applying for a Romanian Passport: Steps and Requirements'
+meta_title: 'Guide to Obtaining a Romanian Passport: Steps and Requirements'
+title: 'Guide to Obtaining a Romanian Passport: Steps and Requirements'
 translationKey: romania-passport
 ---
-
 
 ## Description
 ### What is it?

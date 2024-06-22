@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn who qualifies for state-provided family allowance in Italy, how
-  to apply via INPS, required documents, and updating procedures for benefits realization.
+description: Learn about Italian family allowance, who qualifies, the application
+  process, required documents, and more for financial assistance to families with
+  minors.
 draft: false
-meta_title: 'Italian Family Allowance: Eligibility, Application, & Payments'
-title: 'Italian Family Allowance: Eligibility, Application, & Payments'
+meta_title: 'Italian Family Allowance: Eligibility, Procedure, Required Documents'
+title: 'Italian Family Allowance: Eligibility, Procedure, Required Documents'
 translationKey: italy-family_allowance_request
 ---
-
 
 ## Description
 ### What is it?

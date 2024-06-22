@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Descubre cómo solicitar beneficios de Seguridad Social en Bulgaria, incluyendo
-  los documentos requeridos y los pasos del proceso.
+description: Learn about the social security system in Bulgaria, including who qualifies,
+  necessary documents, and step-by-step application procedures.
 draft: false
-meta_title: 'Guía de Seguridad Social en Bulgaria: Beneficios y Procedimientos'
-title: 'Guía de Seguridad Social en Bulgaria: Beneficios y Procedimientos'
+meta_title: 'Social Security in Bulgaria: Benefits, Procedures, and Requirements'
+title: 'Social Security in Bulgaria: Benefits, Procedures, and Requirements'
 translationKey: bulgaria-application_for_social_security
 ---
-
 
 ## Description
 ### What is it?

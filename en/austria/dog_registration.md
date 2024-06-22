@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to register your dog in Austria, the required documents, procedure,
-  costs, and essential regulations for pet owners.
+description: Ensure your dog is registered in Austria by following this guide. Learn
+  about microchipping, required documents, and registration steps for all dog owners.
 draft: false
-meta_title: 'Dog Registration in Austria: Essential Steps and Guidelines'
-title: 'Dog Registration in Austria: Essential Steps and Guidelines'
+meta_title: 'Mandatory Dog Registration in Austria: Step-by-Step Guide'
+title: 'Mandatory Dog Registration in Austria: Step-by-Step Guide'
 translationKey: austria-dog_registration
 ---
-
 
 ## Description
 ### What is it?

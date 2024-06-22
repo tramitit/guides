@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to officially record a death in Croatia by following the step-by-step
-  procedure. Obtain necessary documents and find a local office for registration.
+description: Learn the steps and requirements for registering a death in Croatia,
+  including necessary documents and where to go for the process.
 draft: false
-meta_title: 'Death Register Entry in Croatia: Procedure & Requirements'
-title: 'Death Register Entry in Croatia: Procedure & Requirements'
+meta_title: How to Complete Entry into Death Register in Croatia
+title: How to Complete Entry into Death Register in Croatia
 translationKey: croatia-entry_into_the_death_register
 ---
-
 
 ## Description
 ### What is it?

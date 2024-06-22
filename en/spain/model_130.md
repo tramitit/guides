@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Learn about Model 130, a vital tax form for self-employed individuals in Spain. Discover the steps, required documents, and submission deadlines.
+description: Learn how self-employed individuals and small business owners in Spain
+  can complete and submit Model 130 to declare income and calculate personal income
+  tax.
 draft: false
-meta_title: 'Model 130: Quarterly Tax Guide for Self-Employed in Spain'
-title: 'Model 130: Quarterly Tax Guide for Self-Employed in Spain'
+meta_title: 'Guide to Model 130: Quarterly Tax Form for Spain''s Self-Employed'
+title: 'Guide to Model 130: Quarterly Tax Form for Spain''s Self-Employed'
 translationKey: spain-model_130
 ---
-
 
 ## Description
 

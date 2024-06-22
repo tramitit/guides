@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn how non-EU family members of EU citizens can legally reside in
-  Spain. Step-by-step guide, required documents, and tips for successful application.
+description: Learn the steps to obtain a Residence Card for non-EU family members
+  of EU citizens living in Spain. Includes required documents and procedures.
 draft: false
-meta_title: Obtaining the Residence Card for Non-EU Family Members in Spain
-title: Obtaining the Residence Card for Non-EU Family Members in Spain
+meta_title: Residence Card for Non-EU Family Members of EU Citizens in Spain
+title: Residence Card for Non-EU Family Members of EU Citizens in Spain
 translationKey: spain-residence_card_of_family_member_of_a_european_union_citizen
 ---
-
 
 ## Description
 ### What is it?

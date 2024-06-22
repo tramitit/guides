@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to register your temporary address in Bulgaria for short stays
-  as a foreigner. Process, required documents, and legal considerations included.
+description: Learn the essential steps and requirements for temporary address registration
+  in Bulgaria. This guide includes necessary documents and potential providers.
 draft: false
-meta_title: 'Temporary Address Registration in Bulgaria: Procedure & Documents'
-title: 'Temporary Address Registration in Bulgaria: Procedure & Documents'
+meta_title: 'Temporary Address Registration in Bulgaria: A Complete Guide'
+title: 'Temporary Address Registration in Bulgaria: A Complete Guide'
 translationKey: bulgaria-temporary_address_registration
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Find out who needs nanny services, how to hire, required documents, and
-  providers. Trust, communication, and documentation are key for smooth services.
+description: Find expert full-time or part-time nannies for childcare, tutoring, light
+  household duties, and meal prep to ensure your children's care at home.
 draft: false
-meta_title: 'Nanny Services: Care, Tutoring & Household Help at Home'
-title: 'Nanny Services: Care, Tutoring & Household Help at Home'
+meta_title: Professional Nanny Services for Childcare and Household Support
+title: Professional Nanny Services for Childcare and Household Support
 translationKey: bulgaria-application_for_nanny_services
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how Hungarian citizens can apply for a passport at an embassy,
-  including eligibility, documents needed, and steps like an interview and oath-taking.
+description: Learn the complete process to apply for a Hungarian passport, including
+  required documents and steps for Hungarian citizenship application.
 draft: false
-meta_title: 'Hungarian Passport: Application Procedure and Required Documents'
-title: 'Hungarian Passport: Application Procedure and Required Documents'
+meta_title: 'How to Apply for a Hungarian Passport: Step-by-Step Guide'
+title: 'How to Apply for a Hungarian Passport: Step-by-Step Guide'
 translationKey: hungary-passport_application
 ---
-
 
 ## Description
 ### What is it?

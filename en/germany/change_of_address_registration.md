@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to complete Anmeldung in Germany, including required documents,
-  procedures, and legal obligations. Don't miss the two-week deadline!
+description: Learn the step-by-step process to register your new address in Germany.
+  Find out who needs it, required documents, and additional important details.
 draft: false
-meta_title: 'Registering New Address in Germany: Anmeldung Process'
-title: 'Registering New Address in Germany: Anmeldung Process'
+meta_title: 'Complete Guide to Anmeldung: Registering Your Address in Germany'
+title: 'Complete Guide to Anmeldung: Registering Your Address in Germany'
 translationKey: germany-change_of_address_registration
 ---
-
 
 ## Description
 ### What is it?

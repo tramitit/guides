@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to register a new, used, or imported vehicle in Slovakia. Find
-  out the required documents, costs, and procedures for vehicle registration in Slovakia.
+description: Learn the steps, required documents, costs, and additional details for
+  vehicle registration in Slovakia for new, used, and imported vehicles.
 draft: false
-meta_title: 'Slovakia Vehicle Registration Guide: Process, Documents, Costs'
-title: 'Slovakia Vehicle Registration Guide: Process, Documents, Costs'
+meta_title: Comprehensive Guide to Vehicle Registration in Slovakia
+title: Comprehensive Guide to Vehicle Registration in Slovakia
 translationKey: slovakia-vehicle_registration
 ---
-
 
 ## Description
 ### What is it?

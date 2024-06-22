@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn why & how to submit pregnancy confirmation, required documents,
-  providers, & rights. Get tips on deadlines & additional info for a smooth process.
+description: Learn why and how to submit pregnancy confirmation for work leave or
+  services. Get details on required documents and follow-up steps to ensure acknowledgment.
 draft: false
-meta_title: 'Pregnancy Confirmation Procedure & Providers: Essential Guide'
-title: 'Pregnancy Confirmation Procedure & Providers: Essential Guide'
+meta_title: 'How to Submit Pregnancy Confirmation: Step-by-Step Guide'
+title: 'How to Submit Pregnancy Confirmation: Step-by-Step Guide'
 translationKey: germany-submitting_pregnancy_confirmation
 ---
-
 
 ## Description
 ### What is it?

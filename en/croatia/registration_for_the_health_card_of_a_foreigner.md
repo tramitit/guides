@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how expats and digital nomads in Croatia can obtain a health card
-  for accessing state healthcare services. Essential steps, documents, and costs included.
+description: Learn the steps to acquire a Croatian health card. Essential for expats,
+  from residency permit to HZZO registration and documents needed.
 draft: false
-meta_title: 'Health Card in Croatia: Guide for Foreigners Accessing Healthcare'
-title: 'Health Card in Croatia: Guide for Foreigners Accessing Healthcare'
+meta_title: 'How to Obtain a Health Card in Croatia: A Guide for Expats'
+title: 'How to Obtain a Health Card in Croatia: A Guide for Expats'
 translationKey: croatia-registration_for_the_health_card_of_a_foreigner
 ---
-
 
 ## Description
 ### What is it?

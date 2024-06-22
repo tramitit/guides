@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how non-EU residents in Poland can reclaim VAT on purchases. Follow
-  the procedure, required documents, providers info, and eligibility criteria.
+description: Learn the steps to claim your VAT refund on retail purchases as a non-EU
+  resident. Ensure your paperwork is in order for a smooth refund process.
 draft: false
-meta_title: Guide to VAT Refund for Non-EU Residents in Poland
-title: Guide to VAT Refund for Non-EU Residents in Poland
+meta_title: How to Claim VAT Refund for Non-EU Residents in the EU
+title: How to Claim VAT Refund for Non-EU Residents in the EU
 translationKey: poland-vat_tax_refund_for_purchases_in_the_eu
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Scopri come registrarti nell'A.I.R.E per votare, sia dall'Italia che
-  dall'estero. Segui la procedura e i documenti necessari per i cittadini italiani.
+description: Learn the process and requirements for Italian citizens to register for
+  the electoral roll. Essential for voting in Italy and overseas via A.I.R.E.
 draft: false
-meta_title: Guida alla Registrazione nell'Anagrafe Elettorale Italiana
-title: Guida alla Registrazione nell'Anagrafe Elettorale Italiana
+meta_title: Register for the Electoral Roll in Italy and Abroad | A.I.R.E
+title: Register for the Electoral Roll in Italy and Abroad | A.I.R.E
 translationKey: italy-electoral_roll_registration_request
 ---
-
 
 ## Description
 ### What is it?

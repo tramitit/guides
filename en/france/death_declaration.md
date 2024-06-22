@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: 'Learn how to make a death declaration in France: steps, documents needed,
-  and who can help. Get the official Death Certificate for legal matters.'
+description: Learn the steps for a death declaration in France, required documents,
+  and who can assist. Essential for settling the deceased's estate and legal matters.
 draft: false
-meta_title: 'Death Declaration: Procedure and Required Documents in France'
-title: 'Death Declaration: Procedure and Required Documents in France'
+meta_title: 'Death Declaration in France: Steps, Documents, and Providers'
+title: 'Death Declaration in France: Steps, Documents, and Providers'
 translationKey: france-death_declaration
 ---
-
 
 ## Description
 ### What is it?

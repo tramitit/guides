@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Understand how to cancel permanent residence, required documents, procedures,
-  and providers. Be aware of potential rights loss and country-specific regulations.
+description: Learn the essential steps and required documents to cancel your permanent
+  residence. Understand why and when you might need this procedure. Stay informed.
 draft: false
-meta_title: 'Cancel Permanent Residence: Process, Requirements & Providers'
-title: 'Cancel Permanent Residence: Process, Requirements & Providers'
+meta_title: 'How to Cancel Permanent Residence: Procedure and Documents'
+title: 'How to Cancel Permanent Residence: Procedure and Documents'
 translationKey: slovakia-cancellation_of_permanent_residence
 ---
-
 
 ## Description
 ### What is it?

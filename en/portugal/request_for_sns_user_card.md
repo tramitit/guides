@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to get a SNS User Card in Portugal as a resident, necessary
-  documents, procedure steps and benefits of this free healthcare access card.
+description: Learn how to obtain the SNS User Card in Portugal, required documents,
+  and the step-by-step procedure for residents. Start accessing healthcare services
+  easily.
 draft: false
-meta_title: 'Obtaining a Portuguese SNS User Card: Process and Benefits'
-title: 'Obtaining a Portuguese SNS User Card: Process and Benefits'
+meta_title: How to Get the SNS User Card in Portugal - Complete Guide
+title: How to Get the SNS User Card in Portugal - Complete Guide
 translationKey: portugal-request_for_sns_user_card
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: 'Learn about the Meldezettel in Austria: who needs it, required documents,
-  and the registration process step-by-step.'
+description: Learn how to register your residence in Austria with a Meldezettel. Follow
+  our step-by-step guide and ensure you have the required documents.
 draft: false
-meta_title: Guide to Austria's Registration Certificate (Meldezettel)
-title: Guide to Austria's Registration Certificate (Meldezettel)
+meta_title: Guide to Registering Your Residence in Austria (Meldezettel)
+title: Guide to Registering Your Residence in Austria (Meldezettel)
 translationKey: austria-registration_certificate
 ---
-
 
 ## Description
 ### What is it?

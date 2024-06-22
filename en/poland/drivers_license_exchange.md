@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Step-by-step guide for foreigners moving to Poland to legally drive on
-  Polish roads. Procedure, required documents, providers, and essential details included.
+description: Step-by-step guide for EU and non-EU drivers on exchanging a foreign
+  license for a Polish one. Includes required documents and procedural details.
 draft: false
-meta_title: How to Exchange Foreign Driver's License for Polish License
-title: How to Exchange Foreign Driver's License for Polish License
+meta_title: Guide to Exchanging a Foreign Driving License for a Polish One
+title: Guide to Exchanging a Foreign Driving License for a Polish One
 translationKey: poland-drivers_license_exchange
 ---
-
 
 ## Description
 ### What is it?

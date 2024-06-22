@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to get a Croatian birth certificate, essential for legal purposes.
-  Follow steps, required docs, and key points for a smooth procedure.
+description: Learn the procedure, required documents, and tips for obtaining a Croatian
+  birth certificate for identity verification and legal processes.
 draft: false
-meta_title: 'Obtaining a Croatian Birth Certificate: Process and Requirements'
-title: 'Obtaining a Croatian Birth Certificate: Process and Requirements'
+meta_title: 'How to Obtain a Croatian Birth Certificate: Step-by-Step Guide'
+title: 'How to Obtain a Croatian Birth Certificate: Step-by-Step Guide'
 translationKey: croatia-issuance_of_birth_certificate
 ---
-
 
 ## Description
 ### What is it?

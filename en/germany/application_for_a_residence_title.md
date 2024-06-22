@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to apply for a Germany residence title, from form submission
-  to document requirements. Ensure correct type with help from Foreigners Authority.
+description: Learn how non-EU citizens can apply for a German residence title, required
+  documents, procedures, and important tips for a successful application.
 draft: false
-meta_title: 'Germany Residence Title Application: Procedure and Documents Required'
-title: 'Germany Residence Title Application: Procedure and Documents Required'
+meta_title: Guide to Residence Title (Aufenthaltstitel) in Germany
+title: Guide to Residence Title (Aufenthaltstitel) in Germany
 translationKey: germany-application_for_a_residence_title
 ---
-
 
 ## Description
 ### What is it?

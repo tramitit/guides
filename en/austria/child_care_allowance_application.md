@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn about Child Care Allowance, financial aid for parents with children.
-  Know eligibility criteria, procedure, and required documents for application process.
+description: Learn about Child Care Allowance, a government aid for families to cover
+  costs of child care. Check eligibility, prepare documents, and apply easily.
 draft: false
-meta_title: 'Child Care Allowance: Eligibility, Procedure & Required Documents'
-title: 'Child Care Allowance: Eligibility, Procedure & Required Documents'
+meta_title: 'Child Care Allowance: Financial Aid for Families with Children'
+title: 'Child Care Allowance: Financial Aid for Families with Children'
 translationKey: austria-child_care_allowance_application
 ---
-
 
 ## Description
 ### What is it?

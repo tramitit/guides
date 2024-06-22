@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn how to obtain or renew student residency permits in Spain. Follow
-  the procedure, prepare documents, and understand requirements for a smooth application.
+description: Learn how non-citizens can obtain or renew a student card in Spain. Follow
+  our step-by-step guide on documents, application, fees, and more.
 draft: false
-meta_title: 'Student Residency Card for Foreigners in Spain: Guide'
-title: 'Student Residency Card for Foreigners in Spain: Guide'
+meta_title: Guide to Obtaining or Renewing Your Student Card in Spain
+title: Guide to Obtaining or Renewing Your Student Card in Spain
 translationKey: spain-initial_or_renewal_student_card_for_foreigners
 ---
-
 
 ## Description
 ### What is it?

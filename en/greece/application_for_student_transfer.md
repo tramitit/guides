@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: 'Learn how to transfer between educational institutions in Greece or
-  abroad: from academic record evaluation to visa procedures and new institution requirements.'
+description: Learn the steps and requirements for transferring schools within Greece
+  or internationally, including document prep, application process, and visa info.
 draft: false
-meta_title: Student Transfer Guide for International and Domestic Moves
-title: Student Transfer Guide for International and Domestic Moves
+meta_title: How to Transfer Between Educational Institutions in Greece
+title: How to Transfer Between Educational Institutions in Greece
 translationKey: greece-application_for_student_transfer
 ---
-
 
 ## Description
 ### What is it?

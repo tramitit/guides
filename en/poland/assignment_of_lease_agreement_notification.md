@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to assign a lease to a new tenant, notify the landlord, and
-  sign necessary documents to ensure a smooth transfer. Important tips included.
+description: Learn how to transfer your lease legally. Steps for notifying your landlord,
+  required documents, and obtaining approval for a smooth assignment process.
 draft: false
-meta_title: 'Lease Assignment Process: How to Transfer Your Lease Responsibly'
-title: 'Lease Assignment Process: How to Transfer Your Lease Responsibly'
+meta_title: 'Lease Assignment: Transfer Your Lease Easily and Legally'
+title: 'Lease Assignment: Transfer Your Lease Easily and Legally'
 translationKey: poland-assignment_of_lease_agreement_notification
 ---
-
 
 ## Description
 ### What is it?

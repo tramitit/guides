@@ -11,8 +11,6 @@ title: 'Comprendre la Pension Alimentaire en France: Procédures et Documents'
 translationKey: france-alimony_application
 ---
 
-
-
 ## Description
 
 ### Qu'est-ce que c'est?

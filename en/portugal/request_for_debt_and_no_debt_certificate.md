@@ -3,13 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn about the Central de Responsabilidades de Crédito (CRC), credit cards, necessary documents, and providers. Crucial for financial planning, loan applications, and audits.
+description: Learn the importance of CRC reports for creditworthiness and how to apply
+  for credit cards in Portugal. Essential for loans and financial stability.
 draft: false
-meta_title: 'Debt and No-Debt Certificate: Application Procedure and Providers'
-title: 'Debt and No-Debt Certificate: Application Procedure and Providers'
+meta_title: Understanding CRC Reports and Credit Cards in Portugal
+title: Understanding CRC Reports and Credit Cards in Portugal
 translationKey: portugal-request_for_debt_and_no_debt_certificate
 ---
-
 
 ## Description
 ### What is it?

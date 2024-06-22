@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: 'Mandatory residence registration process (Anmeldung) for locals and
-  expats in Germany and Austria: steps, documents, and tips.'
+description: Learn how to complete residence registration in Germany and Austria,
+  required documents, and the step-by-step procedure to comply with the local law.
 draft: false
-meta_title: Guide to Residence Registration (Anmeldung) in Germany and Austria
-title: Guide to Residence Registration (Anmeldung) in Germany and Austria
+meta_title: 'Anmeldung: Residence Registration in Germany and Austria Guide'
+title: 'Anmeldung: Residence Registration in Germany and Austria Guide'
 translationKey: austria-residence_registration
 ---
-
 
 ## Description
 ### What is it?

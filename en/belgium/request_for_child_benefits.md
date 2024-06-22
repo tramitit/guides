@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Discover how parents living in Belgium can claim child benefits, what
-  documents are needed, and key details like provider options and eligibility criteria.
+description: Learn how to apply for Belgium's child benefit, required documents, and
+  eligibility criteria for parents and guardians living in Belgium.
 draft: false
-meta_title: 'Child Benefit in Belgium: How to Claim and Important Details'
-title: 'Child Benefit in Belgium: How to Claim and Important Details'
+meta_title: 'Belgium Child Benefit: Eligibility, Application, and Procedure Guide'
+title: 'Belgium Child Benefit: Eligibility, Application, and Procedure Guide'
 translationKey: belgium-request_for_child_benefits
 ---
-
 
 ## Description
 ### What is it?

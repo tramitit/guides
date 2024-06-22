@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to announce your property for rent in Greece, including steps
-  to prepare, essential documents, and legal requirements.
+description: Learn essential steps for rental announcements, from legal docs to tenant
+  screening, and ensure your property meets local safety standards.
 draft: false
-meta_title: Rental Announcement Guide for Property Owners in Greece
-title: Rental Announcement Guide for Property Owners in Greece
+meta_title: The Ultimate Guide to Rental Announcements for Property Owners
+title: The Ultimate Guide to Rental Announcements for Property Owners
 translationKey: greece-rental_announcement
 ---
-
 
 ## Description
 ### What is it?

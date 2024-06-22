@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn the steps for legal name change in Austria, including required
-  documents and providers who can assist. Understand the intricate process and fees
-  involved.
+description: Learn the steps and documents needed for a legal name change in Austria,
+  including who needs it and how to proceed at your local Municipal District Office.
 draft: false
-meta_title: 'Austrian Name Change Application: Process, Documents, Providers'
-title: 'Austrian Name Change Application: Process, Documents, Providers'
+meta_title: 'Guide to Legal Name Change in Austria: Process & Requirements'
+title: 'Guide to Legal Name Change in Austria: Process & Requirements'
 translationKey: austria-name_change_application
 ---
+
 
 ## Description
 ### What is it?

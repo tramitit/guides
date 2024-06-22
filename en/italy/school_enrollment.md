@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Comprehensive guide on enrollment in Italian schools and universities
-  for foreign students. Includes procedures, required documents, and provider information.
+description: Discover how to enroll in Italian schools and universities, including
+  steps, required documents, and tips for foreign students. Start your application
+  now!
 draft: false
-meta_title: Italy School Enrollment Guide for Foreign Students
-title: Italy School Enrollment Guide for Foreign Students
+meta_title: Complete Guide to School and University Enrollment in Italy
+title: Complete Guide to School and University Enrollment in Italy
 translationKey: italy-school_enrollment
 ---
-
 
 ## Description
 ### What is it?

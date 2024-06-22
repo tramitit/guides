@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: 'Step-by-step guide to book a Cita Previa for residence, work permits
-  in Spain. Ensure correct info, early arrival. Provider: Sede Electronica.'
+description: Step-by-step guide to book an appointment with Spain's Immigration Office
+  for document sorting, residence or work permits. Ensure correct info to avoid delays.
 draft: false
-meta_title: How to Schedule Immigration Office Appointment in Spain
-title: How to Schedule Immigration Office Appointment in Spain
+meta_title: Guide to Scheduling Cita Previa with the Immigration Office in Spain
+title: Guide to Scheduling Cita Previa with the Immigration Office in Spain
 translationKey: spain-appointment_request_for_immigration_office
 ---
-
 
 ## Description
 ### What is it?

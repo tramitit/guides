@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn who needs an Income Certificate, how to get it, and the required
-  documents. Essential for loans, taxes, and Residence Card in Romania.
+description: Learn what an Income Certificate is, who needs it, the required documents,
+  and the procedure to obtain it in Romania. Essential for loans, taxes, and more.
 draft: false
-meta_title: 'Income Certificate: Purpose, Procedure & Required Docs'
-title: 'Income Certificate: Purpose, Procedure & Required Docs'
+meta_title: 'How to Obtain an Income Certificate in Romania: Step-by-Step Guide'
+title: 'How to Obtain an Income Certificate in Romania: Step-by-Step Guide'
 translationKey: romania-income_certificate
 ---
-
 
 ## Description
 ### What is it? 

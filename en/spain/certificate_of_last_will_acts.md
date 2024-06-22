@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn about the procedure, required documents, and who needs the Certificate
-  of Last Will Acts issued by the Spanish Ministry of Justice.
+description: Learn how to obtain the Certificate of Last Will Acts, crucial for managing
+  a deceased’s estate in Spain. Follow these steps for a smooth process.
 draft: false
-meta_title: How to Obtain a Certificate of Last Will Acts in Spain
-title: How to Obtain a Certificate of Last Will Acts in Spain
+meta_title: 'Certificate of Last Will Acts: A Guide for Executors and Heirs'
+title: 'Certificate of Last Will Acts: A Guide for Executors and Heirs'
 translationKey: spain-certificate_of_last_will_acts
 ---
-
 
 ## Description
 ### What is it?

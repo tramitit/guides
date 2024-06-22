@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn the steps to obtain a Civil Status Certificate for various needs,
-  including required documents, procedures, and provider details.
+description: Learn the steps, required documents, and providers to obtain your Civil
+  Status Certificate for marriage, visa, and more.
 draft: false
-meta_title: 'How to Obtain Your Civil Status Certificate: A Step-by-Step Guide'
-title: 'How to Obtain Your Civil Status Certificate: A Step-by-Step Guide'
+meta_title: 'How to Obtain a Civil Status Certificate: A Complete Guide'
+title: 'How to Obtain a Civil Status Certificate: A Complete Guide'
 translationKey: italy-civil_status_certificate
 ---
-
 
 ## Description
 ### What is it?

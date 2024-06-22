@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Aprende a declarar ingresos y gastos por e-commerce y servicios digitales.
-  Cumple con la legislación fiscal local fácilmente con nuestra guía paso a paso.
+description: Learn how to report your income and expenses from e-commerce and digital
+  services for local tax compliance. Stay updated on necessary procedures and documents.
 draft: false
-meta_title: 'Declaración de impuestos locales: guía completa para autónomos'
-title: 'Declaración de impuestos locales: guía completa para autónomos'
+meta_title: Guide to Payment Declaration for Local Taxes and Fees
+title: Guide to Payment Declaration for Local Taxes and Fees
 translationKey: bulgaria-payment_declaration_for_local_taxes_and_fees
 ---
-
 
 ## Description
 ### What is it?

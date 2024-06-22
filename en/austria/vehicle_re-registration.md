@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn about vehicle re-registration in Austria for residents and imports
-  from EU countries. Find out the process, required documents, and provider details
-  here.
+description: Learn the complete process and required documents for re-registering
+  your vehicle in Austria, whether you're moving within the country or importing from
+  the EU.
 draft: false
-meta_title: 'Austria Vehicle Re-registration: Process, Documents & Providers'
-title: 'Austria Vehicle Re-registration: Process, Documents & Providers'
+meta_title: 'Guide to Vehicle Re-Registration in Austria: Procedure & Docs'
+title: 'Guide to Vehicle Re-Registration in Austria: Procedure & Docs'
 translationKey: austria-vehicle_re-registration
 ---
-
 
 ## Description
 ### What is it?

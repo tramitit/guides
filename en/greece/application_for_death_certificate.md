@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn who needs a death certificate in Greece and the required documents
-  and steps for obtaining it from the Civil Registry Office. Find out more here!
+description: Learn the procedure and required documents for obtaining a death certificate.
+  Essential for settling legal and financial affairs of the deceased.
 draft: false
-meta_title: 'Obtaining a Death Certificate in Greece: Procedures & Documents'
-title: 'Obtaining a Death Certificate in Greece: Procedures & Documents'
+meta_title: 'Guide to Obtaining a Death Certificate: Steps and Requirements'
+title: 'Guide to Obtaining a Death Certificate: Steps and Requirements'
 translationKey: greece-application_for_death_certificate
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn how to access legal and historic documents at the General Archive
-  of the Ministry of Justice in Spain for genealogy, research, and legal purposes.
+description: Learn how to access legal and historical documents from the General Archive
+  of the Ministry of Justice in Spain for research, genealogy, and legal purposes.
 draft: false
-meta_title: General Archive of the Ministry of Justice in Spain Access Guide
-title: General Archive of the Ministry of Justice in Spain Access Guide
+meta_title: Access Historical and Legal Documents at Spain's General Archive
+title: Access Historical and Legal Documents at Spain's General Archive
 translationKey: spain-access_to_documents_of_the_general_archive_of_the_ministry_of_justice
 ---
-
 
 ## Description
 

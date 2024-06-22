@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn about rent subsidies, eligibility checks, required documents, application
-  steps, and providers. Get financial aid to afford your rental costs today!
+description: Learn how to apply for rent subsidies, understand eligibility criteria,
+  and gather necessary documents to ease your rental costs with financial aid.
 draft: false
-meta_title: 'Rent Subsidy Guide: Eligibility, Application Steps, Providers'
-title: 'Rent Subsidy Guide: Eligibility, Application Steps, Providers'
+meta_title: 'Guide to Rent Subsidies: Eligibility, Process, and Required Documents'
+title: 'Guide to Rent Subsidies: Eligibility, Process, and Required Documents'
 translationKey: greece-application_for_rent_subsidy
 ---
-
 
 ## Description
 ### What is it?

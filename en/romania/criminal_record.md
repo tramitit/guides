@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: 'Totul despre obținerea unui cazier judiciar în România: pași de urmat,
-  documente necesare și costuri implicate. Asigurați-vă că aveți ID valabil!'
+description: Learn how to obtain a criminal record in Romania including necessary
+  steps, required documents, and who might need one for jobs or visas.
 draft: false
-meta_title: 'Cazier Judiciar: Procedura și Documentele Necesare'
-title: 'Cazier Judiciar: Procedura și Documentele Necesare'
+meta_title: How to Obtain a Criminal Record (Cazier Judiciar) in Romania
+title: How to Obtain a Criminal Record (Cazier Judiciar) in Romania
 translationKey: romania-criminal_record
 ---
-
 
 ## Description
 ### What is it?

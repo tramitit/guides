@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to secure health insurance in Hungary, covering all options,
-  procedures, and required documents for optimal health care access.
+description: Learn how to procure health insurance in Hungary, including the procedure,
+  required documents, and comparing private and national options.
 draft: false
 meta_title: Comprehensive Guide to Health Insurance in Hungary
 title: Comprehensive Guide to Health Insurance in Hungary
 translationKey: hungary-obtaining_individual_health_insurance
 ---
-
 
 ## Description
 ### What is it?

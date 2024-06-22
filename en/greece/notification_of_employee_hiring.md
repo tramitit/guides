@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to announce new hires effectively and make them feel welcomed.
-  Ensure privacy and professionalism. HR Department can offer free services.
+description: Learn the steps to announce new hires, ensure smooth onboarding, and
+  make new employees feel welcomed. Ideal for HR and recruitment managers.
 draft: false
-meta_title: 'Employee Hiring Notification: Procedure & Required Documents'
-title: 'Employee Hiring Notification: Procedure & Required Documents'
+meta_title: Effective Employee Hiring Notifications for Smooth Onboarding
+title: Effective Employee Hiring Notifications for Smooth Onboarding
 translationKey: greece-notification_of_employee_hiring
 ---
-
 
 ## Description
 ### What is it?

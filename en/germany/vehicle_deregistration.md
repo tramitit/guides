@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to deregister a vehicle in Germany with ease. Follow steps
-  to submit required docs and obtain a de-registration certificate for a hassle-free
-  process.
+description: Learn how to deregister your vehicle in Germany. Steps include submitting
+  forms and documents to your local registration office for a smooth process.
 draft: false
-meta_title: 'German Vehicle Deregistration Process: Steps and Documents'
-title: 'German Vehicle Deregistration Process: Steps and Documents'
+meta_title: 'Guide to Vehicle Deregistration in Germany: Steps and Documents'
+title: 'Guide to Vehicle Deregistration in Germany: Steps and Documents'
 translationKey: germany-vehicle_deregistration
 ---
-
 
 ## Description
 ### What is it?

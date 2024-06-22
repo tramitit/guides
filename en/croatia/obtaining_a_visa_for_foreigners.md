@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to obtain a visa in Croatia for living, working, studying,
-  or visiting. Understand visa types, application process, and required documents
-  in detail.
+description: Learn how to obtain a Croatian visa for tourism, business, or study with
+  our detailed guide. Get step-by-step instructions and a list of required documents.
 draft: false
-meta_title: 'Guide to Obtaining a Visa in Croatia: Types, Process, Documents'
-title: 'Guide to Obtaining a Visa in Croatia: Types, Process, Documents'
+meta_title: 'Comprehensive Guide to Obtaining a Croatian Visa: Steps & Requirements'
+title: 'Comprehensive Guide to Obtaining a Croatian Visa: Steps & Requirements'
 translationKey: croatia-obtaining_a_visa_for_foreigners
 ---
-
 
 ## Description
 ### What is it?

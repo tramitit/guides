@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to get a duplicate Italian Identity Card for lost or damaged
-  cards. Follow the process involving police reports, required documents, and fees.
+description: Step-by-step guide for Italians to replace lost, stolen, or damaged identity
+  cards with necessary documents and procedures.
 draft: false
-meta_title: 'Getting a Duplicate Italian Identity Card: Step-by-Step Guide'
-title: 'Getting a Duplicate Italian Identity Card: Step-by-Step Guide'
+meta_title: Guide to Obtaining a Duplicate Italian Identity Card
+title: Guide to Obtaining a Duplicate Italian Identity Card
 translationKey: italy-duplicate_identity_card_request
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to obtain a driver's license in Greece, necessary documents,
-  and the complete application process. Essential info for residents and tourists.
+description: Learn the procedure, needed documents, and tips for obtaining a driver's
+  license in Greece. Essential for residents and tourists intending to drive.
 draft: false
-meta_title: 'Driver''s License in Greece: Requirements and Procedure Guide'
-title: 'Driver''s License in Greece: Requirements and Procedure Guide'
+meta_title: 'How to Obtain a Driver''s License in Greece: Steps and Requirements'
+title: 'How to Obtain a Driver''s License in Greece: Steps and Requirements'
 translationKey: greece-application_for_drivers_license
 ---
-
 
 ## Description
 ### What is it?

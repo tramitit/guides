@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to schedule a SEPE appointment in Spain for unemployment benefits
-  and required documents. Tips on booking, rescheduling, and cancellation included.
+description: Learn how to book a SEPE appointment for unemployment benefits in Spain.
+  Step-by-step guide, required documents, and tips for a successful appointment.
 draft: false
-meta_title: 'SEPE Appointment: How to Book for Unemployment Benefits'
-title: 'SEPE Appointment: How to Book for Unemployment Benefits'
+meta_title: SEPE Appointment Guide for Unemployment Benefits in Spain
+title: SEPE Appointment Guide for Unemployment Benefits in Spain
 translationKey: spain-appointment_request_for_sepe
 ---
-
 
 ## Description
 ### What is it?

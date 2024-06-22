@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to request personal data details from companies under GDPR.
-  Follow steps to identify, request, and await a timely response. Be informed!
+description: Learn what a Data Protection Request is, who needs it, and the steps
+  to initiate a GDPR Subject Access Request to protect your personal data rights.
 draft: false
-meta_title: 'Data Protection Request (GDPR Subject Access): How to Make One'
-title: 'Data Protection Request (GDPR Subject Access): How to Make One'
+meta_title: Understanding and Initiating GDPR Data Protection Requests
+title: Understanding and Initiating GDPR Data Protection Requests
 translationKey: austria-data_protection_request
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how non-EU citizens can legally reside in Portugal with the Autorização
-  de Residência. Find steps, documents needed, providers, costs, and more details.
+description: Learn how to obtain the User Card for foreigners in Portugal and discover
+  the necessary steps and documents required for non-EU citizens.
 draft: false
-meta_title: 'User Card for Foreigners in Portugal: Requirements & Providers'
-title: 'User Card for Foreigners in Portugal: Requirements & Providers'
+meta_title: 'User Card for Foreigners: Live in Portugal Legally for 6+ Months'
+title: 'User Card for Foreigners: Live in Portugal Legally for 6+ Months'
 translationKey: portugal-request_for_user_card_for_foreigners
 ---
-
 
 ## Description
 ### What is it?

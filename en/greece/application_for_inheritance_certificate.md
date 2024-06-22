@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn about the need, procedure, and required documents for obtaining
-  an inheritance certificate, essential for legal heirs to transfer deceased's assets.
+description: Learn the steps to acquire an inheritance certificate in Greece. Essential
+  for heirs to legally inherit assets and properties of the deceased.
 draft: false
-meta_title: 'Inheritance Certificate: Essential Guide for Legal Heirs'
-title: 'Inheritance Certificate: Essential Guide for Legal Heirs'
+meta_title: Guide to Obtaining an Inheritance Certificate in Greece
+title: Guide to Obtaining an Inheritance Certificate in Greece
 translationKey: greece-application_for_inheritance_certificate
 ---
-
 
 ## Description
 ### What is it?

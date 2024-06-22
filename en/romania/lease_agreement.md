@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn the steps to draft and register a lease agreement in Romania, including
-  required documents and legal procedures for tenants and landlords.
+description: Learn everything about Romanian lease agreements, from drafting and signing
+  to legal requirements and necessary documentation. Ideal for tenants and landlords.
 draft: false
-meta_title: Lease Agreement Guide for Renting Property in Romania
-title: Lease Agreement Guide for Renting Property in Romania
+meta_title: 'Romanian Lease Agreement: Essential Guide for Tenants & Landlords'
+title: 'Romanian Lease Agreement: Essential Guide for Tenants & Landlords'
 translationKey: romania-lease_agreement
 ---
-
 
 ## Description
 ### What is it?

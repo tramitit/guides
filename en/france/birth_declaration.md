@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to declare a birth in France with this guide. Discover the
-  steps, documents needed, and who can assist you. Ensure timely registration!
+description: Learn how to declare a birth in France, required documents, and who can
+  help. Timely declaration within 5 days of birth is crucial for parents.
 draft: false
 meta_title: 'Birth Declaration in France: Procedure and Required Documents'
 title: 'Birth Declaration in France: Procedure and Required Documents'
 translationKey: france-birth_declaration
 ---
-
 
 ## Description
 ### What is it?

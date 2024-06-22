@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to apply for a marriage certificate in Austria, essential for
-  legal recognition, name changes, permits. EU/non-EU couples guide & documents needed.
+description: Learn how to apply for a marriage certificate in Austria, required documents,
+  fees, and legal residency requirements for both EU and non-EU citizens.
 draft: false
-meta_title: 'Marriage Certificate Application in Austria: Process & Requirements'
-title: 'Marriage Certificate Application in Austria: Process & Requirements'
+meta_title: Marriage Certificate Application Process in Austria Explained
+title: Marriage Certificate Application Process in Austria Explained
 translationKey: austria-marriage_certificate_application
 ---
-
 
 ## Description
 ### What is it?

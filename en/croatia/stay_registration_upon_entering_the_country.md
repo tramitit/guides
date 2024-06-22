@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn about the legal requirement for non-EU citizens to register their
-  stay in Croatia, important documents needed, and the process to follow to avoid
-  fines.
+description: 'Learn how to register your stay in Croatia: required documents, procedure,
+  and responsibilities to avoid fines. A must-read for non-EU visitors.'
 draft: false
-meta_title: 'Stay Registration in Croatia: Requirements and Procedures'
-title: 'Stay Registration in Croatia: Requirements and Procedures'
+meta_title: 'Croatia Stay Registration Guide: Documents and Procedure'
+title: 'Croatia Stay Registration Guide: Documents and Procedure'
 translationKey: croatia-stay_registration_upon_entering_the_country
 ---
-
 
 ## Description
 ### What is it?

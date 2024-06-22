@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn how to apply for a study visa as a Romanian studying abroad. Understand
-  the procedure, required documents, and key details for a successful application.
+description: Learn essential steps, documents, and tips for obtaining a study visa
+  to pursue education abroad, specifically for Romanian students.
 draft: false
-meta_title: 'Study Visa Guide for Romanians: Application Process & Requirements'
-title: 'Study Visa Guide for Romanians: Application Process & Requirements'
+meta_title: Comprehensive Guide to Study Visas for Romanian Students
+title: Comprehensive Guide to Study Visas for Romanian Students
 translationKey: romania-obtaining_study_visa
 ---
-
 
 ## Description
 ### What is it?

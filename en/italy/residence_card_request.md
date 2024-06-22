@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn the step-by-step procedure and required documents for non-EU residents
-  staying in Italy over 90 days. Recommendations and providers included.
+description: Learn how to obtain a Permesso di Soggiorno, the essential residence
+  card for non-EU citizens in Italy. Get step-by-step instructions and document requirements.
 draft: false
-meta_title: How to Get an Italian Residence Card (Permesso di Soggiorno)
-title: How to Get an Italian Residence Card (Permesso di Soggiorno)
+meta_title: 'Permesso di Soggiorno: Essential Guide for Non-EU Residents in Italy'
+title: 'Permesso di Soggiorno: Essential Guide for Non-EU Residents in Italy'
 translationKey: italy-residence_card_request
 ---
-
 
 ## Description
 ### What is it?

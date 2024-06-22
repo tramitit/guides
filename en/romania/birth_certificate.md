@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn how to secure a birth certificate from Romania for official needs.
-  Find out the steps, required documents, and where to seek assistance efficiently.
+description: Learn the detailed process and required documents needed to obtain a
+  birth certificate from Romania. Essential for official purposes like school or passport.
 draft: false
-meta_title: 'Obtaining a Birth Certificate in Romania: Procedure and Requirements'
-title: 'Obtaining a Birth Certificate in Romania: Procedure and Requirements'
+meta_title: How to Obtain a Romanian Birth Certificate - Step-by-Step Guide
+title: How to Obtain a Romanian Birth Certificate - Step-by-Step Guide
 translationKey: romania-birth_certificate
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn about building permits in Romania, from local laws to required
-  documents and providers. Get expert guidance for a smooth permit application process.
+description: Learn the steps and documents needed for construction permits in Romania.
+  Ensure compliance with local laws and start your project legally and efficiently.
 draft: false
-meta_title: 'Building Permits in Romania: Process, Documents & Providers'
-title: 'Building Permits in Romania: Process, Documents & Providers'
+meta_title: 'Guide to Building Permits in Romania: Procedures and Requirements'
+title: 'Guide to Building Permits in Romania: Procedures and Requirements'
 translationKey: romania-building_permit
 ---
-
 
 ## Description
 ### What is it?

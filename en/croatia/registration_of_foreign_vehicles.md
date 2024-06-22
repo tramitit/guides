@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn the official steps for obtaining a Croatian license plate for vehicles
-  from other countries. Vital info on documents, inspections, and providers.
+description: Learn the official process to obtain a Croatian license plate for cars
+  registered abroad. Essential steps, documents, and tips for expats detailed.
 draft: false
-meta_title: 'Registering a Foreign Vehicle in Croatia: Process and Requirements'
-title: 'Registering a Foreign Vehicle in Croatia: Process and Requirements'
+meta_title: 'How to Register a Foreign Vehicle in Croatia: A Complete Guide'
+title: 'How to Register a Foreign Vehicle in Croatia: A Complete Guide'
 translationKey: croatia-registration_of_foreign_vehicles
 ---
-
 
 ## Description
 ### What is it?

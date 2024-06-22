@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to obtain a driving license - from registration & exams to
-  required documents. Find out about age limitations & costs. IMT is a major provider.
+description: Learn how to obtain your driving license, including registration, exams,
+  required documents, and costs involved. Follow our easy step-by-step process.
 draft: false
-meta_title: 'Getting a Driving License: Process, Requirements & Providers'
-title: 'Getting a Driving License: Process, Requirements & Providers'
+meta_title: 'How to Get Your Driving License: A Step-by-Step Guide'
+title: 'How to Get Your Driving License: A Step-by-Step Guide'
 translationKey: portugal-request_for_driving_license
 ---
-
 
 ## Description
 ### What is it?

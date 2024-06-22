@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Află cum să obții un Certificat de Rezidență Fiscală în România, pașii
-  necesari și documentele solicitate pentru a-ți dovedi statutul fiscal.
+description: Learn about the Tax Certificate, who needs it, required documents, and
+  how to obtain it from local tax offices. Keep your tax status in check.
 draft: false
-meta_title: Cum obții un Certificat de Rezidență Fiscală în România
-title: Cum obții un Certificat de Rezidență Fiscală în România
+meta_title: 'Understand the Tax Certificate: Procedure, Need, and Documents'
+title: 'Understand the Tax Certificate: Procedure, Need, and Documents'
 translationKey: romania-tax_certificate
 ---
-
 
 ## Description
 

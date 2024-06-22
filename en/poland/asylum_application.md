@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to apply for asylum in Poland, who needs it, required documents,
-  and providers. Understand the process and the country's stance on asylum seekers.
+description: Learn about the asylum process in Poland, including requirements, procedures,
+  and necessary documents for those facing persecution in their home countries.
 draft: false
-meta_title: 'Asylum Application in Poland: Procedure and Required Documents'
-title: 'Asylum Application in Poland: Procedure and Required Documents'
+meta_title: 'Applying for Asylum in Poland: Steps and Requirements'
+title: 'Applying for Asylum in Poland: Steps and Requirements'
 translationKey: poland-asylum_application
 ---
-
 
 ## Description
 ### What is it?

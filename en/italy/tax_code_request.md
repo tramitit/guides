@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to get the Italian Tax Code for interactions with government
-  agencies, banking, and more. Required for residents, workers, and businesses in
-  Italy.
+description: Learn how to get a Codice Fiscale, necessary for residency, banking,
+  and more in Italy, with this step-by-step guide. Required documents and process
+  detailed.
 draft: false
-meta_title: 'Obtaining Codice Fiscale: Essential for Activities in Italy'
-title: 'Obtaining Codice Fiscale: Essential for Activities in Italy'
+meta_title: 'How to Obtain an Italian Tax Code: Step-by-Step Guide'
+title: 'How to Obtain an Italian Tax Code: Step-by-Step Guide'
 translationKey: italy-tax_code_request
 ---
-
 
 ## Description
 ### What is it?

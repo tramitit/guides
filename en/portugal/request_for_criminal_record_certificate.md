@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to get a Criminal Record Certificate in Portugal for employment,
-  studies, or visa applications. Detailed process and required documents included.
+description: Learn how to request a Criminal Record Certificate for various needs
+  such as employment, studies, or visa applications through the Portuguese Justice
+  Portal.
 draft: false
-meta_title: 'Criminal Record Certificate in Portugal: How to Obtain'
-title: 'Criminal Record Certificate in Portugal: How to Obtain'
+meta_title: How to Obtain a Criminal Record Certificate in Portugal
+title: How to Obtain a Criminal Record Certificate in Portugal
 translationKey: portugal-request_for_criminal_record_certificate
 ---
-
 
 ## Description
 ### What is it?

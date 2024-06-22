@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to apply for a 'Carte de Résident' in France. Steps, documents
-  needed, providers, costs, and renewal procedures explained in detail.
+description: Learn the steps, required documents, and key details for obtaining a
+  resident card in France. Ensure your legal stay with our comprehensive guide.
 draft: false
-meta_title: 'French Resident Card: How to Obtain & Renew Carte de Résident'
-title: 'French Resident Card: How to Obtain & Renew Carte de Résident'
+meta_title: 'Guide to Obtaining a Resident Card in France: Steps & Requirements'
+title: 'Guide to Obtaining a Resident Card in France: Steps & Requirements'
 translationKey: france-resident_card_application
 ---
-
 
 ## Description
 ### What is it?

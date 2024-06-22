@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: 'Learn about Elterngeld: a financial support program for new parents,
-  how to apply, required documents, providers, and additional details in Austria and
-  Germany.'
+description: Learn how to apply for Parental Allowance in Austria and Germany. Discover
+  eligibility, required documents, and application steps for financial assistance.
 draft: false
-meta_title: 'Parental Allowance in Austria and Germany: A Guide for New Parents'
-title: 'Parental Allowance in Austria and Germany: A Guide for New Parents'
+meta_title: 'Parental Allowance in Austria and Germany: Eligibility and Process'
+title: 'Parental Allowance in Austria and Germany: Eligibility and Process'
 translationKey: austria-parental_allowance_application
 ---
-
 
 ## Description
 ### What is it?

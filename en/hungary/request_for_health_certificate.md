@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn what a health certificate is, who needs it, and the steps to obtain
-  one for marathon participation. Ensure your safety with these guidelines.
+description: Learn how to get a health certificate for marathons, necessary documents,
+  and procedures. Ensure you're fit to participate with our detailed guide.
 draft: false
-meta_title: 'Health Certificate for Marathon: Procedure and Requirements'
-title: 'Health Certificate for Marathon: Procedure and Requirements'
+meta_title: 'Health Certificates for Marathon Participants: A Complete Guide'
+title: 'Health Certificates for Marathon Participants: A Complete Guide'
 translationKey: hungary-request_for_health_certificate
 ---
-
 
 ## Description
 ### What is it?

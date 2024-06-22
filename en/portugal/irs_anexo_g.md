@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn how to complete IRS Anexo G for declaring capital gains from financial
-  assets. Step-by-step instructions and required documents included.
+description: Learn how to file IRS Anexo G for declaring capital gains from financial
+  assets in Portugal. Step-by-step process, required documents, and tips included.
 draft: false
-meta_title: Complete Guide to IRS Anexo G for Capital Gains in Portugal
-title: Complete Guide to IRS Anexo G for Capital Gains in Portugal
+meta_title: Complete Guide to Filing IRS Anexo G for Capital Gains in Portugal
+title: Complete Guide to Filing IRS Anexo G for Capital Gains in Portugal
 translationKey: portugal-irs_anexo_g
 ---
+
 
 
 

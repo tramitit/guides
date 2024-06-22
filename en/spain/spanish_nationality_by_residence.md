@@ -3,13 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Detailed guide for foreigners on how to obtain Spanish nationality through legal residence in Spain.
+description: Learn how to obtain Spanish nationality by residence. Follow the steps,
+  gather required documents, pass exams, and become a Spanish citizen legally.
 draft: false
-meta_title: How to Obtain Spanish Nationality by Residence
-title: How to Obtain Spanish Nationality by Residence
+meta_title: 'How to Obtain Spanish Nationality by Residence: Step-by-Step Guide'
+title: 'How to Obtain Spanish Nationality by Residence: Step-by-Step Guide'
 translationKey: spain-spanish_nationality_by_residence
 ---
-
 
 ## Description
 ### What is it?

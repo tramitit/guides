@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to apply for an International Certificate of Good Conduct (Führungszeugnis)
-  in Germany. A step-by-step guide with required documents and cost details.
+description: Learn how to apply for an International Certificate of Good Conduct online.
+  This document is needed by employers, landlords, and for immigration purposes.
 draft: false
-meta_title: 'International Certificate of Good Conduct: How to Apply'
-title: 'International Certificate of Good Conduct: How to Apply'
+meta_title: International Certificate of Good Conduct Application Procedure
+title: International Certificate of Good Conduct Application Procedure
 translationKey: germany-application_for_an_international_certificate_of_conduct
 ---
-
 
 ## Description
 ### What is it?

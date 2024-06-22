@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn about the steps to obtain a Hungarian driver's license, including
-  medical checks, theoretical and practical exams. For individuals aged 17+.
+description: Learn the steps to apply for a driver's license in Hungary, including
+  medical check-ups, theoretical and practical exams, and required documents.
 draft: false
-meta_title: 'How to Get a Driver''s License in Hungary: Requirements & Procedure'
-title: 'How to Get a Driver''s License in Hungary: Requirements & Procedure'
+meta_title: Guide to Applying for a Driver's License in Hungary
+title: Guide to Applying for a Driver's License in Hungary
 translationKey: hungary-drivers_license_application
 ---
-
 
 ## Description
 ### What is it?

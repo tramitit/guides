@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn the essential steps and requirements for obtaining a residence
-  permit in Belgium, including necessary documents and procedural details. Start early!
+description: Learn the steps and documents required to apply for a Belgian residence
+  permit. Essential for employees, students, and family members. Start early!
 draft: false
-meta_title: 'How to Obtain a Residence Permit in Belgium: A Full Guide'
-title: 'How to Obtain a Residence Permit in Belgium: A Full Guide'
+meta_title: Essential Guide to Obtaining a Residence Permit in Belgium
+title: Essential Guide to Obtaining a Residence Permit in Belgium
 translationKey: belgium-request_for_residence_permit
 ---
-
 
 ## Description
 ### What is it?

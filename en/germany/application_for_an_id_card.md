@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Discover how German citizens aged 16+ can apply for a Personalausweis,
-  the required documents, procedure steps, providers, and waiting period details.
+description: Learn how to apply for a German ID card, required documents, and the
+  procedure. Step-by-step guide for German citizens and minors.
 draft: false
-meta_title: German Personalausweis Application Process and Requirements
-title: German Personalausweis Application Process and Requirements
+meta_title: 'How to Get a German Identification Card: Step-by-Step Guide'
+title: 'How to Get a German Identification Card: Step-by-Step Guide'
 translationKey: germany-application_for_an_id_card
 ---
-
 
 ## Description
 ### What is it?

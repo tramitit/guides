@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to obtain official birth records from Hungary for genealogy
-  or citizenship purposes. Follow steps to access church records and required documentation.
+description: Learn how to request official pre-1895 Hungarian birth certificates for
+  tracing family heritage or applying for citizenship by descent.
 draft: false
-meta_title: 'Requesting Pre-1895 Birth Certificate in Hungary: Guide'
-title: 'Requesting Pre-1895 Birth Certificate in Hungary: Guide'
+meta_title: Guide to Requesting Pre-1895 Hungarian Birth Certificates
+title: Guide to Requesting Pre-1895 Hungarian Birth Certificates
 translationKey: hungary-request_for_birth_certificates
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn the steps to claim an inheritance in Greece, including hiring a
-  lawyer, obtaining necessary documents, and registering the inheritance deed.
+description: A step-by-step guide to the inheritance acceptance process in Greece.
+  Learn the necessary steps, required documents, and potential challenges you may
+  face.
 draft: false
-meta_title: 'Inheritance Acceptance Process in Greece: A Comprehensive Guide'
-title: 'Inheritance Acceptance Process in Greece: A Comprehensive Guide'
+meta_title: 'Inheritance Acceptance in Greece: A Complete Legal Guide'
+title: 'Inheritance Acceptance in Greece: A Complete Legal Guide'
 translationKey: greece-application_for_inheritance_acceptance
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: 'Learn how to get a marriage certificate in Romania: steps, needed documents,
-  apostille info. Essential for legal purposes, including visas & heritage matters.'
+description: Learn how to obtain a marriage certificate in Romania, including required
+  documents, the process, and necessary steps for international recognition.
 draft: false
-meta_title: 'Obtaining Marriage Certificate in Romania: Process & Requirements'
-title: 'Obtaining Marriage Certificate in Romania: Process & Requirements'
+meta_title: 'Romanian Marriage Certificate: Issuance and Requirements Guide'
+title: 'Romanian Marriage Certificate: Issuance and Requirements Guide'
 translationKey: romania-marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

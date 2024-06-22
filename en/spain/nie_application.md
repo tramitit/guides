@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to obtain a NIE in Spain for living or working purposes, including
-  required documents, detailed procedure, providers, costs, and validity information.
+description: Learn how to get your NIE in Spain with our step-by-step guide. Find
+  out who needs it, required documents, and important tips to simplify the process.
 draft: false
-meta_title: 'NIE in Spain: Procedure for Foreigners | Documents, Providers & Costs'
-title: 'NIE in Spain: Procedure for Foreigners | Documents, Providers & Costs'
+meta_title: 'Complete Guide to Obtaining Your NIE in Spain: Steps & Tips'
+title: 'Complete Guide to Obtaining Your NIE in Spain: Steps & Tips'
 translationKey: spain-nie_application
 ---
-
 
 ## Description
 ### What is it?

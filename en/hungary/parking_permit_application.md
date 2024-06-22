@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn the steps and required documents for obtaining a parking permit
-  in Budapest for residents, non-EU citizens, and disabled persons.
+description: Learn how to apply for a parking permit in Budapest. Get details on required
+  documents, application steps, and providers to assist you.
 draft: false
-meta_title: 'How to Get a Parking Permit in Budapest: Essential Guide'
-title: 'How to Get a Parking Permit in Budapest: Essential Guide'
+meta_title: 'Budapest Parking Permits: Steps, Requirements, and Providers'
+title: 'Budapest Parking Permits: Steps, Requirements, and Providers'
 translationKey: hungary-parking_permit_application
 ---
-
 
 ## Description
 ### What is it?

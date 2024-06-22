@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to get an official death certificate in Portugal detailing
-  the date, location, and cause of death. Process, documents needed, and providers
-  included.
+description: Learn the procedure and required documents for obtaining a death certificate
+  in Portugal. Find out who needs it and how to apply online.
 draft: false
-meta_title: 'How to Obtain a Death Certificate in Portugal: Complete Guide'
-title: 'How to Obtain a Death Certificate in Portugal: Complete Guide'
+meta_title: Guide to Obtaining a Death Certificate in Portugal
+title: Guide to Obtaining a Death Certificate in Portugal
 translationKey: portugal-request_for_death_certificate
 ---
-
 
 ## Description
 ### What is it?

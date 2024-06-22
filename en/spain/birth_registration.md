@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to register a newborn's birth in Spain, required documents,
-  procedure at Civil Registry, and details to note. Get birth certificate easily.
+description: Learn about the procedure and documents needed for birth registration
+  in Spain. Ensure your newborn's legal recognition and obtain a vital birth certificate.
 draft: false
-meta_title: 'Spain Birth Registration: How to Obtain Birth Certificate'
-title: 'Spain Birth Registration: How to Obtain Birth Certificate'
+meta_title: 'Birth Registration in Spain: Guide for New Parents'
+title: 'Birth Registration in Spain: Guide for New Parents'
 translationKey: spain-birth_registration
 ---
-
 
 ## Description
 ### What is it?

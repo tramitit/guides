@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to apply for a permanent residence permit in Czech Republic
-  for EU and non-EU citizens. Procedure, documents, timelines, and more explained
-  here.
+description: Learn the process, required documents, and eligibility for obtaining
+  a permanent residence permit in the Czech Republic. Start your application today!
 draft: false
-meta_title: 'Permanent Residence Permit in Czech Republic: Guide & Requirements'
-title: 'Permanent Residence Permit in Czech Republic: Guide & Requirements'
+meta_title: Guide to Permanent Residence Permit in the Czech Republic
+title: Guide to Permanent Residence Permit in the Czech Republic
 translationKey: czech-republic-application_for_permanent_residence_permit
 ---
-
 
 ## Description
 ### What is it?

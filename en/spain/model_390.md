@@ -3,13 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Detailed guide on how to download, complete and submit the Model 790 Code 012 for the payment and regularization of the NIE in Spain.
+description: Learn about Model 390 for paying NIE-related fees in Spain. Step-by-step
+  process, required documents, and essential tips for a smooth administrative procedure.
 draft: false
-meta_title: 'Form 790 Code 012: Complete Guide for Payment of Fees'
-title: 'Form 790 Code 012: Complete Guide for Payment of Fees'
+meta_title: 'Guide to Model 390: Essential for Foreigners in Spain (NIE)'
+title: 'Guide to Model 390: Essential for Foreigners in Spain (NIE)'
 translationKey: spain-model_390
 ---
-
 
 ## Description
 ### What is it?

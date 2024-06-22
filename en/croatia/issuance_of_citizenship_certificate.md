@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to secure a Croatian citizenship certificate through descent,
-  marriage, or residency. Get to know required documents and procedures for verification.
+description: Learn how to get a Croatian citizenship certificate with steps, required
+  documents, and tips for ensuring a smooth application process.
 draft: false
-meta_title: Obtain Croatian Citizenship Certificate Process & Documents
-title: Obtain Croatian Citizenship Certificate Process & Documents
+meta_title: 'How to Obtain a Croatian Citizenship Certificate: Step-by-Step Guide'
+title: 'How to Obtain a Croatian Citizenship Certificate: Step-by-Step Guide'
 translationKey: croatia-issuance_of_citizenship_certificate
 ---
-
 
 ## Description
 ### What is it?

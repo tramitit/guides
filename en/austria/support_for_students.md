@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Navigate student life in Austria with scholarship info, budget tips,
-  and advice on Viennese culture. Ideal for students in Vienna or planning to study
-  there.
+description: Comprehensive guide for students in Austria with scholarship info, budgeting
+  advice, and cultural tips to help you navigate life in Vienna.
 draft: false
-meta_title: 'Studying in Austria Guide: Scholarships, Budgeting & Viennese Life'
-title: 'Studying in Austria Guide: Scholarships, Budgeting & Viennese Life'
+meta_title: 'Guide to Studying and Living in Austria: Scholarships and Tips'
+title: 'Guide to Studying and Living in Austria: Scholarships and Tips'
 translationKey: austria-support_for_students
 ---
-
 
 ## Description
 ### What is it?

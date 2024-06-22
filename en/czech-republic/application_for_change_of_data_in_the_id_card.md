@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to update personal info on ID card. Gather documents, follow
-  steps at local authorities, and wait for new card. Verification may vary by location.
+description: Learn the step-by-step process to change personal data in your ID card,
+  including required documents and procedures. Stay compliant and informed.
 draft: false
-meta_title: 'Change of Data in ID Card: Procedure & Required Documents'
-title: 'Change of Data in ID Card: Procedure & Required Documents'
+meta_title: 'Change ID Card Information: Process and Requirements Guide'
+title: 'Change ID Card Information: Process and Requirements Guide'
 translationKey: czech-republic-application_for_change_of_data_in_the_id_card
 ---
-
 
 ## Description
 ### What is it?

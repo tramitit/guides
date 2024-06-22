@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn who needs a TIN, required documents, procedure to apply for one,
-  and why keeping it confidential is crucial. Get your TIN hassle-free!
+description: Learn the steps to get your Tax Identification Number (TIN), required
+  documents, and additional tips for safeguarding your tax obligations.
 draft: false
-meta_title: 'How to Obtain a Tax Identification Number (TIN): Step-by-Step Guide'
-title: 'How to Obtain a Tax Identification Number (TIN): Step-by-Step Guide'
+meta_title: How to Obtain a Tax Identification Number (TIN) Efficiently
+title: How to Obtain a Tax Identification Number (TIN) Efficiently
 translationKey: romania-obtaining_tax_identification_number_(tin)
 ---
-
 
 ## Description
 ### What is it?

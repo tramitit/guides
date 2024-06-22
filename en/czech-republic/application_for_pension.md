@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to apply for a pension, starting from assessing eligibility
-  to submitting the necessary documents. Get expert advice for a smooth retirement
-  process.
+description: Learn how to apply for a pension including eligibility, required documents,
+  and the complete step-by-step process to start receiving retirement payments.
 draft: false
-meta_title: 'Pension Application Guide: Eligibility, Steps, and Documents'
-title: 'Pension Application Guide: Eligibility, Steps, and Documents'
+meta_title: 'How to Apply for a Pension: Steps and Requirements Guide'
+title: 'How to Apply for a Pension: Steps and Requirements Guide'
 translationKey: czech-republic-application_for_pension
 ---
-
 
 ## Description
 ### What is it?

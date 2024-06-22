@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to apply for CAF Housing Aid in France, crucial for low-income
-  individuals and students. Step-by-step procedure and necessary documents explained.
+description: Step-by-step guide to applying for housing aid from CAF. Essential for
+  renters and homeowners with limited income in France. Documents required included.
 draft: false
-meta_title: Guide to CAF Housing Assistance Application in France
-title: Guide to CAF Housing Assistance Application in France
+meta_title: How to Apply for Housing Assistance from CAF in France
+title: How to Apply for Housing Assistance from CAF in France
 translationKey: france-housing_assistance_application
 ---
-
 
 ## Description
 ### What is it?

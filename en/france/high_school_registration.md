@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to register your child in French high schools, including required
-  documents and enrollment procedures. Ensure a smooth admission process in France.
+description: Learn how to register your child in French high schools. Steps include
+  researching, preparing documents, and submitting applications before deadlines.
 draft: false
-meta_title: 'French High School Registration Guide: Process & Documents'
-title: 'French High School Registration Guide: Process & Documents'
+meta_title: Comprehensive Guide to High School Registration in France
+title: Comprehensive Guide to High School Registration in France
 translationKey: france-high_school_registration
 ---
-
 
 ## Description
 

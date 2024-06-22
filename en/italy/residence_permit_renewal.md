@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Scopri come rinnovare il tuo permesso di soggiorno in Italia. Segui la
-  procedura completa, documenti necessari e dettagli utili per un rinnovo senza intoppi.
+description: Learn how to renew your Permesso di Soggiorno in Italy, required documents,
+  and steps for non-EU citizens staying over 90 days. Stay compliant and informed!
 draft: false
-meta_title: 'Come Rinnovare il Permesso di Soggiorno in Italia: Guida Completa'
-title: 'Come Rinnovare il Permesso di Soggiorno in Italia: Guida Completa'
+meta_title: 'Renew Your Residence Permit in Italy: Step-by-Step Guide'
+title: 'Renew Your Residence Permit in Italy: Step-by-Step Guide'
 translationKey: italy-residence_permit_renewal
 ---
-
 
 ## Description
 ### What is it?

@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-07'
-description: Understand the steps to change your registered address, required documents,
-  and a provider in Croatia. Essential for local and international moves worldwide.
+description: Learn the steps and required documents for updating your address with
+  government authorities. Essential for both local and international moves.
 draft: false
-meta_title: 'Change of Residence: Process, Documents & Providers'
-title: 'Change of Residence: Process, Documents & Providers'
+meta_title: Guide to Officially Changing Your Residence Address
+title: Guide to Officially Changing Your Residence Address
 translationKey: croatia-change_of_residence
 ---
+
 
 
 

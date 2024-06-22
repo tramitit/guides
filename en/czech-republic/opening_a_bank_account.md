@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Zjistěte kroky, dokumenty a banky pro založení bankovního účtu v ČR.
-  Vhodné pro rezidenty i nerezidenty plánující delší pobyt.
+description: Learn how to open a bank account in Czech Republic with this step-by-step
+  guide. Understand types, select banks, and gather required documents to start banking.
 draft: false
-meta_title: 'Jak založit bankovní účet v České Republice: Kompletní průvodce'
-title: 'Jak založit bankovní účet v České Republice: Kompletní průvodce'
+meta_title: Guide to Opening a Bank Account in Czech Republic - Steps & Documents
+title: Guide to Opening a Bank Account in Czech Republic - Steps & Documents
 translationKey: czech-republic-opening_a_bank_account
 ---
-
 
 ## Description
 ### What is it?

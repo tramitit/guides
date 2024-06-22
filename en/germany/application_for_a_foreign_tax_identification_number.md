@@ -1,13 +1,16 @@
 ---
-title: "Application for a Foreign Tax Identification Number"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Germany"]
-meta_title: "Guide to applying for a foreign Tax Identification Number (TIN)"
-description: "Step-by-step guidance on how to apply for a foreign TIN, who requires it, the procedure to follow, and required documents."
+author: Ricardo Batista
+categories:
+- Germany
+date: '2024-06-07'
+description: Learn why a Foreign Tax Identification Number is essential, who needs
+  it, and the step-by-step procedure to obtain one.
 draft: false
-translationKey: "germany-application_for_a_foreign_tax_identification_number"
+meta_title: Importance of Foreign Tax Identification Numbers and How to Obtain One
+title: Importance of Foreign Tax Identification Numbers and How to Obtain One
+translationKey: germany-application_for_a_foreign_tax_identification_number
 ---
+
 
 ## Description
 ### What is it?

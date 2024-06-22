@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Erfahren Sie, wie Sie Ihren Hauptwohnsitz in Österreich melden. Benötigte
-  Dokumente, Verfahren und wichtige Hinweise zum Meldezettel.
+description: Learn how to complete and submit the Meldezettel form within three days
+  of moving in Austria. Essential for citizens, students, and workers.
 draft: false
-meta_title: 'Österreich Umzug: Meldezettel für Hauptwohnsitz ändern'
-title: 'Österreich Umzug: Meldezettel für Hauptwohnsitz ändern'
+meta_title: Guide to Registering Your Change of Main Residence in Austria
+title: Guide to Registering Your Change of Main Residence in Austria
 translationKey: austria-change_of_main_residence
 ---
-
 
 ## Description
 

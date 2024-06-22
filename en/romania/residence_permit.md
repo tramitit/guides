@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn the process to secure a Residence Permit in Romania for non-EU
-  nationals. Find out the required documents, providers, costs, and renewal details.
+description: Learn how non-EU nationals can obtain a Romania Residence Permit. Follow
+  the steps for visa registration, document submission, and application process.
 draft: false
-meta_title: 'Residence Permit in Romania: How to Obtain and Renew It'
-title: 'Residence Permit in Romania: How to Obtain and Renew It'
+meta_title: 'How to Obtain a Residence Permit in Romania: A Complete Guide'
+title: 'How to Obtain a Residence Permit in Romania: A Complete Guide'
 translationKey: romania-residence_permit
 ---
-
 
 ## Description
 ### What is it?

@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-07'
-description: Learn how to legally register your marriage in Croatia, including steps,
-  required documents, timelines, and costs involved in the process.
+description: Learn the procedure for marriage registration in Croatia, including required
+  documents, steps, timelines, and important details for foreign nationals.
 draft: false
-meta_title: 'Marriage Registration in Croatia: Requirements and Procedure'
-title: 'Marriage Registration in Croatia: Requirements and Procedure'
+meta_title: 'Marriage Registration in Croatia: Step-by-Step Guide'
+title: 'Marriage Registration in Croatia: Step-by-Step Guide'
 translationKey: croatia-marriage_registration
 ---
+
 
 
 

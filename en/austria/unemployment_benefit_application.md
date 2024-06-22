@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to apply for Arbeitslosengeld in Austria if you become unemployed.
-  Discover the steps, required documents, and provider details from AMS.
+description: Learn about applying for unemployment benefits in Austria. Discover what
+  documents are needed and the steps to ensure your application is processed smoothly.
 draft: false
-meta_title: 'Unemployment Benefits in Austria: How to Apply and Requirements'
-title: 'Unemployment Benefits in Austria: How to Apply and Requirements'
+meta_title: 'Unemployment Benefits: Application Process and Requirements'
+title: 'Unemployment Benefits: Application Process and Requirements'
 translationKey: austria-unemployment_benefit_application
 ---
-
 
 ## Description
 ### What is it?

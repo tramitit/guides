@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to qualify and apply for Polish citizenship, whether in Poland
-  or abroad. Obtain necessary documents and follow the application process in detail.
+description: Learn how to qualify and apply for Polish citizenship by descent or legal
+  means. Follow this guide for required documents, application steps, and useful tips.
 draft: false
-meta_title: 'Applying for Polish Citizenship: A Step-by-Step Guide'
-title: 'Applying for Polish Citizenship: A Step-by-Step Guide'
+meta_title: 'Step-by-Step Polish Citizenship Guide: Eligibility and Application'
+title: 'Step-by-Step Polish Citizenship Guide: Eligibility and Application'
 translationKey: poland-application_for_citizenship
 ---
-
 
 ## Description
 ### What is it?

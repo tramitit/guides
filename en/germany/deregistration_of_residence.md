@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to deregister your residence in Germany. Required form, documents,
-  and tips provided. Avoid penalties and ensure smooth moving process.
+description: Learn how to deregister your residence in Germany, required documents,
+  and steps. Avoid penalties by following the proper procedure before moving out.
 draft: false
-meta_title: 'Germany Residence Deregistration: Process and Requirements'
-title: 'Germany Residence Deregistration: Process and Requirements'
+meta_title: Guide to Deregistration of Residence (Abmeldung) in Germany
+title: Guide to Deregistration of Residence (Abmeldung) in Germany
 translationKey: germany-deregistration_of_residence
 ---
-
 
 ## Description
 ### What is it?

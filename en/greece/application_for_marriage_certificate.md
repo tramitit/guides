@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to obtain a marriage certificate in Greece, including required
-  documents and procedure steps. Useful for immigration or legal proof of marriage.
+description: Learn the complete process for obtaining a marriage certificate in Greece,
+  including required documents, application steps, and legal considerations.
 draft: false
-meta_title: 'Getting a Marriage Certificate in Greece: Procedure & Documents'
-title: 'Getting a Marriage Certificate in Greece: Procedure & Documents'
+meta_title: 'How to Obtain a Marriage Certificate in Greece: Step-by-Step'
+title: 'How to Obtain a Marriage Certificate in Greece: Step-by-Step'
 translationKey: greece-application_for_marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn about health insurance options in Bulgaria for expatriates, coverage
-  details, required documents, and step-by-step procedures to secure your coverage.
+description: Explore health insurance options in Bulgaria for expatriates, students,
+  and freelancers. Learn about required documents and how to apply efficiently.
 draft: false
-meta_title: Comprehensive Guide to Health Insurance for Expats in Bulgaria
-title: Comprehensive Guide to Health Insurance for Expats in Bulgaria
+meta_title: 'Health Insurance in Bulgaria: Guide for Expats & Digital Nomads'
+title: 'Health Insurance in Bulgaria: Guide for Expats & Digital Nomads'
 translationKey: bulgaria-application_for_health_insurance
 ---
-
 
 ## Description
 ### What is it?

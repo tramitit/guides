@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to apply for parental allowance in Germany, available for parents
-  of newborn or adopted children. Get up to €1,800/month and tax benefits.
+description: Learn who needs parental allowance in Germany, the required documents,
+  and the step-by-step application process to receive state benefits for new parents.
 draft: false
-meta_title: 'Parental Allowance in Germany: How to Apply and Eligibility Criteria'
-title: 'Parental Allowance in Germany: How to Apply and Eligibility Criteria'
+meta_title: 'Guide to Parental Allowance in Germany: Eligibility & Application'
+title: 'Guide to Parental Allowance in Germany: Eligibility & Application'
 translationKey: germany-applying_for_parental_allowance
 ---
-
 
 ## Description
 ### What is it?

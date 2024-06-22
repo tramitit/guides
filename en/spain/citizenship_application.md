@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how non-nationals can apply for Spanish citizenship, the required
-  documents, and the step-by-step process to become a Spanish citizen.
+description: Learn the eligibility, required documents, and steps to apply for Spanish
+  citizenship. Check guidelines and find reliable providers for your application.
 draft: false
-meta_title: 'Guide to Applying for Spanish Citizenship: Eligibility and Steps'
-title: 'Guide to Applying for Spanish Citizenship: Eligibility and Steps'
+meta_title: 'How to Apply for Spain Citizenship: Steps, Documents, Providers'
+title: 'How to Apply for Spain Citizenship: Steps, Documents, Providers'
 translationKey: spain-citizenship_application
 ---
-
 
 ## Description
 ### What is it?

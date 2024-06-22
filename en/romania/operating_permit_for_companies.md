@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn about the legal necessity of an operating permit for companies
-  in Romania. Detailed procedures, required documents, and service providers included.
+description: Learn the steps to acquire an operating permit in Romania including registration,
+  zoning approval, and obtaining specific business licenses.
 draft: false
-meta_title: Operating Permit in Romania & Procedures for Businesses
-title: Operating Permit in Romania & Procedures for Businesses
+meta_title: 'Operating Permits: Essential Guide for Businesses in Romania'
+title: 'Operating Permits: Essential Guide for Businesses in Romania'
 translationKey: romania-operating_permit_for_companies
 ---
-
 
 ## Description
 ### What is it?

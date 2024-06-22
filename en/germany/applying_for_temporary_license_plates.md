@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to acquire temporary license plates for vehicles, essential
-  documents needed, and guidelines including where to go and costs involved in this
-  process.
+description: Learn how to obtain a temporary license plate if you're waiting for permanent
+  plates. Step-by-step procedure and required documents included.
 draft: false
-meta_title: 'Temporary License Plate: How to Get and Use Zulassungsstelle'
-title: 'Temporary License Plate: How to Get and Use Zulassungsstelle'
+meta_title: Guide to Temporary License Plates - Zulassungsstelle Process
+title: Guide to Temporary License Plates - Zulassungsstelle Process
 translationKey: germany-applying_for_temporary_license_plates
 ---
-
 
 ## Description
 ### What is it?

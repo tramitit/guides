@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to cancel your mobile internet service easily by following
-  a simple procedure. Includes required documents and tips to avoid extra charges.
+description: Learn the detailed steps to cancel your mobile internet service, including
+  checking contracts, contacting providers, and returning equipment.
 draft: false
-meta_title: 'Mobile Internet Service Cancellation: Process & Documents'
-title: 'Mobile Internet Service Cancellation: Process & Documents'
+meta_title: How to Cancel Your Mobile Internet Service Efficiently
+title: How to Cancel Your Mobile Internet Service Efficiently
 translationKey: portugal-cancellation_of_mobile_internet_service
 ---
-
 
 ## Description
 ### What is it?

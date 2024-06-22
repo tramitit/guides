@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Non-EU students in Spain for over 6 months must apply for TIE. Follow
-  steps on appointment, forms, required documents. Verify specific info with consulate.
+description: Learn how to apply for a Student Card (TIE) in Spain. Steps, documents
+  needed, and tips for non-EU students staying longer than six months.
 draft: false
-meta_title: 'Spain Student Card (TIE) Application: Procedure & Documents'
-title: 'Spain Student Card (TIE) Application: Procedure & Documents'
+meta_title: 'Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs'
+title: 'Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs'
 translationKey: spain-student_card_application
 ---
-
 
 ## Description
 

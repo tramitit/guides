@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to register a death in Czech Republic, including required documents
-  and key steps. Ensure legal compliance and update records promptly.
+description: Learn the steps to register a death in the Czech Republic, necessary
+  documents, and important details to comply with legal obligations.
 draft: false
-meta_title: Registering Death in Czech Republic - Requirements & Process
-title: Registering Death in Czech Republic - Requirements & Process
+meta_title: 'Registering a Death in Czech Republic: Steps and Required Documents'
+title: 'Registering a Death in Czech Republic: Steps and Required Documents'
 translationKey: czech-republic-registry_office_-_death
 ---
-
 
 ## Description
 ### What is it?

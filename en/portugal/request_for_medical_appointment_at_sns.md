@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to schedule free or low-cost medical care through Portugal's
-  SNS for residents and expats. Guidelines and required documents included.
+description: Learn to schedule medical appointments in Portugal’s SNS. Step-by-step
+  guide on registration, required documents, and booking processes online or by phone.
 draft: false
-meta_title: 'SNS Medical Appointment in Portugal: How to Request and Who Needs It'
-title: 'SNS Medical Appointment in Portugal: How to Request and Who Needs It'
+meta_title: Schedule Medical Appointments with Portugal's SNS Effortlessly
+title: Schedule Medical Appointments with Portugal's SNS Effortlessly
 translationKey: portugal-request_for_medical_appointment_at_sns
 ---
-
 
 ## Description
 ### What is it?

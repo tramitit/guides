@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Legal residency process in Spain for non-EU family of EU citizens. Appointment,
-  documents, and timelines. Ensure preparedness for smooth application process.
+description: Learn the process to obtain a resident card for non-EU family members
+  of EU citizens in Spain. Requirements, procedures, and important details explained.
 draft: false
-meta_title: Resident Card Application for EU Family Members in Spain
-title: Resident Card Application for EU Family Members in Spain
+meta_title: How to Apply for a Resident Card for Non-EU Family in Spain
+title: How to Apply for a Resident Card for Non-EU Family in Spain
 translationKey: spain-resident_card_application_for_family_member_of_an_eu_citizen
 ---
-
 
 ## Description
 ### What is it?

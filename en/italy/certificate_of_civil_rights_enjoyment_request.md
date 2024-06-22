@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Scopri come ottenere il Certificato di godimento dei diritti politici
-  e civili necessario per cittadinanza italiana, lavoro e licenze.
+description: Learn how to obtain the Certificate of Enjoyment of Political and Civil
+  Rights for Italian citizenship, employment or licensing needs. Step-by-step guide.
 draft: false
-meta_title: 'Certificato di godimento dei diritti politici e civili: Guida'
-title: 'Certificato di godimento dei diritti politici e civili: Guida'
+meta_title: Certificate of Enjoyment of Political and Civil Rights Guide
+title: Certificate of Enjoyment of Political and Civil Rights Guide
 translationKey: italy-certificate_of_civil_rights_enjoyment_request
 ---
+
 
 
 

@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn about auto taxes, registration fees, and insurance costs for vehicle
-  owners in Romania. Essential for residents, importers, and used car buyers.
+description: Learn about the required taxes, registration fees, and insurance for
+  vehicle owners in Romania. Essential info for car owners, importers, and used car
+  buyers.
 draft: false
-meta_title: 'Auto Taxes and Fees in Romania: Essential Guide for Car Owners'
-title: 'Auto Taxes and Fees in Romania: Essential Guide for Car Owners'
+meta_title: 'Understanding Auto Taxes and Fees in Romania: A Complete Guide'
+title: 'Understanding Auto Taxes and Fees in Romania: A Complete Guide'
 translationKey: romania-auto_taxes_and_fees
 ---
-
 
 ## Description
 ### What is it?

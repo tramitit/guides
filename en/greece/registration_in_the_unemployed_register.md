@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to register as unemployed in Greece through OAED to access
-  government benefits. Follow steps, documents needed, and eligibility details.
+description: Register as unemployed in Greece to avail job-seeking benefits. Complete
+  forms on OAED, provide documents, and confirm your status easily.
 draft: false
-meta_title: Register as Unemployed in Greece for Benefits | OAED Guide
-title: Register as Unemployed in Greece for Benefits | OAED Guide
+meta_title: 'Unemployed Register: Benefits for Job Seekers in Greece'
+title: 'Unemployed Register: Benefits for Job Seekers in Greece'
 translationKey: greece-registration_in_the_unemployed_register
 ---
-
 
 ## Description
 ### What is it?

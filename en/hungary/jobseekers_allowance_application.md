@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn about Jobseeker's Allowance, get financial help while job hunting.
-  Find eligibility criteria, application procedure, and required documents.
+description: Learn how to apply for Jobseeker's Allowance, including required documents
+  and steps. Ideal for unemployed individuals actively seeking work.
 draft: false
-meta_title: 'Jobseeker''s Allowance: Financial Support for Unemployed'
-title: 'Jobseeker''s Allowance: Financial Support for Unemployed'
+meta_title: 'Jobseeker''s Allowance: Financial Support for Unemployed Individuals'
+title: 'Jobseeker''s Allowance: Financial Support for Unemployed Individuals'
 translationKey: hungary-jobseekers_allowance_application
 ---
-
 
 ## Description
 ### What is it?

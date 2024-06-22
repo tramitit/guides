@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to obtain a language exam certificate, needed for citizenship
-  or academic pursuits, including steps, documents, and provider details.
+description: Learn the steps to secure a Language Exam Certificate for citizenship,
+  academic, or professional needs. Find accredited centers, prepare, and succeed.
 draft: false
-meta_title: 'Language Exam Certificate: Procedure, Providers & Requirements'
-title: 'Language Exam Certificate: Procedure, Providers & Requirements'
+meta_title: 'How to Obtain a Language Exam Certificate: Essential Steps'
+title: 'How to Obtain a Language Exam Certificate: Essential Steps'
 translationKey: hungary-language_exam_certificate_request
 ---
-
 
 ## Description
 ### What is it?

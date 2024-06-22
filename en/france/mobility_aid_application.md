@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn about mobility aids for those with mobility impairments in France,
-  including the procedure, required documents, providers, and additional details.
+description: Discover mobility aids available in France. Learn the procedure, required
+  documents, and how to apply for the right assistance for improved mobility.
 draft: false
-meta_title: Mobility Aids for People with Mobility Impairments in France
-title: Mobility Aids for People with Mobility Impairments in France
+meta_title: 'Guide to Mobility Aids in France: From Canes to Scooters'
+title: 'Guide to Mobility Aids in France: From Canes to Scooters'
 translationKey: france-mobility_aid_application
 ---
-
 
 ## Description
 ### What is it?

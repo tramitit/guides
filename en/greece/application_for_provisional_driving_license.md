@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn to drive in the UK with a Provisional Driving License. Eligibility
-  criteria and required documents for Greek residents, plus application process details.
+description: Learn how to obtain a UK provisional driving license as a Greek resident.
+  Follow steps for eligibility, documents, and application process. Start today!
 draft: false
-meta_title: UK Provisional Driving License for Greek Residents
-title: UK Provisional Driving License for Greek Residents
+meta_title: 'How to Get a UK Provisional Driving License: A Guide for Greeks'
+title: 'How to Get a UK Provisional Driving License: A Guide for Greeks'
 translationKey: greece-application_for_provisional_driving_license
 ---
-
 
 ## Description
 ### What is it?

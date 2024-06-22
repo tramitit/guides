@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to officially declare your residence in Hungary, including
-  required documents and steps to follow. Essential info for expats and residents
-  alike.
+description: Learn the process and requirements for legal residence registration in
+  Hungary, crucial for all citizens and foreign nationals living in the country.
 draft: false
-meta_title: 'Residence Registration in Hungary: Process and Requirements'
-title: 'Residence Registration in Hungary: Process and Requirements'
+meta_title: Essential Guide to Residence Registration in Hungary
+title: Essential Guide to Residence Registration in Hungary
 translationKey: hungary-residence_registration
 ---
-
 
 ## Description
 ### What is it?

@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn the steps, required documents, and tips for non-EU citizens to
-  get a residence permit in Greece. Ensure a smooth process by following our detailed
-  guide.
+description: Learn the step-by-step process of acquiring a residence permit in Greece
+  including required documents and application procedures for non-EU citizens.
 draft: false
 meta_title: Guide to Obtaining a Greek Residence Permit for Non-EU Citizens
 title: Guide to Obtaining a Greek Residence Permit for Non-EU Citizens
 translationKey: greece-application_for_residence_permit
 ---
-
 
 ## Description
 ### What is it?

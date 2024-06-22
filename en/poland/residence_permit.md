@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to get a Karta Pobytu in Poland to stay legally, work, study,
-  and open a bank account. Find out the process, documents needed, and key details.
+description: Learn about obtaining a Polish Residence Permit (Karta Pobytu), necessary
+  documents, and application steps to legally stay in Poland beyond visa limits.
 draft: false
-meta_title: 'Poland Residence Permit (Karta Pobytu): Guide & Requirements'
-title: 'Poland Residence Permit (Karta Pobytu): Guide & Requirements'
+meta_title: 'Polish Residence Permit: Requirements and Application Steps'
+title: 'Polish Residence Permit: Requirements and Application Steps'
 translationKey: poland-residence_permit
 ---
-
 
 ## Description
 

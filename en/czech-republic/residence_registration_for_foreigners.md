@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to register your residence in Czech Republic with the Foreign
-  Police Department. Find out procedures, required documents, and provider details.
+description: Learn the steps and documents needed for residence registration in the
+  Czech Republic. Essential for stays over 30 days. Avoid penalties, register on time!
 draft: false
-meta_title: 'Czech Residence Registration: Process and Required Documents'
-title: 'Czech Residence Registration: Process and Required Documents'
+meta_title: 'Residence Registration in Czech Republic: A Simple Guide'
+title: 'Residence Registration in Czech Republic: A Simple Guide'
 translationKey: czech-republic-residence_registration_for_foreigners
 ---
-
 
 ## Description
 ### What is it?

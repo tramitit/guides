@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn how to obtain a Criminal Record Certificate in Spain. Includes
-  details on required documents, application process, fees, and more.
+description: Learn the steps, documents, and providers needed to obtain a Criminal
+  Record Certificate (Certificado de Antecedentes Penales) in Spain.
 draft: false
-meta_title: Guide to Obtaining a Criminal Record Certificate in Spain
-title: Guide to Obtaining a Criminal Record Certificate in Spain
+meta_title: How to Obtain a Criminal Record Certificate in Spain
+title: How to Obtain a Criminal Record Certificate in Spain
 translationKey: spain-criminal_record_certificate
 ---
+
 
 
 

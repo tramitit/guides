@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn about the legal right for pregnant women to take 16 weeks off work
-  in Spain. Follow the steps to apply and find providers for assistance.
+description: Learn about maternity leave in Spain, from eligibility to application.
+  Get detailed steps, required documents, and additional insights for expecting mothers.
 draft: false
-meta_title: 'Maternity Leave in Spain: Rights, Procedure & Providers'
-title: 'Maternity Leave in Spain: Rights, Procedure & Providers'
+meta_title: 'Ultimate Guide to Maternity Leave in Spain: Eligibility & Process'
+title: 'Ultimate Guide to Maternity Leave in Spain: Eligibility & Process'
 translationKey: spain-maternity_leave_application
 ---
-
 
 ## Description
 ### What is it?

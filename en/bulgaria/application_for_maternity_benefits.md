@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn who is eligible, required documents, procedure, and key tips for
-  applying successfully. Ensure you make the most of available benefits!
+description: Learn how to apply for maternity benefits, understand the eligibility
+  criteria, required documents, and country-specific guidelines to support new mothers.
 draft: false
-meta_title: 'Applying for Maternity Benefits: A Step-by-Step Guide'
-title: 'Applying for Maternity Benefits: A Step-by-Step Guide'
+meta_title: 'Understanding Maternity Benefits: Eligibility and Application Guide'
+title: 'Understanding Maternity Benefits: Eligibility and Application Guide'
 translationKey: bulgaria-application_for_maternity_benefits
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn why a Criminal Record Certificate is needed, who needs it, required
-  documents, and the procedure to obtain it. Essential for job and visa applications.
+description: Learn the steps to get a Criminal Record Certificate, including required
+  documents and authorities to contact for job applications, visas, and more.
 draft: false
-meta_title: 'Criminal Record Certificate: Essential Info and Procedure'
-title: 'Criminal Record Certificate: Essential Info and Procedure'
+meta_title: 'How to Obtain a Criminal Record Certificate: A Complete Guide'
+title: 'How to Obtain a Criminal Record Certificate: A Complete Guide'
 translationKey: austria-criminal_record_certificate_application
 ---
-
 
 ## Description
 ### What is it?

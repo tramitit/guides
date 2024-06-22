@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Step-by-step guide on obtaining residence and work permits in Slovakia.
-  Includes document requirements, embassy contacts, and processing details.
+description: Step-by-step guide on applying for Slovak residence and work permits,
+  detailing required documents, procedures, and tips for non-EU nationals.
 draft: false
-meta_title: Guide for Slovak Residence and Work Permits Application
-title: Guide for Slovak Residence and Work Permits Application
+meta_title: Guide to Applying for Slovak Residence and Work Permit
+title: Guide to Applying for Slovak Residence and Work Permit
 translationKey: slovakia-application_for_residence_with_work_permit
 ---
-
 
 ## Description
 ### What is it?

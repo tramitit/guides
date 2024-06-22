@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Extend your expiring driver's license while living abroad in Portugal,
-  UK, or Brazil. Learn the renewal process & required documents from DVLA, IMT, and
-  DETRAN.
+description: Learn how to renew your driving license in the UK, Portugal, or Brazil.
+  Get details on required documents, local procedures, and important regulations.
 draft: false
-meta_title: 'Renewal of Driving License for Expats: Procedure & Providers'
-title: 'Renewal of Driving License for Expats: Procedure & Providers'
+meta_title: Guide to Renewing Your Driving License While Living Abroad
+title: Guide to Renewing Your Driving License While Living Abroad
 translationKey: portugal-renewal_of_driving_license
 ---
-
 
 ## Description
 ### What is it?

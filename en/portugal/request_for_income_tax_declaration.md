@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Understand the income tax declaration process, required documents, and
-  provider options. Get guidance for Portugal's tax ID updates and exemptions.
+description: Learn the steps to declare income tax in Portugal, required documents,
+  and find out who needs to submit their earnings annually.
 draft: false
-meta_title: 'Income Tax Declaration Process: Requirements & Providers'
-title: 'Income Tax Declaration Process: Requirements & Providers'
+meta_title: Comprehensive Guide to Income Tax Declaration Process in Portugal
+title: Comprehensive Guide to Income Tax Declaration Process in Portugal
 translationKey: portugal-request_for_income_tax_declaration
 ---
-
 
 ## Description
 ### What is it?

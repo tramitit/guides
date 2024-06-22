@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn the steps to officially register your marriage in Croatia with
-  required documents like birth cert, translated papers, and possible authentication
-  abroad.
+description: Learn how to register your marriage in Croatia, including required documents,
+  steps, and tips for a smooth process. Stay informed to avoid delays and surprises.
 draft: false
-meta_title: 'Marriage Registration in Croatia: Process and Documents'
-title: 'Marriage Registration in Croatia: Process and Documents'
+meta_title: 'Guide: Registering Your Marriage in Croatia - Steps & Documents'
+title: 'Guide: Registering Your Marriage in Croatia - Steps & Documents'
 translationKey: croatia-entry_into_the_marriage_register
 ---
-
 
 ## Description
 ### What is it?

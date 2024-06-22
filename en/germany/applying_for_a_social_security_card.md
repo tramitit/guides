@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to get a Germany social security card for work. Steps, documents
-  needed, and application details included. Must-have for all workers in Germany.
+description: 'Learn how to get a social security card in Germany: requirements, necessary
+  documents, and the application process for residents and expats.'
 draft: false
-meta_title: 'Germany Social Security Card: Application Process & Requirements'
-title: 'Germany Social Security Card: Application Process & Requirements'
+meta_title: Guide to Obtaining a Social Security Card in Germany
+title: Guide to Obtaining a Social Security Card in Germany
 translationKey: germany-applying_for_a_social_security_card
 ---
-
 
 ## Description
 ### What is it?

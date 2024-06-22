@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to apply for Hungarian citizenship through ancestry. Gather
-  necessary documents, pass an interview, and gain EU passport rights. Providers available.
+description: Streamline your Hungarian citizenship application with our complete guide,
+  covering eligibility, procedures, needed documents, and language requirements.
 draft: false
-meta_title: 'Guide to Hungarian Citizenship: Requirements & Application Process'
-title: 'Guide to Hungarian Citizenship: Requirements & Application Process'
+meta_title: Guide to Apply for Hungarian Citizenship by Descent or Naturalization
+title: Guide to Apply for Hungarian Citizenship by Descent or Naturalization
 translationKey: hungary-citizenship_applications
 ---
-
 
 ## Description
 ### What is it?

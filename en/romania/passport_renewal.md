@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn how Romanian citizens in Romania or abroad can renew their passports
-  with this detailed guide. Gather docs, fill forms, schedule appointments, and more!
+description: A detailed guide for Romanian passport renewal. Includes steps, required
+  documents, and helpful tips for citizens in Romania or abroad.
 draft: false
-meta_title: 'Renewing Romanian Passport: Guide for Citizens in Romania'
-title: 'Renewing Romanian Passport: Guide for Citizens in Romania'
+meta_title: 'Romanian Passport Renewal Guide: Steps, Documents, and Tips'
+title: 'Romanian Passport Renewal Guide: Steps, Documents, and Tips'
 translationKey: romania-passport_renewal
 ---
-
 
 ## Description
 ### What is it?

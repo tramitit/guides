@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn the process of obtaining a residence permit, requirements, and
-  providers that can assist. Essential for foreigners staying long-term in a foreign
-  country.
+description: Learn the steps, required documents, and important details on how to
+  obtain a residence permit for staying legally in a foreign country.
 draft: false
-meta_title: 'Residence Permit Procedures: How to Obtain and Who Needs It'
-title: 'Residence Permit Procedures: How to Obtain and Who Needs It'
+meta_title: Guide to Obtaining a Residence Permit for Foreign Countries
+title: Guide to Obtaining a Residence Permit for Foreign Countries
 translationKey: croatia-issuance_of_residence_permit_for_foreigners
 ---
-
 
 ## Description
 ### What is it?

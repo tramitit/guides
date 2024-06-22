@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn how to fill out IRS Anexo A for declaring employment income in
-  Portugal. Step-by-step procedure, required documents, and tips for accurate submission.
+description: Learn how to fill IRS Anexo A for declaring employment income in Portugal.
+  Follow our step-by-step guide to ensure accurate and timely tax submissions.
 draft: false
-meta_title: Complete Guide to Filling Out IRS Anexo A for Portugal Tax
-title: Complete Guide to Filling Out IRS Anexo A for Portugal Tax
+meta_title: Guide to Filing IRS Anexo A for Employment Income in Portugal
+title: Guide to Filing IRS Anexo A for Employment Income in Portugal
 translationKey: portugal-irs_anexo_a
 ---
+
 
 
 

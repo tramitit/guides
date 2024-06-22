@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Learn how to fill and submit Model 190 for withholdings and payments
-  on account of Personal Income Tax in Spain. Step-by-step guide included.
+description: Learn how to properly submit Model 190 in Spain. From required info to
+  submission steps, ensure accurate tax withholdings declaration.
 draft: false
-meta_title: 'Model 190: Guide to Spanish Tax Withholding Declarations'
-title: 'Model 190: Guide to Spanish Tax Withholding Declarations'
+meta_title: 'Model 190: Guide to Filing Tax Withholdings in Spain'
+title: 'Model 190: Guide to Filing Tax Withholdings in Spain'
 translationKey: spain-model_190
 ---
+
 
 
 

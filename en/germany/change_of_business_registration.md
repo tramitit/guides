@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to update your business details with the Gewerbeamt if you
-  relocate or change business type in Germany. Find required documents and procedure
-  details.
+description: Learn how to update your German business details with the Gewerbeamt.
+  Follow the steps, gather required documents, and submit the 'Gewerbe Ummeldung'
+  form.
 draft: false
-meta_title: 'Changing Business Registration in Germany: Procedure & Docs'
-title: 'Changing Business Registration in Germany: Procedure & Docs'
+meta_title: Guide to Changing Business Registration in Germany
+title: Guide to Changing Business Registration in Germany
 translationKey: germany-change_of_business_registration
 ---
-
 
 ## Description
 ### What is it?

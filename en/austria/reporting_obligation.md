@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Erfahre alles über den Meldezettel in Österreich, wer ihn benötigt, den
-  Ablauf und welche Dokumente erforderlich sind. Melde dich rechtzeitig an!
+description: Learn the steps to complete your Meldezettel registration in Austria,
+  required documents, and the importance for residents including expats and students.
 draft: false
-meta_title: 'Gesetzliche Meldepflicht in Österreich: Was du wissen musst'
-title: 'Gesetzliche Meldepflicht in Österreich: Was du wissen musst'
+meta_title: 'Meldezettel Registration: Essential Guide for Residents in Austria'
+title: 'Meldezettel Registration: Essential Guide for Residents in Austria'
 translationKey: austria-reporting_obligation
 ---
-
 
 ## Description
 ### What is it?

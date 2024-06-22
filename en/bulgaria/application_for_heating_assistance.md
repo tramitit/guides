@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn about heating assistance for low-income households, eligibility
-  criteria, required documents, and how to apply to keep your home warm this winter.
+description: Learn about heating assistance for low-income households, eligibility,
+  required documents, and application procedures. Apply early to avoid delays.
 draft: false
-meta_title: 'Heating Assistance: Financial Aid for Winter Heating Costs'
-title: 'Heating Assistance: Financial Aid for Winter Heating Costs'
+meta_title: 'Heating Assistance: Financial Aid for Low-Income Families'
+title: 'Heating Assistance: Financial Aid for Low-Income Families'
 translationKey: bulgaria-application_for_heating_assistance
 ---
-
 
 ## Description
 ### What is it?

@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Prepare your child for primary school by enrolling them in maternelle,
-  France's preschool system. Find out the process, required documents, providers,
-  and more.
+description: Learn how to enroll your child in French preschool. Steps, required documents,
+  timelines, and more to ensure a smooth registration process.
 draft: false
-meta_title: 'Enrolling in Preschool in France: A Comprehensive Guide'
-title: 'Enrolling in Preschool in France: A Comprehensive Guide'
+meta_title: Complete Guide to Preschool Enrollment in France - Steps & Tips
+title: Complete Guide to Preschool Enrollment in France - Steps & Tips
 translationKey: france-preschool_registration
 ---
-
 
 ## Description
 ### What is it?

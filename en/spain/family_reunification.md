@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how immigrants can reunite with family in Spain. Steps include
-  eligibility, documentation, application, visa, and obtaining the Foreigner Identity
-  Card.
+description: Learn how to bring your family to Spain with this essential guide. Understand
+  the steps, required documents, eligibility, and timelines for a smooth process.
 draft: false
-meta_title: 'Family Reunification in Spain: Step-by-Step Guide for Immigrants'
-title: 'Family Reunification in Spain: Step-by-Step Guide for Immigrants'
+meta_title: 'Guide to Family Reunification in Spain: Steps and Requirements'
+title: 'Guide to Family Reunification in Spain: Steps and Requirements'
 translationKey: spain-family_reunification
 ---
+
 
 
 

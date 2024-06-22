@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Discover state scholarships for college/university, learn application
-  steps, document requirements. Get tips for a successful scholarship application
-  process.
+description: Learn how to apply for state scholarships, required documents, and eligibility.
+  Assist financially struggling students in achieving higher education goals.
 draft: false
-meta_title: 'State Scholarships Guide: How to Apply and Required Documents'
-title: 'State Scholarships Guide: How to Apply and Required Documents'
+meta_title: 'State Scholarships: Financial Aid for Higher Education Students'
+title: 'State Scholarships: Financial Aid for Higher Education Students'
 translationKey: croatia-application_for_state_scholarships
 ---
-
 
 ## Description
 

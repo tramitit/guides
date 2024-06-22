@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Discover how student discounts offer cost-efficient travel options for
-  students, including eligibility, procedures, required documents, and provider details.
+description: Learn how students can get discounts on public transport. Follow our
+  step-by-step procedure and find out what documents are needed.
 draft: false
-meta_title: 'Student Discounts on Public Transport: Your Key to Affordable Travel'
-title: 'Student Discounts on Public Transport: Your Key to Affordable Travel'
+meta_title: Guide to Securing Student Discounts on Public Transport
+title: Guide to Securing Student Discounts on Public Transport
 translationKey: belgium-request_for_student_discount_public_transport
 ---
-
 
 ## Description
 ### What is it?

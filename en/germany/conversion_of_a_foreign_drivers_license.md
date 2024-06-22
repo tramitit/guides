@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to convert your foreign driver's license to a local one in
-  US or Germany. Procedure, required documents, providers, and additional details
-  included.
+description: Learn how to convert a foreign driver's license in the US or Germany.
+  Follow the application procedure, required documents, and fees for expats moving
+  abroad.
 draft: false
-meta_title: Foreign Driver's License Conversion Process in US and Germany
-title: Foreign Driver's License Conversion Process in US and Germany
+meta_title: 'Convert Foreign Driver''s License to Local Standard: Steps & Guide'
+title: 'Convert Foreign Driver''s License to Local Standard: Steps & Guide'
 translationKey: germany-conversion_of_a_foreign_drivers_license
 ---
-
 
 ## Description
 ### What is it?

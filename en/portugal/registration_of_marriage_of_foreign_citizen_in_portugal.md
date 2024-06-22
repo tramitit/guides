@@ -1,13 +1,16 @@
 ---
-title: "Registration of Marriage of Foreign Citizen in Portugal"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Portugal"]
-meta_title: ""
-description: "A comprehensive guide on how to go about the Registration of Marriage in Portugal involving a Foreign Citizen."
+author: Ricardo Batista
+categories:
+- Portugal
+date: '2024-06-07'
+description: Guide on marriage registration in Portugal for foreigners, detailing
+  required legalities, documents, and procedural steps to ensure a smooth process.
 draft: false
-translationKey: "portugal-registration_of_marriage_of_foreign_citizen_in_portugal"
+meta_title: 'Marriage Registration in Portugal: Steps & Documents for Foreigners'
+title: 'Marriage Registration in Portugal: Steps & Documents for Foreigners'
+translationKey: portugal-registration_of_marriage_of_foreign_citizen_in_portugal
 ---
+
 
 ## Description
 ### What is it?

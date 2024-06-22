@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to apply for family allowances in France through the CAF website.
-  Find required documents and tips to ensure a successful application process.
+description: Learn about family allowances, eligibility criteria, required documents,
+  and the step-by-step application process on your government's website.
 draft: false
-meta_title: 'Applying for Family Allowances in France: Guide & Requirements'
-title: 'Applying for Family Allowances in France: Guide & Requirements'
+meta_title: 'Guide to Family Allowances: Eligibility, Procedure, and Documents'
+title: 'Guide to Family Allowances: Eligibility, Procedure, and Documents'
 translationKey: france-family_allowance_application
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Detailed guide for US students on how to request a vocational school
-  certificate in Germany, covering required documents, procedures, and available providers.
+description: Learn how foreign students can request and obtain a vocational school
+  certificate in Germany for technical studies and job market entry.
 draft: false
-meta_title: 'Guide for Foreign Students: Vocational School Certificate in Germany'
-title: 'Guide for Foreign Students: Vocational School Certificate in Germany'
+meta_title: Guide for Foreign Students to Get Vocational Certificate in Germany
+title: Guide for Foreign Students to Get Vocational Certificate in Germany
 translationKey: germany-requesting_a_vocational_school_certificate
 ---
-
 
 ## Description
 ### What is it?

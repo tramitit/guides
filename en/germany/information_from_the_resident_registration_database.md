@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to access resident registration data for genealogy or legal
-  reasons. Germany-specific steps provided. Certain requests may incur charges.
+description: Learn about resident registration databases, their uses for genealogy,
+  law enforcement, and how to request information legally and effectively.
 draft: false
-meta_title: 'Resident Registration Database Access: Procedures & Providers'
-title: 'Resident Registration Database Access: Procedures & Providers'
+meta_title: 'Resident Registration Database: Access and Uses Explained'
+title: 'Resident Registration Database: Access and Uses Explained'
 translationKey: germany-information_from_the_resident_registration_database
 ---
-
 
 ## Description
 ### What is it?

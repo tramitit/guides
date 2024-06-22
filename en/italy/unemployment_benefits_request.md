@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn about NASpI, a government payment for unemployed individuals in
-  Italy meeting eligibility criteria. Find out how to apply and required documents.
+description: Learn about NASpI, the unemployment benefits in Italy, how to apply,
+  eligibility criteria, required documents, and important guidelines.
 draft: false
-meta_title: 'Unemployment Benefits in Italy: NASpI Overview and Application Process'
-title: 'Unemployment Benefits in Italy: NASpI Overview and Application Process'
+meta_title: Understanding and Applying for Unemployment Benefits in Italy (NASpI)
+title: Understanding and Applying for Unemployment Benefits in Italy (NASpI)
 translationKey: italy-unemployment_benefits_request
 ---
-
 
 ## Description
 ### What is it?

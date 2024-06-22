@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to contribute more to your pension fund for better benefits.
-  Process, required documents, providers. Get personalized advice for a secure retirement!
+description: Learn the process for making voluntary contributions to increase your
+  pension fund and secure your future benefits. Find steps and required documents
+  here.
 draft: false
-meta_title: Voluntary Contribution Application for Enhanced Pension Benefits
-title: Voluntary Contribution Application for Enhanced Pension Benefits
+meta_title: How to Make Voluntary Contributions for Your Pension Fund
+title: How to Make Voluntary Contributions for Your Pension Fund
 translationKey: italy-voluntary_contribution_application
 ---
-
 
 ## Description
 ### What is it?

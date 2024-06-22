@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Guide on renewing EU Resident Card in Spain, including required docs,
-  application steps, and providers' info. Ensure timely renewal to maintain resident
-  status.
+description: Learn the process of renewing your EU Resident Card (TIE) for non-EU
+  citizens in Spain, including required documents, application form, and appointment
+  steps.
 draft: false
-meta_title: 'Renew EU Resident Card (TIE) in Spain: Process and Providers'
-title: 'Renew EU Resident Card (TIE) in Spain: Process and Providers'
+meta_title: How to Renew Your EU Resident Card (TIE) in Spain - Step by Step
+title: How to Renew Your EU Resident Card (TIE) in Spain - Step by Step
 translationKey: spain-eu_resident_card_renewal
 ---
-
 
 ## Description
 ### What is it?

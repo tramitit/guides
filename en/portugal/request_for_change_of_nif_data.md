@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to update your tax info in Portugal including steps, required
-  documents, and key details. Find out more about NIF Data changes in Portugal today!
+description: Learn how to update your NIF data in Portugal, including changing address,
+  marital status or company name. Follow our step-by-step guide for a smooth process.
 draft: false
-meta_title: 'Changing NIF Data in Portugal: Procedure & Documents'
-title: 'Changing NIF Data in Portugal: Procedure & Documents'
+meta_title: 'How to Update NIF Data in Portugal: A Complete Guide'
+title: 'How to Update NIF Data in Portugal: A Complete Guide'
 translationKey: portugal-request_for_change_of_nif_data
 ---
-
 
 ## Description
 ### What is it?

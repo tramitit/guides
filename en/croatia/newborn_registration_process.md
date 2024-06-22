@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-07'
-description: Officially recognize a new family member and secure legal rights by registering
-  a newborn in Croatia. Learn about the procedure and necessary documents.
+description: Registering a newborn in Croatia ensures legal rights. Learn the procedure,
+  required documents, and important details to complete the registration on time.
 draft: false
 meta_title: 'Newborn Registration in Croatia: Procedure and Required Documents'
 title: 'Newborn Registration in Croatia: Procedure and Required Documents'
 translationKey: croatia-newborn_registration_process
 ---
-
 
 ## Description
 ### What is it?

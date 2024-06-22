@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to obtain a Proof of Residence document and necessary documents
-  required. Necessary for immigrants, international students, citizenship seekers.
+description: Learn about Proof of Residence, its purpose, who needs it, and the step-by-step
+  procedure to obtain it, along with required documents and additional details.
 draft: false
-meta_title: 'Proof of Residence: How to Obtain it and Necessary Documents'
-title: 'Proof of Residence: How to Obtain it and Necessary Documents'
+meta_title: 'Proof of Residence Guide: Requirements and Procedure Explained'
+title: 'Proof of Residence Guide: Requirements and Procedure Explained'
 translationKey: austria-proof_of_residence
 ---
-
 
 ## Description
 ### What is it?

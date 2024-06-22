@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn the step-by-step process to get a building permit in Portugal,
-  including requirements, necessary documents, and important tips for a smooth approval.
+description: Learn the steps to obtain a building permit in Portugal, from initial
+  research to approval. Ensure compliance with local zoning laws and safety standards.
 draft: false
-meta_title: 'How to Obtain a Building Permit in Portugal: A Complete Guide'
-title: 'How to Obtain a Building Permit in Portugal: A Complete Guide'
+meta_title: Building Permit Guide for Construction in Portugal
+title: Building Permit Guide for Construction in Portugal
 translationKey: portugal-request_for_building_permit
 ---
-
 
 ## Description
 ### What is it?

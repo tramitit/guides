@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to obtain a passport in Bulgaria including required documents,
-  procedures, and key details. Essential for international travel planning.
+description: Learn the step-by-step process for applying, required documents, and
+  tips for acquiring a Bulgarian passport. Plan ahead for international travel.
 draft: false
-meta_title: 'Passport Application Process in Bulgaria: A Complete Guide'
-title: 'Passport Application Process in Bulgaria: A Complete Guide'
+meta_title: Essential Guide to Obtaining a Passport in Bulgaria
+title: Essential Guide to Obtaining a Passport in Bulgaria
 translationKey: bulgaria-issuance_of_a_passport
 ---
-
 
 ## Description
 ### What is it?

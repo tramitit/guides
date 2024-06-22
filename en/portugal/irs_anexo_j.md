@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn how Portuguese residents can properly fill out IRS Anexo J for
-  declaring foreign income. Follow the steps and required document checklist for compliance.
+description: Learn how to fill out IRS Anexo J for declaring foreign income. Essential
+  for Portuguese residents to ensure proper tax compliance and avoid issues.
 draft: false
-meta_title: Guide to Completing IRS Anexo J for Portuguese Taxpayers
-title: Guide to Completing IRS Anexo J for Portuguese Taxpayers
+meta_title: 'IRS Anexo J: Guide for Reporting Foreign Income in Portugal'
+title: 'IRS Anexo J: Guide for Reporting Foreign Income in Portugal'
 translationKey: portugal-irs_anexo_j
 ---
+
 
 
 

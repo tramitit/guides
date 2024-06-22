@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to apply for an ID card in Hungary, the required documents,
-  procedures, and providers. Safeguard personal data & avoid misuse risks.
+description: 'Learn about the Hungary ID card: who needs it, required documents, and
+  steps to apply for it. Safeguard personal information to prevent misuse.'
 draft: false
-meta_title: Hungary ID Card Application Process & Requirements
-title: Hungary ID Card Application Process & Requirements
+meta_title: 'Hungary ID Card: Application Process and Requirements'
+title: 'Hungary ID Card: Application Process and Requirements'
 translationKey: hungary-id_card_application
 ---
-
 
 ## Description
 ### What is it?

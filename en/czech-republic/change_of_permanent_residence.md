@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Understand the steps, documents, and providers for updating your address
-  when moving within or to the Czech Republic. Ensure smooth relocation with this
-  guide.
+description: Learn the essential steps to change your permanent residence, update
+  your address with authorities, and handle necessary documentation for smooth relocation.
 draft: false
-meta_title: Process for Changing Permanent Residence in the Czech Republic
-title: Process for Changing Permanent Residence in the Czech Republic
+meta_title: How to Change Your Permanent Residence Efficiently
+title: How to Change Your Permanent Residence Efficiently
 translationKey: czech-republic-change_of_permanent_residence
 ---
-
 
 ## Description
 ### What is it?

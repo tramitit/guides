@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn the mandatory process to get health insurance in Czech Republic,
-  including required documents, costs, and choosing the right provider for foreigners.
+description: Learn about mandatory health insurance in Czech Republic for all residents.
+  Find out the steps, required documents, and more.
 draft: false
-meta_title: 'Health Insurance in Czech Republic: Procedure & Providers'
-title: 'Health Insurance in Czech Republic: Procedure & Providers'
+meta_title: 'Health Insurance in Czech Republic: Essential Guide for Residents'
+title: 'Health Insurance in Czech Republic: Essential Guide for Residents'
 translationKey: czech-republic-registration_with_a_health_insurance_company
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to update your residential address in Portugal Residence Permit
-  records using the Citizen's Portal. Keep it current to avoid legal complications.
+description: Learn how to update your residential address on your Portugal Residence
+  Permit quickly and easily. Follow our step-by-step guide to stay compliant.
 draft: false
-meta_title: Update Portugal Residence Permit Address Procedure
-title: Update Portugal Residence Permit Address Procedure
+meta_title: How to Update Your Address on Portuguese Residence Permit
+title: How to Update Your Address on Portuguese Residence Permit
 translationKey: portugal-change_of_address_on_residence_permit
 ---
-
 
 ## Description
 ### What is it?

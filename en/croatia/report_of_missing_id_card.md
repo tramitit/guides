@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Inform authorities, fill forms, provide docs, and pay fee to get a replacement
-  ID. Don't delay as it could take weeks. Carry alternative ID during wait.
+description: Learn how to report and replace a lost Croatian ID card. Follow the steps,
+  required documents, and timelines to get your replacement quickly and legally.
 draft: false
-meta_title: 'Replacing a Lost Croatian ID Card: Procedure & Requirements'
-title: 'Replacing a Lost Croatian ID Card: Procedure & Requirements'
+meta_title: 'Steps to Replace a Lost Croatian ID Card: Detailed Guide'
+title: 'Steps to Replace a Lost Croatian ID Card: Detailed Guide'
 translationKey: croatia-report_of_missing_id_card
 ---
-
 
 ## Description
 ### What is it?

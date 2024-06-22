@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: 'Learn how to obtain a Residence Certificate in Portugal through local
-  councils. Required docs: ID, proof of address, Tax Number. Varies by council.'
+description: Learn how to get a Residence Certificate in Portugal, required documents,
+  and steps involved. Essential for legal procedures and formalities in Portugal.
 draft: false
-meta_title: 'Residence Certificate in Portugal: Procedure, Documents & Providers'
-title: 'Residence Certificate in Portugal: Procedure, Documents & Providers'
+meta_title: How to Obtain a Residence Certificate in Portugal Easily
+title: How to Obtain a Residence Certificate in Portugal Easily
 translationKey: portugal-request_for_residence_certificate
 ---
-
 
 ## Description
 ### What is it?

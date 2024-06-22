@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Understand the steps, requirements, and timelines for the naturalization
-  process in France. Learn who needs it and the essential documents.
+description: Learn the essential steps to acquire French citizenship through naturalization,
+  including application requirements, documents, and the eligibility process.
 draft: false
-meta_title: 'French Naturalization Process: How to Become a Citizen'
-title: 'French Naturalization Process: How to Become a Citizen'
+meta_title: 'Complete Guide to Naturalization in France: Steps and Requirements'
+title: 'Complete Guide to Naturalization in France: Steps and Requirements'
 translationKey: france-naturalization_application
 ---
-
 
 ## Description
 ### What is it?

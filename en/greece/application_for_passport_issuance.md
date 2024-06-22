@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how Greek citizens can get their passports quickly by following
-  a simple procedure at a Greek police department. Necessary docs and details included!
+description: Learn how Greek citizens can apply for a passport, required documents,
+  and steps involved. Essential for international travel and proof of citizenship.
 draft: false
-meta_title: 'Greek Passport Procedure: How to Obtain Your Passport Easily'
-title: 'Greek Passport Procedure: How to Obtain Your Passport Easily'
+meta_title: 'How to Obtain a Greek Passport: Step-by-Step Guide'
+title: 'How to Obtain a Greek Passport: Step-by-Step Guide'
 translationKey: greece-application_for_passport_issuance
 ---
-
 
 ## Description
 ### What is it?

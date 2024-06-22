@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn the steps to claim a compensation payment due to poor service or
-  non-payment. Understand documentation needed & providers that can assist you.
+description: Learn who needs compensation payments, the procedure to claim, and required
+  documents. Ensure you follow up rigorously and consider legal steps if necessary.
 draft: false
-meta_title: 'Compensation Payment: Claims Procedure & Required Documents'
-title: 'Compensation Payment: Claims Procedure & Required Documents'
+meta_title: Understanding and Claiming Compensation Payments Effectively
+title: Understanding and Claiming Compensation Payments Effectively
 translationKey: greece-application_for_compensation_payment
 ---
-
 
 ## Description
 ### What is it?

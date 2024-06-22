@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Netherlands
 date: '2024-06-07'
-description: Learn how to register, wait times, priority status, required documents,
-  income limits, and implications of dishonesty in the Dutch social housing system.
+description: 'Learn about social housing in the Netherlands: who qualifies, the registration
+  process, and essential documents needed to secure a home.'
 draft: false
-meta_title: 'Social Housing in the Netherlands: Procedures and Requirements'
-title: 'Social Housing in the Netherlands: Procedures and Requirements'
+meta_title: 'Navigating Social Housing in Netherlands: Tips and Procedures'
+title: 'Navigating Social Housing in Netherlands: Tips and Procedures'
 translationKey: belgium-request_for_social_housing
 ---
-
 
 ## Description
 ### What is it?

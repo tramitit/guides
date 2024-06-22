@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2022-10-16'
-description: Learn how to extend your stay in Germany as a foreign national. Find
-  out the necessary documents and steps required for a successful application process.
+description: Learn how to extend your residence permit in Germany. Follow the steps,
+  prepare documents, and know the procedure for a hassle-free extension.
 draft: false
-meta_title: 'Extending Residence Permit in Germany: Procedure & Requirements'
-title: 'Extending Residence Permit in Germany: Procedure & Requirements'
+meta_title: 'Extend Your Residence Permit in Germany: Process and Requirements'
+title: 'Extend Your Residence Permit in Germany: Process and Requirements'
 translationKey: germany-extension_of_residence_permit
 ---
-
 
 ## Description
 ### What is it?

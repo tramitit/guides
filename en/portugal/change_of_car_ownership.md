@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to legally transfer vehicle ownership in Portugal from seller
-  to buyer. Step-by-step process, required documents, and important details outlined
-  here.
+description: Learn how to transfer car ownership legally in Portugal, including required
+  documents, procedure steps, and potential penalties.
 draft: false
-meta_title: 'Change of Car Ownership in Portugal: Procedure & Docs'
-title: 'Change of Car Ownership in Portugal: Procedure & Docs'
+meta_title: Guide for Legal Change of Car Ownership in Portugal
+title: Guide for Legal Change of Car Ownership in Portugal
 translationKey: portugal-change_of_car_ownership
 ---
-
 
 ## Description
 ### What is it?

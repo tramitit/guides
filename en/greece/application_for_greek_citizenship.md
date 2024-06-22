@@ -4,12 +4,13 @@ categories:
 - Greece
 date: '2024-06-07'
 description: Learn how to apply for Greek citizenship through descent, marriage, or
-  residence. Find out eligibility, required documents, and the step-by-step procedure.
+  residence. Discover eligibility, required documents, and the application process.
 draft: false
-meta_title: 'Applying for Greek Citizenship: Eligibility and Steps'
-title: 'Applying for Greek Citizenship: Eligibility and Steps'
+meta_title: Steps for Applying for Greek Citizenship through Descent or Marriage
+title: Steps for Applying for Greek Citizenship through Descent or Marriage
 translationKey: greece-application_for_greek_citizenship
 ---
+
 
 
 ## **Description**

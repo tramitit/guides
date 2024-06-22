@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: The EHIC provides essential medical care across EU, Iceland, Liechtenstein,
-  Norway, and Switzerland. Apply through your national health insurance provider.
+description: Learn how to apply for the EHIC to get necessary medical care in EU countries,
+  Switzerland, Norway, Iceland, and Liechtenstein.
 draft: false
-meta_title: 'EHIC: Ensure Necessary Medical Care Across EU and EFTA Countries'
-title: 'EHIC: Ensure Necessary Medical Care Across EU and EFTA Countries'
+meta_title: 'European Health Insurance Card: Get Essential Medical Care Abroad'
+title: 'European Health Insurance Card: Get Essential Medical Care Abroad'
 translationKey: greece-application_for_european_health_insurance_card
 ---
-
 
 ## Description
 ### What is it?

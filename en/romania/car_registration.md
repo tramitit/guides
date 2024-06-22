@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn how to register your vehicle in Romania, required documents like
-  proof of ownership, insurance, and inspection. Find providers and details.
+description: Learn how to register your vehicle in Romania. Follow the steps, submit
+  the required documents, and get your registration certificate and license plates.
 draft: false
-meta_title: 'Car Registration in Romania: Process, Documents, Providers'
-title: 'Car Registration in Romania: Process, Documents, Providers'
+meta_title: 'Car Registration in Romania: Mandatory Process and Requirements'
+title: 'Car Registration in Romania: Mandatory Process and Requirements'
 translationKey: romania-car_registration
 ---
-
 
 ## Description
 ### What is it?

@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to get a marriage certificate in Poland for legal purposes
-  like immigration and name change. Includes required documents and the application
-  process.
+description: Learn the steps, documents required, and additional details for obtaining
+  and registering your marriage certificate in Poland for various legal purposes.
 draft: false
-meta_title: 'Obtaining a Marriage Certificate in Poland: Procedure & Requirements'
-title: 'Obtaining a Marriage Certificate in Poland: Procedure & Requirements'
+meta_title: How to Obtain a Marriage Certificate in Poland - A Guide
+title: How to Obtain a Marriage Certificate in Poland - A Guide
 translationKey: poland-marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

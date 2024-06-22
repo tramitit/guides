@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how Croatian residents over 18 can obtain a firearms license, including
-  safety courses, health certificates, and police checks. Valid for 5 years.
+description: Learn how to get a firearms license in Croatia. Follow steps for requirements,
+  documents needed, and the process to ensure your application is successful.
 draft: false
-meta_title: 'Obtaining a Firearms License in Croatia: Procedures & Requirements'
-title: 'Obtaining a Firearms License in Croatia: Procedures & Requirements'
+meta_title: 'How to Obtain a Firearms License in Croatia: A Step-by-Step Guide'
+title: 'How to Obtain a Firearms License in Croatia: A Step-by-Step Guide'
 translationKey: croatia-obtaining_a_firearms_license
 ---
-
 
 ## Description
 ### What is it?

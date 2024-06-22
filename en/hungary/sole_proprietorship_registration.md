@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to establish a sole proprietorship in Hungary and the necessary
-  steps, documents, and considerations. Ideal for freelancers and entrepreneurs.
+description: Learn to start a sole proprietorship in Hungary with steps from choosing
+  a business name to VAT registration. Ideal for freelancers and entrepreneurs.
 draft: false
-meta_title: 'Setting Up a Hungarian Sole Proprietorship: Procedure and Requirements'
-title: 'Setting Up a Hungarian Sole Proprietorship: Procedure and Requirements'
+meta_title: 'How to Start a Sole Proprietorship in Hungary: A Comprehensive Guide'
+title: 'How to Start a Sole Proprietorship in Hungary: A Comprehensive Guide'
 translationKey: hungary-sole_proprietorship_registration
 ---
-
 
 ## Description
 ### What is it?

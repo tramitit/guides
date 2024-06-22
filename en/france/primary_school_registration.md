@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to register your child for primary school in France. Find out
-  procedures, required documents, and necessary steps for a smooth enrollment process.
+description: Learn how to register your child for primary school in France and what
+  documents are required. Ensure a smooth start to your child's education journey.
 draft: false
-meta_title: 'Primary School Registration in France: A Detailed Guide'
-title: 'Primary School Registration in France: A Detailed Guide'
+meta_title: Guide to Primary School Registration in France for 2023
+title: Guide to Primary School Registration in France for 2023
 translationKey: france-primary_school_registration
 ---
-
 
 ## Description
 ### What is it?

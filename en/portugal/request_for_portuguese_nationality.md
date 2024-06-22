@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Aprenda os critérios para adquirir nacionalidade portuguesa e os documentos
-  necessários. Processo inclui avaliação e declaração de lealdade a Portugal.
+description: Learn how individuals of Portuguese descent or meeting specific criteria
+  can acquire Portuguese nationality through a detailed, step-by-step procedure.
 draft: false
-meta_title: 'Como Obter Nacionalidade Portuguesa: Guia Completo'
-title: 'Como Obter Nacionalidade Portuguesa: Guia Completo'
+meta_title: 'Acquire Portuguese Nationality: Process, Requirements, Documents'
+title: 'Acquire Portuguese Nationality: Process, Requirements, Documents'
 translationKey: portugal-request_for_portuguese_nationality
 ---
-
 
 ## Description
 ### What is it?

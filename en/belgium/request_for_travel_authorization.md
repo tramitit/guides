@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn how US citizens can obtain travel authorizations or visas for Europe
-  and other destinations. Ensure you have all required documents and apply on time.
+description: Learn how US citizens can obtain travel authorization or visas for Europe
+  and other destinations. Get tips on required documents and application procedures.
 draft: false
-meta_title: 'Guide for US Citizens: Travel Authorization & Visa Requirements'
-title: 'Guide for US Citizens: Travel Authorization & Visa Requirements'
+meta_title: 'Guide for US Citizens: Travel Authorization to Europe & Beyond'
+title: 'Guide for US Citizens: Travel Authorization to Europe & Beyond'
 translationKey: belgium-request_for_travel_authorization
 ---
-
 
 ## Description
 ### What is it?

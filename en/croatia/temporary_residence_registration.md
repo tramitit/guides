@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-07'
-description: Learn how foreigners in Croatia register their presence for legal purposes,
-  housing, healthcare. Find required documents and procedure details easily.
+description: Learn how to register your temporary residence in Croatia. Follow our
+  detailed procedure and documents checklist to ensure a smooth process.
 draft: false
-meta_title: 'Temporary Residence Registration in Croatia: Procedure & Documents'
-title: 'Temporary Residence Registration in Croatia: Procedure & Documents'
+meta_title: Temporary Residence Registration in Croatia - Step-by-Step Guide
+title: Temporary Residence Registration in Croatia - Step-by-Step Guide
 translationKey: croatia-temporary_residence_registration
 ---
-
 
 ## Description
 ### What is it?

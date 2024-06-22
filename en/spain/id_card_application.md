@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to apply for your Documento Nacional de Identidad (DNI) in
-  Spain. Get detailed steps, required documents, providers, and renewal information.
+description: Learn how to acquire your Spanish DNI, including required documents and
+  step-by-step procedure. Essential for residents and citizens of Spain.
 draft: false
-meta_title: 'Spain DNI Application Guide: ID Card for Spanish Citizens'
-title: 'Spain DNI Application Guide: ID Card for Spanish Citizens'
+meta_title: 'Guide to Obtaining Your Spanish DNI: Steps and Requirements'
+title: 'Guide to Obtaining Your Spanish DNI: Steps and Requirements'
 translationKey: spain-id_card_application
 ---
-
 
 ## Description
 ### What is it?

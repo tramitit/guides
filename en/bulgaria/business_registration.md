@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to register a business in Bulgaria step by step, from company
-  name reservation to tax registration. Ideal for locals, expats, and digital nomads.
+description: Learn how to register a business in Bulgaria, from name reservation to
+  tax registration. Ideal for locals and expats starting a new company.
 draft: false
-meta_title: 'Starting a Business in Bulgaria: A Comprehensive Guide'
-title: 'Starting a Business in Bulgaria: A Comprehensive Guide'
+meta_title: 'How to Register a Business in Bulgaria: A Step-by-Step Guide'
+title: 'How to Register a Business in Bulgaria: A Step-by-Step Guide'
 translationKey: bulgaria-business_registration
 ---
-
 
 ## Description
 ### What is it?

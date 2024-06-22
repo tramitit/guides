@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to obtain duplicate documents in Portugal if you lost important
-  IDs like Citizen Card, License, Passport. Follow steps & know providers' info.
+description: Learn how to request duplicate documents like ID cards, passports, and
+  driver's licenses in Portugal. Follow this step-by-step guide to simplify the process.
 draft: false
-meta_title: 'Requesting Duplicate Documents in Portugal: Procedure & Providers'
-title: 'Requesting Duplicate Documents in Portugal: Procedure & Providers'
+meta_title: 'Requesting Duplicate Documents in Portugal: A Detailed Guide'
+title: 'Requesting Duplicate Documents in Portugal: A Detailed Guide'
 translationKey: portugal-request_for_duplicate_documents
 ---
-
 
 ## Description
 ### What is it?

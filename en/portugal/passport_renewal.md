@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how Portuguese citizens abroad can update their passports through
-  consulate appointments, required documents, renewal fees, and processing timelines.
+description: Learn the steps and requirements for renewing your Portuguese passport
+  abroad, including necessary documents and consulate procedures.
 draft: false
-meta_title: 'Portuguese Passport Renewal: How to Renew Your Passport Abroad'
-title: 'Portuguese Passport Renewal: How to Renew Your Passport Abroad'
+meta_title: Passport Renewal for Portuguese Citizens Abroad - How It Works
+title: Passport Renewal for Portuguese Citizens Abroad - How It Works
 translationKey: portugal-passport_renewal
 ---
-
 
 ## Description
 ### What is it?

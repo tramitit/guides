@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Aprende todo sobre el proceso de aplicar, documentos necesarios y proveedores
-  de seguros de salud en Hungría para residentes, expatriados y estudiantes.
+description: Learn how to apply for health insurance in Hungary, essential for expats,
+  students, and long-term residents. Includes steps, documents, and provider tips.
 draft: false
-meta_title: Guía Completa de Aplicación para Seguro de Salud en Hungría
-title: Guía Completa de Aplicación para Seguro de Salud en Hungría
+meta_title: 'Health Insurance Application in Hungary: A Complete Guide'
+title: 'Health Insurance Application in Hungary: A Complete Guide'
 translationKey: hungary-healthcare_insurance_application
 ---
-
 
 ## Description
 ### What is it?

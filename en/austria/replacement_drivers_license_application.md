@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to replace your Austrian driver's license due to loss, damage,
-  or updates. Includes procedure, required documents, and regional variations.
+description: Learn how to replace a lost or damaged driver's license in Austria. Follow
+  our detailed steps and ensure you have all required documents for a smooth process.
 draft: false
-meta_title: 'Replacing Your Driver''s License in Austria: Guide & Procedure'
-title: 'Replacing Your Driver''s License in Austria: Guide & Procedure'
+meta_title: 'Guide to Replacing a Driver''s License in Austria: Step-by-Step'
+title: 'Guide to Replacing a Driver''s License in Austria: Step-by-Step'
 translationKey: austria-replacement_drivers_license_application
 ---
-
 
 ## Description
 ### What is it?

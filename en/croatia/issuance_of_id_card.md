@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-07'
-description: Learn the steps to apply for a Croatian national ID card, required documents,
-  process details, and where to get it done. For citizens and residents in Croatia.
+description: Learn the steps to apply for a Croatian National ID Card, required documents,
+  and necessary procedures for Croatian citizens and foreign nationals.
 draft: false
-meta_title: 'How to Get a Croatian National ID Card: Procedure & Requirements'
-title: 'How to Get a Croatian National ID Card: Procedure & Requirements'
+meta_title: 'Applying for a National ID Card in Croatia: Full Guide'
+title: 'Applying for a National ID Card in Croatia: Full Guide'
 translationKey: croatia-issuance_of_id_card
 ---
-
 
 ## Description
 ### What is it?

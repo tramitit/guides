@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Descoperă pașii esențiali pentru înregistrarea vehiculului în România
-  și documentele necesare pentru o process eficient și fără probleme.
+description: Learn the steps and documents needed for vehicle registration in Romania.
+  Get detailed guidance on car tax, required documents, and professional help options.
 draft: false
-meta_title: 'Obținerea Vizei pentru Vehicul în România: Ghid Complet'
-title: 'Obținerea Vizei pentru Vehicul în România: Ghid Complet'
+meta_title: 'Romanian Vehicle Registration: Steps and Required Documents'
+title: 'Romanian Vehicle Registration: Steps and Required Documents'
 translationKey: romania-vehicle_visa
 ---
-
 
 ## Description
 ### What is it?

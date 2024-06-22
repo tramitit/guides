@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to obtain a Croatia immigration permit for non-Croatian citizens
-  staying over 90 days. Detailed steps, required documents, and providers included.
+description: Learn the steps and requirements for non-Croatian citizens to secure
+  an immigration permit, including document needs, application process, and key tips.
 draft: false
-meta_title: 'Croatia Immigration Permit: Process and Requirements'
-title: 'Croatia Immigration Permit: Process and Requirements'
+meta_title: Guide to Obtaining an Immigration Permit in Croatia
+title: Guide to Obtaining an Immigration Permit in Croatia
 translationKey: croatia-obtaining_an_immigration_permit
 ---
-
 
 ## Description
 ### What is it?

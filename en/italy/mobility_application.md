@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn about the Youth Mobility Visa process, required documents, and
-  timeline for young individuals applying to travel, work, or live temporarily in
-  the UK.
+description: Learn how to apply for the UK Youth Mobility Visa for ages 18-30. Steps,
+  documents, and eligibility requirements detailed for your convenience.
 draft: false
-meta_title: 'Youth Mobility Visa: Live, Work & Travel in the UK for Up to 2 Years'
-title: 'Youth Mobility Visa: Live, Work & Travel in the UK for Up to 2 Years'
+meta_title: 'Youth Mobility Visa: Live, Work, and Travel in the UK for 2 Years'
+title: 'Youth Mobility Visa: Live, Work, and Travel in the UK for 2 Years'
 translationKey: italy-mobility_application
 ---
-
 
 ## Description
 ### What is it?

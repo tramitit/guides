@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Learn how to apply for unemployment benefits when out of work. Find detailed
-  steps, required documents, and provider information for support during job search.
+description: Learn how to apply for unemployment benefits in OAED, required documents,
+  and eligibility criteria. Get step-by-step guidance on the process and stay updated.
 draft: false
-meta_title: Unemployment Benefit Application Process and Eligibility
-title: Unemployment Benefit Application Process and Eligibility
+meta_title: 'Understanding Unemployment Benefits: Eligibility and Procedure'
+title: 'Understanding Unemployment Benefits: Eligibility and Procedure'
 translationKey: greece-application_for_unemployment_benefit
 ---
-
 
 ## Description
 ### What is it?

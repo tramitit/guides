@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how Portuguese property owners can get total or partial exemption
-  from IMI tax for their own home. Follow precise steps and requirements easily!
+description: Learn how to apply for the IMI exemption in Portugal. Follow our step-by-step
+  guide to request a municipal property tax exemption for your permanent residence.
 draft: false
-meta_title: 'IMI Exemption in Portugal: How to Apply and Eligibility'
-title: 'IMI Exemption in Portugal: How to Apply and Eligibility'
+meta_title: Guide to IMI Exemption for Property Owners in Portugal
+title: Guide to IMI Exemption for Property Owners in Portugal
 translationKey: portugal-request_for_imi_exemption
 ---
-
 
 ## Description
 ### What is it?

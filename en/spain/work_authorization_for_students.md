@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how non-EU students can study in Spain and work legally with this
-  guide. Includes procedures, required documents, and additional details on the process.
+description: Learn how international students can study and work in Spain. Follow
+  the steps for visa and work permit application to start your job legally.
 draft: false
 meta_title: Work Authorization for International Students in Spain
 title: Work Authorization for International Students in Spain
 translationKey: spain-work_authorization_for_students
 ---
-
 
 ## Description
 ### What is it?

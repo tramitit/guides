@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Scopri come registrare nascite, matrimoni e decessi in Italia. Procedura,
-  documenti necessari e contatti utili per italiani residenti all'estero.
+description: Learn the process and requirements for Civil Registry registration in
+  Italy for births, marriages, and deaths. Essential for legal identity and public
+  services.
 draft: false
-meta_title: Guida alla Registrazione nel Registro Civile Italiano
-title: Guida alla Registrazione nel Registro Civile Italiano
+meta_title: 'Guide to Civil Registry Registration in Italy: Process & Documents'
+title: 'Guide to Civil Registry Registration in Italy: Process & Documents'
 translationKey: italy-registration_in_the_civil_registry
 ---
-
 
 ## Description
 ### What is it?

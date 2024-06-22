@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn about Maternity Allowance eligibility, required documents, application
-  procedure, and providers. Ensure timely submission for maximum duration benefits.
+description: Learn about the Maternity Allowance, eligibility, required documents,
+  and application process for pregnant women, adoptive parents, and surrogates.
 draft: false
-meta_title: 'Maternity Allowance: Eligibility, Procedure, and Providers'
-title: 'Maternity Allowance: Eligibility, Procedure, and Providers'
+meta_title: 'Maternity Allowance: Eligibility, Procedure, and Key Details'
+title: 'Maternity Allowance: Eligibility, Procedure, and Key Details'
 translationKey: italy-maternity_allowance_application
 ---
-
 
 ## Description
 ### What is it?

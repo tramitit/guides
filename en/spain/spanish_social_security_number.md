@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: 2024-05-22
-description: Learn how residents in Spain can obtain a unique identification number
-  for work, healthcare, and more. Find procedure details and required documents here!
+description: Learn how to apply for a Spanish Social Security Number, required documents,
+  and steps involved for residents in Spain.
 draft: false
-meta_title: 'Applying for Spanish Social Security Number: Procedure & Documents'
+meta_title: 'How to Apply for a Spanish Social Security Number: A Guide'
 tags:
 - Foreigners
-title: 'Applying for Spanish Social Security Number: Procedure & Documents'
+title: 'How to Apply for a Spanish Social Security Number: A Guide'
 ---
-
 
 ## Description
 

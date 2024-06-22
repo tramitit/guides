@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn the steps to obtain a non-resident certificate in Spain, including
-  document requirements, fees, and necessary appointments.
+description: Learn how to get a non-resident certificate in Spain, including required
+  documents, procedures, and fees. Perfect for banking and legal purposes.
 draft: false
-meta_title: How to Obtain a Non-Resident Certificate in Spain - Complete Guide
-title: How to Obtain a Non-Resident Certificate in Spain - Complete Guide
+meta_title: Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain
+title: Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain
 translationKey: spain-non-resident_certificate
 ---
-
 
 ## Description
 

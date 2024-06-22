@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Discover steps for a name change, including reasons, required documents,
-  and agencies. Ideal for legal purposes, security, gaming, and events customization.
+description: Learn how to legally change your name with this comprehensive guide.
+  Understand the necessary steps, required documents, and potential providers.
 draft: false
-meta_title: 'Name Change Guide: Legal and Personal Considerations'
-title: 'Name Change Guide: Legal and Personal Considerations'
+meta_title: 'How to Legally Change Your Name: Guide and Requirements'
+title: 'How to Legally Change Your Name: Guide and Requirements'
 translationKey: croatia-change_of_name
 ---
-
 
 ## Description
 ### What is it?

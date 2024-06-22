@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to get a Bulgarian driver's license, including courses, tests,
-  and documents needed. Find a driving school for training and exam costs.
+description: Learn how to get a driver's license in Bulgaria with this guide. Includes
+  steps, required documents, and important details for residents and foreigners.
 draft: false
-meta_title: 'Obtaining a Driver''s License in Bulgaria: Steps and Requirements'
-title: 'Obtaining a Driver''s License in Bulgaria: Steps and Requirements'
+meta_title: 'How to Obtain a Driver''s License in Bulgaria: Step-by-Step Guide'
+title: 'How to Obtain a Driver''s License in Bulgaria: Step-by-Step Guide'
 translationKey: bulgaria-issuance_of_a_drivers_license
 ---
-
 
 ## Description
 ### What is it?

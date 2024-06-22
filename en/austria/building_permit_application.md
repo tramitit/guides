@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn the procedure to obtain a building permit in Austria, including
-  key steps, required documents, and essential details for compliance.
+description: Learn the necessary steps, documents, and procedures required to obtain
+  a building permit in Austria for construction, renovation, or alteration projects.
 draft: false
-meta_title: 'Building Permit Guide in Austria: Required Steps and Documents'
-title: 'Building Permit Guide in Austria: Required Steps and Documents'
+meta_title: 'How to Obtain a Building Permit in Austria: Step-by-Step Guide'
+title: 'How to Obtain a Building Permit in Austria: Step-by-Step Guide'
 translationKey: austria-building_permit_application
 ---
+
 
 
 

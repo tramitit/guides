@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn who needs Anexo D, steps for filing, required documents, and tips
-  to ensure a smooth Portuguese IRS declaration process.
+description: Learn how to prepare and submit Anexo D for IRS in Portugal. Step-by-step
+  procedure and required documents for accurate tax reporting.
 draft: false
-meta_title: Complete Guide to Filing Anexo D for Portuguese IRS Declaration
-title: Complete Guide to Filing Anexo D for Portuguese IRS Declaration
+meta_title: Guide to Filing Anexo D for IRS Declarations in Portugal
+title: Guide to Filing Anexo D for IRS Declarations in Portugal
 translationKey: portugal-irs_anexo_d
 ---
+
 
 
 

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: 'Learn how to obtain a death certificate: procedures for registration,
-  required documents, providers, and important details. Ensure accuracy to avoid delays.'
+description: Learn the steps and required documents to obtain a death certificate.
+  Find out who can request it and the importance for legal and personal matters.
 draft: false
-meta_title: 'Death Certificate Procedures: Obtain, Submit, and Requirements'
-title: 'Death Certificate Procedures: Obtain, Submit, and Requirements'
+meta_title: 'How to Obtain a Death Certificate: Step-by-Step Guide'
+title: 'How to Obtain a Death Certificate: Step-by-Step Guide'
 translationKey: poland-issuance_of_death_certificate
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to obtain a Certificate of No Criminal Record in Poland, requirements,
-  and providers. Ensure you meet the set criteria for your specific needs.
+description: Learn the step-by-step process to get a Certificate of No Criminal Record
+  in Poland, including required documents and key details for successful application.
 draft: false
-meta_title: 'Certificate of No Criminal Record in Poland: Procedure & Providers'
-title: 'Certificate of No Criminal Record in Poland: Procedure & Providers'
+meta_title: How to Obtain a Certificate of No Criminal Record in Poland
+title: How to Obtain a Certificate of No Criminal Record in Poland
 translationKey: poland-certificate_of_no_criminal_record
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to obtain a Hungarian death certificate from NYAK, including
-  required documents, timelines, costs. Details on genealogy research included.
+description: Learn how to get a death certificate in Hungary, including necessary
+  documents, steps, and tips. Ideal for family members or legal representatives.
 draft: false
-meta_title: 'Hungary Death Certificate: Procedure, Documents & Providers'
-title: 'Hungary Death Certificate: Procedure, Documents & Providers'
+meta_title: How to Obtain a Death Certificate in Hungary - Step by Step Guide
+title: How to Obtain a Death Certificate in Hungary - Step by Step Guide
 translationKey: hungary-request_for_death_certificates
 ---
-
 
 ## Description
 ### What is it?

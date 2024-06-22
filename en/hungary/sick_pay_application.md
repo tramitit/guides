@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to apply for sick pay and ensure income continuity during your
-  recuperation. Detailed steps and required documents for a smooth process.
+description: Learn the essential steps and documentation for applying for sick pay,
+  ensuring your income continuity during illness. Essential for all employees.
 draft: false
-meta_title: Understanding Sick Pay Procedures - Employee Guide
-title: Understanding Sick Pay Procedures - Employee Guide
+meta_title: 'Understanding Sick Pay: Procedures and Required Documents'
+title: 'Understanding Sick Pay: Procedures and Required Documents'
 translationKey: hungary-sick_pay_application
 ---
-
 
 ## Description
 ### What is it?

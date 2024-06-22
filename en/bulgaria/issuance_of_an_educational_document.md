@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn how to request official academic records from your educational
-  institution. Ensure you have the necessary documents and fees ready for processing.
+description: Learn how to get your diploma, transcript, or certificate from your educational
+  institution. Follow these steps and prepare the required documents and fees.
 draft: false
-meta_title: 'Issuing Educational Documents: Procedure and Requirements'
-title: 'Issuing Educational Documents: Procedure and Requirements'
+meta_title: 'How to Obtain Official Educational Documents: A Step-by-Step Guide'
+title: 'How to Obtain Official Educational Documents: A Step-by-Step Guide'
 translationKey: bulgaria-issuance_of_an_educational_document
 ---
-
 
 ## Description
 ### What is it?

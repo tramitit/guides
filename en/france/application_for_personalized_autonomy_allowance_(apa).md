@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn about the French APA supporting elderly persons' autonomy with
-  assistance and care costs. Discover application steps, required documents, and providers.
+description: Discover how the Personalized Autonomy Allowance (APA) helps the elderly
+  in France regain independence with financial support for assistance and care.
 draft: false
-meta_title: French Personalized Autonomy Allowance (APA) Guide
-title: French Personalized Autonomy Allowance (APA) Guide
+meta_title: 'Personalized Autonomy Allowance: Aid for Elderly in France'
+title: 'Personalized Autonomy Allowance: Aid for Elderly in France'
 translationKey: france-application_for_personalized_autonomy_allowance_(apa)
 ---
-
 
 ## Description
 ### What is it?

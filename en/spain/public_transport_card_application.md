@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Discover how to get a Public Transport Card in Spain for convenient travel
-  in Madrid and Barcelona. Ideal for tourists, residents, and monthly users alike.
+description: Learn how to get and use a Public Transport Card for metro, bus, and
+  tram in Madrid and Barcelona. Ideal for tourists, temporary, and long-term residents.
 draft: false
-meta_title: 'Public Transport Card in Spain: Access Metro, Bus & Tram'
-title: 'Public Transport Card in Spain: Access Metro, Bus & Tram'
+meta_title: 'Guide to Public Transport Card in Spain: Metro, Bus and Tram'
+title: 'Guide to Public Transport Card in Spain: Metro, Bus and Tram'
 translationKey: spain-public_transport_card_application
 ---
-
 
 ## Description
 ### What is it?

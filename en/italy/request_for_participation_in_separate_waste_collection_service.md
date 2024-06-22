@@ -1,13 +1,16 @@
 ---
-title: "Request for Participation in Separate Waste Collection Service"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: "Step by Step Guide to Participate in Separate Waste Collection"
-description: "An easy guide to participate in separate waste collection and start recycling. Learn how to start the procedure, required documents and service providers."
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn how to enroll in a separate waste collection service to help reduce
+  landfill waste by categorizing paper, metal, plastic, and organic materials.
 draft: false
-translationKey: "italy-request_for_participation_in_separate_waste_collection_service"
+meta_title: 'Separate Waste Collection Service: Steps to Participate'
+title: 'Separate Waste Collection Service: Steps to Participate'
+translationKey: italy-request_for_participation_in_separate_waste_collection_service
 ---
+
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to obtain a driver's license in Austria, including exams, medical
-  requirements, documents needed, costs, and timelines. Must for driving in Austria!
+description: Learn the steps to get a driver's license in Austria, including required
+  documents, tests, and costs. Ensure you're fully prepared for the process.
 draft: false
-meta_title: 'Obtaining a Driver''s License in Austria: Requirements & Procedure'
-title: 'Obtaining a Driver''s License in Austria: Requirements & Procedure'
+meta_title: 'How to Obtain a Driver''s License in Austria: A Complete Guide'
+title: 'How to Obtain a Driver''s License in Austria: A Complete Guide'
 translationKey: austria-drivers_license_application
 ---
-
 
 ## Description
 ### What is it?

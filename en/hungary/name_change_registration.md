@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Discover the legal process to change your name in Hungary, including
-  required documents and official fees. Ideal for residents seeking a name alteration.
+description: Learn the steps, required documents, and costs for legally changing your
+  name in Hungary. Ideal for residents seeking to update their official name.
 draft: false
-meta_title: 'How to Register a Name Change in Hungary: Guide & Costs'
-title: 'How to Register a Name Change in Hungary: Guide & Costs'
+meta_title: Legal Name Change Procedure for Hungary Residents and Citizens
+title: Legal Name Change Procedure for Hungary Residents and Citizens
 translationKey: hungary-name_change_registration
 ---
-
 
 ## Description
 ### What is it?

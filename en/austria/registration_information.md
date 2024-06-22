@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn about Anmeldung in Austria, a legal requirement for residents.
-  Find out who needs it, procedure steps, required documents, & penalties for non-compliance.
+description: Learn how to register your residence in Austria, including required documents
+  and step-by-step procedures, to avoid fines and ensure legal compliance.
 draft: false
-meta_title: 'Austria Anmeldung: Registration Requirements & Procedure'
-title: 'Austria Anmeldung: Registration Requirements & Procedure'
+meta_title: 'Anmeldung in Austria: How to Register Your Residence'
+title: 'Anmeldung in Austria: How to Register Your Residence'
 translationKey: austria-registration_information
 ---
-
 
 ## Description
 ### What is it?

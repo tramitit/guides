@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Learn the process and requirements for recognizing foreign academic credentials
-  in Bulgaria for work, study, or professional practice.
+description: Learn the essential steps and documents needed for recognizing foreign
+  diplomas in Bulgaria for education or employment purposes.
 draft: false
-meta_title: 'Recognition of Foreign Diplomas in Bulgaria: What You Need to Know'
-title: 'Recognition of Foreign Diplomas in Bulgaria: What You Need to Know'
+meta_title: 'Recognition of Foreign Diplomas in Bulgaria: Process & Requirements'
+title: 'Recognition of Foreign Diplomas in Bulgaria: Process & Requirements'
 translationKey: bulgaria-recognition_of_a_foreign_diploma
 ---
-
 
 ## Description
 ### What is it?

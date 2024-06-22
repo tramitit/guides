@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn about the NIE process for non-Spanish nationals in Spain. Find
-  out who needs it, required documents, appointment booking, and processing times.
+description: Understand the steps and documents required to get your NIE in Spain.
+  Essential for expats, students, property buyers, and business starters.
 draft: false
-meta_title: 'Obtaining an NIE in Spain: Requirements and Procedure Guide'
-title: 'Obtaining an NIE in Spain: Requirements and Procedure Guide'
+meta_title: How to Obtain Your NIE for Legal Procedures in Spain
+title: How to Obtain Your NIE for Legal Procedures in Spain
 translationKey: spain-assignment_of_nie_at_the_request_of_the_interested_party
 ---
+
 
 
 

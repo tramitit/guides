@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn the steps to file Anexo E for IRS in Portugal. Include passive
-  income such as interest, dividends, and rental income. Follow the updated procedures.
+description: Learn how to fill out and submit Anexo E for declaring passive income
+  in Portugal, including steps, required documents, and procedural tips.
 draft: false
-meta_title: 'Guide to Filing Anexo E for IRS in Portugal: Income Declaration'
-title: 'Guide to Filing Anexo E for IRS in Portugal: Income Declaration'
+meta_title: Complete Guide to Filing Anexo E for IRS in Portugal
+title: Complete Guide to Filing Anexo E for IRS in Portugal
 translationKey: portugal-irs_anexo_e
 ---
+
 
 
 

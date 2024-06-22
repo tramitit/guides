@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn who needs a death certificate, the process to obtain it, required
-  documents, & key details to ensure smooth legal proceedings.
+description: Learn the steps to acquire a death certificate, required documents, and
+  the implications for legal and administrative processes following a loved one's
+  death.
 draft: false
-meta_title: 'Death Certificate: Legal Document for Inheritance & Insurance'
-title: 'Death Certificate: Legal Document for Inheritance & Insurance'
+meta_title: 'How to Obtain a Death Certificate: Essential Steps and Documents'
+title: 'How to Obtain a Death Certificate: Essential Steps and Documents'
 translationKey: romania-death_certificate
 ---
-
 
 ## Description
 ### What is it?

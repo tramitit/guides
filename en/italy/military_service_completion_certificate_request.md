@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to obtain the official document for genealogy or citizenship
-  by descent. Find procedures & providers in Italy and Germany with required documents.
+description: Learn how to get a Military Service Completion Certificate in Italy and
+  Germany. Essential for genealogical research and citizenship by descent applications.
 draft: false
-meta_title: Military Service Completion Certificate in Italy & Germany
-title: Military Service Completion Certificate in Italy & Germany
+meta_title: 'Obtain Your Military Service Completion Certificate: A How-To Guide'
+title: 'Obtain Your Military Service Completion Certificate: A How-To Guide'
 translationKey: italy-military_service_completion_certificate_request
 ---
-
 
 ## Description
 ### What is it?

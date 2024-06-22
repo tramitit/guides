@@ -1,13 +1,16 @@
 ---
-title: "Registration with the National Health Service (SSN)"
-author: "Ricardo Batista"
-date: "2024-06-07"
-categories: ["Italy"]
-meta_title: ""
-description: "This guide details the process of registration with the Italian National Health Service (Servizio Sanitario Nazionale, SSN)"
+author: Ricardo Batista
+categories:
+- Italy
+date: '2024-06-07'
+description: Learn who can register with Italy's National Health Service (SSN), the
+  necessary documents, and the step-by-step registration process.
 draft: false
-translationKey: "italy-registration_with_the_national_health_service_(ssn)"
+meta_title: Understanding Italy's National Health Service (SSN) Registration
+title: Understanding Italy's National Health Service (SSN) Registration
+translationKey: italy-registration_with_the_national_health_service_(ssn)
 ---
+
 
 ## Description
 ### What is it?

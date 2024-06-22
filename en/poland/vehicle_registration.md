@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to register your car or motorcycle in Poland. Includes required
-  documents, procedure steps, and details on timelines and costs from PZU SA provider.
+description: Learn the step-by-step process of vehicle registration in Poland including
+  required documents, fees, and timelines for new and imported vehicles.
 draft: false
-meta_title: 'Vehicle Registration Process in Poland: A Complete Guide'
-title: 'Vehicle Registration Process in Poland: A Complete Guide'
+meta_title: 'Vehicle Registration in Poland: Complete Guide and Requirements'
+title: 'Vehicle Registration in Poland: Complete Guide and Requirements'
 translationKey: poland-vehicle_registration
 ---
-
 
 ## Description
 ### What is it?

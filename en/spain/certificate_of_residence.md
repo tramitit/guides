@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to get a Certificado de Empadronamiento in Spain, essential
-  for administrative tasks. Includes procedure steps and required documents info.
+description: Learn how foreigners in Spain can obtain a Certificate of Residence.
+  Detailed steps, required documents, and additional details included in the guide.
 draft: false
-meta_title: 'Certificate of Residence in Spain: Procedure & Required Docs'
-title: 'Certificate of Residence in Spain: Procedure & Required Docs'
+meta_title: 'How to Obtain a Certificate of Residence in Spain: A Guide'
+title: 'How to Obtain a Certificate of Residence in Spain: A Guide'
 translationKey: spain-certificate_of_residence
 ---
-
 
 ## Description
 ### What is it?

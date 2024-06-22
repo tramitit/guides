@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn the step-by-step process to get a French driver's license, including
-  eligibility criteria, required documents, and options for foreign license holders.
+description: Learn how to get or convert a driver's license in France. Covers eligibility,
+  required documents, and steps for both French residents and international holders.
 draft: false
-meta_title: 'Obtaining a French Driver''s License: Guide for Residents and Expats'
-title: 'Obtaining a French Driver''s License: Guide for Residents and Expats'
+meta_title: Guide to Obtaining or Converting a Driver's License in France
+title: Guide to Obtaining or Converting a Driver's License in France
 translationKey: france-drivers_license_application
 ---
-
 
 ## Description
 ### What is it?

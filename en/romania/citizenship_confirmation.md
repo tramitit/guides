@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Discover how to prove your citizenship for passport applications, studying
-  abroad, or bank accounts. Learn about required documents and providers involved.
+description: Learn the process of confirming Romanian or Moldovan citizenship. Essential
+  for passports, education abroad, and banking. Follow our steps for success!
 draft: false
-meta_title: Romanian & Moldovan Citizenship Confirmation Process
-title: Romanian & Moldovan Citizenship Confirmation Process
+meta_title: Romanian and Moldovan Citizenship Confirmation Guide
+title: Romanian and Moldovan Citizenship Confirmation Guide
 translationKey: romania-citizenship_confirmation
 ---
-
 
 ## Description
 ### What is it?

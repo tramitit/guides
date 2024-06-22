@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to register your marriage performed outside Germany, including
-  required documents and timeline. Ensure legal compliance for bureaucratic matters.
+description: Learn step-by-step how to register a foreign marriage in Germany, including
+  necessary documents, translations, and legal requirements.
 draft: false
-meta_title: Obtaining a Marriage Certificate in Germany for Foreign Marriages
-title: Obtaining a Marriage Certificate in Germany for Foreign Marriages
+meta_title: How to Obtain a Marriage Certificate in Germany for Foreign Marriages
+title: How to Obtain a Marriage Certificate in Germany for Foreign Marriages
 translationKey: germany-applying_for_a_marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

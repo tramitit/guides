@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Erfahren Sie, wie Sie Arbeitslosengeld in Deutschland beantragen. Schritte,
-  erforderliche Dokumente und wichtige Hinweise für Arbeitnehmer.
+description: Learn the steps to apply for unemployment benefits in Germany, including
+  required documents and process timelines. Ensure you meet eligibility criteria.
 draft: false
-meta_title: 'Alles über Arbeitslosengeld in Deutschland: Antrag und Verfahren'
-title: 'Alles über Arbeitslosengeld in Deutschland: Antrag und Verfahren'
+meta_title: 'How to Apply for Unemployment Benefits in Germany: A Guide'
+title: 'How to Apply for Unemployment Benefits in Germany: A Guide'
 translationKey: germany-applying_for_unemployment_benefit
 ---
-
 
 ## Description
 ### What is it?

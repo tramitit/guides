@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn how to request for pension in Belgium, including eligibility criteria
-  and required documents. Ensure a smooth retirement by maximizing benefits.
+description: Learn how to apply for pension benefits in Belgium, determine eligibility,
+  gather necessary documents, and apply online using MyPension.
 draft: false
-meta_title: 'Requesting Pension in Belgium: Application Process and Eligibility'
-title: 'Requesting Pension in Belgium: Application Process and Eligibility'
+meta_title: How to Apply for Pension Benefits in Belgium for Retirees
+title: How to Apply for Pension Benefits in Belgium for Retirees
 translationKey: belgium-request_for_pension
 ---
-
 
 ## Description
 ### What is it?

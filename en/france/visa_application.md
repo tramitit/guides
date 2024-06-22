@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to apply for a visa to work, study, or visit France over 90
-  days. Get steps, documents, and tips for a successful application process.
+description: Learn the steps to apply for a long-stay visa for France. Find out who
+  needs it, required documents, and procedures from application to approval.
 draft: false
-meta_title: France Visa Application Procedure for Non-EU Citizens
-title: France Visa Application Procedure for Non-EU Citizens
+meta_title: 'Guide to Obtaining a Long-Stay Visa for France: Steps & Requirements'
+title: 'Guide to Obtaining a Long-Stay Visa for France: Steps & Requirements'
 translationKey: france-visa_application
 ---
-
 
 ## Description
 ### What is it?

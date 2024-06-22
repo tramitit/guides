@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn about social housing in France for low-income individuals & families.
-  Follow steps to apply and get assistance. Renew application annually.
+description: Learn about social housing in France, who needs it, eligibility criteria,
+  required documents, and the application process for affordable housing support.
 draft: false
-meta_title: 'Social Housing in France: Eligibility, Application, and Providers'
-title: 'Social Housing in France: Eligibility, Application, and Providers'
+meta_title: 'Understanding Social Housing in France: Eligibility and Application'
+title: 'Understanding Social Housing in France: Eligibility and Application'
 translationKey: france-application_for_social_housing
 ---
-
 
 ## Description
 

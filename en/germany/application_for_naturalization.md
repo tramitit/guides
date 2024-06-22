@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Step-by-step guide on obtaining German citizenship, including residency
-  requirements, documentation, interviews, and the citizenship test.
+description: Learn the steps to obtain German citizenship, including eligibility,
+  required documents, and procedure for naturalization in Germany.
 draft: false
-meta_title: Complete Guide to Naturalization in Germany for Foreigners
-title: Complete Guide to Naturalization in Germany for Foreigners
+meta_title: Comprehensive Guide to German Naturalization Process
+title: Comprehensive Guide to German Naturalization Process
 translationKey: germany-application_for_naturalization
 ---
-
 
 ## Description
 ### What is it?

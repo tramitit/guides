@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to obtain a legal residence document in Poland for stays over
-  90 days. Find out requirements, procedures, and providers. Stay informed!
+description: Get your Certificate of Registration of Residence in Poland. Learn who
+  needs it, required documents, and the step-by-step process for registration.
 draft: false
-meta_title: Certificate of Registration of Residence in Poland
-title: Certificate of Registration of Residence in Poland
+meta_title: 'Certificate of Residence in Poland: How to Register'
+title: 'Certificate of Residence in Poland: How to Register'
 translationKey: poland-certificate_of_registration_of_residence
 ---
-
 
 ## Description
 ### What is it?

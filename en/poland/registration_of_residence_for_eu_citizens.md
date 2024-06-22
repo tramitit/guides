@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: A guide for EU citizens in Poland on registering their residence, including
-  required documents, process steps, and important details. Stay legal in Poland!
+description: Essential steps and required documents for EU citizens to legally register
+  residence in Poland for stays over 3 months.
 draft: false
-meta_title: EU Citizen Residence Registration in Poland Procedure
-title: EU Citizen Residence Registration in Poland Procedure
+meta_title: 'EU Citizens'' Guide: Registering Residence in Poland'
+title: 'EU Citizens'' Guide: Registering Residence in Poland'
 translationKey: poland-registration_of_residence_for_eu_citizens
 ---
-
 
 ## Description
 ### What is it?

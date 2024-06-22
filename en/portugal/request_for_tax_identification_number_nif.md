@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn the process, requirements, and importance of obtaining a NIF in
-  Portugal for financial activities. Find out where and how to get it easily.
+description: Learn the steps to acquire a NIF in Portugal for financial activities
+  including required documents and process whether you are a resident or non-resident.
 draft: false
-meta_title: Getting a Tax Identification Number (NIF) in Portugal
-title: Getting a Tax Identification Number (NIF) in Portugal
+meta_title: How to Obtain a Tax Identification Number (NIF) in Portugal
+title: How to Obtain a Tax Identification Number (NIF) in Portugal
 translationKey: portugal-request_for_tax_identification_number_(nif)
 ---
-
 
 ## Description
 ### What is it?

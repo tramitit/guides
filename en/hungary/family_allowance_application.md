@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Discover how to apply for family allowance in Hungary, requirements,
-  documents needed, application procedure, and available providers for assistance.
+description: Learn about the Family Allowance in Hungary, eligibility criteria, application
+  process, and required documents to support families with dependent children.
 draft: false
-meta_title: 'Family Allowance in Hungary: Requirements, Procedure & Providers'
-title: 'Family Allowance in Hungary: Requirements, Procedure & Providers'
+meta_title: 'Family Allowance in Hungary: Support for Parents and Guardians'
+title: 'Family Allowance in Hungary: Support for Parents and Guardians'
 translationKey: hungary-family_allowance_application
 ---
-
 
 ## Description
 ### What is it?

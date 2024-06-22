@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Bulgaria
 date: '2024-06-07'
-description: Discover the steps to get a residence permit in Bulgaria for long-term
-  stays, including required documents and renewal options for up to 5 years.
+description: Learn the process for securing a Bulgarian residence permit, including
+  required documents, application steps, and key guidelines for long-term stays.
 draft: false
-meta_title: 'Residence Permit in Bulgaria: How to Obtain and Renew'
-title: 'Residence Permit in Bulgaria: How to Obtain and Renew'
+meta_title: 'Guide to Obtaining a Bulgarian Residence Permit: Step-by-Step Process'
+title: 'Guide to Obtaining a Bulgarian Residence Permit: Step-by-Step Process'
 translationKey: bulgaria-issuance_of_a_residence_permit
 ---
-
 
 ## Description
 ### What is it?

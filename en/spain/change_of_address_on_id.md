@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn the step-by-step process to update your address on the NIE in Spain.
-  This guide includes required documents and key information for foreign residents.
+description: Learn the essential steps to update your address on NIE in Spain. Find
+  out who needs it, required documents, and where to go to make the change.
 draft: false
-meta_title: How to Update Your Address on NIE in Spain - Essential Guide
-title: How to Update Your Address on NIE in Spain - Essential Guide
+meta_title: 'How to Change Address on NIE in Spain: Step-by-Step Guide'
+title: 'How to Change Address on NIE in Spain: Step-by-Step Guide'
 translationKey: spain-change_of_address_on_id
 ---
+
 
 
 

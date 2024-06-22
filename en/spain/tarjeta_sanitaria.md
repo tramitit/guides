@@ -3,16 +3,15 @@ author: Ricardo Batista
 categories:
 - Spain
 date: 2024-05-22
-description: Learn about the non-transferable Health Card granting rights to Spanish
-  Social Security health benefits. Procedure, required docs, and providers included.
+description: Learn the procedure and documents needed to get your Health Card in Spain.
+  Essential for residents, expats, and workers for accessing healthcare services.
 draft: false
-meta_title: 'Spanish Tarjeta Sanitaria: Benefits, Procedure, and Providers'
+meta_title: How to Obtain a Health Card (Tarjeta Sanitaria) in Spain
 tags:
 - Social Security
-title: 'Spanish Tarjeta Sanitaria: Benefits, Procedure, and Providers'
-translationKey: 'spain-tarjeta-sanitaria'
+title: How to Obtain a Health Card (Tarjeta Sanitaria) in Spain
+translationKey: spain-tarjeta-sanitaria
 ---
-
 
 ## Description
 

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn how to get a Belgian birth certificate for official uses. Find
-  out the steps, required documents, and where to go for this essential document easily.
+description: Learn the procedure for obtaining a birth certificate in Belgium, required
+  documents, and tips for using it abroad with legalization and apostille requirements.
 draft: false
-meta_title: 'How to Obtain a Birth Certificate in Belgium: Procedure & Providers'
-title: 'How to Obtain a Birth Certificate in Belgium: Procedure & Providers'
+meta_title: How to Obtain a Birth Certificate in Belgium - Step-by-Step Guide
+title: How to Obtain a Birth Certificate in Belgium - Step-by-Step Guide
 translationKey: belgium-request_for_birth_certificate
 ---
-
 
 ## Description
 ### What is it?

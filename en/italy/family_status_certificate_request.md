@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to request a 'Stato di Famiglia' issued by Italian municipalities.
-  Procedure, required docs, providers, costs, and key tips for success included.
+description: Learn how to get a Family Status Certificate in Italy for legal, administrative,
+  or ancestry purposes. Follow our step-by-step guide with key requirements.
 draft: false
-meta_title: 'Obtaining an Italian Family Status Certificate: Procedure & Tips'
-title: 'Obtaining an Italian Family Status Certificate: Procedure & Tips'
+meta_title: How to Obtain a Family Status Certificate in Italy
+title: How to Obtain a Family Status Certificate in Italy
 translationKey: italy-family_status_certificate_request
 ---
-
 
 ## Description
 ### What is it?

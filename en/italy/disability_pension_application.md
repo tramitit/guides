@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to apply for Disability Pension in Italy through INPS website.
-  Detailed steps, required documents, costs, and important details for recipients.
+description: Learn about financial assistance for disabled individuals. Discover eligibility,
+  required documents, and application procedures for the Disability Pension.
 draft: false
-meta_title: 'Applying for Disability Pension in Italy: Procedure and Providers'
-title: 'Applying for Disability Pension in Italy: Procedure and Providers'
+meta_title: 'Disability Pension: Financial Assistance for Disabled Individuals'
+title: 'Disability Pension: Financial Assistance for Disabled Individuals'
 translationKey: italy-disability_pension_application
 ---
-
 
 ## Description
 ### What is it?

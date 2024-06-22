@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to claim paternal rights and responsibilities for a child through
-  acknowledgment of paternity. Find out who needs it and the procedures involved.
+description: Learn the process, requirements, and implications of acknowledging paternity,
+  especially for unmarried parents with disputed or questioned paternity.
 draft: false
-meta_title: 'Acknowledgment of Paternity: Establishing Rights & Responsibilities'
-title: 'Acknowledgment of Paternity: Establishing Rights & Responsibilities'
+meta_title: Understanding the Acknowledgment of Paternity Process
+title: Understanding the Acknowledgment of Paternity Process
 translationKey: poland-acknowledgement_of_paternity
 ---
-
 
 ## Description
 ### What is it?

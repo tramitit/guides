@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to apply for social benefits in Slovakia, determine eligibility,
-  required documents, and the application process to secure financial support.
+description: Learn who qualifies for social benefits in Slovakia, the application
+  process, required documents, and get tips for a successful application.
 draft: false
-meta_title: 'How to Apply for Social Benefits in Slovakia: A Step-by-Step Guide'
-title: 'How to Apply for Social Benefits in Slovakia: A Step-by-Step Guide'
+meta_title: 'Understanding Social Benefits in Slovakia: Eligibility and Steps'
+title: 'Understanding Social Benefits in Slovakia: Eligibility and Steps'
 translationKey: slovakia-application_for_social_benefits
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to claim a tax refund if you've overpaid income taxes. Gather
-  necessary documents, calculate your refund, file your return, and wait for the response.
+description: Learn how to request a personal income tax refund if you've overpaid.
+  Follow these simple steps and know the required documents to get your refund quickly.
 draft: false
-meta_title: 'Income Tax Refund Request: Process and Eligibility'
-title: 'Income Tax Refund Request: Process and Eligibility'
+meta_title: 'How to Request a Personal Income Tax Refund: Steps and Tips'
+title: 'How to Request a Personal Income Tax Refund: Steps and Tips'
 translationKey: hungary-personal_income_tax_refund_request
 ---
-
 
 ## Description
 ### What is it?

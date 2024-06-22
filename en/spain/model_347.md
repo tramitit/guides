@@ -3,13 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-17'
-description: Learn about Form 347, mandatory for Spanish businesses with transactions over €3,005.06. Follow our guide to complete and submit the form correctly.
+description: Learn the essentials of Model 347, the tax form for declaring annual
+  transactions in Spain over €3,005.06, including who must file and how to submit.
 draft: false
-meta_title: 'Form 347: Annual Transaction Declaration for Spanish Businesses'
-title: 'Form 347: Annual Transaction Declaration for Spanish Businesses'
+meta_title: 'Guide to Model 347: Annual Spanish Tax Form for Third Parties'
+title: 'Guide to Model 347: Annual Spanish Tax Form for Third Parties'
 translationKey: spain-model_347
 ---
-
 
 ## Description
 ### What is it?

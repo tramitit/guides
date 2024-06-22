@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn about the Disability Allowance, a weekly payment for individuals
-  with disabilities that hinders work ability, requiring medical evidence for eligibility.
+description: Learn about Disability Allowance eligibility, necessary documents, and
+  the application process. Essential for those with disabilities needing financial
+  aid.
 draft: false
-meta_title: 'Disability Allowance: Support for People with Disabilities'
-title: 'Disability Allowance: Support for People with Disabilities'
+meta_title: 'Disability Allowance: Eligibility, Procedure, and Required Documents'
+title: 'Disability Allowance: Eligibility, Procedure, and Required Documents'
 translationKey: romania-disability_allowance
 ---
-
 
 ## Description
 ### What is it?

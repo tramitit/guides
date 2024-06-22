@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to acquire a Certificate of Slovak Ancestry to prove heritage
-  for Slovakian citizenship by descent. Required documents and procedure explained.
+description: Learn the steps and required documents to get your Certificate of Slovak
+  Ancestry and prove your right to Slovakian citizenship by descent.
 draft: false
-meta_title: 'Certificate of Slovak Ancestry: How to Obtain and Who Needs It'
-title: 'Certificate of Slovak Ancestry: How to Obtain and Who Needs It'
+meta_title: How to Obtain a Certificate of Slovak Ancestry for Citizenship
+title: How to Obtain a Certificate of Slovak Ancestry for Citizenship
 translationKey: slovakia-certificate_of_slovak_ancestry
 ---
-
 
 ## Description
 ### What is it?

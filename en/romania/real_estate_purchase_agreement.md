@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Understand the steps to finalize a property sale in Romania through a
-  legal Real Estate Purchase Agreement. Required documents and providers included.
+description: Learn how to draft a real estate purchase agreement in Romania. Discover
+  the required documents, legal procedures, and essential steps for a smooth transaction.
 draft: false
-meta_title: 'Romania Real Estate Purchase Agreement: Steps & Documents'
-title: 'Romania Real Estate Purchase Agreement: Steps & Documents'
+meta_title: Real Estate Purchase Agreement Guide for Romania - Essential Steps
+title: Real Estate Purchase Agreement Guide for Romania - Essential Steps
 translationKey: romania-real_estate_purchase_agreement
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn who needs an apostille, how to get one, required documents, costs,
-  and providers. Ensure to plan ahead as the process may take weeks.
+description: Learn the steps to get an Apostille for documents needed abroad. Includes
+  required papers and procedure to authenticate your official documents.
 draft: false
-meta_title: 'Apostille: International Certificate for Foreign Document Validation'
-title: 'Apostille: International Certificate for Foreign Document Validation'
+meta_title: How to Obtain an Apostille for International Document Use
+title: How to Obtain an Apostille for International Document Use
 translationKey: austria-apostille_application
 ---
-
 
 ## Description
 

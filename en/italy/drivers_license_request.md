@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn the steps to obtain an Italian driver’s license, from registration
-  to exams, including necessary documents and fees.
+description: Discover the steps and requirements to get a driver’s license in Italy,
+  from registration to examinations. Essential for residents and tourists.
 draft: false
-meta_title: Guidelines for Obtaining an Italian Driver’s License
-title: Guidelines for Obtaining an Italian Driver’s License
+meta_title: 'How to Obtain a Driver’s License in Italy: A Complete Guide'
+title: 'How to Obtain a Driver’s License in Italy: A Complete Guide'
 translationKey: italy-drivers_license_request
 ---
-
 
 ## Description
 ### What is it?

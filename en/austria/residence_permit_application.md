@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how to apply for a residence permit in Austria and the required
-  documents. Follow a comprehensive guide for a smoother application process.
+description: Learn how to obtain an Austrian residence permit, necessary documents,
+  and step-by-step application process to stay legally in Austria.
 draft: false
-meta_title: 'Austria Residence Permit: Application Procedure & Required Documents'
-title: 'Austria Residence Permit: Application Procedure & Required Documents'
+meta_title: 'Austrian Residence Permit: Requirements and Application Steps'
+title: 'Austrian Residence Permit: Requirements and Application Steps'
 translationKey: austria-residence_permit_application
 ---
-
 
 ## Description
 ### What is it?

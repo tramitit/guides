@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to apply for a Slovak Passport, verify citizenship, required
-  documents, and procedure. Ensure accuracy and avoid delays in processing.
+description: Learn the essential steps and required documents for Slovak citizens
+  to apply for a passport. Ensure your application is accurate to avoid delays.
 draft: false
-meta_title: 'Slovak Passport Application: Procedure, Required Documents'
-title: 'Slovak Passport Application: Procedure, Required Documents'
+meta_title: 'How to Apply for a Slovak Passport: A Step-by-Step Guide'
+title: 'How to Apply for a Slovak Passport: A Step-by-Step Guide'
 translationKey: slovakia-issuance_of_passport
 ---
-
 
 ## Description
 ### What is it?

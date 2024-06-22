@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to obtain a German Führungszeugnis, required for jobs, visas,
-  and citizenship. Process, documents, providers, and key details explained thoroughly.
+description: Learn how to apply for a Führungszeugnis in Germany, required documents,
+  procedure, and important details. Ensure you have a clear criminal record.
 draft: false
-meta_title: 'Germany Certificate of Conduct: Application Guide & Details'
-title: 'Germany Certificate of Conduct: Application Guide & Details'
+meta_title: How to Obtain a Certificate of Conduct in Germany (Führungszeugnis)
+title: How to Obtain a Certificate of Conduct in Germany (Führungszeugnis)
 translationKey: germany-application_for_a_certificate_of_conduct
 ---
-
 
 ## Description
 ### What is it?

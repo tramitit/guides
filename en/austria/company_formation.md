@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn the steps to legally incorporate a business in Austria as a limited
-  company. Discover required documents & essential providers with cost details.
+description: Learn how to legally form a company in Austria, including required documents,
+  steps for registration, and important considerations for entrepreneurs.
 draft: false
-meta_title: 'Company Formation in Austria: Procedures & Necessary Documents'
-title: 'Company Formation in Austria: Procedures & Necessary Documents'
+meta_title: 'Guide to Forming a Company in Austria: Essential Steps and Tips'
+title: 'Guide to Forming a Company in Austria: Essential Steps and Tips'
 translationKey: austria-company_formation
 ---
-
 
 ## Description
 ### What is it?

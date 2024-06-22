@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: 2024-05-22 05:00:00+00:00
-description: Learn the necessary steps and documents required to complete the S-1
-  Declaration for funds moved to Spain, a crucial document monitored by Spanish authorities.
+description: Learn how to complete the S-1 Declaration for money moved to Spain. Follow
+  our guide to understand the procedure, required documents, and key timelines.
 draft: false
-meta_title: 'S-1 Declaration for Money Moved to Spain: Procedure & Documents'
+meta_title: 'S-1 Declaration: How to Declare Money Moved to Spain'
 tags:
 - Foreigners
-title: 'S-1 Declaration for Money Moved to Spain: Procedure & Documents'
+title: 'S-1 Declaration: How to Declare Money Moved to Spain'
 ---
-
 
 ## Description
 

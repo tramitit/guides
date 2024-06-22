@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn the process for obtaining a marriage certificate, required documents,
-  and tips for EU and non-EU couples. Ensure smooth registration of your marriage.
+description: Learn the steps to get a marriage certificate, including gathering documents,
+  submission process, and what to expect during processing.
 draft: false
-meta_title: 'How to Obtain a Marriage Certificate: Step-by-Step Guide'
-title: 'How to Obtain a Marriage Certificate: Step-by-Step Guide'
+meta_title: 'How to Obtain a Marriage Certificate: Requirements and Procedure'
+title: 'How to Obtain a Marriage Certificate: Requirements and Procedure'
 translationKey: spain-marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

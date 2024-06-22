@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn how to apply for a Return Authorization in Spain, a permit for
-  non-EU residents with expired residency cards awaiting renewal.
+description: Learn how non-EU residents in Spain can obtain a Return Authorization
+  when awaiting residency renewal, including steps, documents, and fees.
 draft: false
-meta_title: 'Return Authorization in Spain: Procedure and Requirements'
-title: 'Return Authorization in Spain: Procedure and Requirements'
+meta_title: Guide to Return Authorization for Non-EU Residents in Spain
+title: Guide to Return Authorization for Non-EU Residents in Spain
 translationKey: spain-return_authorization
 ---
+
 
 
 

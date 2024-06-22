@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to update your official address in Poland by changing your
-  PESEL number and providing required documents. Necessary for all residents.
+description: Learn how to update your registered residence address in Poland, including
+  required documents and steps. Essential for all residents moving within Poland.
 draft: false
-meta_title: Change Registered Residence Address in Poland Procedure
-title: Change Registered Residence Address in Poland Procedure
+meta_title: How to Change Your Registered Residence Address in Poland
+title: How to Change Your Registered Residence Address in Poland
 translationKey: poland-change_of_registered_residence_address
 ---
-
 
 ## Description
 ### What is it?

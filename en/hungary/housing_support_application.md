@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn about housing support in Hungary, including eligibility, required
-  documents, and the application process to assist with housing costs.
+description: Learn the eligibility, required documents, and procedure to apply for
+  housing support in Hungary. Get rent subsidies, utility assistance, and more.
 draft: false
-meta_title: 'Housing Support in Hungary: Eligibility and Application Process'
-title: 'Housing Support in Hungary: Eligibility and Application Process'
+meta_title: 'How to Apply for Housing Support in Hungary: A Step-by-Step Guide'
+title: 'How to Apply for Housing Support in Hungary: A Step-by-Step Guide'
 translationKey: hungary-housing_support_application
 ---
-
 
 ## Description
 ### What is it?

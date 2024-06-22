@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn how to apply for a Student ID card in Hungary. Obtain discounts
-  on public transport and benefits at facilities. Renewal required annually.
+description: Learn about the benefits, application process, and required documents
+  for obtaining a Student ID card in Hungary. Get discounts on transportation and
+  more.
 draft: false
-meta_title: 'Student ID Card in Hungary: Application Process & Benefits'
-title: 'Student ID Card in Hungary: Application Process & Benefits'
+meta_title: 'Hungarian Student ID Card: Benefits, Application Process & More'
+title: 'Hungarian Student ID Card: Benefits, Application Process & More'
 translationKey: hungary-student_id_application
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to request a certificate of enrollment, including required
-  documents and providers who can assist you. Prove your student status easily!
+description: Learn the essential steps and documents needed to request a certificate
+  of enrollment for students. Find out who needs it and why it's important.
 draft: false
-meta_title: 'Certificate of Enrollment: Request, Procedure & Providers'
-title: 'Certificate of Enrollment: Request, Procedure & Providers'
+meta_title: 'How to Get a Certificate of Enrollment: Steps and Requirements'
+title: 'How to Get a Certificate of Enrollment: Steps and Requirements'
 translationKey: germany-requesting_a_certificate_of_enrollment
 ---
-
 
 ## Description
 ### What is it?

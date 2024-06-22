@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn about scholarships - financial aid for education. Find out who
-  needs it, required documents, how to apply, and providers for assistance. Explore
-  now!
+description: Discover how to apply for scholarships with detailed procedures, required
+  documents, and additional tips for success. Ideal for students at any academic level.
 draft: false
-meta_title: 'Scholarships Guide: Requirements, Providers, and Application Procedure'
-title: 'Scholarships Guide: Requirements, Providers, and Application Procedure'
+meta_title: Comprehensive Guide to Scholarships for All Levels of Study
+title: Comprehensive Guide to Scholarships for All Levels of Study
 translationKey: france-scholarship_application
 ---
-
 
 ## Description
 ### What is it?

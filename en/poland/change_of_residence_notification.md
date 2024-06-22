@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how to inform Poland's national registry of your new address. Procedure,
-  required documents, providers, and key details for change of residence.
+description: Learn the crucial steps and required documents for notifying a change
+  of residence in Poland, applicable to citizens and residents within 14 days of moving.
 draft: false
-meta_title: 'Change of Residence Notification in Poland: Procedure & Documents'
-title: 'Change of Residence Notification in Poland: Procedure & Documents'
+meta_title: 'Change of Residence Notification in Poland: Steps and Requirements'
+title: 'Change of Residence Notification in Poland: Steps and Requirements'
 translationKey: poland-change_of_residence_notification
 ---
-
 
 ## Description
 

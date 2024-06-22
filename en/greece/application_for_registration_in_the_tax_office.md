@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Step-by-step process for individuals and businesses to obtain a tax number
-  in Greece for financial transactions. Ensure accuracy of documents to avoid delays.
+description: Learn how to get your tax number (AFM) from the Greek Tax Office. Essential
+  for renting, working, or setting up a business in Greece. Step-by-step process.
 draft: false
-meta_title: 'Greek Tax Office Registration Guide: Getting Your AFM'
-title: 'Greek Tax Office Registration Guide: Getting Your AFM'
+meta_title: Guide to Registering in the Greek Tax Office for an AFM
+title: Guide to Registering in the Greek Tax Office for an AFM
 translationKey: greece-application_for_registration_in_the_tax_office
 ---
-
 
 ## Description
 ### What is it?

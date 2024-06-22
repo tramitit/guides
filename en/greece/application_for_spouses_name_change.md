@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: Step-by-step guide for newlyweds to change their last name in Greece,
-  covering needed documents, procedures, and service providers for help.
+description: Learn the steps and required documents for a name change after marriage
+  in Greece. Includes key details and service providers to expedite the process.
 draft: false
-meta_title: Guide to Changing Your Name After Marriage in Greece
-title: Guide to Changing Your Name After Marriage in Greece
+meta_title: Guide to Changing Your Last Name After Marriage in Greece
+title: Guide to Changing Your Last Name After Marriage in Greece
 translationKey: greece-application_for_spouses_name_change
 ---
-
 
 ## Description
 ### What is it?

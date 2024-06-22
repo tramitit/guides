@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn how to report healthcare, education, and housing expenses using
-  IRS Anexo H in Portugal to claim your tax deductions. Follow this step-by-step guide.
+description: Learn how to fill out IRS Anexo H to report healthcare, education, rent,
+  and other deductible expenses in your Portuguese tax declaration.
 draft: false
-meta_title: Guide to Filing IRS Anexo H in Portugal for Tax Deductions
-title: Guide to Filing IRS Anexo H in Portugal for Tax Deductions
+meta_title: 'IRS Anexo H: Guide to Reporting Tax Deductible Expenses in Portugal'
+title: 'IRS Anexo H: Guide to Reporting Tax Deductible Expenses in Portugal'
 translationKey: portugal-irs_anexo_h
 ---
+
 
 
 

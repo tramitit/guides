@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn the steps and requirements for applying for a Portuguese passport.
-  Check eligibility, prepare documents, make an appointment, and understand costs.
+description: Learn the step-by-step process to apply for a Portuguese passport, required
+  documents, fees, and processing times. Essential for Portuguese citizens.
 draft: false
-meta_title: 'How to Apply for a Portuguese Passport: A Step-by-Step Guide'
-title: 'How to Apply for a Portuguese Passport: A Step-by-Step Guide'
+meta_title: 'How to Obtain a Portuguese Passport: Step-by-Step Guide'
+title: 'How to Obtain a Portuguese Passport: Step-by-Step Guide'
 translationKey: portugal-request_for_portuguese_passport
 ---
-
 
 ## Description
 ### What is it?

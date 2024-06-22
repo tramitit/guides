@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn the steps, documents needed, and providers for deregistering your
-  residence when relocating or leaving Germany or Austria permanently.
+description: Learn the process and requirements for deregistering your residence in
+  Germany or Austria, including necessary forms and key steps to follow.
 draft: false
-meta_title: Deregistration of Residence in Germany and Austria Guide
-title: Deregistration of Residence in Germany and Austria Guide
+meta_title: Guide to Deregistration of Residence in Germany and Austria
+title: Guide to Deregistration of Residence in Germany and Austria
 translationKey: austria-deregistration_of_residence
 ---
-
 
 ## Description
 ### What is it?

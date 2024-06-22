@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn the steps and required documents for legal vehicle registration
-  when importing a car from abroad, including costs and alternative considerations.
+description: Learn the steps and documents needed for vehicle registration when importing
+  a car. Follow our guide to ensure legal compliance and smooth registration.
 draft: false
-meta_title: 'Vehicle Registration Process: Importing a Car from Abroad'
-title: 'Vehicle Registration Process: Importing a Car from Abroad'
+meta_title: Essential Guide to Vehicle Registration for Imported Cars
+title: Essential Guide to Vehicle Registration for Imported Cars
 translationKey: czech-republic-registration_of_a_vehicle_imported_from_abroad
 ---
-
 
 ## Description
 ### What is it?

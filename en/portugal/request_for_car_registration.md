@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-07'
-description: Learn how to register a car in Portugal including necessary documents
-  & steps. Find providers like IMT offering varying timelines & costs for the service.
+description: Learn the essential steps and required documents for car registration,
+  whether new or used, including foreign vehicles. Easily navigate the process.
 draft: false
-meta_title: 'Car Registration Process in Portugal: Steps, Documents & Providers'
-title: 'Car Registration Process in Portugal: Steps, Documents & Providers'
+meta_title: 'Complete Guide to Car Registration: Steps and Documents Required'
+title: 'Complete Guide to Car Registration: Steps and Documents Required'
 translationKey: portugal-request_for_car_registration
 ---
-
 
 ## Description
 ### What is it?

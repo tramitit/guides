@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn how and who needs to renew their Austrian driver's license, with
-  steps, documents required, and consequences of not renewing promptly.
+description: Learn the essential steps and documents needed for renewing your driver's
+  license in Austria. Avoid fines; keep your license up-to-date.
 draft: false
-meta_title: 'Austria Driver''s License Renewal: How, Who, and Required Documents'
-title: 'Austria Driver''s License Renewal: How, Who, and Required Documents'
+meta_title: 'Renew Your Driver''s License in Austria: Steps & Requirements'
+title: 'Renew Your Driver''s License in Austria: Steps & Requirements'
 translationKey: austria-drivers_license_renewal
 ---
-
 
 ## Description
 ### What is it?

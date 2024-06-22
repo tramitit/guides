@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn the steps, requirements, and providers for getting a driving license
-  in the Czech Republic for various vehicles.
+description: Learn the steps, documentation, and tests needed to obtain a driving
+  license in the Czech Republic. Comprehensive guide for residents and expats.
 draft: false
-meta_title: How to Obtain a Driving License in the Czech Republic
-title: How to Obtain a Driving License in the Czech Republic
+meta_title: 'Czech Republic Driving License: Steps and Requirements Guide'
+title: 'Czech Republic Driving License: Steps and Requirements Guide'
 translationKey: czech-republic-application_for_a_driving_licence
 ---
-
 
 ## Description
 ### What is it?

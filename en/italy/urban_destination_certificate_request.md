@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to get an Urban Destination Certificate, required for property
-  changes, transactions. Follow steps, submit documents & check local council for
-  info.
+description: Learn about the Urban Destination Certificate, its requirements, and
+  procedure for property changes or transactions. Check local council requirements.
 draft: false
-meta_title: 'Urban Destination Certificate: How to Obtain & Why You Need It'
-title: 'Urban Destination Certificate: How to Obtain & Why You Need It'
+meta_title: 'Urban Destination Certificate: Essential for Property Changes'
+title: 'Urban Destination Certificate: Essential for Property Changes'
 translationKey: italy-urban_destination_certificate_request
 ---
-
 
 ## Description
 ### What is it?

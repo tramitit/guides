@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn about obtaining a Titre de Séjour in France. Procedures, required
-  documents, and tips for non-EU citizens. Patience is key for bureaucratic delays.
+description: Learn the essential steps and required documents to apply for a residence
+  permit in France, including preparation, appointment, and application submission.
 draft: false
-meta_title: 'French Residence Permit: Application Process for Non-EU Nationals'
-title: 'French Residence Permit: Application Process for Non-EU Nationals'
+meta_title: 'How to Obtain a Residence Permit in France: A Step-by-Step Guide'
+title: 'How to Obtain a Residence Permit in France: A Step-by-Step Guide'
 translationKey: france-residence_permit_application
 ---
-
 
 ## Description
 ### What is it?

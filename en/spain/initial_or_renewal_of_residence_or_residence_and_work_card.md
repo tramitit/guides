@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Detailed guide on how to apply for or renew a residence or work card
-  in Spain, including required documents, steps, and providers to assist you.
+description: Learn the steps to apply for or renew a residence or residence and work
+  card in Spain. Includes required documents, fees, and appointment scheduling details.
 draft: false
-meta_title: 'Residence or Work Card Application Process in Spain: A Guide'
-title: 'Residence or Work Card Application Process in Spain: A Guide'
+meta_title: Guide to Applying for Residence or Work Card in Spain
+title: Guide to Applying for Residence or Work Card in Spain
 translationKey: spain-initial_or_renewal_of_residence_or_residence_and_work_card
 ---
-
 
 ## Description
 ### What is it?

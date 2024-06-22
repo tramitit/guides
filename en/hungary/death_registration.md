@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn the process of death registration in Hungary, who needs to do it,
-  required documents, and where to go for assistance. Ensure legal compliance.
+description: Learn the steps and required documents for registering a death in Hungary.
+  Essential for relatives or officials handling the deceased's affairs.
 draft: false
-meta_title: 'How to Register a Death in Hungary: Step-by-Step Guide'
-title: 'How to Register a Death in Hungary: Step-by-Step Guide'
+meta_title: 'How to Register a Death in Hungary: A Step-by-Step Guide'
+title: 'How to Register a Death in Hungary: A Step-by-Step Guide'
 translationKey: hungary-death_registration
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Erfahren Sie, wie Sie in Österreich Mindestsicherung beantragen, wenn
-  Sie finanzielle Schwierigkeiten haben - von den Anforderungen bis zur Dokumentation.
+description: Learn about Mindestsicherung in Austria - eligibility, required documents,
+  and the application process. Ideal for residents facing financial hardship.
 draft: false
-meta_title: So erhalten Sie die Mindestsicherung in Österreich
-title: So erhalten Sie die Mindestsicherung in Österreich
+meta_title: Understanding and Applying for Basic Social Security in Austria
+title: Understanding and Applying for Basic Social Security in Austria
 translationKey: austria-minimum_security_application
 ---
-
 
 ## Description
 ### What is it?

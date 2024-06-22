@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to update your Italian tax code after life changes. Get steps,
-  documents needed, and assistance options. Act fast to prevent issues with tax filings.
+description: Learn when and how to update your Italian tax code with Agenzia delle
+  Entrate. Find out required documents and seek expert help for smooth processing.
 draft: false
-meta_title: 'Changing Your Italian Tax Code: Procedure & Required Documents'
-title: 'Changing Your Italian Tax Code: Procedure & Required Documents'
+meta_title: 'How to Change Your Tax Code in Italy: A Complete Guide'
+title: 'How to Change Your Tax Code in Italy: A Complete Guide'
 translationKey: italy-tax_code_change
 ---
-
 
 ## Description
 ### What is it?

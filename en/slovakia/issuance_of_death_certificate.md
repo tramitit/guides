@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to apply for a death certificate, required documents, application
-  steps, provider details, and importance of this legal document for various purposes.
+description: Learn how to obtain a death certificate including the necessary documents,
+  application steps, and legal importance for settling estates and other matters.
 draft: false
-meta_title: 'Death Certificate Issuance: Process, Documents & Providers'
-title: 'Death Certificate Issuance: Process, Documents & Providers'
+meta_title: 'How to Obtain a Death Certificate: Steps and Requirements'
+title: 'How to Obtain a Death Certificate: Steps and Requirements'
 translationKey: slovakia-issuance_of_death_certificate
 ---
-
 
 ## Description
 ### What is it?

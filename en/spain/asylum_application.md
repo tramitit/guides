@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to apply for asylum in Spain through the OAR, requirements,
-  procedure, and needed documents. Legal protection for those facing persecution abroad.
+description: Learn the steps to apply for asylum in Spain, including required documents,
+  detailed procedures, and key information for a successful application.
 draft: false
-meta_title: 'Asylum Application in Spain: Process, Documents, and Providers'
-title: 'Asylum Application in Spain: Process, Documents, and Providers'
+meta_title: 'Guide to Applying for Asylum in Spain: Step-by-Step Process'
+title: 'Guide to Applying for Asylum in Spain: Step-by-Step Process'
 translationKey: spain-asylum_application
 ---
-
 
 ## Description
 ### What is it?

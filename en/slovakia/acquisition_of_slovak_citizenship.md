@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to acquire Slovak citizenship by descent, marriage, or naturalization.
-  Requirements, procedures, and recommended providers for a smooth process.
+description: Learn how to acquire Slovak Republic citizenship through descent, marriage,
+  or naturalization. Follow our step-by-step process and gather required documents.
 draft: false
-meta_title: 'Slovak Republic Citizenship: Eligibility, Process & Providers'
-title: 'Slovak Republic Citizenship: Eligibility, Process & Providers'
+meta_title: Guide to Acquiring Slovak Republic Citizenship by Descent or Marriage
+title: Guide to Acquiring Slovak Republic Citizenship by Descent or Marriage
 translationKey: slovakia-acquisition_of_slovak_citizenship
 ---
-
 
 ## Description
 

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Step-by-step process and required documents for international students
-  to enroll in universities in Croatia, Poland, and India. Visa application included.
+description: Prepare for enrollment in universities in Croatia, Poland, and India
+  with this guide for international students, covering requirements and procedures.
 draft: false
-meta_title: Guide for International Student Enrollment in Croatia, Poland, India
-title: Guide for International Student Enrollment in Croatia, Poland, India
+meta_title: Guide to University Enrollment for International Students
+title: Guide to University Enrollment for International Students
 translationKey: croatia-documentation_for_university_enrollment
 ---
-
 
 ## Description
 ### What is it?

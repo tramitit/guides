@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn the step-by-step process and required documents to get a birth
-  certificate in Austria. Detailed guide on application, fees, providers, and timelines.
+description: Learn the steps to apply for an Austrian birth certificate, required
+  documents, and tips for applying locally or from abroad.
 draft: false
-meta_title: 'How to Obtain a Birth Certificate in Austria: A Guide'
-title: 'How to Obtain a Birth Certificate in Austria: A Guide'
+meta_title: 'How to Obtain a Birth Certificate in Austria: A Complete Guide'
+title: 'How to Obtain a Birth Certificate in Austria: A Complete Guide'
 translationKey: austria-birth_certificate_application
 ---
+
 
 
 

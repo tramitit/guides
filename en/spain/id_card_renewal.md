@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Guide on how Spanish citizens renew their expired or soon-to-be expired
-  DNI, including required documents, procedure steps, and key details. Find out more!
+description: Learn how to renew your expired Spanish DNI with this guide. Find out
+  the necessary documents and steps for both residents and non-residents.
 draft: false
-meta_title: 'Renewing Your Expired Spanish ID (DNI): Procedures & Documents'
-title: 'Renewing Your Expired Spanish ID (DNI): Procedures & Documents'
+meta_title: 'How to Renew Your Expired Spanish DNI: A Step-by-Step Guide'
+title: 'How to Renew Your Expired Spanish DNI: A Step-by-Step Guide'
 translationKey: spain-id_card_renewal
 ---
-
 
 ## Description
 ### What is it?

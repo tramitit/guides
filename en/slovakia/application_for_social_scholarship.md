@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn about social scholarships in Slovakia, eligibility, required documents,
-  and application steps to support students facing economic or academic challenges.
+description: Learn how to apply for social scholarships in Slovakia. Find eligibility
+  criteria, necessary documents, application procedures, and additional details here.
 draft: false
-meta_title: 'Social Scholarships in Slovakia: Eligibility and Application Guide'
-title: 'Social Scholarships in Slovakia: Eligibility and Application Guide'
+meta_title: 'Social Scholarships in Slovakia: Financial Support for Students'
+title: 'Social Scholarships in Slovakia: Financial Support for Students'
 translationKey: slovakia-application_for_social_scholarship
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn about maternity benefit in Germany - who needs it, how to apply,
-  required documents, and key details. Get financial help during maternity leave.
+description: Explore how maternity benefits work in Germany, including application
+  steps and required documents, for expectant mothers with statutory health insurance.
 draft: false
-meta_title: 'Maternity Benefit in Germany: Guide to Financial Support'
-title: 'Maternity Benefit in Germany: Guide to Financial Support'
+meta_title: 'Understanding Maternity Benefits in Germany: A Quick Guide'
+title: 'Understanding Maternity Benefits in Germany: A Quick Guide'
 translationKey: germany-applying_for_maternity_benefit
 ---
-
 
 ## Description
 ### What is it?

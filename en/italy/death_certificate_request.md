@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: 'Scopri come richiedere un certificato di morte in Italia: procedure,
-  documenti necessari e consigli utili per un processo rapido ed efficace.'
+description: Learn the steps to request a death certificate in Italy. Gather information,
+  write a formal letter, and follow up with the comune for timely retrieval.
 draft: false
-meta_title: 'Richiedere un Certificato di Morte in Italia: Procedura Dettagliata'
-title: 'Richiedere un Certificato di Morte in Italia: Procedura Dettagliata'
+meta_title: How to Obtain a Death Certificate from an Italian Comune
+title: How to Obtain a Death Certificate from an Italian Comune
 translationKey: italy-death_certificate_request
 ---
-
 
 ## Description
 ### What is it?

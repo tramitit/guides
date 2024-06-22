@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Learn who needs an Austrian ID card, the application process with required
-  documents, provider details, and card validity periods in Austria.
+description: Learn the step-by-step process to apply for an Austrian ID card, required
+  documents, eligibility, and validity for different age groups.
 draft: false
-meta_title: 'Austrian ID Card Application: Procedure & Requirements'
-title: 'Austrian ID Card Application: Procedure & Requirements'
+meta_title: 'How to Apply for an Austrian ID Card: Requirements & Procedure'
+title: 'How to Apply for an Austrian ID Card: Requirements & Procedure'
 translationKey: austria-id_card_application
 ---
-
 
 ## Description
 ### What is it?

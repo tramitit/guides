@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn the process to legally register your newborn child, necessary for
-  nationality & immigration. Required documents & provider details included.
+description: Learn how to legally register your child's birth with local authorities.
+  Discover the required steps and documents for the birth registration process.
 draft: false
-meta_title: 'Child Birth Notification: How to Register Your Newborn'
-title: 'Child Birth Notification: How to Register Your Newborn'
+meta_title: 'Officially Register Your Newborn: Essential Steps and Documents'
+title: 'Officially Register Your Newborn: Essential Steps and Documents'
 translationKey: slovakia-notification_of_childs_birth
 ---
-
 
 ## Description
 ### What is it?

@@ -3,15 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2022-12-16'
-description: Learn how to certify document translations by professional translators.
-  Find out who needs it and where to get it done, including costs and required documents.
+description: Learn about certified document translation, who needs it, and the procedure
+  to get your official documents translated accurately and recognized internationally.
 draft: false
 meta title: Certification of Document Translation - Detailed Request Procedure
-meta_title: 'Certification of Document Translation: Process and Providers'
-title: 'Certification of Document Translation: Process and Providers'
+meta_title: 'Certified Document Translation Services: What You Need to Know'
+title: 'Certified Document Translation Services: What You Need to Know'
 translationKey: portugal-request_for_certification_of_document_translation
 ---
-
 
 ## Description
 ### What is it?

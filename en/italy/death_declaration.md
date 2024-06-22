@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn the steps and documents required for a Death Declaration in Italy,
-  including who needs it and how to register the death legally.
+description: Learn the legal steps and required documents for Death Declaration in
+  Italy. Essential for those managing the deceased’s estate. Follow the procedure
+  timely.
 draft: false
-meta_title: 'Italian Death Declaration Procedure: Steps and Requirements'
-title: 'Italian Death Declaration Procedure: Steps and Requirements'
+meta_title: How to Handle a Death Declaration Procedure in Italy
+title: How to Handle a Death Declaration Procedure in Italy
 translationKey: italy-death_declaration
 ---
-
 
 ## Description
 ### What is it?

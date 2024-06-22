@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Belgium
 date: '2024-06-07'
-description: Learn about getting a marriage certificate, including apostille requirements
-  and translation needs. See the documents needed and a trusted provider in Belgium.
+description: Learn how to obtain a marriage certificate, including required docs,
+  procedures for apostille, and translation needs for recognition in Belgium.
 draft: false
-meta_title: 'Obtaining a Marriage Certificate: Procedures and Requirements'
-title: 'Obtaining a Marriage Certificate: Procedures and Requirements'
+meta_title: 'How to Obtain a Marriage Certificate: Steps and Requirements'
+title: 'How to Obtain a Marriage Certificate: Steps and Requirements'
 translationKey: belgium-request_for_marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

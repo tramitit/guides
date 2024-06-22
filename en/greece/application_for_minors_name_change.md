@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Greece
 date: '2024-06-07'
-description: A comprehensive guide for guardians on how to legally change a minor's
-  name, including necessary steps, required documents, and court procedures.
+description: Learn the legal steps to change a minor's name, including filing a petition,
+  court hearings, required documents, and updating records post-approval.
 draft: false
-meta_title: 'Legal Process for Changing a Minor''s Name: Steps and Requirements'
-title: 'Legal Process for Changing a Minor''s Name: Steps and Requirements'
+meta_title: 'Legal Procedure for Changing a Minor''s Name: Steps & Requirements'
+title: 'Legal Procedure for Changing a Minor''s Name: Steps & Requirements'
 translationKey: greece-application_for_minors_name_change
 ---
-
 
 ## Description
 ### What is it?

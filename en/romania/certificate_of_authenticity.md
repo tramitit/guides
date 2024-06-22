@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Romania
 date: '2024-06-07'
-description: Learn about Certificates of Authenticity, who needs them, the procedure
-  to obtain one, required documents, and key details regarding costs and timelines.
+description: Learn what a Certificate of Authenticity is, its importance, and the
+  procedure to obtain one for your valuable items like art, collectibles, and equipment.
 draft: false
-meta_title: 'Certificate of Authenticity: How to Verify and Obtain'
-title: 'Certificate of Authenticity: How to Verify and Obtain'
+meta_title: 'Certificate of Authenticity: Validate Art, Equipment & Valuables'
+title: 'Certificate of Authenticity: Validate Art, Equipment & Valuables'
 translationKey: romania-certificate_of_authenticity
 ---
-
 
 ## Description
 ### What is it?

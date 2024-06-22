@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to apply for asylum in France if you fear persecution in your
-  home country. Follow the procedure, required documents, and get legal advice for
-  free.
+description: Learn how to apply for asylum in France, required documents, and support
+  options available for individuals fearing persecution in their home countries.
 draft: false
-meta_title: 'Asylum Application Process in France: Procedure & Required Documents'
-title: 'Asylum Application Process in France: Procedure & Required Documents'
+meta_title: 'Applying for Asylum in France: Steps, Requirements, and Support'
+title: 'Applying for Asylum in France: Steps, Requirements, and Support'
 translationKey: france-asylum_application
 ---
-
 
 ## Description
 ### What is it?

@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to declare income to French tax authorities, including sources,
-  deductions, and tax treaties. Use online portal for ease. Keep records for 3 years.
+description: Learn how to declare your worldwide income to the French tax authorities
+  with our detailed guide. Includes requirements, procedure, and documents needed.
 draft: false
-meta_title: 'French Income Tax Declaration: Procedure, Providers & Docs'
-title: 'French Income Tax Declaration: Procedure, Providers & Docs'
+meta_title: 'Guide to Declaring Income Tax in France: Step-by-Step Procedure'
+title: 'Guide to Declaring Income Tax in France: Step-by-Step Procedure'
 translationKey: france-income_tax_declaration
 ---
-
 
 ## Description
 ### What is it?

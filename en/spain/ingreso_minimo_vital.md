@@ -3,16 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: 2024-05-22 05:00:00+00:00
-description: Learn about Ingreso Mínimo Vital, a social aid in Spain for those in
-  economic vulnerability. Find out who's eligible, required documents, and application
-  steps.
+description: Learn about Ingreso Mínimo Vital, a Spanish aid ensuring minimum income
+  for economically vulnerable individuals and families living in Spain. Apply anytime.
 draft: false
-meta_title: 'Ingreso Mínimo Vital in Spain: Requirements & Application Process'
+meta_title: 'Ingreso Mínimo Vital: Social Aid for Economic Vulnerability'
 tags:
 - Social Security
-title: 'Ingreso Mínimo Vital in Spain: Requirements & Application Process'
+title: 'Ingreso Mínimo Vital: Social Aid for Economic Vulnerability'
 ---
-
 
 ## Description
 

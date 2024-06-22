@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn how non-residents can file Anexo L for Portuguese IRS, including
-  steps, required documents, and submission tips.
+description: Learn about Anexo L, required for non-residents with income in Portugal.
+  Find procedures, required documents, and steps for a smooth IRS submission.
 draft: false
-meta_title: 'Anexo L: Guide for Non-Resident Income Tax Filing in Portugal'
-title: 'Anexo L: Guide for Non-Resident Income Tax Filing in Portugal'
+meta_title: 'Anexo L: IRS Supplement for Non-Residents in Portugal'
+title: 'Anexo L: IRS Supplement for Non-Residents in Portugal'
 translationKey: portugal-irs_anexo_l
 ---
+
 
 
 

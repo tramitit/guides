@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn about the steps and documents required to obtain the green NIE,
-  a necessary certificate for EU citizens residing in Spain for over three months.
+description: Learn the necessary steps to get your green NIE certificate in Spain
+  for EU citizens. Includes required documents, appointment scheduling, and more.
 draft: false
-meta_title: How to Obtain a Resident Certificate in Spain (Green NIE)
-title: How to Obtain a Resident Certificate in Spain (Green NIE)
+meta_title: How to Obtain a Green NIE Resident Certificate in Spain
+title: How to Obtain a Green NIE Resident Certificate in Spain
 translationKey: spain-resident_certificate
 ---
-
 
 ## Description
 ### What is it?

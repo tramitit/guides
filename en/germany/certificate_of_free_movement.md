@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to obtain a Free Movement Certificate in Germany. Detailed
-  procedure for EU, EEA, Swiss citizens on visa-free living, working, and studying.
+description: Learn how EU, EEA, and Swiss citizens can apply for a Certificate of
+  Free Movement in Germany, including required documents and procedure.
 draft: false
-meta_title: 'Certificate of Free Movement: Guide for EU, EEA, Swiss Citizens'
-title: 'Certificate of Free Movement: Guide for EU, EEA, Swiss Citizens'
+meta_title: Guide to Obtaining a Certificate of Free Movement in Germany
+title: Guide to Obtaining a Certificate of Free Movement in Germany
 translationKey: germany-certificate_of_free_movement
 ---
-
 
 ## Description
 ### What is it?

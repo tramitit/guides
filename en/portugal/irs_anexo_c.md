@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: Learn step-by-step how self-employed individuals in Portugal can submit
-  IRS Anexo C with their annual tax returns. Follow our detailed procedure.
+description: Learn how to complete and submit IRS Anexo C for self-employed income
+  in Portugal. Follow step-by-step instructions and avoid common errors.
 draft: false
-meta_title: Complete Guide to IRS Anexo C for Self-Employed in Portugal
-title: Complete Guide to IRS Anexo C for Self-Employed in Portugal
+meta_title: Guide to IRS Anexo C for Self-Employed in Portugal - 2023
+title: Guide to IRS Anexo C for Self-Employed in Portugal - 2023
 translationKey: portugal-irs_anexo_c
 ---
+
 
 
 

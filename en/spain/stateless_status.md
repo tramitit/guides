@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Learn about stateless status, its significance, and the step-by-step
-  procedure for application, along with required documents and eligibility criteria.
+description: Learn about stateless status, who needs it, the application process,
+  required documents, and available support for individuals without nationality.
 draft: false
-meta_title: Comprehensive Guide on Stateless Status and Application Process
-title: Comprehensive Guide on Stateless Status and Application Process
+meta_title: 'Understanding Stateless Status: Eligibility and Procedure Guide'
+title: 'Understanding Stateless Status: Eligibility and Procedure Guide'
 translationKey: spain-stateless_status
 ---
-
 
 ## Description
 ### What is it?

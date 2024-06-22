@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn the legal requirement of Anmeldung in Germany for all residents.
-  Find steps, required documents, and key details to avoid fines or issues.
+description: Learn the legal requirements and steps to register your residence in
+  Germany, including required documents and booking appointments at the Bürgeramt.
 draft: false
-meta_title: 'Registering your residence in Germany: Anmeldung process'
-title: 'Registering your residence in Germany: Anmeldung process'
+meta_title: 'Anmeldung in Germany: Residence Registration Guide'
+title: 'Anmeldung in Germany: Residence Registration Guide'
 translationKey: germany-registration_of_residence
 ---
-
 
 ## Description
 ### What is it?

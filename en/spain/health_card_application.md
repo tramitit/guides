@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-07'
-description: Learn how to obtain the 'Tarjeta Sanitaria Europea' to access healthcare
-  benefits in Spain. Process, required docs, and additional info provided.
+description: Learn the steps to obtain the Health Card (TSE) in Spain, including necessary
+  documents, procedure, and eligibility for residents and digital nomads.
 draft: false
-meta_title: 'How to Get Your Health Card in Spain: Process & Details'
-title: 'How to Get Your Health Card in Spain: Process & Details'
+meta_title: 'How to Get Your Health Card in Spain: Essential Guide (TSE)'
+title: 'How to Get Your Health Card in Spain: Essential Guide (TSE)'
 translationKey: spain-health_card_application
 ---
-
 
 ## Description
 ### What is it?

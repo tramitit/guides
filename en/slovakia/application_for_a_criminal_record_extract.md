@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to obtain a Criminal Record Extract in Slovakia for employment,
-  immigration or legal purposes. Steps, required documents, and providers included.
+description: Learn how to apply for a Criminal Record Extract in Slovakia, including
+  required documents and procedure. Ideal for job seekers, immigrants, and legal matters.
 draft: false
-meta_title: 'Criminal Record Extract in Slovakia: Procedure & Providers'
-title: 'Criminal Record Extract in Slovakia: Procedure & Providers'
+meta_title: How to Obtain a Criminal Record Extract in Slovakia
+title: How to Obtain a Criminal Record Extract in Slovakia
 translationKey: slovakia-application_for_a_criminal_record_extract
 ---
-
 
 ## Description
 ### What is it?

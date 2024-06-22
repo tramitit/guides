@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Nutzen Sie FinanzOnline für schnelle und bequeme Steuererklärungen in
-  Österreich. Registrieren Sie sich einfach und sicher online mit persönlichen Angaben.
+description: Finance Online is Austria's government platform for hassle-free tax filing.
+  Residents can register easily and manage taxes efficiently in German.
 draft: false
-meta_title: 'FinanzOnline: Österreichs Plattform für einfache Steuererklärungen'
-title: 'FinanzOnline: Österreichs Plattform für einfache Steuererklärungen'
+meta_title: 'Finance Online: Austria''s Convenient Tax Filing Platform'
+title: 'Finance Online: Austria''s Convenient Tax Filing Platform'
 translationKey: austria-finance_online_registration
 ---
-
 
 ## Description
 ### What is it?

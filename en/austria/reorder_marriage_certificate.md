@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Austria
 date: '2024-06-07'
-description: Lost your marriage certificate? Learn how to reorder it, including required
-  documents and using providers. Ensure legal compliance and accuracy in process.
+description: Learn how to reorder a lost or damaged marriage certificate. Follow our
+  step-by-step guide to identify, apply, and receive a duplicate document.
 draft: false
-meta_title: 'Reorder Marriage Certificate: Procedure, Documents & Providers'
-title: 'Reorder Marriage Certificate: Procedure, Documents & Providers'
+meta_title: 'How to Reorder Your Marriage Certificate: A Comprehensive Guide'
+title: 'How to Reorder Your Marriage Certificate: A Comprehensive Guide'
 translationKey: austria-reorder_marriage_certificate
 ---
-
 
 ## Description
 ### What is it?

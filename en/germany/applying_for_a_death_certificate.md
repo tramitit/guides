@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Germany
 date: '2024-06-07'
-description: Learn how to apply and acquire a death certificate in Germany. Necessary
-  documents, procedures to follow, and information on providers available for assistance.
+description: Learn the steps and required documents to obtain a death certificate.
+  Understand who needs it and how to apply for it effectively.
 draft: false
-meta_title: 'Obtaining a Death Certificate in Germany: Procedures and Providers'
-title: 'Obtaining a Death Certificate in Germany: Procedures and Providers'
+meta_title: 'How to Obtain a Death Certificate: Steps and Requirements'
+title: 'How to Obtain a Death Certificate: Steps and Requirements'
 translationKey: germany-applying_for_a_death_certificate
 ---
-
 
 ## Description
 ### What is it?

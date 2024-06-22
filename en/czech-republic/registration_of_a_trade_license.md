@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Czech Republic
 date: '2024-06-07'
-description: Learn how to get a Trade License (Živnostenský list) in the Czech Republic
-  as an individual or business owner. Steps, requirements, and providers included.
+description: Learn how to apply for a Trade License in the Czech Republic, including
+  necessary steps, required documents, and helpful tips for EU and non-EU citizens.
 draft: false
-meta_title: Trade License (Živnostenský list) in Czech Republic
-title: Trade License (Živnostenský list) in Czech Republic
+meta_title: Guide to Obtaining a Trade License in the Czech Republic
+title: Guide to Obtaining a Trade License in the Czech Republic
 translationKey: czech-republic-registration_of_a_trade_license
 ---
-
 
 ## Description
 ### What is it?

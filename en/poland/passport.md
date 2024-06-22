@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Poland
 date: '2024-06-07'
-description: Learn how Polish citizens can apply for a Polish Passport, including
-  eligibility verification, required documents, application submission, and processing
-  times.
+description: Learn how Polish citizens can apply for a passport. Follow the step-by-step
+  procedure, meet eligibility criteria, and gather required documents for processing.
 draft: false
-meta_title: 'How to Obtain a Polish Passport: Application Process & Requirements'
-title: 'How to Obtain a Polish Passport: Application Process & Requirements'
+meta_title: 'How to Apply for a Polish Passport: Procedure and Requirements'
+title: 'How to Apply for a Polish Passport: Procedure and Requirements'
 translationKey: poland-passport
 ---
-
 
 ## Description
 ### What is it?

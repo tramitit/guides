@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Guía completa sobre el cambio de residencia, pasos esenciales y documentos
-  necesarios para una transición sin problemas a un nuevo domicilio.
+description: Learn how to officially switch your domicile, update your passport, notify
+  banks, and more. Ensure smooth transition with our step-by-step guide.
 draft: false
-meta_title: 'Cambio de residencia: Procedimientos y documentos necesarios'
-title: 'Cambio de residencia: Procedimientos y documentos necesarios'
+meta_title: Guide to Official Change of Residence Procedures and Requirements
+title: Guide to Official Change of Residence Procedures and Requirements
 translationKey: italy-change_of_residence
 ---
-
 
 ## Description
 ### What is it?

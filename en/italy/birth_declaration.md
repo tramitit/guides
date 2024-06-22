@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Learn how to register a newborn in Italy through a Birth Declaration.
-  Process, documents needed & local providers offering this service within 10 days
-  of birth.
+description: Learn the process of registering a newborn in Italy, including required
+  documents, timelines, and steps at the Vital Statistics Office.
 draft: false
-meta_title: 'Italy Birth Declaration: Procedure, Required Docs & Providers'
-title: 'Italy Birth Declaration: Procedure, Required Docs & Providers'
+meta_title: 'Birth Declaration in Italy: Procedure and Required Documents'
+title: 'Birth Declaration in Italy: Procedure and Required Documents'
 translationKey: italy-birth_declaration
 ---
-
 
 ## Description
 ### What is it?

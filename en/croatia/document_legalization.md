@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Croatia
 date: '2024-06-08'
-description: Learn how to legalize your documents for use in Croatia. Discover the
-  required steps, documents, and providers. Ensure compliance effortlessly!
+description: Learn the steps and requirements for legalizing documents for Croatia,
+  including translations, notarizations, and apostilles for various legal procedures.
 draft: false
-meta_title: 'Croatia Legalization Guide: Authenticate Your Legal Documents'
-title: 'Croatia Legalization Guide: Authenticate Your Legal Documents'
+meta_title: 'Legalizing Documents for Use in Croatia: A Comprehensive Guide'
+title: 'Legalizing Documents for Use in Croatia: A Comprehensive Guide'
 translationKey: croatia-document_legalization
 ---
-
 
 ## Description
 ### What is it?

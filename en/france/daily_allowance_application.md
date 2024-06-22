@@ -3,15 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn how to apply for daily sick leave allowances in France through
-  the Social Security system. Get financial support when unfit for work due to health
-  issues.
+description: Learn about daily allowance for employees unable to work due to sickness
+  or accident, including procedures, required documents, and more.
 draft: false
-meta_title: Daily Allowance (Indemnité Journalière) Process in France
-title: Daily Allowance (Indemnité Journalière) Process in France
+meta_title: Understanding Daily Allowance for Employees in France
+title: Understanding Daily Allowance for Employees in France
 translationKey: france-daily_allowance_application
 ---
-
 
 ## Description
 ### What is it?

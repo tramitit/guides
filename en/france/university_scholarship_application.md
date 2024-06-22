@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Discover steps to secure financial aid for university studies in France.
-  Find scholarships, prepare documents, and boost your application for success.
+description: Learn the steps to apply for university scholarships in France, including
+  eligibility, required documents, and how to submit your application effectively.
 draft: false
-meta_title: 'Applying for University Scholarships in France: A Comprehensive Guide'
-title: 'Applying for University Scholarships in France: A Comprehensive Guide'
+meta_title: Guide to Applying for Scholarships to Study in France
+title: Guide to Applying for Scholarships to Study in France
 translationKey: france-university_scholarship_application
 ---
-
 
 ## Description
 ### What is it?

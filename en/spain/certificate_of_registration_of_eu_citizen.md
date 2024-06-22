@@ -3,13 +3,14 @@ author: Ricardo Batista
 categories:
 - Spain
 date: '2024-06-20'
-description: Step-by-step guide for EU citizens to obtain the Certificate of Registration
-  in Spain. Essential documents, procedure, and tips for a smooth process.
+description: Learn how EU citizens can register in Spain with the green NIE, including
+  required documents and procedure steps. Essential for living, working, or studying.
 draft: false
-meta_title: How to Get an EU Citizen Registration Certificate in Spain
-title: How to Get an EU Citizen Registration Certificate in Spain
+meta_title: Guide to EU Citizen Registration Certificate in Spain
+title: Guide to EU Citizen Registration Certificate in Spain
 translationKey: spain-certificate_of_registration_of_eu_citizen
 ---
+
 
 
 

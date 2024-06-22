@@ -11,8 +11,6 @@ title: Comment s'inscrire sur les listes électorales en France
 translationKey: france-voter_registration
 ---
 
-
-
 ## Description
 ### Qu'est-ce que c'est?
 L'inscription sur les listes électorales en France est un processus qui permet aux citoyens éligibles de participer aux procédures électorales du pays. L'inscription vous assure une place sur la liste électorale.

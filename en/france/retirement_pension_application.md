@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - France
 date: '2024-06-07'
-description: Learn about the eligibility criteria and step-by-step process to apply
-  for a retirement pension in France. Ensure proper documentation is ready for submission.
+description: Navigate the process of securing a French retirement pension. Learn about
+  eligibility, required documents, and how to apply online for a smooth transition.
 draft: false
-meta_title: 'Retirement Pension in France: Eligibility and Application Process'
-title: 'Retirement Pension in France: Eligibility and Application Process'
+meta_title: 'Guide to Retirement Pensions in France: Eligibility and Application'
+title: 'Guide to Retirement Pensions in France: Eligibility and Application'
 translationKey: france-retirement_pension_application
 ---
-
 
 ## Description
 ### What is it?

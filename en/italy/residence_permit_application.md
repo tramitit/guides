@@ -3,14 +3,14 @@ author: Ricardo Batista
 categories:
 - Italy
 date: '2024-06-07'
-description: Scopri come ottenere il permesso di soggiorno in Italia. Procedura dettagliata,
-  documenti necessari e informazioni utili.
+description: Learn how to obtain an Italian residence permit, required for non-EU
+  nationals staying over 90 days. Follow this detailed procedure and gather needed
+  documents.
 draft: false
-meta_title: 'Guida al Permesso di Soggiorno in Italia: Procedura e Documenti'
-title: 'Guida al Permesso di Soggiorno in Italia: Procedura e Documenti'
+meta_title: Guide to Obtaining an Italian Residence Permit (Permesso di Soggiorno)
+title: Guide to Obtaining an Italian Residence Permit (Permesso di Soggiorno)
 translationKey: italy-residence_permit_application
 ---
-
 
 ## Description
 ### What is it?

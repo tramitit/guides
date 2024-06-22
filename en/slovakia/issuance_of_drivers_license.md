@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Learn how to get a driver's license in Slovakia, including required documents,
-  process steps, and essential information for residents and visitors.
+description: Learn how to obtain a driver's license in Slovakia, including required
+  documents, procedure, and important tips for residents and international travelers.
 draft: false
-meta_title: 'Obtaining a Driver''s License in Slovakia: A Complete Guide'
-title: 'Obtaining a Driver''s License in Slovakia: A Complete Guide'
+meta_title: 'Driver''s License in Slovakia: Procedure, Requirements & Tips'
+title: 'Driver''s License in Slovakia: Procedure, Requirements & Tips'
 translationKey: slovakia-issuance_of_drivers_license
 ---
-
 
 ## Description
 ### What is it?

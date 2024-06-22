@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Hungary
 date: '2024-06-07'
-description: Learn the step-by-step process to legally marry in Hungary with both
-  civil and church ceremonies. Ideal for Hungarian citizens, residents, and foreigners.
+description: Learn the required steps and documents for a legal marriage in Hungary,
+  including civil and church ceremonies for citizens, residents, and foreigners.
 draft: false
-meta_title: 'Getting Married in Hungary: Civil & Church Ceremony Guide'
-title: 'Getting Married in Hungary: Civil & Church Ceremony Guide'
+meta_title: 'A Complete Guide to Getting Married in Hungary: Procedures & Tips'
+title: 'A Complete Guide to Getting Married in Hungary: Procedures & Tips'
 translationKey: hungary-marriage_registration
 ---
-
 
 ## Description
 ### What is it?

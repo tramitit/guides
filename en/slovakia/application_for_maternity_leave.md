@@ -3,14 +3,13 @@ author: Ricardo Batista
 categories:
 - Slovakia
 date: '2024-06-07'
-description: Understand the process of applying for maternity leave within Slovakia's
-  legislation. Ensure a smooth transition with necessary documents and preparations.
+description: Learn how to apply for maternity leave in Slovakia, including steps,
+  required documents, and your rights as an expecting mother.
 draft: false
-meta_title: 'Maternity Leave Procedure in Slovakia: A Comprehensive Guide'
-title: 'Maternity Leave Procedure in Slovakia: A Comprehensive Guide'
+meta_title: Comprehensive Guide to Maternity Leave in Slovakia
+title: Comprehensive Guide to Maternity Leave in Slovakia
 translationKey: slovakia-application_for_maternity_leave
 ---
-
 
 ## Description
 ### What is it?
