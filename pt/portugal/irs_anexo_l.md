@@ -3,12 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: 
+description: Saiba como preencher o Anexo L do IRS em Portugal, obrigatório para não
+  residentes com rendimentos no país. Informações detalhadas e passos para submissão.
 draft: false
-meta_title: 
-title: 
+meta_title: 'Anexo L do IRS: Guia Completo para Não Residentes em Portugal'
+title: 'Anexo L do IRS: Guia Completo para Não Residentes em Portugal'
 translationKey: portugal-irs_anexo_l
 ---
+
 
 
 ## Descrição

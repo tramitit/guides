@@ -3,12 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description: 
+description: Saiba como preencher o IRS Anexo A, essencial para declarar rendimentos
+  do trabalho em Portugal. Passo a passo detalhado e documentos necessários.
 draft: false
-meta_title: 
-title: 
+meta_title: Guia Completo para Preencher o IRS Anexo A em Portugal
+title: Guia Completo para Preencher o IRS Anexo A em Portugal
 translationKey: portugal-irs_anexo_a
 ---
+
 
 
 ## Descrição

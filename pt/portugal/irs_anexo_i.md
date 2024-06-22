@@ -3,12 +3,14 @@ author: Ricardo Batista
 categories:
 - Portugal
 date: '2024-06-20'
-description:
+description: Aprenda a preencher o IRS Anexo I, essencial para declarar rendimentos
+  específicos e estrangeiros com segurança e precisão em Portugal.
 draft: false
-meta_title: Guia Comortugal
-title: Guia C
+meta_title: 'IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros'
+title: 'IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros'
 translationKey: portugal-irs_anexo_i
 ---
+
 
 
 ## Descrição
