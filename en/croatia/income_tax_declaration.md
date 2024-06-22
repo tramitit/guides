@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 It's important to note that the deadlines for tax declaration submission usually are in the beginning of the year, typically end of February. The exact date can change each year, so it's best to check with your local tax office or their official website for the most accurate information.
   
 It might be beneficial for certain individuals such as freelancers to check specific rules and regulations related to their situation. Tax law can be complex and specific to each case, and this guide is a general approach. For more accurate information and advice, it's always best to consult with a tax professional or a tax authority website.
+
+
+## Related Posts
+
+- [Guide to Officially Changing Your Residence Address](https://tramitit.com/guides/croatia/change_of_residence/)
+- [Guide to Obtaining a Residence Permit for Foreign Countries](https://tramitit.com/guides/croatia/issuance_of_residence_permit_for_foreigners/)
+- [How to Obtain Your Personal Identification Number (OIB) in Croatia](https://tramitit.com/guides/croatia/assignment_of_personal_identification_number_(oib)/)
+- [State Scholarships: Financial Aid for Higher Education Students](https://tramitit.com/guides/croatia/application_for_state_scholarships/)
+- [How to Legally Change Your Name: Guide and Requirements](https://tramitit.com/guides/croatia/change_of_name/)

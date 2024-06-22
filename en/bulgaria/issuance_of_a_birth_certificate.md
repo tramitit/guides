@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 It's essential to note that both parents need to be present at the municipality to declare the birth. In cases where one parent cannot be present, a notarized consent from the absent parent should be presented. In cases of international adoption, diverse rules apply. It's recommended to seek specific advice or assistance from a local service provider in such cases.
+
+
+## Related Posts
+
+- [How to Obtain a Family Status Certificate in Bulgaria](https://tramitit.com/guides/bulgaria/issuance_of_a_family_status_certificate/)
+- [Essential Guide to Obtaining a Passport in Bulgaria](https://tramitit.com/guides/bulgaria/issuance_of_a_passport/)
+- [How to Obtain a Bulgarian Identity Card: Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_identity_card/)
+- [Marriage Registration in Bulgaria: Procedures and Requirements](https://tramitit.com/guides/bulgaria/marriage_registration/)
+- [How to Obtain a Criminal Record Certificate: Steps and Requirements](https://tramitit.com/guides/bulgaria/issuance_of_a_criminal_record_certificate/)

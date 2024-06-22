@@ -38,3 +38,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that different agencies have their own specific procedures and eligibility criteria for heating assistance. Make sure to check with your local agency to ensure you fully understand their procedure and requirements. Applying for aid as early in the season as possible is usually advisable, as there can sometimes be delays in processing times.
+
+
+## Related Posts
+
+- [Complete Guide to Child Benefits Eligibility and Application](https://tramitit.com/guides/bulgaria/application_for_child_benefits/)
+- [Legal Aid in Bulgaria: Access, Eligibility, and Providers](https://tramitit.com/guides/bulgaria/application_for_legal_aid/)
+- [Guide to Changing Your Address: Steps and Required Documents](https://tramitit.com/guides/bulgaria/change_of_current_address/)
+- [How to Obtain Official Educational Documents: A Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_educational_document/)
+- [Understanding Maternity Benefits: Eligibility and Application Guide](https://tramitit.com/guides/bulgaria/application_for_maternity_benefits/)

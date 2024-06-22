@@ -47,3 +47,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You may receive an overpayment letter if when there was a miscalculation on your unemployment benefits. It is suggested to contest it by writing a letter to Pôle emploi.
 - It is best to keep a good record of all your unemployment-related documents for instances such as these.
 - In case of resignation, you may not be immediately eligible for unemployment benefits. Certain legitimate reasons for resignation may permit you to receive benefits. It's best to consult Pôle emploi for advice in such cases.
+
+
+## Related Posts
+
+- [Unemployment Return-to-Work Assistance in France: A Guide](https://tramitit.com/guides/france/unemployment_return-to-work_assistance_(are)_application/)
+- [Guide to Retirement Pensions in France: Eligibility and Application](https://tramitit.com/guides/france/retirement_pension_application/)
+- [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)
+- [French Social Security Registration: Essential Guide for Expats](https://tramitit.com/guides/france/social_security_registration/)
+- [Understanding Social Housing in France: Eligibility and Application](https://tramitit.com/guides/france/application_for_social_housing/)

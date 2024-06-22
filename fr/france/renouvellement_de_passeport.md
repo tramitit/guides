@@ -11,7 +11,6 @@ title: 'Renouvellement de passeport: Procédure, documents requis et plus'
 translationKey: france-passport_renewal
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Le renouvellement de passeport est un processus où vous mettez à jour votre passeport existant après son expiration ou juste avant.

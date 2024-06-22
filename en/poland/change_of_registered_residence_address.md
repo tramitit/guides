@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you are moving within the same city, you may be able to update your address at the same municipal office where you originally registered.
 - The processing time can vary depending on the location and the workload of the municipal office staff.
 - Foreign residents need to register their address within 30 days of arrival in Poland. If you don't register within this time, you may be fined.
+
+
+## Related Posts
+
+- [Change of Residence Notification in Poland: Steps and Requirements](https://tramitit.com/guides/poland/change_of_residence_notification/)
+- [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)
+- [Guide to Changing Vehicle Registration Certificate in Poland](https://tramitit.com/guides/poland/change_of_registration_certificate/)
+- [EU Citizens' Guide: Registering Residence in Poland](https://tramitit.com/guides/poland/registration_of_residence_for_eu_citizens/)
+- [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)

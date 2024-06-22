@@ -49,3 +49,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 If you are a non-EU/EEA citizen married to an EU citizen residing in Austria, you can apply for a residence permit that allows you to live and work in Austria. In the case of a non-EU citizen married to an Austrian citizen, the non-EU spouse may also have the option of seeking permanent residency. Please note that additional rules and requirements may apply, and you should seek clarification from local authorities or legal advisors.
+
+
+## Related Posts
+
+- [Austrian Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/austria/residence_permit_application/)
+- [How to Obtain Proof of Austrian Citizenship: Steps and Requirements](https://tramitit.com/guides/austria/proof_of_citizenship/)
+- [How to Obtain a Birth Certificate in Austria: A Complete Guide](https://tramitit.com/guides/austria/birth_certificate_application/)
+- [Guide to Registering Your Residence in Austria (Meldezettel)](https://tramitit.com/guides/austria/registration_certificate/)
+- [Guide to Legal Name Change in Austria: Process & Requirements](https://tramitit.com/guides/austria/name_change_application/)

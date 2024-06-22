@@ -11,7 +11,6 @@ title: 'Separate Waste Collection Service: Steps to Participate'
 translationKey: italy-request_for_participation_in_separate_waste_collection_service
 ---
 
-
 ## Description
 ### What is it?
 The separate waste collection service is a program that separates waste into categories like paper, metal, plastic, and organic waste. The separation is done by the households and businesses before pickup and then picked up by the waste collection authorities or companies at different times or days based on the waste type.
@@ -51,3 +50,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The separate waste collection service might require you to have different colored bins or bags for different types of waste. The pickup schedule is also different for each waste type, so make sure to check it on your local council's or waste management company's website. Some areas might also have drop-off points for certain types of waste.
+
+
+## Related Posts
+
+- [Guide to Social Allowance: Eligibility, Application, and Documents](https://tramitit.com/guides/italy/social_allowance_application/)
+- [Urban Destination Certificate: Essential for Property Changes](https://tramitit.com/guides/italy/urban_destination_certificate_request/)
+- [How to Make Voluntary Contributions for Your Pension Fund](https://tramitit.com/guides/italy/voluntary_contribution_application/)
+- [How to Obtain a Civil Status Certificate: A Complete Guide](https://tramitit.com/guides/italy/civil_status_certificate/)
+- [Guide to Official Change of Residence Procedures and Requirements](https://tramitit.com/guides/italy/change_of_residence/)

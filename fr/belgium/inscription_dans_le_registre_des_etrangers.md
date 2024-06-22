@@ -11,7 +11,6 @@ title: Guide de l'inscription au registre des étrangers en 2023
 translationKey: belgium-registration_in_the_foreigners_registers
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 L'inscription au registre des étrangers implique qu'une personne vivant dans un pays étranger enregistre officiellement sa présence auprès des autorités locales. Cela implique généralement de fournir les documents d'identification et de résidence nécessaires, et sert souvent à établir des droits de résidence formels et à accéder aux services locaux.

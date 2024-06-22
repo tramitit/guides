@@ -52,3 +52,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Before you submit your TRC application, make sure to review the entire document for any missing or incorrect information, as this could delay the processing of your application. 
 Please note that this is a general guide and the process might slightly vary from country to country so make sure to also check the specific country's immigration website for accurate information.
+
+
+## Related Posts
+
+- [How to Cancel Permanent Residence: Procedure and Documents](https://tramitit.com/guides/slovakia/cancellation_of_permanent_residence/)
+- [Guide to Registering for Humanitarian Residence in Any Country](https://tramitit.com/guides/slovakia/registration_of_a_humanitarian_residence/)
+- [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [Recognition of Foreign Qualifications: Steps and Requirements](https://tramitit.com/guides/slovakia/recognition_of_qualifications_obtained_abroad/)

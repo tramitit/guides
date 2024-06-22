@@ -51,3 +51,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The application process for admission to French universities can be different based on the university and the course you choose.
 - Keep in mind French public holidays when planning your university registration as administrative offices might be closed.
 - Campus France is a service provider that can help streamline your university application process in France.
+
+
+## Related Posts
+
+- [Comprehensive Guide to High School Registration in France](https://tramitit.com/guides/france/high_school_registration/)
+- [Registering Your Child for Middle School in France: A Guide](https://tramitit.com/guides/france/middle_school_registration/)
+- [Guide to Primary School Registration in France for 2023](https://tramitit.com/guides/france/primary_school_registration/)
+- [Guide to Applying for Scholarships to Study in France](https://tramitit.com/guides/france/university_scholarship_application/)
+- [How to Register to Vote in France: A Comprehensive Guide](https://tramitit.com/guides/france/voter_registration/)

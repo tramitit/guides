@@ -49,3 +49,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It’s highly recommended to check for any updates on requirements and document lists on official Spanish government websites as these can change.
 - Appointments can be in high demand, especially in larger cities, so it is advisable to book well in advance.
 - If you encounter any issues or require assistance, consider reaching out to forums or expat communities for up-to-date advice and guidance from peers who have undergone the process.
+
+
+
+## Related Posts
+
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)

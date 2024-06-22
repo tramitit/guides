@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Ensure that the information on the proof of address document accurately reflects your new place of living. Depending on the service chosen, you may be required to have a PIN for online authentication. 
 The timelines and fees may differ depending on the individual case and the location. Be sure to verify the cost and timeline details when you submit your documents for the change of address.
+
+
+## Related Posts
+
+- [How to Update Your Address on Portuguese Residence Permit](https://tramitit.com/guides/portugal/change_of_address_on_residence_permit/)
+- [Citizen Card Renewal: Process, Requirements, and Providers](https://tramitit.com/guides/portugal/renewal_of_citizen_card/)
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)
+- [How to Update NIF Data in Portugal: A Complete Guide](https://tramitit.com/guides/portugal/request_for_change_of_nif_data/)
+- [Requesting Duplicate Documents in Portugal: A Detailed Guide](https://tramitit.com/guides/portugal/request_for_duplicate_documents/)

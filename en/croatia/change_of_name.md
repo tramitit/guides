@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Always remember to communicate with relevant organizations about your new name to prevent unexpected issues such as identity inconsistencies and others. In the context of ticket purchasing or games, changing your name might not be authorized or available in all cases, therefore always validate such options beforehand. Be sure to acknowledge all implications and possible consequences that a name change might imply.
+
+
+## Related Posts
+
+- [Guide to Officially Changing Your Residence Address](https://tramitit.com/guides/croatia/change_of_residence/)
+- [Steps to Replace a Lost Croatian ID Card: Detailed Guide](https://tramitit.com/guides/croatia/report_of_missing_id_card/)
+- [Guide to Obtaining a Residence Permit for Foreign Countries](https://tramitit.com/guides/croatia/issuance_of_residence_permit_for_foreigners/)
+- [Applying for a National ID Card in Croatia: Full Guide](https://tramitit.com/guides/croatia/issuance_of_id_card/)
+- [How to Obtain a No Criminal Record Certificate: A Complete Guide](https://tramitit.com/guides/croatia/issuance_of_no_criminal_record_certificate/)

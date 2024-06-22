@@ -57,3 +57,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Spanish pension system is based on a contributory worker-pay-as-you-go model, so the size of your retirement pension will be contingent on the number of years you have contributed to social security and the amount you have earned. You may want to explore other investment or savings options to supplement your pension income. Consult a financial advisor or use online finance tools to make a detailed retirement plan.
+
+
+## Related Posts
+
+- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)
+- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/tarjeta_sanitaria/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)

@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Passport renewal fees will depend on the type of passport (biometric or not, adults or children, etc.)
 - Processing times will vary based on demand and other factors.
 - You should renew your passport at least nine months before it expires if you plan on traveling internationally.
+
+
+## Related Posts
+
+- [Easy Renewal of Your Driver's License in France Online](https://tramitit.com/guides/france/drivers_license_renewal/)
+- [How to Renew Your French Residence Permit: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_renewal/)
+- [National Identity Card in France: Procedure, Requirements, Providers](https://tramitit.com/guides/france/national_identity_card_application/)
+- [Guide to Obtaining a Long-Stay Visa for France: Steps & Requirements](https://tramitit.com/guides/france/visa_application/)
+- [How to Obtain a Residence Permit in France: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_application/)

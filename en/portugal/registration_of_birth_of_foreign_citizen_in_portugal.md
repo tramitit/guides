@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Registering the birth of a child in Portugal as a foreign citizen varies depending on the specific circumstances surrounding the child's birth. It is advised to consult with the Portuguese Consulate in your home country or a legal professional experienced in Portuguese citizenship law. The process might take several weeks to months, depending on the complexity of your case and the current workload of the registry office.
+
+
+## Related Posts
+
+- [How to Obtain a Birth Certificate: Steps and Requirements](https://tramitit.com/guides/portugal/request_for_birth_certificate/)
+- [Acquire Portuguese Nationality: Process, Requirements, Documents](https://tramitit.com/guides/portugal/request_for_portuguese_nationality/)
+- [Marriage Registration in Portugal: Steps & Documents for Foreigners](https://tramitit.com/guides/portugal/registration_of_marriage_of_foreign_citizen_in_portugal/)
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [Guide to Registering a Business in Portugal: Steps & Requirements](https://tramitit.com/guides/portugal/request_for_business_registration/)

@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember, when forming a company in Austria, it's crucial to carefully consider tax implications. Depending on the legal form of your company, you might be eligible for certain tax benefits. Consulting with a tax professional or a lawyer can be beneficial in making the right decisions.
+
+
+## Related Posts
+
+- [Business Re-Registration in Austria: A Complete Guide](https://tramitit.com/guides/austria/business_re-registration/)
+- [Guide for International Students Registering in Austrian Schools](https://tramitit.com/guides/austria/school_registration/)
+- [Social Insurance Registration in Austria: A Complete Guide](https://tramitit.com/guides/austria/social_insurance_registration/)
+- [Anmeldung in Austria: How to Register Your Residence](https://tramitit.com/guides/austria/registration_information/)
+- [Guide to Legal Name Change in Austria: Process & Requirements](https://tramitit.com/guides/austria/name_change_application/)

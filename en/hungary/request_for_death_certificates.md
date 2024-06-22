@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 If the person died before 1895, church records are often used as they often contain death records. The church records can be found in the [FamilySearch](https://familysearch.org/search/collection/show#uri=http://familysearch.org/searchapi/search/collection/1452460) database.
 
 For genealogy research, it's important to note that private data like exact date of birth, place of birth, parents' names etc. are not handed out or confirmed by any Hungarian authority due to privacy law unless you can prove your legitimate interest. Even if you are a direct relative, the procedure can be tiresome and time-consuming.
+
+
+## Related Posts
+
+- [How to Register a Death in Hungary: A Step-by-Step Guide](https://tramitit.com/guides/hungary/death_registration/)
+- [Guide to Requesting a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/request_for_marriage_certificates/)
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)
+- [Get a Duplicate Hungarian Birth Certificate: Step-by-Step Guide](https://tramitit.com/guides/hungary/application_for_duplicate_birth_certificate/)
+- [Guide to Requesting Pre-1895 Hungarian Birth Certificates](https://tramitit.com/guides/hungary/request_for_birth_certificates/)

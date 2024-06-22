@@ -11,7 +11,6 @@ title: Inscription dans les Registres de la Population en Belgique
 translationKey: belgium-registration_in_the_population_registers
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 L’inscription dans les registres de la population est le processus officiel de documentation de votre résidence en Belgique. Elle est obligatoire pour toute personne qui déménage en Belgique. Non seulement elle reconnaît légalement votre résidence, mais l'inscription est également essentielle pour l'accès à de nombreux services et droits, tels que le vote obligatoire.

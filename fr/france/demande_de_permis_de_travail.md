@@ -12,7 +12,6 @@ title: Guide pour demander un permis de travail en France
 translationKey: france-work_permit_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est ?
 Une demande de permis de travail est une demande légale soumise au gouvernement français pour obtenir le droit de travailler en France en tant qu'étranger.

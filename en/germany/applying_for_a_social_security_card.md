@@ -38,3 +38,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The social security card (Sozialversicherungsausweis) should be kept safely. Do not worry if you lose it - your number is permanent. You can request a replacement card through the same procedure. Remember, everyone who is employed in Germany gets a unique life-long social security number in order to have access to social security, including health insurance, unemployment insurance, and pension fund.
+
+
+## Related Posts
+
+- [Guide to Obtaining Your German Insurance Number: Essential Steps](https://tramitit.com/guides/germany/applying_for_an_insurance_number/)
+- [Understanding Tax Cards in Germany: Registration & Requirements](https://tramitit.com/guides/germany/applying_for_a_tax_card/)
+- [How to Get a German Identification Card: Step-by-Step Guide](https://tramitit.com/guides/germany/application_for_an_id_card/)
+- [How to Obtain a Residence Permit in Germany: Key Steps](https://tramitit.com/guides/germany/applying_for_a_residence_permit/)
+- [Guide to Residence Title (Aufenthaltstitel) in Germany](https://tramitit.com/guides/germany/application_for_a_residence_title/)

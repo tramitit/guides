@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Take note that the costs and timelines can vary depending on individual circumstances, including your age, health condition, and selected plan. It is also important to ensure that the selected plan covers your requirements, such as coverage for specific treatments or international coverage if needed.
+
+
+## Related Posts
+
+- [Comprehensive Guide to Health Insurance in Hungary](https://tramitit.com/guides/hungary/obtaining_individual_health_insurance/)
+- [Guide to Applying for Pension in Hungary: Procedures & Documents](https://tramitit.com/guides/hungary/pension_application/)
+- [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)

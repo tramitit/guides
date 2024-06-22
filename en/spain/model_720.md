@@ -41,3 +41,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Fines for Delay:** Historically, Spain imposed heavy fines for late or incorrect submissions, but recent changes per the European Court of Justice's ruling have made these sanctions less severe.
 - **Annual Requirements:** The declaration is only mandatory in subsequent years if the total value of any category increases by more than €20,000 compared to the prior declaration.
 - **Digital Nomads:** Those holding Spanish digital nomad visas and residing in Spain are also subject to Model 720 if their foreign assets meet the threshold.
+
+
+
+## Related Posts
+
+- [Model 151 Guide: Foreign Asset Declaration for Beckham Law Users](https://tramitit.com/guides/spain/model_151/)
+- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/guides/spain/model_347/)
+- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/guides/spain/model_190/)
+- [S-1 Declaration: How to Declare Money Moved to Spain](https://tramitit.com/guides/spain/s_1_declaration/)
+- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)

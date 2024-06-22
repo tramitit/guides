@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Note that the free allowance is 801 Euros for single individuals and 1602 Euros for married couples per year.
 - Cryptocurrency trades are also subject to tax, but are tax-free if held for more than one year.
 - Use tax consulting services if you are unsure about your obligations or need further assistance.
+
+
+## Related Posts
+
+- [Guide to German Exemption Order (Freistellungsauftrag)](https://tramitit.com/guides/germany/submitting_an_exemption_order/)
+- [Understanding Tax Cards in Germany: Registration & Requirements](https://tramitit.com/guides/germany/applying_for_a_tax_card/)
+- [Guide to Business Registration in Germany: Steps and Requirements](https://tramitit.com/guides/germany/business_registration/)
+- [Guide to Changing Business Registration in Germany](https://tramitit.com/guides/germany/change_of_business_registration/)
+- [Complete Guide to Business Deregistration in Germany](https://tramitit.com/guides/germany/business_deregistration/)

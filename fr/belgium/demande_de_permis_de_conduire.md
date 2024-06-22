@@ -12,7 +12,6 @@ title: 'Obtaining a Driver''s License in Belgium: Process and Requirements'
 translationKey: belgium-request_for_a_driving_license
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un document légal qui vous permet de conduire un véhicule à moteur en Belgique. Pour ceux qui possèdent des permis de pays non membres de l'UE, cela impliquera souvent d'échanger votre permis actuel contre un belge.

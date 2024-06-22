@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Language: The Certificate of Good Conduct is usually issued in German. However, it can be translated into other languages by a certified translation service.
 - Apostille Service: If you need the certificate to be authenticated with an Apostille, you need to contact your local court (Amtsgericht). It's not provided by the Federal Office of Justice.
 - You do not need to be a German citizen to apply. You only need to be residing in Germany to be eligible.
+
+
+## Related Posts
+
+- [How to Obtain a Certificate of Conduct (Führungszeugnis) in Germany](https://tramitit.com/guides/germany/applying_for_a_certificate_of_conduct_online/)
+- [How to Obtain a Certificate of Conduct in Germany (Führungszeugnis)](https://tramitit.com/guides/germany/application_for_a_certificate_of_conduct/)
+- [Guide to Obtaining a Certificate of Free Movement in Germany](https://tramitit.com/guides/germany/certificate_of_free_movement/)
+- [How to Get a German Identification Card: Step-by-Step Guide](https://tramitit.com/guides/germany/application_for_an_id_card/)
+- [Guide to Applying for a German Driver's License for Foreign Residents](https://tramitit.com/guides/germany/application_for_a_drivers_license/)

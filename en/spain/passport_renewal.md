@@ -52,3 +52,12 @@ The passport renewal process may take several days or weeks depending on individ
 It is always advisable to start your renewal process well in advance of any planned travel to avoid any unforeseen delays. Late applications may require you to pay for expedited processing. In Spain, it's particularly recommended to renew your passport if it has 6 months or fewer left until expiry. 
 
 In case you are a dual citizen (US-Spain), you do not need to have a valid US passport to live or travel to the US, only the Spanish passport. But, you do need a valid US passport to re-enter the US. You should renew it before your trip or check for a US Embassy once you're in Spain.
+
+
+## Related Posts
+
+- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/guides/spain/passport_application/)
+- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/guides/spain/id_card_renewal/)
+- [Driver's License Renewal Guide in Spain: Steps and Requirements](https://tramitit.com/guides/spain/drivers_license_renewal/)
+- [How to Renew Your Work Permit in Spain: A Comprehensive Guide](https://tramitit.com/guides/spain/work_permit_renewal/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)

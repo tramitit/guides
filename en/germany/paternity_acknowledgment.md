@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The acknowledgment of paternity can be done either before or after the birth of the child; however, it also implies a financial commitment until the child has completed their education, including any further studies. So it is a decision that should not be taken lightly. If the parents are unwed, it also grants joint custody of the child.
+
+
+## Related Posts
+
+- [How to Obtain a Birth Certificate in Germany: Step-by-Step Guide](https://tramitit.com/guides/germany/applying_for_a_birth_certificate/)
+- [Guide to Parental Allowance in Germany: Eligibility & Application](https://tramitit.com/guides/germany/applying_for_parental_allowance/)
+- [Guide to Legal Name Change Process in Germany: Steps & Requirements](https://tramitit.com/guides/germany/declaration_of_name_change/)
+- [Guide to Marriage Registration in Germany: Steps and Documents](https://tramitit.com/guides/germany/marriage_registration/)
+- [Guide to Applying for Child Benefit (Kindergeld) in Germany](https://tramitit.com/guides/germany/applying_for_child_benefit/)

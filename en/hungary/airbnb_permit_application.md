@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Some cities may require you to have a business license in order to operate an Airbnb. Be sure to check with your local city council for specific information.
+
+
+## Related Posts
+
+- [Budapest Parking Permits: Steps, Requirements, and Providers](https://tramitit.com/guides/hungary/parking_permit_application/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)
+- [How to Get a Residence Permit in Hungary as a Digital Nomad](https://tramitit.com/guides/hungary/residence_permit_application/)
+- [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)
+- [How to Apply for Housing Support in Hungary: A Step-by-Step Guide](https://tramitit.com/guides/hungary/housing_support_application/)

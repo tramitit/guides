@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 While the Codice Fiscale is immediately necessary for most activities, there have been instances where users have been able to secure services like phone contracts without one. However, having an Italian Tax Code will make any administrative dealings in Italy significantly smoother.
+
+
+## Related Posts
+
+- [How to Change Your Tax Code in Italy: A Complete Guide](https://tramitit.com/guides/italy/tax_code_change/)
+- [Italian Identity Card: Complete Guide to Application & Requirements](https://tramitit.com/guides/italy/identity_card_request/)
+- [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)
+- [Income Support in Italy: Eligibility, Application, and Requirements](https://tramitit.com/guides/italy/income_support_application/)
+- [Permesso di Soggiorno: Essential Guide for Non-EU Residents in Italy](https://tramitit.com/guides/italy/residence_card_request/)

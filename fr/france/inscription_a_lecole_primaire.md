@@ -11,7 +11,6 @@ title: 'Inscription à l''école primaire en France: Processus et Documents'
 translationKey: france-primary_school_registration
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 L'inscription à l'école primaire constitue la première partie de l'éducation formelle d'un enfant en France. Elle commence par "La Maternelle", qui est une forme de pré-école, et se poursuit à l'école primaire. Ces premières années d'éducation sont essentielles pour le développement social et éducatif d'un enfant.

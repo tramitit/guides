@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Processing times can vary depending on the country and individual circumstances. Be sure to allow plenty of time before your intended travel date. Always review the latest information from official government sources or reputable immigration advisors. Fees may apply, and are also subject to change.
+
+
+## Related Posts
+
+- [Guide to Obtaining an Immigration Permit in Croatia](https://tramitit.com/guides/croatia/obtaining_an_immigration_permit/)
+- [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)
+- [How to Extend Your Residence Permit in Croatia: A Complete Guide](https://tramitit.com/guides/croatia/extension_of_residence_permit/)
+- [Comprehensive Guide to Obtaining a Croatian Visa: Steps & Requirements](https://tramitit.com/guides/croatia/obtaining_a_visa_for_foreigners/)
+- [Temporary Residence Registration in Croatia - Step-by-Step Guide](https://tramitit.com/guides/croatia/temporary_residence_registration/)

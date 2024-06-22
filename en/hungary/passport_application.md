@@ -53,3 +53,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Any changes in your personal data such as unwanted name changes should be reported to and modified at the issuing office.
+
+
+## Related Posts
+
+- [Guide to Apply for Hungarian Citizenship by Descent or Naturalization](https://tramitit.com/guides/hungary/citizenship_applications/)
+- [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)
+- [Guide to Slovakian Citizenship by Descent & Hungarian Travel Docs](https://tramitit.com/guides/hungary/domestic_foreign_passport_special_procedure/)
+- [Get a Duplicate Hungarian Birth Certificate: Step-by-Step Guide](https://tramitit.com/guides/hungary/application_for_duplicate_birth_certificate/)
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)

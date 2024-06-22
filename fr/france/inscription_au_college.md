@@ -11,7 +11,6 @@ title: Guide to Enrolling Your Child in a French Middle School
 translationKey: france-middle_school_registration
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Ce guide fournit des informations étape par étape sur la manière d'inscrire votre enfant au collège en France, un système conçu pour offrir une éducation de base aux enfants de onze à quinze ans.

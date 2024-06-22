@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 The Ministries office hours are typically from Monday to Friday, you may want to check the website for exact times. Note that there will be a fee for this service, which can be checked on the website or calling the Ministry's contact number.
 Note: This process might take several days/weeks, depending on the volume of applications at the Ministry. The document is normally sent by post to the requester's permanent address.
+
+
+## Related Posts
+
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [Obtaining a Marriage Certificate in Slovakia: Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_marriage_certificate/)
+- [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)
+- [How to Obtain a Birth Certificate in Slovakia | Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_birth_certificate/)
+- [How to Obtain a Certificate of Slovak Ancestry for Citizenship](https://tramitit.com/guides/slovakia/certificate_of_slovak_ancestry/)

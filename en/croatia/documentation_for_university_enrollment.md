@@ -49,3 +49,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For India, international students are advised to apply through the Indian missions in their respective country.
 - Check the application deadline for each university to avoid last-minute panics.
 - Review the embassy or consulate website of the specific country for accurate information about student visa processes.
+
+
+## Related Posts
+
+- [Legalizing Documents for Use in Croatia: A Comprehensive Guide](https://tramitit.com/guides/croatia/document_legalization/)
+- [Comprehensive Guide to Obtaining a Croatian Visa: Steps & Requirements](https://tramitit.com/guides/croatia/obtaining_a_visa_for_foreigners/)
+- [Guide to School Registration in Croatia: Steps and Documents](https://tramitit.com/guides/croatia/registering_children_for_school/)
+- [How to Obtain a Croatian Passport: Steps and Requirements](https://tramitit.com/guides/croatia/issuance_of_passport/)
+- [Guide to Obtaining a Residence Permit for Foreign Countries](https://tramitit.com/guides/croatia/issuance_of_residence_permit_for_foreigners/)

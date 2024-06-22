@@ -11,7 +11,6 @@ title: 'Guide des Bourses d''Études: Comment Postuler et Réussir'
 translationKey: france-scholarship_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Une bourse est une aide financière offerte aux étudiants pour poursuivre leurs études. Le fonds de bourse n'est pas remboursable et est principalement attribué en fonction des résultats académiques ou des réalisations extrascolaires de l'étudiant.

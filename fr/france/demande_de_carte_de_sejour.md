@@ -11,7 +11,6 @@ title: Procédure pour obtenir un permis de résidence en France
 translationKey: france-residence_permit_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est ?
 Un permis de résidence, ou Titre de Séjour, est un document qui vous autorise légalement à résider en France pendant une certaine période. Il est nécessaire pour les ressortissants non-UE qui ont l'intention de rester en France pendant plus de trois mois.

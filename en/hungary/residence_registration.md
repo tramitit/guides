@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In case of non-EU citizens aiming for permanent residency in an EU country like Hungary, the process may involve additional steps such as applying for a residence permit. Such an application typically requires you to submit proof of income or financial stability, proof of health insurance, and a criminal record certificate. Be sure to check with the local authorities or legal experts to confirm specific requirements in your case.
+
+
+## Related Posts
+
+- [How to Get a Residence Permit in Hungary as a Digital Nomad](https://tramitit.com/guides/hungary/residence_permit_application/)
+- [Legal Name Change Procedure for Hungary Residents and Citizens](https://tramitit.com/guides/hungary/name_change_registration/)
+- [How to Apply for Housing Support in Hungary: A Step-by-Step Guide](https://tramitit.com/guides/hungary/housing_support_application/)
+- [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)

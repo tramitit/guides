@@ -52,3 +52,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's vital to compare different employment contract structures such as B2B contracts vs job contracts to choose what suits best for you or your organization. Each contract has its own merits and limitations. Be mindful to cross-check the contract details to avoid any legal complications down the line.
+
+
+## Related Posts
+
+- [Romanian Lease Agreement: Essential Guide for Tenants & Landlords](https://tramitit.com/guides/romania/lease_agreement/)
+- [Real Estate Purchase Agreement Guide for Romania - Essential Steps](https://tramitit.com/guides/romania/real_estate_purchase_agreement/)
+- [How to Obtain a Work Permit for Romania: A Complete Guide](https://tramitit.com/guides/romania/work_permit_application_for_expats/)
+- [Work Visa Extension Guide for Romania: Complete Procedure & Tips](https://tramitit.com/guides/romania/work_visa_extension/)
+- [Operating Permits: Essential Guide for Businesses in Romania](https://tramitit.com/guides/romania/operating_permit_for_companies/)

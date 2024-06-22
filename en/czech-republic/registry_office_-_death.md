@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **IMPORTANT:** It is essential to report the death to the registry office within 30 days. Failure to do so might lead to penal consequences.
 - In some cases, former residents' documents can be obtained by direct descendants (children, grandchildren, etc.) or by legal representatives appointed by the court.
 - If a person dies abroad, reporting to the embassy/consulates is also required. Check with the relevant local authorities for details.
+
+
+## Related Posts
+
+- [How to Register a Child's Birth in the Czech Republic](https://tramitit.com/guides/czech-republic/registry_office_-_birth_of_a_child/)
+- [Marriage Registration Guide for Foreigners in the Czech Republic](https://tramitit.com/guides/czech-republic/registry_office_-_marriage/)
+- [Residence Registration in Czech Republic: A Simple Guide](https://tramitit.com/guides/czech-republic/residence_registration_for_foreigners/)
+- [Guide to Applying for a Czech Republic Passport: Steps and Tips](https://tramitit.com/guides/czech-republic/application_for_issuing_a_passport/)
+- [How to Register a Car in the Czech Republic: A Complete Guide](https://tramitit.com/guides/czech-republic/car_registration/)

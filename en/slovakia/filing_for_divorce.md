@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
  The duration of the whole divorce process can vary significantly based on factors such as the willingness of the parties to cooperate, the complexity of the divorce case, and the capacity of the court.
 Also, the divorce can have several implications including division of property and assets, child custody, and alimony. It's recommended to get proper legal advice before filing for a divorce.
+
+
+## Related Posts
+
+- [How to Obtain a Death Certificate: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_death_certificate/)
+- [Obtaining a Marriage Certificate in Slovakia: Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_marriage_certificate/)
+- [How to Change Your Surname in Slovakia: A Detailed Guide](https://tramitit.com/guides/slovakia/change_of_surname/)
+- [Name Change Process in Slovakia: Legal Steps and Requirements](https://tramitit.com/guides/slovakia/change_of_name/)
+- [Guide to Acquiring Slovak Republic Citizenship by Descent or Marriage](https://tramitit.com/guides/slovakia/acquisition_of_slovak_citizenship/)

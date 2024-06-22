@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Non-European residents may need to set up a branch or subsidiary of a parent company in order to set up in Portugal.
 - Portugal currently does not allow two companies with the exact same name. Hence, the importance of confirming company name availability first.
 - If you wish to invest in sensitive or protected sectors such as media, there might be additional regulatory requirements.
+
+
+## Related Posts
+
+- [Guide to Register Non-Portuguese Newborns in Portugal](https://tramitit.com/guides/portugal/registration_of_birth_of_foreign_citizen_in_portugal/)
+- [Marriage Registration in Portugal: Steps & Documents for Foreigners](https://tramitit.com/guides/portugal/registration_of_marriage_of_foreign_citizen_in_portugal/)
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [How to Obtain a Tax Identification Number (NIF) in Portugal](https://tramitit.com/guides/portugal/request_for_tax_identification_number_nif/)
+- [Guide to Vehicle Registration Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_registration_certificate/)

@@ -11,7 +11,6 @@ title: Remplacement du Permis de Conduire Perdu ou Volé en Belgique
 translationKey: belgium-replacement_request_for_driving_license
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Si votre permis de conduire est perdu ou volé en Belgique, le processus de remplacement implique de signaler la perte à la police locale, d'obtenir les documents requis et de faire une demande de remplacement à la commune locale.

@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It is recommended to register the birth as soon as possible after it occurs, ideally within the first week. If you cannot register the birth yourself, you can authorize a representative to do it on your behalf. The procedure is free of charge, but there may be related costs if you request additional copies or legalized versions of the birth certificate.
+
+
+## Related Posts
+
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/guides/spain/prestacion_por_nacimiento/)
+- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/guides/spain/death_registration/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)

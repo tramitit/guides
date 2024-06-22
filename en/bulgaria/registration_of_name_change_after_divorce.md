@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The procedure to change a person's name in Bulgaria is regulated by laws. The process might take considerable time and it's advisable to ask for professional help if possible. Furthermore, updated documents are mandatory to reflect name changes in all official capacities and records.
+
+
+## Related Posts
+
+- [Guide: Registering Your New Surname Post-Marriage Abroad](https://tramitit.com/guides/bulgaria/registration_of_surname_change_after_marriage/)
+- [Marriage Registration in Bulgaria: Procedures and Requirements](https://tramitit.com/guides/bulgaria/marriage_registration/)
+- [How to Obtain a Family Status Certificate in Bulgaria](https://tramitit.com/guides/bulgaria/issuance_of_a_family_status_certificate/)
+- [Bulgarian Birth Certificate: Essential Guide & Process Overview](https://tramitit.com/guides/bulgaria/issuance_of_a_birth_certificate/)
+- [Essential Guide to Obtaining a Passport in Bulgaria](https://tramitit.com/guides/bulgaria/issuance_of_a_passport/)

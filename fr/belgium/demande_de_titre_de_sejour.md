@@ -11,7 +11,6 @@ title: 'Residence Permit in Belgium: Process, Requirements & Help'
 translationKey: belgium-request_for_residence_permit
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un permis de résidence est un document donnant à un étranger le droit légal de vivre et éventuellement de travailler dans un pays pour une période spécifiée. Il peut être temporaire ou permanent, selon différents facteurs.

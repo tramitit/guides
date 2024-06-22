@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Application procedures and requirements can vary significantly between countries, so it's important to check the details with the embassy or consulate of your chosen destination. It's also crucial to note that owning a study visa does not guarantee entry into a country, as the final decision often rests with the immigration officials at the point of entry.
+
+
+## Related Posts
+
+- [Romania Residence Visa Guide: Application Steps and Requirements](https://tramitit.com/guides/romania/residence_visa/)
+- [Permanent Residency Guide: Application Process and Requirements](https://tramitit.com/guides/romania/permanent_residency_application/)
+- [How to Obtain a Residence Permit in Romania: A Complete Guide](https://tramitit.com/guides/romania/residence_permit/)
+- [Work Visa Extension Guide for Romania: Complete Procedure & Tips](https://tramitit.com/guides/romania/work_visa_extension/)
+- [How to Obtain a Work Permit for Romania: A Complete Guide](https://tramitit.com/guides/romania/work_permit_application_for_expats/)

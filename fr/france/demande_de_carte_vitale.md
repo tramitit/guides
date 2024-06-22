@@ -11,7 +11,6 @@ title: Obtenez Votre Carte d'Assurance Maladie en France, Irlande et Pologne
 translationKey: france-health_insurance_card_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Une carte d'assurance maladie est une carte délivrée par un prestataire de soins de santé qui accorde au titulaire l'accès à certains types de services médicaux. Dans ce contexte, nous nous concentrerons principalement sur la Carte Vitale en France, la Carte Européenne d'Assurance Maladie (CEAM) en Irlande et la carte d'assurance maladie de l'UE en Pologne.

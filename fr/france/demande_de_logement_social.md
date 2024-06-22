@@ -11,7 +11,6 @@ title: 'Logement Social en France: Eligibility, Application, Assistance'
 translationKey: france-application_for_social_housing
 ---
 
-
 ## Description
 
 ### Qu'est-ce que c'est ?

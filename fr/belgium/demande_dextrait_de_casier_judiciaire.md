@@ -11,7 +11,6 @@ title: 'Obtaining Belgian Criminal Record Extract: Procedures & Requirements'
 translationKey: belgium-request_for_criminal_record_extract
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un extrait de casier judiciaire (également appelé 'Strafblad' en néerlandais) est un document qui répertorie toute activité criminelle associée à la personne en question.

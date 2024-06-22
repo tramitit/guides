@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to consult with a legal expert or a business consultant if you're unsure about any step in the process. Regulations can change, so it's important to ensure you're always following the most up-to-date procedures in order to fully comply with Bulgarian business laws.
+
+
+## Related Posts
+
+- [Vehicle Registration in Bulgaria: Steps, Needs, and Documents](https://tramitit.com/guides/bulgaria/registration_of_a_new_vehicle/)
+- [Temporary Address Registration in Bulgaria: A Complete Guide](https://tramitit.com/guides/bulgaria/temporary_address_registration/)
+- [Marriage Registration in Bulgaria: Procedures and Requirements](https://tramitit.com/guides/bulgaria/marriage_registration/)
+- [Permanent Address Registration in Bulgaria: A Complete Guide](https://tramitit.com/guides/bulgaria/permanent_address_registration/)
+- [How to Obtain a Driver's License in Bulgaria: Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_a_drivers_license/)

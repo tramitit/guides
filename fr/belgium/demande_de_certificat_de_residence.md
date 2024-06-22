@@ -11,7 +11,6 @@ title: 'Preuve de Résidence: Guide Complet pour la Documentation'
 translationKey: belgium-request_for_proof_of_residence
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 La Preuve de Résidence est un document qui vérifie l'adresse de résidence d'une personne. Cela peut être nécessaire pour diverses raisons, notamment l'ouverture d'un compte bancaire, la demande de prêts, la migration, les impôts, ou même pour demander la citoyenneté dans certains pays.

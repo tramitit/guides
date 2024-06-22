@@ -47,3 +47,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Always remember that each scholarship program has its unique requirements and process. Therefore, carefully go through all the information on the scholarship's official page is critical. Make sure your application is submitted before the deadline. In addition to that, you should keep an eye on your mail for feedback about your application.
+
+
+## Related Posts
+
+- [Guide to Applying for Scholarships to Study in France](https://tramitit.com/guides/france/university_scholarship_application/)
+- [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)
+- [Guide to University Registration for International Students in France](https://tramitit.com/guides/france/university_registration/)
+- [Comprehensive Guide to High School Registration in France](https://tramitit.com/guides/france/high_school_registration/)
+- [Building Permit Application: Essential Steps and Requirements](https://tramitit.com/guides/france/building_permit_application/)

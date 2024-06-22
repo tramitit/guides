@@ -11,7 +11,6 @@ title: Obtaining and Translating a Marriage Certificate in Belgium
 translationKey: belgium-request_for_marriage_certificate
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un certificat de mariage est un document officiel attestant du mariage légal entre deux individus.

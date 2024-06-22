@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that for some services you will need proof of registration (Meldezettel). It is therefore important to register your residing address within 3 days of moving in. Failure to do so can result in a fine up to 726 Euros.
+
+
+## Related Posts
+
+- [Guide to Registering Your Residence in Austria (Meldezettel)](https://tramitit.com/guides/austria/registration_certificate/)
+- [Anmeldung: Residence Registration in Germany and Austria Guide](https://tramitit.com/guides/austria/residence_registration/)
+- [Meldezettel Registration: Essential Guide for Residents in Austria](https://tramitit.com/guides/austria/reporting_obligation/)
+- [Guide to Registering Your Change of Main Residence in Austria](https://tramitit.com/guides/austria/change_of_main_residence/)
+- [Guide to Deregistration of Residence in Germany and Austria](https://tramitit.com/guides/austria/deregistration_of_residence/)

@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Average citizens may not fully understand the details of auto taxation. Therefore, it's always advisable to either study the policy thoroughly or consult with a professional to avoid unnecessary penalties. Exchange rates and import/export fees may affect the overall cost of a car. Consider these variables when planning your auto expenses.
+
+
+## Related Posts
+
+- [Romanian Vehicle Registration: Steps and Required Documents](https://tramitit.com/guides/romania/vehicle_visa/)
+- [Car Registration in Romania: Mandatory Process and Requirements](https://tramitit.com/guides/romania/car_registration/)
+- [Understanding and Paying Property Tax in Romania: A Guide](https://tramitit.com/guides/romania/property_tax/)
+- [Residence Tax Guide in Romania: Requirements and Procedures](https://tramitit.com/guides/romania/residence_tax/)
+- [Understand the Tax Certificate: Procedure, Need, and Documents](https://tramitit.com/guides/romania/tax_certificate/)

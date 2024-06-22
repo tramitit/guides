@@ -37,3 +37,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Seek legal advice from organisations providing support to asylum seekers in France. The CNDA and OFPRA provide legal advice free of charge. Be patient, as it may take some time for the French authorities to make a decision about your application. Stay connected with the authorities and inform them about any changes to your situation.
+
+
+
+## Related Posts
+
+- [How to Apply for Housing Assistance from CAF in France](https://tramitit.com/guides/france/housing_assistance_application/)
+- [Steps for Non-EU Citizens to Get a Work Permit in France](https://tramitit.com/guides/france/work_permit_application/)
+- [Complete Guide to Naturalization in France: Steps and Requirements](https://tramitit.com/guides/france/naturalization_application/)
+- [How to Obtain a Residence Permit in France: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_application/)
+- [Guide to Obtaining a Long-Stay Visa for France: Steps & Requirements](https://tramitit.com/guides/france/visa_application/)

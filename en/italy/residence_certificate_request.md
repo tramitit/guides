@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The registration for a residence certificate may vary slightly between cities or provinces. Generally, you must register within 20 days of your arrival in Italy. Any delay might cause legal issues and penalties. Once you have registered your residence, you are entitled to all the same rights and services as an Italian citizen.
+
+
+## Related Posts
+
+- [Guide to Obtaining an Italian Residence Permit (Permesso di Soggiorno)](https://tramitit.com/guides/italy/residence_permit_application/)
+- [How to Apply for Italian Citizenship: A Comprehensive Guide](https://tramitit.com/guides/italy/italian_citizenship_application/)
+- [Permesso di Soggiorno: Essential Guide for Non-EU Residents in Italy](https://tramitit.com/guides/italy/residence_card_request/)
+- [How to Obtain Your Marriage Certificate from Italy](https://tramitit.com/guides/italy/marriage_certificate_request/)
+- [How to Obtain a Family Status Certificate in Italy](https://tramitit.com/guides/italy/family_status_certificate_request/)

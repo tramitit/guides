@@ -49,3 +49,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Note that only the heirs or their authorized representatives can request the Last Will Certificate. Also, remember that a will in Spain must be signed in front of a notary to be valid. The notary is responsible for sending the information about the will to the central registry.
+
+
+## Related Posts
+
+- [Certificate of Last Will Acts: A Guide for Executors and Heirs](https://tramitit.com/guides/spain/certificate_of_last_will_acts/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)
+- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/guides/spain/death_registration/)
+- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/guides/spain/criminal_record_certificate/)
+- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/guides/spain/certificate_of_residence/)

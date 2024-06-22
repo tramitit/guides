@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The procedure may vary slightly for foreigners or non-residents. Hence, it is advised to consult with the local government office or a legal advisor familiar with Hungarian marriage laws.
 - Once the civil ceremony is completed, you can then proceed with religious or other ceremonial traditions as you wish. But remember, only the civil procedure is legally binding in Hungary.
 - Consider having the documents translated into Hungarian to prevent any communication misunderstandings.
+
+
+## Related Posts
+
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)
+- [Guide to Requesting a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/request_for_marriage_certificates/)
+- [Legal Name Change Procedure for Hungary Residents and Citizens](https://tramitit.com/guides/hungary/name_change_registration/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)

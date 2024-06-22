@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You may need to attend regular meetings with a Pôle Emploi advisor as part of your job search.
 - You should regularly consult job offers and submit applications, and be ready to provide proof of your job search activities if asked.
 - If you refuse two reasonable job offers, your ARE benefits may be suspended.
+
+
+## Related Posts
+
+- [Unemployment Benefits in France: Eligibility and Application Guide](https://tramitit.com/guides/france/unemployment_benefit_application/)
+- [How to Apply for Housing Assistance from CAF in France](https://tramitit.com/guides/france/housing_assistance_application/)
+- [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)
+- [Guide to Retirement Pensions in France: Eligibility and Application](https://tramitit.com/guides/france/retirement_pension_application/)
+- [Guide to Social Housing Assistance in France: Eligibility and Steps](https://tramitit.com/guides/france/social_housing_assistance_application/)

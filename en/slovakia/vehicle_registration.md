@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - After registration, the owner is provided with a registration number, which is to be displayed on the number plate, and a document that serves as proof of registration.
 - The vehicle registration will need to be renewed periodically. 
 - You must not live in Slovakia with a car registered in another country beyond the permitted duration (usually 183 days). If you do, you'll be considered a tax resident in Slovakia and required to register the vehicle there.
+
+
+## Related Posts
+
+- [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)
+- [Driver's License in Slovakia: Procedure, Requirements & Tips](https://tramitit.com/guides/slovakia/issuance_of_drivers_license/)
+- [Health Insurance Registration Guide for Foreigners in Slovakia](https://tramitit.com/guides/slovakia/health_insurance_registration/)
+- [Guide to Commercial Register in Slovakia – Requirements & Procedure](https://tramitit.com/guides/slovakia/registration_in_the_commercial_register/)
+- [Guide to Changing Permanent Residence in Slovakia: Steps and Tips](https://tramitit.com/guides/slovakia/change_of_permanent_residence/)

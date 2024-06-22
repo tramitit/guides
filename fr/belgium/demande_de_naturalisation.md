@@ -11,7 +11,6 @@ title: 'Naturalisation: Processus, Documents & Prestataires'
 translationKey: belgium-request_for_naturalization
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 La naturalisation est un processus légal par lequel un non-citoyen d'un pays peut acquérir la citoyenneté ou la nationalité de ce pays. Cela peut se faire par voie législative, sans aucun effort de la part de l'individu, ou cela peut impliquer une demande ou une motion et une approbation par les autorités légales.

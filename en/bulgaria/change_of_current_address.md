@@ -38,3 +38,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Be sure to double-check and update your address with any delivery services, subscriptions, or online commerce platforms to ensure smooth delivery of orders and parcels to your new address.
+
+
+## Related Posts
+
+- [How to Obtain Official Educational Documents: A Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_educational_document/)
+- [Temporary Address Registration in Bulgaria: A Complete Guide](https://tramitit.com/guides/bulgaria/temporary_address_registration/)
+- [Complete Guide to Diploma Renewal: Process, Documents & More](https://tramitit.com/guides/bulgaria/diploma_renewal/)
+- [Permanent Address Registration in Bulgaria: A Complete Guide](https://tramitit.com/guides/bulgaria/permanent_address_registration/)
+- [Guide: Registering Your New Surname Post-Marriage Abroad](https://tramitit.com/guides/bulgaria/registration_of_surname_change_after_marriage/)

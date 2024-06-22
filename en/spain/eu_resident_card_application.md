@@ -48,3 +48,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you are applying as the family member of an EU citizen, you will need to prove your relationship. This typically involves supplying marriage certificates, birth certificates, or other relevant documents.
 - The evidence of sufficient financial resources can often be bank statements, job contract, or scholarship letters.
 - Approval can take anywhere from a few weeks to several months, so be sure to apply well in advance of your planned move.
+
+
+## Related Posts
+
+- [How to Apply for a Resident Card for Non-EU Family in Spain](https://tramitit.com/guides/spain/resident_card_application_for_family_member_of_an_eu_citizen/)
+- [Residence Card for Non-EU Family Members of EU Citizens in Spain](https://tramitit.com/guides/spain/residence_card_of_family_member_of_a_european_union_citizen/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [How to Get a Long-term Residence Card in Spain: A Complete Guide](https://tramitit.com/guides/spain/long-term_residence_card/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)

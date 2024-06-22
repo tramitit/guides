@@ -44,3 +44,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Based on specific conditions, the study grant can either be a non-repayable grant or an interest-free loan.  It is recommended to visit their official website or contact them for more detailed and personalized information.
+
+
+
+## Related Posts
+
+- [Guide to Studying and Living in Austria: Scholarships and Tips](https://tramitit.com/guides/austria/support_for_students/)
+- [Housing Allowance in Austria: Eligibility and Application Process](https://tramitit.com/guides/austria/housing_allowance_application/)
+- [Guide for International Students: Study in Austria](https://tramitit.com/guides/austria/university_registration/)
+- [Guide for International Students Registering in Austrian Schools](https://tramitit.com/guides/austria/school_registration/)
+- [Parental Allowance in Austria and Germany: Eligibility and Process](https://tramitit.com/guides/austria/parental_allowance_application/)

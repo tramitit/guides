@@ -73,3 +73,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - Ensure that all the amounts are entered in Euros.
 - It’s crucial to verify if there are any updates or changes to the form or procedures on the [Portal das Finanças](https://www.portaldasfinancas.gov.pt/), as the regulations and forms may be updated periodically.
+
+
+## Related Posts
+
+- [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)
+- [IRS Anexo J: Guide for Reporting Foreign Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_j/)
+- [Guide to Filing Anexo D for IRS Declarations in Portugal](https://tramitit.com/guides/portugal/irs_anexo_d/)
+- [Complete Guide on IRS Anexo B for Self-Employed in Portugal](https://tramitit.com/guides/portugal/irs_anexo_b/)
+- [Guide to Filing IRS Anexo A for Employment Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_a/)

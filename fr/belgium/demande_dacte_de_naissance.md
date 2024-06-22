@@ -11,7 +11,6 @@ title: 'Obtaining a Birth Certificate in Belgium: Procedure & Details'
 translationKey: belgium-request_for_birth_certificate
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un acte de naissance est un document officiel qui enregistre la naissance d'une personne. C'est un document crucial que vous devez souvent fournir pour diverses procédures administratives en Belgique et à l'étranger.

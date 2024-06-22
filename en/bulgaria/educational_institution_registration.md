@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please check the institution's specific requirements and registration deadlines before applying. Some institutions or courses may also have prerequisites that need to be met before enrolment.
+
+
+## Related Posts
+
+- [How to Obtain Official Educational Documents: A Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_educational_document/)
+- [Complete Guide to Diploma Renewal: Process, Documents & More](https://tramitit.com/guides/bulgaria/diploma_renewal/)
+- [Temporary Address Registration in Bulgaria: A Complete Guide](https://tramitit.com/guides/bulgaria/temporary_address_registration/)
+- [Vehicle Registration in Bulgaria: Steps, Needs, and Documents](https://tramitit.com/guides/bulgaria/registration_of_a_new_vehicle/)
+- [Recognition of Foreign Diplomas in Bulgaria: Process & Requirements](https://tramitit.com/guides/bulgaria/recognition_of_a_foreign_diploma/)

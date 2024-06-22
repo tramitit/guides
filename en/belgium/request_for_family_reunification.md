@@ -54,3 +54,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Family reunification laws and conditions may vary greatly from one country to others. It is greatly recommended to check with the embassy/consulate of the country where your family member is residing to clear out specific details. Also, legal help can be taken to ease out the process.
+
+
+## Related Posts
+
+- [Registering as a Foreigner: Steps and Requirements Explained](https://tramitit.com/guides/belgium/registration_in_the_foreigners_registers/)
+- [Guide to Naturalization: Becoming a Citizen Legally](https://tramitit.com/guides/belgium/request_for_naturalization/)
+- [Essential Guide to Obtaining a Residence Permit in Belgium](https://tramitit.com/guides/belgium/request_for_residence_permit/)
+- [Guide for US Citizens: Travel Authorization to Europe & Beyond](https://tramitit.com/guides/belgium/request_for_travel_authorization/)
+- [How to Apply for a Passport: Requirements and Procedure Guide](https://tramitit.com/guides/belgium/request_for_passport/)

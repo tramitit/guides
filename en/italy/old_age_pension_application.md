@@ -45,3 +45,12 @@ Remember that the sum of your pension will depend on the duration of your contri
 The Italian pension system has been a subject of various reforms recently, aiming to ensure its sustainability in the face of an ageing population. Please check for the most current requirements and procedures.
 
 Please note that through the same INPS portal, you can also find information about advantageous 'buy back' options for university graduates (known as 'Riscatto della Laurea'), extending the period of pension contributions. More details can be found [here](http://www.inps.it).
+
+
+## Related Posts
+
+- [Disability Pension: Financial Assistance for Disabled Individuals](https://tramitit.com/guides/italy/disability_pension_application/)
+- [Italian Family Allowance: Eligibility, Procedure, Required Documents](https://tramitit.com/guides/italy/family_allowance_request/)
+- [Income Support in Italy: Eligibility, Application, and Requirements](https://tramitit.com/guides/italy/income_support_application/)
+- [Understanding and Applying for Unemployment Benefits in Italy (NASpI)](https://tramitit.com/guides/italy/unemployment_benefits_request/)
+- [Unemployment Allowance Application: Steps, Requirements & Details](https://tramitit.com/guides/italy/unemployment_allowance_application/)

@@ -74,3 +74,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It's crucial to keep accurate records of all transactions to ensure you can support the figures declared in Anexo G1.
 - Taxpayers who have held cryptocurrencies for over a year but haven't yet sold them are not required to declare these holdings in Anexo G1.
 - Always consult with a tax advisor if you're uncertain about the details or have complex transactions to declare.
+
+
+## Related Posts
+
+- [Complete Guide to Filing IRS Anexo G for Capital Gains in Portugal](https://tramitit.com/guides/portugal/irs_anexo_g/)
+- [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)
+- [IRS Anexo J: Guide for Reporting Foreign Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_j/)
+- [Guide to Filing Anexo D for IRS Declarations in Portugal](https://tramitit.com/guides/portugal/irs_anexo_d/)
+- [Complete Guide to Filing Anexo E for IRS in Portugal](https://tramitit.com/guides/portugal/irs_anexo_e/)

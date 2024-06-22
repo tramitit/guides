@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The process can take a varying amount of time depending on the specifics of your case and the speed of your local gmina office. It’s recommended to ask for an estimated timeline during your visit. Also, fees can vary depending on the nature of your change. For example, a straightforward address change may cost less than a change due to significant vehicle alterations.
+
+
+## Related Posts
+
+- [How to Change Your Registered Residence Address in Poland](https://tramitit.com/guides/poland/change_of_registered_residence_address/)
+- [Vehicle Registration in Poland: Complete Guide and Requirements](https://tramitit.com/guides/poland/vehicle_registration/)
+- [Change of Residence Notification in Poland: Steps and Requirements](https://tramitit.com/guides/poland/change_of_residence_notification/)
+- [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)
+- [Legal Surname Change Notification Process in Poland](https://tramitit.com/guides/poland/change_of_surname_notification/)

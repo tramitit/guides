@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The procedure and requirements may slightly vary depending on the exact local laws and the specific circumstances of the individual.
 - It’s advisable to update your new name in all personal and legal documents such as bank accounts, property deeds, wills, etc.
 - The service provider might be the local government's office responsible for name change procedures in the given country, in this case, Hungary.
+
+
+## Related Posts
+
+- [Legal Name Change Procedure for Hungary Residents and Citizens](https://tramitit.com/guides/hungary/name_change_registration/)
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)
+- [Get a Duplicate Hungarian Birth Certificate: Step-by-Step Guide](https://tramitit.com/guides/hungary/application_for_duplicate_birth_certificate/)
+- [Guide to Requesting a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/request_for_marriage_certificates/)
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)

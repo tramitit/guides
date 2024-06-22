@@ -50,3 +50,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Keep in mind that the Schengen area including Austria, has a policy of requiring a verpflichtungserklärung or "obligation letter" from a host in order to allow certain non-EU citizens to visit. Make sure to check with the Austrian Embassy/Consulate regarding any such requirement. Be aware that processing times can vary greatly depending on the time of year and the specific circumstances of your application.
+
+
+
+## Related Posts
+
+- [Austrian Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/austria/residence_permit_application/)
+- [Guide for International Students: Study in Austria](https://tramitit.com/guides/austria/university_registration/)
+- [Guide to Studying and Living in Austria: Scholarships and Tips](https://tramitit.com/guides/austria/support_for_students/)
+- [Marriage Certificate Application Process in Austria Explained](https://tramitit.com/guides/austria/marriage_certificate_application/)
+- [Guide for International Students Registering in Austrian Schools](https://tramitit.com/guides/austria/school_registration/)

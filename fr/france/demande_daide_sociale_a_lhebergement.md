@@ -11,7 +11,6 @@ title: 'Logement Social en France: Aide au Loyer et Procédure de Demande'
 translationKey: france-social_housing_assistance_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est ?
 L'aide au logement social est un service fourni par le gouvernement pour offrir un logement abordable aux personnes et aux familles qui ne peuvent pas se permettre un logement aux prix du marché. Il peut s'agir soit d'un logement permanent, soit d'un logement temporaire.

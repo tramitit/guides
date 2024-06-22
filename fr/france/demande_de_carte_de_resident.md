@@ -11,7 +11,6 @@ title: 'Carte de Résident en France: Procédure, Documents et Détails'
 translationKey: france-resident_card_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Une carte de résident, également connue sous le nom de 'Carte de Résident', est un document qui valide le statut légal d'un individu étranger résidant en France pour une période prolongée. Cette carte accorde généralement à son détenteur le droit de vivre et de travailler en France.

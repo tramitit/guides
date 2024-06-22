@@ -47,3 +47,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The process might seem straightforward but could take a considerable amount of time due to Spanish bureaucratic systems. The monetary cost of the procedure can also vary based on the translations and document legalizations needed. It's recommended to start the process well ahead of your intended marriage date to ensure everything goes smoothly.
+
+
+## Related Posts
+
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/guides/spain/birth_registration/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)

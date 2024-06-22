@@ -11,7 +11,6 @@ title: 'Marriage Registration in Portugal: Steps & Documents for Foreigners'
 translationKey: portugal-registration_of_marriage_of_foreign_citizen_in_portugal
 ---
 
-
 ## Description
 ### What is it?
 The process of registering a marriage in Portugal involving a foreign citizen, with an emphasis on understanding the legalities, required documents, and procedures.
@@ -54,3 +53,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 All documents provided must not be older than six months at the time of submission. If one of the partners is a widow or divorcee, they should bring the relevant documentation (death certificate or divorce paper). For any specific circumstances or further information, you should directly consult with the Civil Registry Office. It is advised to understand all the legal implications fully before proceeding. Additional assistance can also be obtained from local immigration authorities and legal advisors. The costs involved can vary significantly, so it is recommended to cross-check with the official resources.
+
+
+## Related Posts
+
+- [How to Obtain a Marriage Certificate: Complete Guide](https://tramitit.com/guides/portugal/request_for_marriage_certificate/)
+- [Guide to Register Non-Portuguese Newborns in Portugal](https://tramitit.com/guides/portugal/registration_of_birth_of_foreign_citizen_in_portugal/)
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [Acquire Portuguese Nationality: Process, Requirements, Documents](https://tramitit.com/guides/portugal/request_for_portuguese_nationality/)
+- [How to Obtain a Birth Certificate: Steps and Requirements](https://tramitit.com/guides/portugal/request_for_birth_certificate/)

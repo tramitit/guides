@@ -54,3 +54,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Some schools may require entrance exams or interviews for admission.
 - It's advisable to start the application process early, noting the deadlines for applications.
 - For studying at international schools or outside of your local district, additional documents or procedures may apply.
+
+
+## Related Posts
+
+- [Registering Your Child for Middle School in France: A Guide](https://tramitit.com/guides/france/middle_school_registration/)
+- [Guide to Primary School Registration in France for 2023](https://tramitit.com/guides/france/primary_school_registration/)
+- [Guide to University Registration for International Students in France](https://tramitit.com/guides/france/university_registration/)
+- [Complete Guide to Preschool Enrollment in France - Steps & Tips](https://tramitit.com/guides/france/preschool_registration/)
+- [How to Register to Vote in France: A Comprehensive Guide](https://tramitit.com/guides/france/voter_registration/)

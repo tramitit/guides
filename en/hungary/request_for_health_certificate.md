@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 The cost may vary depending on the medical professional and individual health insurance policy. If participating in a marathon, please check with the event organizers for any specific requirements or guidelines regarding health certificates.
+
+
+## Related Posts
+
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)
+- [Health Insurance Application in Hungary: A Complete Guide](https://tramitit.com/guides/hungary/healthcare_insurance_application/)
+- [Guide to Requesting a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/request_for_marriage_certificates/)
+- [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)
+- [How to Register a Death in Hungary: A Step-by-Step Guide](https://tramitit.com/guides/hungary/death_registration/)

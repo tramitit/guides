@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 The time period for the registration process can range between 5-10 days, but it can be extended if additional verification of the provided documents is required.
 Creatng a company in Slovakia also brings obligations such as accounting, annual financial statement depositing, tax return submission, and possibly audits. Consulting with a financial advisor can provide further insight into these obligations.
+
+
+## Related Posts
+
+- [Comprehensive Guide to Vehicle Registration in Slovakia](https://tramitit.com/guides/slovakia/vehicle_registration/)
+- [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)
+- [Health Insurance Registration Guide for Foreigners in Slovakia](https://tramitit.com/guides/slovakia/health_insurance_registration/)
+- [Obtaining a Marriage Certificate in Slovakia: Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_marriage_certificate/)
+- [Name Change Process in Slovakia: Legal Steps and Requirements](https://tramitit.com/guides/slovakia/change_of_name/)

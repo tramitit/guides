@@ -11,7 +11,6 @@ title: 'Indemnité Journalière: Procédure et Documents Requis en France'
 translationKey: france-daily_allowance_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 L'indemnité journalière est une partie du salaire versée à un employé qui est incapable de travailler en raison d'une maladie ou d'un accident. Cela fait partie du système de sécurité sociale en France.

@@ -47,3 +47,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Non-Polish citizens can apply for a building permit but there might be additional requirements or longer timelines.
 - In case of objections by neighbors or other parties, the procedure of obtaining a building permit may get delayed. It is advisable to keep neighbors informed about your plans where possible.
 - The permit is usually valid for three years, within which the construction process should start.
+
+
+## Related Posts
+
+- [Work Permits in Poland: Step-by-Step Guide for Non-EU Citizens](https://tramitit.com/guides/poland/work_permit_for_foreigners/)
+- [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)
+- [Polish Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/poland/residence_permit/)
+- [How to Get a Firearm Permit in Poland: Step-by-Step Guide](https://tramitit.com/guides/poland/gun_permit/)
+- [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)

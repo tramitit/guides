@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 In many cases, your employer will register you for health insurance. If you're a student, your university may register you. If you are unemployed or self-employed, you ought to do it yourself. You need to make sure that you are registered within 8 days of starting work or becoming a resident. Failure to do so may result in a fine or denial of services.
 Health services in Slovakia are not free of charge and you may be required to co-pay for some services. However, basic healthcare services are covered by insurance.
+
+
+## Related Posts
+
+- [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [Comprehensive Guide to Vehicle Registration in Slovakia](https://tramitit.com/guides/slovakia/vehicle_registration/)
+- [Understanding Social Benefits in Slovakia: Eligibility and Steps](https://tramitit.com/guides/slovakia/application_for_social_benefits/)
+- [Guide to Deregistering from Health Insurance: Steps and Tips](https://tramitit.com/guides/slovakia/deregistering_from_health_insurance/)

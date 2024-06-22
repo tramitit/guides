@@ -11,7 +11,6 @@ title: 'Déclaration de Naissance en France: Procédure et Documents Requis'
 translationKey: france-birth_declaration
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est ?
 Une déclaration de naissance en France est une procédure formelle qui consiste à reconnaître la naissance d'un enfant auprès des autorités civiles en France.

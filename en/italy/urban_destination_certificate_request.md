@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Note: The exact process and timeline can vary depending on the local laws and regulations of the area where your property located. Be sure to contact your local council to get the most accurate information.
+
+
+## Related Posts
+
+- [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)
+- [How to Obtain a Civil Status Certificate: A Complete Guide](https://tramitit.com/guides/italy/civil_status_certificate/)
+- [Building Permit Guide: Steps to Secure Approval in Italy](https://tramitit.com/guides/italy/building_permit_request/)
+- [Italian Identity Card: Complete Guide to Application & Requirements](https://tramitit.com/guides/italy/identity_card_request/)
+- [Certificate of Enjoyment of Political and Civil Rights Guide](https://tramitit.com/guides/italy/certificate_of_civil_rights_enjoyment_request/)

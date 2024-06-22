@@ -47,3 +47,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You can estimate your supplement amount with the online simulator at the [CAF website](https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lecomplementdulibrechoixdumodedegarde)
 - The CMG also entitles you to a flat rate coverage of your employer's social security contributions.
 - You have to pay your childcare provider through Pajemploi to receive CMG by the CAF. They will take care of the administrative procedures with your nanny or micro-creche.
+
+
+## Related Posts
+
+- [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)
+- [Complete Guide to Complementary Health Insurance in France](https://tramitit.com/guides/france/complementary_health_insurance_application/)
+- [How to Apply for Housing Assistance from CAF in France](https://tramitit.com/guides/france/housing_assistance_application/)
+- [Complete Guide to Preschool Enrollment in France - Steps & Tips](https://tramitit.com/guides/france/preschool_registration/)
+- [Daycare Registration Process in Canada: A Detailed Guide](https://tramitit.com/guides/france/daycare_registration/)

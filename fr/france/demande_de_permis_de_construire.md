@@ -11,7 +11,6 @@ title: 'Guide to Building Permits: Process, Requirements & Providers'
 translationKey: france-building_permit_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un permis de construire est un document officiel requis par le gouvernement local ou national qui permet la construction ou la modification majeure d'une structure de bâtiment dans sa juridiction. Le processus implique une revue détaillée d'un projet de construction proposé pour s'assurer qu'il est conforme à tous les codes de zonage et de construction.

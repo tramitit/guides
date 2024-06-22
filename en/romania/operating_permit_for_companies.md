@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Depending on the business sector, it could be necessary to obtain additional permits/certificates, such as Environmental, Construction, Fire Safety, etc. The permit requirements and processes can vary based on business type and jurisdiction. Always confirm with local authorities or legal consultants to ensure full compliance.
+
+
+## Related Posts
+
+- [Guide to Building Permits in Romania: Procedures and Requirements](https://tramitit.com/guides/romania/building_permit/)
+- [How to Obtain a Work Permit for Romania: A Complete Guide](https://tramitit.com/guides/romania/work_permit_application_for_expats/)
+- [How to Obtain a Residence Permit in Romania: A Complete Guide](https://tramitit.com/guides/romania/residence_permit/)
+- [Romanian Vehicle Registration: Steps and Required Documents](https://tramitit.com/guides/romania/vehicle_visa/)
+- [Car Registration in Romania: Mandatory Process and Requirements](https://tramitit.com/guides/romania/car_registration/)

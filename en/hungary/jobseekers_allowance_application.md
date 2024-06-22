@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Make sure to report to the job centre any time you travel outside the country as this can affect your allowance. If you have any changes in your circumstances, it is vital to notify these to Jobcentre Plus immediately to prevent any issues with your payments.
+
+
+## Related Posts
+
+- [Understanding the State Pension System: Key Steps and Essentials](https://tramitit.com/guides/hungary/joining_the_state_pension_system/)
+- [How to Apply for Housing Support in Hungary: A Step-by-Step Guide](https://tramitit.com/guides/hungary/housing_support_application/)
+- [Family Allowance in Hungary: Support for Parents and Guardians](https://tramitit.com/guides/hungary/family_allowance_application/)
+- [Complete Guide to Understanding and Applying for Student Loans](https://tramitit.com/guides/hungary/student_loan_application/)
+- [Understanding Sick Pay: Procedures and Required Documents](https://tramitit.com/guides/hungary/sick_pay_application/)

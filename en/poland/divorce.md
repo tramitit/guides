@@ -51,3 +51,12 @@ While filing for divorce, whether it is consensual or contested, it's better to 
 It's specified in Polish law that when it comes to a divorce, the court will consider the best interests of the children, often assigning custody to the parent who has been the principal caregiver to the child.
 
 If the divorce is decided in favor, the court will declare the marriage as ended. The ex-spouses are then eligible to remarry according to Polish law.
+
+
+## Related Posts
+
+- [How to Obtain a Marriage Certificate in Poland - A Guide](https://tramitit.com/guides/poland/marriage_certificate/)
+- [Legal Surname Change Notification Process in Poland](https://tramitit.com/guides/poland/change_of_surname_notification/)
+- [How to Obtain a Death Certificate: Step-by-Step Guide](https://tramitit.com/guides/poland/issuance_of_death_certificate/)
+- [Step-by-Step Polish Citizenship Guide: Eligibility and Application](https://tramitit.com/guides/poland/application_for_citizenship/)
+- [How to Obtain a Duplicate Birth Certificate in Poland](https://tramitit.com/guides/poland/issuance_of_duplicate_birth_certificate/)

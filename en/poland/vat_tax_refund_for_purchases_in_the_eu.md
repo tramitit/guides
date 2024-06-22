@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's worth noting that not all goods are eligible for a VAT refund. Certain expenses like hotel accommodation or restaurant meals are typically not included. The refund might take some time to process (up to several weeks), so plan accordingly. Additionally, some stores may not participate in VAT refund schemes, and some may have a minimum purchase amount to qualify, so it's always best to ask before you make a purchase.
+
+
+## Related Posts
+
+- [PIT Tax Declaration Guide for Income Earners in Poland](https://tramitit.com/guides/poland/pit_tax_declaration/)
+- [Work Permits in Poland: Step-by-Step Guide for Non-EU Citizens](https://tramitit.com/guides/poland/work_permit_for_foreigners/)
+- [Polish Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/poland/residence_permit/)
+- [EU Citizens' Guide: Registering Residence in Poland](https://tramitit.com/guides/poland/registration_of_residence_for_eu_citizens/)
+- [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)

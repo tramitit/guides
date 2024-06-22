@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Timelines might vary on a case by case basis. Please allow for potential delays.
 - Croatian law states that newborn babies should be registered within 15 days after birth.
 - In the case of Croatian citizens who give birth abroad, the birth can still be registered in Croatian registries. The documents required remain the same, but they must be translated into Croatian by a certified translator and authenticated according to the rules of the country of birth. The local diplomatic mission or consular post of Croatia can assist with this process.
+
+
+## Related Posts
+
+- [Newborn Registration in Croatia: Procedure and Required Documents](https://tramitit.com/guides/croatia/newborn_registration_process/)
+- [How to Obtain a Croatian Birth Certificate: Step-by-Step Guide](https://tramitit.com/guides/croatia/issuance_of_birth_certificate/)
+- [Guide to School Registration in Croatia: Steps and Documents](https://tramitit.com/guides/croatia/registering_children_for_school/)
+- [Guide: Registering Your Marriage in Croatia - Steps & Documents](https://tramitit.com/guides/croatia/entry_into_the_marriage_register/)
+- [How to Obtain a Croatian Citizenship Certificate: Step-by-Step Guide](https://tramitit.com/guides/croatia/issuance_of_citizenship_certificate/)

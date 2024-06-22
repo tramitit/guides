@@ -48,3 +48,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - **Foreign Income**: When declaring income from foreign sources, it is important to follow specific guidelines regarding exchange rates and documentation required.
 - **Assistance**: If you are uncertain about how to fill out the form, consider consulting a tax advisor to avoid any mistakes that might lead to penalties.
+
+
+
+## Related Posts
+
+- [IRS Anexo J: Guide for Reporting Foreign Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_j/)
+- [Guide to Filing IRS Anexo A for Employment Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_a/)
+- [Complete Guide to Filing Anexo E for IRS in Portugal](https://tramitit.com/guides/portugal/irs_anexo_e/)
+- [Guide to Filing Anexo D for IRS Declarations in Portugal](https://tramitit.com/guides/portugal/irs_anexo_d/)
+- [Complete Guide on IRS Anexo B for Self-Employed in Portugal](https://tramitit.com/guides/portugal/irs_anexo_b/)

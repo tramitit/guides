@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Make sure to check your eligibility and understand the application process thoroughly before applying. Additionally, keep in mind that the specifics mentioned here may vary depending on your local area - always check the details with your local authority.
+
+
+## Related Posts
+
+- [Italian Family Allowance: Eligibility, Procedure, Required Documents](https://tramitit.com/guides/italy/family_allowance_request/)
+- [Unemployment Allowance Application: Steps, Requirements & Details](https://tramitit.com/guides/italy/unemployment_allowance_application/)
+- [Disability Pension: Financial Assistance for Disabled Individuals](https://tramitit.com/guides/italy/disability_pension_application/)
+- [Maternity Allowance: Eligibility, Procedure, and Key Details](https://tramitit.com/guides/italy/maternity_allowance_application/)
+- [Income Support in Italy: Eligibility, Application, and Requirements](https://tramitit.com/guides/italy/income_support_application/)

@@ -11,7 +11,6 @@ title: 'Allocation de Retour à l''Emploi (ARE) en France: Guide et Procédure'
 translationKey: france-unemployment_return-to-work_assistance_(are)_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 L'allocation de retour à l'emploi (ARE) est un régime d'indemnisation du chômage fourni par la France aux personnes qui ont perdu leur emploi, les aidant financièrement jusqu'à ce qu'ils trouvent un nouveau travail.

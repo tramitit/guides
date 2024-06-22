@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember, you must keep up your obligations as a job seeker. This means you must attend all mandatory courses or meetings, and actively seek work, or your benefits might be stopped. Regular check-ins will be conducted to verify that you are actively seeking employment. Make sure you are aware of your obligations once your claim has been approved.
+
+
+## Related Posts
+
+- [SEPE Appointment Guide for Unemployment Benefits in Spain](https://tramitit.com/guides/spain/appointment_request_for_sepe/)
+- [Guide to Retirement Pension in Spain: Eligibility and Application](https://tramitit.com/guides/spain/retirement_pension_application/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)
+- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
+- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/guides/spain/ingreso_minimo_vital/)

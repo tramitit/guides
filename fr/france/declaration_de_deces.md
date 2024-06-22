@@ -11,7 +11,6 @@ title: 'Déclaration de Décès en France: Procédure et Documents Requis'
 translationKey: france-death_declaration
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Une déclaration de décès est une notification formelle du décès de quelqu'un aux autorités. En France, cette procédure commence par un certificat médical de décès, suivi d'un rapport au registre civil de la mairie du lieu de décès.

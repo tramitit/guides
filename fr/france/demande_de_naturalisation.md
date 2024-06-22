@@ -11,7 +11,6 @@ title: 'Guide de Naturalisation en France: Processus, Documents & Délais'
 translationKey: france-naturalization_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 La naturalisation est le processus légal par lequel un non-citoyen d'un pays peut acquérir la citoyenneté ou la nationalité de ce pays. Dans le cadre de ce guide, nous nous concentrerons sur le processus de naturalisation en France.

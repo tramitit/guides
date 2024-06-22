@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Exceptions may apply to citizens of EU countries. Always consult with the official guidelines provided by the Croatian Ministry of the Interior.
 - Keep in mind that you are required by law to report any change of address within 15 days of moving, to the local police. This means that if you move, you must repeat the process and register your new address.
 - Upon successful completion of the procedure, you'll receive a Confirmation of the Temporary Residence. You should keep it throughout your stay in the country since you may need it for other procedures.
+
+
+## Related Posts
+
+- [Temporary Residence Registration in Croatia - Step-by-Step Guide](https://tramitit.com/guides/croatia/temporary_residence_registration/)
+- [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)
+- [Croatia Stay Registration Guide: Documents and Procedure](https://tramitit.com/guides/croatia/stay_registration_upon_entering_the_country/)
+- [How to Register Your Stay as a Tourist in Croatia - A Guide](https://tramitit.com/guides/croatia/registration_of_tourists_stay/)
+- [Guide to Obtaining an Immigration Permit in Croatia](https://tramitit.com/guides/croatia/obtaining_an_immigration_permit/)

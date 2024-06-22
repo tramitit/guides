@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 * Continual verification of the active search for employment is required during the period of receiving the benefit. 
 * Individuals who were previously self-employed or in part-time employment are subject to different regulations and guidelines.
 * The application can be made without any assistance, however, for individuals facing difficulties, various independent service providers are available.
+
+
+## Related Posts
+
+- [Understanding and Applying for Unemployment Benefits in Italy (NASpI)](https://tramitit.com/guides/italy/unemployment_benefits_request/)
+- [Italian Family Allowance: Eligibility, Procedure, Required Documents](https://tramitit.com/guides/italy/family_allowance_request/)
+- [Income Support in Italy: Eligibility, Application, and Requirements](https://tramitit.com/guides/italy/income_support_application/)
+- [Guide to Social Allowance: Eligibility, Application, and Documents](https://tramitit.com/guides/italy/social_allowance_application/)
+- [Disability Pension: Financial Assistance for Disabled Individuals](https://tramitit.com/guides/italy/disability_pension_application/)

@@ -42,3 +42,12 @@ The cost varies depending on the number of copies required and the purpose of th
 For foreigners living in Austria, the Standesamt will likely also report the death to their home country's embassy. 
 
 Please remember that laws and regulations may vary and are subjected to change, and while this guide aims to inform, always refer to the regional government's resources for the most accurate information.
+
+
+## Related Posts
+
+- [How to Obtain a Birth Certificate in Austria: A Complete Guide](https://tramitit.com/guides/austria/birth_certificate_application/)
+- [Marriage Certificate Application Process in Austria Explained](https://tramitit.com/guides/austria/marriage_certificate_application/)
+- [How to Obtain Proof of Austrian Citizenship: Steps and Requirements](https://tramitit.com/guides/austria/proof_of_citizenship/)
+- [How to Obtain an Apostille for International Document Use](https://tramitit.com/guides/austria/apostille_application/)
+- [How to Obtain a Criminal Record Certificate: A Complete Guide](https://tramitit.com/guides/austria/criminal_record_certificate_application/)

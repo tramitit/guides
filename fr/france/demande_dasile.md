@@ -11,7 +11,6 @@ title: 'Demander l''asile en France: Procédure et documents requis'
 translationKey: france-asylum_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Une demande d'asile fait référence à la procédure visant à rechercher la protection d'un pays étranger en raison de la crainte de persécution ou de préjudice dans son pays d'origine. Les pays du monde entier, y compris la France, accordent une protection aux demandeurs d'asile en vertu du droit international.

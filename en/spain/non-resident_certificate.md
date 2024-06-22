@@ -57,3 +57,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For those moving to Spain from countries like Germany, make sure to cancel any existing non-resident services in Germany if required.
 - If you are applying for a non-resident certificate to open a bank account, ensure you have all necessary bank-related documents to avoid delays.
 - Non-EU spouses who need this certification to relate their empadronamiento or other residency documents can also follow these steps, but may additionally require marriage certificates or other relation proofs.
+
+
+## Related Posts
+
+- [How to Obtain a Green NIE Resident Certificate in Spain](https://tramitit.com/guides/spain/resident_certificate/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)

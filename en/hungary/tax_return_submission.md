@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's important to keep a track of all your cryptocurrency transactions to accurately report your gains or losses during tax returns. The Hungarian tax law currently mandates a 15% income tax and 19.5% health contribution on the gain in value from activities related to virtual currency.
+
+
+## Related Posts
+
+- [Understanding Hungary's Property Acquisition Tax: Your Guide](https://tramitit.com/guides/hungary/property_acquisition_tax_payment/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)
+- [How to Apply for Housing Support in Hungary: A Step-by-Step Guide](https://tramitit.com/guides/hungary/housing_support_application/)
+- [Guide to Applying for Pension in Hungary: Procedures & Documents](https://tramitit.com/guides/hungary/pension_application/)
+- [Vehicle Registration in Hungary: Complete Step-by-Step Guide](https://tramitit.com/guides/hungary/vehicle_registration/)

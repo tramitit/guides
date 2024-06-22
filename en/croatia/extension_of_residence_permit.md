@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It's imperative to apply for the extension before your current permit expires. Overstaying your visa can result in penalties, including deportation and bans from reentry.
 - The rental contract needs to be notarized for use in official procedures. This can be done at a local notary office.
 - The process may take from several weeks to a few months. It's recommended to initiate the process early before the expiration of your current permit. 
+
+
+## Related Posts
+
+- [Guide to Obtaining an Immigration Permit in Croatia](https://tramitit.com/guides/croatia/obtaining_an_immigration_permit/)
+- [Temporary Residence Registration in Croatia - Step-by-Step Guide](https://tramitit.com/guides/croatia/temporary_residence_registration/)
+- [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)
+- [Croatia Stay Registration Guide: Documents and Procedure](https://tramitit.com/guides/croatia/stay_registration_upon_entering_the_country/)
+- [Guide to Obtaining a Residence Permit for Foreign Countries](https://tramitit.com/guides/croatia/issuance_of_residence_permit_for_foreigners/)

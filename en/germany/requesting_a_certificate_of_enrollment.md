@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional Details
 Please note that the institution may charge a nominal fee for generating this certificate. Also, depending on the time of the year, it may take several business days for the institution to process your request and issue the certificate. Also, the certificate does not typically disclose the subjects a student is enrolled in or their grades, just their enrollment status.
+
+
+## Related Posts
+
+- [Guide for Foreign Students to Get Vocational Certificate in Germany](https://tramitit.com/guides/germany/requesting_a_vocational_school_certificate/)
+- [How to Obtain a Birth Certificate in Germany: Step-by-Step Guide](https://tramitit.com/guides/germany/applying_for_a_birth_certificate/)
+- [How to Submit Pregnancy Confirmation: Step-by-Step Guide](https://tramitit.com/guides/germany/submitting_pregnancy_confirmation/)
+- [How to Obtain a Certificate of Conduct (Führungszeugnis) in Germany](https://tramitit.com/guides/germany/applying_for_a_certificate_of_conduct_online/)
+- [How to Obtain a Death Certificate: Steps and Requirements](https://tramitit.com/guides/germany/applying_for_a_death_certificate/)

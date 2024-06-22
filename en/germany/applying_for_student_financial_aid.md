@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The amount of BAföG awarded depends on several factors, including the student's income and assets, parents' income, and whether the student lives with their parents or independently.
 - Half of the BAföG aid is provided as a grant, and the other half as an interest-free loan, which needs to be paid back after finishing your studies.
 - Non-EU students can also apply for BAföG, but they usually need to have lived in Germany for a certain period of time (usually 5 years) and demonstrate the intention to stay in Germany long-term. They also need to show that they are unable to receive financial support from their home country.
+
+
+## Related Posts
+
+- [Guide to Applying for Child Benefit (Kindergeld) in Germany](https://tramitit.com/guides/germany/applying_for_child_benefit/)
+- [How to Apply for Unemployment Benefits in Germany: A Guide](https://tramitit.com/guides/germany/applying_for_unemployment_benefit/)
+- [Housing Allowance: Apply for Wohngeld in Germany Easily](https://tramitit.com/guides/germany/applying_for_housing_allowance/)
+- [Guide to Parental Allowance in Germany: Eligibility & Application](https://tramitit.com/guides/germany/applying_for_parental_allowance/)
+- [German Visa Application Guide for Non-German Residents](https://tramitit.com/guides/germany/visa_application/)

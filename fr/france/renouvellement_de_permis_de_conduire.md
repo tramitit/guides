@@ -12,7 +12,6 @@ title: Renewal of French Driving License - Procedure & Providers
 translationKey: france-drivers_license_renewal
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Le renouvellement d'un permis de conduire est le processus de renouvellement de votre permis de conduire existant après sa date d'expiration. Cette procédure permet de maintenir votre permis de conduire à jour et garantit que vous êtes légalement autorisé à conduire, évitant ainsi toute sanction.

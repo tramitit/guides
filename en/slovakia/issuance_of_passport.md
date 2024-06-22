@@ -46,3 +46,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Ensure that all the information on the application form is accurate and matches with the documents provided. Errors or inconsistencies can result in the application being declined or delay. Keep your old passport, if applicable, safe for it might be required during the process.
 For minors, parents or legal guardians should carry out the procedure. Any changes in civil status need to be reported and appropriate documents must be provided.
+
+
+
+## Related Posts
+
+- [How to Obtain a Slovak Identity Card: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_identity_card/)
+- [How to Obtain a Birth Certificate in Slovakia | Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_birth_certificate/)
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [Guide to Applying for Slovakian Citizenship by Descent](https://tramitit.com/guides/slovakia/application_for_citizenship/)
+- [How to Obtain a Certificate of Slovak Ancestry for Citizenship](https://tramitit.com/guides/slovakia/certificate_of_slovak_ancestry/)

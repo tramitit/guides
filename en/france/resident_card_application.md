@@ -51,3 +51,12 @@ Note that a 'récépissé’ does not enable you to travel back to France if you
 The French resident card does not automatically grant you the right to work in the rest of the EU. You would still need to comply with the specific immigration rules of other EU countries.
 
 Having a resident status in France for at least five years allows you to request a Certificate of Residence for Long-Term Residents (Carte de résident de longue durée-UE).
+
+
+## Related Posts
+
+- [How to Obtain a Residence Permit in France: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_application/)
+- [How to Renew Your French Residence Permit: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_renewal/)
+- [National Identity Card in France: Procedure, Requirements, Providers](https://tramitit.com/guides/france/national_identity_card_application/)
+- [Guide to Obtaining a Long-Stay Visa for France: Steps & Requirements](https://tramitit.com/guides/france/visa_application/)
+- [Steps for Non-EU Citizens to Get a Work Permit in France](https://tramitit.com/guides/france/work_permit_application/)

@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The education in France starts around 8:30 am and ends around 4:30 pm, with a break for lunch. This can vary slightly depending on specific schools and regions. Ensure to be fully informed about daily routines and schedules during the meeting with the school. Regular attendance is necessary once the child is enrolled. If you're moving from another country, be prepared for differences in the educational system and seek out support where necessary.
+
+
+## Related Posts
+
+- [Complete Guide to Preschool Enrollment in France - Steps & Tips](https://tramitit.com/guides/france/preschool_registration/)
+- [Registering Your Child for Middle School in France: A Guide](https://tramitit.com/guides/france/middle_school_registration/)
+- [Comprehensive Guide to High School Registration in France](https://tramitit.com/guides/france/high_school_registration/)
+- [Daycare Registration Process in Canada: A Detailed Guide](https://tramitit.com/guides/france/daycare_registration/)
+- [Guide to University Registration for International Students in France](https://tramitit.com/guides/france/university_registration/)

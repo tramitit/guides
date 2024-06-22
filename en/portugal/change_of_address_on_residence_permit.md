@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to make the address change notification as soon as possible after you move. It helps to stay in compliance with the immigration law of Portugal. Be aware that failing to do so might lead to legal implications.
+
+
+## Related Posts
+
+- [How to Change the Address on Your Citizen Card in Portugal](https://tramitit.com/guides/portugal/change_of_address_on_citizen_card/)
+- [Guide to Residence Permit Renewal in Portugal - SEF Procedure](https://tramitit.com/guides/portugal/request_for_residence_permit_renewal/)
+- [Resident Card Renewal in Portugal: Steps and Requirements](https://tramitit.com/guides/portugal/renewal_of_resident_card_for_foreign_citizens/)
+- [How to Obtain a Residence Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_residence_certificate/)
+- [How to Update NIF Data in Portugal: A Complete Guide](https://tramitit.com/guides/portugal/request_for_change_of_nif_data/)

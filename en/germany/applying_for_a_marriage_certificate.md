@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Note that this process can take some time to complete, as the Standesamt will need to verify the legality of the foreign marriage. It is recommended to apply several months in advance of any deadlines. Also, note that some marriages performed outside of Germany may not be considered legally binding within the country. It is recommended to seek legal advice if you're unsure about the legality of your marriage.
+
+
+## Related Posts
+
+- [Guide to Marriage Registration in Germany: Steps and Documents](https://tramitit.com/guides/germany/marriage_registration/)
+- [How to Obtain a Birth Certificate in Germany: Step-by-Step Guide](https://tramitit.com/guides/germany/applying_for_a_birth_certificate/)
+- [How to Obtain a Death Certificate: Steps and Requirements](https://tramitit.com/guides/germany/applying_for_a_death_certificate/)
+- [Guide to Legal Name Change Process in Germany: Steps & Requirements](https://tramitit.com/guides/germany/declaration_of_name_change/)
+- [How to Apply for a German Passport: Step-by-Step Guide](https://tramitit.com/guides/germany/application_for_a_passport/)

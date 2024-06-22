@@ -47,3 +47,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 2. Students are generally awarded a work authorization that is valid for the duration of their contract, up to a maximum of the duration of their currently valid stay.
 3. After you complete your studies, you may switch from a student visa to a work visa, although this process may require you to return to your home country and apply for a work visa through the Spanish embassy.
 4. The spouse of a student permit holder can also apply for work authorization in Spain, although their permit will be tied to the status of the student.
+
+
+## Related Posts
+
+- [How to Apply for a Spain Work Permit: Step-by-Step Guide](https://tramitit.com/guides/spain/work_permit_application/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [How to Renew Your Work Permit in Spain: A Comprehensive Guide](https://tramitit.com/guides/spain/work_permit_renewal/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)
+- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/guides/spain/student_card_application/)

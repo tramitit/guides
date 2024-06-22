@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Some cases may require the vehicle to be presented for a technical check before registration.
 - If you bought the car on loan or lease, additional documents might be required depending on the financing company's regulations.
 - Lack of any document or incorrect entries may lead to the refusal of registration.
+
+
+## Related Posts
+
+- [Essential Guide to Vehicle Registration for Imported Cars](https://tramitit.com/guides/czech-republic/registration_of_a_vehicle_imported_from_abroad/)
+- [Residence Registration in Czech Republic: A Simple Guide](https://tramitit.com/guides/czech-republic/residence_registration_for_foreigners/)
+- [Marriage Registration Guide for Foreigners in the Czech Republic](https://tramitit.com/guides/czech-republic/registry_office_-_marriage/)
+- [EU Citizens' Guide to Temporary Residence in Czech Republic](https://tramitit.com/guides/czech-republic/residence_registration_for_eu_citizens/)
+- [Czech Republic Driving License: Steps and Requirements Guide](https://tramitit.com/guides/czech-republic/application_for_a_driving_licence/)

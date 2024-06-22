@@ -11,7 +11,6 @@ title: Mise à jour de l'adresse sur différents services - Guide complet
 translationKey: france-change_of_address
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Modifier votre adresse fait référence au processus de mise à jour de vos informations de localisation sur différentes plateformes ou services comme Revolut, les Jeux olympiques, Vinted, etc. Le processus varie en fonction de la plateforme.

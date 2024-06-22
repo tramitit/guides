@@ -11,7 +11,6 @@ title: 'Allocations de Chômage en France: Comment les Obtenir'
 translationKey: france-unemployment_benefit_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Les allocations de chômage sont un soutien financier fourni par le gouvernement français aux individus actuellement au chômage sans culpabilité de leur part, et qui recherchent activement un emploi.

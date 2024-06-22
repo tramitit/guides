@@ -38,3 +38,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that it is always recommended to check with the local tax authorities or legal counselors about the specific requirements and process for obtaining a Fiscal Attestation Certificate. Being informed helps ensure smooth processing and avoids possible legal concerns.
+
+
+## Related Posts
+
+- [Understand the Tax Certificate: Procedure, Need, and Documents](https://tramitit.com/guides/romania/tax_certificate/)
+- [How to Obtain an Income Certificate in Romania: Step-by-Step Guide](https://tramitit.com/guides/romania/income_certificate/)
+- [Residence Tax Guide in Romania: Requirements and Procedures](https://tramitit.com/guides/romania/residence_tax/)
+- [How to Obtain a Romanian Birth Certificate - Step-by-Step Guide](https://tramitit.com/guides/romania/birth_certificate/)
+- [Understanding and Paying Property Tax in Romania: A Guide](https://tramitit.com/guides/romania/property_tax/)

@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's important to make several copies of the death certificate once it has been issued. These may be needed for separate legal and administrative procedures. Also, be aware that not everyone can request a death certificate; you usually must be closely related to the person who passed away. Some governments provide multilingual death certificates, which may be necessary if you're going to be presenting the document in a country where the issuing government's official language isn't spoken.
+
+
+## Related Posts
+
+- [Officially Register Your Newborn: Essential Steps and Documents](https://tramitit.com/guides/slovakia/notification_of_childs_birth/)
+- [How to Obtain a Birth Certificate in Slovakia | Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_birth_certificate/)
+- [Obtaining a Marriage Certificate in Slovakia: Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_marriage_certificate/)
+- [Filing for Divorce: Steps, Required Documents, and Legal Guide](https://tramitit.com/guides/slovakia/filing_for_divorce/)
+- [How to Obtain a Certificate of Slovak Ancestry for Citizenship](https://tramitit.com/guides/slovakia/certificate_of_slovak_ancestry/)

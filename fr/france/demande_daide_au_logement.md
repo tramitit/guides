@@ -11,7 +11,6 @@ title: 'Aide au Logement: Procédure, Documents Requis, Détails'
 translationKey: france-housing_assistance_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est ?
 La demande d'aide au logement est un processus permettant de bénéficier d'une aide financière de la CAF (Caisse d'Allocations Familiales) pour couvrir une partie de votre loyer ou de vos frais de logement. On l'appelle souvent Aide au Logement.

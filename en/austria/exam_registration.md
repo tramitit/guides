@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Typically, the list of exam centers is provided during the registration process. Make sure to confirm if your preferred location is listed. If not, you might have to choose a different location or contact the exam provider for assistance.
 - For language exams, specific courses might also be required, such as intensive language courses before the main examination.
 - Note down the critical dates such as the opening and closing of the registration window, examination dates, result declaration, etc.
+
+
+## Related Posts
+
+- [Guide for International Students Registering in Austrian Schools](https://tramitit.com/guides/austria/school_registration/)
+- [Anmeldung: Residence Registration in Germany and Austria Guide](https://tramitit.com/guides/austria/residence_registration/)
+- [Essential Guide to Passport Application and Renewal Procedures](https://tramitit.com/guides/austria/passport_application/)
+- [Meldezettel Registration: Essential Guide for Residents in Austria](https://tramitit.com/guides/austria/reporting_obligation/)
+- [Anmeldung in Austria: How to Register Your Residence](https://tramitit.com/guides/austria/registration_information/)

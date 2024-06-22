@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's important to know that at SNS you should not wait more than 4 months for a specialist appointment. However, it’s recommended that those seeking urgent appointments communicate their urgency to the SNS team. On the SNS Portal, you can keep track of your consultations, exams, prescriptions, and other healthcare services provided by the SNS. It’s a useful tool for managing your healthcare efficiently.
+
+
+## Related Posts
+
+- [How to Get the SNS User Card in Portugal - Complete Guide](https://tramitit.com/guides/portugal/request_for_sns_user_card/)
+- [User Card for Foreigners: Live in Portugal Legally for 6+ Months](https://tramitit.com/guides/portugal/request_for_user_card_for_foreigners/)
+- [Apply for a Resident Card in Portugal: A Comprehensive Guide](https://tramitit.com/guides/portugal/request_for_resident_card_for_foreign_citizens/)
+- [Citizen Card Renewal: Process, Requirements, and Providers](https://tramitit.com/guides/portugal/renewal_of_citizen_card/)
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)

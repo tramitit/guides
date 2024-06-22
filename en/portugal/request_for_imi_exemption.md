@@ -43,3 +43,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The exemption must be requested in the year of acquisition of the property or in the following year. IMI exemption is granted for a period of three years, if the Rateable Value (VPT) of the property does not exceed €125,000, and if the IRS's taxable income of the owner (alone or with the spouse), in the year in which the property was acquired, does not exceed €153,300.
+
+
+
+## Related Posts
+
+- [Comprehensive Guide to Income Tax Declaration Process in Portugal](https://tramitit.com/guides/portugal/request_for_income_tax_declaration/)
+- [How to Obtain a Tax Identification Number (NIF) in Portugal](https://tramitit.com/guides/portugal/request_for_tax_identification_number_nif/)
+- [Complete Guide to Filing Anexo E for IRS in Portugal](https://tramitit.com/guides/portugal/irs_anexo_e/)
+- [How to Update NIF Data in Portugal: A Complete Guide](https://tramitit.com/guides/portugal/request_for_change_of_nif_data/)
+- [Complete Guide on IRS Anexo B for Self-Employed in Portugal](https://tramitit.com/guides/portugal/irs_anexo_b/)

@@ -12,7 +12,6 @@ title: How to Obtain Your Personal Identification Number (OIB) in Croatia
 translationKey: croatia-assignment_of_personal_identification_number_(oib)
 ---
 
-
 ## Description
 ### What is it?
 The Personal Identification Number (OIB) is a permanent number regulated by law for every Croatian citizen and is used as a unique identifier within the public administration system. It is the Croatian equivalent to the Social Security Number (SSN) in the U.S.
@@ -54,3 +53,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 There is no direct online application process. Therefore, the only way to obtain an OIB is by visiting a tax office physically. The OIB remains valid for a lifetime, irrespective of changes in personal status, domicile, residency or citizenship.
+
+
+## Related Posts
+
+- [Applying for a National ID Card in Croatia: Full Guide](https://tramitit.com/guides/croatia/issuance_of_id_card/)
+- [How to Obtain a Health Card in Croatia: A Guide for Expats](https://tramitit.com/guides/croatia/registration_for_the_health_card_of_a_foreigner/)
+- [How to Obtain a Croatian Passport: Steps and Requirements](https://tramitit.com/guides/croatia/issuance_of_passport/)
+- [How to Obtain a Croatian Birth Certificate: Step-by-Step Guide](https://tramitit.com/guides/croatia/issuance_of_birth_certificate/)
+- [Steps to Replace a Lost Croatian ID Card: Detailed Guide](https://tramitit.com/guides/croatia/report_of_missing_id_card/)

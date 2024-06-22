@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It is important to understand that the Mindestsicherung is a last resort financial aid provided by the state and not a guarantee. There are specific criteria set and potential recipients must fall under them before they can receive aid. The process can be lengthy and bureaucratic, so patience is important during the application process.
+
+
+## Related Posts
+
+- [Unemployment Benefits: Application Process and Requirements](https://tramitit.com/guides/austria/unemployment_benefit_application/)
+- [Social Insurance Registration in Austria: A Complete Guide](https://tramitit.com/guides/austria/social_insurance_registration/)
+- [Guide to Study Grants in Austria: Eligibility and Procedure](https://tramitit.com/guides/austria/study_grant_application/)
+- [Complete Guide to Austria Job Seeker Visa Application Process](https://tramitit.com/guides/austria/visa_application/)
+- [Housing Allowance in Austria: Eligibility and Application Process](https://tramitit.com/guides/austria/housing_allowance_application/)

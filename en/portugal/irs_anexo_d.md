@@ -61,3 +61,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Deadlines:** Be mindful of the IRS submission deadlines to avoid penalties.
   
 It is crucial to keep all documents organized and readily accessible for a seamless and accurate IRS declaration process.
+
+
+## Related Posts
+
+- [Complete Guide on IRS Anexo B for Self-Employed in Portugal](https://tramitit.com/guides/portugal/irs_anexo_b/)
+- [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)
+- [IRS Anexo J: Guide for Reporting Foreign Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_j/)
+- [Complete Guide to Filing Anexo E for IRS in Portugal](https://tramitit.com/guides/portugal/irs_anexo_e/)
+- [Guide to IRS Anexo C for Self-Employed in Portugal - 2023](https://tramitit.com/guides/portugal/irs_anexo_c/)

@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that the process can greatly vary depending on the individual's situation. It is advised to consult with the relevant official or legal experts for guidance. Additionally, for those living overseas, consult the nearest Romanian embassy or consulate. There might also be a translation requirement for documents that are in a language other than Romanian.
+
+
+## Related Posts
+
+- [Guide to Birth Certificate Registration in Romania for Expats](https://tramitit.com/guides/romania/birth_certificate_registration_for_expats/)
+- [Romanian Marriage Certificate: Issuance and Requirements Guide](https://tramitit.com/guides/romania/marriage_certificate/)
+- [Guide to Obtaining a Romanian Passport: Steps and Requirements](https://tramitit.com/guides/romania/passport/)
+- [Romanian Identity Card: How to Obtain, Required Documents, and More](https://tramitit.com/guides/romania/identity_card/)
+- [Romanian and Moldovan Citizenship Confirmation Guide](https://tramitit.com/guides/romania/citizenship_confirmation/)

@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In Greece, civil weddings are legal and binding. Religious weddings can be held as an additional ceremony if desired. It is advisable to check with your local authorities in your home country to ensure the Greek marriage certificate is legal and recognized. Additional paperwork may be required depending on the country.
+
+
+## Related Posts
+
+- [How to Obtain a Birth Certificate in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_birth_certificate/)
+- [Legal Name Change in Greece: Steps, Required Documents & Tips](https://tramitit.com/guides/greece/application_for_name_change_certificate/)
+- [How to Obtain a Greek Passport: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_passport_issuance/)
+- [Guide to Changing Your Last Name After Marriage in Greece](https://tramitit.com/guides/greece/application_for_spouses_name_change/)
+- [Steps for Applying for Greek Citizenship through Descent or Marriage](https://tramitit.com/guides/greece/application_for_greek_citizenship/)

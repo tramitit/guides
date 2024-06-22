@@ -42,3 +42,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that the judge will consider the best interests of the child when deciding whether to grant a name change. Courts commonly consider the length of time the child has used the current name, the impact of a change on the child's relationship with each parent, and the reasons for the requested change.
+
+
+
+## Related Posts
+
+- [Legal Name Change in Greece: Steps, Required Documents & Tips](https://tramitit.com/guides/greece/application_for_name_change_certificate/)
+- [Guide to Changing Your Last Name After Marriage in Greece](https://tramitit.com/guides/greece/application_for_spouses_name_change/)
+- [How to Obtain a Birth Certificate in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_birth_certificate/)
+- [How to Obtain a Greek Passport: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_passport_issuance/)
+- [Inheritance Acceptance in Greece: A Complete Legal Guide](https://tramitit.com/guides/greece/application_for_inheritance_acceptance/)

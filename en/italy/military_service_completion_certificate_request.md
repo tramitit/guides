@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 For Italy, if you're unsure which military district is relevant, you can request information from all of the districts by addressing your request to the "Ufficio Leva" at the Ministry of Defense in Rome. 
 
 For Germany, please note that due to the destruction of certain documents during World War II, the Deutsche Dienststelle (WASt) may not have a complete record of everyone who served.
+
+
+## Related Posts
+
+- [How to Obtain a Family Status Certificate in Italy](https://tramitit.com/guides/italy/family_status_certificate_request/)
+- [How to Obtain a Civil Status Certificate: A Complete Guide](https://tramitit.com/guides/italy/civil_status_certificate/)
+- [How to Obtain Your Marriage Certificate from Italy](https://tramitit.com/guides/italy/marriage_certificate_request/)
+- [How to Obtain a Death Certificate from an Italian Comune](https://tramitit.com/guides/italy/death_certificate_request/)
+- [How to Request a Birth Certificate from Italy: A Step-by-Step Guide](https://tramitit.com/guides/italy/birth_certificate_request/)

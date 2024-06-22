@@ -59,3 +59,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Failing to submit Model 130 can result in fines and interest on unpaid taxes.
 - The form must be submitted every quarter, typically by the 20th of the month following the end of the quarter (April 20th, July 20th, October 20th, and January 20th).
 - Maintaining organized records throughout the year can simplify the process of completing Model 130.
+
+
+
+## Related Posts
+
+- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/guides/spain/model_190/)
+- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/guides/spain/model_347/)
+- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/guides/spain/model_145/)
+- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/guides/spain/model_036/)
+- [Complete Guide to Filing Income Tax Returns in Spain](https://tramitit.com/guides/spain/income_tax_return_filing/)

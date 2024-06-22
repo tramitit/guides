@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Ensure that your health insurance is always active, and it covers your needs, especially when in need of medical attention or hospitalization. Some pharmacies may decline service if your health insurance is not valid, while hospital costs without insurance can be notably high.
 
 Additionally, different rules could apply for European Union (EU) citizens. It is recommended to check with the health insurance provider about the same.
+
+
+## Related Posts
+
+- [How to Obtain a Health Card in Croatia: A Guide for Expats](https://tramitit.com/guides/croatia/registration_for_the_health_card_of_a_foreigner/)
+- [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)
+- [Guide to School Registration in Croatia: Steps and Documents](https://tramitit.com/guides/croatia/registering_children_for_school/)
+- [Croatia Residence Registration: Essential Guide for Foreigners](https://tramitit.com/guides/croatia/residence_registration/)
+- [Comprehensive Guide to Obtaining a Croatian Visa: Steps & Requirements](https://tramitit.com/guides/croatia/obtaining_a_visa_for_foreigners/)

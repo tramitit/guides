@@ -11,7 +11,6 @@ title: 'Child Benefit in Belgium: How to Apply and Eligibility'
 translationKey: belgium-request_for_child_benefits
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Le Child Benefit est un paiement de sécurité sociale distribué par le gouvernement fédéral pour aider les familles à faire face aux coûts liés à l'éducation des enfants. En Belgique, le Child Benefit est souvent appelé allocations familiales.

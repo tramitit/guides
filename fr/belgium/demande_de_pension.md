@@ -11,7 +11,6 @@ title: Comment Demander une Pension de Retraite en Belgique
 translationKey: belgium-request_for_pension
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 La demande de pension est une demande formelle pour commencer à recevoir des prestations à la retraite. Les prestations sont déterminées par votre historique de travail et les cotisations que vous avez faites tout au long de votre carrière.

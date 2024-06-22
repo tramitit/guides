@@ -12,7 +12,6 @@ title: 'Guide du Permis de Voyage d''Affaires: Procédure et Documents Requis'
 translationKey: france-business_travel_permit_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un permis de voyage d'affaires est un document qui permet de voyager légalement à l'étranger pour des activités liées aux affaires. Propre à chaque pays, il est souvent requis par les travailleurs qui ont besoin de séjours prolongés dans des pays étrangers à des fins professionnelles.

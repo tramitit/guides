@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Certain documents may require an additional level of certification known as an Apostille, which certifies the authenticity of the signature on the translation.
 - In some cases, you might need to get your translated documents notarized. Notaries public can't certify the accuracy of the translation but they can recognize the identity of the person who is signing the certification statement.
 - The translation of some legal documents may require the certified translation to be approved by the consulate or embassy of the country where it will be used. Make sure you know these requirements before making your certified translation request.
+
+
+## Related Posts
+
+- [Document Certification: Ensuring Authenticity for Legal Use](https://tramitit.com/guides/portugal/request_for_document_certification/)
+- [How to Obtain a Birth Certificate: Steps and Requirements](https://tramitit.com/guides/portugal/request_for_birth_certificate/)
+- [How to Obtain a Marriage Certificate: Complete Guide](https://tramitit.com/guides/portugal/request_for_marriage_certificate/)
+- [Requesting Duplicate Documents in Portugal: A Detailed Guide](https://tramitit.com/guides/portugal/request_for_duplicate_documents/)
+- [Guide to Obtaining a Death Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_death_certificate/)

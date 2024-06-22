@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The process may vary slightly depending on the specific municipality. If there is missing information or documents, the process may take longer, so it is advisable to start ahead of time. For any queries or complications, feel free to directly contact the local immigration office or the [Greek Ombudsman](https://www.synigoros.gr/).
+
+
+## Related Posts
+
+- [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)
+- [Permanent Residence Certificate: Stay Indefinitely in Greece](https://tramitit.com/guides/greece/application_for_permanent_residence_certificate/)
+- [How to Obtain a Greek Passport: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_passport_issuance/)
+- [Renew Your Driver's License in Greece: A Complete Guide](https://tramitit.com/guides/greece/application_for_drivers_license_renewal/)
+- [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)

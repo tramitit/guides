@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Always ensure you're booking from a reliable source to avoid scams.
 - Keep your confirmation number safe as it's often necessary for obtaining physical tickets or resolving issues.
 - If you have any issues, contact the provider's customer service for assistance.
+
+
+## Related Posts
+
+- [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)
+- [How to Obtain a Slovak Identity Card: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_identity_card/)
+- [Driver's License in Slovakia: Procedure, Requirements & Tips](https://tramitit.com/guides/slovakia/issuance_of_drivers_license/)
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [Comprehensive Guide to Vehicle Registration in Slovakia](https://tramitit.com/guides/slovakia/vehicle_registration/)

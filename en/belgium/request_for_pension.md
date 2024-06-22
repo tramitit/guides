@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The amount of pension you receive will depend on the duration of your career and the amount of your earnings in Belgium. There is also the possibility to accrue further pension entitlements after the age of 65 provided that you continue working. Always keep track of your social security contributions to ensure you receive the maximum possible amount on retirement.
+
+
+## Related Posts
+
+- [Belgium Child Benefit: Eligibility, Application, and Procedure Guide](https://tramitit.com/guides/belgium/request_for_child_benefits/)
+- [Guide to Apply for Unemployment Benefits in Belgium](https://tramitit.com/guides/belgium/request_for_unemployment_benefits/)
+- [Belgium Residency Registration: Essential Guide and Requirements](https://tramitit.com/guides/belgium/registration_in_the_population_registers/)
+- [Essential Guide to Obtaining a Residence Permit in Belgium](https://tramitit.com/guides/belgium/request_for_residence_permit/)
+- [Understanding and Obtaining Your Belgian eID: A Step-by-Step Guide](https://tramitit.com/guides/belgium/request_for_identity_card/)

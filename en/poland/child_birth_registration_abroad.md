@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Please note that the procedures and document requirements can vary, and it is always best to directly contact the respective office for the most accurate information.
 Check to ensure whether the country of child’s birth allows dual citizenship as this might affect the registration process.
+
+
+## Related Posts
+
+- [How to Register a Child's Birth in Poland: A Complete Guide](https://tramitit.com/guides/poland/child_birth_registration/)
+- [How to Obtain a Duplicate Birth Certificate in Poland](https://tramitit.com/guides/poland/issuance_of_duplicate_birth_certificate/)
+- [How to Obtain a Marriage Certificate in Poland - A Guide](https://tramitit.com/guides/poland/marriage_certificate/)
+- [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)
+- [EU Citizens' Guide: Registering Residence in Poland](https://tramitit.com/guides/poland/registration_of_residence_for_eu_citizens/)

@@ -49,3 +49,13 @@ Consider changing your contact details in the following entities for smooth comm
 In case of Facebook Messenger, you may have to sync contacts and restart your device if notifications show up in the wrong account after changing the phone number. The steps can be different for Android and iPhone. 
 You should also update your details in different phone services, for example, for Poco X3 users, in MI cloud settings, do a sync after updating the details. If there is a delay, make sure your software updates are in place.
 It's better to update your new address immediately after you move to a new place. It might be troublesome if there is much delay, for example in Japan, you should report an address change to the ward or city office within 14 days of moving.
+
+
+
+## Related Posts
+
+- [Guide to Changing Your ID Card: Steps and Requirements](https://tramitit.com/guides/poland/change_of_id_card/)
+- [How to Change Your Registered Residence Address in Poland](https://tramitit.com/guides/poland/change_of_registered_residence_address/)
+- [Guide to Official Name Change Notification Process](https://tramitit.com/guides/poland/change_of_first_name_notification/)
+- [Change of Residence Notification in Poland: Steps and Requirements](https://tramitit.com/guides/poland/change_of_residence_notification/)
+- [Legal Surname Change Notification Process in Poland](https://tramitit.com/guides/poland/change_of_surname_notification/)

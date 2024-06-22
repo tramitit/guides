@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Every vehicle registered in Croatia should pass an annual technical inspection. Also, note that you need to report the registration of your foreign vehicle to Croatian authorities within 15 days to avoid fines. If you are importing a new vehicle into Croatia, consider that you may have to pay VAT and car tax. It's worth checking whether these tasks can be done by a third party if you are not fluent in Croatian.
+
+
+## Related Posts
+
+- [Comprehensive Guide to Vehicle Registration in Croatia](https://tramitit.com/guides/croatia/vehicle_registration/)
+- [Guide to Converting a Foreign Driver's License in Croatia](https://tramitit.com/guides/croatia/change_of_drivers_license_for_foreigners/)
+- [How to Obtain a Driver's License in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/issuance_of_drivers_license/)
+- [How to Obtain a Croatian Driver's License: Step-by-Step Guide](https://tramitit.com/guides/croatia/obtaining_a_drivers_license_for_newcomers/)
+- [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)

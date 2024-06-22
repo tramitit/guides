@@ -36,3 +36,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to take a valid piece of ID with you for voting. Also, note that European non-French residents can vote for the European elections and municipal elections if they're registered on the electoral lists. They need to show a valid residence permit.
+
+
+
+## Related Posts
+
+- [National Identity Card in France: Procedure, Requirements, Providers](https://tramitit.com/guides/france/national_identity_card_application/)
+- [Complete Guide to Naturalization in France: Steps and Requirements](https://tramitit.com/guides/france/naturalization_application/)
+- [French Social Security Registration: Essential Guide for Expats](https://tramitit.com/guides/france/social_security_registration/)
+- [Guide to Obtaining a Resident Card in France: Steps & Requirements](https://tramitit.com/guides/france/resident_card_application/)
+- [Comprehensive Guide to High School Registration in France](https://tramitit.com/guides/france/high_school_registration/)

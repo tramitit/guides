@@ -36,3 +36,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to check the emission standards of your vehicle as Portugal has strict emission limit requirements. Regular checks are mandatory. Pass a comprehensive vehicle inspection after registration, at an authorized center.
+
+
+## Related Posts
+
+- [Complete Guide to Car Registration: Steps and Documents Required](https://tramitit.com/guides/portugal/request_for_car_registration/)
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [Guide for Legal Change of Car Ownership in Portugal](https://tramitit.com/guides/portugal/change_of_car_ownership/)
+- [Marriage Registration in Portugal: Steps & Documents for Foreigners](https://tramitit.com/guides/portugal/registration_of_marriage_of_foreign_citizen_in_portugal/)
+- [Requesting Duplicate Documents in Portugal: A Detailed Guide](https://tramitit.com/guides/portugal/request_for_duplicate_documents/)

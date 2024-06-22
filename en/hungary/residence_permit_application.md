@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Some foreigners who do not need a visa for travelling in Schengen Zone (e.g. US citizens) can apply for their residence permit in Hungary, while staying there as tourists. Others need to apply for a D-type visa first to enter Hungary, where they can switch to a residence permit. Those seeking to open a bank account in Hungary will need to wait until their permit is approved.
 
 Please keep in mind that the decision ultimately lies with the Hungarian authorities and the process can be subjective, so it's advisable to consult with local experts or attorneys. Make sure you have all the required documents and understand the procedure well.
+
+
+## Related Posts
+
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)
+- [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)
+- [Guide to Apply for Hungarian Citizenship by Descent or Naturalization](https://tramitit.com/guides/hungary/citizenship_applications/)
+- [Budapest Parking Permits: Steps, Requirements, and Providers](https://tramitit.com/guides/hungary/parking_permit_application/)

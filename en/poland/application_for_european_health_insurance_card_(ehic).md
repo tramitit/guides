@@ -12,7 +12,6 @@ title: Guide to European Health Insurance Card (EHIC) Application Process
 translationKey: poland-application_for_european_health_insurance_card_(ehic)
 ---
 
-
 ## Description
 ### What is it?
 The European Health Insurance Card (EHIC) is an initiative by EU countries that provides the cardholder with access to state-provided healthcare during a temporary stay in another EU country. It covers treatment that is medically necessary until the cardholder return to their home country.
@@ -49,3 +48,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Remember that the EHIC is not an alternative to travel insurance. It does not cover any private healthcare or costs such as a return flight to your home country or lost/stolen property. Therefore, it is advisable to have both an EHIC and a valid private travel insurance policy.
 
 For UK residents, post-Brexit, the GHIC (Global Health Insurance Card) replaces the EHIC. UK issued EHICs are still valid until their expiry date. But the new applicants from the UK will receive GHIC instead of EHIC. GHIC provides the same benefits as EHIC.
+
+
+## Related Posts
+
+- [Health Insurance in Poland: Essentials for Residents and Expats](https://tramitit.com/guides/poland/health_insurance/)
+- [EU Citizens' Guide: Registering Residence in Poland](https://tramitit.com/guides/poland/registration_of_residence_for_eu_citizens/)
+- [Polish Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/poland/residence_permit/)
+- [How to Claim VAT Refund for Non-EU Residents in the EU](https://tramitit.com/guides/poland/vat_tax_refund_for_purchases_in_the_eu/)
+- [Guide to Changing Your ID Card: Steps and Requirements](https://tramitit.com/guides/poland/change_of_id_card/)

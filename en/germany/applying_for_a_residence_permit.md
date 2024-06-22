@@ -51,3 +51,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 While waiting for the residence permit, it's recommended not to leave Germany unless it's an unavoidable circumstance as it may raise issues during the process. The residence permit is not a physical document, but a sticker in one's passport. If your residence permit expires, the process and consequences can vary, therefore it is highly recommended to renew it on time. In some cases, people who have left Germany for over six months had to apply for a residence permit all over again. 
 
 It's also worth mentioning that there are different types of residence permits, like the Temporary Residence Permit, the EU Blue Card and the Permanent Residence Permit. The right one for you will depend on your specific circumstances.
+
+
+## Related Posts
+
+- [Guide to Residence Title (Aufenthaltstitel) in Germany](https://tramitit.com/guides/germany/application_for_a_residence_title/)
+- [Settlement Permit Guide: Become a Permanent Resident in Germany](https://tramitit.com/guides/germany/application_for_a_settlement_permit/)
+- [Extend Your Residence Permit in Germany: Process and Requirements](https://tramitit.com/guides/germany/extension_of_residence_permit/)
+- [Anmeldung in Germany: Residence Registration Guide](https://tramitit.com/guides/germany/registration_of_residence/)
+- [German Visa Application Guide for Non-German Residents](https://tramitit.com/guides/germany/visa_application/)

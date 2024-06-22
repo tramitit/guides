@@ -12,7 +12,6 @@ title: 'Obtenir un Visa pour la France : Procédure, Documents & Détails'
 translationKey: france-visa_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est ?
 Un processus par lequel un individu obtient la permission officielle d'entrer et de séjourner en France pour une période et une raison spécifiques.

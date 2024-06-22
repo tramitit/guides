@@ -48,3 +48,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Registered users are given a public service user account which blends all interactions with public services.
 - You will also have access to the Health System in Portugal with this card. 
 - Always check the SEF's website for the most up-to-date information and for any changes in the law regarding residency requirements.
+
+
+## Related Posts
+
+- [Apply for a Resident Card in Portugal: A Comprehensive Guide](https://tramitit.com/guides/portugal/request_for_resident_card_for_foreign_citizens/)
+- [Resident Card Renewal in Portugal: Steps and Requirements](https://tramitit.com/guides/portugal/renewal_of_resident_card_for_foreign_citizens/)
+- [Guide to Residence Permit Renewal in Portugal - SEF Procedure](https://tramitit.com/guides/portugal/request_for_residence_permit_renewal/)
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)
+- [How to Get the SNS User Card in Portugal - Complete Guide](https://tramitit.com/guides/portugal/request_for_sns_user_card/)

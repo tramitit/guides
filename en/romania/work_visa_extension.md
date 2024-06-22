@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Work visa extension rules vary from country to country, so it's important to do your research and understand the rules and requirements specific to Romania. Make sure also to be aware of any changes in immigration law as they can affect your application process. Keeping an open line of communication with the Romanian Immigration Office is advisable to stay updated with any changes.
+
+
+## Related Posts
+
+- [How to Obtain a Work Permit for Romania: A Complete Guide](https://tramitit.com/guides/romania/work_permit_application_for_expats/)
+- [Romania Residence Visa Guide: Application Steps and Requirements](https://tramitit.com/guides/romania/residence_visa/)
+- [How to Obtain a Residence Permit in Romania: A Complete Guide](https://tramitit.com/guides/romania/residence_permit/)
+- [Comprehensive Guide to Study Visas for Romanian Students](https://tramitit.com/guides/romania/obtaining_study_visa/)
+- [Romanian Passport Renewal Guide: Steps, Documents, and Tips](https://tramitit.com/guides/romania/passport_renewal/)

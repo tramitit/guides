@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In Germany, most vocational schools are free for local and foreign students. However, private vocational schools might charge tuition fees. It is essential to apply early due to limited spots in vocational schools. If you are interested in technical studies, some technical universities may ask for a vocational certificate, emphasizing the importance of acquiring this credential even if you have a university diploma.
+
+
+## Related Posts
+
+- [How to Get a Certificate of Enrollment: Steps and Requirements](https://tramitit.com/guides/germany/requesting_a_certificate_of_enrollment/)
+- [How to Obtain a Certificate of Conduct (Führungszeugnis) in Germany](https://tramitit.com/guides/germany/applying_for_a_certificate_of_conduct_online/)
+- [German Visa Application Guide for Non-German Residents](https://tramitit.com/guides/germany/visa_application/)
+- [International Certificate of Good Conduct Application Procedure](https://tramitit.com/guides/germany/application_for_an_international_certificate_of_conduct/)
+- [How to Obtain a Certificate of Conduct in Germany (Führungszeugnis)](https://tramitit.com/guides/germany/application_for_a_certificate_of_conduct/)

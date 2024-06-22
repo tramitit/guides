@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - Vienna can be quite an expensive city. Therefore, plan your budget carefully to avoid running into financial problems.
 - The culture in Austria can be very different from your home country. Make an effort to learn and understand the local customs and traditions.
+
+
+## Related Posts
+
+- [Guide for International Students: Study in Austria](https://tramitit.com/guides/austria/university_registration/)
+- [Guide to Study Grants in Austria: Eligibility and Procedure](https://tramitit.com/guides/austria/study_grant_application/)
+- [Guide for International Students Registering in Austrian Schools](https://tramitit.com/guides/austria/school_registration/)
+- [Complete Guide to Austria Job Seeker Visa Application Process](https://tramitit.com/guides/austria/visa_application/)
+- [Austrian Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/austria/residence_permit_application/)

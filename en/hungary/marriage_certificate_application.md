@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Always check the latest requirements and regulations with your local registry office. Different offices might have slightly different requirements or procedures. Pre-approval might be needed before the marriage ceremony, and an appointment may be necessary for submitting applications at the office.
+
+
+## Related Posts
+
+- [Guide to Requesting a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/request_for_marriage_certificates/)
+- [A Complete Guide to Getting Married in Hungary: Procedures & Tips](https://tramitit.com/guides/hungary/marriage_registration/)
+- [Get a Duplicate Hungarian Birth Certificate: Step-by-Step Guide](https://tramitit.com/guides/hungary/application_for_duplicate_birth_certificate/)
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)
+- [Legal Name Change Procedure for Hungary Residents and Citizens](https://tramitit.com/guides/hungary/name_change_registration/)

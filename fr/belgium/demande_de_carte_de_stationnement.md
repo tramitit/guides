@@ -11,7 +11,6 @@ title: 'Parking Permit: How to Apply, Requirements & Providers'
 translationKey: belgium-request_for_parking_card
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Une carte de stationnement ou un laissez-passer de stationnement est une autorisation de stationner un véhicule dans une zone spécifique. Ce document est crucial dans les zones où l'espace de stationnement est limité ou réservé aux résidents ou à des individus spécifiques.

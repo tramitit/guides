@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The overall timeline can vary significantly depending on the reason for changing your surname. Bank and other private businesses have their own rules and procedures for processing name changes. In all cases, you could need to show documents that justify the name change, like a marriage certificate. Check with each one to find out what you need to do.
+
+
+## Related Posts
+
+- [Guide to Official Name Change Notification Process](https://tramitit.com/guides/poland/change_of_first_name_notification/)
+- [Change of Residence Notification in Poland: Steps and Requirements](https://tramitit.com/guides/poland/change_of_residence_notification/)
+- [How to Change Your Registered Residence Address in Poland](https://tramitit.com/guides/poland/change_of_registered_residence_address/)
+- [How to Obtain a Marriage Certificate in Poland - A Guide](https://tramitit.com/guides/poland/marriage_certificate/)
+- [Guide to Changing Vehicle Registration Certificate in Poland](https://tramitit.com/guides/poland/change_of_registration_certificate/)

@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For academically strong students, achieving a top grade may increase the chances of obtaining the scholarship. 
 
 _Note: The information provided may vary, please always confirm from the official website or contact the responsible entity for the most accurate information._
+
+
+## Related Posts
+
+- [Understanding Social Benefits in Slovakia: Eligibility and Steps](https://tramitit.com/guides/slovakia/application_for_social_benefits/)
+- [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [Guide to Applying for Slovakian Citizenship by Descent](https://tramitit.com/guides/slovakia/application_for_citizenship/)
+- [How to Obtain a Slovak Identity Card: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_identity_card/)

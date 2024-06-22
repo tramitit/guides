@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Some driving schools may provide theory classes in English. However, the computerized test is in Czech. Prepare for this language requirement.
 - Students who are deaf or hard of hearing should also be prepared. The written test is available in the Czech sign language, and a sign language interpreter can be requested for the oral exam.
 - Color blindness doesn't prevent you from getting a driving license, but it may limit the categories of vehicles you are allowed to drive.
+
+
+## Related Posts
+
+- [Guide: Exchange Non-Czech Driver's License for Czech One](https://tramitit.com/guides/czech-republic/driving_licence_exchange/)
+- [How to Obtain a Firearms Licence in the Czech Republic](https://tramitit.com/guides/czech-republic/application_for_a_firearms_licence/)
+- [How to Register a Car in the Czech Republic: A Complete Guide](https://tramitit.com/guides/czech-republic/car_registration/)
+- [EU Citizens' Guide to Temporary Residence in Czech Republic](https://tramitit.com/guides/czech-republic/residence_registration_for_eu_citizens/)
+- [How to Get an ID Card in the Czech Republic: Requirements & Steps](https://tramitit.com/guides/czech-republic/application_for_issuing_an_id_card/)

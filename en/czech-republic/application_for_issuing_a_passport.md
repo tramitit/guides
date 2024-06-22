@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Processing times can vary widely based on several factors including the location of application, the volume of applications, and the time of year. Note that processing times can be significantly longer during busy travel seasons. For the most current information, check the Interior Ministry's website regularly.
+
+
+## Related Posts
+
+- [How to Get an ID Card in the Czech Republic: Requirements & Steps](https://tramitit.com/guides/czech-republic/application_for_issuing_an_id_card/)
+- [Czech Republic Visa Guide: Requirements and Application Process](https://tramitit.com/guides/czech-republic/application_for_visa/)
+- [Guide to Permanent Residence Permit in the Czech Republic](https://tramitit.com/guides/czech-republic/application_for_permanent_residence_permit/)
+- [How to Register a Child's Birth in the Czech Republic](https://tramitit.com/guides/czech-republic/registry_office_-_birth_of_a_child/)
+- [EU Citizens' Guide to Temporary Residence in Czech Republic](https://tramitit.com/guides/czech-republic/residence_registration_for_eu_citizens/)

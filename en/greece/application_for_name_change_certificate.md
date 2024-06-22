@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's important to note that the process may vary slightly depending on your specific circumstances. It's always best to check with the relevant legal authorities before proceeding. Once your name change is officially recognized, ensure to update all your personal documentation to reflect this change. Some costs, such as updated documents or processing fees, may not be included in the initial filing fee.
+
+
+## Related Posts
+
+- [Guide to Changing Your Last Name After Marriage in Greece](https://tramitit.com/guides/greece/application_for_spouses_name_change/)
+- [How to Obtain a Birth Certificate in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_birth_certificate/)
+- [How to Obtain a Marriage Certificate in Greece: Step-by-Step](https://tramitit.com/guides/greece/application_for_marriage_certificate/)
+- [Legal Procedure for Changing a Minor's Name: Steps & Requirements](https://tramitit.com/guides/greece/application_for_minors_name_change/)
+- [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)

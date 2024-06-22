@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The process may vary slightly depending on your country and local area, particularly for immigrant families. Always check with the local registration office for up-to-date information. Ensure the child's name meets local regulations. Some countries have laws governing how a child can be named, so it's best to be familiar with those rules before finalizing your child's name.
+
+
+## Related Posts
+
+- [How to Obtain a Birth Certificate in Slovakia | Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_birth_certificate/)
+- [How to Obtain a Death Certificate: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_death_certificate/)
+- [Name Change Process in Slovakia: Legal Steps and Requirements](https://tramitit.com/guides/slovakia/change_of_name/)
+- [Obtaining a Marriage Certificate in Slovakia: Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_marriage_certificate/)
+- [Guide to Registering a Foreigner's Temporary Residence Abroad](https://tramitit.com/guides/slovakia/registration_of_a_foreigners_temporary_residence/)

@@ -50,3 +50,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You can request it as many times as you need, and usually there is no fee associated with obtaining it.
 
 - A 'Certificado de Empadronamiento' is required for almost every administrative procedure in Spain. Keep a copy of it readily available to avoid any unnecessary inconvenience.
+
+
+## Related Posts
+
+- [Empadronamiento in Spain: A Complete Guide for New Residents](https://tramitit.com/guides/spain/empadronamiento/)
+- [Comprehensive Guide to Spanish Census Registration Process](https://tramitit.com/guides/spain/census_registration/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
+- [How to Obtain a Green NIE Resident Certificate in Spain](https://tramitit.com/guides/spain/resident_certificate/)

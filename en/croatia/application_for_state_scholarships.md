@@ -49,3 +49,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Remember, deadlines for state scholarships may vary, and usually, there's stiff competition for them. Also, be sure to accurately fill out all the information and double-check the accuracy of your documents before submission.
+
+
+## Related Posts
+
+- [Guide to University Enrollment for International Students](https://tramitit.com/guides/croatia/documentation_for_university_enrollment/)
+- [Guide to Obtaining a Residence Permit for Foreign Countries](https://tramitit.com/guides/croatia/issuance_of_residence_permit_for_foreigners/)
+- [How to Declare Your Income Tax: A Comprehensive Guide](https://tramitit.com/guides/croatia/income_tax_declaration/)
+- [Guide to Applying for Elderly Home Accommodation: Steps and Tips](https://tramitit.com/guides/croatia/applying_for_accommodation_in_an_elderly_home/)
+- [Guide to School Registration in Croatia: Steps and Documents](https://tramitit.com/guides/croatia/registering_children_for_school/)

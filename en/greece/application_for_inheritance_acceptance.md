@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you are a non-resident and hire a Greek lawyer, you may not need to travel to Greece as a Power of Attorney can allow your lawyer to complete the procedure for you.
 - The name on the deed must match the name on the passport, so any name changes must be corrected on either document before proceeding.
 - It's important to validate any possible outstanding property taxes on the property before proceeding with the inheritance.
+
+
+## Related Posts
+
+- [Guide to Obtaining an Inheritance Certificate in Greece](https://tramitit.com/guides/greece/application_for_inheritance_certificate/)
+- [Guide to Obtaining a Death Certificate: Steps and Requirements](https://tramitit.com/guides/greece/application_for_death_certificate/)
+- [Steps for Applying for Greek Citizenship through Descent or Marriage](https://tramitit.com/guides/greece/application_for_greek_citizenship/)
+- [How to Obtain a Birth Certificate in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_birth_certificate/)
+- [How to Obtain a Marriage Certificate in Greece: Step-by-Step](https://tramitit.com/guides/greece/application_for_marriage_certificate/)

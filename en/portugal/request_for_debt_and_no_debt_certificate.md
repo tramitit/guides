@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 CRC reports are crucial for financial stability and opportunities. Managing them responsibly is important for maintaining good financial health.
+
+
+## Related Posts
+
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)
+- [Citizen Card Renewal: Process, Requirements, and Providers](https://tramitit.com/guides/portugal/renewal_of_citizen_card/)
+- [How to Obtain a Criminal Record Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_criminal_record_certificate/)
+- [Requesting Duplicate Documents in Portugal: A Detailed Guide](https://tramitit.com/guides/portugal/request_for_duplicate_documents/)
+- [Apply for a Resident Card in Portugal: A Comprehensive Guide](https://tramitit.com/guides/portugal/request_for_resident_card_for_foreign_citizens/)

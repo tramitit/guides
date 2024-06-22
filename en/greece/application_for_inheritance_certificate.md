@@ -42,3 +42,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Keep in mind inheritance comes with associated taxes, that vary based on jurisdiction and relation to the deceased person.
 - If the inherited property has any attached debt, it is possible there may be legal responsibility to cover such debt.
 - In case of multiple heirs, inheritance will be distributed according to the law or will, each heir may need to apply for the inheritance certificate individually.
+
+
+
+## Related Posts
+
+- [Inheritance Acceptance in Greece: A Complete Legal Guide](https://tramitit.com/guides/greece/application_for_inheritance_acceptance/)
+- [Guide to Obtaining a Death Certificate: Steps and Requirements](https://tramitit.com/guides/greece/application_for_death_certificate/)
+- [How to Obtain a Birth Certificate in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_birth_certificate/)
+- [How to Obtain a Marriage Certificate in Greece: Step-by-Step](https://tramitit.com/guides/greece/application_for_marriage_certificate/)
+- [Legal Name Change in Greece: Steps, Required Documents & Tips](https://tramitit.com/guides/greece/application_for_name_change_certificate/)

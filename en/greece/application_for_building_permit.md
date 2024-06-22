@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Failure to obtain necessary permits can result in penalties, including fines and enforced demolition.
 - In most cases, it is the homeowner who is responsible for ensuring all necessary permits have been acquired.
 - Each city may have slightly different processes and requirements for obtaining a building permit. Please visit the local municipal or city hall's website for specific information.
+
+
+## Related Posts
+
+- [Small-Scale Building Permits: Requirements, Procedure & Providers](https://tramitit.com/guides/greece/application_for_a_small-scale_building_permit/)
+- [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)
+- [How to Extend Your Residence Permit in Greece: A Complete Guide](https://tramitit.com/guides/greece/application_for_residence_permit_extension/)
+- [How to Obtain a Driver's License in Greece: Steps and Requirements](https://tramitit.com/guides/greece/application_for_drivers_license/)
+- [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)

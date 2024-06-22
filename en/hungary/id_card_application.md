@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Always ensure safeguarding personal data. Avoid sharing personal details or copies of ID card, passport or other personal documents on platforms like Airbnb to avoid potential misuse.
+
+
+## Related Posts
+
+- [Hungarian Student ID Card: Benefits, Application Process & More](https://tramitit.com/guides/hungary/student_id_application/)
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)
+- [Legal Name Change Procedure for Hungary Residents and Citizens](https://tramitit.com/guides/hungary/name_change_registration/)
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)

@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The duration for processing the residence registration may vary based on individual cases and the workload at the office. It is always recommended to apply for the residence registration as soon as possible upon arrival in the country.
+
+
+## Related Posts
+
+- [Croatia Residence Registration: Essential Guide for Foreigners](https://tramitit.com/guides/croatia/residence_registration/)
+- [Croatia Stay Registration Guide: Documents and Procedure](https://tramitit.com/guides/croatia/stay_registration_upon_entering_the_country/)
+- [Temporary Residence Registration in Croatia - Step-by-Step Guide](https://tramitit.com/guides/croatia/temporary_residence_registration/)
+- [How to Register Your Stay as a Tourist in Croatia - A Guide](https://tramitit.com/guides/croatia/registration_of_tourists_stay/)
+- [Guide to Obtaining an Immigration Permit in Croatia](https://tramitit.com/guides/croatia/obtaining_an_immigration_permit/)

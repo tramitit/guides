@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Please take into account that the validity of NIE numbers doesn’t expire, but the NIE certificates (the piece of paper you get at the police station) does expire, and you might be asked to present an up-to-date one, so we recommend that, if you are using it regularly, that you renew it every three months.
 
 The NIE itself is free, but there is a “Tasa 012” fee (currently €12) for issuing the certificate. After you’ve completed the form, you’ll need to print it, and take it to a bank to pay the fee, and have the form stamped. You then take this form to your appointment.
+
+
+## Related Posts
+
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/guides/spain/student_card_application/)

@@ -41,3 +41,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Social benefits in Slovakia are divided into different categories, each of which has its own eligibility criteria and application process. Therefore, it's important to do your research to understand which benefits you may be eligible for, and how to apply for them. Also note that the social benefits system in Slovakia may undergo changes from time to time, so always check for the latest information. If you’re unsure about anything, it may be beneficial to speak with a social worker or similar professional who can guide you through the process.
+
+
+
+## Related Posts
+
+- [Social Scholarships in Slovakia: Financial Support for Students](https://tramitit.com/guides/slovakia/application_for_social_scholarship/)
+- [Understanding Disability Pension: Eligibility and Application Steps](https://tramitit.com/guides/slovakia/application_for_disability_pension/)
+- [Health Insurance Registration Guide for Foreigners in Slovakia](https://tramitit.com/guides/slovakia/health_insurance_registration/)
+- [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)
+- [How to Obtain a Slovak Identity Card: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_identity_card/)

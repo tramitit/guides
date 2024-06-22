@@ -11,7 +11,6 @@ title: 'Obtenez un permis de travail en Belgique: Guide et Documents Requis'
 translationKey: belgium-request_for_work_permit
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un permis de travail est un document obligatoire pour les individus non-UE qui souhaitent travailler en Belgique. Il sert d'autorisation légale de travailler dans le pays.

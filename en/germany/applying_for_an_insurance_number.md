@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The Sozialversicherungsnummer or insurance number is not the same as your tax ID (Steuer ID) or your tax number (Steuernummer). The tax ID is another unique reference number for tax purposes. If you're asked for an insurance number at your university or a job, they usually refer to your German public health insurance number.
+
+
+## Related Posts
+
+- [Guide to Obtaining a Social Security Card in Germany](https://tramitit.com/guides/germany/applying_for_a_social_security_card/)
+- [Understanding Tax Cards in Germany: Registration & Requirements](https://tramitit.com/guides/germany/applying_for_a_tax_card/)
+- [How to Get a German Identification Card: Step-by-Step Guide](https://tramitit.com/guides/germany/application_for_an_id_card/)
+- [Complete Guide to Anmeldung: Registering Your Address in Germany](https://tramitit.com/guides/germany/change_of_address_registration/)
+- [Anmeldung in Germany: Residence Registration Guide](https://tramitit.com/guides/germany/registration_of_residence/)

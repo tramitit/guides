@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If the landlord does not respond within a reasonable time frame, it may be advisable to seek legal advice.
 - Remember that you may still be responsible for the lease if the new tenant fails to pay rent or damages the property, depending on the terms of your assignment agreement. Always confirm these details before finalising the assignment.
 - It's generally safer to pay the rent through bank transactions, as it can serve as proof of payment.
+
+
+## Related Posts
+
+- [Guide to Official Name Change Notification Process](https://tramitit.com/guides/poland/change_of_first_name_notification/)
+- [Change of Residence Notification in Poland: Steps and Requirements](https://tramitit.com/guides/poland/change_of_residence_notification/)
+- [Legal Surname Change Notification Process in Poland](https://tramitit.com/guides/poland/change_of_surname_notification/)
+- [Guide to Changing Vehicle Registration Certificate in Poland](https://tramitit.com/guides/poland/change_of_registration_certificate/)
+- [Housing Benefit: UK Social Security for Rental Costs Assistance](https://tramitit.com/guides/poland/application_for_housing_benefit/)

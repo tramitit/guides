@@ -11,7 +11,6 @@ title: 'Pension de Retraite en France: Admissibilité, Documents & Procédure'
 translationKey: france-retirement_pension_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est ?
 Une pension de retraite en France est un paiement émis par le gouvernement et versé aux individus ayant atteint l'âge légal de la retraite et ayant cotisé pendant leurs années de travail.

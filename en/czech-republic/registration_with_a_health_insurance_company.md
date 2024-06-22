@@ -48,3 +48,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that the cost of monthly health insurance premiums depend on the type of coverage and the specific health insurance company. Always verify the currently valid conditions and prices on the insurer's website.
+
+
+## Related Posts
+
+- [Guide to Changing Health Insurance Provider in Czech Republic](https://tramitit.com/guides/czech-republic/change_of_health_insurance_company/)
+- [Employer Health Insurance Registration in Czech Republic Guide](https://tramitit.com/guides/czech-republic/employer_registration_for_health_insurance/)
+- [Czech Republic Visa Guide: Requirements and Application Process](https://tramitit.com/guides/czech-republic/application_for_visa/)
+- [Employer Registration for Social Insurances in Czech Republic](https://tramitit.com/guides/czech-republic/employer_registration_for_social_insurance/)
+- [EU Citizens' Guide to Temporary Residence in Czech Republic](https://tramitit.com/guides/czech-republic/residence_registration_for_eu_citizens/)

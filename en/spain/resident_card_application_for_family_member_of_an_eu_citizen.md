@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Before rushing the appointment, ensure you have all documents ready. Documents that you obtain from your country need to be properly translated into Spanish and apostilled. It is also a good idea to have your EU family member with you during the procedure. The process can take up to 3 months for the card to be ready for pick up, but you'll have a A4 size paper that serves as temporary residence document. If you leave Spain in the meantime, it is advisable to have a return ticket and this paper as proof of your application. 
 
 Some regions in Spain (like Madrid) require the EU member to register in the community before their family member can apply for the card, so be sure to check local regulations.
+
+
+## Related Posts
+
+- [Residence Card for Non-EU Family Members of EU Citizens in Spain](https://tramitit.com/guides/spain/residence_card_of_family_member_of_a_european_union_citizen/)
+- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [How to Get a Long-term Residence Card in Spain: A Complete Guide](https://tramitit.com/guides/spain/long-term_residence_card/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)

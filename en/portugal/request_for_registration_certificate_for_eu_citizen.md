@@ -37,3 +37,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that the process can vary slightly depending on the city or parish. It's recommended to contact your specific local office in advance to confirm their requirements. Once you've obtained your Registration Certificate, it's important to carry it with you at all times while in Portugal.
+
+
+## Related Posts
+
+- [How to Obtain a Residence Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_residence_certificate/)
+- [Apply for a Resident Card in Portugal: A Comprehensive Guide](https://tramitit.com/guides/portugal/request_for_resident_card_for_foreign_citizens/)
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)
+- [Guide to Vehicle Registration Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_registration_certificate/)
+- [How to Obtain a Criminal Record Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_criminal_record_certificate/)

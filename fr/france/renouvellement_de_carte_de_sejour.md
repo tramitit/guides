@@ -11,7 +11,6 @@ title: 'Renewal of French Residence Permit: Complete Guide'
 translationKey: france-residence_permit_renewal
 ---
 
-
 ## Description
 
 ### Qu'est-ce que c'est ?

@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 The completed Meldezettel form is crucial for various authorizations and subscriptions (for instance, opening a bank account). It is hence important to process this notification promptly and adequately. It might be handy to have copies of the form – some institutions might require them. Changing your residence may also affect aspects like your tax category, so remember to inform your employers about your change of residence.
+
+
+## Related Posts
+
+- [Guide to Registering Your Residence in Austria (Meldezettel)](https://tramitit.com/guides/austria/registration_certificate/)
+- [Meldezettel Registration: Essential Guide for Residents in Austria](https://tramitit.com/guides/austria/reporting_obligation/)
+- [Anmeldung in Austria: How to Register Your Residence](https://tramitit.com/guides/austria/registration_information/)
+- [Anmeldung: Residence Registration in Germany and Austria Guide](https://tramitit.com/guides/austria/residence_registration/)
+- [Guide to Deregistration of Residence in Germany and Austria](https://tramitit.com/guides/austria/deregistration_of_residence/)

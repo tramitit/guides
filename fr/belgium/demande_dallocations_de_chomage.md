@@ -11,7 +11,6 @@ title: Guide pour demander des allocations de chômage en Belgique
 translationKey: belgium-request_for_unemployment_benefits
 ---
 
-
 ## Description
 ### Pour qui est-ce?
 Ce guide est destiné à toute personne qui vient de perdre son emploi en Belgique et qui a besoin de demander des allocations de chômage.

@@ -52,3 +52,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you're planning to buy a forest land in Austria intending to cut trees and build a house, you'll need an additional permit from the forestry Commission.
 - In cities like Vienna, even for installing an air conditioner in the apartment, a permit might need to be procured if the exterior appearance of the building is going to be altered.
 - Every state in Austria has its own building order, so rules and regulations may vary slightly. It's best to check with the local authorities in your area.
+
+
+## Related Posts
+
+- [Austrian Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/austria/residence_permit_application/)
+- [Anmeldung in Austria: How to Register Your Residence](https://tramitit.com/guides/austria/registration_information/)
+- [Guide for International Students Registering in Austrian Schools](https://tramitit.com/guides/austria/school_registration/)
+- [Marriage Certificate Application Process in Austria Explained](https://tramitit.com/guides/austria/marriage_certificate_application/)
+- [Anmeldung: Residence Registration in Germany and Austria Guide](https://tramitit.com/guides/austria/residence_registration/)

@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Ensure to keep your login details secure to prevent unauthorized access. Remember to sign out after each session, especially when accessing the platform on public devices. Save copies of all transactions or submissions for future reference or potential needs.
+
+
+## Related Posts
+
+- [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)
+- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_(social_insurance_fund)/)
+- [How to Obtain a Tax Identification Number (TIN) in Greece](https://tramitit.com/guides/greece/application_for_tax_identification_number_(tin)/)
+- [Unemployed Register: Benefits for Job Seekers in Greece](https://tramitit.com/guides/greece/registration_in_the_unemployed_register/)
+- [Understanding Unemployment Benefits: Eligibility and Procedure](https://tramitit.com/guides/greece/application_for_unemployment_benefit/)

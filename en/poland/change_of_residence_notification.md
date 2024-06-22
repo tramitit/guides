@@ -51,3 +51,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 3. It's essential to notify the local office as soon as possible to avoid legal consequences.
 
 4. It's also important to check if similar regulations apply to registrations of vehicles, if any.
+
+
+## Related Posts
+
+- [How to Change Your Registered Residence Address in Poland](https://tramitit.com/guides/poland/change_of_registered_residence_address/)
+- [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)
+- [EU Citizens' Guide: Registering Residence in Poland](https://tramitit.com/guides/poland/registration_of_residence_for_eu_citizens/)
+- [Legal Surname Change Notification Process in Poland](https://tramitit.com/guides/poland/change_of_surname_notification/)
+- [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)

@@ -57,3 +57,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 * The rules and regulations may vary with your nationality and personal circumstances. It is advised to check with the Italian embassy in your home country before travelling.
 * Make sure the information provided in your application is accurate to avoid delays and complications.
 * Fees and processing times can change, so always check the latest information when you apply.
+
+
+## Related Posts
+
+- [Guide to Obtaining an Italian Residence Permit (Permesso di Soggiorno)](https://tramitit.com/guides/italy/residence_permit_application/)
+- [Renew Your Residence Permit in Italy: Step-by-Step Guide](https://tramitit.com/guides/italy/residence_permit_renewal/)
+- [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)
+- [How to Obtain an Italian Tax Code: Step-by-Step Guide](https://tramitit.com/guides/italy/tax_code_request/)
+- [Italian Identity Card: Complete Guide to Application & Requirements](https://tramitit.com/guides/italy/identity_card_request/)

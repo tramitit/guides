@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The validation of a resident card may take several weeks or, in some cases, several months. Furthermore, the documentation needed for the application can vary significantly depending on individual circumstances, so it is recommended to check with SEF for any specific requirements. Also, note that some of the documents need to be translated into Portuguese by a professional translator recognized by the consulate.
+
+
+## Related Posts
+
+- [User Card for Foreigners: Live in Portugal Legally for 6+ Months](https://tramitit.com/guides/portugal/request_for_user_card_for_foreigners/)
+- [Resident Card Renewal in Portugal: Steps and Requirements](https://tramitit.com/guides/portugal/renewal_of_resident_card_for_foreign_citizens/)
+- [How to Obtain a Portuguese Passport: Step-by-Step Guide](https://tramitit.com/guides/portugal/request_for_portuguese_passport/)
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)
+- [Guide to Residence Permit Renewal in Portugal - SEF Procedure](https://tramitit.com/guides/portugal/request_for_residence_permit_renewal/)

@@ -11,7 +11,6 @@ title: 'Permis de Démolition en France: Processus, Documents & Conseils'
 translationKey: france-demolition_permit_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un permis de démolition est un document légal qui accorde la permission de démolir une structure existante. Il garantit que le processus de démolition respecte les réglementations locales et les normes, y compris les mesures de sécurité, l'élimination des déchets et l'impact sur les propriétés voisines.

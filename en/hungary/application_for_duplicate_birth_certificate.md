@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Local assistance might be needed to navigate the process effectively due to language barriers.
 - Application fees may apply, and the processing times can vary. 
 - Birth certificates pre-1895 may need to be sourced from church records, which can be complex and time-consuming.
+
+
+## Related Posts
+
+- [Guide to Requesting Pre-1895 Hungarian Birth Certificates](https://tramitit.com/guides/hungary/request_for_birth_certificates/)
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)
+- [Guide to Requesting a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/request_for_marriage_certificates/)
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)
+- [Guide to Apply for Hungarian Citizenship by Descent or Naturalization](https://tramitit.com/guides/hungary/citizenship_applications/)

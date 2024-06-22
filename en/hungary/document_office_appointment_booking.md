@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Kindly note that you should always check the official website of the respective provider for the most up-to-date information about document requirements, scheduling, and costs. Be prepared with all necessary documents before going for your appointment to ensure a smooth procedure.
+
+
+## Related Posts
+
+- [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)
+- [Health Insurance Application in Hungary: A Complete Guide](https://tramitit.com/guides/hungary/healthcare_insurance_application/)
+- [Guide to Slovakian Citizenship by Descent & Hungarian Travel Docs](https://tramitit.com/guides/hungary/domestic_foreign_passport_special_procedure/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)

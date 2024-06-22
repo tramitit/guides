@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's essential to keep the authorities updated about any changes in your business status. Failing to do so may result in penalties and could complicate future changes. Also, consider seeking legal advice before making significant changes to your business.
+
+
+## Related Posts
+
+- [Guide to Vehicle Re-Registration in Austria: Procedure & Docs](https://tramitit.com/guides/austria/vehicle_re-registration/)
+- [Social Insurance Registration in Austria: A Complete Guide](https://tramitit.com/guides/austria/social_insurance_registration/)
+- [Guide to Forming a Company in Austria: Essential Steps and Tips](https://tramitit.com/guides/austria/company_formation/)
+- [Anmeldung: Residence Registration in Germany and Austria Guide](https://tramitit.com/guides/austria/residence_registration/)
+- [Guide to Deregistration of Residence in Germany and Austria](https://tramitit.com/guides/austria/deregistration_of_residence/)

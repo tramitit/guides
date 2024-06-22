@@ -37,3 +37,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Renewal of the Citizen Card for those living outside Portugal can also be done at the Portuguese consulates in their country of residence.
+
+
+## Related Posts
+
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)
+- [Resident Card Renewal in Portugal: Steps and Requirements](https://tramitit.com/guides/portugal/renewal_of_resident_card_for_foreign_citizens/)
+- [Renew Your Student ID in Portugal - Step-by-Step Guide](https://tramitit.com/guides/portugal/renewal_of_student_card_for_foreigners/)
+- [How to Obtain a Portuguese Passport: Step-by-Step Guide](https://tramitit.com/guides/portugal/request_for_portuguese_passport/)
+- [Apply for a Resident Card in Portugal: A Comprehensive Guide](https://tramitit.com/guides/portugal/request_for_resident_card_for_foreign_citizens/)

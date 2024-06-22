@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please remember that the procedure takes time, and it's normal for it to take up to several months, especially during peak times. If you haven't heard back in a while, try to get in touch with them directly. It can be a long process, but once you're registered, it's much easier to manage your healthcare and benefits in France.
+
+
+## Related Posts
+
+- [Guide to Retirement Pensions in France: Eligibility and Application](https://tramitit.com/guides/france/retirement_pension_application/)
+- [Guide to Social Housing Assistance in France: Eligibility and Steps](https://tramitit.com/guides/france/social_housing_assistance_application/)
+- [How to Register to Vote in France: A Comprehensive Guide](https://tramitit.com/guides/france/voter_registration/)
+- [Unemployment Benefits in France: Eligibility and Application Guide](https://tramitit.com/guides/france/unemployment_benefit_application/)
+- [Understanding Social Housing in France: Eligibility and Application](https://tramitit.com/guides/france/application_for_social_housing/)

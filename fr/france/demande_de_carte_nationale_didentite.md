@@ -11,7 +11,6 @@ title: 'Carte Nationale d''Identité en France: Procédure et Documents Requis'
 translationKey: france-national_identity_card_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est ?
 Une carte nationale d'identité est un document officiel qui sert de preuve d'identification. En France, ce document est reconnu comme une forme d'identification dans différents scénarios tels que la banque, les voyages au sein de l'Union européenne et les élections publiques.

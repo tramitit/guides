@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The length of time this process takes can vary depending on the complexity of the project and the speed of the local authority.
 - Failure to obtain a housing permit can result in penalizations, including fines or eventual demolition.
 - It is highly recommended to work with experienced professionals like architects and engineers throughout the process.
+
+
+## Related Posts
+
+- [Building Permit Guide for Construction in Portugal](https://tramitit.com/guides/portugal/request_for_building_permit/)
+- [How to Obtain a Residence Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_residence_certificate/)
+- [Land Registry Certificate in Portugal: Essential Guide & Steps](https://tramitit.com/guides/portugal/request_for_land_registry_certificate/)
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [How to Update Your Address on Portuguese Residence Permit](https://tramitit.com/guides/portugal/change_of_address_on_residence_permit/)

@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that each person’s situation may vary, and some individuals may need additional documents not listed here. It's important to always double-check requirements with official sources or legal professionals. Also, remember that without a proper renewal, one risks losing resident status.
+
+
+## Related Posts
+
+- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/guides/spain/student_card_application/)
+- [Guide to Renewing Your Student Card (TIE) in Spain: Steps & Tips](https://tramitit.com/guides/spain/student_card_renewal/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)

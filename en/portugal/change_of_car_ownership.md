@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For imported cars, a homologation process is needed to validate if the car meets Portuguese standards.
 - Additionally, keep in mind that if you've been living in Portugal for more than 180 days, it is important to decide whether you want to import the car permanently or temporarily. 
 - Insurance needs to be transferred or newly set up under the new owner's name.
+
+
+## Related Posts
+
+- [Complete Guide to Car Registration: Steps and Documents Required](https://tramitit.com/guides/portugal/request_for_car_registration/)
+- [Guide to Vehicle Registration Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_registration_certificate/)
+- [How to Change the Address on Your Citizen Card in Portugal](https://tramitit.com/guides/portugal/change_of_address_on_citizen_card/)
+- [How to Get Your Driving License: A Step-by-Step Guide](https://tramitit.com/guides/portugal/request_for_driving_license/)
+- [How to Update NIF Data in Portugal: A Complete Guide](https://tramitit.com/guides/portugal/request_for_change_of_nif_data/)

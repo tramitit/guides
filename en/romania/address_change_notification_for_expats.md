@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Using a Virtual Private Network (VPN) might be helpful if a service you need is restricted based on your location, such as certain online broadcasts or premium services. Please be mindful of any legal restrictions when using a VPN.
 
 Note: All procedures should be followed by individual official websites provided for updated and accurate information. This guide is a basic orientation and may not cover all specific guidelines or requirements.
+
+
+## Related Posts
+
+- [Permanent Residency Guide: Application Process and Requirements](https://tramitit.com/guides/romania/permanent_residency_application/)
+- [Comprehensive Guide to Study Visas for Romanian Students](https://tramitit.com/guides/romania/obtaining_study_visa/)
+- [Understand the Tax Certificate: Procedure, Need, and Documents](https://tramitit.com/guides/romania/tax_certificate/)
+- [How to Obtain a Tax Identification Number (TIN) Efficiently](https://tramitit.com/guides/romania/obtaining_tax_identification_number_(tin)/)
+- [Romanian and Moldovan Citizenship Confirmation Guide](https://tramitit.com/guides/romania/citizenship_confirmation/)

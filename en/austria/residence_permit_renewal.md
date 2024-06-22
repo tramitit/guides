@@ -48,3 +48,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 MA35 sometimes can be unresponsive. Patience is key, and you may need to send multiple emails or make multiple calls to get a response. 
 Also, everything should ideally be completed in German, so getting help from a German-speaking person could be beneficial if you are not fluent in German.
+
+
+## Related Posts
+
+- [Austrian Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/austria/residence_permit_application/)
+- [Guide to Austrian Passport Renewal: Steps and Essentials](https://tramitit.com/guides/austria/passport_renewal/)
+- [Renew Your Driver's License in Austria: Steps & Requirements](https://tramitit.com/guides/austria/drivers_license_renewal/)
+- [Marriage Certificate Application Process in Austria Explained](https://tramitit.com/guides/austria/marriage_certificate_application/)
+- [Anmeldung in Austria: How to Register Your Residence](https://tramitit.com/guides/austria/registration_information/)

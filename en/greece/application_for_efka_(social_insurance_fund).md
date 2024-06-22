@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You can call EFKA's hotline 1555 for further information, or refer to their [FAQ page](http://www.efka.gov.gr/faq) for common questions.
 - Remember to keep your EFKA number safe and always have it ready when you need medical services.
 - Provided that you have an active insurance status, you should receive a refund for your medicine costs from EFKA. However, there could be a co-payment requirement based on your income level.
+
+
+## Related Posts
+
+- [Guide to Registering in the Greek Tax Office for an AFM](https://tramitit.com/guides/greece/application_for_registration_in_the_tax_office/)
+- [Unemployed Register: Benefits for Job Seekers in Greece](https://tramitit.com/guides/greece/registration_in_the_unemployed_register/)
+- [How to Obtain a Tax Identification Number (TIN) in Greece](https://tramitit.com/guides/greece/application_for_tax_identification_number_(tin)/)
+- [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)
+- [Understanding Unemployment Benefits: Eligibility and Procedure](https://tramitit.com/guides/greece/application_for_unemployment_benefit/)

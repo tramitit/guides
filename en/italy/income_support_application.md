@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 It's important to note that the Citizens' Income is not given to you unconditionally. If you receive it, you have to apply for jobs via the Centri per l'impiego, and you're required to accept at least one job offer out of every three you receive. Not complying with these rules can lead to penalties, including the revocation of the benefit. You're also required to perform social and community services.
+
+
+## Related Posts
+
+- [Italian Family Allowance: Eligibility, Procedure, Required Documents](https://tramitit.com/guides/italy/family_allowance_request/)
+- [Disability Pension: Financial Assistance for Disabled Individuals](https://tramitit.com/guides/italy/disability_pension_application/)
+- [Guide to Italian Old Age Pension: Eligibility and Application](https://tramitit.com/guides/italy/old_age_pension_application/)
+- [How to Obtain an Italian Tax Code: Step-by-Step Guide](https://tramitit.com/guides/italy/tax_code_request/)
+- [Understanding and Applying for Unemployment Benefits in Italy (NASpI)](https://tramitit.com/guides/italy/unemployment_benefits_request/)

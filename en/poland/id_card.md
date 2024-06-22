@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you can't pick up the ID card in person, you can authorize someone else to do it for you.
 - A Dowod Osobisty contains a chip which can be used for electronic services like online banking.
 - If your card is lost or stolen, report it immediately to the local police department and apply for a new one at the city council's office using the same process.
+
+
+## Related Posts
+
+- [Guide to Reporting and Replacing Lost Documents in Poland](https://tramitit.com/guides/poland/report_of_lost_documents/)
+- [How to Apply for a Polish Passport: Procedure and Requirements](https://tramitit.com/guides/poland/passport/)
+- [How to Obtain a Duplicate Birth Certificate in Poland](https://tramitit.com/guides/poland/issuance_of_duplicate_birth_certificate/)
+- [Guide to Changing Your ID Card: Steps and Requirements](https://tramitit.com/guides/poland/change_of_id_card/)
+- [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)

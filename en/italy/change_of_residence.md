@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to update your address with all different public and private institutions, including but not limited to financial institutions, utility providers, citizenship offices etc. This would ensure a smoother transition and prevent potential bureaucratic issues. Your bank will specifically need proof of address, so keep those documents handy.
+
+
+## Related Posts
+
+- [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)
+- [How to Change Your Tax Code in Italy: A Complete Guide](https://tramitit.com/guides/italy/tax_code_change/)
+- [Renew Your Residence Permit in Italy: Step-by-Step Guide](https://tramitit.com/guides/italy/residence_permit_renewal/)
+- [Guide to Obtaining an Italian Residence Permit (Permesso di Soggiorno)](https://tramitit.com/guides/italy/residence_permit_application/)
+- [How to Obtain an Italian Tax Code: Step-by-Step Guide](https://tramitit.com/guides/italy/tax_code_request/)

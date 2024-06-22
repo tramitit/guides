@@ -11,7 +11,6 @@ title: 'Inscription à la Garderie au Canada: Processus et Docs Requis'
 translationKey: france-daycare_registration
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 L'inscription à la garderie est le processus par lequel les parents inscrivent leurs enfants pour fréquenter un centre de garderie ou un programme. Dans ce contexte, nous détaillerons le processus tel qu'il s'applique au Canada, notamment au Québec et en Ontario.

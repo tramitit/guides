@@ -55,3 +55,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Some users have mentioned that it might be possible to pay the fee online via specific banking apps if you have a Spanish bank account.
 - If you are not in Spain, it might be helpful to contact the nearest Spanish consulate for guidance or specific instructions applicable to your situation.
   
+
+
+## Related Posts
+
+- [Guide to Model 390: Essential for Foreigners in Spain (NIE)](https://tramitit.com/guides/spain/model_390/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)

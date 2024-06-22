@@ -43,3 +43,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Spain also provides paternity leave for fathers. The duration and process for applying can be found on the Spanish Social Security website.
 - Besides maternity leave, you may also be eligible for maternity allowance. Consult your employer or the Spanish Social Security for more information on how to apply. 
 - Any changes in circumstances (such as health condition, employment situation) must be promptly reported to the Social Security. 
+
+
+
+## Related Posts
+
+- [Comprehensive Guide on Paternity Leave: Steps and Requirements](https://tramitit.com/guides/spain/paternity_leave_application/)
+- [Guide to Extending Your Short Stay in Spain Legally and Easily](https://tramitit.com/guides/spain/extension_of_short_stay/)
+- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
+- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
+- [How to Apply for a Spain Work Permit: Step-by-Step Guide](https://tramitit.com/guides/spain/work_permit_application/)

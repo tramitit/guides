@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The International Driver's License is not a standalone document and should be carried alongside your original driver's license.
 - It's valid for one year from the issue date.
 - Understand that it's a translation of your existing license and does not bestow extra driving privileges. Keep in mind the driving rules of the country you are visiting.
+
+
+## Related Posts
+
+- [Driver's License in Slovakia: Procedure, Requirements & Tips](https://tramitit.com/guides/slovakia/issuance_of_drivers_license/)
+- [Foreign Driver's License Exchange: Steps & Requirements Guide](https://tramitit.com/guides/slovakia/exchange_of_foreign_drivers_license/)
+- [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)
+- [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)

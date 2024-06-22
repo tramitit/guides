@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Not complying with the parking rules, most often not buying a parking ticket, or exceeding the time you've paid for, results in a fine in Hungary. 
 - The fees for parking tickets vary by zone in Budapest.
 - It's important to handle these fines promptly to avoid potential additional penalties.
+
+
+## Related Posts
+
+- [Budapest Parking Permits: Steps, Requirements, and Providers](https://tramitit.com/guides/hungary/parking_permit_application/)
+- [Vehicle Registration in Hungary: Complete Step-by-Step Guide](https://tramitit.com/guides/hungary/vehicle_registration/)
+- [Essential Guide to Vehicle Technical Inspections in Hungary](https://tramitit.com/guides/hungary/vehicle_technical_inspection_appointment_booking/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)
+- [Legal Name Change Procedure for Hungary Residents and Citizens](https://tramitit.com/guides/hungary/name_change_registration/)

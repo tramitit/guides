@@ -60,3 +60,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - **Language Requirements**: The DELE exams to prove Spanish language proficiency are mandatory unless you are from a Spanish-speaking country.
 - **Special Considerations**: Some nationals might have preferential treatment or reduced residency period due to bilateral agreements between Spain and their countries.
+
+
+
+## Related Posts
+
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
+- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/guides/spain/certificate_of_residence/)
+- [How to Get a Long-term Residence Card in Spain: A Complete Guide](https://tramitit.com/guides/spain/long-term_residence_card/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
+- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)

@@ -11,7 +11,6 @@ title: Understanding Italy's National Health Service (SSN) Registration
 translationKey: italy-registration_with_the_national_health_service_(ssn)
 ---
 
-
 ## Description
 ### What is it?
 The National Health Service (Servizio Sanitario Nazionale, SSN) in Italy is a public health system that provides comprehensive health coverage to residents. 
@@ -43,3 +42,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to renew your registration every year. Although SSN coverage is comprehensive, some services might require co-payment (ticket). Always check whether your particular service requires this. Also, the SSN coverage may not extend during travels abroad, so an additional health insurance might be necessary for international travels.
+
+
+
+## Related Posts
+
+- [Health Ticket Exemption in Italy: Eligibility and Procedure](https://tramitit.com/guides/italy/health_ticket_exemption_request/)
+- [Permesso di Soggiorno: Essential Guide for Non-EU Residents in Italy](https://tramitit.com/guides/italy/residence_card_request/)
+- [Italian Family Allowance: Eligibility, Procedure, Required Documents](https://tramitit.com/guides/italy/family_allowance_request/)
+- [How to Obtain an Italian Tax Code: Step-by-Step Guide](https://tramitit.com/guides/italy/tax_code_request/)
+- [Guide to Obtaining an Italian Residence Permit (Permesso di Soggiorno)](https://tramitit.com/guides/italy/residence_permit_application/)

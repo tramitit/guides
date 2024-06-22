@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The Slovak Republic has lenient policies on foreign registration. However, foreign nationals planning on staying in Slovakia for 90 days or more are required to register. It is also worth noting, if you drive a car registered in a different country, you are required to go through procedures to register your car in Slovakia for use after six months of stay. Also, as per living arrangements during your stay, it's crucial to consider the cultural and societal norms that the Slovak natives uphold.
+
+
+## Related Posts
+
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [Health Insurance Registration Guide for Foreigners in Slovakia](https://tramitit.com/guides/slovakia/health_insurance_registration/)
+- [Guide to Changing Permanent Residence in Slovakia: Steps and Tips](https://tramitit.com/guides/slovakia/change_of_permanent_residence/)
+- [Comprehensive Guide to Vehicle Registration in Slovakia](https://tramitit.com/guides/slovakia/vehicle_registration/)
+- [Driver's License in Slovakia: Procedure, Requirements & Tips](https://tramitit.com/guides/slovakia/issuance_of_drivers_license/)

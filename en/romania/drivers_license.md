@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - An international driver's permit may be required in addition to your home country driver's license if you are a frequent traveler.
 - You must carry your driver's license, insurance papers, and ID card at all times when driving in Romania.
 - Be aware of the road rules in Romania and drive safely.
+
+
+## Related Posts
+
+- [Car Registration in Romania: Mandatory Process and Requirements](https://tramitit.com/guides/romania/car_registration/)
+- [Romanian Vehicle Registration: Steps and Required Documents](https://tramitit.com/guides/romania/vehicle_visa/)
+- [Romanian Identity Card: How to Obtain, Required Documents, and More](https://tramitit.com/guides/romania/identity_card/)
+- [How to Obtain a Romanian Birth Certificate - Step-by-Step Guide](https://tramitit.com/guides/romania/birth_certificate/)
+- [Guide to Obtaining a Romanian Passport: Steps and Requirements](https://tramitit.com/guides/romania/passport/)

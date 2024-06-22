@@ -68,3 +68,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 - **Digital Certificate:**
   Obtaining a digital certificate from the [Spanish National Mint and Stamp Factory (FNMT)](https://www.sede.fnmt.gob.es/en/home) is essential for the electronic submission of Model 151.
+
+
+## Related Posts
+
+- [Model 720: Spanish Tax Declaration for Foreign Assets Guide](https://tramitit.com/guides/spain/model_720/)
+- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/guides/spain/model_145/)
+- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)
+- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/guides/spain/model_190/)
+- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/guides/spain/model_347/)

@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The maximum length of receiving the benefit is based on how long you've previously worked and your age.
 - You are generally expected to actively look for a job and show proof of your job search activities at regular intervals.
 - Failure to comply with AMS rules can result in sanctions including reduction or suspension of the benefit.
+
+
+## Related Posts
+
+- [Understanding and Applying for Basic Social Security in Austria](https://tramitit.com/guides/austria/minimum_security_application/)
+- [Parental Allowance in Austria and Germany: Eligibility and Process](https://tramitit.com/guides/austria/parental_allowance_application/)
+- [Social Insurance Registration in Austria: A Complete Guide](https://tramitit.com/guides/austria/social_insurance_registration/)
+- [Housing Allowance in Austria: Eligibility and Application Process](https://tramitit.com/guides/austria/housing_allowance_application/)
+- [Guide to Study Grants in Austria: Eligibility and Procedure](https://tramitit.com/guides/austria/study_grant_application/)

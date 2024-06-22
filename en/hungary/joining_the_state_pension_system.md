@@ -38,3 +38,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Length of mandatory pension contribution varies depending on the country and specific retirement plans. Also, it's crucial to note that changing employment doesn't influence your state pension; your contributions are cumulative across all your years of work, regardless of how many employers you have had. You should ensure your contributions are accurately recorded, as mistakes could cost you in your pension payments.
+
+
+## Related Posts
+
+- [Guide to Applying for Pension in Hungary: Procedures & Documents](https://tramitit.com/guides/hungary/pension_application/)
+- [Jobseeker's Allowance: Financial Support for Unemployed Individuals](https://tramitit.com/guides/hungary/jobseekers_allowance_application/)
+- [Understanding Sick Pay: Procedures and Required Documents](https://tramitit.com/guides/hungary/sick_pay_application/)
+- [Complete Guide to Understanding and Applying for Student Loans](https://tramitit.com/guides/hungary/student_loan_application/)
+- [How to Apply for Housing Support in Hungary: A Step-by-Step Guide](https://tramitit.com/guides/hungary/housing_support_application/)

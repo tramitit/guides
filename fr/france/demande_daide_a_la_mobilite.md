@@ -12,7 +12,6 @@ title: 'Aides à la Mobilité en France: Besoins, Procédure et Documents Requis
 translationKey: france-mobility_aid_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Les aides à la mobilité comprennent des dispositifs conçus pour aider à la marche ou améliorer la mobilité des personnes ayant une incapacité de déplacement. En France, elles peuvent aller des dispositifs simples comme les cannes blanches aux machines complexes comme les fauteuils roulants ou les scooters de mobilité.

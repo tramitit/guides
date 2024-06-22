@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Writing your Work Record Book in a clear, concise and professional way can make it more effective. Avoid using jargon and focus on results and accomplishments.
 - It can be beneficial to tailor your Work Record Book according to the job you are applying for.
 - Your Work Record Book can serve as a valuable reference when writing job applications or preparing for job interviews.
+
+
+## Related Posts
+
+- [Guide to Employment Contracts in Romania: Essential Steps & Tips](https://tramitit.com/guides/romania/employment_contract/)
+- [Work Visa Extension Guide for Romania: Complete Procedure & Tips](https://tramitit.com/guides/romania/work_visa_extension/)
+- [How to Obtain a Criminal Record (Cazier Judiciar) in Romania](https://tramitit.com/guides/romania/criminal_record/)
+- [How to Obtain a Work Permit for Romania: A Complete Guide](https://tramitit.com/guides/romania/work_permit_application_for_expats/)
+- [How to Legally Establish a Business Entity: A Step-by-Step Guide](https://tramitit.com/guides/romania/company_registration/)

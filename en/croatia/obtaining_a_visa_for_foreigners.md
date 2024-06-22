@@ -49,3 +49,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It is advisable to apply at least three months prior to your intended travel date.
 - While waiting for your visa approval, it is recommended not to make any non-refundable travel arrangements.
 - For specific visa-related queries, you can seek help from the Croatian consulate or embassy in your country.
+
+
+## Related Posts
+
+- [Guide to Obtaining an Immigration Permit in Croatia](https://tramitit.com/guides/croatia/obtaining_an_immigration_permit/)
+- [How to Obtain a Croatian Passport: Steps and Requirements](https://tramitit.com/guides/croatia/issuance_of_passport/)
+- [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)
+- [Temporary Residence Registration in Croatia - Step-by-Step Guide](https://tramitit.com/guides/croatia/temporary_residence_registration/)
+- [How to Extend Your Residence Permit in Croatia: A Complete Guide](https://tramitit.com/guides/croatia/extension_of_residence_permit/)

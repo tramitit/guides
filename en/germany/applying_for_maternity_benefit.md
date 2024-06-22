@@ -38,3 +38,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional Details
 In Germany, your job is protected by law from the beginning of the pregnancy until four months after childbirth, which is known as the protection period. During this time, you are entitled to Maternity Protection Leave (usually six weeks before and eight weeks after childbirth) and Parental Allowance (Elterngeld). Additionally, you can also take advantage of Parental Leave (Elternzeit) after your Maternity Protection Leave, which can last until the child's third birthday.
+
+
+## Related Posts
+
+- [Guide to Parental Allowance in Germany: Eligibility & Application](https://tramitit.com/guides/germany/applying_for_parental_allowance/)
+- [Guide to Applying for Child Benefit (Kindergeld) in Germany](https://tramitit.com/guides/germany/applying_for_child_benefit/)
+- [How to Apply for Unemployment Benefits in Germany: A Guide](https://tramitit.com/guides/germany/applying_for_unemployment_benefit/)
+- [How to Submit Pregnancy Confirmation: Step-by-Step Guide](https://tramitit.com/guides/germany/submitting_pregnancy_confirmation/)
+- [Housing Allowance: Apply for Wohngeld in Germany Easily](https://tramitit.com/guides/germany/applying_for_housing_allowance/)

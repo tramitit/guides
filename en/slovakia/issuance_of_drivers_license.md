@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Driving with a non-European driver’s license in Slovakia is permitted for up to one year. If you come from outside the EU, it is advisable to get an International Driving Permit. Note that you must always carry this along with your normal driver's license when driving.
 
 Keep in mind that all the steps and procedures might be subjected to change and it's advised to reach out to the local highway department office or a local driving school for the most accurate and up-to-date information.
+
+
+## Related Posts
+
+- [Comprehensive Guide to Vehicle Registration in Slovakia](https://tramitit.com/guides/slovakia/vehicle_registration/)
+- [Get Your International Driver’s Permit: Easy and Quick Process](https://tramitit.com/guides/slovakia/issuance_of_international_drivers_license/)
+- [Foreign Driver's License Exchange: Steps & Requirements Guide](https://tramitit.com/guides/slovakia/exchange_of_foreign_drivers_license/)
+- [How to Obtain a Slovak Identity Card: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_identity_card/)
+- [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)

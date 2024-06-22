@@ -11,7 +11,6 @@ title: 'Allocations Familiales en France: Comment les demander'
 translationKey: france-family_allowance_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Les allocations familiales sont des paiements du gouvernement destinés aux familles ayant un ou plusieurs enfants à charge. Ces paiements visent à aider les familles à couvrir les coûts liés à l'éducation des enfants.

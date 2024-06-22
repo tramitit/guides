@@ -11,7 +11,6 @@ title: 'Logement Social aux Pays-Bas: Inscription et Procédures'
 translationKey: belgium-request_for_social_housing
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Le logement social aux Pays-Bas est constitué de logements locatifs pour les ménages disposant d'un revenu modéré. Ils sont loués par des associations de logement.

@@ -72,3 +72,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Model 190 must be submitted annually within the first 20 days of January following the end of the tax year.
 
 For more information and step-by-step guidance, visit the [Spanish Tax Agency's official guide](https://www.agenciatributaria.gob.es/AEAT.sede/tramitacion/Gedi/190.shtml).
+
+
+## Related Posts
+
+- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/guides/spain/model_145/)
+- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)
+- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/guides/spain/model_347/)
+- [Guide to Model 390: Essential for Foreigners in Spain (NIE)](https://tramitit.com/guides/spain/model_390/)
+- [Model 720: Spanish Tax Declaration for Foreign Assets Guide](https://tramitit.com/guides/spain/model_720/)

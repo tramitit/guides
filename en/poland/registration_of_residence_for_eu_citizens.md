@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 -	Declaration of registration does not grant permission to work in Poland; separate procedures need to be followed for work permit.
 -	Please remember that if any of your registered details change (e.g., marriage, childbirth), you must notify the office where you registered your residence within 15 days.
 -	Note: This information is based on current regulations and may be subject to change. It’s always best to check with local authorities or legal advisors for the most up-to-date information.
+
+
+## Related Posts
+
+- [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)
+- [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)
+- [Change of Residence Notification in Poland: Steps and Requirements](https://tramitit.com/guides/poland/change_of_residence_notification/)
+- [How to Change Your Registered Residence Address in Poland](https://tramitit.com/guides/poland/change_of_registered_residence_address/)
+- [Polish Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/poland/residence_permit/)

@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that different rules and exemptions can apply based on the specific circumstances of the taxpayer.  Always refer to the local laws or a financial adviser for more tailored advice. Failure to comply with tax obligations can lead to penalties and legal consequences.
+
+
+## Related Posts
+
+- [Understanding and Paying Property Tax in Romania: A Guide](https://tramitit.com/guides/romania/property_tax/)
+- [Understand the Tax Certificate: Procedure, Need, and Documents](https://tramitit.com/guides/romania/tax_certificate/)
+- [Understanding Auto Taxes and Fees in Romania: A Complete Guide](https://tramitit.com/guides/romania/auto_taxes_and_fees/)
+- [How to Obtain an Income Certificate in Romania: Step-by-Step Guide](https://tramitit.com/guides/romania/income_certificate/)
+- [Romania Residence Visa Guide: Application Steps and Requirements](https://tramitit.com/guides/romania/residence_visa/)

@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Take time to prepare your application and documents to increase your chances of getting accepted. Consider participating in extracurricular activities, as they can boost your application. Remember that each university has unique timelines so always check their specific deadlines. Lastly, ensure you thoroughly evaluate all programs of interest before making your final decision.
+
+
+## Related Posts
+
+- [Complete Guide to Understanding and Applying for Student Loans](https://tramitit.com/guides/hungary/student_loan_application/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)
+- [Health Insurance Application in Hungary: A Complete Guide](https://tramitit.com/guides/hungary/healthcare_insurance_application/)
+- [How to Apply for Refugee Status: Steps and Requirements](https://tramitit.com/guides/hungary/request_for_refugee_status/)
+- [Guide to Applying for Pension in Hungary: Procedures & Documents](https://tramitit.com/guides/hungary/pension_application/)

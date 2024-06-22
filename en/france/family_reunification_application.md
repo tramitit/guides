@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that the application process can be long and complicated. Ensure you check the processing times and costs on the relevant websites and have all documentation ready before starting your application.
+
+
+## Related Posts
+
+- [Guide to Obtaining a Long-Stay Visa for France: Steps & Requirements](https://tramitit.com/guides/france/visa_application/)
+- [How to Obtain a Residence Permit in France: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_application/)
+- [Complete Guide to Naturalization in France: Steps and Requirements](https://tramitit.com/guides/france/naturalization_application/)
+- [Guide to Obtaining a Resident Card in France: Steps & Requirements](https://tramitit.com/guides/france/resident_card_application/)
+- [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)

@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Exact fee and processing time may vary. For urgent cases, expedited service may be available for an additional fee. Please contact the civil registry or your service provider for the most current information.
+
+
+## Related Posts
+
+- [How to Obtain a Birth Certificate: Steps and Requirements](https://tramitit.com/guides/portugal/request_for_birth_certificate/)
+- [Marriage Registration in Portugal: Steps & Documents for Foreigners](https://tramitit.com/guides/portugal/registration_of_marriage_of_foreign_citizen_in_portugal/)
+- [Guide to Obtaining a Death Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_death_certificate/)
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [How to Obtain a Criminal Record Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_criminal_record_certificate/)

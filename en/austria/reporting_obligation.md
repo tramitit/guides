@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you move out from the address registered, don't forget to un-register (Abmeldung) at the local office (Magistratisches Bezirksamt).
 - There is no cost for registering or un-registering, it is provided as a free service by the Austrian government.  
 Please note that these processes may vary slightly from city to city, but overall, it remains the same. Check your city's official website for the most accurate information.
+
+
+## Related Posts
+
+- [Guide to Registering Your Residence in Austria (Meldezettel)](https://tramitit.com/guides/austria/registration_certificate/)
+- [Anmeldung in Austria: How to Register Your Residence](https://tramitit.com/guides/austria/registration_information/)
+- [Guide to Registering Your Change of Main Residence in Austria](https://tramitit.com/guides/austria/change_of_main_residence/)
+- [Anmeldung: Residence Registration in Germany and Austria Guide](https://tramitit.com/guides/austria/residence_registration/)
+- [Guide to Deregistration of Residence in Germany and Austria](https://tramitit.com/guides/austria/deregistration_of_residence/)

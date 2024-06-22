@@ -11,7 +11,6 @@ title: 'Obtention de passeport : procédure, documents requis et fournisseurs'
 translationKey: belgium-request_for_passport
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un passeport est un document officiel délivré par le gouvernement de votre pays, certifiant votre identité et votre citoyenneté. Il est nécessaire pour les voyages internationaux.

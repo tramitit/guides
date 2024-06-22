@@ -37,3 +37,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 This tax number (AFM) is a compulsory requirement and is used in all interactions with any Greek authority and is necessary for almost all transactions of economic significance, like opening a bank account, setting up utility contracts, getting paid for work, and more. The Tax Office will check the validity of the documents and may potentially ask for further evidences or certificated translations of foreign documents, so it is essential that all provided documents are accurate to avoid any delays in the process.
+
+
+## Related Posts
+
+- [How to Obtain a Tax Identification Number (TIN) in Greece](https://tramitit.com/guides/greece/application_for_tax_identification_number_(tin)/)
+- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_(social_insurance_fund)/)
+- [How to Obtain a Birth Certificate in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_birth_certificate/)
+- [How to Obtain a Greek Passport: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_passport_issuance/)
+- [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)

@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Health insurance in Bulgaria is mandatory for all permanent residents and is contributed to their count of social security through employment, self-employment, retirement, or other arrangements.
 - There are also private health insurers that provide additional health coverage.
 - Beneficiaries of Bulgarian national insurance are eligible for the European Health Insurance Card (EHIC), which provides coverage throughout the EU. Here is the [official EU page on the EHIC](https://ec.europa.eu/social/main.jsp?catId=559).
+
+
+## Related Posts
+
+- [Get Your European Health Insurance Card (EHIC) Easily](https://tramitit.com/guides/bulgaria/issuance_of_a_european_health_insurance_card/)
+- [Social Security in Bulgaria: Benefits, Procedures, and Requirements](https://tramitit.com/guides/bulgaria/application_for_social_security/)
+- [How to Obtain a Bulgarian Identity Card: Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_identity_card/)
+- [Legal Aid in Bulgaria: Access, Eligibility, and Providers](https://tramitit.com/guides/bulgaria/application_for_legal_aid/)
+- [Essential Guide to Obtaining a Passport in Bulgaria](https://tramitit.com/guides/bulgaria/issuance_of_a_passport/)

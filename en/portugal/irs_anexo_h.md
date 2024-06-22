@@ -58,3 +58,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - Always make sure to have all supporting documentation organized and readily available in case of audits or additional verification by the Portuguese tax authority.
 - Double-check for any common errors such as the one related to despesas de habitação (housing expenses). Ensure all housing expenses are correctly reported to avoid error code 249H.
+
+
+
+## Related Posts
+
+- [Guide to Filing Anexo D for IRS Declarations in Portugal](https://tramitit.com/guides/portugal/irs_anexo_d/)
+- [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)
+- [IRS Anexo J: Guide for Reporting Foreign Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_j/)
+- [Guide to IRS Anexo C for Self-Employed in Portugal - 2023](https://tramitit.com/guides/portugal/irs_anexo_c/)
+- [Complete Guide on IRS Anexo B for Self-Employed in Portugal](https://tramitit.com/guides/portugal/irs_anexo_b/)

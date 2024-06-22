@@ -11,7 +11,6 @@ title: 'Inscription à la Sécurité sociale française: Guide complet'
 translationKey: france-social_security_registration
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 L'inscription à la Sécurité sociale française fait référence au processus d'inscription au système de Sécurité sociale française afin d'avoir accès aux soins de santé, à la couverture de certains risques (maladie, maternité, invalidité, vieillesse), aux prestations familiales et plus encore.

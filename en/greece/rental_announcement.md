@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's essential to ensure that any rental announcements abide by fair housing laws and don’t discriminate against potential tenants. Be prepared for the process of screening potential tenants and managing your property, or consider hiring a property management company to handle these details for you.
+
+
+## Related Posts
+
+- [Guide to Rent Subsidies: Eligibility, Process, and Required Documents](https://tramitit.com/guides/greece/application_for_rent_subsidy/)
+- [Inheritance Acceptance in Greece: A Complete Legal Guide](https://tramitit.com/guides/greece/application_for_inheritance_acceptance/)
+- [Guide to Obtaining an Inheritance Certificate in Greece](https://tramitit.com/guides/greece/application_for_inheritance_certificate/)
+- [Building Permit Guide: Essential Steps and Documents Required](https://tramitit.com/guides/greece/application_for_building_permit/)
+- [Guide to Registering in the Greek Tax Office for an AFM](https://tramitit.com/guides/greece/application_for_registration_in_the_tax_office/)

@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 For non-EU citizens, besides the 10-year continuous residency, other categories like refugees or family members of Czech citizens can apply for permanent residence. After 5 years of holding a permanent residence permit, individuals are eligible to apply for Czech citizenship.
 Remember that the procedure and required documents might vary, so it is essential to check the official requirements on the Ministry's website. It’s also good to note that the requirements for a permanent residence permit are quite strict, and the process could be long due to the thorough examination of the applicant's documents and qualifications.
+
+
+## Related Posts
+
+- [EU Citizens' Guide to Temporary Residence in Czech Republic](https://tramitit.com/guides/czech-republic/residence_registration_for_eu_citizens/)
+- [Czech Republic Visa Guide: Requirements and Application Process](https://tramitit.com/guides/czech-republic/application_for_visa/)
+- [Residence Registration in Czech Republic: A Simple Guide](https://tramitit.com/guides/czech-republic/residence_registration_for_foreigners/)
+- [How to Get an ID Card in the Czech Republic: Requirements & Steps](https://tramitit.com/guides/czech-republic/application_for_issuing_an_id_card/)
+- [How to Change Your Permanent Residence Efficiently](https://tramitit.com/guides/czech-republic/change_of_permanent_residence/)

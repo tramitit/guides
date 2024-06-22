@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that name changes may affect other areas of your life, including bank accounts, driver's licenses, and passport. Be prepared to provide updated documents to all relevant entities. In specific cases, the adoption of foreign names may require additional procedures, due to certain restrictions in Hungarian law.
+
+
+## Related Posts
+
+- [Guide to Legally Changing Your Family Name: Steps and Requirements](https://tramitit.com/guides/hungary/change_of_family_name/)
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)
+- [A Complete Guide to Getting Married in Hungary: Procedures & Tips](https://tramitit.com/guides/hungary/marriage_registration/)
+- [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)

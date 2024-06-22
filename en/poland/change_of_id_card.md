@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Make sure to update all places where your old ID was used. This could be your banks, schools or workplaces for corrrect records.
+
+
+## Related Posts
+
+- [Guide to Official Name Change Notification Process](https://tramitit.com/guides/poland/change_of_first_name_notification/)
+- [How to Obtain a Polish ID Card (Dowod Osobisty) - Step-by-Step Guide](https://tramitit.com/guides/poland/id_card/)
+- [Guide to Reporting and Replacing Lost Documents in Poland](https://tramitit.com/guides/poland/report_of_lost_documents/)
+- [How to Update Your Contact Details: A Step-by-Step Guide](https://tramitit.com/guides/poland/notification_of_change_in_contact_details/)
+- [Legal Surname Change Notification Process in Poland](https://tramitit.com/guides/poland/change_of_surname_notification/)

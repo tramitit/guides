@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - There might be additional fees for providing an interpreting service if you do not speak Hungarian in the Transport Authority's office.
 - The insurance cost varies depending on the type and age of the vehicle.
+
+
+## Related Posts
+
+- [Essential Guide to Vehicle Technical Inspections in Hungary](https://tramitit.com/guides/hungary/vehicle_technical_inspection_appointment_booking/)
+- [Complete Guide on Vehicle De-registration Process in Hungary](https://tramitit.com/guides/hungary/vehicle_de-registration/)
+- [Essential Guide to Residence Registration in Hungary](https://tramitit.com/guides/hungary/residence_registration/)
+- [Guide to Applying for a Driver's License in Hungary](https://tramitit.com/guides/hungary/drivers_license_application/)
+- [Legal Name Change Procedure for Hungary Residents and Citizens](https://tramitit.com/guides/hungary/name_change_registration/)

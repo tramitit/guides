@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Bear in mind that if the car is from a foreign country, it might require additional documents or procedures. You are also required to get Obtaining Portuguese Car Insurance. Check provider websites for the most accurate and recent information.
+
+
+## Related Posts
+
+- [Guide to Vehicle Registration Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_registration_certificate/)
+- [Guide for Legal Change of Car Ownership in Portugal](https://tramitit.com/guides/portugal/change_of_car_ownership/)
+- [How to Get Your Driving License: A Step-by-Step Guide](https://tramitit.com/guides/portugal/request_for_driving_license/)
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [Marriage Registration in Portugal: Steps & Documents for Foreigners](https://tramitit.com/guides/portugal/registration_of_marriage_of_foreign_citizen_in_portugal/)

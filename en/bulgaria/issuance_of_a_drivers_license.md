@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Please note that the actual issuance of the driver's license must be done personally at the Regional Police Department, this cannot be performed by a driving school. The fees for the driving course and exams may vary based on the driving school you choose. When preparing for the theoretical portion of the driver's exam, keep in mind that the questions and traffic signs will be in Bulgarian.
+
+
+## Related Posts
+
+- [Complete Guide for Admission to a Driving Test in Bulgaria](https://tramitit.com/guides/bulgaria/admission_to_a_driving_test/)
+- [Vehicle Registration in Bulgaria: Steps, Needs, and Documents](https://tramitit.com/guides/bulgaria/registration_of_a_new_vehicle/)
+- [Essential Guide to Obtaining a Passport in Bulgaria](https://tramitit.com/guides/bulgaria/issuance_of_a_passport/)
+- [Bulgarian Birth Certificate: Essential Guide & Process Overview](https://tramitit.com/guides/bulgaria/issuance_of_a_birth_certificate/)
+- [How to Obtain a Bulgarian Identity Card: Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_identity_card/)

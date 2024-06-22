@@ -11,7 +11,6 @@ title: 'Réductions Transports Publics Étudiants: Procédure & Fournisseurs'
 translationKey: belgium-request_for_student_discount_public_transport
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Les réductions pour étudiants sur les transports publics sont des réductions sur les coûts de transport disponibles pour les étudiants. Il s'agit d'un moyen rentable pour les étudiants de se déplacer facilement dans leur ville ou leur pays.

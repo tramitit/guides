@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - In case of loss, you can request a replacement through the same service.
 - Remember that calamities, strikes or delays in postal service can affect the delivery period.
 - It is important to always keep your card safe and readily available in case you need medical service.
+
+
+## Related Posts
+
+- [Complete Guide to Complementary Health Insurance in France](https://tramitit.com/guides/france/complementary_health_insurance_application/)
+- [National Identity Card in France: Procedure, Requirements, Providers](https://tramitit.com/guides/france/national_identity_card_application/)
+- [Guide to Obtaining a Resident Card in France: Steps & Requirements](https://tramitit.com/guides/france/resident_card_application/)
+- [French Social Security Registration: Essential Guide for Expats](https://tramitit.com/guides/france/social_security_registration/)
+- [Guide to Mobility Aids in France: From Canes to Scooters](https://tramitit.com/guides/france/mobility_aid_application/)

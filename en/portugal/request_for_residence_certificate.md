@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In Portugal, the issuance of the Residence Certificate is managed at the local level by each council. Therefore, the procedure, required documents, timeline and fees can vary significantly from one council to another. It is thus essential to make inquiries to your local council before starting the process.
+
+
+## Related Posts
+
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)
+- [Apply for a Resident Card in Portugal: A Comprehensive Guide](https://tramitit.com/guides/portugal/request_for_resident_card_for_foreign_citizens/)
+- [How to Update Your Address on Portuguese Residence Permit](https://tramitit.com/guides/portugal/change_of_address_on_residence_permit/)
+- [User Card for Foreigners: Live in Portugal Legally for 6+ Months](https://tramitit.com/guides/portugal/request_for_user_card_for_foreigners/)

@@ -11,7 +11,6 @@ title: Comment bénéficier du Complément de Mode de Garde en France
 translationKey: france-application_for_childcare_choice_supplement_(cmg)
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Le Complément de Mode de Garde (CMG) est un complément de garde d'enfants qui aide les familles à couvrir une partie des coûts associés à l'emploi d'une assistante maternelle agréée ou à l'utilisation d'une micro-crèche accréditée.

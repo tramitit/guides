@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The fee for requesting a Criminal Background Certificate as of 2024 is €3.70. 
 - Digital Certificate users must select the 'With certificate' option. Those without a Digital Certificate must fill out a form in person or use the 'Without certificate' option online and then pay the fee at a bank.
 - If you are outside Spain, the same procedure applies, but instead of receiving the certificate by post, you will receive an electronic version by email.
+
+
+## Related Posts
+
+- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/guides/spain/criminal_record_certificate/)
+- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/guides/spain/certificate_of_sexual_offenses/)
+- [Sex Offense Certificate: Essential Guide and Application Process](https://tramitit.com/guides/spain/sex_offense_certificate_request/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)

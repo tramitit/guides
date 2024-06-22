@@ -11,7 +11,6 @@ title: 'Demande d''Arrêt Maladie: Procédure et Documents Requis'
 translationKey: france-sick_leave_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 La demande d'arrêt maladie est un processus formel nécessaire pour informer son employeur de la période de son absence en raison d'un problème de santé, qu'il s'agisse de maladies physiques ou mentales. Cela nécessite généralement un document médical prouvant la condition et précisant la durée estimée de la maladie.

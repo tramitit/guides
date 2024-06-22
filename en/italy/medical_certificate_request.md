@@ -38,3 +38,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Keep in mind that the Medical Certificate must be specific to the activity you are about to undertake. For example, a certificate for cycling might not be valid for a marathon. Always consult with the organization requiring the certificate to ensure you obtain the proper certification.
+
+
+## Related Posts
+
+- [How to Obtain Your Marriage Certificate from Italy](https://tramitit.com/guides/italy/marriage_certificate_request/)
+- [Health Ticket Exemption in Italy: Eligibility and Procedure](https://tramitit.com/guides/italy/health_ticket_exemption_request/)
+- [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)
+- [How to Obtain a Civil Status Certificate: A Complete Guide](https://tramitit.com/guides/italy/civil_status_certificate/)
+- [Guide to Civil Registry Registration in Italy: Process & Documents](https://tramitit.com/guides/italy/registration_in_the_civil_registry/)

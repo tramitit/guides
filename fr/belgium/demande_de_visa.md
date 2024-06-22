@@ -11,7 +11,6 @@ title: 'Procédure du visa belge: types, documents et conseils'
 translationKey: belgium-request_for_visa
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un visa belge est un permis délivré par le gouvernement belge qui permet à un ressortissant étranger de séjourner ou de rendre visite en Belgique pour une période spécifique.

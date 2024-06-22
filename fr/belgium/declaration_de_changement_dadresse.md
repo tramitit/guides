@@ -11,7 +11,6 @@ title: 'Changement d''adresse en Belgique: Rapport et Procédure'
 translationKey: belgium-report_change_of_address
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un rapport de changement d'adresse est une déclaration faite par des individus à leur municipalité locale lorsqu'ils déménagent à une nouvelle adresse résidentielle dans la même ville ou ville, ou lorsqu'ils déménagent dans une municipalité différente.

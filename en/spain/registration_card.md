@@ -52,3 +52,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Additional Help**: Some regions in Spain might have variations in the process. Ensure you check local requirements.
 - **Renewing your NIE**: The renewal process might differ slightly but generally follows a similar procedure.
 - **Driving in Spain**: If you plan to register your foreign car in Spain, ensure you follow the specific registration steps distinct from getting your NIE. Always keep your registration card updated to avoid any legal issues.
+
+
+## Related Posts
+
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
+- [How to Obtain a Green NIE Resident Certificate in Spain](https://tramitit.com/guides/spain/resident_certificate/)

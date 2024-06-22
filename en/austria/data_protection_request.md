@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You can request an extension if you feel that the given time for the company to reply is not enough.
 - If the company fails to respond in time or you feel you have been unfairly denied, you can file complaints with the local supervisory authority.
 - Street Photography: Recent discussions on GDPR and Street Photography have led to confusion on legality. While broadly, GDPR does not explicitly outlaw street photography, cases where individuals can be identified might lead to complications. It is recommended to be aware of the local laws of the country.
+
+
+## Related Posts
+
+- [Proof of Residence Guide: Requirements and Procedure Explained](https://tramitit.com/guides/austria/proof_of_residence/)
+- [How to Obtain a Death Certificate: Requirements and Process](https://tramitit.com/guides/austria/death_certificate_application/)
+- [Essential Guide to Passport Application and Renewal Procedures](https://tramitit.com/guides/austria/passport_application/)
+- [How to Obtain a Criminal Record Certificate: A Complete Guide](https://tramitit.com/guides/austria/criminal_record_certificate_application/)
+- [Guide to Legal Name Change in Austria: Process & Requirements](https://tramitit.com/guides/austria/name_change_application/)

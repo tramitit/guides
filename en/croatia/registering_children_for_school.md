@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 In certain areas or for certain schools, there may be additional requirements or steps for registration. Certain educational programs may also require entry exams or interviews. It's recommended to inquire directly with the intended school to ensure you have all the relevant information and requirements for registration. Foreign residents might wish to consider international or bilingual schools that cater specifically to expatriate students.
+
+
+## Related Posts
+
+- [Guide to Birth Registration in Croatia: Steps and Requirements](https://tramitit.com/guides/croatia/entry_into_the_birth_register/)
+- [Newborn Registration in Croatia: Procedure and Required Documents](https://tramitit.com/guides/croatia/newborn_registration_process/)
+- [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)
+- [Guide: Registering Your Marriage in Croatia - Steps & Documents](https://tramitit.com/guides/croatia/entry_into_the_marriage_register/)
+- [Croatia Residence Registration: Essential Guide for Foreigners](https://tramitit.com/guides/croatia/residence_registration/)

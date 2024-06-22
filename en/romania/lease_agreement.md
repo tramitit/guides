@@ -46,3 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 Ensure that the lease agreement is complied with according to Romanian law. Look out for clauses that may be unfavorable or biased. Make sure both parties fully understand all stipulations in the agreement before signing. Don't rush into signing a contract until you fully comprehend the implications and liabilities.
 Moreover, remember to consider the proper procedures for Rent Insurance as well.
+
+
+## Related Posts
+
+- [Real Estate Purchase Agreement Guide for Romania - Essential Steps](https://tramitit.com/guides/romania/real_estate_purchase_agreement/)
+- [Guide to Employment Contracts in Romania: Essential Steps & Tips](https://tramitit.com/guides/romania/employment_contract/)
+- [Understanding and Paying Property Tax in Romania: A Guide](https://tramitit.com/guides/romania/property_tax/)
+- [Residence Tax Guide in Romania: Requirements and Procedures](https://tramitit.com/guides/romania/residence_tax/)
+- [Guide to Building Permits in Romania: Procedures and Requirements](https://tramitit.com/guides/romania/building_permit/)

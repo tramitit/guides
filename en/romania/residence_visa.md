@@ -48,3 +48,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For prolonged stays, you might need to apply for a long-term visa instead.
 - It is advisable to apply for a visa at least 2 months before the planned trip to Romania.
 - Ensure that you check with the Romanian embassy or consulate for the most up-to-date visa information.
+
+
+## Related Posts
+
+- [How to Obtain a Residence Permit in Romania: A Complete Guide](https://tramitit.com/guides/romania/residence_permit/)
+- [Comprehensive Guide to Study Visas for Romanian Students](https://tramitit.com/guides/romania/obtaining_study_visa/)
+- [Work Visa Extension Guide for Romania: Complete Procedure & Tips](https://tramitit.com/guides/romania/work_visa_extension/)
+- [How to Obtain a Work Permit for Romania: A Complete Guide](https://tramitit.com/guides/romania/work_permit_application_for_expats/)
+- [Residence Tax Guide in Romania: Requirements and Procedures](https://tramitit.com/guides/romania/residence_tax/)

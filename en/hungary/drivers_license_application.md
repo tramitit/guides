@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Before an underage driver (age 17) can legally drive in Hungary, a responsible adult must also be inside the vehicle at all times. The legal age for unrestricted driving is 18. You will need to sign a contract with your driving school which essentially states that you will take responsibility for any damage you do to the cars during lessons.
+
+
+## Related Posts
+
+- [Vehicle Registration in Hungary: Complete Step-by-Step Guide](https://tramitit.com/guides/hungary/vehicle_registration/)
+- [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)
+- [Health Insurance Application in Hungary: A Complete Guide](https://tramitit.com/guides/hungary/healthcare_insurance_application/)
+- [Hungarian Student ID Card: Benefits, Application Process & More](https://tramitit.com/guides/hungary/student_id_application/)
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)

@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Participation in the Croatian state healthcare system is compulsory for all residents, including foreigners living in Croatia. The system is funded by mandatory health insurance contributions. Do note that private healthcare is also available, though it usually serves as supplementary coverage in addition to the mandatory state-provided health insurance.
+
+
+## Related Posts
+
+- [Get Mandatory Health Insurance in Croatia for Residents & Expats](https://tramitit.com/guides/croatia/obtaining_health_insurance/)
+- [How to Obtain Your Personal Identification Number (OIB) in Croatia](https://tramitit.com/guides/croatia/assignment_of_personal_identification_number_(oib)/)
+- [Applying for a National ID Card in Croatia: Full Guide](https://tramitit.com/guides/croatia/issuance_of_id_card/)
+- [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)
+- [How to Obtain a Croatian Passport: Steps and Requirements](https://tramitit.com/guides/croatia/issuance_of_passport/)

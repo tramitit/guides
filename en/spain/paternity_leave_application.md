@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Starting from 2021, Spanish fathers have an equal and non-transferable entitlement to paternity leave as mothers. This means that both parents can take up to 16 weeks of leave. The leave can be taken up to one year after the birth or adoption. The benefit is paid at 100% of the regulatory base salary. 
 
 Please note: while on paternity leave, you are protected against dismissal. Ensure that you have had a discussion with your employer about your plans to ensure it fits into their leave planning.
+
+
+## Related Posts
+
+- [Ultimate Guide to Maternity Leave in Spain: Eligibility & Process](https://tramitit.com/guides/spain/maternity_leave_application/)
+- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
+- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
+- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/guides/spain/prestacion_por_nacimiento/)
+- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/guides/spain/birth_registration/)

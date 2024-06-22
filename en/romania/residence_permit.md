@@ -48,3 +48,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Depending on the nature of your stay you might need to renew your residence permit at least 30 days before it expires. Also, always check with the Romanian Embassy or Consulate and the General Inspectorate for Immigration for updates and changes in the process.
+
+
+## Related Posts
+
+- [Romania Residence Visa Guide: Application Steps and Requirements](https://tramitit.com/guides/romania/residence_visa/)
+- [How to Obtain a Work Permit for Romania: A Complete Guide](https://tramitit.com/guides/romania/work_permit_application_for_expats/)
+- [Work Visa Extension Guide for Romania: Complete Procedure & Tips](https://tramitit.com/guides/romania/work_visa_extension/)
+- [Comprehensive Guide to Study Visas for Romanian Students](https://tramitit.com/guides/romania/obtaining_study_visa/)
+- [Romanian Identity Card: How to Obtain, Required Documents, and More](https://tramitit.com/guides/romania/identity_card/)

@@ -49,3 +49,12 @@ If an employer fails to provide insurance, they will be held financially respons
 The health insurance fee is divided between the employer and the employee - the employer pays 4.5% of the gross income, while the employee covers 9%. 
 
 These procedures and requirements may also apply to self-employed individuals or freelancers, with slight variations in the process. Always verify specific conditions and rules with the related authority or a legal advisor.
+
+
+## Related Posts
+
+- [Employer Registration for Social Insurances in Czech Republic](https://tramitit.com/guides/czech-republic/employer_registration_for_social_insurance/)
+- [Health Insurance in Czech Republic: Essential Guide for Residents](https://tramitit.com/guides/czech-republic/registration_with_a_health_insurance_company/)
+- [Guide to Changing Health Insurance Provider in Czech Republic](https://tramitit.com/guides/czech-republic/change_of_health_insurance_company/)
+- [Guide to Completing Czech Republic Tax Returns Efficiently](https://tramitit.com/guides/czech-republic/submitting_a_tax_return/)
+- [Guide to Obtaining a Trade License in the Czech Republic](https://tramitit.com/guides/czech-republic/registration_of_a_trade_license/)

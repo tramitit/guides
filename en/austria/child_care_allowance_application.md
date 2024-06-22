@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Every application is evaluated on certain criteria which might include total family income, number of dependents, and special conditions, etc. Make sure to provide all the supporting documents for these details. It's important to notify the relevant office in case of any changes in these details post the application.
+
+
+## Related Posts
+
+- [Parental Allowance in Austria and Germany: Eligibility and Process](https://tramitit.com/guides/austria/parental_allowance_application/)
+- [Housing Allowance in Austria: Eligibility and Application Process](https://tramitit.com/guides/austria/housing_allowance_application/)
+- [Guide to Study Grants in Austria: Eligibility and Procedure](https://tramitit.com/guides/austria/study_grant_application/)
+- [Unemployment Benefits: Application Process and Requirements](https://tramitit.com/guides/austria/unemployment_benefit_application/)
+- [How to Apply for an Austrian ID Card: Requirements & Procedure](https://tramitit.com/guides/austria/id_card_application/)

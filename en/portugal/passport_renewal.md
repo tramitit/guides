@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to check the specific requirements and procedures for your local consulate, as there can be variations depending on your location. You may be required to present additional identification during your appointment, and there may be specific photo requirements. Always double-check fees and payment methods with your consulate, as these can vary.
+
+
+## Related Posts
+
+- [Citizen Card Renewal: Process, Requirements, and Providers](https://tramitit.com/guides/portugal/renewal_of_citizen_card/)
+- [How to Obtain a Portuguese Passport: Step-by-Step Guide](https://tramitit.com/guides/portugal/request_for_portuguese_passport/)
+- [Resident Card Renewal in Portugal: Steps and Requirements](https://tramitit.com/guides/portugal/renewal_of_resident_card_for_foreign_citizens/)
+- [Renew Your Student ID in Portugal - Step-by-Step Guide](https://tramitit.com/guides/portugal/renewal_of_student_card_for_foreigners/)
+- [Guide to Renewing Your Driving License While Living Abroad](https://tramitit.com/guides/portugal/renewal_of_driving_license/)

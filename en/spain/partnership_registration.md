@@ -51,3 +51,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The waiting time until the appointment at the registry office can be up to a few months, so it is advised to start this process early.
 - The implication of taxes and property ownership can be different for registered couples than that of married couples. It's advisable to consult a tax advisor for detailed information.
 - If one of the partners is a non-EU citizen, registered partnership can be used as a grounds to apply for a residence permit. However, the nature and extent of these beneficiaries can vary depending on individual circumstances. It is recommended to consult a lawyer for specifics.
+
+
+## Related Posts
+
+- [Legalize Your Civil Marriage in Spain: Step-by-Step Guide](https://tramitit.com/guides/spain/civil_marriage_application/)
+- [Empadronamiento in Spain: A Complete Guide for New Residents](https://tramitit.com/guides/spain/empadronamiento/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)

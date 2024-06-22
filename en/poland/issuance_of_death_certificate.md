@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 After death, a Polish ID card or any other identification documents must be handed over to the office where the death was registered. This is typically done by the funeral director if one is involved. It's important to ensure all information provided in applications and supporting documents is precise and correct to prevent any delays or complications in obtaining the death certificate. An incorrect or incomplete application can lead to rejection. Those outside the country can often make arrangements through their local Polish consulate.
 
 **NOTE**: The above steps and information is subject to changes in respective regulations and should be verified with local authorities before proceeding.
+
+
+## Related Posts
+
+- [How to Obtain a Duplicate Birth Certificate in Poland](https://tramitit.com/guides/poland/issuance_of_duplicate_birth_certificate/)
+- [How to Obtain a Marriage Certificate in Poland - A Guide](https://tramitit.com/guides/poland/marriage_certificate/)
+- [How to Register a Child's Birth in Poland: A Complete Guide](https://tramitit.com/guides/poland/child_birth_registration/)
+- [How to Obtain a Polish ID Card (Dowod Osobisty) - Step-by-Step Guide](https://tramitit.com/guides/poland/id_card/)
+- [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)

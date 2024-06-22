@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Processing times vary, so it's advisable to plan and start the procedure well in advance of your intended start date. Additionally, having at least a basic understanding of French would greatly aid your transition.
+
+
+## Related Posts
+
+- [Guide to Obtaining a Long-Stay Visa for France: Steps & Requirements](https://tramitit.com/guides/france/visa_application/)
+- [How to Obtain a Residence Permit in France: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_application/)
+- [Guide to Obtaining a Business Travel Permit: Requirements and Steps](https://tramitit.com/guides/france/business_travel_permit_application/)
+- [Applying for Asylum in France: Steps, Requirements, and Support](https://tramitit.com/guides/france/asylum_application/)
+- [Guide to Obtaining a Resident Card in France: Steps & Requirements](https://tramitit.com/guides/france/resident_card_application/)

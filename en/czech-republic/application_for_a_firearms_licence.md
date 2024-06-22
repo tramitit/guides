@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that firearms licenses are not automatically granted. The police have the right to reject your application if you fail to meet any of the requirements or if they suspect that you might misuse the firearm. Therefore, it is important to prepare adequately for the exams and prove that you are capable of owning a firearm responsibly.
+
+
+## Related Posts
+
+- [Czech Republic Driving License: Steps and Requirements Guide](https://tramitit.com/guides/czech-republic/application_for_a_driving_licence/)
+- [Guide: Exchange Non-Czech Driver's License for Czech One](https://tramitit.com/guides/czech-republic/driving_licence_exchange/)
+- [Guide to Obtaining a Trade License in the Czech Republic](https://tramitit.com/guides/czech-republic/registration_of_a_trade_license/)
+- [Residence Registration in Czech Republic: A Simple Guide](https://tramitit.com/guides/czech-republic/residence_registration_for_foreigners/)
+- [EU Citizens' Guide to Temporary Residence in Czech Republic](https://tramitit.com/guides/czech-republic/residence_registration_for_eu_citizens/)

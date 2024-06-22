@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It's important to understand that buying a building plot is a major investment that must be considered carefully.
 - The total cost of the project includes not only the purchase price of the land, but also the costs of construct the building.
 - Some locations may have restrictions on the type of building that can be constructed. Therefore, it's important to research local zoning laws before commit to buying a plot.
+
+
+## Related Posts
+
+- [Building Permits in Czech Republic: Procedure and Requirements](https://tramitit.com/guides/czech-republic/application_for_a_building_permit/)
+- [How to Register a Car in the Czech Republic: A Complete Guide](https://tramitit.com/guides/czech-republic/car_registration/)
+- [Residence Registration in Czech Republic: A Simple Guide](https://tramitit.com/guides/czech-republic/residence_registration_for_foreigners/)
+- [Guide to Opening a Bank Account in Czech Republic - Steps & Documents](https://tramitit.com/guides/czech-republic/opening_a_bank_account/)
+- [Guide to Obtaining a Trade License in the Czech Republic](https://tramitit.com/guides/czech-republic/registration_of_a_trade_license/)

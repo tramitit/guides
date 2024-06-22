@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The EHIC is not an alternative to travel insurance; it does not cover private healthcare or return flights should you become seriously ill or injured abroad. It is essential to have both an EHIC and a valid private travel insurance policy covering health care in place before you travel.
+
+
+## Related Posts
+
+- [Health Insurance in Bulgaria: Guide for Expats & Digital Nomads](https://tramitit.com/guides/bulgaria/application_for_health_insurance/)
+- [How to Obtain a Bulgarian Identity Card: Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_identity_card/)
+- [How to Obtain a Temporary Passport: Requirements and Procedure](https://tramitit.com/guides/bulgaria/issuance_of_a_temporary_passport/)
+- [Essential Guide to Obtaining a Passport in Bulgaria](https://tramitit.com/guides/bulgaria/issuance_of_a_passport/)
+- [Complete Guide to Child Benefits Eligibility and Application](https://tramitit.com/guides/bulgaria/application_for_child_benefits/)

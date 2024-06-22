@@ -51,3 +51,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you are an expat or non-resident with tax obligations, check with your home country's tax office to see whether a TIN is necessary and how to apply for one.
 
 - Always keep your TIN confidential to avoid potential cases of identity theft and fraud.
+
+
+## Related Posts
+
+- [Understand the Tax Certificate: Procedure, Need, and Documents](https://tramitit.com/guides/romania/tax_certificate/)
+- [How to Obtain an Income Certificate in Romania: Step-by-Step Guide](https://tramitit.com/guides/romania/income_certificate/)
+- [Fiscal Attestation Certificate Guide: Steps and Requirements](https://tramitit.com/guides/romania/fiscal_attestation_certificate/)
+- [Residence Tax Guide in Romania: Requirements and Procedures](https://tramitit.com/guides/romania/residence_tax/)
+- [Permanent Residency Guide: Application Process and Requirements](https://tramitit.com/guides/romania/permanent_residency_application/)

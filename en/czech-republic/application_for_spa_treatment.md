@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The Czech Republic is known for its long-standing spa culture, particularly in towns like Karlovy Vary. The public healthcare system in the Czech Republic is quite high standard, so medical and wellness services can be trusted to be of good quality. Keep in mind, most spas will have their own house rules, such as the mandatory use of swimsuits, caps, or slippers in the spa area. Check the specific spa's guidelines prior to your visit. Make sure to drink plenty of water before and after treatments to stay hydrated.
+
+
+## Related Posts
+
+- [Health Insurance in Czech Republic: Essential Guide for Residents](https://tramitit.com/guides/czech-republic/registration_with_a_health_insurance_company/)
+- [Guide to Changing Health Insurance Provider in Czech Republic](https://tramitit.com/guides/czech-republic/change_of_health_insurance_company/)
+- [Czech Republic Visa Guide: Requirements and Application Process](https://tramitit.com/guides/czech-republic/application_for_visa/)
+- [Tax Requirements for Individuals and Businesses in Czech Republic](https://tramitit.com/guides/czech-republic/tax_payment/)
+- [Guide to Applying for a Czech Republic Passport: Steps and Tips](https://tramitit.com/guides/czech-republic/application_for_issuing_a_passport/)

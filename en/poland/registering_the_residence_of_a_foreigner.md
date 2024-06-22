@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 It is essential to notify the local municipal office whenever there are changes in your residence. If you're not allowed to register within your rental property, it might be worth engaging legal services or talking to the local authorities. If you are from EU member states, you might be eligible for a Residence Card for European Union Citizen, and the procedure could differ slightly.
 
 Always remember that rules and regulations might change, always check for the latest proceedings from the local government pages.
+
+
+## Related Posts
+
+- [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)
+- [EU Citizens' Guide: Registering Residence in Poland](https://tramitit.com/guides/poland/registration_of_residence_for_eu_citizens/)
+- [How to Change Your Registered Residence Address in Poland](https://tramitit.com/guides/poland/change_of_registered_residence_address/)
+- [Change of Residence Notification in Poland: Steps and Requirements](https://tramitit.com/guides/poland/change_of_residence_notification/)
+- [Polish Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/poland/residence_permit/)

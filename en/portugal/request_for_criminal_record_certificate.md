@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 If you are outside Portugal, you can still request this through the Portuguese Consulate in your country or via the Portuguese Justice Portal, as the certificate is provided electronically. If you are applying for a job as a driver or a recruitment company is asking for it, it is likely they need to ensure you have no criminal history that may affect your role.
+
+
+## Related Posts
+
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)
+- [How to Obtain a Birth Certificate: Steps and Requirements](https://tramitit.com/guides/portugal/request_for_birth_certificate/)
+- [How to Obtain a Marriage Certificate: Complete Guide](https://tramitit.com/guides/portugal/request_for_marriage_certificate/)
+- [Marriage Registration in Portugal: Steps & Documents for Foreigners](https://tramitit.com/guides/portugal/registration_of_marriage_of_foreign_citizen_in_portugal/)

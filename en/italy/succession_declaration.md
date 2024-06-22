@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - If the deceased did not leave a will, under Italian law, the succession of assets goes to the next of kin.
 - Inheritance tax in Italy varies depending on the relationship to the deceased. Spouses and children, for instance, have significant tax allowances.
+
+
+## Related Posts
+
+- [How to Handle a Death Declaration Procedure in Italy](https://tramitit.com/guides/italy/death_declaration/)
+- [How to Obtain a Death Certificate from an Italian Comune](https://tramitit.com/guides/italy/death_certificate_request/)
+- [Birth Declaration in Italy: Procedure and Required Documents](https://tramitit.com/guides/italy/birth_declaration/)
+- [How to Obtain a Family Status Certificate in Italy](https://tramitit.com/guides/italy/family_status_certificate_request/)
+- [Guide to Civil Registry Registration in Italy: Process & Documents](https://tramitit.com/guides/italy/registration_in_the_civil_registry/)

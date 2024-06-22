@@ -61,3 +61,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Validation Wait Times**: Be aware that the validation of submitted IRS Anexo C forms can sometimes take over 17 days, as mentioned in user experiences.
 - **Common Errors**: Ensure that you do not encounter error 029W regarding quadro 8. This can cause submissions to fail validation and require resubmission.
 - **Portal Alerts**: Pay attention to alerts and messages from the tax portal to ensure you address any required actions promptly.
+
+
+## Related Posts
+
+- [Complete Guide on IRS Anexo B for Self-Employed in Portugal](https://tramitit.com/guides/portugal/irs_anexo_b/)
+- [Guide to Filing IRS Anexo A for Employment Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_a/)
+- [Guide to Filing Anexo D for IRS Declarations in Portugal](https://tramitit.com/guides/portugal/irs_anexo_d/)
+- [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)
+- [Complete Guide to Filing Anexo E for IRS in Portugal](https://tramitit.com/guides/portugal/irs_anexo_e/)

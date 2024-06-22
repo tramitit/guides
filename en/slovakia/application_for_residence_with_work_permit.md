@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The entire process might take longer depending on the pace at which the Slovak embassy processes applications.
 - Be sure to check and double-check your application and supporting documents to avoid any unnecessary delays.
 - The application fee varies depending on the country you're applying from. Always reach out to the embassy to clarify the amount.
+
+
+## Related Posts
+
+- [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)
+- [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)
+- [Health Insurance Registration Guide for Foreigners in Slovakia](https://tramitit.com/guides/slovakia/health_insurance_registration/)
+- [Guide to Changing Permanent Residence in Slovakia: Steps and Tips](https://tramitit.com/guides/slovakia/change_of_permanent_residence/)
+- [Building Permit Requirements and Process in Slovakia](https://tramitit.com/guides/slovakia/issuance_of_building_permit/)

@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 When a Romanian citizen marries a foreigner, the marriage certificate needs to be transcribed to the Romanian authorities. The transcript of the marriage certificate happens at the city halls in Romania or at the Romanian Consular offices abroad.
 
 For genealogical searches and obtaining old marriage records, you may need to consult with the civil status department, the National Archives in Bucharest, or various online genealogy resources.
+
+
+## Related Posts
+
+- [How to Obtain a Romanian Birth Certificate - Step-by-Step Guide](https://tramitit.com/guides/romania/birth_certificate/)
+- [Guide to Birth Certificate Registration in Romania for Expats](https://tramitit.com/guides/romania/birth_certificate_registration_for_expats/)
+- [Guide to Obtaining a Romanian Passport: Steps and Requirements](https://tramitit.com/guides/romania/passport/)
+- [Romanian and Moldovan Citizenship Confirmation Guide](https://tramitit.com/guides/romania/citizenship_confirmation/)
+- [Romanian Identity Card: How to Obtain, Required Documents, and More](https://tramitit.com/guides/romania/identity_card/)

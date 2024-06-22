@@ -11,7 +11,6 @@ title: 'Maternelle en France: Procédure d''inscription et fournisseurs'
 translationKey: france-preschool_registration
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 La maternelle, ou maternelle, comme on l'appelle en France, est une forme d'éducation pour les enfants en dessous de l'âge scolaire obligatoire. Cela constitue une étape cruciale dans la préparation de votre enfant à l'environnement d'apprentissage plus structuré de l'école primaire.

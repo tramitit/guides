@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 If you are a dual citizen, remember that the driving license of the country where you have your habitual residence is considered valid. Habitual residence refers to the place where you live for at least 185 days in a calendar year. Hence, be sure of your status before proceeding with the renewal process.
+
+
+## Related Posts
+
+- [How to Obtain a Driver’s License in Italy: A Complete Guide](https://tramitit.com/guides/italy/drivers_license_request/)
+- [Renew Your Residence Permit in Italy: Step-by-Step Guide](https://tramitit.com/guides/italy/residence_permit_renewal/)
+- [Guide to Obtaining a Duplicate Italian Identity Card](https://tramitit.com/guides/italy/duplicate_identity_card_request/)
+- [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)
+- [Italian Identity Card: Complete Guide to Application & Requirements](https://tramitit.com/guides/italy/identity_card_request/)

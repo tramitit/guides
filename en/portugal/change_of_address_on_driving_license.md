@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember, it's important to update your driving license address shortly after moving. In many places, it's a legal obligation, and failure to do so might result in fines or other penalties. It's also a good idea to check the specific requirements of your local driver licensing authority, as the procedure can vary between locations.
+
+
+## Related Posts
+
+- [How to Update Your Address on Portuguese Residence Permit](https://tramitit.com/guides/portugal/change_of_address_on_residence_permit/)
+- [How to Get Your Driving License: A Step-by-Step Guide](https://tramitit.com/guides/portugal/request_for_driving_license/)
+- [Guide to Renewing Your Driving License While Living Abroad](https://tramitit.com/guides/portugal/renewal_of_driving_license/)
+- [How to Change the Address on Your Citizen Card in Portugal](https://tramitit.com/guides/portugal/change_of_address_on_citizen_card/)
+- [Complete Guide to Car Registration: Steps and Documents Required](https://tramitit.com/guides/portugal/request_for_car_registration/)

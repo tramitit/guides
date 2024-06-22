@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 While away on maternity leave, women in Slovakia receive payments from health insurance. The funds are provided by the Social Insurance Company and equate to about 65% of their assessment basis. Bear in mind regulations and rights might differ from industry to industry, always refer to your contract or human resources department for personalized advice.
+
+
+## Related Posts
+
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [How to Obtain a Birth Certificate in Slovakia | Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_birth_certificate/)
+- [Obtaining a Marriage Certificate in Slovakia: Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_marriage_certificate/)
+- [Understanding Social Benefits in Slovakia: Eligibility and Steps](https://tramitit.com/guides/slovakia/application_for_social_benefits/)
+- [Name Change Process in Slovakia: Legal Steps and Requirements](https://tramitit.com/guides/slovakia/change_of_name/)

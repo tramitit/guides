@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Request for translation if the service is available, else consider hiring a translator. 
 - Also keep in mind, the state of the records can vary: they can be hard to read, very detailed or minimalistic.
 - Be patient, the process may take time depending on the availability and state of records.
+
+
+## Related Posts
+
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)
+- [Guide to Requesting Pre-1895 Hungarian Birth Certificates](https://tramitit.com/guides/hungary/request_for_birth_certificates/)
+- [A Complete Guide to Getting Married in Hungary: Procedures & Tips](https://tramitit.com/guides/hungary/marriage_registration/)
+- [Get a Duplicate Hungarian Birth Certificate: Step-by-Step Guide](https://tramitit.com/guides/hungary/application_for_duplicate_birth_certificate/)
+- [How to Obtain a Death Certificate in Hungary - Step by Step Guide](https://tramitit.com/guides/hungary/request_for_death_certificates/)

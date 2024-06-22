@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - In Portugal, there's support for young people getting started, so don't be afraid to ask questions if you're unsure.
 - If your income is low, you may be exempt from filing a tax return. In this case, you will receive a statement of dispensation.
+
+
+## Related Posts
+
+- [Complete Guide on IRS Anexo B for Self-Employed in Portugal](https://tramitit.com/guides/portugal/irs_anexo_b/)
+- [Guide to Filing IRS Anexo A for Employment Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_a/)
+- [Complete Guide to Filing Anexo E for IRS in Portugal](https://tramitit.com/guides/portugal/irs_anexo_e/)
+- [Guide to Filing Anexo D for IRS Declarations in Portugal](https://tramitit.com/guides/portugal/irs_anexo_d/)
+- [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)

@@ -51,3 +51,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The amount of the benefit may vary depending on your income and number of children. 
 - Child benefit is usually tax-free. 
 - If you are an immigrant, you may be eligible for the benefit, provided you have legal status in Spain.
+
+
+## Related Posts
+
+- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/tarjeta_sanitaria/)
+- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/guides/spain/ingreso_minimo_vital/)

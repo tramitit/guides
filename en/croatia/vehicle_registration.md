@@ -50,3 +50,12 @@ If you are importing a car, additional costs and fees may apply like VAT, custom
 Visiting numerous online forums for local experiences and advice could provide some additional insights.
 
 The registration period in Croatia is for a one year, and it is allowed to register your car 60 days before the license plates expire.
+
+
+## Related Posts
+
+- [How to Register a Foreign Vehicle in Croatia: A Complete Guide](https://tramitit.com/guides/croatia/registration_of_foreign_vehicles/)
+- [Croatia Residence Registration: Essential Guide for Foreigners](https://tramitit.com/guides/croatia/residence_registration/)
+- [How to Obtain a Driver's License in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/issuance_of_drivers_license/)
+- [How to Obtain a Croatian Driver's License: Step-by-Step Guide](https://tramitit.com/guides/croatia/obtaining_a_drivers_license_for_newcomers/)
+- [Croatia Stay Registration Guide: Documents and Procedure](https://tramitit.com/guides/croatia/stay_registration_upon_entering_the_country/)

@@ -71,3 +71,13 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - It's crucial to update this form whenever there's a substantial change in your circumstances to ensure accurate tax withholdings.
 - Submitting incorrect information can lead to fines or incorrect tax calculations, so it's advisable to seek professional help if you're unsure about any part of the form.
+
+
+
+## Related Posts
+
+- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/guides/spain/model_190/)
+- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)
+- [Model 151 Guide: Foreign Asset Declaration for Beckham Law Users](https://tramitit.com/guides/spain/model_151/)
+- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/guides/spain/model_036/)
+- [Guide to Model 390: Essential for Foreigners in Spain (NIE)](https://tramitit.com/guides/spain/model_390/)

@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Issuance of the certificate may take between 7 to 14 days. An expedited service may be available but could entail additional charges. Please, keep in mind that exact requirements and procedures can vary depending on the province and town, it's recommended to check the official website or contact your local authority for the most reliable guidance.
+
+
+## Related Posts
+
+- [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)
+- [How to Request a Criminal Record in Italy: Certificato Penale](https://tramitit.com/guides/italy/pending_charges_request/)
+- [How to Obtain Your Marriage Certificate from Italy](https://tramitit.com/guides/italy/marriage_certificate_request/)
+- [How to Obtain a Civil Status Certificate: A Complete Guide](https://tramitit.com/guides/italy/civil_status_certificate/)
+- [How to Apply for Italian Citizenship: A Comprehensive Guide](https://tramitit.com/guides/italy/italian_citizenship_application/)

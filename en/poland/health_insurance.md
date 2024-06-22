@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Private health insurances like Luxmed and Medicover offer different types of packages to suit different individual needs. You can choose one depending upon your requirements and budget.
 - For NFZ, even if you're self-employed or own a business, you need to pay ZUS contributions by filling the DRA form.
 - Remember that even if you have private health insurance, you can still use public health insurance. The two are not mutually exclusive.
+
+
+## Related Posts
+
+- [EU Citizens' Guide: Registering Residence in Poland](https://tramitit.com/guides/poland/registration_of_residence_for_eu_citizens/)
+- [Guide to European Health Insurance Card (EHIC) Application Process](https://tramitit.com/guides/poland/application_for_european_health_insurance_card_(ehic)/)
+- [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)
+- [Guide to Unemployment Benefits and Eligibility Criteria](https://tramitit.com/guides/poland/unemployment_benefit/)
+- [How to Get a Firearm Permit in Poland: Step-by-Step Guide](https://tramitit.com/guides/poland/gun_permit/)

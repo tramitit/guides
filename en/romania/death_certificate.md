@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - This process should be completed as soon as possible following the death to avoid any legal complications.
 - If the deceased had any assets, debts or legal obligations, the death certificate would be required for the corresponding legal proceedings. 
 - The fees associated with obtaining a death certificate can differ based on the urgency of the request and the location where it is being requested.
+
+
+## Related Posts
+
+- [How to Obtain a Romanian Birth Certificate - Step-by-Step Guide](https://tramitit.com/guides/romania/birth_certificate/)
+- [Romanian Marriage Certificate: Issuance and Requirements Guide](https://tramitit.com/guides/romania/marriage_certificate/)
+- [Guide to Birth Certificate Registration in Romania for Expats](https://tramitit.com/guides/romania/birth_certificate_registration_for_expats/)
+- [Understand the Tax Certificate: Procedure, Need, and Documents](https://tramitit.com/guides/romania/tax_certificate/)
+- [Medical Legal Certification in Europe: Process and Requirements](https://tramitit.com/guides/romania/medical_legal_institute/)

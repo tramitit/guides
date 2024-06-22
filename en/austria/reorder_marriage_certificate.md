@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Reordering a marriage certificate can be used for multiple purposes, such as proof of your marriage for legal purposes, for genealogy research, or even applying for dual-certification by descent in some countries. Always check with your local or national governmental body to ensure you meet all requirements and follow the correct process.
+
+
+## Related Posts
+
+- [Marriage Certificate Application Process in Austria Explained](https://tramitit.com/guides/austria/marriage_certificate_application/)
+- [How to Obtain a Criminal Record Certificate: A Complete Guide](https://tramitit.com/guides/austria/criminal_record_certificate_application/)
+- [How to Obtain a Death Certificate: Requirements and Process](https://tramitit.com/guides/austria/death_certificate_application/)
+- [How to Obtain a Birth Certificate in Austria: A Complete Guide](https://tramitit.com/guides/austria/birth_certificate_application/)
+- [How to Obtain an Apostille for International Document Use](https://tramitit.com/guides/austria/apostille_application/)

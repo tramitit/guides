@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The death certificate can be used to manage all subsequent administrative matters related to the deceased's estate, including but not limited to banking, property transfers, and inheritance matters.
 - It's important to carry out the Death Declaration within 24 hours following the occurrence.
 - Translated versions of the death certificate may be required for international dealings. The local registry office can provide these, often for a small fee.
+
+
+## Related Posts
+
+- [How to Obtain a Death Certificate from an Italian Comune](https://tramitit.com/guides/italy/death_certificate_request/)
+- [Birth Declaration in Italy: Procedure and Required Documents](https://tramitit.com/guides/italy/birth_declaration/)
+- [Guide to Succession Declarations in Italy: Steps and Documents](https://tramitit.com/guides/italy/succession_declaration/)
+- [Guide to Civil Registry Registration in Italy: Process & Documents](https://tramitit.com/guides/italy/registration_in_the_civil_registry/)
+- [How to Request a Birth Certificate from Italy: A Step-by-Step Guide](https://tramitit.com/guides/italy/birth_certificate_request/)

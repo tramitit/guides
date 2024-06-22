@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's important to know that as a recipient, you may need to pay Italian tax on US Social Security. Also, take note of the restrictions in place regarding living overseas, make sure to understand these thoroughly before proceeding with your application in order to avoid future complications. Be prepared for a process that may involve extensive procedural requirements and can sometimes be time-consuming. It is suggested to seek professional advice if possible.
+
+
+## Related Posts
+
+- [Guide to Italian Old Age Pension: Eligibility and Application](https://tramitit.com/guides/italy/old_age_pension_application/)
+- [Italian Family Allowance: Eligibility, Procedure, Required Documents](https://tramitit.com/guides/italy/family_allowance_request/)
+- [Income Support in Italy: Eligibility, Application, and Requirements](https://tramitit.com/guides/italy/income_support_application/)
+- [Understanding and Applying for Unemployment Benefits in Italy (NASpI)](https://tramitit.com/guides/italy/unemployment_benefits_request/)
+- [Unemployment Allowance Application: Steps, Requirements & Details](https://tramitit.com/guides/italy/unemployment_allowance_application/)

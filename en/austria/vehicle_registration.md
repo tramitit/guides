@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Registering a modified vehicle may require additional steps or checks to ensure the vehicle is safe and complies with local laws. Annual taxes may apply depending on the vehicle. For temporary registration, temporary plates may be available. Contact local authorities for the most accurate and up-to-date information.
+
+
+## Related Posts
+
+- [Guide to Vehicle Re-Registration in Austria: Procedure & Docs](https://tramitit.com/guides/austria/vehicle_re-registration/)
+- [Guide to Car Registration in Austria for Residents and EU Citizens](https://tramitit.com/guides/austria/car_registration_application/)
+- [Complete Guide to Vehicle Deregistration in Austria](https://tramitit.com/guides/austria/vehicle_deregistration/)
+- [How to Obtain a Driver's License in Austria: A Complete Guide](https://tramitit.com/guides/austria/drivers_license_application/)
+- [Renew Your Driver's License in Austria: Steps & Requirements](https://tramitit.com/guides/austria/drivers_license_renewal/)

@@ -47,3 +47,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The application process can often be expedited if you apply directly at the registry office in person. However, you may also send someone on your behalf with a notarized power of attorney document.
+
+
+## Related Posts
+
+- [How to Register a Child's Birth in Poland: A Complete Guide](https://tramitit.com/guides/poland/child_birth_registration/)
+- [How to Obtain a Marriage Certificate in Poland - A Guide](https://tramitit.com/guides/poland/marriage_certificate/)
+- [How to Obtain a Polish ID Card (Dowod Osobisty) - Step-by-Step Guide](https://tramitit.com/guides/poland/id_card/)
+- [How to Obtain a Death Certificate: Step-by-Step Guide](https://tramitit.com/guides/poland/issuance_of_death_certificate/)
+- [Birth Registration Abroad: Procedures for Poland and Germany](https://tramitit.com/guides/poland/child_birth_registration_abroad/)

@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The complexity and sequence of steps may vary based on the particular language you are taking the exam for. Remember to check with the specific testing center for the most accurate information about the process, requirements, and additional details like fees or preparation materials.
+
+
+## Related Posts
+
+- [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)
+- [Certified Notarial Document Copies: Process, Needs & Providers](https://tramitit.com/guides/hungary/copy_of_notarial_documents/)
+- [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)
+- [Health Certificates for Marathon Participants: A Complete Guide](https://tramitit.com/guides/hungary/request_for_health_certificate/)
+- [Guide to Legally Changing Your Family Name: Steps and Requirements](https://tramitit.com/guides/hungary/change_of_family_name/)

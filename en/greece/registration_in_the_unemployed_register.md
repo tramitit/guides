@@ -40,3 +40,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Your registration in the Unemployed Register goes hand-in-hand with the Unemployment Card, which is issued by the OAED. It is important to note that registering as unemployed does not automatically mean you will receive unemployment benefits. These are subject to specific eligibility criteria, including your past work history and social insurance contributions.
+
+
+## Related Posts
+
+- [Understanding Unemployment Benefits: Eligibility and Procedure](https://tramitit.com/guides/greece/application_for_unemployment_benefit/)
+- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_(social_insurance_fund)/)
+- [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)
+- [Guide to Obtaining a Disability Living Allowance Card in Greece](https://tramitit.com/guides/greece/application_for_disability_card/)
+- [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)

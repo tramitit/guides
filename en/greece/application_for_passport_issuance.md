@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Express issuance is also possible under specific circumstances, for an additional fee. For those below 14 years of age, the presence of a parent or legal guardian is required during the application process. In case the person is an unmarried minor aged between 14 to 18 years, a notarized consent of the parents is required. Keep in mind that Greek passports have a validity of 5 years for those under the age of 14 and a validity of 10 years otherwise.
+
+
+## Related Posts
+
+- [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)
+- [How to Obtain a Birth Certificate in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_birth_certificate/)
+- [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)
+- [Steps for Applying for Greek Citizenship through Descent or Marriage](https://tramitit.com/guides/greece/application_for_greek_citizenship/)
+- [How to Obtain a Marriage Certificate in Greece: Step-by-Step](https://tramitit.com/guides/greece/application_for_marriage_certificate/)

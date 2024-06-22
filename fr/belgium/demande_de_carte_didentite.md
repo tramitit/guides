@@ -12,7 +12,6 @@ title: 'Obtenir la Carte d''Identité Belge (eID) : Quoi, Qui, Comment'
 translationKey: belgium-request_for_identity_card
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est ?
 La carte d'identité belge (eID) est un document officiel délivré aux citoyens de Belgique par leur commune de résidence. Elle sert de preuve d'identité et de nationalité et est obligatoire pour tous les citoyens âgés de 15 ans et plus.

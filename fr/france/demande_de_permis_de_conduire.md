@@ -11,7 +11,6 @@ title: Guide pour obtenir un permis de conduire en France
 translationKey: france-drivers_license_application
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 Un permis de conduire est une exigence légale pour ceux qui souhaitent conduire un véhicule motorisé. En France, le processus de demande d'un permis de conduire implique plusieurs étapes, notamment la réussite d'un test écrit, d'un examen de conduite pratique, ou si vous avez un permis international, sa conversion en un permis de conduire français en fonction des accords de réciprocité que la France a avec votre pays d'origine.

@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Ensure to abide by all the conditions and stipulations set out in your building permit. Non-compliance can result in penalties and even revocation of the permit.
 - It is advisable to seek help from professionals, like architects or engineers, to prepare your project plans and help with the application process.
 - The cost of a building permit can also vary depending on the nature and size of your project.
+
+
+## Related Posts
+
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [Guide to Changing Permanent Residence in Slovakia: Steps and Tips](https://tramitit.com/guides/slovakia/change_of_permanent_residence/)
+- [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)
+- [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)
+- [Driver's License in Slovakia: Procedure, Requirements & Tips](https://tramitit.com/guides/slovakia/issuance_of_drivers_license/)

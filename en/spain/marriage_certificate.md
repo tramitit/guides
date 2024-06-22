@@ -67,3 +67,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 - **Processing Time and Patience**:
   The entire process can be time-consuming, and patience is necessary. Some users report delays at various steps such as waiting for documents from another country or legalizations.
+
+
+## Related Posts
+
+- [Legalize Your Civil Marriage in Spain: Step-by-Step Guide](https://tramitit.com/guides/spain/civil_marriage_application/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)
+- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/guides/spain/birth_registration/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)

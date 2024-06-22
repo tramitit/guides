@@ -52,3 +52,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 It is highly suggested to book your appointment as soon as you are aware that you might need it, as appointments can fill up quickly. Also, please be punctual for your appointment. If you are late, you might have to reschedule it. If you are unable to make it to your appointment, be sure to cancel it through the website in order to open the slot for someone else.
+
+
+## Related Posts
+
+- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
+- [Guide to Scheduling Cita Previa with the Immigration Office in Spain](https://tramitit.com/guides/spain/appointment_request_for_immigration_office/)
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)

@@ -35,3 +35,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that these procedures can vary slightly based on the town or city's specific requirements. It is recommended to contact the local municipality for accurate and up-to-date information. Additionally, if you are requesting this certificate for marriage purposes, the certificate must be dated no more than six months before the marriage date.
+
+
+## Related Posts
+
+- [How to Obtain Your Marriage Certificate from Italy](https://tramitit.com/guides/italy/marriage_certificate_request/)
+- [How to Obtain a Family Status Certificate in Italy](https://tramitit.com/guides/italy/family_status_certificate_request/)
+- [Guide to Civil Registry Registration in Italy: Process & Documents](https://tramitit.com/guides/italy/registration_in_the_civil_registry/)
+- [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)
+- [How to Request a Birth Certificate from Italy: A Step-by-Step Guide](https://tramitit.com/guides/italy/birth_certificate_request/)

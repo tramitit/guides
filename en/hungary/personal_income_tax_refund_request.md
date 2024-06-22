@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In some countries like the Netherlands, taxpayers can file for a tax return or refund on certain types of property taxes (onroerende zaken). The process will be different depending on the country and the type of tax, so make sure to refer to your local or national tax authority website for accurate information. It's also important to note that tax preparation services often have a cost, but they can simplify the process and make sure your return is filled out correctly.
+
+
+## Related Posts
+
+- [Guide to Submitting Hungarian Tax Returns and Crypto Taxes](https://tramitit.com/guides/hungary/tax_return_submission/)
+- [Complete Guide to Understanding and Applying for Student Loans](https://tramitit.com/guides/hungary/student_loan_application/)
+- [Jobseeker's Allowance: Financial Support for Unemployed Individuals](https://tramitit.com/guides/hungary/jobseekers_allowance_application/)
+- [How to Apply for Refugee Status: Steps and Requirements](https://tramitit.com/guides/hungary/request_for_refugee_status/)
+- [Understanding Sick Pay: Procedures and Required Documents](https://tramitit.com/guides/hungary/sick_pay_application/)

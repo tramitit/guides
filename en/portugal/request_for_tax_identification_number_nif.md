@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - You must always state your NIF when requested in financial transactions.
 - Various organizations such as courier services, online stores, etc., might ask for your NIF. This can help them issue you an invoice or to comply with their tax obligations.
+
+
+## Related Posts
+
+- [How to Update NIF Data in Portugal: A Complete Guide](https://tramitit.com/guides/portugal/request_for_change_of_nif_data/)
+- [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)
+- [How to Get the SNS User Card in Portugal - Complete Guide](https://tramitit.com/guides/portugal/request_for_sns_user_card/)
+- [Comprehensive Guide to Income Tax Declaration Process in Portugal](https://tramitit.com/guides/portugal/request_for_income_tax_declaration/)
+- [Guide to IMI Exemption for Property Owners in Portugal](https://tramitit.com/guides/portugal/request_for_imi_exemption/)

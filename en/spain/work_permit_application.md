@@ -48,3 +48,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 The work permit is typically tied to the employer who sponsored it, thus switching jobs may require a new permit. Processing timelines and costs can vary based on your location and specific circumstances. Confirm all details with your local Spanish consulate or embassy for the most current information.
+
+
+## Related Posts
+
+- [Work Authorization for International Students in Spain](https://tramitit.com/guides/spain/work_authorization_for_students/)
+- [How to Renew Your Work Permit in Spain: A Comprehensive Guide](https://tramitit.com/guides/spain/work_permit_renewal/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)
+- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)

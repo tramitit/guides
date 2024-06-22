@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The employer is obliged to pay contributions for sickness insurance for an employee only if the employee is part of the sickness insurance scheme.
 - You can be fined if you fail to register for social insurance.
 - Foreign businesses with Czech employees may also need to register. It's advised to seek legal advice in these cases to ensure compliance.
+
+
+## Related Posts
+
+- [Employer Health Insurance Registration in Czech Republic Guide](https://tramitit.com/guides/czech-republic/employer_registration_for_health_insurance/)
+- [Health Insurance in Czech Republic: Essential Guide for Residents](https://tramitit.com/guides/czech-republic/registration_with_a_health_insurance_company/)
+- [Guide to Completing Czech Republic Tax Returns Efficiently](https://tramitit.com/guides/czech-republic/submitting_a_tax_return/)
+- [Guide to Changing Health Insurance Provider in Czech Republic](https://tramitit.com/guides/czech-republic/change_of_health_insurance_company/)
+- [Guide to Obtaining a Trade License in the Czech Republic](https://tramitit.com/guides/czech-republic/registration_of_a_trade_license/)

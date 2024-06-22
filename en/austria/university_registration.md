@@ -60,3 +60,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Learning the basics of the German language could be helpful as most degree programs in Austrian universities are taught in German.
 - Austria has a well-established public transport system, it would be wise to familiarize yourself with it.
 - The academic year in Austria typically starts in September or October and ends in June or July.
+
+
+## Related Posts
+
+- [Guide for International Students Registering in Austrian Schools](https://tramitit.com/guides/austria/school_registration/)
+- [Austrian Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/austria/residence_permit_application/)
+- [Guide to Studying and Living in Austria: Scholarships and Tips](https://tramitit.com/guides/austria/support_for_students/)
+- [Guide to Study Grants in Austria: Eligibility and Procedure](https://tramitit.com/guides/austria/study_grant_application/)
+- [Complete Guide to Austria Job Seeker Visa Application Process](https://tramitit.com/guides/austria/visa_application/)

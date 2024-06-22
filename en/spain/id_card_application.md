@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The validity of the DNI is unlimited for adults, while minors must renew their DNI every 2 years until 5 years, then every 5 years until they come of age. Be aware that you might be asked to show your DNI by the police at any time. Note that it can take up to a month to finalize the process and receive your DNI. It is advisable to also apply for a Certificado Digital, which grants online access to a quantity of public services.
+
+
+## Related Posts
+
+- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/guides/spain/id_card_renewal/)
+- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/guides/spain/passport_application/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)

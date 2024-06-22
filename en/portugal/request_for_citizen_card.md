@@ -43,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Check with the local IRN office for information about processing time and cost.
 - For changes in the address, you need to update your Citizen Card information. You have to go to the local IRN office or use the online services available on the IRN website.
 - In case you are claiming Portuguese nationality by descent, you must have all necessary documents ready to prove your lineage or ancestry.
+
+
+## Related Posts
+
+- [Citizen Card Renewal: Process, Requirements, and Providers](https://tramitit.com/guides/portugal/renewal_of_citizen_card/)
+- [Apply for a Resident Card in Portugal: A Comprehensive Guide](https://tramitit.com/guides/portugal/request_for_resident_card_for_foreign_citizens/)
+- [Requesting Duplicate Documents in Portugal: A Detailed Guide](https://tramitit.com/guides/portugal/request_for_duplicate_documents/)
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [How to Obtain a Portuguese Passport: Step-by-Step Guide](https://tramitit.com/guides/portugal/request_for_portuguese_passport/)

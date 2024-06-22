@@ -55,3 +55,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Translation services might be needed if the receiver does not understand German.
 
 (Note: The procedures and fees may vary across different regions of Austria)
+
+
+## Related Posts
+
+- [How to Obtain Proof of Austrian Citizenship: Steps and Requirements](https://tramitit.com/guides/austria/proof_of_citizenship/)
+- [How to Obtain a Death Certificate: Requirements and Process](https://tramitit.com/guides/austria/death_certificate_application/)
+- [Marriage Certificate Application Process in Austria Explained](https://tramitit.com/guides/austria/marriage_certificate_application/)
+- [How to Apply for an Austrian ID Card: Requirements & Procedure](https://tramitit.com/guides/austria/id_card_application/)
+- [Guide to Legal Name Change in Austria: Process & Requirements](https://tramitit.com/guides/austria/name_change_application/)

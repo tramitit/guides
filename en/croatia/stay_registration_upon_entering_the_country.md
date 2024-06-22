@@ -47,3 +47,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Tourism businesses such as hotels, hostels and campsites have obligations to handle the registration on behalf of their guests. Private accommodation hosts should also be aware of this requirement. Failing to register could result in fines, so it's important to ensure your host is aware of this requirement.
+
+
+## Related Posts
+
+- [How to Register Your Stay as a Tourist in Croatia - A Guide](https://tramitit.com/guides/croatia/registration_of_tourists_stay/)
+- [Croatia Residence Registration: Essential Guide for Foreigners](https://tramitit.com/guides/croatia/residence_registration/)
+- [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)
+- [Temporary Residence Registration in Croatia - Step-by-Step Guide](https://tramitit.com/guides/croatia/temporary_residence_registration/)
+- [Guide to Obtaining an Immigration Permit in Croatia](https://tramitit.com/guides/croatia/obtaining_an_immigration_permit/)

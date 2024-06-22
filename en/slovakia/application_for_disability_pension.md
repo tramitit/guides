@@ -39,3 +39,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's important to note that the provision of a disability pension is primarily based on the nature of the individual's disability and not on their ability to work. Therefore, it is crucial that the medical certificate adequately documents the health condition of the individual. Similarly, anyone seeking a disability pension should ensure their insurance contributions are up-to-date, as this may affect the approval and amount of their pension.
+
+
+## Related Posts
+
+- [Understanding Social Benefits in Slovakia: Eligibility and Steps](https://tramitit.com/guides/slovakia/application_for_social_benefits/)
+- [How to Obtain a Death Certificate: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_death_certificate/)
+- [Social Scholarships in Slovakia: Financial Support for Students](https://tramitit.com/guides/slovakia/application_for_social_scholarship/)
+- [Guide to Applying for Slovak Residence and Work Permit](https://tramitit.com/guides/slovakia/application_for_residence_with_work_permit/)
+- [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)

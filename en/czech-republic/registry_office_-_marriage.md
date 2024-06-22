@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In the Czech Republic, any name changes as a result of marriage need to comply with the legal standards. Women generally have the option to take their husband's surname or keep their own. If you are a foreigner and your home country has different rules for name change upon marriage, the Czech Office of Vital Records will respect those rules.
+
+
+## Related Posts
+
+- [How to Register a Child's Birth in the Czech Republic](https://tramitit.com/guides/czech-republic/registry_office_-_birth_of_a_child/)
+- [Registering a Death in Czech Republic: Steps and Required Documents](https://tramitit.com/guides/czech-republic/registry_office_-_death/)
+- [How to Register a Car in the Czech Republic: A Complete Guide](https://tramitit.com/guides/czech-republic/car_registration/)
+- [Residence Registration in Czech Republic: A Simple Guide](https://tramitit.com/guides/czech-republic/residence_registration_for_foreigners/)
+- [Guide to Applying for a Czech Republic Passport: Steps and Tips](https://tramitit.com/guides/czech-republic/application_for_issuing_a_passport/)

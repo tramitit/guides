@@ -11,7 +11,6 @@ title: Guide des autorisations de voyage pour citoyens américains en 2021
 translationKey: belgium-request_for_travel_authorization
 ---
 
-
 ## Description
 ### Qu'est-ce que c'est?
 L'autorisation de voyage est une exigence pour les voyageurs qui prévoient de visiter un pays en tant que touristes ou pour affaires. Elle est généralement obtenue avant le départ et dépend de la nationalité du voyageur. Par exemple, les citoyens américains prévoyant de voyager en Europe à partir de 2021 devront demander une autorisation de voyage en raison des changements dans les exigences en matière de visa.

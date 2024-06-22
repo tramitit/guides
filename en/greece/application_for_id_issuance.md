@@ -54,3 +54,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
    - In Greece, ID cards are important and required for various purposes like opening a bank account or accessing health services. Ensure it's kept safe and in good condition.
    - Always carry your ID with you while in Greece, as you can be asked for identification by authorities at any time.
    - If you lose your ID or it gets stolen, ensure you report this immediately to the local police.
+
+
+## Related Posts
+
+- [How to Obtain a Greek Passport: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_passport_issuance/)
+- [How to Obtain a Birth Certificate in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_birth_certificate/)
+- [How to Obtain a Driver's License in Greece: Steps and Requirements](https://tramitit.com/guides/greece/application_for_drivers_license/)
+- [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)
+- [Permanent Residence Certificate: Stay Indefinitely in Greece](https://tramitit.com/guides/greece/application_for_permanent_residence_certificate/)

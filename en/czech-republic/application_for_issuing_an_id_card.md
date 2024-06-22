@@ -41,3 +41,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 According to the source, an ID card usually takes around 2-3 weeks to be processed and issued. The cost of application varies depending on the urgency and the applicant's age. In any case, valid proof of identity and/or status of residence is required. The specific requirements and fees can be confirmed with the Department of the Interior.
+
+
+## Related Posts
+
+- [Guide to Applying for a Czech Republic Passport: Steps and Tips](https://tramitit.com/guides/czech-republic/application_for_issuing_a_passport/)
+- [Guide to Permanent Residence Permit in the Czech Republic](https://tramitit.com/guides/czech-republic/application_for_permanent_residence_permit/)
+- [EU Citizens' Guide to Temporary Residence in Czech Republic](https://tramitit.com/guides/czech-republic/residence_registration_for_eu_citizens/)
+- [Czech Republic Visa Guide: Requirements and Application Process](https://tramitit.com/guides/czech-republic/application_for_visa/)
+- [Change ID Card Information: Process and Requirements Guide](https://tramitit.com/guides/czech-republic/application_for_change_of_data_in_the_id_card/)

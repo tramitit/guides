@@ -42,3 +42,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It's important for the letter of request to be in Italian.
 - If you're requesting the death certificate for genealogy purposes, it can be helpful to include any known familial ties in the region. Information such as the deceased's parents' names, spouse, and children can expedite the process.
 - Be aware that some comunes may charge a fee for the issuance of these certificates.
+
+
+## Related Posts
+
+- [How to Handle a Death Declaration Procedure in Italy](https://tramitit.com/guides/italy/death_declaration/)
+- [How to Request a Birth Certificate from Italy: A Step-by-Step Guide](https://tramitit.com/guides/italy/birth_certificate_request/)
+- [How to Obtain a Family Status Certificate in Italy](https://tramitit.com/guides/italy/family_status_certificate_request/)
+- [How to Obtain Your Marriage Certificate from Italy](https://tramitit.com/guides/italy/marriage_certificate_request/)
+- [Guide to Civil Registry Registration in Italy: Process & Documents](https://tramitit.com/guides/italy/registration_in_the_civil_registry/)

@@ -45,3 +45,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Remember, the Certidão Predial Permanente is only valid for six months. You need to renew it if you require up-to-date information after this period.
 The website is also available in English and other languages for non-Portuguese speakers.
+
+
+## Related Posts
+
+- [Get Your EU Citizen Registration Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_registration_certificate_for_eu_citizen/)
+- [How to Obtain a Residence Certificate in Portugal Easily](https://tramitit.com/guides/portugal/request_for_residence_certificate/)
+- [How to Obtain a Housing Permit in Portugal: A Complete Guide](https://tramitit.com/guides/portugal/request_for_housing_permit/)
+- [How to Obtain a Criminal Record Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_criminal_record_certificate/)
+- [Guide to Obtaining a Death Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_death_certificate/)

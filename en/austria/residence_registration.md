@@ -44,3 +44,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Remember that it is compulsory to register within a few days after moving to your new place (within 14 days in Germany). Failing to do so might result in a fine. Also, it is strongly advised to keep the Anmeldebestätigung in a safe place as it is often requested for various public and private services.
+
+
+## Related Posts
+
+- [Anmeldung in Austria: How to Register Your Residence](https://tramitit.com/guides/austria/registration_information/)
+- [Guide to Registering Your Residence in Austria (Meldezettel)](https://tramitit.com/guides/austria/registration_certificate/)
+- [Meldezettel Registration: Essential Guide for Residents in Austria](https://tramitit.com/guides/austria/reporting_obligation/)
+- [Guide to Registering Your Change of Main Residence in Austria](https://tramitit.com/guides/austria/change_of_main_residence/)
+- [Guide to Deregistration of Residence in Germany and Austria](https://tramitit.com/guides/austria/deregistration_of_residence/)

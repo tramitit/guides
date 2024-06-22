@@ -11,7 +11,6 @@ title: 'Guide to Legal Name Change in Austria: Process & Requirements'
 translationKey: austria-name_change_application
 ---
 
-
 ## Description
 ### What is it?
 A Name Change Application is a legal process in Austria for individuals who wish to change their legal first or last name. 
@@ -44,3 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The change of name is a serious matter in Austria and requests are not easily approved. The rulers typically only permit a name change for compelling reasons.
 - According to the Austrian Name Act, illegitimate children, who assume the family name of their other parent on legitimization or acknowledgment, have the option to keep their birth name.
 - Fees for the name change process can vary depending on individual circumstances and the specific local office, so it is best to consult directly with your local Municipal District Office for the current rates.
+
+
+## Related Posts
+
+- [Marriage Certificate Application Process in Austria Explained](https://tramitit.com/guides/austria/marriage_certificate_application/)
+- [How to Obtain a Birth Certificate in Austria: A Complete Guide](https://tramitit.com/guides/austria/birth_certificate_application/)
+- [Guide to Registering Your Change of Main Residence in Austria](https://tramitit.com/guides/austria/change_of_main_residence/)
+- [How to Obtain Proof of Austrian Citizenship: Steps and Requirements](https://tramitit.com/guides/austria/proof_of_citizenship/)
+- [How to Apply for an Austrian ID Card: Requirements & Procedure](https://tramitit.com/guides/austria/id_card_application/)
