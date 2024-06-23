@@ -43,7 +43,7 @@ Chiunque pianifichi di costruire, ristrutturare in modo sostanziale o modificare
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 Ricorda che diversi comuni possono avere specifici requisiti aggiuntivi, quindi è importante verificare la procedura esatta con la tua amministrazione locale. I tempi per ottenere un permesso di costruzione in Italia possono variare notevolmente a seconda della complessità del progetto e della burocrazia locale, pertanto una pianificazione adeguata è cruciale per evitare possibili ritardi nel tuo cronoprogramma di costruzione.

@@ -34,7 +34,7 @@ This process is necessary for all individuals who have earned an income within t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - In Portugal, there's support for young people getting started, so don't be afraid to ask questions if you're unsure.

@@ -39,7 +39,7 @@ Ideális esetben olyan diákok számára tervezték, akik pénzügyi segítsége
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 - Az kamatlábak lehetnek fixek vagy változóak és a kamatláb általában a kölcsönfelvevő vagy társtulajdonos hiteltörténetétől függ.

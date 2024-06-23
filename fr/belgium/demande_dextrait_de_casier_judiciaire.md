@@ -36,7 +36,7 @@ Veuillez noter que le processus peut varier en fonction de la municipalité.
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 

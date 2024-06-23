@@ -71,7 +71,7 @@ Es ideal para personas que se encuentran en circunstancias extraordinarias que l
 _(Actualmente estamos recopilando a los mejores proveedores. Si tú eres un proveedor o conoces alguno, por favor contáctanos o edita la página directamente)_
 
 | Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - Siempre conserve copias de todos los formularios y documentos presentados.

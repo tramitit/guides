@@ -34,7 +34,7 @@ Ce guide peut être bénéfique pour ceux qui ont déménagé d'un endroit à un
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Dans certains cas, mettre à jour votre emplacement peut affecter les services et les fonctionnalités de la plateforme que vous utilisez. Vérifiez toujours les détails de l'application/plateforme sur les procédures de changement d'emplacement.

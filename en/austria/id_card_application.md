@@ -38,7 +38,7 @@ All Austrian citizens above the age of 14 are required to carry an ID card or a 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The validity of Austrian ID cards:

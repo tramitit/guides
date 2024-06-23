@@ -43,7 +43,7 @@ Oricine câștigă venituri și este obligat să plătească taxe în țara sa r
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 

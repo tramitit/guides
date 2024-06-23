@@ -36,7 +36,7 @@ Este guia é perfeito tanto para indivíduos ou entidades locais quanto estrange
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - O registro da empresa pode ser feito por um indivíduo ou através do uso de um representante legal se o processo precisar ser feito remotamente.

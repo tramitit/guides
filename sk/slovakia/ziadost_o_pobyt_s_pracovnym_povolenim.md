@@ -37,7 +37,7 @@ Toto je sprievodca, ktorý vás prevedie procesom žiadosti o trvalý pobyt s pr
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Celý proces môže trvať dlhšie v závislosti od tempa, akým ambasáda Slovenskej republiky spracúva žiadosti.

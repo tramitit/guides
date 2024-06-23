@@ -51,7 +51,7 @@ O Anexo D é geralmente necessário para indivíduos que possuem vários tipos d
 _(Estamos atualmente a selecionar os melhores prestadores. Se é ou conhece um prestador, por favor contacte-nos ou edite a página diretamente)_
 
 | Prestador       |     Website     |     Prazos    |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - **Situações Específicas:** Se os seus rendimentos ou despesas envolvem fontes estrangeiras, outros anexos como o Anexo J também podem ser necessários.

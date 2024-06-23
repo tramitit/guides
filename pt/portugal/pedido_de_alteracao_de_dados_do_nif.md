@@ -38,7 +38,7 @@ Os documentos necessários podem variar dependendo das informações a serem alt
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 Lembre-se sempre de verificar as suas informações antes de submeter para evitar erros. Além disso, esteja ciente de que a alteração dos seus Dados de NIF pode demorar um pouco para ser processada, então planeie adequadamente.

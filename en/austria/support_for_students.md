@@ -36,7 +36,7 @@ Depending on the purpose, you may need the following documents:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Vienna can be quite an expensive city. Therefore, plan your budget carefully to avoid running into financial problems.

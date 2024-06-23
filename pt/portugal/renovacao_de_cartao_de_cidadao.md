@@ -33,7 +33,7 @@ Qualquer cidadão português com um Cartão de Cidadão expirado ou prestes a ex
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 A renovação do Cartão de Cidadão para aqueles que vivem fora de Portugal também pode ser feita nos consulados portugueses em seu país de residência.

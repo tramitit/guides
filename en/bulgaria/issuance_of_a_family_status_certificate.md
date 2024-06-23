@@ -40,7 +40,7 @@ The following documents are usually required when applying for a Family Status C
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's important to note that the process can take time and may require a few weeks to a few months, depending on the complexity of your family tree. Ensure all documents are translated into Bulgarian if they are in a different language.

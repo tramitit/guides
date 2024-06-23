@@ -39,7 +39,7 @@ Przede wszystkim jest on wymagany przez obywateli polskich planujących podróż
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 - Musisz być obywatelem polskim, aby złożyć wniosek o polski paszport.

@@ -37,7 +37,7 @@ Some of the documents required for Census Registration are often:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 You can do the Census Registration on your own, but some people find it helpful to take a Spanish speaker along if they do not speak the language. Some towns may accept the documents and issue the certificate on the same day, while others may take a few days. It's always a good idea to check the specific requirements and process with your local town hall.

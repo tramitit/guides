@@ -39,7 +39,7 @@ Oricine deține un vehicul cu motor (mașină, motocicletă, camion etc.) și in
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 În cazul înmatriculării mașinii din alte țări, ar putea fi necesare documente suplimentare, cum ar fi declarația vamală de eliberare pentru vehiculele care vin din țări non-UE. De asemenea, toate documentele trebuie traduse în limba română.

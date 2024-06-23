@@ -45,7 +45,7 @@ People who have Hungarian ancestry and wish to relocate to Hungary, or simply to
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 * All documents provided should be originals or certified copies, and must be translated into Hungarian.

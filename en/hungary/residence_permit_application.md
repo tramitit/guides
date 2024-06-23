@@ -39,7 +39,7 @@ Non-European Union citizens who are planning to stay in Hungary for more than 90
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Some foreigners who do not need a visa for travelling in Schengen Zone (e.g. US citizens) can apply for their residence permit in Hungary, while staying there as tourists. Others need to apply for a D-type visa first to enter Hungary, where they can switch to a residence permit. Those seeking to open a bank account in Hungary will need to wait until their permit is approved.

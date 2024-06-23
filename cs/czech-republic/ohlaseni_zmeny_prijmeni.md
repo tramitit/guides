@@ -38,7 +38,7 @@ Každá osoba, která plánuje změnit své příjmení a tím aktualizovat svou
 _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
 | Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 
 ## Další podrobnosti

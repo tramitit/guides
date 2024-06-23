@@ -40,7 +40,7 @@ Anyone who plans to travel internationally and needs documentation to validate t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 There are two types of procedure: regular and urgent. The regular procedure takes about 30 days, while the urgent procedure can speed up the process significantly, but at a higher cost. In case of loss, theft, or damage of the passport, a police report should be obtained and submitted during the application. It is only possible to hold one valid Croatian passport at a time.

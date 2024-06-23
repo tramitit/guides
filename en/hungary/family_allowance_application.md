@@ -35,7 +35,7 @@ The required documents for family allowance application could include:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that the application procedure and eligibility for family allowance could vary depending on specific local regulations, and current income and employment situation. It is therefore crucial to inquire about specific details at your local family support service office. Also, the family allowance amount can change based on the age of the child, whether they're disabled, or if there are multiple dependent children in the family.

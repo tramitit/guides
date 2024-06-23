@@ -34,7 +34,7 @@ People who are settling the deceased's legal and financial affairs, including fa
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 If the deceased is a foreigner, the death must be declared both in the town where it occurred and in Athens at the Department of Foreigners and Foreign Affairs (`Tmima Xenon & Exoterikon`) of the Municipality of Athens.

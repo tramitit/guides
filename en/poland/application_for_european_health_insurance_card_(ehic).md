@@ -42,7 +42,7 @@ Here are the official websites to apply for EHIC based on your home country:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that the EHIC is not an alternative to travel insurance. It does not cover any private healthcare or costs such as a return flight to your home country or lost/stolen property. Therefore, it is advisable to have both an EHIC and a valid private travel insurance policy.

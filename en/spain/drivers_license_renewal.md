@@ -36,7 +36,7 @@ Any driver whose driving license is about to expire or has already expired.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The license validity in Spain: 10 years for drivers under 65, 5 years for drivers 65 or older.

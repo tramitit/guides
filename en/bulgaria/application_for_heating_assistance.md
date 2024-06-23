@@ -34,7 +34,7 @@ Ideally, any individual or family who is struggling to make ends meet and cannot
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that different agencies have their own specific procedures and eligibility criteria for heating assistance. Make sure to check with your local agency to ensure you fully understand their procedure and requirements. Applying for aid as early in the season as possible is usually advisable, as there can sometimes be delays in processing times.

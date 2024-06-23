@@ -37,7 +37,7 @@ Każda osoba przebywająca w Polsce, bez względu na obywatelstwo, która utraci
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 

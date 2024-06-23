@@ -35,7 +35,7 @@ Any expats living in Croatia, who have imported cars from the home country or ha
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Every vehicle registered in Croatia should pass an annual technical inspection. Also, note that you need to report the registration of your foreign vehicle to Croatian authorities within 15 days to avoid fines. If you are importing a new vehicle into Croatia, consider that you may have to pay VAT and car tax. It's worth checking whether these tasks can be done by a third party if you are not fluent in Croatian.

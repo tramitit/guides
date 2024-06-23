@@ -38,7 +38,7 @@ Di solito dovrai fornire i seguenti documenti, anche se i dettagli possono varia
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 Assicurati di verificare la tua ammissibilità e comprendere appieno il processo di domanda prima di presentarla. Inoltre, tieni presente che i dettagli menzionati qui possono variare a seconda della tua zona locale: verificali sempre con l'autorità locale.

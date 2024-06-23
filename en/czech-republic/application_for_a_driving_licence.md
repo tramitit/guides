@@ -37,7 +37,7 @@ Any residents in the Czech Republic who want to legally drive vehicles on roads 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - A minimum age requirement is necessary depending on the type of vehicle you want to drive. For passenger cars and tricycles, candidates should be at least 18 years old, whereas, for motorcycles, the minimum age is 16 years.

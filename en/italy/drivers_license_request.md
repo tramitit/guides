@@ -35,7 +35,7 @@ Anyone intending to drive in Italy either as a resident or a tourist is required
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 While International Driver’s licenses are recognized, they are only for temporary use and not for those who are becoming residents in Italy. After establishing residency, you have one year to convert your home country's driving license to an Italian one. Converting a driver's license from certain countries like USA requires a complete driving test (theory and practical). It would be a good idea to check Italy's agreement with your home country regarding driver's license conversion. Also, remember any unpaid traffic fines may affect your ability to convert or apply for an Italian driver's license. Always abide by the country's traffic rules and regulations.

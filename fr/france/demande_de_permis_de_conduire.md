@@ -34,7 +34,7 @@ Que vous soyez une personne internationale prévoyant de rester en France pendan
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - Si votre permis de conduire étranger n'est pas en français, il doit être traduit par un traducteur certifié.

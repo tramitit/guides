@@ -39,7 +39,7 @@ Potřebují ho cizinci, včetně občanů EU, kteří žili v České republice 
 _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
 | Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 
 ## Další podrobnosti

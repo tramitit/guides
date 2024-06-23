@@ -36,7 +36,7 @@ Certificatul de Atestare Fiscală este necesar în primul rând de rezidenți, d
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Rețineți că întotdeauna este recomandat să verificați cu autoritățile fiscale locale sau cu consilierii legali cu privire la cerințele specifice și procesul de obținere a unui Certificat de Atestare Fiscală. Fiind informat vă ajută să asigurați un proces de desfășurare fără probleme și să evitați posibilele probleme legale.

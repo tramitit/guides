@@ -35,7 +35,7 @@ Any individual planning to drive in a foreign country(like Slovakia) who is not 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The International Driver's License is not a standalone document and should be carried alongside your original driver's license.

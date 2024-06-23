@@ -40,7 +40,7 @@ Please note that the exact order of steps may vary depending on the specific loc
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Registering a modified vehicle may require additional steps or checks to ensure the vehicle is safe and complies with local laws. Annual taxes may apply depending on the vehicle. For temporary registration, temporary plates may be available. Contact local authorities for the most accurate and up-to-date information.

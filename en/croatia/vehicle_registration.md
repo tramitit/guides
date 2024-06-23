@@ -40,7 +40,7 @@ Everyone who owns a vehicle in Croatia, or imports a car from another country to
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please be aware that if you delay your scheduled technical inspection more than 15 days, you will need to pay an extra fee.

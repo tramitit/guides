@@ -35,7 +35,7 @@ Normalmente, você precisará fornecer identificação e comprovante de endereç
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 * A maioria dos planos de dados móveis requer um compromisso de pelo menos 12 meses, embora também existam planos pré-pagos sem compromisso de longo prazo.

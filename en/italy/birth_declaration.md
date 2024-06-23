@@ -34,7 +34,7 @@ The birth declaration is usually done by the parents or other legal representati
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - After the birth is registered in the Birth Register, the office of vital statistics will note this event in the Family Status Certificate (Certificato di Stato di Famiglia).

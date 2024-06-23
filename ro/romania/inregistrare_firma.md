@@ -44,7 +44,7 @@ Toate aceste documente trebuie să fie originale, valide și certificate de auto
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii Suplimentare
 - Cerințele exacte pot varia în funcție de jurisdicție și de tipul specific de companie pe care doriți să o stabiliți.

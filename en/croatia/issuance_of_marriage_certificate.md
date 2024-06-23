@@ -42,7 +42,7 @@ This process is necessary for anyone who plans to get married in Croatia, whethe
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The legal process for marriage in Croatia is based on civil law, not religious ceremonies.

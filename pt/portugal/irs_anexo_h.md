@@ -52,7 +52,7 @@ Este formulário é necessário para os contribuintes em Portugal que incorreram
 _(Estamos atualmente selecionando os melhores prestadores. Se você é um prestador ou conhece um, entre em contato conosco ou edite a página diretamente)_
 
 | Prestador        |     Website     |     Prazos    |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - Sempre certifique-se de ter toda a documentação de suporte organizada e prontamente disponível em caso de auditorias ou verificação adicional pela autoridade fiscal portuguesa.

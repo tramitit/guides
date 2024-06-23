@@ -48,7 +48,7 @@ Dit zijn doorgaans de benodigde documenten:
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Aanvullende details
 Let op dat de verkeerswetten en -regels kunnen variëren tussen de verschillende regio's van België, en het is belangrijk om de specifieke vereisten te verifiëren bij de relevante lokale autoriteiten. Als je een buitenlands rijbewijs omwisselt, afhankelijk van je land van herkomst, kan het zijn dat je een theoretisch en/of praktisch examen moet afleggen.

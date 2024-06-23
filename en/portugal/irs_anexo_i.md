@@ -43,7 +43,7 @@ Ensure that all documents are obtained from trusted sources and are up to date.
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Foreign Income**: When declaring income from foreign sources, it is important to follow specific guidelines regarding exchange rates and documentation required.

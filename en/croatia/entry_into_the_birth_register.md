@@ -35,7 +35,7 @@ This process is necessary for anyone who has given birth in Croatia or has a chi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Timelines might vary on a case by case basis. Please allow for potential delays.

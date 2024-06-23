@@ -33,7 +33,7 @@ Qualsiasi individuo che attualmente non è impiegato ma sta cercando attivamente
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 * Sono offerti diversi tipi di prestazioni di disoccupazione in base a potenziali diversi aspetti della storia lavorativa dell'individuo.

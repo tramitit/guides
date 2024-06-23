@@ -36,7 +36,7 @@ Pessoas que precisam de traduções oficiais para seus documentos. Estes podem i
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - Alguns documentos podem exigir um nível adicional de certificação conhecido como Apostila, que certifica a autenticidade da assinatura na tradução.

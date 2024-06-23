@@ -51,7 +51,7 @@ This process is needed by any foreign resident living legally in Spain who wants
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Keep in mind that each case is different and the process may vary depending on your specific circumstances. Always consult with a legal professional for personalized assistance. Also remember, during the process, respect the Spanish laws and always maintain a legal status. Administrative requests can sometimes take longer than anticipated, so patience is vital. Moreover, even a small mistake in the application can cause delays or denials, so double-check the information before submitting.

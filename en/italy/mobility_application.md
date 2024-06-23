@@ -34,7 +34,7 @@ Young individuals who are planning to travel, work, or live in the UK temporaril
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The process could take up to a few weeks. It is important to start the application with anticipation to your desired travel date.

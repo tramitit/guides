@@ -40,7 +40,7 @@ The documents required will depend on the type of residence permit you're applyi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Make sure to check the specific requirements for the type of residence permit you're applying for, as different types can have different requirements and processes. Keep in mind that Greece is part of the European Union, so some procedures can be different for EU and non-EU citizens. Also, be prepared for potential delays in processing and be patient with the procedure.

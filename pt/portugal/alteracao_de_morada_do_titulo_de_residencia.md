@@ -36,7 +36,7 @@ Por favor, note que todos os documentos precisam estar em português ou traduzid
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 Lembre-se de fazer a notificação de mudança de endereço o mais rápido possível após se mudar. Isso ajuda a estar em conformidade com a lei de imigração de Portugal. Esteja ciente de que a falta de fazê-lo pode levar a implicações legais.

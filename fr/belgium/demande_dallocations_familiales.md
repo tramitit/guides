@@ -36,7 +36,7 @@ Ces documents devront être traduits en français ou en néerlandais s'ils ne so
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - Les parents non-résidents travaillant dans une institution internationale peuvent demander des allocations familiales directement auprès de FAMIFED.

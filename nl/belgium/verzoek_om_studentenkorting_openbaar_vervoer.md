@@ -37,7 +37,7 @@ Deze dienst is ideaal voor studenten die afhankelijk zijn van het openbaar vervo
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Aanvullende details
 Onthoud dat afhankelijk van de voorwaarden van de vervoerder, je studentenkorting mogelijk alleen van toepassing is op bepaalde routes of tijden. Zorg er altijd voor dat je je studentenkaart of vervoerskaart met de studentenkorting bij je hebt wanneer je gebruik maakt van het openbaar vervoer.

@@ -51,7 +51,7 @@ Non-Spanish nationals who plan to live, work, or conduct significant legal proce
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's important to stay updated with the local immigration office's requirements, as procedures can change. Applicants are advised to check the [Spanish Immigration Office Website](https://sede.administracionespublicas.gob.es) for the latest information and potential updates on processing times and document requirements.

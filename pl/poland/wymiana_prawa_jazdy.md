@@ -40,7 +40,7 @@ Pamiętaj, że wymiana prawa jazdy UE jest zazwyczaj prostsza i szybsza niż wym
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Niektóre kraje mają wzajemne umowy o wymianie praw jazdy z Polską, co upraszcza i przyspiesza proces. Upewnij się, czy twój kraj ma taką umowę.

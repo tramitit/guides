@@ -38,7 +38,7 @@ I documenti necessari dipendono dalla natura dei cambiamenti. Questi possono inc
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 È importante effettuare questo cambiamento il prima possibile per evitare eventuali problemi con le dichiarazioni fiscali. Tenere presente che potrebbe essere necessario aggiornare queste informazioni anche presso altre istituzioni come la propria banca. Per eventuali domande o dubbi, è consigliabile contattare direttamente l'Agenzia delle Entrate o cercare l'aiuto di un professionista fiscale. Inoltre, l'utilizzo di servizi come [Revolut](https://www.revolut.com/) per il banking online potrebbe richiedere di aggiornare separatamente le proprie informazioni fiscali con loro.

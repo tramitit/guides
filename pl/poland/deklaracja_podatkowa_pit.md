@@ -43,7 +43,7 @@ Każda osoba, która osiąga dochód w Polsce, musi złożyć deklarację podatk
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 

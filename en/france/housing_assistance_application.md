@@ -42,7 +42,7 @@ Ensure that all documents are translated in French.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In case you are a student needing a guarantor, CROUS (Centre régional des œuvres universitaires et scolaires) can step in as an eligible guarantor through the 'Visale' service. Apply at ['Visale'](https://www.visale.fr/#/).

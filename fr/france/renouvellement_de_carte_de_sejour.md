@@ -47,7 +47,7 @@ Les non-citoyens français vivant en France avec un titre de séjour approchant 
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails Supplémentaires
 Il est conseillé de conserver chaque pièce de papier officiel que vous recevez de l'administration française, car vous ne savez jamais quand cela pourrait être nécessaire. De plus, envisagez d'utiliser un service postal avec confirmation de livraison lorsque vous envoyez des documents à la préfecture. Cela peut prouver l'envoi de vos documents. Demandez toujours des quittances pour toute transaction avec l'administration.

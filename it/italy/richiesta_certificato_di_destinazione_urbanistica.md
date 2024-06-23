@@ -43,7 +43,7 @@ Ogni comune potrebbe avere requisiti diversi, quindi è importante verificare co
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli Aggiuntivi
 Nota: Il processo esatto e i tempi di lavorazione possono variare a seconda delle leggi e regolamenti locali dell'area in cui si trova la vostra proprietà. Assicuratevi di contattare il vostro comune locale per ottenere le informazioni più accurate.

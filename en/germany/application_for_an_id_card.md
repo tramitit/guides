@@ -39,7 +39,7 @@ German citizens (including people who have successfully been naturalized in Germ
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The waiting period may vary depending on your location in Germany and the overall demand. Do take this period into account before applying for a new ID if your existing ID is about to expire. Your old expired ID does not count as a valid form of identification once it has expired. This is true even if you've already applied for a new one and are simply waiting for it to be processed.

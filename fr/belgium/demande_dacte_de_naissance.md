@@ -32,7 +32,7 @@ Toute personne née en Belgique peut avoir besoin de fournir un acte de naissanc
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Si vous avez besoin d'utiliser l'acte de naissance à l'étranger, vous devrez peut-être l'apostiller. Une apostille rend un document reconnaissable dans les pays membres de la Convention de La Haye en fournissant un cachet qui valide la signature sur le document. Vous obtenez généralement une apostille auprès du Ministère des Affaires étrangères.

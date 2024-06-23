@@ -41,7 +41,7 @@ The guide is ideal for foreign individuals intending to stay in Romania for an e
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The duration of stay as per your Residence Visa shouldn’t exceed 90 days.

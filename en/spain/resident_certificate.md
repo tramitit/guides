@@ -43,7 +43,7 @@ A resident certificate in Spain, commonly referred to as "Certificado de Registr
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It’s highly recommended to check for any updates on requirements and document lists on official Spanish government websites as these can change.

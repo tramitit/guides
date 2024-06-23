@@ -32,7 +32,7 @@ Ce guide est destiné à toute personne qui vient de perdre son emploi en Belgiq
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - CAPAC ne facture pas de frais d'adhésion, contrairement aux syndicats. Le traitement de votre demande pourrait prendre plus de temps au CAPAC en raison de conditions plus encombrées.

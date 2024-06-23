@@ -39,7 +39,7 @@ Individuals who have undergone significant legal changes in their personal ident
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Make sure to update all places where your old ID was used. This could be your banks, schools or workplaces for corrrect records.

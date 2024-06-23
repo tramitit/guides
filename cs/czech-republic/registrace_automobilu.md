@@ -39,7 +39,7 @@ Každý, kdo plánuje používat vozidlo v rámci České republiky déle než 1
 _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
 | Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 
 ## Další podrobnosti

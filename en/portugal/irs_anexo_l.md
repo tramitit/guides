@@ -46,7 +46,7 @@ This form is needed by non-resident taxpayers who have generated income in Portu
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Non-residents need to declare all sources of income generated within Portugal, even if they reside abroad.

@@ -35,7 +35,7 @@ Ta usługa jest zazwyczaj wymagana przez obcokrajowców, którzy zamierzają prz
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Należy pamiętać, że ważne jest powiadamianie lokalnego urzędu miejskiego o zmianach w Twoim miejscu zamieszkania. Jeśli nie masz możliwości zarejestrowania się w swoim lokalu najmu, może warto skorzystać z usług prawnych lub porozmawiać z władzami lokalnymi. Jeśli pochodzisz z państw członkowskich UE, możesz być uprawniony do Karty Pobytu dla Obywateli Unii Europejskiej, a procedura może nieco się różnić.

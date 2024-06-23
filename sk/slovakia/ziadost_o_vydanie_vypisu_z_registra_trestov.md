@@ -40,7 +40,7 @@ Nasledujúce dokumenty by mohli byť potrebné získať:
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Úrad ministerstva je obvykle otvorený od pondelka do piatku, odporúčame skontrolovať webovú stránku pre presné časy. Upozorňujeme, že za túto službu sa platí poplatok, ktorý môžete skontrolovať na webovej stránke alebo zavolaním na kontaktné číslo ministerstva.

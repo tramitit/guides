@@ -50,7 +50,7 @@ This card is ideal for non-EU nationals who:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Continuous Residence Requirement**: Make sure to maintain continuous residence in Spain. Absences are allowed, but they shouldn't exceed six consecutive months or a total of ten months within five years.

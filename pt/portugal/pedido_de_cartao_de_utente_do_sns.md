@@ -34,7 +34,7 @@ Este cartão é necessário para qualquer residente em Portugal, independentemen
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - Embora o cartão de utente do SNS seja necessário, em situações de emergência, o centro de saúde irá atendê-lo mesmo sem ele.

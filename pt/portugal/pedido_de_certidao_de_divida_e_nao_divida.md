@@ -35,7 +35,7 @@ Você pode obter esses certificados de órgãos governamentais locais ou institu
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Deve-se notar que o processo de solicitação e a autoridade emissora podem variar dependendo da localização. É essencial garantir que você tenha todos os detalhes financeiros necessários e precisos ao se inscrever. Se houver alguma discrepância nas informações fornecidas, isso pode levar a certificados negados ou incorretos. Lembre-se, certas taxas podem estar associadas ao processo de inscrição também.

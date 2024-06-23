@@ -39,7 +39,7 @@ Anyone intending to use a vehicle within the Czech Republic for longer than 185 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Until the vehicle is registered in the Czech Republic, it is not legal to drive it on public roads.

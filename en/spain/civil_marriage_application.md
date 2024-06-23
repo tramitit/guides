@@ -43,7 +43,7 @@ This process is necessary for those who intend to get married in Spain, as well 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The process might seem straightforward but could take a considerable amount of time due to Spanish bureaucratic systems. The monetary cost of the procedure can also vary based on the translations and document legalizations needed. It's recommended to start the process well ahead of your intended marriage date to ensure everything goes smoothly.

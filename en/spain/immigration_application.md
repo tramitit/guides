@@ -37,7 +37,7 @@ Digital nomads, remote workers, or anyone intending to work from Spain legally w
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Ensure all documents are translated into Spanish by a sworn translator.

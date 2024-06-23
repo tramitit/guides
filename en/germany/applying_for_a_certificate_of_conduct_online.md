@@ -36,7 +36,7 @@ The Führungszeugnis is often required when applying for jobs, particularly thos
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Please note that the document is generally sent to the address registered in your identity document, so make sure your information is up to date.

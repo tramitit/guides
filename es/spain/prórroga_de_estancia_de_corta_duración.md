@@ -51,7 +51,7 @@ Personas que se encuentran en España bajo una visa de corta duración o permiso
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 
 | Proveedor       |     Sitio web    |     Plazos    |     Costo    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 

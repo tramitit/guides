@@ -42,7 +42,7 @@ Any non-EU citizen planning to stay in Portugal for more than six months needs t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Registered users are given a public service user account which blends all interactions with public services.

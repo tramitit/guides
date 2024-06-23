@@ -40,7 +40,7 @@ Prosím, upozornite: požadované dokumenty sa môžu líšiť v závislosti na 
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Niektoré krajiny môžu vyžadovať, aby ste absolvovali ďalšie testy (písomné alebo jazdné), aj keď majú vzájomnú dohodu s vašou domovskou krajinou.

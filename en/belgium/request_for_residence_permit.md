@@ -38,7 +38,7 @@ Ideal applicants may include employees relocating for work, students pursuing sc
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The process of obtaining a residence permit can be lengthy and requires many steps. There may be an official inspection of your residence, and often the permission isn't given before your visa expires. It is recommended to start the process as early as possible. For people who have already been living legally in Belgium for five years, they may apply for long-term resident status. Beyond this, they may be able to apply for Belgian nationality.

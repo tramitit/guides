@@ -37,7 +37,7 @@ All these documents should be handy during the process as detailed information w
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 If you are outside Portugal, you can still request this through the Portuguese Consulate in your country or via the Portuguese Justice Portal, as the certificate is provided electronically. If you are applying for a job as a driver or a recruitment company is asking for it, it is likely they need to ensure you have no criminal history that may affect your role.

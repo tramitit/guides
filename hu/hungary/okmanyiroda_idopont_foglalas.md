@@ -39,7 +39,7 @@ Ez a szolgáltatás nélkülözhetetlen mindazoknak, akiknek azonosító vagy ut
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Kérjük, vegye figyelembe, hogy mindig ellenőrizze a megfelelő szolgáltató hivatalos weboldalát a legfrissebb információkért a dokumentumkövetelményekről, az időpontokról és a költségekről. Készüljön fel az összes szükséges dokumentummal az időpont előtt, hogy zökkenőmentesen menjen végbe az eljárás.

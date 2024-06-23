@@ -41,7 +41,7 @@ Please note that additional documents may be required depending on your national
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The cost of social insurance is based on your income and employment status. Employers usually pay half of the insurance contributions. For self-employed individuals, contributions are calculated based on their income. 

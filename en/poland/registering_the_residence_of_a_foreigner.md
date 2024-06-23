@@ -34,7 +34,7 @@ This service is typically required by foreigners who intend to stay, work, and l
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It is essential to notify the local municipal office whenever there are changes in your residence. If you're not allowed to register within your rental property, it might be worth engaging legal services or talking to the local authorities. If you are from EU member states, you might be eligible for a Residence Card for European Union Citizen, and the procedure could differ slightly.

@@ -44,7 +44,7 @@ Every individual living in the Czech Republic needs health insurance. This inclu
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that the cost of monthly health insurance premiums depend on the type of coverage and the specific health insurance company. Always verify the currently valid conditions and prices on the insurer's website.

@@ -38,7 +38,7 @@ Documents requirements may vary depending on the terms of your pension plan, but
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 1. The process and documents required can vary widely based on your specific pension plan and provider.

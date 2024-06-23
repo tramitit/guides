@@ -39,7 +39,7 @@ Non-European Union citizens who are residing in Spain for an extended period of 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that each person’s situation may vary, and some individuals may need additional documents not listed here. It's important to always double-check requirements with official sources or legal professionals. Also, remember that without a proper renewal, one risks losing resident status.

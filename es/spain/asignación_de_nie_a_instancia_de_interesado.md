@@ -49,7 +49,7 @@ Los ciudadanos extranjeros que planean vivir, trabajar o realizar procedimientos
 _(Actualmente estamos buscando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 
 | Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 Es importante mantenerse actualizado con los requisitos de la oficina local de inmigración, ya que los procedimientos pueden cambiar. Se recomienda a los solicitantes revisar el [sitio web de la Oficina de Inmigración de España](https://sede.administracionespublicas.gob.es) para obtener la información más reciente y posibles actualizaciones sobre los tiempos de procesamiento y los requisitos de documentos.

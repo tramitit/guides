@@ -44,7 +44,7 @@ Anyone who is a non-citizen planning to study in Spain or current students needi
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Timelines**: Make sure to start the renewal process well before your current card expires to avoid any gaps in your legal residency status.

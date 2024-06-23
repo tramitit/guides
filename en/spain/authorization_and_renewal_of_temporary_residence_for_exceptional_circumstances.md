@@ -70,7 +70,7 @@ This is ideal for individuals who find themselves in extraordinary circumstances
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Always keep copies of all submitted forms and documents.

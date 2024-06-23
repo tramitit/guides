@@ -34,7 +34,7 @@ This service is mainly for foreigners who plan to stay in Bulgaria for a short p
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Pease note, the fees and timelines vary depending on the local police station and the reason of stay. Additionally, you should note that the failure to register might result in fines. To avoid any legal complications, ensure you have followed the defined registration process accurately.

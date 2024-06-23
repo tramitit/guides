@@ -34,7 +34,7 @@ Toute personne ayant travaillé et résidé en France et approchant de l'âge de
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Les pensions de retraite en France sont calculées en fonction du montant que vous avez cotisé au système et du nombre d'années de contribution. Assurez-vous d'examiner attentivement votre situation personnelle et de planifier en conséquence pour recevoir le montant maximum possible.

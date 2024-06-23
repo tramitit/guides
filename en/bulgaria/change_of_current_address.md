@@ -34,7 +34,7 @@ Any individual or family that is planning to move from their current residential
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Be sure to double-check and update your address with any delivery services, subscriptions, or online commerce platforms to ensure smooth delivery of orders and parcels to your new address.

@@ -38,7 +38,7 @@ Questo procedimento è destinato a tutti i cittadini italiani che stanno pianifi
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli Aggiuntivi
 È importante notare che l'Italia ha adottato i passaporti biometrici, che sono dotati di un microchip incorporato contenente le tue informazioni personali come i dati biometrici, inclusi le impronte digitali e i dettagli del viso. Questi passaporti offrono un livello più alto di protezione contro tentativi di frode e contraffazione.

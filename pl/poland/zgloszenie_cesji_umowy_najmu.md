@@ -33,7 +33,7 @@ Każdy najemca, który chce przenieść swoją umowę najmu na inną osobę z po
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 - Według postów, zaleca się zawsze przechowywanie kopii pisemnej komunikacji pomiędzy tobą a właścicielem w celu odniesienia się do niej w przyszłości.

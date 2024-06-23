@@ -38,7 +38,7 @@ Osoby alebo rodiny na Slovensku, ktoré majú finančné ťažkosti v dôsledku 
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Sociálne dávky na Slovensku sú rozdelené do rôznych kategórií, pričom každá má vlastné kritériá oprávnenosti a proces žiadosti. Preto je dôležité sa o tom informovať, aby ste pochopili, na ktoré dávky máte nárok a ako o ne žiadať. Treba si všimnúť, že systém sociálnych dávok na Slovensku sa môže čas od času meniť, takže vždy overujte najnovšie informácie. Ak nie ste ničím istí, môže byť užitočné porozprávať sa s sociálnym pracovníkom alebo podobným odborníkom, ktorý vás môže sprevádzať procesom.

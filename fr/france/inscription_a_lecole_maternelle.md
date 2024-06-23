@@ -39,7 +39,7 @@ Vous aurez besoin des documents suivants pour traiter une inscription à la mate
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Le processus d'inscription, les délais et les exigences peuvent varier légèrement d'une école à l'autre. Il est donc important de contacter votre école choisie bien à l'avance pour comprendre leurs procédures et exigences spécifiques. Gardez toujours des copies de tous les documents que vous soumettez pour vos archives.

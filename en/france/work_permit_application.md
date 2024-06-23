@@ -38,7 +38,7 @@ This guide is essential for any non-EU individual who has secured a job in Franc
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Processing times vary, so it's advisable to plan and start the procedure well in advance of your intended start date. Additionally, having at least a basic understanding of French would greatly aid your transition.

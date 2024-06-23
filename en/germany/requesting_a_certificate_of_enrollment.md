@@ -39,7 +39,7 @@ Typically, the required documents or information are:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional Details
 Please note that the institution may charge a nominal fee for generating this certificate. Also, depending on the time of the year, it may take several business days for the institution to process your request and issue the certificate. Also, the certificate does not typically disclose the subjects a student is enrolled in or their grades, just their enrollment status.

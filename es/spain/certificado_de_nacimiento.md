@@ -40,7 +40,7 @@ Personas que necesitan demostrar sus datos de nacimiento para diversos propósit
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 | Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - **Registros Históricos**: Encontrar certificados de nacimiento de los años 1800 o principios del 1900 podría requerir visitar o contactar archivos históricos o registros eclesiásticos, especialmente si los registros civiles locales están incompletos.

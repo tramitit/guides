@@ -56,7 +56,7 @@ Non-EU residents in Spain who have an expired residency card and are waiting for
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Processing Time**: The processing of a Return Authorization can take a few days, so plan accordingly.

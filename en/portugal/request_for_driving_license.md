@@ -36,7 +36,7 @@ Anyone who intends to operate a motorized vehicle, be it for personal or profess
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 You must be at least 18 years old to request a driving license. Individuals who fail their driving test may need to wait before they can retake it. The waiting period depends on the specific requirements set out by the traffic regulatory authorities.

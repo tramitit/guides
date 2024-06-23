@@ -38,7 +38,7 @@ Any individuals who reside in Austria and have either recently moved within the 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 You may need insurance coverage for your vehicle during the move, or when bringing a car into Austria from another country. It's advised to check with local insurance providers or consult your current insurance for overseas coverage.

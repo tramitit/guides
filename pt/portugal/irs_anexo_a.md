@@ -52,7 +52,7 @@ Para obter estes documentos, contacte o seu empregador ou departamento de recurs
 ## Prestadores que podem ajudar
 _(Estamos a reunir os melhores prestadores. Se é ou conhece um prestador, por favor contacte-nos ou edite a página diretamente)_
 | Prestador        |     Website     |     Prazos    |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Se tiver alguma dificuldade ou questão específica relacionada com o preenchimento do IRS Anexo A, considere procurar aconselhamento de um profissional de impostos. Uma submissão precisa e atempada é crucial para evitar multas ou atrasos no processamento da sua declaração de imposto.

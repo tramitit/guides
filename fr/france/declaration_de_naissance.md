@@ -36,7 +36,7 @@ Vous aurez besoin des documents suivants pour la déclaration de naissance :
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - Si le cinquième jour suivant la naissance est un samedi, un dimanche, un jour férié, ou un jour habituellement non travaillé, le délai est prolongé jusqu'au premier jour ouvrable suivant.

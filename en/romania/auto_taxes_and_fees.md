@@ -38,7 +38,7 @@ This information is essential for any car owner living in Romania or those plann
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Average citizens may not fully understand the details of auto taxation. Therefore, it's always advisable to either study the policy thoroughly or consult with a professional to avoid unnecessary penalties. Exchange rates and import/export fees may affect the overall cost of a car. Consider these variables when planning your auto expenses.

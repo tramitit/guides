@@ -37,7 +37,7 @@ This service is ideal for students who rely on public transportation for their d
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that depending on the conditions of the transportation provider, your student discount may only apply to certain routes or times. Always ensure you have your student ID or transportation card with the student discount when utilizing public transport.

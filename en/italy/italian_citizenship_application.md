@@ -53,7 +53,7 @@ Note: The specific documents required vary based on the individual's eligibility
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Patience is key during this process, as it can sometimes take up to two years to finalize the citizenship application. Furthermore, you might be expected to have a basic understanding of the Italian language depending on your application path. Lastly, always keep updated with your local consulate's changing requirements or procedures.

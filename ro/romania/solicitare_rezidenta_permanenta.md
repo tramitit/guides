@@ -42,7 +42,7 @@ Rețineți că toate documentele necesare pentru aplicația de viză de reziden�
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Rețineți că procesul exact și cerințele pot varia semnificativ între diferite țări. Prin urmare, informațiile furnizate aici sunt generale și s-ar putea să nu se aplice complet circumstanțelor dvs. specifice. Ar trebui să consultați un avocat de imigrare sau autoritatea relevantă din țara țintă pentru a obține cele mai precise și actualizate informații. De asemenea, amintiți-vă că este esențial să respectați în întregime toate cerințele și procedurile pentru a crește șansele de succes ale aplicației dvs.

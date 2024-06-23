@@ -34,7 +34,7 @@ The Fiscal Attestation Certificate is primarily needed by residents, non-residen
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that it is always recommended to check with the local tax authorities or legal counselors about the specific requirements and process for obtaining a Fiscal Attestation Certificate. Being informed helps ensure smooth processing and avoids possible legal concerns.

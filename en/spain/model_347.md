@@ -36,7 +36,7 @@ Businesses and self-employed individuals (autónomos) in Spain who engage in tra
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Be aware that failing to submit Model 347 correctly and on time can result in penalties or fines.

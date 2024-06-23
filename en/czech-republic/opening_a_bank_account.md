@@ -46,7 +46,7 @@ Typically, the following documents are necessary:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Some of these banks might require you to maintain a certain minimum balance in your account, and the banking services come with various fees, including for account maintenance and transactions. These specifics vary from bank to bank.

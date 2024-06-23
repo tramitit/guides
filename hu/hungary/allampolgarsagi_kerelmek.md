@@ -46,7 +46,7 @@ Azoknak, akik magyar származásúak, és szeretnének Magyarországra költözn
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 * Minden benyújtott dokumentumnak eredetinek vagy hitelesített másolatának kell lennie, és le kell fordítani magyar nyelvre.

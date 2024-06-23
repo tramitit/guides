@@ -40,7 +40,7 @@ Veuillez vous assurer que les documents sont à jour et de préférence traduits
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 ## Détails supplémentaires
 
 - La durée du permis peut varier d'un à dix ans en fonction du type et des circonstances.

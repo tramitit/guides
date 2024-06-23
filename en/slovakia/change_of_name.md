@@ -44,7 +44,7 @@ This process is significant for people who wish to change their first name, surn
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Reasons for a name change can include personal preference, divorce, marriage, or simplification.

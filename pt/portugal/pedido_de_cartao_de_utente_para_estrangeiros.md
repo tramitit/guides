@@ -42,7 +42,7 @@ Qualquer cidadão não pertencente à UE que planeie ficar em Portugal por mais 
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - Os usuários registrados recebem uma conta de usuário de serviço público que combina todas as interações com os serviços públicos.

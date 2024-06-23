@@ -39,7 +39,7 @@ Qualquer pessoa que planeje realizar atividades de construção em Portugal - se
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - É crucial respeitar o alvará de construção, ou enfrentar possíveis multas ou ordens para interromper a construção.

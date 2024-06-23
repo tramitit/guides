@@ -38,7 +38,7 @@ This service is ideal for students who are unable or find it challenging to cove
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Different scholarships have different eligibility requirements, so thoroughly research a scholarship before applying to ensure you meet all criteria. Some scholarships are based on financial need, while others reward academic or extracurricular achievement. Always proofread your application and follow all instructions carefully to increase your chance of success. 

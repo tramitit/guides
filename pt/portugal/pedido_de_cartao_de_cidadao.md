@@ -35,7 +35,7 @@ Qualquer pessoa que seja residente legal ou cidadão de Portugal, incluindo cria
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - O custo do Cartão de Cidadão varia consoante o caso.

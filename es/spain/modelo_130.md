@@ -52,7 +52,7 @@ Los autónomos y propietarios de pequeñas empresas en España que obtienen ingr
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 
 | Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - No presentar el Modelo 130 puede resultar en multas e intereses sobre impuestos impagos.

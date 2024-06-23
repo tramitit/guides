@@ -53,7 +53,7 @@ Anexo D is usually required for individuals who have multiple types of income or
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Specific Situations:** If your income or expenses involve foreign sources, additional annexes like Anexo J might also be required.

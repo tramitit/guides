@@ -48,7 +48,7 @@ Any organization or individual planning to hire an employee should create a prop
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's vital to compare different employment contract structures such as B2B contracts vs job contracts to choose what suits best for you or your organization. Each contract has its own merits and limitations. Be mindful to cross-check the contract details to avoid any legal complications down the line.

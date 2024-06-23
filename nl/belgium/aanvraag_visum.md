@@ -43,7 +43,7 @@ Het Belgisch visum is vereist voor degenen die geen burgers zijn van België of 
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Aanvullende details
 Het Belgisch visumaanvraagproces kan licht variëren op basis van het land waar de aanvraag wordt ingediend. Bezoek altijd de relevante consulaat/ambassade/VFS-website voor de meest nauwkeurige informatie.

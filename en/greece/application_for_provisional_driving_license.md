@@ -37,7 +37,7 @@ You will typically need:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The usual processing time is about a week if you apply online, but it may take longer due to high demand or other unforeseen circumstances. Be sure to check the official Government website for the most accurate and up-to-date information.

@@ -63,7 +63,7 @@ Cualquier individuo que resida en España y tenga cambios significativos en sus 
 _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor o conoces a alguno, por favor contáctanos o edita la página directamente)_
 
 | Proveedor       |     Sitio Web    |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - Es crucial actualizar este formulario siempre que haya un cambio sustancial en tus circunstancias para garantizar retenciones fiscales precisas.

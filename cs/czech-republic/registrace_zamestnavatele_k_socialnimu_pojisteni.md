@@ -37,7 +37,7 @@ Upozorňujeme, že příspěvky do sociálního pojištění by měly být place
 _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
 | Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 
 ## Další podrobnosti

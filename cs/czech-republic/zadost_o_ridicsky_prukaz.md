@@ -37,7 +37,7 @@ Všichni obyvatelé České republiky, kteří chtějí legálně řídit vozidl
 _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
 | Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 
 ## Další podrobnosti

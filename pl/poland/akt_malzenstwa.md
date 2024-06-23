@@ -38,7 +38,7 @@ Zazwyczaj osoby, które niedawno wzięły ślub w Polsce, lub obywatele polscy, 
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 - Osoby nie mówiące po polsku mogą potrzebować wynająć oficjalnego tłumacza, ponieważ wszystkie dokumenty muszą być w języku polskim.

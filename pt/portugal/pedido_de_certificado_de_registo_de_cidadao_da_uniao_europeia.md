@@ -33,7 +33,7 @@ Qualquer cidadão da UE que planeje viver em Portugal por mais de três meses de
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 ## Detalhes adicionais
 Lembre-se de que o processo pode variar ligeiramente dependendo da cidade ou freguesia. É recomendável entrar em contato com o seu escritório local específico antecipadamente para confirmar seus requisitos. Uma vez que você tenha obtido o seu Certificado de Registo, é importante carregá-lo consigo o tempo todo enquanto estiver em Portugal.
 

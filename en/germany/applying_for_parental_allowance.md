@@ -38,7 +38,7 @@ Any parent who is currently residing in Germany and has a newborn or adopted chi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
   
 ## Additional details
 - The amount of parental allowance you receive depends on your income before the birth of your child. It ranges from €300 to €1,800 per month.

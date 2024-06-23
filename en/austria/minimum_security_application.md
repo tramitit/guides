@@ -35,7 +35,7 @@ Ideal applicants are Austrian residents who have lost their job or are dealing w
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It is important to understand that the Mindestsicherung is a last resort financial aid provided by the state and not a guarantee. There are specific criteria set and potential recipients must fall under them before they can receive aid. The process can be lengthy and bureaucratic, so patience is important during the application process.

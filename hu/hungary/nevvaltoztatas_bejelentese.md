@@ -40,7 +40,7 @@ Ne felejtse el mindig hozni az eredeti dokumentumokat és a fotókópiákat is. 
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Ne feledje, hogy a névváltoztatás más területeket is érint, például bankszámlák, vezetői engedélyek és útlevél. Legyen felkészült minden releváns szervezetnek frissített dokumentumokat biztosítani. Bizonyos esetekben a külföldi nevek elfogadása további eljárásokat igényelhet a magyar törvény egyes korlátozásai miatt.

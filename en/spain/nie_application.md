@@ -39,7 +39,7 @@ Any foreigner who plans to live in Spain for more than three months, or for prof
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please take into account that the validity of NIE numbers doesn’t expire, but the NIE certificates (the piece of paper you get at the police station) does expire, and you might be asked to present an up-to-date one, so we recommend that, if you are using it regularly, that you renew it every three months.

@@ -39,7 +39,7 @@ You will typically need to provide some or all of the following documents during
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Some daycares in Canada offer French language instruction or immersion. This can be beneficial if you want your child to become bilingual, but it's helpful to ensure in advance that your child will be able to navigate this environment. In Québec, grants may be available to attend a francisation program.

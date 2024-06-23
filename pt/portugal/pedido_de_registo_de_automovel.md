@@ -38,7 +38,7 @@ Qualquer indivíduo que compre um veículo novo ou usado.
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Tenha em mente que se o carro for de um país estrangeiro, podem ser necessários documentos ou procedimentos adicionais. É também obrigatório obter um Seguro Automóvel Português. Consulte os sites dos prestadores para obter informações mais precisas e recentes.

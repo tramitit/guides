@@ -44,7 +44,7 @@ Personas no españolas que planean quedarse en España por más de 3 meses, estu
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un proveedor o conoces a alguno, por favor contáctanos o edita la página directamente)_
 | Proveedor       |     Sitio web     |      Tiempos     |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - **Ayuda adicional**: Algunas regiones en España pueden tener variaciones en el proceso. Asegúrate de revisar los requisitos locales.

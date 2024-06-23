@@ -40,7 +40,7 @@ Links to official Austrian Government Website for more information:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that for some services you will need proof of registration (Meldezettel). It is therefore important to register your residing address within 3 days of moving in. Failure to do so can result in a fine up to 726 Euros.

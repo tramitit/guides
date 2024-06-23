@@ -46,7 +46,7 @@ Bohužiaľ, z dôvodu dôvodu dôvernosti nie sú priamo uvedené webové strán
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie informácie
 - Dôležitým zvážením je, že možno bude potrebné zaoberať sa niektorými aspektmi dejín Československa a Slovenska, keďže Slovakia bola súčasťou československej federácie až do roku 1993.

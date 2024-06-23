@@ -54,7 +54,7 @@ Este servicio se refiere al proceso de solicitud para obtener o renovar una tarj
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 
 | Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - **Tiempo de Procesamiento:** Varía según el tipo de solicitud y las circunstancias individuales; típicamente tarda desde unas semanas hasta varios meses.

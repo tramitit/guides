@@ -38,7 +38,7 @@ Os documentos necessários dependeriam da natureza do pedido. No entanto, alguns
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - Para documentos relacionados a impostos, como uma conta de corretagem, você pode precisar preencher determinados formulários (como "Formulário 836") com seu corretor, que deve então encaminhá-lo para as autoridades fiscais.

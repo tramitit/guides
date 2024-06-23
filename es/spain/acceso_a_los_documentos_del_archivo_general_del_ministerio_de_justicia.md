@@ -56,7 +56,7 @@ Las personas que pueden necesitar acceder a estos documentos incluyen genealogis
 _(Actualmente estamos recopilando a los mejores proveedores. Si eres un proveedor o conoces a alguno, por favor contáctanos o edita la página directamente)_
 
 | Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - **Consideraciones del Idioma:**

@@ -36,7 +36,7 @@ This guide is ideal for individuals who have moved to the Czech Republic from a 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Keep in mind that the process might be slightly different if your license was issued by an EU/EEA country. It's also essential to note that if the information on your foreign driver's license is not in the Czech or English language or does not match the Czech standards, you may be required to have it translated by a sworn translator. Your original license will be retained by the Czech authorities and returned to the issuing state.

@@ -37,7 +37,7 @@ Typically, this applies to immigrants or long-term foreign residents, who have f
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that the naturalization process can be lengthy (typically between 6 to 24 months), and it requires continuous legal residence. The timeframes may differ depending on individual circumstances and local requirements. Legal advice should be sought as required.

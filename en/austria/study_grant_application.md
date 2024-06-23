@@ -40,7 +40,7 @@ Obtaining these documents are typically from government or academic sources like
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Based on specific conditions, the study grant can either be a non-repayable grant or an interest-free loan.  It is recommended to visit their official website or contact them for more detailed and personalized information.

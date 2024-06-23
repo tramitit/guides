@@ -41,7 +41,7 @@ Pentru a aduna aceste documente, consultați autoritățile locale românești. 
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Website-ul de mai sus este pentru Serviciul Public Comunitar pentru Evidența Persoanelor (SPCERP), biroul principal responsabil de emiterea pașapoartelor în România. Timpul de eliberare a pașaportului poate varia în funcție de volumul de lucru la momentul aplicării.

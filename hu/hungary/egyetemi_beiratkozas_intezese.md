@@ -42,7 +42,7 @@ Ez a folyamat létfontosságú a középiskolai végzősök, átiratot kérő ha
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Fordítson időt a jelentkezésére és a dokumentumokra annak érdekében, hogy növelje felvétel esélyeit. Fontolja meg, hogy részt vegyen szabadidős tevékenységekben, mivel azok fokozhatják a jelentkezését. Ne feledje, hogy mindegyik egyetemnek egyedi idővonalai vannak, így mindig ellenőrizze az ő specifikus határidejeiket. Végül, győződjön meg róla, hogy alaposan értékeli az összes érdeklődésre számot tartó programot, mielőtt végleges döntést hozna.

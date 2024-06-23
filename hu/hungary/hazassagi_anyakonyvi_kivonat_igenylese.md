@@ -38,7 +38,7 @@ A folyamat azoknak az egyénekeknek szól, akik tervezik, hogy Magyarországon h
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Mindig ellenőrizd a legfrissebb követelményeket és szabályozásokat a helyi anyakönyvi hivataloddal. Különböző hivataloknak lehetnek enyhén eltérő követelményei vagy eljárásuk. Előzetes jóváhagyás szükséges lehet a házasságkötés előtt, és időpont egyeztetése is lehet szükséges a kérelmek benyújtásához az irodánál.

@@ -34,7 +34,7 @@ This service is essential for anyone who has lost their job and is currently loo
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It's important to note that the amount of unemployment benefit you are eligible to receive depends on your previous earnings.

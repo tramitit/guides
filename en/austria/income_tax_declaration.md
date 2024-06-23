@@ -42,7 +42,7 @@ Some of these documents can be obtained through your employer or banks with whic
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Keep in mind that the tax year in Austria, as in many countries, is the calendar year, so income earned from January to December must be reported. Furthermore, deadlines for tax declaration usually fall in the subsequent year, often in the spring. Be aware of these deadlines to avoid late fees or penalties. Filing your income tax declaration accurately and on time is crucial for financial compliance.

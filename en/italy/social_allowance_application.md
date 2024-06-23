@@ -38,7 +38,7 @@ You will typically need to provide the following documents, though the specifics
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Make sure to check your eligibility and understand the application process thoroughly before applying. Additionally, keep in mind that the specifics mentioned here may vary depending on your local area - always check the details with your local authority.

@@ -35,7 +35,7 @@ Any person who is a legal resident or citizen of Portugal, including children, i
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The cost of the Citizen Card varies per case.

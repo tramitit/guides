@@ -36,7 +36,7 @@ Todos esses documentos devem estar acessíveis durante o processo, pois informa�
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Se você estiver fora de Portugal, ainda é possível solicitar isso através do Consulado Português em seu país ou através do Portal da Justiça Portuguesa, pois o certificado é fornecido eletronicamente. Se você estiver se candidatando a um emprego como motorista ou uma empresa de recrutamento está solicitando isso, provavelmente eles precisam garantir que você não tenha histórico criminal que possa afetar o seu cargo.

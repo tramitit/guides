@@ -41,7 +41,7 @@ Zoznam požadovaných dokumentov sa môže líšiť v závislosti od typu právn
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie informácie
 Časové obdobie pre proces registrácie môže byť medzi 5 a 10 dní, ale môže byť predĺžené, ak sa vyžaduje ďalšie overenie poskytnutých dokumentov.

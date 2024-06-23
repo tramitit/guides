@@ -38,7 +38,7 @@ Każda osoba, która niedawno zakupiła lub sprowadziła samochód, motocykl, sk
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 Tablice rejestracyjne w Polsce składają się z dwóch części oddzielonych myślnikiem: pierwsza część odnosi się do Powiatu, a druga część to unikalny numer dla Twojego pojazdu. Powodzenie przetworzenia Twojego wniosku spowoduje przydzielenie takich tablic.

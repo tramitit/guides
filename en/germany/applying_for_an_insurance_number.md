@@ -36,7 +36,7 @@ Every person who either works or lives in Germany requires this number. Foreigne
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The Sozialversicherungsnummer or insurance number is not the same as your tax ID (Steuer ID) or your tax number (Steuernummer). The tax ID is another unique reference number for tax purposes. If you're asked for an insurance number at your university or a job, they usually refer to your German public health insurance number.

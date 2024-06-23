@@ -36,7 +36,7 @@ Any working woman who is expecting a child needs to know about her rights and th
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 While away on maternity leave, women in Slovakia receive payments from health insurance. The funds are provided by the Social Insurance Company and equate to about 65% of their assessment basis. Bear in mind regulations and rights might differ from industry to industry, always refer to your contract or human resources department for personalized advice.

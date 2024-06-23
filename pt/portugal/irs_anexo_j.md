@@ -41,7 +41,7 @@ Qualquer residente Português que tenha recebido qualquer tipo de rendimento de 
 _(Estamos atualmente a reunir os melhores prestadores de serviço. Se é ou conhece um prestador, por favor entre em contacto connosco ou edite a página diretamente)_
 
 | Prestador        |     Website     |     Prazos    |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - Certifique-se de ter todos os documentos traduzidos para evitar discrepâncias.

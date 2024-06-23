@@ -40,7 +40,7 @@ Primarily, the property’s ‘Código de Acesso à Certidão Permanente’ is r
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember, the Certidão Predial Permanente is only valid for six months. You need to renew it if you require up-to-date information after this period.

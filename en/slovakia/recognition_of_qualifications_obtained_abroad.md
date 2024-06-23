@@ -40,7 +40,7 @@ Below are commonly requested documents. Always refer to the specific requirement
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 While the general processes for recognition of qualifications are alike, specific processes can differ greatly depending on the country. As such, always ascertain the specific requirements from relevant professional organizations or regulatory bodies in the country where you intend to use the qualifications. 

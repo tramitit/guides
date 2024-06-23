@@ -35,7 +35,7 @@ Individuals applying for certain jobs, visas, or official permits may be request
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The fee for requesting a Criminal Background Certificate as of 2024 is €3.70. 

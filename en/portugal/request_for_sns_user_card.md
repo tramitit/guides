@@ -35,7 +35,7 @@ This card is necessary for any resident in Portugal, regardless of nationality, 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Though the SNS User card is necessary, in emergency situations, the health center will serve you without it.

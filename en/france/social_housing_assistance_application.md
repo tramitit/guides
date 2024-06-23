@@ -41,7 +41,7 @@ These documents can be uploaded during the application process online.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In France, three types of social housing are available; Very Social Housings (THS), Social Housings (LS) and Intermediate Housings (LI). Each housing type has different income thresholds with THS having the lowest and LI the highest.

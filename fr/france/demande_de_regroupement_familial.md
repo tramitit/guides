@@ -40,7 +40,7 @@ Ce processus est idéal pour les résidents hors UE ayant des membres de leur fa
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 ## Détails supplémentaires
 Veuillez noter que le processus de demande peut être long et compliqué. Assurez-vous de vérifier les délais de traitement et les coûts sur les sites pertinents et d'avoir tous les documents prêts avant de commencer votre demande.
 

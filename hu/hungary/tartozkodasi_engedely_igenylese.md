@@ -40,7 +40,7 @@ Az Európai Unión kívüli állampolgárok, akik több mint 90 napot terveznek 
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Néhány külföldi állampolgár, aki nem igényel vízumot az utazáshoz a Schengen övezetben (pl. amerikai állampolgárok), Magyarországon tartózkodva turistáként is kérvényezhetik tartózkodási engedélyüket. Másoknak először D típusú vízumra van szükségük Magyarországra való belépéshez, ahol átválthatnak tartózkodási engedélyre. Azok, akik bankszámlát akarnak nyitni Magyarországon, meg kell várják, amíg jóváhagyják az engedélyüket.

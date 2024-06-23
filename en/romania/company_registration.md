@@ -44,7 +44,7 @@ All these documents must be original, valid, and certified by the appropriate au
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The exact requirements may vary by the jurisdiction and the specific type of company you want to establish.

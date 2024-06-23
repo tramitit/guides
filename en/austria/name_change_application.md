@@ -37,7 +37,7 @@ You may need the following documents, among others:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The change of name is a serious matter in Austria and requests are not easily approved. The rulers typically only permit a name change for compelling reasons.

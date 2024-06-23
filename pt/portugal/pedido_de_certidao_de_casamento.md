@@ -39,7 +39,7 @@ Certificados de casamento podem ser solicitados pelo próprio casal, seus descen
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 A taxa exata e o tempo de processamento podem variar. Para casos urgentes, pode haver um serviço acelerado disponível mediante taxa adicional. Entre em contato com o registro civil ou seu provedor de serviços para obter as informações mais atualizadas.

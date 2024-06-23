@@ -35,7 +35,7 @@ Povolenie je nevyhnutné pre jednotlivcov, staviteľov, podnikateľov alebo spol
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Doba spracovania žiadosti o stavebné povolenie sa môže líšiť v závislosti od zložitosti vášho projektu, úplnosti vašej žiadosti a pracovnej záťaže stavebného úradu.

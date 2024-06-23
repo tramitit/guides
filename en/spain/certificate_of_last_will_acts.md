@@ -34,7 +34,7 @@ Executors, heirs, and legal representatives who need to manage or distribute the
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that processing times may vary depending on the time of year and workload of the registry office. Ensure all documents are correctly filled out and submitted to avoid delays.

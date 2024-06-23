@@ -38,7 +38,7 @@ Osoby, które przeszły znaczące zmiany w swoich dokumentach tożsamości mogą
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Upewnij się, że zaktualizujesz wszystkie miejsca, w których używano Twego starego dowodu osobistego. Mogą to być Twoje banki, szkoły lub miejsca pracy, dla poprawnych danych.

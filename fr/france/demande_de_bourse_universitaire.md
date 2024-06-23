@@ -46,7 +46,7 @@ Ce guide s'adresse principalement aux étudiants recherchant une aide financièr
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Assurez-vous de postuler dès l'ouverture de l'opportunité de bourse, car certaines bourses ont des places limitées qui se remplissent rapidement. Assurez-vous toujours de remplir toutes les exigences avant de postuler pour augmenter vos chances de réussite. N'oubliez pas, ce n'est pas toujours une question de succès académique - les échanges culturels, le sport et le service communautaire sont également valorisés. Faites en sorte que votre candidature se démarque!

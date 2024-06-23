@@ -37,7 +37,7 @@ This guide is primarily meant for seniors seeking assisted living options as wel
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Make sure to ask about the services offered by the home, such as medical care, recreational activities, food services, etc. before making a decision. Also, reviews or recommendations from others might be helpful during the selection process.

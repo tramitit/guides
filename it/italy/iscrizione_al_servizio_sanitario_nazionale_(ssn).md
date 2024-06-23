@@ -39,7 +39,7 @@ NB: La copertura di solito inizia dal momento della registrazione ed è valida p
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli Aggiuntivi
 Ricorda di rinnovare la tua registrazione ogni anno. Anche se la copertura del SSN è completa, alcuni servizi potrebbero richiedere un ticket. Verifica sempre se il servizio particolare ha bisogno di questo. Inoltre, la copertura del SSN potrebbe non estendersi durante i viaggi all'estero, quindi potrebbe essere necessaria un'assicurazione sanitaria aggiuntiva per i viaggi internazionali.

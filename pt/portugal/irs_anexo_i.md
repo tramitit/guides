@@ -45,7 +45,7 @@ Certifique-se de que todos os documentos são obtidos de fontes confiáveis e es
 ## Entidades que podem realizar este procedimento para si
 _(Estamos atualmente a selecionar os melhores prestadores de serviços. Se é ou conhece um prestador de serviços, por favor contacte-nos ou edite diretamente a página)_
 | Prestador        |     Website     |     Prazos    |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - **Rendimentos Estrangeiros**: Ao declarar rendimentos de fontes estrangeiras, é importante seguir diretrizes específicas sobre taxas de câmbio e documentação necessária.

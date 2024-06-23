@@ -38,7 +38,7 @@ The following documents are required when applying for the International Certifi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Application timeline: The standard processing time for the application is approximately two weeks. An express service is not available.

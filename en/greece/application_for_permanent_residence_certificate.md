@@ -35,7 +35,7 @@ Non-native individuals who have been living in Greece for a significant period (
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 * This process can take several weeks or even months, depending on the backlog of applications and the thoroughness of local authorities.

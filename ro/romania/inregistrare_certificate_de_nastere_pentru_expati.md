@@ -34,7 +34,7 @@ Pentru a obține aceste documente, se recomandă să contactați autoritățile 
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Dacă revendicați cetățenia română prin descendență, trebuie să furnizați dovezi clare ale descendenței românești. Se recomandă să începeți acest proces devreme, deoarece acesta poate dura o perioadă considerabilă din cauza necesității diferitelor documente și posibile necesități de traducere. În plus, certificatele trebuie să fie apostilate sau legalizate, în funcție de țara emitentă. Este întotdeauna recomandat să verificați cu autoritățile române sau cu consilierii legali pentru informații precise și actualizate.

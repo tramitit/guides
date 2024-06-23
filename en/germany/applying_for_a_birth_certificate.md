@@ -33,7 +33,7 @@ Anyone born in Germany, who needs to prove their citizenship, identity, or other
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Processing times can vary significantly, ranging from a few days to several weeks, depending on the specific Standesamt. Regular follow-up might expedite the process.

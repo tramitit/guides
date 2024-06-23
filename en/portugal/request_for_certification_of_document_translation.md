@@ -36,7 +36,7 @@ Individuals who need official translations for their documents. These might incl
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Certain documents may require an additional level of certification known as an Apostille, which certifies the authenticity of the signature on the translation.

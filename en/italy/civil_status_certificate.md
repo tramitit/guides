@@ -31,7 +31,7 @@ The primary document required is a written request which you need to present to 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that these procedures can vary slightly based on the town or city's specific requirements. It is recommended to contact the local municipality for accurate and up-to-date information. Additionally, if you are requesting this certificate for marriage purposes, the certificate must be dated no more than six months before the marriage date.

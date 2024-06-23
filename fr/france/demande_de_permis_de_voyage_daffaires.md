@@ -43,7 +43,7 @@ Les personnes qui pourraient avoir besoin d'un permis de voyage d'affaires sont 
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Le délai de traitement des permis de voyage d'affaires varie d'un pays à l'autre, et parfois même au sein de différentes ambassades du même pays. Il est préférable de faire la demande bien avant la date de voyage prévue. Le permis ne garantit pas l'entrée dans le pays, car la décision finale appartient aux agents d'immigration à votre point d'entrée. Assurez-vous toujours de respecter toutes les lois, réglementations et sensibilités culturelles de votre pays d'accueil.

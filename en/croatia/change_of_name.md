@@ -38,7 +38,7 @@ The ideal customer profile includes anyone who needs to change their personal in
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Always remember to communicate with relevant organizations about your new name to prevent unexpected issues such as identity inconsistencies and others. In the context of ticket purchasing or games, changing your name might not be authorized or available in all cases, therefore always validate such options beforehand. Be sure to acknowledge all implications and possible consequences that a name change might imply.

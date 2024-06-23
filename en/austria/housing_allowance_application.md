@@ -35,7 +35,7 @@ You may need to provide the following documents to verify your eligibility and s
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Housing allowance is reviewed on a yearly basis. You need to reapply every year to continue receiving the benefits.

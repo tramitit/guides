@@ -41,7 +41,7 @@ Any individual who is born in Austria will need this document for various purpos
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Most Standesamt offices have online platforms now where you can also apply for a birth certificate.

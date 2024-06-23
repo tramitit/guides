@@ -43,7 +43,7 @@ The required documents may vary according to the type of work permit that's bein
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The work permit is issued in 30 days from the date of submission of the application, and its validity period is the same as the duration of the individual employment contract.

@@ -33,7 +33,7 @@ Azoknak, akik felelősek a halál bejelentéséért Magyarországon, mint a hozz
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Egyes esetekben, különösen történelmi halálesetek esetén, a feljegyzések lehetnek vallási intézményeknél. Az 1895 előtti halálesetek esetén vedd fel a kapcsolatot az adott egyházzal vagy vallási intézménnyel. Magyarország Nemzeti Levéltára is rendelkezhet feljegyzésekkel, keresd fel weboldalukat további információkért: [http://www.mnl.gov.hu/](http://www.mnl.gov.hu/)

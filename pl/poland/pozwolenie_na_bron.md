@@ -39,7 +39,7 @@ Każda osoba zamierzająca legalnie posiadać, zakupić lub nosić broń w Polsc
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Noszenie ukrytej broni palnej w miejscu publicznym jest dozwolone tylko dla posiadaczy licencji na obronę osobistą. Pamiętaj, aby odnawiać swoją licencję, ponieważ jest ważna tylko przez ograniczony czas - 1 rok na obronę osobistą, 5 lat na strzelanie sportowe i 10 lat na myślistwo i kolekcjonowanie. Nabycie amunicji wymaga oddzielnego zezwolenia.

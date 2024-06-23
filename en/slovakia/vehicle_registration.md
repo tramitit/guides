@@ -37,7 +37,7 @@ Any person who purchases a new or used vehicle, or imports a vehicle, in Slovaki
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Note that imported vehicles may have additional costs related to the differences in standards or emission norms. 

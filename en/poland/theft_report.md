@@ -33,7 +33,7 @@ Any individual who has experienced theft in Poland, either as a victim or a witn
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Always remember to keep a copy of the theft report for your records.

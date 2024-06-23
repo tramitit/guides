@@ -35,7 +35,7 @@ Please note that contributions to social insurances should be made monthly and i
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The rates for social insurance contributions change every year. Keep up to date using this [link](https://www.cssz.cz/en/social-insurance/mandatory-and-voluntary-insurance/contributions).

@@ -37,7 +37,7 @@ You may be required to present the following documents, among others, depending 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The pricing and procedure can vary from place to place. In some cases, you may need to apply through a consulate or local embassy. Additionally, some governments may have requirements for residents to convert to local driving licenses after a certain period of time living in the country. Make sure to check the local regulations thoroughly before and during the renewal process.

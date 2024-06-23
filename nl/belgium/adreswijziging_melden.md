@@ -35,7 +35,7 @@ Iedere persoon die is verhuisd binnen zijn huidige stad/gemeente of naar een nie
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Bijkomende details
 Houd er rekening mee dat de procedure en regelgeving mogelijk iets verschillen tussen verschillende gemeenten. Wanneer u verhuist naar een andere stad of gemeente, zorg er dan voor dat u zich uitschrijft bij de vorige stad/gemeente. Het melden van een adreswijziging heeft geen invloed op diensten zoals werkloosheidsuitkeringen, maar het is cruciaal om uw adres up-to-date te houden bij deze instanties voor vlotte communicatie.

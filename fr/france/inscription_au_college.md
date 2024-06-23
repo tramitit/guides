@@ -40,7 +40,7 @@ Veuillez noter que les exigences peuvent varier en fonction de l'école spécifi
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Veuillez noter que le système éducatif français est différent de celui de nombreux autres pays. Il est important de se familiariser avec la structure et le programme avant d'inscrire votre enfant. Si votre enfant a des besoins éducatifs spéciaux, veuillez informer l'école car le système français dispose de programmes et de ressources pour aider. De plus, si vous envisagez d'inscrire votre enfant dans un collège international ou bilingue du pays, assurez-vous de bien vous renseigner à l'avance car la concurrence pour les places peut être élevée.

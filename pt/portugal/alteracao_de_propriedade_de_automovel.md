@@ -35,7 +35,7 @@ Este serviço é necessário por qualquer pessoa que tenha vendido seu carro par
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - Pode haver penalidades se você não concluir o procedimento de mudança de propriedade rapidamente após a venda do veículo.

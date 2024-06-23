@@ -35,7 +35,7 @@ Whether you are an international person planning to stay in France for a long pe
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - If your foreign driving license is not in French, it is required to be translated by a certified translator.

@@ -34,7 +34,7 @@ Qualquer cidadão de Portugal que deseje viajar para fora de Portugal e não ten
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 O requerente deve ter em mente que os prazos podem variar dependendo da demanda e diferenças regionais. Em segundo lugar, os custos podem variar - a entrega normal para um adulto é de aproximadamente 65 euros, urgente é 85 euros e super urgente é 95 euros. É mais barato para crianças. Sempre verifique os preços e requisitos atuais no website oficial do SEF.

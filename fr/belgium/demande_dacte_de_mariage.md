@@ -35,7 +35,7 @@ Voici les documents généralement requis lors de la demande d'un certificat de 
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 N'oubliez pas de vérifier avec les autorités locales ou le site web du gouvernement concerné pour obtenir les informations les plus à jour car les réglementations peuvent changer. Notez également qu'il est nécessaire que votre certificat de mariage soit reconnu dans le pays où vous vous êtes marié ainsi qu'en Belgique.

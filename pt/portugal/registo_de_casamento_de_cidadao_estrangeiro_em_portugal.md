@@ -50,7 +50,7 @@ Qualquer estrangeiro que pretende se casar com um cidadão português, ou qualqu
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Todos os documentos fornecidos não devem ter mais de seis meses na data da submissão. Se um dos parceiros for viúvo ou divorciado, eles devem apresentar a documentação relevante (certidão de óbito ou documento de divórcio). Para circunstâncias específicas ou informações adicionais, é aconselhável consultar diretamente o Cartório do Registo Civil. É aconselhável entender completamente todas as implicações legais antes de prosseguir. Assistência adicional também pode ser obtida junto às autoridades de imigração locais e consultores jurídicos. Os custos envolvidos podem variar significativamente, então é recomendável verificar com as fontes oficiais.

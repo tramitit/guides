@@ -35,7 +35,7 @@ ID photos can be obtained from local photo studios or photographers.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please be aware that not having a current and valid driver’s license can hold a hefty fine in many areas and can also disqualify you from obtaining car insurance, or lead to your policy getting canceled. Ensure to check your driver's license expiry date and maintain an updated record.

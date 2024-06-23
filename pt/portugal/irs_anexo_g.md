@@ -59,7 +59,7 @@ Qualquer indivíduo ou entidade que tenha realizado mais-valias com a venda de a
 _(Estamos a reunir os melhores prestadores. Se é ou conhece um prestador, por favor entre em contacto connosco ou edite diretamente a página)_
 
 | Prestador        |     Website     |     Prazos    |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 

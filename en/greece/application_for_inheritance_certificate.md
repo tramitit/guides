@@ -35,7 +35,7 @@ Documents largely depend on the type of assets and country of the deceased but c
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Inheritance laws and associated procedures in Greece can be complex and require assistance from professionals.

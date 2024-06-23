@@ -38,7 +38,7 @@ This procedure is necessary for guardians who wish to change the name of the chi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that the judge will consider the best interests of the child when deciding whether to grant a name change. Courts commonly consider the length of time the child has used the current name, the impact of a change on the child's relationship with each parent, and the reasons for the requested change.

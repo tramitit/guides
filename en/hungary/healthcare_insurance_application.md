@@ -36,7 +36,7 @@ Healthcare insurance can benefit anyone, and it's particularly important for exp
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Take note that the costs and timelines can vary depending on individual circumstances, including your age, health condition, and selected plan. It is also important to ensure that the selected plan covers your requirements, such as coverage for specific treatments or international coverage if needed.

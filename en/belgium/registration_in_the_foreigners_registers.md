@@ -37,7 +37,7 @@ This service is needed by people who intend to reside in a foreign country for a
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note the requirements for registration may vary depending on the country. It's always advisable to consult with relevant authorities or a migration agent to ensure compliance with all local laws and regulations. Failure to do so may result in fines or other penalties.

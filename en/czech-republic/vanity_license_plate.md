@@ -36,7 +36,7 @@ People who want to add a unique touch to their vehicles or express personal sent
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Be aware that each country has different rules regarding vanity or personalized license plates, including the Czech Republic. Ensuring compliance with these rules is paramount to a successful application. Regulations may include restrictions on offensive or misleading combinations, as well as requirements for the plates to be readable and conform to a standard format. 

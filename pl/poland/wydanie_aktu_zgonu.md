@@ -35,7 +35,7 @@ Bliscy członkowie rodziny, przedstawiciele prawnych, lub każda osoba mająca w
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Po śmierci, polski dowód osobisty lub inne dokumenty tożsamości muszą zostać przekazane do urzędu, w którym zarejestrowano zgon. Zazwyczaj robi to dyrektor pogrzebowy, jeśli jest zaangażowany. Ważne jest, aby upewnić się, że wszystkie informacje podane w aplikacjach i dokumentach są precyzyjne i poprawne, aby uniknąć opóźnień lub komplikacji w uzyskaniu świadectwa zgonu. Nieprawidłowy lub niekompletny wniosek może zostać odrzucony. Osoby przebywające za granicą często mogą załatwić formalności za pośrednictwem swojego lokalnego konsulatu polskiego.

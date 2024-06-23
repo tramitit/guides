@@ -43,7 +43,7 @@ Pamätajte si, že môže byť prospešné, ak sú tieto certifikáty preložen�
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Prosím, všimnite si, že získanie Certifikátu slovenského predkovstva vám automaticky neudelí občianstvo. Potvrdzuje len váš slovenský pôvod, čo môže byť dôležitou súčasťou žiadosti o slovenské občianstvo odvodené od predkov. Kontaktujte veľvyslanectvo alebo konzulát Slovenska pre podrobné informácie o žiadosti o slovenské občianstvo.

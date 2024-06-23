@@ -35,7 +35,7 @@ Cualquier individuo que resida en España y posea activos extranjeros con un val
 ## Proveedores que pueden hacerlo por ti
 
 | Proveedor       |     Sitio Web    |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 | AutoDeclaro | [autodeclaro.es](https://autodeclaro.es/?ref=26) |  5 minutos | desde 35€ |
 
 ## Detalles adicionales

@@ -42,7 +42,7 @@ The Belgian Visa is required for those who are not citizens of Belgium or any of
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Belgian Visa application process might vary slightly based on the country where the application is submitted. Always visit the relevant consulate/embassy/VFS website for the most accurate information.

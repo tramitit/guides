@@ -43,7 +43,7 @@ Note: Always cross-check the document list with the official website as requirem
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Be careful while filling out the application as mistakes can potentially lead to refusal.

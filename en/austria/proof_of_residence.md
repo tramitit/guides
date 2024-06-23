@@ -37,7 +37,7 @@ Any person who has moved to a new country and needs to validate their address fo
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It’s important to remember that the proof of residence procedure can vary between countries and even states, so it’s crucial to research the rules applicable to your specific location. The timeline of processing could vary greatly as well, so ensure you request your documents well in advance. 

@@ -41,7 +41,7 @@ You will need:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In some cases, if paternity is being disputed, or in other complex circumstances, you may also need to hire a lawyer. This may also lead to additional costs. If parents cannot mutually agree on acknowledgement, a court procedure may be initiated for the establishment of paternity. 

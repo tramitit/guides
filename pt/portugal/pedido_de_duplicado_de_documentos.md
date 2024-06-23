@@ -42,7 +42,7 @@ Os documentos necessários podem variar dependendo do tipo de documento que voc�
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Você pode encontrar a exigência de boletim de ocorrência para a duplicação de certos documentos, especialmente se eles foram roubados ou perdidos. Boletins de ocorrência geralmente podem ser obtidos na delegacia de polícia mais próxima ou online no site da [Polícia de Segurança Pública Portuguesa](https://www.psp.pt/).

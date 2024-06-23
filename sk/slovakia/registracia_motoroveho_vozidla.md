@@ -38,7 +38,7 @@ Každá osoba, ktorá si kúpi nové alebo použité vozidlo, alebo dovezie vozi
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Upozorňujeme, že dovozené vozidlá môžu mať ďalšie náklady súvisiace s rozdielmi v štandardoch alebo emisných normách.

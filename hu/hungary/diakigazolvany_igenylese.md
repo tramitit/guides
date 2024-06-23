@@ -34,7 +34,7 @@ Ez a szolgáltatás elsősorban azoknak a diákoknak szükséges, akik Magyarors
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Fontos megjegyezni, hogy miután beszereztél egy diákigazolványt Magyarországon, azt kedvezményes vagy akár ingyenes közlekedésre is használhatod. Ezen kártya szolgál a diákok fő azonosító okirataként Magyarországon, és kedvezményeket nyújthat különböző létesítményekben. Győződj meg róla, hogy minden tanév elején megújítod, különben érvényét veszítheti.

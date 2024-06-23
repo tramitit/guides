@@ -36,7 +36,7 @@ It's primarily for Spanish citizens or residents who are planning to travel arou
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Remember that the TSE does not cover planned medical treatment in another EU country.

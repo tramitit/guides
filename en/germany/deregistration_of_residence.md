@@ -34,7 +34,7 @@ Anyone who has registered a residence (Wohnsitz) in Germany and plans to move ou
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Remember that failing to deregister might result in financial penalties and complications with future registrations or visa applications.

@@ -37,7 +37,7 @@ Pentru ca certificatele să fie recunoscute în afara României, este posibil s�
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Când un cetățean român se căsătorește cu un străin, certificatul de căsătorie trebuie transcris autorităților române. Transcrierea certificatului de căsătorie se realizează la primăriile din România sau la birourile consulare române din străinătate.

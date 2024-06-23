@@ -39,7 +39,7 @@ To register with an educational institution, follow these steps:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please check the institution's specific requirements and registration deadlines before applying. Some institutions or courses may also have prerequisites that need to be met before enrolment.

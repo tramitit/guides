@@ -68,7 +68,7 @@ Below is a list of required documents you need to submit:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The term "arraigo familiar" refers to a specific process to obtain residency based on family ties but is distinct from the residence card procedure, which is specifically for non-EU family members of EU citizens.

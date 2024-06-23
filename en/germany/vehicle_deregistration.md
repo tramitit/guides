@@ -34,7 +34,7 @@ Any vehicle owner in Germany who intends to sell, scrap, or permanently remove t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The de-registration process is pretty straightforward and can usually be carried out right away at the local registration office. However, be sure to check the specific operating hours and the availability of services as they might vary depending on the location. 

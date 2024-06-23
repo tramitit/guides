@@ -40,7 +40,7 @@ This guide is designed for international students aiming to pursue higher educat
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - European students are not required to pay tuition fee for French public universities.

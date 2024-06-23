@@ -45,7 +45,7 @@ Unfortunately, due to confidentiality reasons, websites where these can be obtai
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - An important consideration is that grappling with some aspects of Czechoslovakian and Slovakian history might be necessary since Slovakia was a part of the Czechoslovakian Federation until 1993.

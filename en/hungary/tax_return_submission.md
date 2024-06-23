@@ -36,7 +36,7 @@ Anyone residing in Hungary who has earned an income within a year that is taxabl
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's important to keep a track of all your cryptocurrency transactions to accurately report your gains or losses during tax returns. The Hungarian tax law currently mandates a 15% income tax and 19.5% health contribution on the gain in value from activities related to virtual currency.

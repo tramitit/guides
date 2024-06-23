@@ -36,7 +36,7 @@ Spanish citizens, both resident and non-resident, who possess an expired or soon
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - If your DNI expired while you were outside of Spain, it won't be considered an offence and you can renew it upon return.

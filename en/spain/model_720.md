@@ -34,7 +34,7 @@ Any individual residing in Spain who owns foreign assets with a total value of m
 
 ## Providers that can do it for you
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 | AutoDeclaro | [autodeclaro.es](https://autodeclaro.es/?ref=26) |  5 minutes | from 35€ |
 
 ## Additional details

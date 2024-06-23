@@ -35,7 +35,7 @@ Se estiver no exterior e desejar solicitar uma certidão de nascimento de Portug
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Se necessário para uso internacional, a certidão de nascimento deve ser legalizada através de Apostila. Esta certificação confirma a autenticidade do documento emitido. Este processo pode ser solicitado no Cartório do Registro Civil ou através do Ministério dos Negócios Estrangeiros de Portugal.

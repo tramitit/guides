@@ -41,7 +41,7 @@ Documents may vary somewhat depending on the local tax laws.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In some countries like the Netherlands, taxpayers can file for a tax return or refund on certain types of property taxes (onroerende zaken). The process will be different depending on the country and the type of tax, so make sure to refer to your local or national tax authority website for accurate information. It's also important to note that tax preparation services often have a cost, but they can simplify the process and make sure your return is filled out correctly.

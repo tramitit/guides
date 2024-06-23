@@ -34,7 +34,7 @@ Any individual or entity planning to do business or any activity that requires t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Always protect your TIN and don't share it unless necessary (for example, when requested by a legitimate financial institution or tax authorities).

@@ -37,7 +37,7 @@ Orice persoană care locuiește în România, fie că este nativă sau rezident 
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Vă rugăm să rețineți că pot exista reguli și scutiri diferite în funcție de circumstanțele specifice ale contribuabilului. Consultați întotdeauna legile locale sau un consilier financiar pentru sfaturi mai personalizate. Neconformarea cu obligațiile fiscale poate duce la penalități și consecințe legale.

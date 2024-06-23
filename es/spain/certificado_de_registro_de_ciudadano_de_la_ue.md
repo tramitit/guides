@@ -44,7 +44,7 @@ Cualquier ciudadano de la UE que planea quedarse en España por más de 90 días
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres uno o conoces a alguno, por favor contáctanos o edita la página directamente)_
 | Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - **Plazos**: El proceso suele ser sencillo y a menudo se puede completar en una sola cita si toda la documentación es correcta. Sin embargo, conseguir una cita a veces puede llevar varias semanas.

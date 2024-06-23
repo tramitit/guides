@@ -42,7 +42,7 @@ C'est idéal pour les étudiants ayant besoin d'une aide financière pour couvri
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 N'oubliez jamais que chaque programme de bourse a ses propres exigences et processus. Par conséquent, parcourir attentivement toutes les informations sur la page officielle de la bourse est essentiel. Assurez-vous que votre candidature est soumise avant la date limite. En plus de cela, surveillez votre courrier pour les retours sur votre candidature.

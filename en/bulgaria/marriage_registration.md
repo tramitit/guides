@@ -39,7 +39,7 @@ This process is needed by any couple, either both Bulgarians or with at least on
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - All documents must be newly issued, not older than six months.

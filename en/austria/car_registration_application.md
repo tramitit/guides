@@ -38,7 +38,7 @@ Any individual who has recently purchased a car in Austria or has moved to Austr
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 For individuals importing a car from another EU country to Austria, the procedure is largely similar. Typically, a brief exemption from registration taxes can be obtained if the car is being used for private purposes and not for sale. 

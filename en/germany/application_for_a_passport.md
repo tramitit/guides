@@ -41,7 +41,7 @@ German citizens or individuals with German heritage who want to get a passport f
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - To speed up the process, ensure all documents are up to date, clear, and properly filled out.

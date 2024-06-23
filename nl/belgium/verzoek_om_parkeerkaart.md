@@ -40,7 +40,7 @@ Onthoud om de specifieke vereisten binnen uw rechtsgebied te controleren, omdat 
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Aanvullende details
 - Vergeet niet om uw parkeerkaart te vernieuwen voordat deze verloopt. Gewoonlijk zijn kaarten één jaar geldig.

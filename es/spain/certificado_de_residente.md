@@ -44,7 +44,7 @@ Un certificado de residente en España, comúnmente conocido como "Certificado d
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a algún proveedor, por favor contáctanos o edita la página directamente)_
 | Proveedor        |     Sitio web    |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - Se recomienda encarecidamente verificar cualquier actualización en los requisitos y listas de documentos en los sitios web oficiales del gobierno español, ya que estos pueden cambiar.

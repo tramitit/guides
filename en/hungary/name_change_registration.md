@@ -40,7 +40,7 @@ Remember to always bring the original documents as well as photocopies. You shou
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that name changes may affect other areas of your life, including bank accounts, driver's licenses, and passport. Be prepared to provide updated documents to all relevant entities. In specific cases, the adoption of foreign names may require additional procedures, due to certain restrictions in Hungarian law.

@@ -37,7 +37,7 @@ Qualquer pessoa que pretende operar um veículo motorizado, seja para fins pesso
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 Você precisa ter pelo menos 18 anos para solicitar uma carteira de habilitação. Indivíduos que não passarem no exame de condução podem precisar esperar antes de poder repeti-lo. O período de espera depende dos requisitos específicos estabelecidos pelas autoridades reguladoras de trânsito.

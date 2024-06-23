@@ -66,7 +66,7 @@ Este formulário é normalmente necessário para indivíduos que têm rendimento
 ## Prestadores que podem fazê-lo por si
 _(Estamos atualmente a selecionar os melhores prestadores. Se é ou conhece algum prestador, entre em contacto connosco ou edite diretamente a página)_
 | Prestador        |     Website     |     Prazos    |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - Garanta que todos os montantes sejam introduzidos em Euros.

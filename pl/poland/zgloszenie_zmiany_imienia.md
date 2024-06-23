@@ -38,7 +38,7 @@ Każda osoba, która zmieniła swoje nazwisko i potrzebuje zaktualizować je we 
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Pamiętaj, aby zaktualizować swoje nazwisko wszędzie tam, gdzie jest to konieczne, aby zapewnić spójną identyfikację prawną. Często pomijane miejsca to profile członkowskie linii lotniczych, konta e-mail, rejestracja pojazdów i ubezpieczenie, ubezpieczenia zdrowotne i na życie oraz twój testament lub plan majątkowy.

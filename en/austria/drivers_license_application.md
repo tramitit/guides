@@ -45,7 +45,7 @@ Please note that the process may vary for different classes of driver's license 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The waiting period for a driver's license in Austria is typically around 2 months.

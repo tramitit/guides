@@ -43,7 +43,7 @@ La demande sera alors traitée, et si elle est approuvée, vous commencerez à r
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Il est crucial de fournir toutes les informations correctes et les documents nécessaires pour la demande. Toute forme de fausse déclaration pourrait entraîner des accusations de fraude. Les différents pays ont des conditions différentes pour la qualification aux allocations familiales, assurez-vous de vérifier sur le site Web de votre gouvernement respectif.

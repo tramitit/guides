@@ -44,7 +44,7 @@ Remarque : Vérifiez toujours la liste des documents sur le site officiel car le
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - Faites attention en remplissant la demande car des erreurs peuvent potentiellement entraîner un refus.

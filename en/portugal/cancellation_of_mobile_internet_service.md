@@ -37,7 +37,7 @@ The requirements may vary according to your ISP, but generally, the following do
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Before you proceed with your cancellation, it's best to check for any early termination fees in your contract. If you're within a penalty window, it may be cost-effective to wait until the term is over. Also, be prepared for retention efforts from the ISP, they may try to offer you better deals to keep you in their service. Finally, remember to confirm if there are any devices that need to be returned to avoid additional charges.

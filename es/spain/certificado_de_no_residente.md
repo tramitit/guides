@@ -51,7 +51,7 @@ Cualquier individuo que no pueda o no tenga la intención de establecer residenc
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, contáctanos o edita la página directamente)_
 
 | Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 

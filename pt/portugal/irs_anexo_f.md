@@ -57,7 +57,7 @@ Proprietários de imóveis em Portugal que recebem rendimentos de aluguel de pro
 _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhece um prestador, por favor entre em contato conosco ou edite a página diretamente)_
 
 | Prestador       |     Website     |     Prazos    |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 

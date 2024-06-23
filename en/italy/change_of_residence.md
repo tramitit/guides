@@ -37,7 +37,7 @@ Any individual planning to move to a new location, especially international move
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember to update your address with all different public and private institutions, including but not limited to financial institutions, utility providers, citizenship offices etc. This would ensure a smoother transition and prevent potential bureaucratic issues. Your bank will specifically need proof of address, so keep those documents handy.

@@ -33,7 +33,7 @@ It's usually required by individuals intending to apply for a home loan, credit,
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 1. If you have income from interest, you must declare it as well.

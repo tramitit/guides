@@ -34,7 +34,7 @@ Cualquier empresa que opere en España y participe en transacciones intracomunit
 _(Actualmente estamos seleccionando los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 
 | Proveedor       |     Sitio web    |     Plazos       |      Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 Las transacciones comerciales con otros estados miembros de la UE también requieren la presentación de formularios complementarios para garantizar el cumplimiento tanto de las regulaciones fiscales locales como de la UE. Asegúrate de mantenerte al día con los cambios regulatorios para evitar sanciones.

@@ -54,7 +54,7 @@ Ideal for:
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Registering as an autónomo vs. starting a business: In Spain, being autónomo means you are an individual self-employed professional, whereas starting a business can involve creating a separate legal entity such as a company.

@@ -38,7 +38,7 @@ Questi documenti devono essere presentati nella loro forma originale. Tutti i do
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 - L'importo dell'Assegno di Maternità dipenderà dalle tue circostanze specifiche, inclusi il reddito o il tipo di lavoro.

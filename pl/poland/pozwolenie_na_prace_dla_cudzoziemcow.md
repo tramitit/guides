@@ -37,7 +37,7 @@ Zazwyczaj potrzebne są następujące dokumenty:
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 Zauważ, że mieszkańcy spoza UE mogą pracować w Polsce tylko jeśli posiadają zezwolenie na pracę i pracodawca rozpoczyna proces. Czas trwania tego zezwolenia jest zazwyczaj związany z czasem trwania umowy o pracę, jednak nie przekracza 3 lat i może być przedłużone. 

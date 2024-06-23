@@ -44,7 +44,7 @@ Documentele necesare pot varia în funcție de tipul de permis de muncă pentru 
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Permisul de muncă este emis în termen de 30 de zile de la data depunerii cererii, iar perioada sa de valabilitate este aceeași cu durata contractului individual de muncă.

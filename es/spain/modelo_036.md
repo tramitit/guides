@@ -54,7 +54,7 @@ Ideal para:
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, contáctanos o edita la página directamente)_
 | Proveedor       |     Sitio Web    |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - Registrarse como autónomo vs. comenzar un negocio: En España, ser autónomo significa que eres un profesional autónomo individual, mientras que comenzar un negocio puede implicar la creación de una entidad legal separada, como una empresa.

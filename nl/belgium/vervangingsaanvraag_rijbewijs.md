@@ -35,7 +35,7 @@ Iedereen die zijn rijbewijs heeft verloren of gestolen in België moet dit verva
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Extra details
 Houd er rekening mee dat u zonder een geldig rijbewijs niet mag rijden. Begin dus zo snel mogelijk met de vervangingsprocedure zodra u uw rijbewijs verliest of ontdekt dat het gestolen is. Afhankelijk van uw gemeente kan de vervangingstermijn variëren. Over het algemeen ontvangt u binnen 5-10 werkdagen na de aanvraag een nieuw rijbewijs. De kosten van de vervanging kunnen ook variëren. Het is aanbevolen om contact op te nemen met uw lokale gemeente voor nauwkeurige informatie. Een internationaal rijbewijs kan ook omgezet worden naar een Belgisch rijbewijs volgens een specifieke procedure zoals voorgeschreven door de Belgische wetgeving.

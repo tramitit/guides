@@ -42,7 +42,7 @@ The main documents required include:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It is essential to seek legal advice before going through this process, as it involves crucial legal and financial commitments. The costs will vary depending on the value of the property, the complexity of the transaction, and the fee of the notary and other involved professionals. Please also note that only licensed real estate agents might legally offer real estate brokerage services. Non-compliance with this requirement might lead to significant fines.

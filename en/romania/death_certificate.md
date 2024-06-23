@@ -35,7 +35,7 @@ Any individual who has lost a family member or loved one, such as a spouse, pare
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Usually, the family of the deceased or a designated individual handles the procedure to obtain a Death Certificate. In case the person reporting the death is not a family member, a written mandate may be needed.

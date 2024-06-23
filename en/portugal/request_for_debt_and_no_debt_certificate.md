@@ -36,7 +36,7 @@ You can obtain your CRC report from Banco de Portugal or apply for credit cards 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 CRC reports are crucial for financial stability and opportunities. Managing them responsibly is important for maintaining good financial health.

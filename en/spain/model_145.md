@@ -66,7 +66,7 @@ Any individual residing in Spain who has significant changes in personal or fami
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It's crucial to update this form whenever there's a substantial change in your circumstances to ensure accurate tax withholdings.

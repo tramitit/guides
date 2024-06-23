@@ -38,7 +38,7 @@ Anyone who meets the following criteria:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The procedure may vary slightly depending on your individual situation, so it is crucial to thoroughly research and understand the process.

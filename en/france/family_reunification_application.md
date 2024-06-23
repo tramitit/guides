@@ -40,7 +40,7 @@ This process is ideal for non-EU residents who have family members living in Fra
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that the application process can be long and complicated. Ensure you check the processing times and costs on the relevant websites and have all documentation ready before starting your application.

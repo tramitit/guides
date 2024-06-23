@@ -39,7 +39,7 @@ The specific documents required may vary depending on the situation. However, in
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In Belgium, voting is mandatory once you're registered in the population register. This compares to some countries where voting is optional. Failure to comply with this electoral obligation can lead to penalties such as fines. In addition, the procedure mentioned could vary slightly between the different communes, so it's always recommended to check the local rules.

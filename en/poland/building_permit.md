@@ -39,7 +39,7 @@ Please note, all the documents must be in Polish or accompanied by a certified t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It is essential to strictly abide by the approved building project during construction. Any deviations could result in penalties or revocation of the building permit.

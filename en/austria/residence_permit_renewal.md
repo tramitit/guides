@@ -43,7 +43,7 @@ Any foreign nationals - students, workers, or other individuals - who plan to st
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 MA35 sometimes can be unresponsive. Patience is key, and you may need to send multiple emails or make multiple calls to get a response. 

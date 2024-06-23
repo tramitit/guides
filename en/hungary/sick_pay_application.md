@@ -38,7 +38,7 @@ Any employee who needs to take some time off work due to illness could benefit f
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Note that procedures for sick pay application may vary by location and company. It is also worth noting that in some cases, your absences due to medical appointments such as dentist visits may also qualify for sick leave, as noted in some California state jobs.

@@ -63,7 +63,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor o conoces a alguno, por favor contáctanos o edita la página directamente)_
 
 | Proveedor       |     Sitio Web    |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - Asegúrate de contar con certificados digitales válidos para envíos en línea.

@@ -49,7 +49,7 @@ Personas que estén lidiando con trámites de inmigración, documentación de re
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor o conoces uno, contáctanos o edita la página directamente)_
 | Proveedor        |     Sitio web      |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - Algunos usuarios han mencionado que podría ser posible pagar la tarifa en línea a través de aplicaciones bancarias específicas si tienes una cuenta bancaria española.

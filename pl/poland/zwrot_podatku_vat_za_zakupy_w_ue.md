@@ -36,7 +36,7 @@ Osoby niebędące mieszkańcami UE, które dokonują zakupów detalicznych w ram
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Warto zauważyć, że nie wszystkie towary kwalifikują się do zwrotu VAT. Pewne wydatki, takie jak noclegi w hotelu czy posiłki w restauracji, zazwyczaj nie są wliczane. Zwrot może potrwać pewien czas (nawet kilka tygodni), dlatego zaplanuj odpowiednio. Ponadto niektóre sklepy mogą nie brać udziału w programach zwrotu VAT, a niektóre mogą wyznaczyć minimalną kwotę zakupu, aby się kwalifikować, dlatego zawsze lepiej zapytać przed dokonaniem zakupu.

@@ -43,7 +43,7 @@ Anyone who was born in Greece and needs to document their birth, those wanting t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Greek dual citizenship applicants may need to provide additional documents related to their family's heritage. Be aware that application forms and procedures might change over time, so be sure to check the respective country's official government websites for the most up-to-date information. Greeks living abroad can also consult their closest Greek Embassy or Consulate to assist in their application process.

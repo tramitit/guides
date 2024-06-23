@@ -37,7 +37,7 @@ Any Spanish citizen planning to travel abroad needs a passport.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Any Spanish citizen regardless of their age can apply for a Spanish passport, but minors need to be accompanied by their parents or legal guardians. The passport validity period depends on the holder's age. The validity is 2 years for up to age 5, 5 years for ages 5-30, and 10 years for those over 30.

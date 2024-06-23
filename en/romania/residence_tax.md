@@ -35,7 +35,7 @@ Any person who resides in Romania, whether a native or a foreign resident is req
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that different rules and exemptions can apply based on the specific circumstances of the taxpayer.  Always refer to the local laws or a financial adviser for more tailored advice. Failure to comply with tax obligations can lead to penalties and legal consequences.

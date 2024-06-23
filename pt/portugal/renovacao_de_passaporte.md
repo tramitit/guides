@@ -40,7 +40,7 @@ Este serviço é necessário para cidadãos portugueses que vivem no exterior cu
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 Lembre-se de verificar os requisitos e procedimentos específicos para o seu consulado local, pois pode haver variações dependendo da sua localização. Você pode ser solicitado a apresentar identificação adicional durante o seu horário agendado, e pode haver requisitos específicos para as fotografias. Sempre verifique as taxas e os métodos de pagamento com o seu consulado, pois estes podem variar.

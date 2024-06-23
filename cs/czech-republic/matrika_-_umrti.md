@@ -35,7 +35,7 @@ Pokud jste přímým členem rodiny nebo vykonavatelem závěti osoby, která ze
 _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem nebo znáte poskytovatele, kontaktujte nás nebo upravte stránku přímo)_
 
 | Poskytovatel    |     Webová stránka  |     Časový plán   |      Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Další podrobnosti
 - **DŮLEŽITÉ:** Je nezbytné nahlásit úmrtí na úřadě matriky do 30 dnů. Nedodržení tohoto termínu může mít trestní následky.

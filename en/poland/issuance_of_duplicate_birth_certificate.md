@@ -43,7 +43,7 @@ Any citizen or individual of Polish origin who does not currently hold their ori
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The application process can often be expedited if you apply directly at the registry office in person. However, you may also send someone on your behalf with a notarized power of attorney document.

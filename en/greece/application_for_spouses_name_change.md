@@ -35,7 +35,7 @@ The following documents are required:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that this process is applicable to Greece. The trend of women changing their last name after marriage varies greatly in Europe due to cultural, social, and legal reasons. Also remember to inform all relevant parties about your new name to avoid any potential issues. This includes your employer, bank, and any other institutions you have a relationship with.

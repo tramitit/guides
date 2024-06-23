@@ -36,7 +36,7 @@ EU citizens who are planning to live, work, or study in the Czech Republic for m
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The temporary residence certificate is not the same as a residence permit. The residence certificate confirms your right as an EU citizen to stay in the Czech Republic for more than 30 days; however, it does not grant you the status of a resident.

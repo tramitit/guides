@@ -38,7 +38,7 @@ Qualquer pessoa que cumpra os seguintes critérios:
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - O procedimento pode variar ligeiramente dependendo da sua situação individual, por isso é crucial investigar e entender completamente o processo.

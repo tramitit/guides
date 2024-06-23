@@ -34,7 +34,7 @@ Ideal for tourists, temporary residents, and long-term residents who frequently 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The transport card will cover travel within the specified zones and transport mediums it was bought for.

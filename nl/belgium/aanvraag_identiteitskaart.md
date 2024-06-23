@@ -34,7 +34,7 @@ Elke buitenlander die geregistreerd en verblijvend is in België en Belgische bu
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Extra details
 - Als u uw pincode vergeet, kunt u een nieuwe aanvragen bij de lokale gemeente of het federale portaal (https://www.ibz.rrn.fgov.be).

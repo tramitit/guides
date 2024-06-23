@@ -47,7 +47,7 @@ These are typically the documents required:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that the driving laws and regulations can vary between the different regions of Belgium, and it is important to verify the specific requirements with the relevant local authorities. If exchanging a foreign license, depending on your country of origin, you may be required to take a theoretical and/or practical examination.

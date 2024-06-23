@@ -37,7 +37,7 @@ Please, make sure to verify the exact documents needed as they may vary.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Each exemption has a specified duration, after which it must be renewed. Some exemptions are permanent but will still require periodic confirmation. For foreign citizens living in Italy, the exemption also extends to family members. For visually impaired citizens, exemption from healthcare costs is possible, but conditions apply. Always consult with your healthcare provider or local ASL for accurate information.

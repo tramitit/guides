@@ -42,7 +42,7 @@ The following documents may need to be provided:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's crucial to update your data regularly with INPS, especially in the event of a change in your family condition like a new birth, a death, or a divorce. Payments are stopped if the child no longer resides in Italy, or in case of the death of the holder of the right. All updates will affect the amount of the benefit.

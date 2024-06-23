@@ -33,7 +33,7 @@ Any EU citizen who plans to live in Portugal for more than three months should r
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that the process can vary slightly depending on the city or parish. It's recommended to contact your specific local office in advance to confirm their requirements. Once you've obtained your Registration Certificate, it's important to carry it with you at all times while in Portugal.

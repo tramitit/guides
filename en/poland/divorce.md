@@ -43,7 +43,7 @@ This process is pertinent for any married couple residing in Poland who mutually
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 While filing for divorce, whether it is consensual or contested, it's better to seek legal advice to handle the process smoothly. Child custody, distribution of assets and other challenging issues can be solved efficiently by legal professionals.

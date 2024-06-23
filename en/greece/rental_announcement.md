@@ -37,7 +37,7 @@ Landlords or owners of rental properties in Greece, or property investors who wi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's essential to ensure that any rental announcements abide by fair housing laws and don’t discriminate against potential tenants. Be prepared for the process of screening potential tenants and managing your property, or consider hiring a property management company to handle these details for you.

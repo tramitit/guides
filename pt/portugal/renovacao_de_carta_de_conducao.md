@@ -37,7 +37,7 @@ Poderá ser necessário apresentar os seguintes documentos, entre outros, depend
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Os preços e procedimentos podem variar de local para local. Em alguns casos, pode ser necessário solicitar através de um consulado ou embaixada local. Além disso, alguns governos podem ter requisitos para que os residentes convertam para cartas de condução locais após um certo período de tempo a viver no país. Certifique-se de verificar minuciosamente as regulamentações locais antes e durante o processo de renovação.

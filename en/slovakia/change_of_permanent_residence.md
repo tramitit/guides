@@ -35,7 +35,7 @@ It is needed by anyone wishing to officially designate and register a new place 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Moving to Slovakia and becoming a resident may also present opportunities for obtaining citizenship, especially for people with Slovakian ancestry. It's recommended to understand the civic responsibilities associated with changing your permanent residence, such as changes to voting rights, tax obligations, etc. Both Slovakian citizens and foreign nationals living in Slovakia may need to go through this process when they decide to move within the country.

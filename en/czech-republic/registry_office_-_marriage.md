@@ -40,7 +40,7 @@ The specific documents requested may vary depending on the specific country's re
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In the Czech Republic, any name changes as a result of marriage need to comply with the legal standards. Women generally have the option to take their husband's surname or keep their own. If you are a foreigner and your home country has different rules for name change upon marriage, the Czech Office of Vital Records will respect those rules.

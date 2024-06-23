@@ -40,7 +40,7 @@ To obtain a certified copy of a notarial document, you may need to present:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - A certified copy of a document may be needed for real estate transactions, setting up a company, and other administrative processes in Hungary.

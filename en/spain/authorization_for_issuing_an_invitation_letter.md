@@ -39,7 +39,7 @@ This authorization is needed by:
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Appointment Booking Issues**: If you experience issues booking an appointment, try refreshing the page or checking at different times of the day.

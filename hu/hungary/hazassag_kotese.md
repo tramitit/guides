@@ -34,7 +34,7 @@ Ez a vezető ideális magyar állampolgárok, lakosok és külföldiek számára
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 - A folyamat kissé eltérhet külföldiek vagy nem-lakosok esetén. Ezért javasolt konzultálni a helyi kormányhivatallal vagy egy jogi tanácsadóval, aki jártas a magyar házassági törvényekben.

@@ -40,7 +40,7 @@ You will need the following documents to process a preschool enrolment:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The registration process, timelines and requirements may vary slightly from one school to another. It is therefore important to reach out to your chosen school well in advance to understand their specific procedures and requirements. Always keep copies of all the documents you submit for your records.

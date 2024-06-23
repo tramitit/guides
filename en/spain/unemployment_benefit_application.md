@@ -37,7 +37,7 @@ Anyone who has become involuntarily unemployed in Spain and has contributed to t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember, you must keep up your obligations as a job seeker. This means you must attend all mandatory courses or meetings, and actively seek work, or your benefits might be stopped. Regular check-ins will be conducted to verify that you are actively seeking employment. Make sure you are aware of your obligations once your claim has been approved.

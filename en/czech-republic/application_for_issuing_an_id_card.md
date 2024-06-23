@@ -37,7 +37,7 @@ Any person who resides in the Czech Republic and wishes to have a valid form of 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 According to the source, an ID card usually takes around 2-3 weeks to be processed and issued. The cost of application varies depending on the urgency and the applicant's age. In any case, valid proof of identity and/or status of residence is required. The specific requirements and fees can be confirmed with the Department of the Interior.

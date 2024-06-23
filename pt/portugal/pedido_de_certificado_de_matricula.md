@@ -32,7 +32,7 @@ Qualquer pessoa que possua um veículo em Portugal ou esteja procurando importar
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Lembre-se de verificar os padrões de emissão do seu veículo, pois Portugal possui requisitos rigorosos de limite de emissão. As verificações regulares são obrigatórias. Faça uma inspeção veicular abrangente após o registro, em um centro autorizado.

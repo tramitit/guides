@@ -37,7 +37,7 @@ This process is necessary for non-EU family members of an EU citizen who intend 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Before rushing the appointment, ensure you have all documents ready. Documents that you obtain from your country need to be properly translated into Spanish and apostilled. It is also a good idea to have your EU family member with you during the procedure. The process can take up to 3 months for the card to be ready for pick up, but you'll have a A4 size paper that serves as temporary residence document. If you leave Spain in the meantime, it is advisable to have a return ticket and this paper as proof of your application. 

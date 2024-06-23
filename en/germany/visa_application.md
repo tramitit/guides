@@ -47,7 +47,7 @@ To obtain these documents, you need to contact relevant institutions such as you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Processing time for visa applications can vary depending on the embassy, consulate, or time of year. It's advisable to apply as early as possible.

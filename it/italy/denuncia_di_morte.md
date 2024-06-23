@@ -35,7 +35,7 @@ Ogni individuo responsabile della gestione della successione del defunto, come s
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli Aggiuntivi
 - Il certificato di morte può essere utilizzato per gestire tutte le successive questioni amministrative legate alla successione del defunto, tra cui, ma non solo, questioni bancarie, trasferimenti di proprietà e questioni di eredità.

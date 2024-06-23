@@ -40,7 +40,7 @@ Každý, kto je ženatý a chce legálne ukončiť svoje manželstvo.
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Dĺžka celého procesu rozvodu sa môže výrazne líšiť v závislosti na faktoroch ako ochota strán spolupracovať, zložitosť prípadu rozvodu a kapacita súdu.

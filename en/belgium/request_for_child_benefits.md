@@ -37,7 +37,7 @@ These documents will need to be translated into either French or Dutch if they a
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Non-resident parents in an international institution may apply for child benefits directly through FAMIFED.

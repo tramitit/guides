@@ -43,7 +43,7 @@ Typically, individuals who are applying for jobs that require a high degree of r
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Different countries have different laws and procedures regarding the disclosure of criminal records. It is therefore crucial to understand the local rules and regulations in your area. If you are applying for a visa or residency in another country, you may be required to provide a Criminal Record Certificate from your current or previous countries of residence.

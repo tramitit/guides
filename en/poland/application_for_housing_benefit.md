@@ -36,7 +36,7 @@ The benefit is particularly useful for people who are unemployed, on a low incom
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 If your circumstances change, it is important that you inform your local council immediately as changes can affect how much benefit you should receive. Also, in some situations, even if you are considered ineligible for Housing Benefit, you may still receive a lesser amount or a 'partial benefit'.

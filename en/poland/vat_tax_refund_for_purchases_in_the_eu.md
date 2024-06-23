@@ -35,7 +35,7 @@ Non-EU residents who make retail purchases within the EU can apply to have the V
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's worth noting that not all goods are eligible for a VAT refund. Certain expenses like hotel accommodation or restaurant meals are typically not included. The refund might take some time to process (up to several weeks), so plan accordingly. Additionally, some stores may not participate in VAT refund schemes, and some may have a minimum purchase amount to qualify, so it's always best to ask before you make a purchase.

@@ -35,7 +35,7 @@ Ta usługa jest niezbędna dla każdego, kto stracił pracę i obecnie szuka now
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 - Warto zauważyć, że wysokość zasiłku dla bezrobotnych, do którego masz prawo, zależy od twoich poprzednich zarobków.

@@ -48,7 +48,7 @@ The ID card application procedure is necessary for all Greek residents needing a
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
    - In Greece, ID cards are important and required for various purposes like opening a bank account or accessing health services. Ensure it's kept safe and in good condition.

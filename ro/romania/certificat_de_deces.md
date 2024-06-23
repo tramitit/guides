@@ -35,7 +35,7 @@ Orice persoană care a pierdut un membru al familiei sau o persoană dragă, cum
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 - De obicei, familia defunctului sau o persoană desemnată gestionează procedura de obținere a unui certificat de deces. În cazul în care persoana care raportează decesul nu este un membru al familiei, ar putea fi necesar un mandat scris.

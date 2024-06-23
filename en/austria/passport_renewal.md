@@ -39,7 +39,7 @@ To renew your passport, you need:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that the duration of the passport renewal process can vary and may take longer during peak application periods. Ensure to plan your travels accordingly to avoid inconveniences caused by an expired passport. In emergencies, some countries allow expedited services for an additional fee. Please check with the Austrian Passport Service for these details.

@@ -42,7 +42,7 @@ Le visa belge est requis pour ceux qui ne sont pas citoyens de la Belgique ou de
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Le processus de demande de visa belge peut varier légèrement en fonction du pays où la demande est soumise. Consultez toujours le site Web pertinent du consulat/ambassade/VFS pour les informations les plus précises.

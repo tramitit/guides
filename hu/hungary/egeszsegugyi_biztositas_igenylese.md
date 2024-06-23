@@ -37,7 +37,7 @@ Az egészségügyi biztosítás szinte bárkinek előnyös lehet, különösen f
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Fontos megjegyezni, hogy a költségek és időszakok változhatnak az egyéni körülmények függvényében, beleértve az életkorod, egészségi állapotod és a kiválasztott tervet. Fontos azt is biztosítani, hogy a kiválasztott terv fedezze az igényeidet, például a speciális kezeléseket vagy a nemzetközi fedezetet, ha szükséges.

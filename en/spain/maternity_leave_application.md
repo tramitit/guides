@@ -36,7 +36,7 @@ Any working woman who is expecting a child and wishes to take time off from work
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Maternity leave can be taken in a continuous manner or in separate periods, with the agreement of the employer.

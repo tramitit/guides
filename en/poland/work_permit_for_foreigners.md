@@ -36,7 +36,7 @@ The following documents are generally needed:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Note that non-EU residents can only work in Poland if they hold a work permit and the employer starts the process. The duration of this permit is usually tied to the duration of the respective employment agreement, however, it does not exceed 3 years and can be extended. 

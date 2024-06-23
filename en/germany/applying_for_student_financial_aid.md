@@ -38,7 +38,7 @@ Students who are residents of Germany (either EU-citizens or non-EU) and interna
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The amount of BAföG awarded depends on several factors, including the student's income and assets, parents' income, and whether the student lives with their parents or independently.

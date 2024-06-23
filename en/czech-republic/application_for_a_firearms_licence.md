@@ -40,7 +40,7 @@ Both residents and non-residents of the Czech Republic who aspire to own, carry,
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that firearms licenses are not automatically granted. The police have the right to reject your application if you fail to meet any of the requirements or if they suspect that you might misuse the firearm. Therefore, it is important to prepare adequately for the exams and prove that you are capable of owning a firearm responsibly.

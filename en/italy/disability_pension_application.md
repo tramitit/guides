@@ -37,7 +37,7 @@ This service is required by individuals who have chronic illnesses, permanent di
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's important to know that as a recipient, you may need to pay Italian tax on US Social Security. Also, take note of the restrictions in place regarding living overseas, make sure to understand these thoroughly before proceeding with your application in order to avoid future complications. Be prepared for a process that may involve extensive procedural requirements and can sometimes be time-consuming. It is suggested to seek professional advice if possible.

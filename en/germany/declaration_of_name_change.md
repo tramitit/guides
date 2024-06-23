@@ -40,7 +40,7 @@ The required documents might vary depending on the individual situation. However
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional Details
 - The name change process may take several weeks to months, depending on the complexity of your case.

@@ -35,7 +35,7 @@ This service is primarily needed by students who are attending educational insti
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's important to note that after obtaining a student ID card in Hungary, it can be used to access public transportation at a discounted rate or even for free. Also, this card also serves as a primary identification document for students in Hungary and can provide discounts at various facilities. Please ensure that you renew it at the beginning of every academic year otherwise it will cease to remain valid.

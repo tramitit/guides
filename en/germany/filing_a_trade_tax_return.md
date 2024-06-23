@@ -40,7 +40,7 @@ These can usually be obtained through yearly reports from your trading platform,
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Note that the free allowance is 801 Euros for single individuals and 1602 Euros for married couples per year.

@@ -35,7 +35,7 @@ A magyar származású egyének, akik állampolgárságot szeretnének igényeln
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 - Fontos lehet ellenőrizni a helyi hatóságot további dokumentáció vagy a felmenőkkel kapcsolatos kutatások szükséges lehetőségeiről.

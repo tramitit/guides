@@ -40,7 +40,7 @@ This is ideal for international students (non-EU nationals) who want to study in
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 1. It's important to note that the work must not interfere with the student's educational activities.

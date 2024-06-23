@@ -37,7 +37,7 @@ Note: Non-European driving licenses need to be converted to an Austrian (Europea
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It's important to ensure your driver's license is always in good condition and that all details are updated, as necessary.

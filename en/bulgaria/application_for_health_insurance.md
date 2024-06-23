@@ -35,7 +35,7 @@ Anyone living in Bulgaria, especially expatriates, foreign students, digital nom
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The full insurance package usually includes outpatient care, inpatient care (hospitalization), dental care, and emergency medical transportation.

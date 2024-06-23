@@ -35,7 +35,7 @@ Any individual who has lost their passport or had it confiscated or stolen while
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember, after the loss or theft, the passport is invalidated and can no longer be used for travel, even if it's found again. It's important to report the loss immediately to prevent identity theft or other forms of misusage. To reenter your home country, you'll likely need an emergency travel document issued by your embassy or consulate.

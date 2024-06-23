@@ -42,7 +42,7 @@ Individuals who need to prove their birth details for various purposes such as o
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Historical Records**: Finding birth certificates from the 1800s or early 1900s might require visiting or contacting historical archives or church records, particularly if local civil registry records are incomplete.

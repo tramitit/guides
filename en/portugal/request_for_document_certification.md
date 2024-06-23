@@ -38,7 +38,7 @@ The documents needed would depend on the nature of the request. However, some co
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - For documents like Birth Certificates to be used abroad, you might be requested to have an Apostille, which authenticates the document for use internationally.

@@ -42,7 +42,7 @@ The documents required may vary depending on the type of document you want to du
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 You may encounter a police report requirement for the duplication of certain documents, especially if they have been stolen or lost. Police reports can usually be obtained at the nearest police station or online at the [Portuguese Public Security Police](https://www.psp.pt/Pages/homePage.aspx) website.

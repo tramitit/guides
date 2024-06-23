@@ -32,7 +32,7 @@ To register for the broadcasting fee, you will need your personal details and th
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 If there are multiple people in a household, this fee is shared among all, and it is just paid once per household rather than per person. If you move, it's your responsibility to update your new address on the website. Importantly, not paying the broadcasting fee can result in penalties, and it is regarded as a regulatory offence in Germany.

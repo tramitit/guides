@@ -40,7 +40,7 @@ L'obtention de ces documents implique souvent une planification préalable et de
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Les autorisations de voyage ou les visas peuvent être refusés pour diverses raisons ; il est toujours important de faire la demande en temps utile et de fournir des informations complètes et précises. Consultez toujours le site web de l'ambassade ou du consulat concerné pour des informations à jour sur les exigences en matière de visa, car elles sont sujettes à changement.

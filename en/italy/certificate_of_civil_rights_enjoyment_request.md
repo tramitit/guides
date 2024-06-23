@@ -39,7 +39,7 @@ This document is usually required by those applying for Italian citizenship or f
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Issuance of the certificate may take between 7 to 14 days. An expedited service may be available but could entail additional charges. Please, keep in mind that exact requirements and procedures can vary depending on the province and town, it's recommended to check the official website or contact your local authority for the most reliable guidance.

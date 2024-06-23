@@ -38,7 +38,7 @@ Este serviço é essencial para estudantes internacionais que estudam em Portuga
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 O procedimento de renovação e os requisitos podem variar de uma instituição académica para outra em Portugal, portanto, é aconselhável informar-se antecipadamente. Certifique-se sempre de que o seu cartão de estudante está num estado ativo, pois um cartão inativo ou expirado pode prejudicar o acesso a vários serviços e comodidades universitárias.

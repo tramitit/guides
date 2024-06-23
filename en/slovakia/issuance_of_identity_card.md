@@ -37,7 +37,7 @@ Note: If you're applying for your first ID or have lost your ID, additional docu
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Slovak ID card also serves as a health insurance card in Slovakia.

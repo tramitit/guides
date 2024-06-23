@@ -51,7 +51,7 @@ These documents can be obtained from your personal records, invoices, and receip
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **No Income Scenario**: According to user experiences, if you had no income over the fiscal year, you still need to submit Anexo B but you will indicate zero income.

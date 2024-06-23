@@ -46,7 +46,7 @@ You can find the required application forms and other details on the [official A
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Keep in mind that the Schengen area including Austria, has a policy of requiring a verpflichtungserklärung or "obligation letter" from a host in order to allow certain non-EU citizens to visit. Make sure to check with the Austrian Embassy/Consulate regarding any such requirement. Be aware that processing times can vary greatly depending on the time of year and the specific circumstances of your application.

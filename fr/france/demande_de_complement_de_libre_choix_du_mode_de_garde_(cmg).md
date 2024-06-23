@@ -40,7 +40,7 @@ Ce complément est idéal pour les parents actifs ou étudiants ayant des enfant
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - Sachez que le montant de votre complément dépendra de vos revenus, du nombre d'enfants, de l'âge des enfants et du nombre d'heures de garde nécessaires.

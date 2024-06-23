@@ -35,7 +35,7 @@ Family members and relevant parties who need to process legal affairs (inheritan
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember, to obtain a death certificate in Portugal, it's crucial that the death was first reported and registered in this country.

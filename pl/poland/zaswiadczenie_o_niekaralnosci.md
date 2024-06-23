@@ -38,7 +38,7 @@ Przedmioty, które mogą być konieczne do przedstawienia podczas składania wni
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 Prosimy zauważyć, że czasy przetwarzania sprawdzeń karnych mogą się znacznie różnić w zależności od lokalizacji i ilości wniosków, które lokalne władze przetwarzają.

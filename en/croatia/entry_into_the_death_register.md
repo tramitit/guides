@@ -37,7 +37,7 @@ Any apartment dwelling or immediate family member of a deceased person, either C
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Completing the entry into the death register is essential as it officially records the decedent's departure and aids in the execution of their will and estate. It is also recommended to keep multiple copies of the certified death entry to handle any future complications or needs. 

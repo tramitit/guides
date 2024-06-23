@@ -41,7 +41,7 @@ Questa guida può essere utile agli studenti stranieri che desiderano studiare i
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 Il processo di iscrizione può variare da un istituto educativo all'altro, ma in generale valgono le linee guida sopra indicate. È consigliabile verificare il sito web della specifica scuola o università per informazioni più dettagliate sul loro processo di ammissione e requisiti. Le scadenze per la presentazione delle domande sono anche stabilite dalle singole scuole e università, quindi è importante verificare queste date per garantire una presentazione tempestiva delle domande.

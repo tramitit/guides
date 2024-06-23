@@ -37,7 +37,7 @@ Osoby zmieniające swoje dane kontaktowe z powodu przeprowadzki, obaw związanyc
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Rozważ zmianę danych kontaktowych w następujących instytucjach w celu ułatwienia komunikacji:

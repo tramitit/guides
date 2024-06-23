@@ -39,7 +39,7 @@ Marriage certificates can be requested by the couple themselves, their direct de
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Exact fee and processing time may vary. For urgent cases, expedited service may be available for an additional fee. Please contact the civil registry or your service provider for the most current information.

@@ -36,7 +36,7 @@ To obtain these documents, it's advised to contact the relevant issuing authorit
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 If you are claiming Romanian citizenship through descent, you need to provide clear evidence of Romanian heritage. It's advised to start this process early, as it may take substantial time due to the need for various documents and possible translation needs. Additionally, certificates need to be apostilled or legalised, depending on the issuing country. It's always recommended to check with Romanian authorities or legal advisors for the most accurate and up-to-date information.

@@ -37,7 +37,7 @@ Qualsiasi individuo che desidera stabilire la propria residenza in Italia, compr
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli Aggiuntivi
 La registrazione per un certificato di residenza può variare leggermente tra città o province. In generale, devi registrarti entro 20 giorni dal tuo arrivo in Italia. Qualsiasi ritardo potrebbe causare problemi legali e sanzioni. Una volta che hai registrato la tua residenza, hai diritto agli stessi diritti e servizi di un cittadino italiano.

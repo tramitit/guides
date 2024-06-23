@@ -35,7 +35,7 @@ Ha az országból költözik, eladja a járművét, vagy már nem használja a j
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Kérjük, vegye figyelembe, hogy a határidők és költségek változóak és a jármű specifikumaitól függenek. Az lejelentés után ne használja a járművet közterületeken. Továbbá, győződjön meg róla, hogy a lejelentés befejezése után megszünteti az autóbiztosítást.

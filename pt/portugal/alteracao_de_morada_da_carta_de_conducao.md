@@ -37,7 +37,7 @@ Pessoas que se mudaram recentemente e precisam que sua carteira de motorista ref
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Lembre-se, é importante atualizar o endereço em sua carteira de motorista logo após se mudar. Em muitos lugares, é uma obrigação legal, e a falha em fazê-lo pode resultar em multas ou outras penalidades. Também é uma boa ideia verificar os requisitos específicos da sua autoridade local de carteira de motorista, pois o procedimento pode variar entre locais.

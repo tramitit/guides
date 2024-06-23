@@ -40,7 +40,7 @@ This guide is useful for domestic as well as international students looking to m
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Credit transfer is subject to the syllabus and policy of the new institution. It's important to check this beforehand to ensure your hard-earned credits will not be lost.

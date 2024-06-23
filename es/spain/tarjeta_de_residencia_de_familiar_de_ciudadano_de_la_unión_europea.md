@@ -69,7 +69,7 @@ A continuación se muestra una lista de documentos requeridos que debes presenta
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un proveedor o conoces alguno, contáctanos o edita la página directamente)_
 
 | Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - El término "arraigo familiar" se refiere a un proceso específico para obtener residencia basado en lazos familiares, pero es distinto del procedimiento de tarjeta de residencia, que es específicamente para familiares no pertenecientes a la UE de ciudadanos de la UE.

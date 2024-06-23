@@ -37,7 +37,7 @@ Anyone moving house needs to update their ID with their new address. This is par
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 After you have changed your address, ensure to update your information with other institutions as well. This could include your bank, employer, or school. If your address has changed in a different country, you might need to follow additional steps to ensure your rights and access to services are maintained in your new place of residence. Always consult local laws and ordinances regarding any obligations you may have when moving.

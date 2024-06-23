@@ -52,7 +52,7 @@ This guide is ideal for international students looking to study in Austria and n
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The cost of studying in Austria varies and would depend on the chosen university and program of study.

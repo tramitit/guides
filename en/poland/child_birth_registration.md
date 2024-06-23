@@ -36,7 +36,7 @@ The following documents are needed for the registration:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It is important to notify the local USC within 21 days of the birth. Failing to do so may lead to administrative or legal consequences. Remember to also register your child's birth in your home country's embassy or consulate if you are not a resident in Poland. In some cases, simultaneous registration in both Poland and your home country might be required or beneficial. It's recommended to verify this with your local embassy. 

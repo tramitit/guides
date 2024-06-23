@@ -53,7 +53,7 @@ Self-employed individuals (autonomos) and small business owners in Spain who ear
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Failing to submit Model 130 can result in fines and interest on unpaid taxes.

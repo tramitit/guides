@@ -38,7 +38,7 @@ This service is typically needed by individuals who want to change their surname
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Each country has its own laws and procedures regarding name changes after marriage, so be sure to research the specifics for your own situation. 

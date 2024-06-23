@@ -44,7 +44,7 @@ Każdy obywatel lub osoba pochodzenia polskiego, która aktualnie nie ma swojego
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Proces składania wniosku można często przyspieszyć, jeśli złożysz go bezpośrednio osobiście w urzędzie stanu cywilnego. Możesz jednak również przesłać kogoś w Twoim imieniu z notarialnie potwierdzonym dokumentem pełnomocnictwa.

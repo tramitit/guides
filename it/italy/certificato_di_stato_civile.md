@@ -32,7 +32,7 @@ Il documento principale richiesto è una richiesta scritta che devi presentare a
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 Si prega di notare che queste procedure possono variare leggermente in base ai requisiti specifici della città o del paese. Si consiglia di contattare il municipio locale per informazioni precise e aggiornate. Inoltre, se stai richiedendo questo certificato per scopi matrimoniali, il certificato deve essere datato non più di sei mesi prima della data del matrimonio.

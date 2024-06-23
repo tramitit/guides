@@ -35,7 +35,7 @@ All necessary information about your work experience and accomplishments. This c
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Writing your Work Record Book in a clear, concise and professional way can make it more effective. Avoid using jargon and focus on results and accomplishments.

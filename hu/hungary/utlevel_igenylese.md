@@ -49,7 +49,7 @@ Mindig ellenőrizze a legfrissebb követelményeket és rendeleteket a helyi mag
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Minden olyan személyes adat változást be kell jelenteni és módosítani kell a kibocsátó irodánál.

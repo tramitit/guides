@@ -38,7 +38,7 @@ Les candidats idéaux peuvent inclure des employés déménageant pour le travai
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Le processus d'obtention d'un permis de résidence peut être long et nécessite de nombreuses étapes. Il peut y avoir une inspection officielle de votre résidence, et souvent la permission n'est pas accordée avant l'expiration de votre visa. Il est recommandé de commencer le processus le plus tôt possible. Pour les personnes ayant déjà vécu légalement en Belgique pendant cinq ans, elles peuvent demander le statut de résident à long terme. Au-delà de cela, elles peuvent peut-être demander la nationalité belge.

@@ -36,7 +36,7 @@ Note: Some councils may require additional documents. It is advisable to check w
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In Portugal, the issuance of the Residence Certificate is managed at the local level by each council. Therefore, the procedure, required documents, timeline and fees can vary significantly from one council to another. It is thus essential to make inquiries to your local council before starting the process.

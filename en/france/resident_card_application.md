@@ -41,7 +41,7 @@ Any non-French citizen planning to live in France for a period longer than three
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's important to note that some prefectures might accept your application by mail, while others require an in-person appointment. The appointment can sometimes be done online depending on the prefecture. Renewals can also typically be done by mail.

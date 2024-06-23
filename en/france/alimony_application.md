@@ -36,7 +36,7 @@ Anyone who is going through a separation or divorce and requires financial suppo
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional Details
 It's important to know that the judge can adjust the alimony amount if there are significant changes in the financial situation of either party. Also, keep in mind that non-payment of alimony amounts can be prosecuted as a crime in France. Consider reaching out to legal professionals or institutions to understand the detailed course of action in such cases.

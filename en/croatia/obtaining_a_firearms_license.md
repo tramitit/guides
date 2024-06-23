@@ -43,7 +43,7 @@ Any Croatian resident over the age of 18 who meets the necessary requirements ca
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It's important to note that there may be legally mandated waiting periods between applying for a license and purchasing a firearm. 

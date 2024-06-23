@@ -37,7 +37,7 @@ Anyone who is employed or self-employed in Greece and over the age of 18 needs t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - You can call EFKA's hotline 1555 for further information, or refer to their [FAQ page](http://www.efka.gov.gr/faq) for common questions.

@@ -46,7 +46,7 @@ You may be required to provide the following documents:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The separate waste collection service might require you to have different colored bins or bags for different types of waste. The pickup schedule is also different for each waste type, so make sure to check it on your local council's or waste management company's website. Some areas might also have drop-off points for certain types of waste.

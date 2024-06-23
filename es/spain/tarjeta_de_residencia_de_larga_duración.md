@@ -48,7 +48,7 @@ Esta tarjeta es ideal para los nacionales no pertenecientes a la UE que:
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un proveedor o conoces a alguno, contáctanos o edita la página directamente)_
 
 | Proveedor        |     Sitio Web    |    Plazos     |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - **Requisito de Residencia Continua**: Asegúrate de mantener residencia continua en España. Se permiten ausencias, pero no deben exceder los seis meses consecutivos o un total de diez meses dentro de cinco años.

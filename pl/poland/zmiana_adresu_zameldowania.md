@@ -36,7 +36,7 @@ Ta procedura jest wymagana dla każdego, kto mieszka w Polsce i niedawno się pr
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 ## Dodatkowe informacje
 - Konieczne jest wykonanie tego procesu za każdym razem, gdy się przeprowadzasz.
 - Nieaktualizowanie swojego adresu może prowadzić do kłopotów. Na przykład, możesz nie otrzymać ważnych listów lub powiadomień.

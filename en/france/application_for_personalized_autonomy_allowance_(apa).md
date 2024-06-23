@@ -35,7 +35,7 @@ The allowance is ideal for individuals who are above 60 years old and need help 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Each department in France independently handles the process for APA. Waiting times and specific requirements can vary. APA can be used to cover professional care services, technical aids, and home adaptations.

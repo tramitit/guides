@@ -57,7 +57,7 @@ El cliente ideal para el Modelo 151 serían individuos de alto patrimonio neto, 
 _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor o conoces a alguno, por favor contáctanos o edita la página directamente)_
 
 | Proveedor       |     Sitio Web    |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 

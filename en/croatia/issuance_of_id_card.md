@@ -38,7 +38,7 @@ Any citizen of Croatia over the age of 14 is required to have a valid ID card. I
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It's mandatory for every Croatian citizen aged over 14 to possess their ID card and carry it at all times.

@@ -37,7 +37,7 @@ Por favor, note que os requisitos exatos podem variar, então é aconselhável v
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 - Você sempre deve informar seu NIF quando solicitado em transações financeiras.

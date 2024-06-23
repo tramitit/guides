@@ -32,7 +32,7 @@ This guide is intended for anyone who has recently become unemployed in Belgium 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - CAPAC does not charge a membership fee, whereas unions do. It might take longer to process your application at CAPAC due to more crowded conditions.

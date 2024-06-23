@@ -35,7 +35,7 @@ Hier zijn de documenten die meestal nodig zijn bij het aanvragen van een huwelij
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Aanvullende details
 Vergeet niet om te controleren bij de lokale autoriteiten of de gerelateerde overheidswebsite voor de meest actuele informatie, aangezien regelgeving kan veranderen. Let ook op dat het noodzakelijk is dat jouw huwelijksakte erkend wordt in het land waar je getrouwd bent en ook in België.

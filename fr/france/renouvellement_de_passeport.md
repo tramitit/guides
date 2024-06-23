@@ -36,7 +36,7 @@ Tout titulaire de passeport ayant besoin de prolonger sa validité.
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - Les frais de renouvellement de passeport dépendront du type de passeport (biométrique ou non, adultes ou enfants, etc.).

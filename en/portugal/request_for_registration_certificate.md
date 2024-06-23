@@ -32,7 +32,7 @@ Anyone who owns a vehicle in Portugal or is looking to import a vehicle into Por
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember to check the emission standards of your vehicle as Portugal has strict emission limit requirements. Regular checks are mandatory. Pass a comprehensive vehicle inspection after registration, at an authorized center.

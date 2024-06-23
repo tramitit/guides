@@ -35,7 +35,7 @@ Any employee who is going to retire or who has reached the legal retirement age 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The amount of pension you receive will depend on the duration of your career and the amount of your earnings in Belgium. There is also the possibility to accrue further pension entitlements after the age of 65 provided that you continue working. Always keep track of your social security contributions to ensure you receive the maximum possible amount on retirement.

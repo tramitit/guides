@@ -42,7 +42,7 @@ Oto oficjalne strony internetowe do aplikacji o kartę EHIC w zależności od kr
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Pamiętaj, że EHIC nie zastępuje ubezpieczenia podróżnego. Nie obejmuje on prywatnej opieki zdrowotnej ani kosztów takich jak powrót do kraju zamieszkania czy utracone/skradzione przedmioty. Dlatego zaleca się posiadanie zarówno EHIC, jak i ważnej polisy ubezpieczenia podróżnego.

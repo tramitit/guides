@@ -36,7 +36,7 @@ Anybody with children who are dependent on them and under the age of 18. This se
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Every application is evaluated on certain criteria which might include total family income, number of dependents, and special conditions, etc. Make sure to provide all the supporting documents for these details. It's important to notify the relevant office in case of any changes in these details post the application.

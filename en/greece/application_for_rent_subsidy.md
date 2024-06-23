@@ -38,7 +38,7 @@ Certain required documents may vary based on your specific region. Generally, th
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - In some cases, receiving a rent subsidy may be conditioned by the active search for a job or enrollment in a training program.

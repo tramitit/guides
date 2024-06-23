@@ -44,7 +44,7 @@ Toute personne résidant en France, générant des revenus et remplissant certai
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 En France, l'impôt sur le revenu est prélevé sur l'ensemble des revenus du foyer fiscal, comprenant les revenus du travail (salaires, traitements, pensions et rentes), les revenus de biens personnels (revenus de biens meubles, revenus fonciers, etc.) et les bénéfices des activités professionnelles/non professionnelles. La déclaration que vous remplissez sera examinée, et un avis d'imposition vous sera envoyé détaillant votre situation fiscale.

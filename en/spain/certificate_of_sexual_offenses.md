@@ -45,7 +45,7 @@ Anyone planning to work in Spain, particularly in roles involving direct contact
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Book in Advance**: Appointments can be hard to come by, so it’s recommended to book as soon as you know you need the certificate.

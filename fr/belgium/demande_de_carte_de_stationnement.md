@@ -39,7 +39,7 @@ N'oubliez pas de vérifier les exigences spécifiques dans votre juridiction car
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - N'oubliez pas de renouveler votre carte de stationnement avant son expiration. Généralement, les cartes sont valables un an.

@@ -34,7 +34,7 @@ Osoby plánujúce presun do iného štátu alebo prechod na iné zdravotné pois
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie detaily
 Nezabudnite sa postarať o tento proces včas pred plánovaným dátumom presunu alebo zmeny, aby ste dosiahli hladký prechod. Ďalej si pozorne sledujte komunikáciu vášho bývalého poskytovateľa ohľadom potvrdenia vášho odhlásenia. S ohľadom na citlivú povahu zdravotného poistenia môže akékoľvek medzera alebo neočakávané pokračovanie krytia viesť k stresujúcim a nákladným situáciám. Vždy si uistite, že vaše nové poistenie je v platnosti pred odstránením starého, keď prechádzate na iný plán.

@@ -37,7 +37,7 @@ Każdy mieszkający w Polsce, w tym zarówno mieszkańcy polscy, jak i obcokrajo
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe szczegóły
 - Prywatne ubezpieczenia zdrowotne, takie jak Luxmed i Medicover, oferują różne rodzaje pakietów, dostosowanych do różnych indywidualnych potrzeb. Możesz wybrać jeden zależnie od swoich wymagań i budżetu.

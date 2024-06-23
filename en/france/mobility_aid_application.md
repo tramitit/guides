@@ -34,7 +34,7 @@ Anyone with a mobility impairment that restricts their ability to move, whether 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Not all mobility aids will be fully covered by social security, and you may incur costs.

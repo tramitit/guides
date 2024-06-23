@@ -42,7 +42,7 @@ Any Portuguese resident who has received any form of income from foreign sources
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Make sure to have all documents translated to avoid discrepancies.

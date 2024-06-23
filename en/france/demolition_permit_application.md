@@ -38,7 +38,7 @@ Anyone planning to demolish an existing residential or commercial building in Fr
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 * Certain zones or buildings may have additional restrictions or requirements, such as historical buildings or buildings located in agricultural zones.

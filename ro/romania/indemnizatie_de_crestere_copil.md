@@ -41,7 +41,7 @@ Vă rugăm să rețineți că documentele necesare pot varia în funcție de loc
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Valoarea indemnizației pentru creșterea copiilor variază în funcție de mai mulți factori, precum venitul părintelui și numărul de copii din familie. Perioada minimă legală pentru acest tip de concediu este de un an, însă poate fi prelungită până la doi ani, sau chiar trei ani în cazuri speciale. Părinții care decid să lucreze cu normă redusă în timp ce primesc indemnizația trebuie să respecte anumite reguli. Nerespectarea acestora poate duce la amenzi.

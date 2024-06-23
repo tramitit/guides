@@ -39,7 +39,7 @@ Note: Check local requirements as specific requirements may vary.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The amount of housing allowance you receive may vary and is dependent on your income, rent, and household size.

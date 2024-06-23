@@ -41,7 +41,7 @@ Ghidul este ideal pentru persoanele străine care intenționează să stea în R
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 - Durata șederii conform permisului de ședere nu trebuie să depășească 90 de zile.

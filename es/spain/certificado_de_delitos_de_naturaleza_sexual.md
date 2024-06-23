@@ -43,7 +43,7 @@ Cualquier persona que planea trabajar en España, especialmente en roles que imp
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 | Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - **Reserva con anticipación**: Las citas pueden ser difíciles de obtener, por lo que se recomienda reservar tan pronto como sepas que necesitas el certificado.

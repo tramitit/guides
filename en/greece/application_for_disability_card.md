@@ -35,7 +35,7 @@ Please ensure all documents are translated in Greek as you are applying within G
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 If you are a non-EU citizen traveling to Greece, be sure to contact the Ministry of Health in advance to understand the complete process and regulations specific to non-EU residents. Also, being a part of the EU, the documentation might differ slightly, based on different agreements between Greece and your home country. Make sure to have these details clarified before you begin the application process.

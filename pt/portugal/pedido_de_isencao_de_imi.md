@@ -39,7 +39,7 @@ Os documentos devem ser digitalizados e prontos para serem enviados no formulár
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 A isenção deve ser solicitada no ano de aquisição da propriedade ou no ano seguinte. A isenção do IMI é concedida por um período de três anos, se o Valor Patrimonial Tributário (VPT) da propriedade não exceder €125.000 e se o rendimento tributável do IRS do proprietário (sozinho ou com o cônjuge), no ano em que a propriedade foi adquirida, não exceder €153.300.

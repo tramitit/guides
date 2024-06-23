@@ -48,7 +48,7 @@ Veuillez noter que des documents supplémentaires peuvent être nécessaires en 
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Le coût de l'assurance dépendra de la couverture que vous choisissez. Certains assureurs proposent des plans personnalisables, vous permettant de choisir les services dont vous avez besoin en fonction de votre état de santé et de votre budget. L'implication de l'assureur dans les procédures avec les professionnels de la santé varie également d'un assureur à l'autre.

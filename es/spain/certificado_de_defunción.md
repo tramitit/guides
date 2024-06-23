@@ -39,7 +39,7 @@ Un certificado de defunción es necesario para los miembros de la familia direct
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 | Proveedor        |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - **Certificados Bilingües**: Algunos registros pueden ofrecer certificados de defunción en varios idiomas, lo cual puede ser útil si el documento necesita ser utilizado internacionalmente.

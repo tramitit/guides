@@ -40,7 +40,7 @@ Acquiring these documents often involves pre-planning and interacting with relev
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Travel authorization or visas can be denied for various reasons; it's always important to apply in good time and provide full and accurate information. Always consult the relevant embassy or consulate’s website for up-to-date information regarding visa requirements as they're subject to change.

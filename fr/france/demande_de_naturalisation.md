@@ -41,7 +41,7 @@ Notez que certains documents pourraient devoir être légalisés ou apostillés.
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails Supplémentaires
 Veuillez noter qu'une fois la demande soumise, le processus peut prendre jusqu'à un an. Les candidats devront également réussir un entretien sur leur connaissance de la France, de sa culture et de la société. La nationalité française est acccordée à la discrétion du gouvernement même si toutes les conditions sont remplies.

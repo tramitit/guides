@@ -34,7 +34,7 @@ Personas que necesitan pagar tarifas asociadas con su NIE u otro trámite legal 
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 
 | Proveedor        |      Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - Asegúrate de que toda la información proporcionada sea precisa para evitar retrasos o complicaciones en el proceso.

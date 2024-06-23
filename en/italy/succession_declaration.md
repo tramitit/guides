@@ -35,7 +35,7 @@ Anyone who has unexpectedly or potentially received inheritance following the de
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - If the deceased did not leave a will, under Italian law, the succession of assets goes to the next of kin.

@@ -37,7 +37,7 @@ Both residents of Germany and foreigners residing in the country who have bought
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 For foreigners, it is essential to have a permanent residence in Germany before you can register a vehicle. Even if not planning to use the vehicle, insurance is still necessary due to regulations in Germany. You are allowed to keep your existing vehicle registration plates when transferring ownership of a vehicle. If your vehicle registration expires and you fail to renew it, you may face penalties or fines.

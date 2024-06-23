@@ -45,7 +45,7 @@ Tento proces je dôležitý pre ľudí, ktorí si želajú zmeniť svoje krstné
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Dôvody pre zmenu mena môžu zahŕňať osobnú preferenciu, rozvod, sobáš alebo zjednodušenie.

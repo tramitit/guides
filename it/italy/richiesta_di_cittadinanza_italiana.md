@@ -51,7 +51,7 @@ Nota: I documenti specifici richiesti variano in base all'eleggibilità individu
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 La pazienza è fondamentale durante questo processo, poiché talvolta può richiedere fino a due anni per finalizzare la domanda di cittadinanza. Inoltre, potrebbe essere richiesto di avere una comprensione di base della lingua italiana a seconda del percorso di domanda. Infine, mantieniti sempre aggiornato sui cambiamenti dei requisiti o procedure del tuo consolato locale.

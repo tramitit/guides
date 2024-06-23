@@ -37,7 +37,7 @@ Non-Bulgarian residents who plan to stay in Bulgaria for an extended period of t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The duration of the residence permit in Bulgaria depends on the purpose of stay and can be up to 5 years for long-term residents. Renewal before expiration is possible given that all conditions for issuance continue to be met.

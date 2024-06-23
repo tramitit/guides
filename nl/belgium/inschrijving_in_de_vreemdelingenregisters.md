@@ -38,7 +38,7 @@ Deze dienst is nodig voor mensen die van plan zijn om voor een langere periode i
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Aanvullende details
 Let op dat de vereisten voor registratie kunnen variëren afhankelijk van het land. Het is altijd raadzaam om contact op te nemen met relevante autoriteiten of een migratieagent om ervoor te zorgen dat wordt voldaan aan alle lokale wetten en voorschriften. Het niet naleven hiervan kan leiden tot boetes of andere straffen.

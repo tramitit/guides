@@ -35,7 +35,7 @@ This is especially designed for people who have lost their jobs and are currentl
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that during the time you receive the unemployment benefit, you must actively be looking for a job, and should you reject a job offer that matches your skills, you risk losing your benefits. NASpI is calculated on the basis of the average daily wage that you earned in the two years previous to your unemployment. The amount will be reduced after 4 months, and the duration of the payment varies depending on your age and contribution years.

@@ -36,7 +36,7 @@ This process is required for anyone who holds a Greek driver's license, especial
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's important to remember that failing to renew a driver's license before it expires can result in penalties and even a temporary suspension of your license. Therefore, ensure you initiate your renewal process well before your license expiry date.

@@ -38,7 +38,7 @@ These documents should be brought to the local Matični ured to be processed.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Ensure you have made a note of all the required details about the birth (including the city and hospital) to facilitate the process. Non-Croatian speakers may want to approach a local translator, as all the documentation and proceedings will be in Croatian. The exact cost and timelines may vary based on the volume of applications. Do factor in potential delays. If applying from overseas, it's recommended to go through a local consultant or legal representative to expedite the process.

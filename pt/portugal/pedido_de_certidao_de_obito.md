@@ -36,7 +36,7 @@ Familiares e partes relevantes que precisam processar assuntos legais (reivindic
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 Lembre-se, para obter um atestado de óbito em Portugal, é crucial que a morte tenha sido primeiro comunicada e registrada neste país.

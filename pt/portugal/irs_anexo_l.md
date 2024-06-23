@@ -45,7 +45,7 @@ Este formulário é necessário para contribuintes não residentes que tenham ge
 ## Prestadores que podem ajudar
 _(Estamos a selecionar os melhores prestadores. Se é ou conhece um prestador, por favor contacte-nos ou edite a página diretamente)_
 | Prestador        |     Website     |     Prazos    |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - Os não residentes precisam declarar todas as fontes de rendimento geradas em Portugal, mesmo que residam no estrangeiro.

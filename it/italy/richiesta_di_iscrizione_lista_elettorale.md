@@ -35,7 +35,7 @@ La registrazione al Registro Elettorale è il processo attraverso il quale i cit
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 Ricorda, se risiedi all'estero non è solo un tuo diritto ma anche un tuo dovere registrarti presso l'A.I.R.E, come discusso [qui](https://www.esteri.it/mae/it/servizi/italiani-all-estero/serviziconsolari.html). Il mancato rispetto di tale obbligo potrebbe comportare sanzioni. Mantieni sempre aggiornate le tue informazioni sull'A.I.R.E per garantire di essere in grado di votare. In base alla tua situazione, potresti anche essere in grado di votare alle elezioni dell'Unione Europea oltre che a quelle italiane.

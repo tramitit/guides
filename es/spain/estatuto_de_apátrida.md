@@ -51,7 +51,7 @@ Los candidatos ideales para el estado de apatridia son individuos que se encuent
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 | Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 La apatridia viene con importantes desventajas, incluyendo la negación de derechos y servicios básicos. Es crítico para las personas afectadas buscar asistencia inmediata, ya que una apatridia prolongada puede impactar severamente en la calidad de vida y en el estatus legal de uno. Varias organizaciones no gubernamentales y organismos de las Naciones Unidas, como el ACNUR, desempeñan un papel significativo en la ayuda a personas apátridas a nivel global.

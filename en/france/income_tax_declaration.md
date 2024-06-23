@@ -44,7 +44,7 @@ Anyone who resides in France, earns income, and meets certain income thresholds 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In France, income tax is levied on the total income of the fiscal household, which includes income from work (wages, salaries, pensions, and annuities), income from personal property (income from movable property, rental income, etc.), and profit from professional/non-professional activities. The tax return you fill out will be reviewed, and a tax notice will be sent to you outlining your tax situation.

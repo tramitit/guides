@@ -35,7 +35,7 @@ Anyone who is residing in Portugal and is registered with the SNS can make use o
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's important to know that at SNS you should not wait more than 4 months for a specialist appointment. However, it’s recommended that those seeking urgent appointments communicate their urgency to the SNS team. On the SNS Portal, you can keep track of your consultations, exams, prescriptions, and other healthcare services provided by the SNS. It’s a useful tool for managing your healthcare efficiently.

@@ -65,7 +65,7 @@ Este anexo é necessário para contribuintes que:
 _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhece um prestador, entre em contato conosco ou edite a página diretamente)_
 
 | Prestador       |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 

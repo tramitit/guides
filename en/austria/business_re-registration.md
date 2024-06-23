@@ -41,7 +41,7 @@ Note: Documentation requirements may vary based on specific circumstances. Alway
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's essential to keep the authorities updated about any changes in your business status. Failing to do so may result in penalties and could complicate future changes. Also, consider seeking legal advice before making significant changes to your business.

@@ -37,7 +37,7 @@ Anyone planning to reside, work, or conduct any kind of activity that involves t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 While the Codice Fiscale is immediately necessary for most activities, there have been instances where users have been able to secure services like phone contracts without one. However, having an Italian Tax Code will make any administrative dealings in Italy significantly smoother.

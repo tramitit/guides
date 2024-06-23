@@ -44,7 +44,7 @@ A Residence Permit is necessary for non-EU nationals planning to live, work or s
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Depending on the nature of your stay you might need to renew your residence permit at least 30 days before it expires. Also, always check with the Romanian Embassy or Consulate and the General Inspectorate for Immigration for updates and changes in the process.

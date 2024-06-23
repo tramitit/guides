@@ -36,7 +36,7 @@ Primarily, those researching their family's history and individuals applying for
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 For Italy, if you're unsure which military district is relevant, you can request information from all of the districts by addressing your request to the "Ufficio Leva" at the Ministry of Defense in Rome. 

@@ -35,7 +35,7 @@ La dichiarazione di nascita è di solito fatta dai genitori o altri rappresentan
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 - Dopo che la nascita è registrata nel Registro di Nascita, l'ufficio di statistica vitale annoterà questo evento nel Certificato di Stato di Famiglia.

@@ -34,7 +34,7 @@ Typically, you will need:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Length of mandatory pension contribution varies depending on the country and specific retirement plans. Also, it's crucial to note that changing employment doesn't influence your state pension; your contributions are cumulative across all your years of work, regardless of how many employers you have had. You should ensure your contributions are accurately recorded, as mistakes could cost you in your pension payments.

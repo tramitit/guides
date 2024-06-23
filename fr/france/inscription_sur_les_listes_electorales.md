@@ -32,7 +32,7 @@ Tout citoyen français qui a au moins 18 ans le jour de l'élection et n'a pas �
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 N'oubliez pas de prendre une pièce d'identité valide avec vous pour voter. Notez également que les résidents européens non français peuvent voter aux élections européennes et municipales s'ils sont inscrits sur les listes électorales. Ils doivent présenter un permis de résidence valide.

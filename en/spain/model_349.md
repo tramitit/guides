@@ -34,7 +34,7 @@ Any business operating in Spain that engages in intra-community transactions is 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Business transactions with other EU member states also necessitate the submission of supplementary forms to ensure compliance with both local and EU-wide tax regulations. Make sure to stay current with regulatory changes to avoid penalties.

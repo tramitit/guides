@@ -37,7 +37,7 @@ Toute personne en cours de séparation ou de divorce et ayant besoin d'un soutie
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Il est important de savoir que le juge peut ajuster le montant de la pension alimentaire s'il y a des changements significatifs dans la situation financière de l'une ou l'autre des parties. De plus, gardez à l'esprit que le non-paiement de la pension alimentaire peut être poursuivi comme un crime en France. Pensez à contacter des professionnels du droit ou des institutions pour comprendre la démarche détaillée à suivre dans de tels cas.

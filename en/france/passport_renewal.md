@@ -36,7 +36,7 @@ Any passport holder needing to extend its validity.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Passport renewal fees will depend on the type of passport (biometric or not, adults or children, etc.)

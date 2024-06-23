@@ -34,7 +34,7 @@ Minden olyan dolgozó egyén, aki tervezett nyugdíjelőtakarítást szeretne, r
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 A kötelező nyugdíjhozzájárulás időtartama országonként és az adott nyugdíjterveken múlik. Emellett fontos megjegyezni, hogy a munkahelyváltás nem befolyásolja az állami nyugdíját; a hozzájárulások kumulatívak az összes munkavégzési éved alatt, függetlenül attól, hogy hány munkaadója volt. Biztosítania kell, hogy hozzájárulásai pontosan legyenek rögzítve, mivel a hibák költségesek lehetnek a nyugdíjkiegészítések terén.

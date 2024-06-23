@@ -36,7 +36,7 @@ This certificate is most often needed by people who are applying for citizenship
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The complexity and sequence of steps may vary based on the particular language you are taking the exam for. Remember to check with the specific testing center for the most accurate information about the process, requirements, and additional details like fees or preparation materials.

@@ -35,7 +35,7 @@ Rental assistance may be needed by individuals or families who are struggling to
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Make sure to apply for rental assistance as soon as you predict that you might start struggling to pay rent. The process can take several weeks, so it's important to get a head start. Also, keep in mind that each city, county, or state might have its own rental assistance programs so research about the programs available in your area.

@@ -53,7 +53,7 @@ This form is necessary for taxpayers in Portugal who have incurred deductible ex
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Always make sure to have all supporting documentation organized and readily available in case of audits or additional verification by the Portuguese tax authority.

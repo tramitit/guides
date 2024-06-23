@@ -39,7 +39,7 @@ Táto služba je potrebná pre obyvateľov z iných krajín, ktorí chcú žiť 
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Slovenská republika má liberálne politiky týkajúce sa registrácie cudzincov. Avšak, cudzinci, ktorí plánujú zostať na Slovensku 90 dní alebo dlhšie, sú povinní sa registrovať. Tiež je dôležité poznamenať, že ak riadite vozidlo registrované v inej krajine, musíte prejsť procedúrami na registráciu vášho auta na Slovensku na použitie po šiestich mesiacoch pobytu. Tiež, pokiaľ ide o ubytovanie počas vášho pobytu, je dôležité zvažovať kultúrne a spoločenské normy, ktoré Slováci dodržiavajú.

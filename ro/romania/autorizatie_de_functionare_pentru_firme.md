@@ -43,7 +43,7 @@ Toate afacerile care își propun să opereze legal în România sau în alte te
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 În funcție de sectorul de activitate al afacerii, ar putea fi necesar să obțineți permise/certificate suplimentare, cum ar fi cele de Mediu, Construcție, Siguranță la Incendiu, etc. Cerințele și procesele de obținere a permiselor pot varia în funcție de tipul de afacere și de jurisdicție. Confirmați întotdeauna cu autoritățile locale sau consultanți juridici pentru a vă asigura respectarea completă a reglementărilor.

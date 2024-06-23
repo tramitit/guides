@@ -35,7 +35,7 @@ You can refer to the official instructions [here](https://www.revolut.com/help/p
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In some cases, updating your location might affect the services and functionalities of the platform you are using. Always check the app/platform details on location changing procedures.

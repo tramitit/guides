@@ -34,7 +34,7 @@ The documents required may vary from country to country, but typically you will 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note if you need a criminal record check from a foreign country while in Romania, or from Romania while abroad, the procedure may be slightly different. You may need to visit your embassy or consulate, or contact the appropriate foreign legal authority.

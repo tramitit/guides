@@ -39,7 +39,7 @@ Anyone who is married and wants to legally end their marriage.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
  The duration of the whole divorce process can vary significantly based on factors such as the willingness of the parties to cooperate, the complexity of the divorce case, and the capacity of the court.

@@ -38,7 +38,7 @@ This service is needed by anyone who is planning on migrating to Spain or is liv
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Appointment scheduling could be competitive, so be ready to book as soon as there is availability.

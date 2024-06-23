@@ -37,7 +37,7 @@ Un consiglio, tutti questi documenti possono spesso essere ottenuti attraverso l
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 Ricorda che l'importo della tua pensione dipenderà dalla durata dei tuoi contributi e dal loro importo. È meglio verificare preventivamente la possibile quantità per pianificare la tua vita dopo il pensionamento.

@@ -35,7 +35,7 @@ Giovani individui che stanno pianificando di viaggiare, lavorare o vivere tempor
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 - Il processo potrebbe richiedere alcune settimane. È importante iniziare la domanda con anticipo rispetto alla data di viaggio desiderata.

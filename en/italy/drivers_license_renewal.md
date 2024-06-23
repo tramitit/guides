@@ -39,7 +39,7 @@ Any individual who holds an Italian driver's license that is nearing its expiry 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 If you are a dual citizen, remember that the driving license of the country where you have your habitual residence is considered valid. Habitual residence refers to the place where you live for at least 185 days in a calendar year. Hence, be sure of your status before proceeding with the renewal process.

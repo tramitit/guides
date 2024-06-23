@@ -46,7 +46,7 @@ Any EU citizen planning to stay in Spain for more than 90 days needs this certif
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Timelines**: The process is typically straightforward and can often be completed in one appointment if all documentation is correct. However, obtaining an appointment can sometimes take several weeks.

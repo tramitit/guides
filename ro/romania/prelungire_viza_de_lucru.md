@@ -42,7 +42,7 @@ Vă rugăm să verificați [Oficiul Român de Imigrare](http://igi.mai.gov.ro/) 
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Regulile de extensie a vizei de muncă variază de la o țară la alta, deci este important să vă documentați și să înțelegeți regulile și cerințele specifice pentru România. Asigurați-vă, de asemenea, că sunteți la curent cu eventuale schimbări în legislația privind imigrația, deoarece acestea pot afecta procesul dumneavoastră de aplicare. Menținerea unei linii deschise de comunicare cu Oficiul Român de Imigrare este recomandabilă pentru a rămâne la curent cu orice modificări.

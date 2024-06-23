@@ -36,7 +36,7 @@ The service is necessary for residents in Croatia who do not have a driving lice
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Some driving schools might require a medical certificate stating that you are fit to drive and it is advisable to choose between manual or automatic car lessons as the issued license will only be valid for the one you learned and given examination with. For international residents, the document requirements and exact procedure can vary depending on your home country, always consult with the police department responsible for driving licenses in your place of residence.

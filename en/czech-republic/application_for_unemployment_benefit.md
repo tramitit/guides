@@ -36,7 +36,7 @@ Note: The exact documents required might change depending on your specific situa
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember, to be eligible for unemployment benefits, you must not only be unemployed but also actively looking for a job. The Labor Office may ask for proof of this at any moment, like applications sent or interviews attended. Also, the length and amount of the benefit can vary depending on specific variables including your past salary, past employment history, and more. It's recommended to check the Labor Office website or consult with them directly to understand better how this works.

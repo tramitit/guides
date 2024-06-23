@@ -49,7 +49,7 @@ Individuals who are dealing with immigration procedures, residency documentation
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Some users have mentioned that it might be possible to pay the fee online via specific banking apps if you have a Spanish bank account.

@@ -41,7 +41,7 @@ Note: Ensure all your documents are up-to-date and verified
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Ensure that all the information on the application form is accurate and matches with the documents provided. Errors or inconsistencies can result in the application being declined or delay. Keep your old passport, if applicable, safe for it might be required during the process.

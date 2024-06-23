@@ -37,7 +37,7 @@ Pamiętaj, że dokumenty mogą wymagać tłumaczenia na niemiecki lub polski i n
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Prosimy zauważyć, że procedury i wymagania dokumentów mogą się różnić, dlatego zawsze najlepiej jest skontaktować się bezpośrednio z odpowiednim biurem w celu uzyskania najbardziej precyzyjnych informacji.

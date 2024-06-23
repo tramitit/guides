@@ -38,7 +38,7 @@ Kérjük, vegye figyelembe: az összes dokumentum változhat az kiadó intézmé
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Mindig ügyeljen a személyes adatok védelmére. Kerülje a személyes adatok vagy az ID kártya, útlevél vagy más személyes dokumentumok másolatainak megosztását olyan platformokon, mint az Airbnb, hogy elkerülje az esetleges visszaélés lehetőségét.

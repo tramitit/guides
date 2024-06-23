@@ -41,7 +41,7 @@ Minden egyén vagy csoport, akik súlyos fenyegetésekkel, üldöztetéssel és 
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 Minden eset egyedi, és a döntés meghozatalához szükséges idő nagyon változó lehet, ezért kulcsfontosságú, hogy fenntartsa a kapcsolatot az ügyintézőjével. Ha a kérelmét elutasítják, általában joga van fellebbezni. Átlépnie kell az eljárást gondosan, mérlegelve az egyes lépések jelentőségét, és esetleg jogi segítséget igénybe véve.

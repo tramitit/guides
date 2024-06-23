@@ -35,7 +35,7 @@ Este processo é necessário para todos os indivíduos que tenham recebido rendi
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - A Revolut continua pedindo para atualizar o NIF para aqueles que têm suas contas lá, então certifique-se de que suas informações estejam sempre atualizadas.

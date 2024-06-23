@@ -43,7 +43,7 @@ Oricine dorește să-și continue studiile într-o țară străină care solicit
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Procedurile de aplicare și cerințele pot varia semnificativ între țări, deci este important să verificați detaliile cu ambasada sau consulatul destinației alese. De asemenea, este crucial de notat că deținerea unui visa de studiu nu garantează intrarea într-o țară, deoarece decizia finală revine adesea oficialilor de imigrare de la punctul de intrare.

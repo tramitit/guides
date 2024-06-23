@@ -55,7 +55,7 @@ Self-employed professionals and business owners in Portugal who have earned an i
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Validation Wait Times**: Be aware that the validation of submitted IRS Anexo C forms can sometimes take over 17 days, as mentioned in user experiences.

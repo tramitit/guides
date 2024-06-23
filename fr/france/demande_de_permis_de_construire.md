@@ -44,7 +44,7 @@ Un permis de construire est crucial pour les propriétaires, les entrepreneurs o
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 La durée du processus de demande de permis peut varier en fonction de l'autorité locale et de la complexité des travaux. Si la permission est refusée, vous pouvez modifier vos plans et soumettre à nouveau ou faire appel de la décision. N'oubliez pas que travailler sans permis là où il est requis peut entraîner des amendes et des coûts supplémentaires.

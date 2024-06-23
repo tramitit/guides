@@ -35,7 +35,7 @@ You'll typically need to provide identification and proof of address. For non-re
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 * Most mobile data plans require a commitment of at least 12 months, although there are also prepaid plans with no long-term commitment.

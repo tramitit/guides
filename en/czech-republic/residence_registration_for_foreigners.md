@@ -40,7 +40,7 @@ The following documents might be necessary for successful registration:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It is always advised to bring a person who can speak Czech to the Foreign Police Department, as not all officials might be fluent in English.

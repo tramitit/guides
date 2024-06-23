@@ -42,7 +42,7 @@ Do note that some documents might need to be legalized or apostilled. Also, some
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please keep in mind that once the application is submitted, the process can take upto a year. Applicants will also have to pass an interview about their knowledge of France, its culture and society. French Nationality is granted at the discretion of the government even if all the conditions are met.

@@ -38,7 +38,7 @@ Toute personne envisageant de démolir un bâtiment résidentiel ou commercial e
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 * Certaines zones ou bâtiments peuvent avoir des restrictions ou des exigences supplémentaires, comme les bâtiments historiques ou les bâtiments situés dans des zones agricoles.

@@ -38,7 +38,7 @@ A death certificate is needed by the immediate family members, legal representat
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - **Bilingual Certificates**: Some registries might offer death certificates in multiple languages which can be helpful if the document needs to be used internationally.

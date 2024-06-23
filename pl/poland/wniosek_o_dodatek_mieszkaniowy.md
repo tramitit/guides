@@ -38,7 +38,7 @@ To świadczenie jest szczególnie przydatne dla osób bezrobotnych, o niskich do
 _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub znasz dostawcę, skontaktuj się z nami lub edytuj stronę bezpośrednio)_
 
 | Dostawca        |     Strona internetowa  |     Terminy     |       Koszt      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dodatkowe informacje
 Jeśli Twoje okoliczności się zmienią, ważne jest, abyś natychmiast poinformował/a swoją lokalną radę, ponieważ zmiany mogą wpłynąć na to, ile świadczenia powinieneś/ą otrzymać. Ponadto, w niektórych sytuacjach, nawet jeśli uważany/a jesteś za nieuprawnionego/a do Housing Benefit, nadal możesz otrzymać mniejszą kwotę lub 'świadczenie częściowe'.

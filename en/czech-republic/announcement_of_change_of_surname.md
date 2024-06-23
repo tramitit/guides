@@ -37,7 +37,7 @@ Any person intending on changing their last name and thereby needing to update t
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 • Deadlines to complete a name change process can vary depending on your local jurisdiction.

@@ -37,7 +37,7 @@ S-ar putea să aveți nevoie de documente precum:
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 Utilizarea unei Rețele Private Virtuale (VPN) ar putea fi utilă dacă un serviciu de care aveți nevoie este restricționat în funcție de locația dvs., cum ar fi anumite transmisii online sau servicii premium. Vă rugăm să fiți conștienți de orice restricții legale atunci când utilizați un VPN.

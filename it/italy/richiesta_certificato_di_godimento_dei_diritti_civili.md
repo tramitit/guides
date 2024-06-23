@@ -37,7 +37,7 @@ Questo documento è di solito richiesto da coloro che richiedono la cittadinanza
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 L'emissione del certificato può richiedere tra i 7 e i 14 giorni. Potrebbe essere disponibile un servizio accelerato, ma potrebbe comportare costi aggiuntivi. Si prega di tenere presente che i requisiti e le procedure esatti possono variare a seconda della provincia e della città, è consigliabile controllare il sito web ufficiale o contattare l'autorità locale per una guida più affidabile.

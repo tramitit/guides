@@ -41,7 +41,7 @@ Orice cetățean român, sau un cetățean străin care locuiește în România 
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 - Este recomandat să-ți reînnoiești cardul înainte de expirare, deoarece unele servicii pot să nu accepte carduri expirate

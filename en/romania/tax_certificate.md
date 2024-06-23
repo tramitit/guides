@@ -42,7 +42,7 @@ You'll need the following documents:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The Tax Certificate is valid for a period of 12 months. Keep the issued tax certificate securely as you may need to provide that as proof of your tax residency status to various financial institutions and it might take some time to get replacement if lost.

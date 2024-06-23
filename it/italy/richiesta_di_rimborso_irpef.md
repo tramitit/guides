@@ -39,7 +39,7 @@ Questa guida è utile per qualsiasi individuo residente in Italia che abbia iden
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 La richiesta di rimborso delle tasse può essere fatta in qualsiasi momento entro cinque anni dal pagamento dell'importo in eccesso. Se l'Agenzia delle Entrate non risponde entro 90 giorni, ciò significherebbe che la richiesta è stata accettata.

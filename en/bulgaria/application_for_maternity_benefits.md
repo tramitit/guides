@@ -34,7 +34,7 @@ Any pregnant woman or new mother who is eligible under their country's specific 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Maternity benefits and leave policies can vary greatly from country to country. It's important to research the specific policies in your country of residence to ensure that you are taking full advantage of the benefits available to you. In some cases, these can be quite generous. For example, some countries provide new mothers with substantial paid leave, allowing them to take time off work without worrying about lost income. When planning for maternity leave, it's also a good idea to discuss your plans with your employer, as they may have specific policies or benefits in place as well. These sources provide useful information and materials for applying for maternity benefits in many countries.

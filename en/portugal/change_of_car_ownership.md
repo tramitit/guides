@@ -35,7 +35,7 @@ This service is needed by anyone who has sold their car to another individual, o
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - There may be penalties if you do not complete the change of ownership procedure swiftly after the sale of the vehicle.

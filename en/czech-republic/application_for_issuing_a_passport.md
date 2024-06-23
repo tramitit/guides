@@ -39,7 +39,7 @@ All documents need to be original or officially certified copies. It's recommend
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Processing times can vary widely based on several factors including the location of application, the volume of applications, and the time of year. Note that processing times can be significantly longer during busy travel seasons. For the most current information, check the Interior Ministry's website regularly.

@@ -40,7 +40,7 @@ Note: Additional documents may be required depending on the purpose of your stay
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Remember that your reason for staying could significantly expedite the process. For instance, possessing a work contract from a Croatian employer could increase the chances of your permit being granted.

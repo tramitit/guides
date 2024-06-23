@@ -36,7 +36,7 @@ This guide is ideal for foreign students, primarily from the US, interested in a
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In Germany, most vocational schools are free for local and foreign students. However, private vocational schools might charge tuition fees. It is essential to apply early due to limited spots in vocational schools. If you are interested in technical studies, some technical universities may ask for a vocational certificate, emphasizing the importance of acquiring this credential even if you have a university diploma.

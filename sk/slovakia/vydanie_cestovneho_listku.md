@@ -41,7 +41,7 @@ Každý, kto plánuje cestovať, najmä v a okolo Slovenska, by potreboval túto
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Vždy si overte, že rezervujete od spoľahlivého zdroja, aby ste sa vyhli podvodom.

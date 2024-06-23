@@ -36,7 +36,7 @@ This is a required document for all individuals following a family member or clo
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 It's important to make several copies of the death certificate once it has been issued. These may be needed for separate legal and administrative procedures. Also, be aware that not everyone can request a death certificate; you usually must be closely related to the person who passed away. Some governments provide multilingual death certificates, which may be necessary if you're going to be presenting the document in a country where the issuing government's official language isn't spoken.

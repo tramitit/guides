@@ -35,7 +35,7 @@ Qualquer pessoa que esteja residindo em Portugal e esteja registrada no SNS pode
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes adicionais
 É importante saber que no SNS você não deve esperar mais de 4 meses por uma consulta com um especialista. No entanto, é recomendado que aqueles que procuram consultas urgentes comuniquem sua urgência à equipe do SNS. No Portal do SNS, você pode acompanhar suas consultas, exames, prescrições e outros serviços de saúde prestados pelo SNS. É uma ferramenta útil para gerenciar sua saúde de forma eficiente.

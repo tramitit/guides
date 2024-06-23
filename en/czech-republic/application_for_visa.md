@@ -40,7 +40,7 @@ Non-EU citizens who are planning to visit, study, work, or permanently relocate 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The visa processing time varies depending on the type of visa applied for. It is advised to apply at least 15 days before the intended trip.

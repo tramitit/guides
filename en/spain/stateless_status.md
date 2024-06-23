@@ -50,7 +50,7 @@ The ideal candidates for stateless status are individuals who find themselves wi
 ## Providers that can do it for you
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Statelessness comes with significant disadvantages, including denial of basic rights and services. It is critical for affected individuals to seek immediate assistance, as prolonged statelessness can severely impact one's quality of life and legal standing. Various non-governmental organizations and United Nations bodies, such as the UNHCR, play a significant role in aiding stateless individuals globally.

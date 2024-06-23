@@ -36,7 +36,7 @@ Any guardian or parent residing in France who has a child ready to start primary
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The education in France starts around 8:30 am and ends around 4:30 pm, with a break for lunch. This can vary slightly depending on specific schools and regions. Ensure to be fully informed about daily routines and schedules during the meeting with the school. Regular attendance is necessary once the child is enrolled. If you're moving from another country, be prepared for differences in the educational system and seek out support where necessary.

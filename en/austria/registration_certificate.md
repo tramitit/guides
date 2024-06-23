@@ -39,7 +39,7 @@ Anyone residing in Austria for more than three days. This applies to Austrains a
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In case of belated registration, you may need to pay a fine. However, the fine can be waived if you provide a valid reason for the delay. Also, some private companies can assist you with the procedure for a fee.

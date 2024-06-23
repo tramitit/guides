@@ -35,7 +35,7 @@ Los albaceas, herederos y representantes legales que necesitan gestionar o distr
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 
 | Proveedor        |     Sitio Web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 Ten en cuenta que los tiempos de procesamiento pueden variar dependiendo de la época del año y la carga de trabajo de la oficina de registro. Asegúrate de que todos los documentos estén completados correctamente y presentados para evitar retrasos.

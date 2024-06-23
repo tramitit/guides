@@ -40,7 +40,7 @@ Remember to check the specific requirements within your jurisdiction as these mi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Remember to renew your parking card before it expires. Typically, cards are valid for one year.

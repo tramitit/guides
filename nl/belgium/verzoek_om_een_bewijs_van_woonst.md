@@ -39,7 +39,7 @@ Je hebt mogelijk de volgende documenten nodig:
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Aanvullende details
 - Een Bewijs van Woonplaats kan vereist zijn door financiële instellingen of overheidsinstanties.

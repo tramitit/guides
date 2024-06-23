@@ -52,7 +52,7 @@ I cittadini non-UE, inclusi gli americani, che intendono risiedere, lavorare o s
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli Aggiuntivi
 * Le regole e i regolamenti possono variare a seconda della tua nazionalità e delle tue circostanze personali. Si consiglia di verificare presso l'ambasciata italiana nel tuo paese di origine prima di viaggiare.

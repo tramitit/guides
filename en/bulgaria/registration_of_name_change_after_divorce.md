@@ -40,7 +40,7 @@ These are general steps and may vary depending upon personal circumstances. It's
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The procedure to change a person's name in Bulgaria is regulated by laws. The process might take considerable time and it's advisable to ask for professional help if possible. Furthermore, updated documents are mandatory to reflect name changes in all official capacities and records.

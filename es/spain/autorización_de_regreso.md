@@ -54,7 +54,7 @@ Los residentes no pertenecientes a la UE en España que tengan una tarjeta de re
 ## Proveedores que pueden gestionarlo por ti
 _(Estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, por favor contáctanos o edita la página directamente)_
 | Proveedor      |     Sitio web     |     Plazos    |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles adicionales
 - **Tiempo de procesamiento**: El procesamiento de una Autorización de Regreso puede tardar unos días, así que planifica en consecuencia.

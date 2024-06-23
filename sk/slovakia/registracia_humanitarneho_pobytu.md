@@ -36,7 +36,7 @@ Registrácia humanitárneho pobytu je proces, v rámci ktorého jednotlivci, kto
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Zatiaľ čo niektoré krajiny, ako napríklad Nórsko, vyžadujú víza na žiadosť o azyl, iné ako Slovensko, pre registráciu procesu víza nevyžadujú. Avšak, pamätajte si, že každá krajina má svoj vlastný proces a požiadavky na udelenie humanitárneho pobytu.

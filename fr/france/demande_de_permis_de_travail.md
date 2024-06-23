@@ -39,7 +39,7 @@ Ce guide est essentiel pour toute personne non européenne ayant obtenu un emplo
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 Les délais de traitement varient, il est donc conseillé de planifier et de commencer la procédure bien à l'avance de la date de début prévue. De plus, avoir au moins une compréhension de base du français aiderait grandement votre transition.

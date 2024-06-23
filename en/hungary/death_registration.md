@@ -32,7 +32,7 @@ Anyone responsible for reporting a death in Hungary, such as relatives, executor
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 In some instances, particularly for historical deaths, records may be held by religious institutions. For deaths prior to 1895, contact the appropriate church or religious institution for records. The National Archives of Hungary may also have records, visit their website for more information: [http://www.mnl.gov.hu/](http://www.mnl.gov.hu/)

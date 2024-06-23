@@ -40,7 +40,7 @@ Any person planning to stay in Austria for more than six months, including stude
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Completing the application may require patience as the process can be lengthy and bureaucratic. Be prepared to potentially deal with paper forms, long waits, and possibly, multiple visits to the office. However, maintaining a positive attitude, thorough preparation, and having patience can all contribute to a smoother and more efficient process.

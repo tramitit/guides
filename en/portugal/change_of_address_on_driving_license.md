@@ -37,7 +37,7 @@ People who have recently moved and need their driving license to reflect their c
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember, it's important to update your driving license address shortly after moving. In many places, it's a legal obligation, and failure to do so might result in fines or other penalties. It's also a good idea to check the specific requirements of your local driver licensing authority, as the procedure can vary between locations.

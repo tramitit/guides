@@ -35,7 +35,7 @@ Any individual responsible for managing the estate of the deceased, such as clos
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The death certificate can be used to manage all subsequent administrative matters related to the deceased's estate, including but not limited to banking, property transfers, and inheritance matters.

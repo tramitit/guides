@@ -49,7 +49,7 @@ Always check with your local Hungarian embassy or consulate for the most updated
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Any changes in your personal data such as unwanted name changes should be reported to and modified at the issuing office.

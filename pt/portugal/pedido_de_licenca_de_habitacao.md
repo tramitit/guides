@@ -40,7 +40,7 @@ A licença é necessária para quem pretende comprar, vender ou alugar proprieda
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 - O tempo que este processo leva pode variar dependendo da complexidade do projeto e da rapidez da autoridade local.

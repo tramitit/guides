@@ -40,7 +40,7 @@ This supplement is ideal for working or student parents who have children under 
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Be aware that your supplement amount will depend on your income, number of children, age of children, and the number of hours of childcare required.

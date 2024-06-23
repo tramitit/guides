@@ -40,7 +40,7 @@ This guide is directed towards expatriates, digital nomads, or any foreigners pl
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Participation in the Croatian state healthcare system is compulsory for all residents, including foreigners living in Croatia. The system is funded by mandatory health insurance contributions. Do note that private healthcare is also available, though it usually serves as supplementary coverage in addition to the mandatory state-provided health insurance.

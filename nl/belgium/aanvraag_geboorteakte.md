@@ -34,7 +34,7 @@ Iedereen die in België geboren is, kan een geboorteakte nodig hebben om verschi
 _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder bent of kent, neem dan contact met ons op of bewerk de pagina direct)_
 
 | Aanbieder       |     Website     |     Termijnen    |       Kosten     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Aanvullende details
 Als je de geboorteakte in het buitenland wilt gebruiken, moet je deze mogelijk laten apostilleren. Een apostille maakt een document herkenbaar in landen die deelnemen aan het Haags Verdrag door een zegel te verstrekken dat de handtekening op het document valideert. Je kunt meestal een apostille verkrijgen bij het Ministerie van Buitenlandse Zaken.

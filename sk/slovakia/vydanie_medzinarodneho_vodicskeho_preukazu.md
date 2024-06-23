@@ -36,7 +36,7 @@ Každá osoba, ktorá plánuje jazdiť v zahraničí (napríklad v Slovensku) a 
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Medzinárodný vodičský preukaz nie je samostatným dokumentom a mali by ste ho nosiť spolu so svojím originálnym vodičským preukazom.

@@ -36,7 +36,7 @@ Every individual who purchases a new or used vehicle.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Bear in mind that if the car is from a foreign country, it might require additional documents or procedures. You are also required to get Obtaining Portuguese Car Insurance. Check provider websites for the most accurate and recent information.

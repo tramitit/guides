@@ -39,7 +39,7 @@ Anyone who plans to carry out construction activities in Portugal - be it homeow
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It is critical to abide by the building permit, or face potential fines or orders to halt construction.

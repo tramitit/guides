@@ -35,7 +35,7 @@ People who are facing extreme hardship, danger, or persecution in their home cou
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 While some countries, like Norway, require a visa to seek asylum, others like Slovakia, do not require a visa for the registration process. However, note that each country has their own process and requirements for granting humanitarian residence. 

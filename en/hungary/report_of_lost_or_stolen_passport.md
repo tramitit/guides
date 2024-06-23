@@ -36,7 +36,7 @@ Any traveler or expat who has lost their passport or had it stolen will find thi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - It is recommended to keep copies of your passport’s biographic information page and the page containing your Hungarian entry stamp separately from your passport just in case it gets lost.

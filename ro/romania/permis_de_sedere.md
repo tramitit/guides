@@ -45,7 +45,7 @@ Un permis de ședere este necesar pentru cetățenii non-UE care plănuiesc să 
 _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furnizor, te rugăm să ne contactezi sau să modifici pagina direct)_
 
 | Furnizor        |     Website     |     Termene      |       Cost       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalii suplimentare
 În funcție de natura șederii dumneavoastră, s-ar putea să trebuiască să reînnoiți permisul de ședere cu cel puțin 30 de zile înainte de expirare. De asemenea, verificați întotdeauna cu Ambasada sau Consulatul României și cu Inspectoratul General pentru Imigrări pentru actualizări și modificări în proces.

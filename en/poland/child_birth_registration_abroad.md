@@ -39,7 +39,7 @@ Remember, the documents might need to be translated into German or Polish and no
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that the procedures and document requirements can vary, and it is always best to directly contact the respective office for the most accurate information.

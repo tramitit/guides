@@ -38,7 +38,7 @@ Ideálnymi žiadateľmi o sociálne štipendium na Slovensku sú študenti (baka
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 - Sumy štipendií sa môžu líšiť v závislosti od hodnotenia ekonomickej situácie žiadateľa a úrovne úspechu.

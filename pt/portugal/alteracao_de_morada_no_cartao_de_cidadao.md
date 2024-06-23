@@ -35,7 +35,7 @@ Para alterar o endereço, os seguintes documentos precisam ser fornecidos:
 _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhece um fornecedor, entre em contato conosco ou edite a página diretamente)_
 
 | Fornecedor      |     Website     |     Prazos       |       Custo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalhes Adicionais
 Certifique-se de que as informações no comprovante de endereço refletem com precisão seu novo local de residência. Dependendo do serviço escolhido, pode ser necessário ter um PIN para autenticação online. Os prazos e taxas podem diferir dependendo do caso individual e da localização. Certifique-se de verificar os detalhes de custo e prazo ao enviar seus documentos para a mudança de endereço.

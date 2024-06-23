@@ -46,7 +46,7 @@ Potrebbe essere necessario fornire i seguenti documenti:
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli aggiuntivi
 Il servizio di raccolta differenziata potrebbe richiedere l'uso di bidoni o sacchetti colorati diversi per tipi di rifiuti diversi. Anche il calendario di raccolta è diverso per ogni tipo di rifiuto, assicurati quindi di controllarlo sul sito web del tuo consiglio locale o dell'azienda di gestione rifiuti. Alcune aree potrebbero anche avere punti di raccolta per alcuni tipi di rifiuti.

@@ -38,7 +38,7 @@ The list of required documents might include, but is not limited to, the followi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 More accurate processing times, fees, and document requirements can be obtained by contacting the particular university or school directly. Always ensure to provide the most accurate and truthful information when applying for diploma renewal.

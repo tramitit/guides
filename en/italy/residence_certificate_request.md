@@ -36,7 +36,7 @@ Any individual who wishes to establish their residence in Italy, including immig
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The registration for a residence certificate may vary slightly between cities or provinces. Generally, you must register within 20 days of your arrival in Italy. Any delay might cause legal issues and penalties. Once you have registered your residence, you are entitled to all the same rights and services as an Italian citizen.

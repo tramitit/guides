@@ -32,7 +32,7 @@ Tout travailleur employé en France ou en Suisse sous contrat légal qui se trou
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 - Faire une demande d'arrêt maladie est la même en cas de maladies physiques et mentales. En France, les travailleurs ont droit à des indemnités journalières s'ils ont travaillé au moins 200 heures au cours des trois mois précédant l'arrêt de travail.

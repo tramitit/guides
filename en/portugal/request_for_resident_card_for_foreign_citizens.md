@@ -41,7 +41,7 @@ The exact documents can depend on your specific circumstances, but some common r
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The validation of a resident card may take several weeks or, in some cases, several months. Furthermore, the documentation needed for the application can vary significantly depending on individual circumstances, so it is recommended to check with SEF for any specific requirements. Also, note that some of the documents need to be translated into Portuguese by a professional translator recognized by the consulate.

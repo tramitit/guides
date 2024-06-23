@@ -35,7 +35,7 @@ The documents required can vary, but generally include:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Please note that the process can greatly vary depending on the individual's situation. It is advised to consult with the relevant official or legal experts for guidance. Additionally, for those living overseas, consult the nearest Romanian embassy or consulate. There might also be a translation requirement for documents that are in a language other than Romanian.

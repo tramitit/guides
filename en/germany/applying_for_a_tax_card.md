@@ -36,7 +36,7 @@ Any person who is working and earning income in Germany needs a tax card.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Your tax class is determined by your marital status, number of jobs, and other factors. For example, tax class III is for married taxpayers where one person is the sole earner or earns significantly more, while tax class IV is for when both partners earn similar amounts. For more complex situations, employed taxpayers in Germany can apply to have their individual tax burdens calculated with a factor procedure (Faktorverfahren).

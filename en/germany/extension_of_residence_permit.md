@@ -38,7 +38,7 @@ Any foreign national living in Germany who wishes to remain in the country beyon
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The processing time varies depending on the individual's situation and the workload of the Foreigners Authority. It is important to apply for an extension well in advance of the expiry date to ensure that you don't violate the terms of your existing residence permit.

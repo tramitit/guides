@@ -38,7 +38,7 @@ Each document must be translated into German by a certified translator.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 The process can take several weeks due to the bureaucratic nature of the process, so plan accordingly. Some Standesamt may also require couples to participate in pre-marriage counseling sessions. It is advisable to contact your local Standesamt for the most accurate information regarding your specific situation. In the event that one of the partners cannot be physically present for the registration, a power of attorney may be necessary.

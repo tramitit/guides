@@ -37,7 +37,7 @@ Piece of advice, all these documents often can be obtained through the organizat
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Remember that the sum of your pension will depend on the duration of your contributions and their amount. It's better to check the possible quantity beforehand to plan your life after retirement.

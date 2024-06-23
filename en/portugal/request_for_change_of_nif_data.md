@@ -38,7 +38,7 @@ The documents required can vary depending on the information to be changed:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Always remember to double-check your information before submission to avoid any errors. Also, be aware that changing your NIF Data might take some time to get processed, so plan accordingly.

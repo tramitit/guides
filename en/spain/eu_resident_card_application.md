@@ -42,7 +42,7 @@ The following documents are typically required:
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - If you are applying as the family member of an EU citizen, you will need to prove your relationship. This typically involves supplying marriage certificates, birth certificates, or other relevant documents.

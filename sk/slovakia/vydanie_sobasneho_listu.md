@@ -41,7 +41,7 @@ Odporúča sa mať tieto dokumenty pripravené pred návštevou matričného úr
 _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo poznáte poskytovateľa, kontaktujte nás alebo upravte stránku priamo)_
 
 | Poskytovateľ    |     Webstránka  |     Termíny      |       Náklady    |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Ďalšie podrobnosti
 Nezabudnite skontrolovať otváracie hodiny a pracovné dni Matričného úradu, pretože sa môžu líšiť v závislosti od lokality. Niektoré úrady môžu tiež vyžadovať vopred dohodnutý termín. Doba spracovania a náklady sa môžu líšiť, preto je odporúčané overiť tieto podrobnosti pri podaní žiadosti.

@@ -38,7 +38,7 @@ Anyone who has received income within the tax year, and has tax due as stipulate
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 There are penalties for late tax returns and tax payments, and these can be avoided by filing on time. However, there are also provisions for extension of deadline for those who hire a tax advisor.

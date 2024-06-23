@@ -37,7 +37,7 @@ Ces documents peuvent être téléchargés pendant le processus de demande en li
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails supplémentaires
 En France, trois types de logements sociaux sont disponibles : Très Sociaux (THS), Sociaux (LS) et Intermédiaires (LI). Chaque type de logement a des seuils de revenu différents, le THS ayant le plus bas et le LI le plus élevé.

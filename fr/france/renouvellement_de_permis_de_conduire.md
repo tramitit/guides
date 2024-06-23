@@ -40,7 +40,7 @@ Ce service est nécessaire pour toute personne dont le permis de conduire a expi
 _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou connaissez un fournisseur, veuillez nous contacter ou modifier la page directement)_
 
 | Fournisseur     |     Site web    |     Délais       |       Coût       |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Détails Supplémentaires
 - Le temps de traitement varie en fonction de votre situation et du moment de votre demande.

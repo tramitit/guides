@@ -34,7 +34,7 @@ Residents of Germany with bank accounts or investments accruing interest or divi
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Exemption orders are only valid for the calendar year in which they are made and must be renewed annually for them to stay in effect. Also, if your bank doesn't withhold tax in Germany, you will have to provide them with the non-assessment certificate (Nichtveranlagungsbescheinigung) from your local German tax office (Finanzamt).

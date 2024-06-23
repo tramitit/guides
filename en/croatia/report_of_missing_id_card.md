@@ -36,7 +36,7 @@ Anyone who has lost their Croatian ID card and needs a replacement.
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional Details
 - It is important to report a lost ID as soon as possible to prevent potential identity theft or fraud.

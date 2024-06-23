@@ -41,7 +41,7 @@ Mindenkinek, akinek Magyarországon regisztrált járműve van.
 _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer valakit, aki szolgáltató, kérjük, vegye fel velünk a kapcsolatot vagy módosítsa az oldalt közvetlenül)_
 
 | Szolgáltató     |     Weboldal    |     Határidők    |       Költség     |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
 - Teljesen rendben van, ha a műszaki vizsga előtt a kereskedéstől azonosítószámot szerzel be.

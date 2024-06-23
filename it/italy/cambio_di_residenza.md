@@ -38,7 +38,7 @@ Qualsiasi individuo che pianifichi di trasferirsi in una nuova località, in par
 _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un fornitore, ti preghiamo di contattarci o modificare direttamente la pagina)_
 
 | Fornitore       |     Sito web    |     Tempi        |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Dettagli Aggiuntivi
 Ricorda di aggiornare il tuo indirizzo con tutte le diverse istituzioni pubbliche e private, inclusi ma non limitati a istituti finanziari, fornitori di servizi pubblici, uffici di cittadinanza ecc. Questo garantirà una transizione più agevole e impedirà potenziali questioni burocratiche. La tua banca avrà bisogno specificamente di una prova di residenza, quindi tieni a portata di mano questi documenti.

@@ -36,7 +36,7 @@ Empresas y autónomos en España que realicen transacciones con otras partes, do
 ## Proveedores que pueden hacerlo por ti
 _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces a un proveedor, contáctanos o edita la página directamente)_
 | Proveedor        |     Sitio web      |     Plazos       |       Costo      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Detalles Adicionales
 - Tenga en cuenta que no presentar el Modelo 347 correctamente y a tiempo puede resultar en multas o sanciones.

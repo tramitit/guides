@@ -38,7 +38,7 @@ This service is required by Greek citizens intending to travel internationally a
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Express issuance is also possible under specific circumstances, for an additional fee. For those below 14 years of age, the presence of a parent or legal guardian is required during the application process. In case the person is an unmarried minor aged between 14 to 18 years, a notarized consent of the parents is required. Keep in mind that Greek passports have a validity of 5 years for those under the age of 14 and a validity of 10 years otherwise.

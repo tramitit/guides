@@ -40,7 +40,7 @@ This process is essential for high school graduates, transfer students, internat
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 Take time to prepare your application and documents to increase your chances of getting accepted. Consider participating in extracurricular activities, as they can boost your application. Remember that each university has unique timelines so always check their specific deadlines. Lastly, ensure you thoroughly evaluate all programs of interest before making your final decision.

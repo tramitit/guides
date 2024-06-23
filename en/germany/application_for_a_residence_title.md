@@ -40,7 +40,7 @@ Non-European citizens planning to stay in Germany for longer than three months n
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - The applications are usually processed within a few weeks, but it may take longer in busy periods. It is essential to apply in good time.

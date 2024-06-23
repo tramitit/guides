@@ -34,7 +34,7 @@ The procedure is required for any non-national visiting Croatia, including touri
 _(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 
 | Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
+| :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
 - Note that failure to properly register your stay can lead to fines or even expulsion from the country. In addition, it's considered a security measure, so not complying could attract unnecessary attention from law enforcement. 
