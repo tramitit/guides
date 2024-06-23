@@ -33,9 +33,9 @@ Any individual residing in Spain who owns foreign assets with a total value of m
 - **Investment Proof:** Documents related to securities, insurance policies, and other investments showing their value.
 
 ## Providers that can do it for you
-_(We are currently curating the best providers. If you are or know a provider, please contact us or edit the page directly)_
 | Provider        |     Website     |     Timelines    |       Cost      |
 | --------------- | --------------- |  :-------------: | :-------------: |
+| AutoDeclaro | [autodeclaro.es](https://autodeclaro.es/?ref=26) |  5 minutes | from 35€ |
 
 ## Additional details
 - **Fines for Delay:** Historically, Spain imposed heavy fines for late or incorrect submissions, but recent changes per the European Court of Justice's ruling have made these sanctions less severe.
