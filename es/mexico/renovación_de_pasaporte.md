@@ -49,8 +49,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si usted es o con
 - Contacte directamente a la embajada para obtener la información más actual y cualquier consulta específica relacionada con su caso.
 ## Related Posts
 
-- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/pasaporte_mexicano/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_permanente/)
-- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_temporal/)
-- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/spanish/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
+- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/es/guides/mexico/pasaporte_mexicano/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)
+- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/es/guides/mexico/permiso_de_residencia_temporal/)
+- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/es/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)

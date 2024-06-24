@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Las tarifas para el certificado pueden variar según la jurisdicción y la urgencia de procesamiento.
 ## Related Posts
 
-- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/spanish/guides/argentina/certificado_de_matrimonio/)
-- [Cómo obtener un certificado de nacimiento en Argentina](https://tramitit.com/spanish/guides/argentina/partida_de_nacimiento/)
-- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_nacimiento/)
-- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/spanish/guides/argentina/certificado_de_domicilio/)
-- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/spanish/guides/argentina/documento_nacional_de_identidad/)
+- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/es/guides/argentina/certificado_de_matrimonio/)
+- [Cómo obtener un certificado de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/partida_de_nacimiento/)
+- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_nacimiento/)
+- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)
+- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/es/guides/argentina/documento_nacional_de_identidad/)

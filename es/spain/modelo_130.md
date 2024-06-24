@@ -61,8 +61,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/spanish/guides/spain/modelo_190/)
-- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/spanish/guides/spain/modelo_145/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/spanish/guides/spain/modelo_036/)
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
-- [Cómo presentar la declaración de impuestos en España: guía detallada](https://tramitit.com/spanish/guides/spain/presentacion_de_la_declaracion_de_la_renta/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
+- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/es/guides/spain/modelo_145/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
+- [Cómo presentar la declaración de impuestos en España: guía detallada](https://tramitit.com/es/guides/spain/presentacion_de_la_declaracion_de_la_renta/)

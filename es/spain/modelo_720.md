@@ -45,8 +45,8 @@ Cualquier individuo que resida en España y posea activos extranjeros con un val
 
 ## Related Posts
 
-- [Guía Esencial para la Declaración del Modelo 721 en España](https://tramitit.com/spanish/guides/spain/modelo_721/)
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
-- [Modelo 210 - Impuestos para No Residentes en España](https://tramitit.com/spanish/guides/spain/modelo_210/)
-- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/spanish/guides/spain/modelo_190/)
-- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/spanish/guides/spain/modelo_347/)
+- [Guía Esencial para la Declaración del Modelo 721 en España](https://tramitit.com/es/guides/spain/modelo_721/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
+- [Modelo 210 - Impuestos para No Residentes en España](https://tramitit.com/es/guides/spain/modelo_210/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
+- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/es/guides/spain/modelo_347/)

@@ -44,8 +44,8 @@ Asegúrate de solicitar asistencia para el alquiler tan pronto como preveas que 
 
 ## Related Posts
 
-- [Solicitud de Becas Educativas: Proceso, Documentos y Proveedores](https://tramitit.com/spanish/guides/spain/solicitar_becas_educativas/)
-- [Ayudas Financieras para Familias Numerosas: Cómo Solicitarlas](https://tramitit.com/spanish/guides/spain/solicitud_de_ayudas_economicas_para_familias_numerosas/)
-- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/spanish/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
-- [Cómo presentar la declaración de impuestos en España: guía detallada](https://tramitit.com/spanish/guides/spain/presentacion_de_la_declaracion_de_la_renta/)
-- [Proceso de Solicitud de Asilo en España: Guía Completa](https://tramitit.com/spanish/guides/spain/solicitud_de_asilo/)
+- [Solicitud de Becas Educativas: Proceso, Documentos y Proveedores](https://tramitit.com/es/guides/spain/solicitar_becas_educativas/)
+- [Ayudas Financieras para Familias Numerosas: Cómo Solicitarlas](https://tramitit.com/es/guides/spain/solicitud_de_ayudas_economicas_para_familias_numerosas/)
+- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
+- [Cómo presentar la declaración de impuestos en España: guía detallada](https://tramitit.com/es/guides/spain/presentacion_de_la_declaracion_de_la_renta/)
+- [Proceso de Solicitud de Asilo en España: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_asilo/)

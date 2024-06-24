@@ -71,8 +71,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Matrimonio Civil en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/solicitud_de_matrimonio_civil/)
-- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/spanish/guides/spain/certificado_de_nacimiento/)
-- [Registro de Pareja en España: Procedimiento y Documentos Necesarios](https://tramitit.com/spanish/guides/spain/inscripcion_en_el_registro_de_parejas_de_hecho/)
-- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/spanish/guides/spain/certificado_de_defunción/)
+- [Matrimonio Civil en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/solicitud_de_matrimonio_civil/)
+- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)
+- [Registro de Pareja en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_en_el_registro_de_parejas_de_hecho/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)

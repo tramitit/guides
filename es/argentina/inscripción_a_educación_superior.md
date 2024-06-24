@@ -51,8 +51,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Investiga sobre oportunidades de becas y ayuda financiera.
 ## Related Posts
 
-- [Guía Integral para Solicitudes de Becas en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_beca/)
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Revalidación de Títulos Extranjeros en Argentina - Guía Completa](https://tramitit.com/spanish/guides/argentina/revalidación_de_título_universitario/)
-- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/spanish/guides/argentina/registro_de_importadores/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Guía Integral para Solicitudes de Becas en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_beca/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Revalidación de Títulos Extranjeros en Argentina - Guía Completa](https://tramitit.com/es/guides/argentina/revalidación_de_título_universitario/)
+- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/es/guides/argentina/registro_de_importadores/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)

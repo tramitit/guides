@@ -44,8 +44,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Las consideraciones sobre la custodia de los hijos y la división de bienes serán abordadas de acuerdo con la ley mexicana.
 ## Related Posts
 
-- [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/spanish/guides/mexico/acta_de_matrimonio/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/spanish/guides/mexico/legalización_de_documentos/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Solitud de nacionalidad en México: guía completa y requisitos](https://tramitit.com/spanish/guides/mexico/solicitud_de_nacionalidad/)
-- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/spanish/guides/mexico/solicitud_de_acta_de_adopción/)
+- [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Solitud de nacionalidad en México: guía completa y requisitos](https://tramitit.com/es/guides/mexico/solicitud_de_nacionalidad/)
+- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopción/)

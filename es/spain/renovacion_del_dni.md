@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Related Posts
 
-- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)
-- [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/spanish/guides/spain/renovacion_de_pasaporte/)
-- [Renovación de Licencia de Conducir en España: Proceso y Requisitos](https://tramitit.com/spanish/guides/spain/renovacion_del_permiso_de_conducir/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Renovación Tarjeta de Estudiante en España: Guía Completa](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_de_estudiante/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
+- [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/es/guides/spain/renovacion_de_pasaporte/)
+- [Renovación de Licencia de Conducir en España: Proceso y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_permiso_de_conducir/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Renovación Tarjeta de Estudiante en España: Guía Completa](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_estudiante/)

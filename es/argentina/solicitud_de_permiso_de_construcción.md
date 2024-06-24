@@ -49,8 +49,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Cualquier construcción no autorizada puede dar lugar a sanciones y acciones legales.
 ## Related Posts
 
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_idoneidad/)
-- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/spanish/guides/argentina/registro_de_importadores/)
-- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_habitacional/)
-- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/spanish/guides/argentina/alta_de_servicio_eléctrico/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_idoneidad/)
+- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/es/guides/argentina/registro_de_importadores/)
+- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_habitacional/)
+- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/es/guides/argentina/alta_de_servicio_eléctrico/)

@@ -45,8 +45,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - Los tiempos de procesamiento pueden variar; se recomienda mantenerse actualizado a través de canales oficiales.
 ## Related Posts
 
-- [Subsidios de Vivienda en México: Guía Completa y Procedimientos](https://tramitit.com/spanish/guides/mexico/solicitud_de_subsidio_para_vivienda/)
-- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/spanish/guides/mexico/inscripción_al_imss/)
-- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/spanish/guides/mexico/permiso_de_trabajo/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/spanish/guides/mexico/inscripción_a_educación_superior/)
+- [Subsidios de Vivienda en México: Guía Completa y Procedimientos](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_vivienda/)
+- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripción_al_imss/)
+- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)

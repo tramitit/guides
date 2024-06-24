@@ -48,8 +48,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres un proveedo
 - Siempre verifica los procedimientos y requisitos documentales más actuales con el Registro Civil local o las autoridades relevantes.
 ## Related Posts
 
-- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_nacimiento/)
-- [Cómo Obtener el Acta de Defunción en Argentina - Guía Completa](https://tramitit.com/spanish/guides/argentina/partida_de_defunción/)
-- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/spanish/guides/argentina/certificado_de_defunción/)
-- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_certificado_de_soltería/)
-- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/spanish/guides/argentina/certificado_de_matrimonio/)
+- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_nacimiento/)
+- [Cómo Obtener el Acta de Defunción en Argentina - Guía Completa](https://tramitit.com/es/guides/argentina/partida_de_defunción/)
+- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/es/guides/argentina/certificado_de_defunción/)
+- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_certificado_de_soltería/)
+- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/es/guides/argentina/certificado_de_matrimonio/)

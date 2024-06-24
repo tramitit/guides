@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Viajar internacionalmente hacia México requiere un pasaporte mexicano y posiblemente una visa, dependiendo de tu destino.
 ## Related Posts
 
-- [Servicios eficientes de renovación de pasaportes en México](https://tramitit.com/spanish/guides/mexico/renovación_de_pasaporte/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Renueva tu credencial de elector - Proceso y requisitos INE](https://tramitit.com/spanish/guides/mexico/renovación_de_credencial_para_votar/)
-- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_permanente/)
-- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/spanish/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
+- [Servicios eficientes de renovación de pasaportes en México](https://tramitit.com/es/guides/mexico/renovación_de_pasaporte/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Renueva tu credencial de elector - Proceso y requisitos INE](https://tramitit.com/es/guides/mexico/renovación_de_credencial_para_votar/)
+- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)
+- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/es/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)

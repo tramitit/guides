@@ -44,8 +44,8 @@ Recuerde, debe cumplir con sus obligaciones como buscador de empleo. Esto signif
 
 ## Related Posts
 
-- [Cómo solicitar cita en SEPE España y qué documentos necesitas](https://tramitit.com/spanish/guides/spain/solicitud_de_cita_previa_para_el_sepe/)
-- [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/spanish/guides/spain/solicitud_de_pension_de_jubilacion/)
-- [Baja por Paternidad en España: Procedimiento y Prestaciones](https://tramitit.com/spanish/guides/spain/solicitud_de_la_baja_por_paternidad/)
-- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/spanish/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
-- [Baja por Maternidad en España: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_la_baja_por_maternidad/)
+- [Cómo solicitar cita en SEPE España y qué documentos necesitas](https://tramitit.com/es/guides/spain/solicitud_de_cita_previa_para_el_sepe/)
+- [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_pension_de_jubilacion/)
+- [Baja por Paternidad en España: Procedimiento y Prestaciones](https://tramitit.com/es/guides/spain/solicitud_de_la_baja_por_paternidad/)
+- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
+- [Baja por Maternidad en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_la_baja_por_maternidad/)

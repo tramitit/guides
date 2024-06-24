@@ -45,8 +45,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Modelo 349: Declaración de Transacciones Intracomunitarias](https://tramitit.com/spanish/guides/spain/modelo_349/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/spanish/guides/spain/modelo_036/)
-- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/spanish/guides/spain/modelo_130/)
-- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/spanish/guides/spain/modelo_720/)
-- [Guía Esencial para la Declaración del Modelo 721 en España](https://tramitit.com/spanish/guides/spain/modelo_721/)
+- [Modelo 349: Declaración de Transacciones Intracomunitarias](https://tramitit.com/es/guides/spain/modelo_349/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
+- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/es/guides/spain/modelo_130/)
+- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/es/guides/spain/modelo_720/)
+- [Guía Esencial para la Declaración del Modelo 721 en España](https://tramitit.com/es/guides/spain/modelo_721/)

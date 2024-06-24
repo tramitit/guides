@@ -46,8 +46,8 @@ El cliente ideal para este servicio incluye a cualquier residente español o ent
 - Busca asesoramiento profesional si tienes estructuras de activos complejas o no estás seguro acerca de los umbrales de informe.
 ## Related Posts
 
-- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/spanish/guides/spain/modelo_720/)
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
-- [Modelo 210 - Impuestos para No Residentes en España](https://tramitit.com/spanish/guides/spain/modelo_210/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/spanish/guides/spain/modelo_036/)
-- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/spanish/guides/spain/modelo_347/)
+- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/es/guides/spain/modelo_720/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
+- [Modelo 210 - Impuestos para No Residentes en España](https://tramitit.com/es/guides/spain/modelo_210/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
+- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/es/guides/spain/modelo_347/)

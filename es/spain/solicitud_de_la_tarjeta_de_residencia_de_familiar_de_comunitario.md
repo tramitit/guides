@@ -47,8 +47,8 @@ Algunas regiones en España (como Madrid) requieren que el miembro de la UE se r
 
 ## Related Posts
 
-- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/spanish/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
-- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Reunificación Familiar en España: Proceso y Requisitos](https://tramitit.com/spanish/guides/spain/reagrupacion_familiar/)
-- [Tarjeta de Residencia de Larga Duración para No-UE en España](https://tramitit.com/spanish/guides/spain/tarjeta_de_residencia_de_larga_duración/)
+- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
+- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Reunificación Familiar en España: Proceso y Requisitos](https://tramitit.com/es/guides/spain/reagrupacion_familiar/)
+- [Tarjeta de Residencia de Larga Duración para No-UE en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_larga_duración/)

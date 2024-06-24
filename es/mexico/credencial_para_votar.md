@@ -43,8 +43,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - Los espacios para citas pueden llenarse rápidamente, especialmente alrededor de periodos de elecciones, así que planifica en consecuencia.
 ## Related Posts
 
-- [Renueva tu credencial de elector - Proceso y requisitos INE](https://tramitit.com/spanish/guides/mexico/renovación_de_credencial_para_votar/)
-- [Obtén tu Crédito INFONAVIT Rápido y Fácil en México](https://tramitit.com/spanish/guides/mexico/solicitud_de_crédito_infonavit/)
-- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/pasaporte_mexicano/)
-- [Guía de Registro de CURP sin Esfuerzo para Residentes de México](https://tramitit.com/spanish/guides/mexico/registro_curp/)
-- [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/spanish/guides/mexico/licencia_de_conducir/)
+- [Renueva tu credencial de elector - Proceso y requisitos INE](https://tramitit.com/es/guides/mexico/renovación_de_credencial_para_votar/)
+- [Obtén tu Crédito INFONAVIT Rápido y Fácil en México](https://tramitit.com/es/guides/mexico/solicitud_de_crédito_infonavit/)
+- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/es/guides/mexico/pasaporte_mexicano/)
+- [Guía de Registro de CURP sin Esfuerzo para Residentes de México](https://tramitit.com/es/guides/mexico/registro_curp/)
+- [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/es/guides/mexico/licencia_de_conducir/)

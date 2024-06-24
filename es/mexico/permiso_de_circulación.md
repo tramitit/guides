@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Guarda copias de documentos importantes en un lugar seguro, separados de los originales.
 ## Related Posts
 
-- [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/spanish/guides/mexico/licencia_de_conducir/)
-- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_temporal/)
-- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/spanish/guides/mexico/permiso_de_trabajo/)
-- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/spanish/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
-- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_permanente/)
+- [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/es/guides/mexico/licencia_de_conducir/)
+- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/es/guides/mexico/permiso_de_residencia_temporal/)
+- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)
+- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/es/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
+- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)

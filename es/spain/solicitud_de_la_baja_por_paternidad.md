@@ -47,8 +47,8 @@ Ten en cuenta: mientras estás de baja por paternidad, estás protegido contra e
 
 ## Related Posts
 
-- [Baja por Maternidad en España: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_la_baja_por_maternidad/)
-- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/spanish/guides/spain/solicitud_de_prestacion_por_desempleo/)
-- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/spanish/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
-- [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/spanish/guides/spain/solicitud_de_pension_de_jubilacion/)
-- [Registro de nacimiento en España: Procedimiento y requisitos](https://tramitit.com/spanish/guides/spain/inscripcion_de_nacimiento/)
+- [Baja por Maternidad en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_la_baja_por_maternidad/)
+- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_prestacion_por_desempleo/)
+- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
+- [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_pension_de_jubilacion/)
+- [Registro de nacimiento en España: Procedimiento y requisitos](https://tramitit.com/es/guides/spain/inscripcion_de_nacimiento/)

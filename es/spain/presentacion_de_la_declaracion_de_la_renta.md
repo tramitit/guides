@@ -51,8 +51,8 @@ Usted tiene derecho a modificar su declaración de impuestos después de present
 
 ## Related Posts
 
-- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/spanish/guides/spain/modelo_190/)
-- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/spanish/guides/spain/modelo_130/)
-- [Modelo 210 - Impuestos para No Residentes en España](https://tramitit.com/spanish/guides/spain/modelo_210/)
-- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/spanish/guides/spain/modelo_145/)
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
+- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/es/guides/spain/modelo_130/)
+- [Modelo 210 - Impuestos para No Residentes en España](https://tramitit.com/es/guides/spain/modelo_210/)
+- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/es/guides/spain/modelo_145/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)

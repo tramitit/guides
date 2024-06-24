@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres un proveedo
 - Para expatriados o personas que viven en el extranjero, considere comunicarse con el Consulado o Embajada de Argentina para obtener orientación y asistencia.
 ## Related Posts
 
-- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/spanish/guides/argentina/certificado_de_defunción/)
-- [Cómo obtener un certificado de nacimiento en Argentina](https://tramitit.com/spanish/guides/argentina/partida_de_nacimiento/)
-- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_nacimiento/)
-- [Obtenga de manera eficiente registros de matrimonio seguros argentinos](https://tramitit.com/spanish/guides/argentina/partida_de_matrimonio/)
-- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/spanish/guides/argentina/certificado_de_matrimonio/)
+- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/es/guides/argentina/certificado_de_defunción/)
+- [Cómo obtener un certificado de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/partida_de_nacimiento/)
+- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_nacimiento/)
+- [Obtenga de manera eficiente registros de matrimonio seguros argentinos](https://tramitit.com/es/guides/argentina/partida_de_matrimonio/)
+- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/es/guides/argentina/certificado_de_matrimonio/)

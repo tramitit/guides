@@ -50,8 +50,8 @@ El proceso puede parecer sencillo pero podría llevar una cantidad considerable 
 
 ## Related Posts
 
-- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/spanish/guides/spain/certificado_de_matrimonio/)
-- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_nacionalidad/)
-- [Registro de nacimiento en España: Procedimiento y requisitos](https://tramitit.com/spanish/guides/spain/inscripcion_de_nacimiento/)
-- [Registro de Pareja en España: Procedimiento y Documentos Necesarios](https://tramitit.com/spanish/guides/spain/inscripcion_en_el_registro_de_parejas_de_hecho/)
-- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/spanish/guides/spain/certificado_de_nacimiento/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
+- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)
+- [Registro de nacimiento en España: Procedimiento y requisitos](https://tramitit.com/es/guides/spain/inscripcion_de_nacimiento/)
+- [Registro de Pareja en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_en_el_registro_de_parejas_de_hecho/)
+- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)

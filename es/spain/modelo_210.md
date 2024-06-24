@@ -45,8 +45,8 @@ Los no residentes que tienen ingresos de fuentes españolas, como propiedades de
 - La tasa impositiva para no residentes puede diferir de la de residentes, y varía según el tipo de ingreso.
 ## Related Posts
 
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
-- [Guía Esencial para la Declaración del Modelo 721 en España](https://tramitit.com/spanish/guides/spain/modelo_721/)
-- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/spanish/guides/spain/modelo_720/)
-- [Cómo presentar la declaración de impuestos en España: guía detallada](https://tramitit.com/spanish/guides/spain/presentacion_de_la_declaracion_de_la_renta/)
-- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/spanish/guides/spain/modelo_190/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
+- [Guía Esencial para la Declaración del Modelo 721 en España](https://tramitit.com/es/guides/spain/modelo_721/)
+- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/es/guides/spain/modelo_720/)
+- [Cómo presentar la declaración de impuestos en España: guía detallada](https://tramitit.com/es/guides/spain/presentacion_de_la_declaracion_de_la_renta/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)

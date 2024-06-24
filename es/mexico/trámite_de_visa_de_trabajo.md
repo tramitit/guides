@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Asegúrate de que todos los documentos estén traducidos al español por un traductor certificado si están en otro idioma.
 ## Related Posts
 
-- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/spanish/guides/mexico/permiso_de_trabajo/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/spanish/guides/mexico/inscripción_a_educación_superior/)
-- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_permanente/)
-- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_temporal/)
-- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/pasaporte_mexicano/)
+- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)
+- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/es/guides/mexico/permiso_de_residencia_temporal/)
+- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/es/guides/mexico/pasaporte_mexicano/)

@@ -46,8 +46,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 - Comunícate con los oficiales de reclutamiento o representantes universitarios para obtener apoyo y orientación adicional.
 ## Related Posts
 
-- [Guía completa para solicitar becas en México - Paso a paso](https://tramitit.com/spanish/guides/mexico/solicitud_de_beca/)
-- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/spanish/guides/mexico/certificado_de_estudios/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Guía Completa para Inscripción en Guarderías en México](https://tramitit.com/spanish/guides/mexico/inscripción_a_la_guardería/)
-- [Registro SAT en México - Guía Completa para Estudiantes y Padres](https://tramitit.com/spanish/guides/mexico/inscripción_al_sat/)
+- [Guía completa para solicitar becas en México - Paso a paso](https://tramitit.com/es/guides/mexico/solicitud_de_beca/)
+- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Guía Completa para Inscripción en Guarderías en México](https://tramitit.com/es/guides/mexico/inscripción_a_la_guardería/)
+- [Registro SAT en México - Guía Completa para Estudiantes y Padres](https://tramitit.com/es/guides/mexico/inscripción_al_sat/)

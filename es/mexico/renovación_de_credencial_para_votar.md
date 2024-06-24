@@ -48,8 +48,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a a
 - Si te encuentras fuera de México, puedes visitar tu consulado mexicano más cercano para el mismo servicio.
 ## Related Posts
 
-- [Obtén tu Credencial de Elector mexicana - Pasos y requisitos](https://tramitit.com/spanish/guides/mexico/credencial_para_votar/)
-- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/pasaporte_mexicano/)
-- [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/spanish/guides/mexico/acta_de_nacimiento/)
-- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/spanish/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
-- [Servicios eficientes de renovación de pasaportes en México](https://tramitit.com/spanish/guides/mexico/renovación_de_pasaporte/)
+- [Obtén tu Credencial de Elector mexicana - Pasos y requisitos](https://tramitit.com/es/guides/mexico/credencial_para_votar/)
+- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/es/guides/mexico/pasaporte_mexicano/)
+- [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/es/guides/mexico/acta_de_nacimiento/)
+- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/es/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
+- [Servicios eficientes de renovación de pasaportes en México](https://tramitit.com/es/guides/mexico/renovación_de_pasaporte/)

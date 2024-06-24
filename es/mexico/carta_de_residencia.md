@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Asegúrate siempre de que tus documentos estén actualizados y reflejen con precisión tu dirección.
 ## Related Posts
 
-- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_permanente/)
-- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_temporal/)
-- [Obtén Tu RFC en México - Guía Rápida y Fácil para Residentes](https://tramitit.com/spanish/guides/mexico/inscripción_al_rfc/)
-- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/spanish/guides/mexico/certificado_de_estudios/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/spanish/guides/mexico/legalización_de_documentos/)
+- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)
+- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/es/guides/mexico/permiso_de_residencia_temporal/)
+- [Obtén Tu RFC en México - Guía Rápida y Fácil para Residentes](https://tramitit.com/es/guides/mexico/inscripción_al_rfc/)
+- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)

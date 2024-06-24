@@ -44,8 +44,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si usted es o con
 - Asegúrese de que todos los documentos estén en inglés o español para evitar barreras de idioma en la aduana.
 ## Related Posts
 
-- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/spanish/guides/mexico/certificado_de_estudios/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/spanish/guides/mexico/legalización_de_documentos/)
-- [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/spanish/guides/mexico/acta_de_matrimonio/)
-- [Obtén un Certificado de Defunción en México Rápido y Fácil](https://tramitit.com/spanish/guides/mexico/acta_de_defunción/)
-- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/spanish/guides/mexico/solicitud_de_acta_de_adopción/)
+- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
+- [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)
+- [Obtén un Certificado de Defunción en México Rápido y Fácil](https://tramitit.com/es/guides/mexico/acta_de_defunción/)
+- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopción/)

@@ -55,8 +55,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - Mantén un registro personal de todos los documentos presentados y la correspondencia con ANSES.
 ## Related Posts
 
-- [Servicio de Solicitud de Subsidios Familiares en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_familiar/)
-- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/spanish/guides/argentina/solicitud_de_pensión/)
-- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/spanish/guides/argentina/solicitud_de_jubilación/)
-- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_habitacional/)
-- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_seguro_social/)
+- [Servicio de Solicitud de Subsidios Familiares en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_familiar/)
+- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/es/guides/argentina/solicitud_de_pensión/)
+- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilación/)
+- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_habitacional/)
+- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_seguro_social/)

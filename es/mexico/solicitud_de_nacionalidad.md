@@ -51,8 +51,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Los tiempos de procesamiento pueden variar; planifica en consecuencia.
 ## Related Posts
 
-- [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/spanish/guides/mexico/acta_de_nacimiento/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/spanish/guides/mexico/legalización_de_documentos/)
-- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/spanish/guides/mexico/solicitud_de_acta_de_adopción/)
-- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/spanish/guides/mexico/permiso_de_trabajo/)
+- [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/es/guides/mexico/acta_de_nacimiento/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
+- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopción/)
+- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)

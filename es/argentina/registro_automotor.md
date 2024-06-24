@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Las tasas de registro varían según el tipo de vehículo y la categoría impositiva.
 ## Related Posts
 
-- [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/spanish/guides/argentina/registro_de_exportadores/)
-- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/spanish/guides/argentina/registro_de_importadores/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_régimen_de_autónomos/)
-- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/spanish/guides/argentina/alta_de_servicio_eléctrico/)
-- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/spanish/guides/argentina/documento_nacional_de_identidad/)
+- [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/es/guides/argentina/registro_de_exportadores/)
+- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/es/guides/argentina/registro_de_importadores/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/es/guides/argentina/alta_de_servicio_eléctrico/)
+- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/es/guides/argentina/documento_nacional_de_identidad/)

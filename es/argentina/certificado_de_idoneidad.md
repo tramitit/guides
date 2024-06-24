@@ -47,8 +47,8 @@ _(Actualmente estamos buscando a los mejores proveedores. Si eres un proveedor o
 - Consultar a un experto legal si tiene dudas sobre alguna parte del proceso de solicitud
 ## Related Posts
 
-- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_ética_profesional/)
-- [Obtenga un Certificado de Buena Conducta en Argentina - Guía](https://tramitit.com/spanish/guides/argentina/certificado_de_buena_conducta/)
-- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/spanish/guides/argentina/certificado_de_domicilio/)
-- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_certificado_de_soltería/)
-- [Verificación Integral de Antecedentes Penales en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_antecedentes_penales/)
+- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_ética_profesional/)
+- [Obtenga un Certificado de Buena Conducta en Argentina - Guía](https://tramitit.com/es/guides/argentina/certificado_de_buena_conducta/)
+- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)
+- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_certificado_de_soltería/)
+- [Verificación Integral de Antecedentes Penales en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_antecedentes_penales/)

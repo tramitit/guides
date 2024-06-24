@@ -60,8 +60,8 @@ Para obtener más información sobre la apatridia y los derechos asociados a ell
 
 ## Related Posts
 
-- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_nacionalidad/)
-- [Proceso de Solicitud de Asilo en España: Guía Completa](https://tramitit.com/spanish/guides/spain/solicitud_de_asilo/)
-- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/spanish/guides/spain/nacionalidad_española_por_residencia/)
-- [Baja por Paternidad en España: Procedimiento y Prestaciones](https://tramitit.com/spanish/guides/spain/solicitud_de_la_baja_por_paternidad/)
-- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)
+- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)
+- [Proceso de Solicitud de Asilo en España: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_asilo/)
+- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/es/guides/spain/nacionalidad_española_por_residencia/)
+- [Baja por Paternidad en España: Procedimiento y Prestaciones](https://tramitit.com/es/guides/spain/solicitud_de_la_baja_por_paternidad/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)

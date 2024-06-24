@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Contar con un asesor legal o consultor financiero puede agilizar el proceso.
 ## Related Posts
 
-- [Cómo Obtener una Carta de No Antecedentes Penales en México](https://tramitit.com/spanish/guides/mexico/constancia_de_no_antecedentes_penales/)
-- [Certificado Libre de Gravámenes - Guía para Propietarios en México](https://tramitit.com/spanish/guides/mexico/certificado_de_libertad_de_gravamen/)
-- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/spanish/guides/mexico/certificado_de_estudios/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/spanish/guides/mexico/inscripción_a_educación_superior/)
-- [Obtén un Certificado de Defunción en México Rápido y Fácil](https://tramitit.com/spanish/guides/mexico/acta_de_defunción/)
+- [Cómo Obtener una Carta de No Antecedentes Penales en México](https://tramitit.com/es/guides/mexico/constancia_de_no_antecedentes_penales/)
+- [Certificado Libre de Gravámenes - Guía para Propietarios en México](https://tramitit.com/es/guides/mexico/certificado_de_libertad_de_gravamen/)
+- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Obtén un Certificado de Defunción en México Rápido y Fácil](https://tramitit.com/es/guides/mexico/acta_de_defunción/)

@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Para visitantes extranjeros, puede ser útil contar con un contacto local que ayude con el proceso debido a posibles barreras idiomáticas.
 ## Related Posts
 
-- [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/spanish/guides/mexico/licencia_de_conducir/)
-- [Reexpedición de Placas de Matrícula en México: Guía Completa](https://tramitit.com/spanish/guides/mexico/reemplacamiento/)
-- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/spanish/guides/mexico/permiso_de_circulación/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/spanish/guides/mexico/legalización_de_documentos/)
-- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/pasaporte_mexicano/)
+- [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/es/guides/mexico/licencia_de_conducir/)
+- [Reexpedición de Placas de Matrícula en México: Guía Completa](https://tramitit.com/es/guides/mexico/reemplacamiento/)
+- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulación/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
+- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/es/guides/mexico/pasaporte_mexicano/)

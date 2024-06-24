@@ -49,8 +49,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 - No completar el proceso de reexpedición puede resultar en multas o penalidades por conducir con un registro inadecuado.
 ## Related Posts
 
-- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/spanish/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
-- [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/spanish/guides/mexico/licencia_de_conducir/)
-- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/spanish/guides/mexico/permiso_de_circulación/)
-- [Servicio sin esfuerzo de baja de vehículos en México](https://tramitit.com/spanish/guides/mexico/baja_de_vehículo/)
-- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/pasaporte_mexicano/)
+- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/es/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
+- [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/es/guides/mexico/licencia_de_conducir/)
+- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulación/)
+- [Servicio sin esfuerzo de baja de vehículos en México](https://tramitit.com/es/guides/mexico/baja_de_vehículo/)
+- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/es/guides/mexico/pasaporte_mexicano/)

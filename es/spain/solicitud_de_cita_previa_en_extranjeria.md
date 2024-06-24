@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Related Posts
 
-- [Cómo solicitar cita en SEPE España y qué documentos necesitas](https://tramitit.com/spanish/guides/spain/solicitud_de_cita_previa_para_el_sepe/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)
-- [Guía para obtener visa de nómada digital en España](https://tramitit.com/spanish/guides/spain/solicitud_de_inmigracion/)
-- [Proceso de Autorización para Carta de Invitación a España](https://tramitit.com/spanish/guides/spain/autorización_expedición_carta_de_invitación/)
+- [Cómo solicitar cita en SEPE España y qué documentos necesitas](https://tramitit.com/es/guides/spain/solicitud_de_cita_previa_para_el_sepe/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)
+- [Guía para obtener visa de nómada digital en España](https://tramitit.com/es/guides/spain/solicitud_de_inmigracion/)
+- [Proceso de Autorización para Carta de Invitación a España](https://tramitit.com/es/guides/spain/autorización_expedición_carta_de_invitación/)

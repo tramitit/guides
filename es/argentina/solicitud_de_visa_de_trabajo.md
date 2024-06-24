@@ -53,8 +53,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si usted es o con
 - Validez y renovación de la visa: Entienda la duración de su visa de trabajo y el proceso de renovación si es necesario.
 ## Related Posts
 
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/spanish/guides/argentina/pasaporte_argentino/)
-- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/spanish/guides/argentina/certificado_de_domicilio/)
-- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/spanish/guides/argentina/renovación_de_pasaporte/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/es/guides/argentina/pasaporte_argentino/)
+- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)
+- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/es/guides/argentina/renovación_de_pasaporte/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)

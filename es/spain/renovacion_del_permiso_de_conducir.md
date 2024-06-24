@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Related Posts
 
-- [Cómo obtener una licencia de conducir en España: guía paso a paso](https://tramitit.com/spanish/guides/spain/solicitud_del_permiso_de_conducir/)
-- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/renovacion_del_dni/)
-- [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/spanish/guides/spain/renovacion_de_pasaporte/)
-- [Renovación Tarjeta de Estudiante en España: Guía Completa](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_de_estudiante/)
-- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)
+- [Cómo obtener una licencia de conducir en España: guía paso a paso](https://tramitit.com/es/guides/spain/solicitud_del_permiso_de_conducir/)
+- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_dni/)
+- [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/es/guides/spain/renovacion_de_pasaporte/)
+- [Renovación Tarjeta de Estudiante en España: Guía Completa](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_estudiante/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)

@@ -70,8 +70,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres un proveedo
 
 ## Related Posts
 
-- [Cómo obtener un Certificado de Antecedentes Penales en España](https://tramitit.com/spanish/guides/spain/solicitud_de_certificado_de_antecedentes_penales/)
-- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/spanish/guides/spain/certificado_de_antecedentes_penales/)
-- [Cómo Obtener el Certificado de Delitos de Naturaleza Sexual](https://tramitit.com/spanish/guides/spain/certificado_de_delitos_de_naturaleza_sexual/)
-- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/spanish/guides/spain/certificado_de_matrimonio/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/spanish/guides/spain/certificado_de_defunción/)
+- [Cómo obtener un Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/solicitud_de_certificado_de_antecedentes_penales/)
+- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/certificado_de_antecedentes_penales/)
+- [Cómo Obtener el Certificado de Delitos de Naturaleza Sexual](https://tramitit.com/es/guides/spain/certificado_de_delitos_de_naturaleza_sexual/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
