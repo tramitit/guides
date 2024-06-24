@@ -20,7 +20,7 @@ Anyone who plans to travel internationally and needs documentation to validate t
 
 ## Procedure
 1. Visit the official website of the Croatian Interior Ministry [link](https://mup.gov.hr/)
-2. Access the E-Citizen service [link](https://e-građani.gov.hr/)
+2. Access the E-Citizen service [link](https://gov.hr/?lang=en)
 3. Within the E-Citizen service, find the application for the issuance of the passport.
 4. Fill out the necessary application forms.
 5. Once completed, submit your application and wait for an email confirmation.

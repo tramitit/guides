@@ -53,4 +53,3 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - [Complete Guide to Complementary Health Insurance in France](https://tramitit.com/guides/france/complementary_health_insurance_application/)
 - [How to Apply for Housing Assistance from CAF in France](https://tramitit.com/guides/france/housing_assistance_application/)
 - [Complete Guide to Preschool Enrollment in France - Steps & Tips](https://tramitit.com/guides/france/preschool_registration/)
-- [Daycare Registration Process in Canada: A Detailed Guide](https://tramitit.com/guides/france/daycare_registration/)

@@ -59,4 +59,3 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - [Guide to Enrolling Your Child in a French Middle School](https://tramitit.com/fr/guides/france/inscription_au_college/)
 - [Inscription à l'école primaire en France: Processus et Documents](https://tramitit.com/fr/guides/france/inscription_a_lecole_primaire/)
 - [Maternelle en France: Procédure d'inscription et fournisseurs](https://tramitit.com/fr/guides/france/inscription_a_lecole_maternelle/)
-- [Inscription à la Garderie au Canada: Processus et Docs Requis](https://tramitit.com/fr/guides/france/inscription_a_la_creche/)

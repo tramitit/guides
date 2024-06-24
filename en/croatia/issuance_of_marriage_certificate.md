@@ -18,7 +18,7 @@ A marriage certificate certifies that two individuals are legally married. In Cr
 This process is necessary for anyone who plans to get married in Croatia, whether they are a resident or a foreigner.
 
 ## Procedure
-1. Contact the local Registrar's Office (Maticni Ured) in the city where you plan to marry. You can find a list of these offices on the Croatian Government's e-Citizens portal [here](https://e-građani.gov.hr/).
+1. Contact the local Registrar's Office (Maticni Ured) in the city where you plan to marry. You can find a list of these offices on the Croatian Government's e-Citizens portal [here](https://gov.hr/?lang=en).
 
 2. Set the wedding date and time with the Registrar's Office.
 

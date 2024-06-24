@@ -49,6 +49,5 @@ En France, bien que la fréquentation de la maternelle ne soit pas obligatoire, 
 
 - [Inscription à l'école primaire en France: Processus et Documents](https://tramitit.com/fr/guides/france/inscription_a_lecole_primaire/)
 - [Guide to Enrolling Your Child in a French Middle School](https://tramitit.com/fr/guides/france/inscription_au_college/)
-- [Inscription à la Garderie au Canada: Processus et Docs Requis](https://tramitit.com/fr/guides/france/inscription_a_la_creche/)
 - [Inscription au Lycée en France : Guide Complet et Procédure Facile](https://tramitit.com/fr/guides/france/inscription_au_lycee/)
 - [Déclaration de Naissance en France: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/declaration_de_naissance/)

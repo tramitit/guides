@@ -43,7 +43,7 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Related Posts
 
 - [Guide to Social Housing Assistance in France: Eligibility and Steps](https://tramitit.com/guides/france/social_housing_assistance_application/)
-- [Personalized Autonomy Allowance: Aid for Elderly in France](https://tramitit.com/guides/france/application_for_personalized_autonomy_allowance_(apa)/)
+- [Personalized Autonomy Allowance: Aid for Elderly in France](https://tramitit.com/guides/france/application_for_personalized_autonomy_allowance_apa/)
 - [Understanding Social Housing in France: Eligibility and Application](https://tramitit.com/guides/france/application_for_social_housing/)
 - [How to Apply for Housing Assistance from CAF in France](https://tramitit.com/guides/france/housing_assistance_application/)
 - [How to Obtain Health Insurance Cards in France, Ireland, Poland](https://tramitit.com/guides/france/health_insurance_card_application/)

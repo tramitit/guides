@@ -45,5 +45,5 @@ It's important to know that the judge can adjust the alimony amount if there are
 - [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)
 - [Guide to Retirement Pensions in France: Eligibility and Application](https://tramitit.com/guides/france/retirement_pension_application/)
 - [Unemployment Benefits in France: Eligibility and Application Guide](https://tramitit.com/guides/france/unemployment_benefit_application/)
-- [Personalized Autonomy Allowance: Aid for Elderly in France](https://tramitit.com/guides/france/application_for_personalized_autonomy_allowance_(apa)/)
+- [Personalized Autonomy Allowance: Aid for Elderly in France](https://tramitit.com/guides/france/application_for_personalized_autonomy_allowance_apa/)
 - [Understanding Social Housing in France: Eligibility and Application](https://tramitit.com/guides/france/application_for_social_housing/)

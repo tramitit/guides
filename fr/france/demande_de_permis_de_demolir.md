@@ -22,7 +22,6 @@ Toute personne envisageant de démolir un bâtiment résidentiel ou commercial e
 1. Évaluez si votre projet nécessite un permis de démolition. Certaines démolitions mineures pourraient ne pas nécessiter de permis, en fonction des lois locales.
 2. Déterminez quel organisme de votre région est responsable de délivrer les permis de démolition. Il s'agit généralement du service d'urbanisme ou du service du bâtiment local.
 3. Visitez le site officiel de votre municipalité ou de votre département pour trouver un formulaire de demande ou un processus de demande en ligne.
-   Exemple : Paris - [Direction de l'Urbanisme](https://api-site.paris.fr/images/80149)
 4. Remplissez le formulaire de demande avec des informations détaillées sur la propriété et la démolition prévue. Cela peut inclure la raison de la démolition, la taille et l'âge de la structure, et les méthodes d'élimination des déchets.
 5. Soumettez le formulaire avec les documents requis. Il s'agit généralement d'une preuve de propriété, d'un plan du site de la propriété et d'un plan de méthode.
 6. Payez les frais applicables pour le permis de démolition.

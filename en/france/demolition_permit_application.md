@@ -22,7 +22,6 @@ Anyone planning to demolish an existing residential or commercial building in Fr
 1. Evaluate whether your project needs a demolition permit. Some minor demolitions might not need a permit, depending on local laws.
 2. Determine which agency in your area is responsible for issuing demolition permits. It's typically the local planning or building department.
 3. Visit the official website of your municipality or county to find an application form or online application process.
-   Example: Paris - [Direction de l'Urbanisme](https://api-site.paris.fr/images/80149)
 4. Fill out the application form with detailed information about the property and the planned demolition. This might include the reason for the demolition, the structure’s size and age, and methods of waste disposal.
 5. Submit the form along with any required documents. These generally include proof of ownership, a site plan of the property, and a method statement.
 6. Pay the applicable fee for the demolition permit.

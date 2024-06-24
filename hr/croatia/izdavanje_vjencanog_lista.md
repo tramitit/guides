@@ -19,7 +19,7 @@ Vjenčani list potvrđuje da su dva pojedinca zakonito vjenčani. U Hrvatskoj se
 Ovaj postupak je potreban za sve koji planiraju se vjenčati u Hrvatskoj, bez obzira jesu li rezidenti ili stranci.
 
 ## Postupak
-1. Kontaktirajte lokalni Maticni Ured u gradu u kojem planirate se vjenčati. Popis tih ureda možete pronaći na hrvatskom portalu e-Gradjani Vlade RH [ovdje](https://e-građani.gov.hr/).
+1. Kontaktirajte lokalni Maticni Ured u gradu u kojem planirate se vjenčati. Popis tih ureda možete pronaći na hrvatskom portalu e-Gradjani Vlade RH [ovdje](https://gov.hr/).
 
 2. Dogovorite datum i vrijeme vjenčanja s Maticnim Uredom.
 

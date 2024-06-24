@@ -60,4 +60,4 @@ Remember to read all conditions and fine print in the contract before signing.
 - [French Social Security Registration: Essential Guide for Expats](https://tramitit.com/guides/france/social_security_registration/)
 - [Guide to Mobility Aids in France: From Canes to Scooters](https://tramitit.com/guides/france/mobility_aid_application/)
 - [Understanding Social Housing in France: Eligibility and Application](https://tramitit.com/guides/france/application_for_social_housing/)
-- [Childcare Choice Supplement: Assistance for Nannies & Micro-Creches](https://tramitit.com/guides/france/application_for_childcare_choice_supplement_(cmg)/)
+- [Childcare Choice Supplement: Assistance for Nannies & Micro-Creches](https://tramitit.com/guides/france/application_for_childcare_choice_supplement_cmg/)

@@ -49,6 +49,6 @@ It might be beneficial for certain individuals such as freelancers to check spec
 
 - [Guide to Officially Changing Your Residence Address](https://tramitit.com/guides/croatia/change_of_residence/)
 - [Guide to Obtaining a Residence Permit for Foreign Countries](https://tramitit.com/guides/croatia/issuance_of_residence_permit_for_foreigners/)
-- [How to Obtain Your Personal Identification Number (OIB) in Croatia](https://tramitit.com/guides/croatia/assignment_of_personal_identification_number_(oib)/)
+- [How to Obtain Your Personal Identification Number (OIB) in Croatia](https://tramitit.com/guides/croatia/assignment_of_personal_identification_number_oib/)
 - [State Scholarships: Financial Aid for Higher Education Students](https://tramitit.com/guides/croatia/application_for_state_scholarships/)
 - [How to Legally Change Your Name: Guide and Requirements](https://tramitit.com/guides/croatia/change_of_name/)

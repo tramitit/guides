@@ -50,4 +50,3 @@ Veuillez noter que le système éducatif français est différent de celui de no
 - [Inscription au Lycée en France : Guide Complet et Procédure Facile](https://tramitit.com/fr/guides/france/inscription_au_lycee/)
 - [Maternelle en France: Procédure d'inscription et fournisseurs](https://tramitit.com/fr/guides/france/inscription_a_lecole_maternelle/)
 - [Guide Complet pour l'Inscription Universitaire en France](https://tramitit.com/fr/guides/france/inscription_a_luniversite/)
-- [Inscription à la Garderie au Canada: Processus et Docs Requis](https://tramitit.com/fr/guides/france/inscription_a_la_creche/)

@@ -47,7 +47,7 @@ Participation in the Croatian state healthcare system is compulsory for all resi
 ## Related Posts
 
 - [Get Mandatory Health Insurance in Croatia for Residents & Expats](https://tramitit.com/guides/croatia/obtaining_health_insurance/)
-- [How to Obtain Your Personal Identification Number (OIB) in Croatia](https://tramitit.com/guides/croatia/assignment_of_personal_identification_number_(oib)/)
+- [How to Obtain Your Personal Identification Number (OIB) in Croatia](https://tramitit.com/guides/croatia/assignment_of_personal_identification_number_oib/)
 - [Applying for a National ID Card in Croatia: Full Guide](https://tramitit.com/guides/croatia/issuance_of_id_card/)
 - [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)
 - [How to Obtain a Croatian Passport: Steps and Requirements](https://tramitit.com/guides/croatia/issuance_of_passport/)

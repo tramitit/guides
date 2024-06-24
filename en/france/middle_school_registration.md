@@ -51,4 +51,3 @@ Please note that the French educational system is different from many other coun
 - [Comprehensive Guide to High School Registration in France](https://tramitit.com/guides/france/high_school_registration/)
 - [Complete Guide to Preschool Enrollment in France - Steps & Tips](https://tramitit.com/guides/france/preschool_registration/)
 - [Guide to University Registration for International Students in France](https://tramitit.com/guides/france/university_registration/)
-- [Daycare Registration Process in Canada: A Detailed Guide](https://tramitit.com/guides/france/daycare_registration/)

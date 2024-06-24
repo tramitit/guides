@@ -51,5 +51,4 @@ The registration process, timelines and requirements may vary slightly from one 
 - [Guide to Primary School Registration in France for 2023](https://tramitit.com/guides/france/primary_school_registration/)
 - [Registering Your Child for Middle School in France: A Guide](https://tramitit.com/guides/france/middle_school_registration/)
 - [Comprehensive Guide to High School Registration in France](https://tramitit.com/guides/france/high_school_registration/)
-- [Daycare Registration Process in Canada: A Detailed Guide](https://tramitit.com/guides/france/daycare_registration/)
 - [French Social Security Registration: Essential Guide for Expats](https://tramitit.com/guides/france/social_security_registration/)

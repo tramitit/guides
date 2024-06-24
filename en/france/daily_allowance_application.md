@@ -48,5 +48,5 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - [Sick Leave Application: Procedure, Documents, and Providers Guide](https://tramitit.com/guides/france/sick_leave_application/)
 - [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)
 - [Unemployment Benefits in France: Eligibility and Application Guide](https://tramitit.com/guides/france/unemployment_benefit_application/)
-- [Personalized Autonomy Allowance: Aid for Elderly in France](https://tramitit.com/guides/france/application_for_personalized_autonomy_allowance_(apa)/)
-- [Unemployment Return-to-Work Assistance in France: A Guide](https://tramitit.com/guides/france/unemployment_return-to-work_assistance_(are)_application/)
+- [Personalized Autonomy Allowance: Aid for Elderly in France](https://tramitit.com/guides/france/application_for_personalized_autonomy_allowance_apa/)
+- [Unemployment Return-to-Work Assistance in France: A Guide](https://tramitit.com/guides/france/unemployment_return-to-work_assistance_are_application/)

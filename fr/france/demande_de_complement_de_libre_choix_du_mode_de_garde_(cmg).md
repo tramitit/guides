@@ -49,7 +49,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Vous devez payer votre prestataire de garde d'enfants via Pajemploi pour recevoir le CMG de la CAF. Ils se chargeront des démarches administratives avec votre assistante maternelle ou votre micro-crèche.
 ## Related Posts
 
-- [Inscription à la Garderie au Canada: Processus et Docs Requis](https://tramitit.com/fr/guides/france/inscription_a_la_creche/)
 - [Maternelle en France: Procédure d'inscription et fournisseurs](https://tramitit.com/fr/guides/france/inscription_a_lecole_maternelle/)
 - [Assurance Santé Complémentaire en France: Guide et Procédure](https://tramitit.com/fr/guides/france/demande_de_mutuelle_sante/)
 - [Aide au Logement: Procédure, Documents Requis, Détails](https://tramitit.com/fr/guides/france/demande_daide_au_logement/)
