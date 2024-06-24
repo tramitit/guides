@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Income Tax Declaration Services for Expats in Brazil](https://tramitit.com/english/guides/brazil/income_tax_declaration/)
-- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/english/guides/brazil/retirement_request/)
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
-- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/english/guides/brazil/permit_issuance/)
-- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/english/guides/brazil/nationality_request/)
+- [Income Tax Declaration Services for Expats in Brazil](https://tramitit.com/guides/brazil/income_tax_declaration/)
+- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/guides/brazil/retirement_request/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)
+- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/guides/brazil/permit_issuance/)
+- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/guides/brazil/nationality_request/)

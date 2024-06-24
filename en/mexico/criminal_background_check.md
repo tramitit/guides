@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Get Your No Debt Certificate in Mexico - Step-by-Step Guide](https://tramitit.com/english/guides/mexico/no_debt_certificate/)
-- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/english/guides/mexico/birth_certificate/)
-- [Obtain Your Lien-Free Certificate in Mexico Easily](https://tramitit.com/english/guides/mexico/lien-free_certificate/)
-- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/english/guides/mexico/death_certificate/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
+- [Get Your No Debt Certificate in Mexico - Step-by-Step Guide](https://tramitit.com/guides/mexico/no_debt_certificate/)
+- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/guides/mexico/birth_certificate/)
+- [Obtain Your Lien-Free Certificate in Mexico Easily](https://tramitit.com/guides/mexico/lien-free_certificate/)
+- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/guides/mexico/death_certificate/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)

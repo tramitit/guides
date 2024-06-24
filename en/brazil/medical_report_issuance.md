@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/english/guides/brazil/permit_issuance/)
-- [How to Obtain Your Brazilian Military Service Certificate](https://tramitit.com/english/guides/brazil/military_service_certificate/)
-- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/english/guides/brazil/marriage_certificate/)
-- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/english/guides/brazil/retirement_request/)
-- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/english/guides/brazil/passport_issuance/)
+- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/guides/brazil/permit_issuance/)
+- [How to Obtain Your Brazilian Military Service Certificate](https://tramitit.com/guides/brazil/military_service_certificate/)
+- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/guides/brazil/marriage_certificate/)
+- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/guides/brazil/retirement_request/)
+- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/guides/brazil/passport_issuance/)

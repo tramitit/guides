@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless NGO Registration in Brazil - Legal Guidance & Support](https://tramitit.com/english/guides/brazil/ngo_registration/)
-- [Effortless Property Registration in Brazil Service](https://tramitit.com/english/guides/brazil/property_registration/)
-- [Simplified Guide to Public Tender Registration in Brazil](https://tramitit.com/english/guides/brazil/public_tender_registration/)
-- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/english/guides/brazil/birth_registration/)
-- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/english/guides/brazil/marriage_certificate/)
+- [Effortless NGO Registration in Brazil - Legal Guidance & Support](https://tramitit.com/guides/brazil/ngo_registration/)
+- [Effortless Property Registration in Brazil Service](https://tramitit.com/guides/brazil/property_registration/)
+- [Simplified Guide to Public Tender Registration in Brazil](https://tramitit.com/guides/brazil/public_tender_registration/)
+- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/guides/brazil/birth_registration/)
+- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/guides/brazil/marriage_certificate/)

@@ -55,8 +55,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Obtain Your Permanent Driving License in Brazil Easily](https://tramitit.com/english/guides/brazil/permanent_driving_license/)
-- [Efficient Brazilian Driving License Renewal Service Guide](https://tramitit.com/english/guides/brazil/driving_license_renewal/)
-- [Get Your International Driving Permit for Brazil Easily](https://tramitit.com/english/guides/brazil/international_driving_permit/)
-- [Complete Guide to Vehicle Licensing in Brazil - Steps & Documents](https://tramitit.com/english/guides/brazil/vehicle_licensing/)
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
+- [Obtain Your Permanent Driving License in Brazil Easily](https://tramitit.com/guides/brazil/permanent_driving_license/)
+- [Efficient Brazilian Driving License Renewal Service Guide](https://tramitit.com/guides/brazil/driving_license_renewal/)
+- [Get Your International Driving Permit for Brazil Easily](https://tramitit.com/guides/brazil/international_driving_permit/)
+- [Complete Guide to Vehicle Licensing in Brazil - Steps & Documents](https://tramitit.com/guides/brazil/vehicle_licensing/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)

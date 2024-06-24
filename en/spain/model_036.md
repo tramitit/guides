@@ -61,8 +61,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Be aware of the local obligations: Different regions in Spain might have additional requirements or benefits for autónomos; always check with local authorities.
 ## Related Posts
 
-- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/english/guides/spain/model_130/)
-- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/english/guides/spain/model_347/)
-- [Model 349: Spain's Intra-Community Transaction Declaration Form](https://tramitit.com/english/guides/spain/model_349/)
-- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/english/guides/spain/model_145/)
-- [Guide to Model 390: Essential for Foreigners in Spain (NIE)](https://tramitit.com/english/guides/spain/model_390/)
+- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)
+- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/guides/spain/model_347/)
+- [Model 349: Spain's Intra-Community Transaction Declaration Form](https://tramitit.com/guides/spain/model_349/)
+- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/guides/spain/model_145/)
+- [Guide to Model 390: Essential for Foreigners in Spain (NIE)](https://tramitit.com/guides/spain/model_390/)

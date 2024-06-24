@@ -58,8 +58,8 @@ It's important to stay updated with the local immigration office's requirements,
 
 ## Related Posts
 
-- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/nie_application/)
-- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/english/guides/spain/registration_card/)
-- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/english/guides/spain/certificate_of_registration_of_eu_citizen/)
-- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/english/guides/spain/non-resident_certificate/)
-- [How to Obtain a Green NIE Resident Certificate in Spain](https://tramitit.com/english/guides/spain/resident_certificate/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
+- [How to Obtain a Green NIE Resident Certificate in Spain](https://tramitit.com/guides/spain/resident_certificate/)

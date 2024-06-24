@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Official Change of Address Service in Argentina - Essential Guide](https://tramitit.com/english/guides/argentina/change_of_address/)
-- [Get Your National Identity Document in Argentina Easily](https://tramitit.com/english/guides/argentina/national_identity_document/)
-- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/english/guides/argentina/marriage_certificate/)
-- [Digital Labor Income Certificate Guide for Argentina](https://tramitit.com/english/guides/argentina/digital_labor_income_certificate/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Official Change of Address Service in Argentina - Essential Guide](https://tramitit.com/guides/argentina/change_of_address/)
+- [Get Your National Identity Document in Argentina Easily](https://tramitit.com/guides/argentina/national_identity_document/)
+- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/guides/argentina/marriage_certificate/)
+- [Digital Labor Income Certificate Guide for Argentina](https://tramitit.com/guides/argentina/digital_labor_income_certificate/)

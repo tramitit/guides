@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/english/guides/brazil/national_social_information_registry/)
-- [Comprehensive Guide to Brazil's Social Integration Program](https://tramitit.com/english/guides/brazil/social_integration_program/)
-- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/english/guides/brazil/social_security/)
-- [Accessible Housing - Register for Brazil Popular Habitation](https://tramitit.com/english/guides/brazil/popular_housing_registry/)
-- [Brazil Family Allowance - Financial Aid for Low-Income Families](https://tramitit.com/english/guides/brazil/family_allowance_program/)
+- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/guides/brazil/national_social_information_registry/)
+- [Comprehensive Guide to Brazil's Social Integration Program](https://tramitit.com/guides/brazil/social_integration_program/)
+- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/guides/brazil/social_security/)
+- [Accessible Housing - Register for Brazil Popular Habitation](https://tramitit.com/guides/brazil/popular_housing_registry/)
+- [Brazil Family Allowance - Financial Aid for Low-Income Families](https://tramitit.com/guides/brazil/family_allowance_program/)

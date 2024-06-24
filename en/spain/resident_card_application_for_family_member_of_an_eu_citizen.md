@@ -46,8 +46,8 @@ Some regions in Spain (like Madrid) require the EU member to register in the com
 
 ## Related Posts
 
-- [Residence Card for Non-EU Family Members of EU Citizens in Spain](https://tramitit.com/english/guides/spain/residence_card_of_family_member_of_a_european_union_citizen/)
-- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/english/guides/spain/eu_resident_card_application/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [How to Get a Long-term Residence Card in Spain: A Complete Guide](https://tramitit.com/english/guides/spain/long-term_residence_card/)
-- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_student_card_for_foreigners/)
+- [Residence Card for Non-EU Family Members of EU Citizens in Spain](https://tramitit.com/guides/spain/residence_card_of_family_member_of_a_european_union_citizen/)
+- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [How to Get a Long-term Residence Card in Spain: A Complete Guide](https://tramitit.com/guides/spain/long-term_residence_card/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)

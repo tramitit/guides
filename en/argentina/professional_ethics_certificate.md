@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Environmental Aptitude Certificate for Businesses in Argentina](https://tramitit.com/english/guides/argentina/environmental_aptitude_certificate/)
-- [Obtain a Good Conduct Certificate in Argentina - Guide](https://tramitit.com/english/guides/argentina/good_conduct_certificate/)
-- [Certificate of Suitability in Argentina - Requirements and Process](https://tramitit.com/english/guides/argentina/certificate_of_suitability/)
-- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/english/guides/argentina/cuit_certificate/)
-- [Get Your Debtor's Certificate in Argentina Easily Online](https://tramitit.com/english/guides/argentina/debtors_certificate/)
+- [Environmental Aptitude Certificate for Businesses in Argentina](https://tramitit.com/guides/argentina/environmental_aptitude_certificate/)
+- [Obtain a Good Conduct Certificate in Argentina - Guide](https://tramitit.com/guides/argentina/good_conduct_certificate/)
+- [Certificate of Suitability in Argentina - Requirements and Process](https://tramitit.com/guides/argentina/certificate_of_suitability/)
+- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/guides/argentina/cuit_certificate/)
+- [Get Your Debtor's Certificate in Argentina Easily Online](https://tramitit.com/guides/argentina/debtors_certificate/)

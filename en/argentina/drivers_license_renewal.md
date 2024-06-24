@@ -54,8 +54,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/english/guides/argentina/passport_renewal/)
-- [How to Obtain a Driver's License in Argentina - Complete Guide](https://tramitit.com/english/guides/argentina/drivers_license/)
-- [Get Your Argentinian Passport in Argentina Quickly](https://tramitit.com/english/guides/argentina/argentinian_passport/)
-- [Get Your National Identity Document in Argentina Easily](https://tramitit.com/english/guides/argentina/national_identity_document/)
-- [Vehicle Registration in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/vehicle_registration/)
+- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/guides/argentina/passport_renewal/)
+- [How to Obtain a Driver's License in Argentina - Complete Guide](https://tramitit.com/guides/argentina/drivers_license/)
+- [Get Your Argentinian Passport in Argentina Quickly](https://tramitit.com/guides/argentina/argentinian_passport/)
+- [Get Your National Identity Document in Argentina Easily](https://tramitit.com/guides/argentina/national_identity_document/)
+- [Vehicle Registration in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/vehicle_registration/)

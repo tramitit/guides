@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/english/guides/brazil/national_id/)
-- [Essential Work Card Guide for Employment in Brazil](https://tramitit.com/english/guides/brazil/work_card/)
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
-- [Comprehensive Guide to Brazil's Single Registry Program](https://tramitit.com/english/guides/brazil/single_registry_for_social_programs/)
-- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/english/guides/brazil/national_social_information_registry/)
+- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/guides/brazil/national_id/)
+- [Essential Work Card Guide for Employment in Brazil](https://tramitit.com/guides/brazil/work_card/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)
+- [Comprehensive Guide to Brazil's Single Registry Program](https://tramitit.com/guides/brazil/single_registry_for_social_programs/)
+- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/guides/brazil/national_social_information_registry/)

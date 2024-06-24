@@ -61,8 +61,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Maintaining organized records throughout the year can simplify the process of completing Model 130.
 ## Related Posts
 
-- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/english/guides/spain/model_145/)
-- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/english/guides/spain/model_190/)
-- [Complete Guide to Filing Income Tax Returns in Spain](https://tramitit.com/english/guides/spain/income_tax_return_filing/)
-- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/english/guides/spain/model_036/)
-- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/english/guides/spain/model_347/)
+- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/guides/spain/model_145/)
+- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/guides/spain/model_190/)
+- [Complete Guide to Filing Income Tax Returns in Spain](https://tramitit.com/guides/spain/income_tax_return_filing/)
+- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/guides/spain/model_036/)
+- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/guides/spain/model_347/)

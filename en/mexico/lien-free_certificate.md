@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Get Your No Debt Certificate in Mexico - Step-by-Step Guide](https://tramitit.com/english/guides/mexico/no_debt_certificate/)
-- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/english/guides/mexico/death_certificate/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
-- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/english/guides/mexico/marriage_certificate/)
-- [Obtain a Mexican Criminal Background Check - Steps & Requirements](https://tramitit.com/english/guides/mexico/criminal_background_check/)
+- [Get Your No Debt Certificate in Mexico - Step-by-Step Guide](https://tramitit.com/guides/mexico/no_debt_certificate/)
+- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/guides/mexico/death_certificate/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)
+- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/guides/mexico/marriage_certificate/)
+- [Obtain a Mexican Criminal Background Check - Steps & Requirements](https://tramitit.com/guides/mexico/criminal_background_check/)

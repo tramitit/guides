@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/english/guides/mexico/reissuance_of_license_plates/)
-- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/english/guides/mexico/driving_license/)
-- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/english/guides/mexico/circulation_permit/)
-- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/english/guides/mexico/mexican_passport/)
-- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/english/guides/mexico/voter_id_renewal/)
+- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/guides/mexico/reissuance_of_license_plates/)
+- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/guides/mexico/driving_license/)
+- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/guides/mexico/circulation_permit/)
+- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/guides/mexico/mexican_passport/)
+- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/guides/mexico/voter_id_renewal/)

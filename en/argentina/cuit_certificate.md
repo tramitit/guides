@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Get Your Unique Labor Identification Code in Argentina](https://tramitit.com/english/guides/argentina/unique_labor_identification_code/)
-- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/english/guides/argentina/self-employed_registration/)
-- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/english/guides/argentina/importers_registration/)
-- [Digital Labor Income Certificate Guide for Argentina](https://tramitit.com/english/guides/argentina/digital_labor_income_certificate/)
-- [Get Your Debtor's Certificate in Argentina Easily Online](https://tramitit.com/english/guides/argentina/debtors_certificate/)
+- [Get Your Unique Labor Identification Code in Argentina](https://tramitit.com/guides/argentina/unique_labor_identification_code/)
+- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/guides/argentina/self-employed_registration/)
+- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/guides/argentina/importers_registration/)
+- [Digital Labor Income Certificate Guide for Argentina](https://tramitit.com/guides/argentina/digital_labor_income_certificate/)
+- [Get Your Debtor's Certificate in Argentina Easily Online](https://tramitit.com/guides/argentina/debtors_certificate/)

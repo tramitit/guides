@@ -46,8 +46,8 @@ Please note that each person’s situation may vary, and some individuals may ne
 
 ## Related Posts
 
-- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/english/guides/spain/student_card_application/)
-- [Guide to Renewing Your Student Card (TIE) in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/student_card_renewal/)
-- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_student_card_for_foreigners/)
-- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/nie_application/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/guides/spain/student_card_application/)
+- [Guide to Renewing Your Student Card (TIE) in Spain: Steps & Tips](https://tramitit.com/guides/spain/student_card_renewal/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)

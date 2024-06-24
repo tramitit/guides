@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Guide to Obtaining a Driver's License in Spain for Non-Residents](https://tramitit.com/english/guides/spain/drivers_license_application/)
-- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/english/guides/spain/id_card_renewal/)
-- [How to Renew Your Passport in Spain: A Step-by-Step Guide](https://tramitit.com/english/guides/spain/passport_renewal/)
-- [Guide to Renewing Your Student Card (TIE) in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/student_card_renewal/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/english/guides/spain/id_card_application/)
+- [Guide to Obtaining a Driver's License in Spain for Non-Residents](https://tramitit.com/guides/spain/drivers_license_application/)
+- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/guides/spain/id_card_renewal/)
+- [How to Renew Your Passport in Spain: A Step-by-Step Guide](https://tramitit.com/guides/spain/passport_renewal/)
+- [Guide to Renewing Your Student Card (TIE) in Spain: Steps & Tips](https://tramitit.com/guides/spain/student_card_renewal/)
+- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)

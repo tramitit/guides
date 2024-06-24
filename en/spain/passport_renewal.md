@@ -55,8 +55,8 @@ In case you are a dual citizen (US-Spain), you do not need to have a valid US pa
 
 ## Related Posts
 
-- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/english/guides/spain/passport_application/)
-- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/english/guides/spain/id_card_renewal/)
-- [Driver's License Renewal Guide in Spain: Steps and Requirements](https://tramitit.com/english/guides/spain/drivers_license_renewal/)
-- [How to Renew Your Work Permit in Spain: A Comprehensive Guide](https://tramitit.com/english/guides/spain/work_permit_renewal/)
-- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_student_card_for_foreigners/)
+- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/guides/spain/passport_application/)
+- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/guides/spain/id_card_renewal/)
+- [Driver's License Renewal Guide in Spain: Steps and Requirements](https://tramitit.com/guides/spain/drivers_license_renewal/)
+- [How to Renew Your Work Permit in Spain: A Comprehensive Guide](https://tramitit.com/guides/spain/work_permit_renewal/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)

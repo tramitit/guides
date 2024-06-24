@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Single Status Certificate in Argentina - Procedure & Requirements](https://tramitit.com/english/guides/argentina/single_status_certificate/)
-- [Obtain a Good Conduct Certificate in Argentina - Guide](https://tramitit.com/english/guides/argentina/good_conduct_certificate/)
-- [Get Your Debtor's Certificate in Argentina Easily Online](https://tramitit.com/english/guides/argentina/debtors_certificate/)
-- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/english/guides/argentina/professional_ethics_certificate/)
-- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/english/guides/argentina/marriage_certificate/)
+- [Single Status Certificate in Argentina - Procedure & Requirements](https://tramitit.com/guides/argentina/single_status_certificate/)
+- [Obtain a Good Conduct Certificate in Argentina - Guide](https://tramitit.com/guides/argentina/good_conduct_certificate/)
+- [Get Your Debtor's Certificate in Argentina Easily Online](https://tramitit.com/guides/argentina/debtors_certificate/)
+- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/guides/argentina/professional_ethics_certificate/)
+- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/guides/argentina/marriage_certificate/)

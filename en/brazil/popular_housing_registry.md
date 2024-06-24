@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless Property Registration in Brazil Service](https://tramitit.com/english/guides/brazil/property_registration/)
-- [Comprehensive Guide to Brazil's Single Registry Program](https://tramitit.com/english/guides/brazil/single_registry_for_social_programs/)
-- [Rural Environmental Registry Process in Brazil Made Simple](https://tramitit.com/english/guides/brazil/rural_environmental_registry/)
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
+- [Effortless Property Registration in Brazil Service](https://tramitit.com/guides/brazil/property_registration/)
+- [Comprehensive Guide to Brazil's Single Registry Program](https://tramitit.com/guides/brazil/single_registry_for_social_programs/)
+- [Rural Environmental Registry Process in Brazil Made Simple](https://tramitit.com/guides/brazil/rural_environmental_registry/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)

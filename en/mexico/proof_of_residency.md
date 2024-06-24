@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
-- [Get Your Mexican Permanent Residency Permit Easily](https://tramitit.com/english/guides/mexico/permanent_residence_permit/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
-- [Efficient Document Legalization Services in Mexico](https://tramitit.com/english/guides/mexico/document_legalization/)
-- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/english/guides/mexico/work_permit/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)
+- [Get Your Mexican Permanent Residency Permit Easily](https://tramitit.com/guides/mexico/permanent_residence_permit/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)
+- [Efficient Document Legalization Services in Mexico](https://tramitit.com/guides/mexico/document_legalization/)
+- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/guides/mexico/work_permit/)

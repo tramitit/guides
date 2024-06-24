@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Driver's License Renewal in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/drivers_license_renewal/)
-- [Vehicle Registration in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/vehicle_registration/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/english/guides/argentina/passport_renewal/)
-- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/proof_of_residency/)
+- [Driver's License Renewal in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/drivers_license_renewal/)
+- [Vehicle Registration in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/vehicle_registration/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/guides/argentina/passport_renewal/)
+- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/proof_of_residency/)

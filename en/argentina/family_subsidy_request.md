@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Argentina Housing Subsidy Request - Secure Financial Aid for Housing](https://tramitit.com/english/guides/argentina/housing_subsidy_request/)
-- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/english/guides/argentina/unemployment_subsidy_request/)
-- [Apply for Child Allowance in Argentina Easily Online](https://tramitit.com/english/guides/argentina/child_allowance_request/)
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
+- [Argentina Housing Subsidy Request - Secure Financial Aid for Housing](https://tramitit.com/guides/argentina/housing_subsidy_request/)
+- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/guides/argentina/unemployment_subsidy_request/)
+- [Apply for Child Allowance in Argentina Easily Online](https://tramitit.com/guides/argentina/child_allowance_request/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)

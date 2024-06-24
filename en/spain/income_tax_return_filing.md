@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 You have the right to change your tax return after filing it if you discover any errors or omissions. This can be done through an amendment tax return, also available on the tax agency portal. Be mindful of your country of residence's tax treaty with Spain to avoid double taxation, if applicable. You may also seek assistance from local tax professionals if you encounter difficulties in the process.
 ## Related Posts
 
-- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/english/guides/spain/model_130/)
-- [Understanding Spain's Model 210 Non-Resident Tax Form](https://tramitit.com/english/guides/spain/model_210/)
-- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/english/guides/spain/model_145/)
-- [S-1 Declaration: How to Declare Money Moved to Spain](https://tramitit.com/english/guides/spain/s_1_declaration/)
-- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/english/guides/spain/model_190/)
+- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)
+- [Understanding Spain's Model 210 Non-Resident Tax Form](https://tramitit.com/guides/spain/model_210/)
+- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/guides/spain/model_145/)
+- [S-1 Declaration: How to Declare Money Moved to Spain](https://tramitit.com/guides/spain/s_1_declaration/)
+- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/guides/spain/model_190/)

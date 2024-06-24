@@ -59,8 +59,8 @@ For further information on statelessness and rights associated with it, refer to
 
 ## Related Posts
 
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)
-- [How to Obtain Spanish Nationality by Residence: Step-by-Step Guide](https://tramitit.com/english/guides/spain/spanish_nationality_by_residence/)
-- [Guide to Applying for Asylum in Spain: Step-by-Step Process](https://tramitit.com/english/guides/spain/asylum_application/)
-- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/english/guides/spain/non-resident_certificate/)
-- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/english/guides/spain/passport_application/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
+- [How to Obtain Spanish Nationality by Residence: Step-by-Step Guide](https://tramitit.com/guides/spain/spanish_nationality_by_residence/)
+- [Guide to Applying for Asylum in Spain: Step-by-Step Process](https://tramitit.com/guides/spain/asylum_application/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
+- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/guides/spain/passport_application/)

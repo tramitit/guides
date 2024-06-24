@@ -47,8 +47,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Rural Environmental Registry Process in Brazil Made Simple](https://tramitit.com/english/guides/brazil/rural_environmental_registry/)
-- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/english/guides/brazil/retirement_request/)
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
-- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/english/guides/brazil/permit_issuance/)
-- [Simplified Guide to Public Tender Registration in Brazil](https://tramitit.com/english/guides/brazil/public_tender_registration/)
+- [Rural Environmental Registry Process in Brazil Made Simple](https://tramitit.com/guides/brazil/rural_environmental_registry/)
+- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/guides/brazil/retirement_request/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)
+- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/guides/brazil/permit_issuance/)
+- [Simplified Guide to Public Tender Registration in Brazil](https://tramitit.com/guides/brazil/public_tender_registration/)

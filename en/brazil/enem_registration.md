@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
-- [Comprehensive Guide to Military Enlistment in Brazil](https://tramitit.com/english/guides/brazil/military_enlistment/)
-- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/english/guides/brazil/national_social_information_registry/)
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
-- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/english/guides/brazil/birth_registration/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)
+- [Comprehensive Guide to Military Enlistment in Brazil](https://tramitit.com/guides/brazil/military_enlistment/)
+- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/guides/brazil/national_social_information_registry/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)
+- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/guides/brazil/birth_registration/)

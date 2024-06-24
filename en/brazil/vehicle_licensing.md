@@ -54,8 +54,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Seamless Vehicle Ownership Transfer Service in Brazil](https://tramitit.com/english/guides/brazil/vehicle_transfer/)
-- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/english/guides/brazil/driving_license/)
-- [Obtain Your Permanent Driving License in Brazil Easily](https://tramitit.com/english/guides/brazil/permanent_driving_license/)
-- [Efficient Brazilian Driving License Renewal Service Guide](https://tramitit.com/english/guides/brazil/driving_license_renewal/)
-- [Effortless Property Registration in Brazil Service](https://tramitit.com/english/guides/brazil/property_registration/)
+- [Seamless Vehicle Ownership Transfer Service in Brazil](https://tramitit.com/guides/brazil/vehicle_transfer/)
+- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/guides/brazil/driving_license/)
+- [Obtain Your Permanent Driving License in Brazil Easily](https://tramitit.com/guides/brazil/permanent_driving_license/)
+- [Efficient Brazilian Driving License Renewal Service Guide](https://tramitit.com/guides/brazil/driving_license_renewal/)
+- [Effortless Property Registration in Brazil Service](https://tramitit.com/guides/brazil/property_registration/)

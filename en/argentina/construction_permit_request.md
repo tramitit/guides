@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/english/guides/argentina/importers_registration/)
-- [Environmental Aptitude Certificate for Businesses in Argentina](https://tramitit.com/english/guides/argentina/environmental_aptitude_certificate/)
-- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/english/guides/argentina/exporters_registration/)
-- [Effortless Electric Service Registration in Argentina](https://tramitit.com/english/guides/argentina/electric_service_registration/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/guides/argentina/importers_registration/)
+- [Environmental Aptitude Certificate for Businesses in Argentina](https://tramitit.com/guides/argentina/environmental_aptitude_certificate/)
+- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/guides/argentina/exporters_registration/)
+- [Effortless Electric Service Registration in Argentina](https://tramitit.com/guides/argentina/electric_service_registration/)

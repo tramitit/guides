@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/english/guides/brazil/national_social_information_registry/)
-- [Comprehensive Guide to Brazil's Social Integration Program](https://tramitit.com/english/guides/brazil/social_integration_program/)
-- [Streamlined Guide for Death Pension Request in Brazil](https://tramitit.com/english/guides/brazil/death_pension_request/)
-- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/english/guides/brazil/unemployment_insurance/)
-- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/english/guides/brazil/retirement_request/)
+- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/guides/brazil/national_social_information_registry/)
+- [Comprehensive Guide to Brazil's Social Integration Program](https://tramitit.com/guides/brazil/social_integration_program/)
+- [Streamlined Guide for Death Pension Request in Brazil](https://tramitit.com/guides/brazil/death_pension_request/)
+- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/guides/brazil/unemployment_insurance/)
+- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/guides/brazil/retirement_request/)

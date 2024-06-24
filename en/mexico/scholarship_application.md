@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guide to Enrolling in Mexican Universities](https://tramitit.com/english/guides/mexico/higher_education_enrollment/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [Steps & Requirements for Housing Subsidies in Mexico](https://tramitit.com/english/guides/mexico/housing_subsidy_request/)
-- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/english/guides/mexico/pension_request/)
+- [Comprehensive Guide to Enrolling in Mexican Universities](https://tramitit.com/guides/mexico/higher_education_enrollment/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [Steps & Requirements for Housing Subsidies in Mexico](https://tramitit.com/guides/mexico/housing_subsidy_request/)
+- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/guides/mexico/pension_request/)

@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/english/guides/mexico/driving_license/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
-- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/english/guides/mexico/work_permit/)
-- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/english/guides/mexico/reissuance_of_license_plates/)
-- [Get Your Mexican Permanent Residency Permit Easily](https://tramitit.com/english/guides/mexico/permanent_residence_permit/)
+- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/guides/mexico/driving_license/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)
+- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/guides/mexico/work_permit/)
+- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/guides/mexico/reissuance_of_license_plates/)
+- [Get Your Mexican Permanent Residency Permit Easily](https://tramitit.com/guides/mexico/permanent_residence_permit/)

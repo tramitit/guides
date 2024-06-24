@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
-- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/english/guides/mexico/work_permit/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [Guide to Proof of Residency in Mexico - Steps & Documents](https://tramitit.com/english/guides/mexico/proof_of_residency/)
-- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/english/guides/mexico/mexican_passport/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)
+- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/guides/mexico/work_permit/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [Guide to Proof of Residency in Mexico - Steps & Documents](https://tramitit.com/guides/mexico/proof_of_residency/)
+- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/guides/mexico/mexican_passport/)

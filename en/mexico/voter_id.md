@@ -45,8 +45,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/english/guides/mexico/voter_id_renewal/)
-- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/english/guides/mexico/work_permit/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
-- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/english/guides/mexico/mexican_passport/)
-- [Get Your Mexican Permanent Residency Permit Easily](https://tramitit.com/english/guides/mexico/permanent_residence_permit/)
+- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/guides/mexico/voter_id_renewal/)
+- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/guides/mexico/work_permit/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)
+- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/guides/mexico/mexican_passport/)
+- [Get Your Mexican Permanent Residency Permit Easily](https://tramitit.com/guides/mexico/permanent_residence_permit/)

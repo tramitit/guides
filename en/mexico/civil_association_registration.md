@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless RFC Registration for Residents and Businesses in Mexico](https://tramitit.com/english/guides/mexico/rfc_registration/)
-- [Construction Permit Request in Mexico – Easy Guidelines](https://tramitit.com/english/guides/mexico/construction_permit_request/)
-- [Obtain Your Tax Status Certificate in Mexico Effortlessly](https://tramitit.com/english/guides/mexico/tax_status_certificate/)
-- [Efficient Document Legalization Services in Mexico](https://tramitit.com/english/guides/mexico/document_legalization/)
-- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/english/guides/mexico/adoption_certificate_request/)
+- [Effortless RFC Registration for Residents and Businesses in Mexico](https://tramitit.com/guides/mexico/rfc_registration/)
+- [Construction Permit Request in Mexico – Easy Guidelines](https://tramitit.com/guides/mexico/construction_permit_request/)
+- [Obtain Your Tax Status Certificate in Mexico Effortlessly](https://tramitit.com/guides/mexico/tax_status_certificate/)
+- [Efficient Document Legalization Services in Mexico](https://tramitit.com/guides/mexico/document_legalization/)
+- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/guides/mexico/adoption_certificate_request/)

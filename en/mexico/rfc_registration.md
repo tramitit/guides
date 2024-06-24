@@ -47,8 +47,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Obtain Your Tax Status Certificate in Mexico Effortlessly](https://tramitit.com/english/guides/mexico/tax_status_certificate/)
-- [Effortless CURP Registration Guide for Mexico Residents](https://tramitit.com/english/guides/mexico/curp_registration/)
-- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/english/guides/mexico/imss_enrollment/)
-- [SAT Registration in Mexico - Steps for High School Students](https://tramitit.com/english/guides/mexico/sat_registration/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
+- [Obtain Your Tax Status Certificate in Mexico Effortlessly](https://tramitit.com/guides/mexico/tax_status_certificate/)
+- [Effortless CURP Registration Guide for Mexico Residents](https://tramitit.com/guides/mexico/curp_registration/)
+- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/guides/mexico/imss_enrollment/)
+- [SAT Registration in Mexico - Steps for High School Students](https://tramitit.com/guides/mexico/sat_registration/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)

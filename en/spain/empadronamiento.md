@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Remember, the empadronamiento process must be done in person and is free of cost. While no official deadline is given, it is recommended that you do this as soon as you arrive to avoid any potential issues. It should also be done before applying for TIE (Tarjeta de Identidad de Extranjero), as you'll need to provide your empadronamiento.
 ## Related Posts
 
-- [Comprehensive Guide to Spanish Census Registration Process](https://tramitit.com/english/guides/spain/census_registration/)
-- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/english/guides/spain/certificate_of_residence/)
-- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/english/guides/spain/certificate_of_registration_of_eu_citizen/)
-- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/nie_application/)
-- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/english/guides/spain/registration_card/)
+- [Comprehensive Guide to Spanish Census Registration Process](https://tramitit.com/guides/spain/census_registration/)
+- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/guides/spain/certificate_of_residence/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)

@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/proof_of_residency/)
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Effortless Social Security Registration in Argentina](https://tramitit.com/english/guides/argentina/social_security_registration/)
-- [Guide to Securely Filing Your Argentine Pension Request](https://tramitit.com/english/guides/argentina/pension_request/)
+- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/proof_of_residency/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Effortless Social Security Registration in Argentina](https://tramitit.com/guides/argentina/social_security_registration/)
+- [Guide to Securely Filing Your Argentine Pension Request](https://tramitit.com/guides/argentina/pension_request/)

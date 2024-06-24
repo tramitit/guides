@@ -42,8 +42,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For any additional queries or complexities, it is advisable to consult with a local legal advisor or the relevant administrative office.
 ## Related Posts
 
-- [How to Pay Spain's Model 790 Fee for Administrative Processes](https://tramitit.com/english/guides/spain/model_790/)
-- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/nie_application/)
-- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/english/guides/spain/model_145/)
-- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/english/guides/spain/model_036/)
-- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/english/guides/spain/model_190/)
+- [How to Pay Spain's Model 790 Fee for Administrative Processes](https://tramitit.com/guides/spain/model_790/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/guides/spain/model_145/)
+- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/guides/spain/model_036/)
+- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/guides/spain/model_190/)

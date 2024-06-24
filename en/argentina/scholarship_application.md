@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Enroll in Higher Education Institutions in Argentina](https://tramitit.com/english/guides/argentina/higher_education_enrollment/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Family Subsidy Request Service in Argentina - Financial Aid Info](https://tramitit.com/english/guides/argentina/family_subsidy_request/)
-- [Argentina Housing Subsidy Request - Secure Financial Aid for Housing](https://tramitit.com/english/guides/argentina/housing_subsidy_request/)
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
+- [Enroll in Higher Education Institutions in Argentina](https://tramitit.com/guides/argentina/higher_education_enrollment/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Family Subsidy Request Service in Argentina - Financial Aid Info](https://tramitit.com/guides/argentina/family_subsidy_request/)
+- [Argentina Housing Subsidy Request - Secure Financial Aid for Housing](https://tramitit.com/guides/argentina/housing_subsidy_request/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)

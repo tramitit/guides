@@ -45,8 +45,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless RFC Registration for Residents and Businesses in Mexico](https://tramitit.com/english/guides/mexico/rfc_registration/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
-- [SAT Registration in Mexico - Steps for High School Students](https://tramitit.com/english/guides/mexico/sat_registration/)
-- [Effortless CURP Registration Guide for Mexico Residents](https://tramitit.com/english/guides/mexico/curp_registration/)
-- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/english/guides/mexico/marriage_certificate/)
+- [Effortless RFC Registration for Residents and Businesses in Mexico](https://tramitit.com/guides/mexico/rfc_registration/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)
+- [SAT Registration in Mexico - Steps for High School Students](https://tramitit.com/guides/mexico/sat_registration/)
+- [Effortless CURP Registration Guide for Mexico Residents](https://tramitit.com/guides/mexico/curp_registration/)
+- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/guides/mexico/marriage_certificate/)

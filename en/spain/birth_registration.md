@@ -47,8 +47,8 @@ It is recommended to register the birth as soon as possible after it occurs, ide
 
 ## Related Posts
 
-- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/birth_certificate/)
-- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/english/guides/spain/death_registration/)
-- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/english/guides/spain/prestacion_por_nacimiento/)
-- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/english/guides/spain/marriage_certificate/)
-- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/death_certificate/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/guides/spain/death_registration/)
+- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/guides/spain/prestacion_por_nacimiento/)
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)

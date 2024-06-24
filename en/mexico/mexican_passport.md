@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Renew Your Venezuelan or US Passport in Mexico | Hassle-Free Service](https://tramitit.com/english/guides/mexico/passport_renewal/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
-- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/english/guides/mexico/voter_id_renewal/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [Get Your Mexican Permanent Residency Permit Easily](https://tramitit.com/english/guides/mexico/permanent_residence_permit/)
+- [Renew Your Venezuelan or US Passport in Mexico | Hassle-Free Service](https://tramitit.com/guides/mexico/passport_renewal/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)
+- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/guides/mexico/voter_id_renewal/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [Get Your Mexican Permanent Residency Permit Easily](https://tramitit.com/guides/mexico/permanent_residence_permit/)

@@ -44,8 +44,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/english/guides/mexico/birth_certificate/)
-- [Effortless RFC Registration for Residents and Businesses in Mexico](https://tramitit.com/english/guides/mexico/rfc_registration/)
-- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/english/guides/mexico/imss_enrollment/)
-- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/english/guides/mexico/voter_id_renewal/)
-- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/english/guides/mexico/death_certificate/)
+- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/guides/mexico/birth_certificate/)
+- [Effortless RFC Registration for Residents and Businesses in Mexico](https://tramitit.com/guides/mexico/rfc_registration/)
+- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/guides/mexico/imss_enrollment/)
+- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/guides/mexico/voter_id_renewal/)
+- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/guides/mexico/death_certificate/)

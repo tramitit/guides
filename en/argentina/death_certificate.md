@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Death Record Services in Argentina - Quick & Easy Process](https://tramitit.com/english/guides/argentina/death_record/)
-- [How to Obtain an Argentine Birth Certificate - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/birth_record/)
-- [Get Certified Argentine Birth Certificate - Easy Process](https://tramitit.com/english/guides/argentina/birth_certificate/)
-- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/english/guides/argentina/marriage_certificate/)
-- [Certified Marriage Records from Argentina - Quick and Reliable](https://tramitit.com/english/guides/argentina/marriage_record/)
+- [Death Record Services in Argentina - Quick & Easy Process](https://tramitit.com/guides/argentina/death_record/)
+- [How to Obtain an Argentine Birth Certificate - Step-by-Step Guide](https://tramitit.com/guides/argentina/birth_record/)
+- [Get Certified Argentine Birth Certificate - Easy Process](https://tramitit.com/guides/argentina/birth_certificate/)
+- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/guides/argentina/marriage_certificate/)
+- [Certified Marriage Records from Argentina - Quick and Reliable](https://tramitit.com/guides/argentina/marriage_record/)

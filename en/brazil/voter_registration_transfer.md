@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless Electoral Regularization in Brazil Online](https://tramitit.com/english/guides/brazil/electoral_regularization/)
-- [Seamless Vehicle Ownership Transfer Service in Brazil](https://tramitit.com/english/guides/brazil/vehicle_transfer/)
-- [Comprehensive Guide to Transferring Students Between Brazil Schools](https://tramitit.com/english/guides/brazil/public_school_transfer/)
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
-- [Effortless Property Registration in Brazil Service](https://tramitit.com/english/guides/brazil/property_registration/)
+- [Effortless Electoral Regularization in Brazil Online](https://tramitit.com/guides/brazil/electoral_regularization/)
+- [Seamless Vehicle Ownership Transfer Service in Brazil](https://tramitit.com/guides/brazil/vehicle_transfer/)
+- [Comprehensive Guide to Transferring Students Between Brazil Schools](https://tramitit.com/guides/brazil/public_school_transfer/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)
+- [Effortless Property Registration in Brazil Service](https://tramitit.com/guides/brazil/property_registration/)

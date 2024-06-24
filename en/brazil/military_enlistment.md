@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Obtain Your Brazilian Military Service Certificate](https://tramitit.com/english/guides/brazil/military_service_certificate/)
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
-- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/english/guides/brazil/birth_registration/)
-- [Effortless Electoral Regularization in Brazil Online](https://tramitit.com/english/guides/brazil/electoral_regularization/)
-- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/english/guides/brazil/retirement_request/)
+- [How to Obtain Your Brazilian Military Service Certificate](https://tramitit.com/guides/brazil/military_service_certificate/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)
+- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/guides/brazil/birth_registration/)
+- [Effortless Electoral Regularization in Brazil Online](https://tramitit.com/guides/brazil/electoral_regularization/)
+- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/guides/brazil/retirement_request/)

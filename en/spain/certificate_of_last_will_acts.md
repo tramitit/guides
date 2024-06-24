@@ -41,8 +41,8 @@ Please note that processing times may vary depending on the time of year and wor
 
 ## Related Posts
 
-- [Guide to Obtaining a Last Will Certificate in Spain](https://tramitit.com/english/guides/spain/last_will_certificate_request/)
-- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/death_certificate/)
-- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/english/guides/spain/death_registration/)
-- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/birth_certificate/)
-- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/english/guides/spain/marriage_certificate/)
+- [Guide to Obtaining a Last Will Certificate in Spain](https://tramitit.com/guides/spain/last_will_certificate_request/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)
+- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/guides/spain/death_registration/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)

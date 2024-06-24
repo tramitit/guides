@@ -58,8 +58,8 @@ Keep in mind that each case is different and the process may vary depending on y
 
 ## Related Posts
 
-- [How to Apply for a Resident Card for Non-EU Family in Spain](https://tramitit.com/english/guides/spain/resident_card_application_for_family_member_of_an_eu_citizen/)
-- [Residence Card for Non-EU Family Members of EU Citizens in Spain](https://tramitit.com/english/guides/spain/residence_card_of_family_member_of_a_european_union_citizen/)
-- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/english/guides/spain/eu_resident_card_application/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_student_card_for_foreigners/)
+- [How to Apply for a Resident Card for Non-EU Family in Spain](https://tramitit.com/guides/spain/resident_card_application_for_family_member_of_an_eu_citizen/)
+- [Residence Card for Non-EU Family Members of EU Citizens in Spain](https://tramitit.com/guides/spain/residence_card_of_family_member_of_a_european_union_citizen/)
+- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)

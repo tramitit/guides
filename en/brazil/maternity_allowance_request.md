@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/english/guides/brazil/unemployment_insurance/)
-- [Brazil Family Allowance - Financial Aid for Low-Income Families](https://tramitit.com/english/guides/brazil/family_allowance_program/)
-- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/english/guides/brazil/social_security/)
-- [Streamlined Guide for Death Pension Request in Brazil](https://tramitit.com/english/guides/brazil/death_pension_request/)
-- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/english/guides/brazil/retirement_request/)
+- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/guides/brazil/unemployment_insurance/)
+- [Brazil Family Allowance - Financial Aid for Low-Income Families](https://tramitit.com/guides/brazil/family_allowance_program/)
+- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/guides/brazil/social_security/)
+- [Streamlined Guide for Death Pension Request in Brazil](https://tramitit.com/guides/brazil/death_pension_request/)
+- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/guides/brazil/retirement_request/)

@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Brazilian Voter Registration Transfer - Update Your Info Easily](https://tramitit.com/english/guides/brazil/voter_registration_transfer/)
-- [Seamless Vehicle Ownership Transfer Service in Brazil](https://tramitit.com/english/guides/brazil/vehicle_transfer/)
-- [Effortless Property Registration in Brazil Service](https://tramitit.com/english/guides/brazil/property_registration/)
-- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/english/guides/brazil/driving_license/)
-- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/english/guides/brazil/nationality_request/)
+- [Brazilian Voter Registration Transfer - Update Your Info Easily](https://tramitit.com/guides/brazil/voter_registration_transfer/)
+- [Seamless Vehicle Ownership Transfer Service in Brazil](https://tramitit.com/guides/brazil/vehicle_transfer/)
+- [Effortless Property Registration in Brazil Service](https://tramitit.com/guides/brazil/property_registration/)
+- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/guides/brazil/driving_license/)
+- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/guides/brazil/nationality_request/)

@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Steps & Requirements for Housing Subsidies in Mexico](https://tramitit.com/english/guides/mexico/housing_subsidy_request/)
-- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/english/guides/mexico/imss_enrollment/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
-- [Comprehensive Guide for Scholarship Applications in Mexico](https://tramitit.com/english/guides/mexico/scholarship_application/)
+- [Steps & Requirements for Housing Subsidies in Mexico](https://tramitit.com/guides/mexico/housing_subsidy_request/)
+- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/guides/mexico/imss_enrollment/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)
+- [Comprehensive Guide for Scholarship Applications in Mexico](https://tramitit.com/guides/mexico/scholarship_application/)

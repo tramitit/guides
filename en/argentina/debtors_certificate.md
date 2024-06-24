@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/english/guides/argentina/cuit_certificate/)
-- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/proof_of_residency/)
-- [Certificate of Suitability in Argentina - Requirements and Process](https://tramitit.com/english/guides/argentina/certificate_of_suitability/)
-- [Digital Labor Income Certificate Guide for Argentina](https://tramitit.com/english/guides/argentina/digital_labor_income_certificate/)
-- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/english/guides/argentina/professional_ethics_certificate/)
+- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/guides/argentina/cuit_certificate/)
+- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/proof_of_residency/)
+- [Certificate of Suitability in Argentina - Requirements and Process](https://tramitit.com/guides/argentina/certificate_of_suitability/)
+- [Digital Labor Income Certificate Guide for Argentina](https://tramitit.com/guides/argentina/digital_labor_income_certificate/)
+- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/guides/argentina/professional_ethics_certificate/)

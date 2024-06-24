@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/english/guides/brazil/passport_issuance/)
-- [Secure Your Brazil Work Visa - Simple Steps for Easy Processing](https://tramitit.com/english/guides/brazil/work_visa/)
-- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/english/guides/brazil/birth_registration/)
-- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/english/guides/brazil/nationality_request/)
-- [How to Obtain Your Brazilian Military Service Certificate](https://tramitit.com/english/guides/brazil/military_service_certificate/)
+- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/guides/brazil/passport_issuance/)
+- [Secure Your Brazil Work Visa - Simple Steps for Easy Processing](https://tramitit.com/guides/brazil/work_visa/)
+- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/guides/brazil/birth_registration/)
+- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/guides/brazil/nationality_request/)
+- [How to Obtain Your Brazilian Military Service Certificate](https://tramitit.com/guides/brazil/military_service_certificate/)

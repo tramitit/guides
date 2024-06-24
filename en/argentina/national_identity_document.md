@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/english/guides/argentina/passport_renewal/)
-- [Get Your Argentinian Passport in Argentina Quickly](https://tramitit.com/english/guides/argentina/argentinian_passport/)
-- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/proof_of_residency/)
-- [How to Obtain an Argentine Birth Certificate - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/birth_record/)
-- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/english/guides/argentina/marriage_certificate/)
+- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/guides/argentina/passport_renewal/)
+- [Get Your Argentinian Passport in Argentina Quickly](https://tramitit.com/guides/argentina/argentinian_passport/)
+- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/proof_of_residency/)
+- [How to Obtain an Argentine Birth Certificate - Step-by-Step Guide](https://tramitit.com/guides/argentina/birth_record/)
+- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/guides/argentina/marriage_certificate/)

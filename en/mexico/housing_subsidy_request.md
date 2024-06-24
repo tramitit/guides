@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Unemployment Subsidy in Mexico - Financial Aid for Job Seekers](https://tramitit.com/english/guides/mexico/unemployment_subsidy_request/)
-- [Comprehensive Guide for Scholarship Applications in Mexico](https://tramitit.com/english/guides/mexico/scholarship_application/)
-- [Guide to Proof of Residency in Mexico - Steps & Documents](https://tramitit.com/english/guides/mexico/proof_of_residency/)
-- [Comprehensive Guide to Enrolling in Mexican Universities](https://tramitit.com/english/guides/mexico/higher_education_enrollment/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
+- [Unemployment Subsidy in Mexico - Financial Aid for Job Seekers](https://tramitit.com/guides/mexico/unemployment_subsidy_request/)
+- [Comprehensive Guide for Scholarship Applications in Mexico](https://tramitit.com/guides/mexico/scholarship_application/)
+- [Guide to Proof of Residency in Mexico - Steps & Documents](https://tramitit.com/guides/mexico/proof_of_residency/)
+- [Comprehensive Guide to Enrolling in Mexican Universities](https://tramitit.com/guides/mexico/higher_education_enrollment/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)

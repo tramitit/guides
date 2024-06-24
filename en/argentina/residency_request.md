@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/proof_of_residency/)
-- [Argentina Work Visa Guide - Easy Steps and Essential Documents](https://tramitit.com/english/guides/argentina/work_visa_request/)
-- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/english/guides/argentina/marriage_certificate/)
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
-- [Get Your Argentinian Passport in Argentina Quickly](https://tramitit.com/english/guides/argentina/argentinian_passport/)
+- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/proof_of_residency/)
+- [Argentina Work Visa Guide - Easy Steps and Essential Documents](https://tramitit.com/guides/argentina/work_visa_request/)
+- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/guides/argentina/marriage_certificate/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)
+- [Get Your Argentinian Passport in Argentina Quickly](https://tramitit.com/guides/argentina/argentinian_passport/)
