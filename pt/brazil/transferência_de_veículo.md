@@ -46,8 +46,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 - Verifique o site do Detran local para requisitos específicos e etapas adicionais.
 ## Related Posts
 
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/portuguese/guides/brazil/licenciamento_de_veículo/)
-- [Serviço de Transferência de Registro de Eleitor no Brasil](https://tramitit.com/portuguese/guides/brazil/transferência_de_título_de_eleitor/)
-- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/portuguese/guides/brazil/registro_de_imóveis/)
-- [Transferências Escolares Públicas Sem Problemas no Brasil](https://tramitit.com/portuguese/guides/brazil/transferência_de_escola_pública/)
-- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/portuguese/guides/brazil/renovação_de_cnh/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
+- [Serviço de Transferência de Registro de Eleitor no Brasil](https://tramitit.com/pt/guides/brazil/transferência_de_título_de_eleitor/)
+- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_imóveis/)
+- [Transferências Escolares Públicas Sem Problemas no Brasil](https://tramitit.com/pt/guides/brazil/transferência_de_escola_pública/)
+- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/pt/guides/brazil/renovação_de_cnh/)

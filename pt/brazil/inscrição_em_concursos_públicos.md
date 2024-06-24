@@ -51,8 +51,8 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - Participe de reuniões pré-licitação para obter mais informações sobre os requisitos da licitação.
 ## Related Posts
 
-- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/portuguese/guides/brazil/registro_de_imóveis/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/portuguese/guides/brazil/licenciamento_de_veículo/)
-- [Guia Completo para Registro de Associação no Brasil](https://tramitit.com/portuguese/guides/brazil/registro_de_associação/)
-- [Registro de Habitação Popular: Moradia Digna e Subsidiada](https://tramitit.com/portuguese/guides/brazil/cadastro_para_habitação_popular/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
+- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_imóveis/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
+- [Guia Completo para Registro de Associação no Brasil](https://tramitit.com/pt/guides/brazil/registro_de_associação/)
+- [Registro de Habitação Popular: Moradia Digna e Subsidiada](https://tramitit.com/pt/guides/brazil/cadastro_para_habitação_popular/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)

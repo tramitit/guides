@@ -44,8 +44,8 @@ _(Estamos atualmente selecionando os melhores provedores. Se você é ou conhece
 - Consultores médicos confiáveis são cruciais; pesquisar e escolher a clínica certa é recomendado.
 ## Related Posts
 
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Serviço de Declaração de Isenção de Impostos para Expatriados](https://tramitit.com/portuguese/guides/brazil/declaração_de_isento_de_ir/)
-- [Serviços de Declaração de Imposto de Renda para Expatriados no Brasil](https://tramitit.com/portuguese/guides/brazil/declaração_de_imposto_de_renda/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
-- [Como Obter Seu Certificado de Serviço Militar Brasileiro](https://tramitit.com/portuguese/guides/brazil/certificado_de_reservista/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Serviço de Declaração de Isenção de Impostos para Expatriados](https://tramitit.com/pt/guides/brazil/declaração_de_isento_de_ir/)
+- [Serviços de Declaração de Imposto de Renda para Expatriados no Brasil](https://tramitit.com/pt/guides/brazil/declaração_de_imposto_de_renda/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Como Obter Seu Certificado de Serviço Militar Brasileiro](https://tramitit.com/pt/guides/brazil/certificado_de_reservista/)

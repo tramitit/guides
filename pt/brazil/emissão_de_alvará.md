@@ -48,8 +48,8 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - Verifique se todos os documentos estão traduzidos para o português e devidamente reconhecidos.
 ## Related Posts
 
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
-- [Visto de Trabalho Brasil: Guia Completo e Passo a Passo](https://tramitit.com/portuguese/guides/brazil/visto_de_trabalho/)
-- [Serviço de Declaração de Isenção de Impostos para Expatriados](https://tramitit.com/portuguese/guides/brazil/declaração_de_isento_de_ir/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/solicitação_de_aposentadoria/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Visto de Trabalho Brasil: Guia Completo e Passo a Passo](https://tramitit.com/pt/guides/brazil/visto_de_trabalho/)
+- [Serviço de Declaração de Isenção de Impostos para Expatriados](https://tramitit.com/pt/guides/brazil/declaração_de_isento_de_ir/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)

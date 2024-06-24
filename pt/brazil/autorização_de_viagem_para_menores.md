@@ -47,8 +47,8 @@ _(Atualmente estamos selecionando os melhores provedores. Se você é ou conhece
 - Verifique com a Polícia Federal Brasileira ou o consulado para obter os requisitos mais atualizados.
 ## Related Posts
 
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Obtenha facilmente sua Permissão Internacional para Dirigir no Brasil](https://tramitit.com/portuguese/guides/brazil/permissão_internacional_para_dirigir/)
-- [Visto de Trabalho Brasil: Guia Completo e Passo a Passo](https://tramitit.com/portuguese/guides/brazil/visto_de_trabalho/)
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Obtenha facilmente sua Permissão Internacional para Dirigir no Brasil](https://tramitit.com/pt/guides/brazil/permissão_internacional_para_dirigir/)
+- [Visto de Trabalho Brasil: Guia Completo e Passo a Passo](https://tramitit.com/pt/guides/brazil/visto_de_trabalho/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)

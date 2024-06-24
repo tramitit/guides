@@ -46,8 +46,8 @@ _(Atualmente estamos selecionando os melhores provedores. Se você é ou conhece
 - * Beneficiários podem precisar renovar a documentação periodicamente para continuar recebendo os benefícios.
 ## Related Posts
 
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/solicitação_de_aposentadoria/)
-- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/portuguese/guides/brazil/previdência_social/)
-- [Seguro Desemprego no Brasil - Como Solicitar e Qualificar](https://tramitit.com/portuguese/guides/brazil/seguro_desemprego/)
-- [Auxílio Maternidade: Estabilidade Financeira para Gestantes](https://tramitit.com/portuguese/guides/brazil/solicitação_de_auxílio-maternidade/)
-- [Como Obter uma Certidão de Óbito no Brasil - Guia Completo](https://tramitit.com/portuguese/guides/brazil/certidão_de_óbito/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)
+- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previdência_social/)
+- [Seguro Desemprego no Brasil - Como Solicitar e Qualificar](https://tramitit.com/pt/guides/brazil/seguro_desemprego/)
+- [Auxílio Maternidade: Estabilidade Financeira para Gestantes](https://tramitit.com/pt/guides/brazil/solicitação_de_auxílio-maternidade/)
+- [Como Obter uma Certidão de Óbito no Brasil - Guia Completo](https://tramitit.com/pt/guides/brazil/certidão_de_óbito/)

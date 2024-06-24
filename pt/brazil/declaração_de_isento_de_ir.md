@@ -47,8 +47,8 @@ _(Estamos selecionando os melhores prestadores de serviço. Se você é ou conhe
 - Consulte um consultor fiscal familiarizado com a legislação brasileira para assistência personalizada.
 ## Related Posts
 
-- [Serviços de Declaração de Imposto de Renda para Expatriados no Brasil](https://tramitit.com/portuguese/guides/brazil/declaração_de_imposto_de_renda/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/solicitação_de_aposentadoria/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
+- [Serviços de Declaração de Imposto de Renda para Expatriados no Brasil](https://tramitit.com/pt/guides/brazil/declaração_de_imposto_de_renda/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)

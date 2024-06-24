@@ -50,8 +50,8 @@ _(Estamos atualmente selecionando os melhores provedores. Se você é ou conhece
 - Serviços de Apoio: Além da ajuda financeira, o programa fornece acesso a vários serviços sociais e redes de apoio para as famílias.
 ## Related Posts
 
-- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/portuguese/guides/brazil/cadastro_único/)
-- [Seguro Desemprego no Brasil - Como Solicitar e Qualificar](https://tramitit.com/portuguese/guides/brazil/seguro_desemprego/)
-- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/portuguese/guides/brazil/previdência_social/)
-- [Auxílio Maternidade: Estabilidade Financeira para Gestantes](https://tramitit.com/portuguese/guides/brazil/solicitação_de_auxílio-maternidade/)
-- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/portuguese/guides/brazil/cadastro_de_pessoas_físicas/)
+- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_único/)
+- [Seguro Desemprego no Brasil - Como Solicitar e Qualificar](https://tramitit.com/pt/guides/brazil/seguro_desemprego/)
+- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previdência_social/)
+- [Auxílio Maternidade: Estabilidade Financeira para Gestantes](https://tramitit.com/pt/guides/brazil/solicitação_de_auxílio-maternidade/)
+- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_físicas/)

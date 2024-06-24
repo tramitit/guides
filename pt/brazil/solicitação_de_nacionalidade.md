@@ -48,8 +48,8 @@ _(Estamos atualmente selecionando os melhores provedores. Se você for ou conhec
 - Assistência legal pode ser útil na navegação de casos complexos ou garantindo que toda a documentação seja corretamente enviada.
 ## Related Posts
 
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/portuguese/guides/brazil/documento_de_identidade/)
-- [Obtenha facilmente sua certidão de casamento no Brasil](https://tramitit.com/portuguese/guides/brazil/certidão_de_casamento/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/solicitação_de_aposentadoria/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)
+- [Obtenha facilmente sua certidão de casamento no Brasil](https://tramitit.com/pt/guides/brazil/certidão_de_casamento/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)

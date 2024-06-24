@@ -49,8 +49,8 @@ _(Estamos atualmente selecionando os melhores provedores. Se você é um provedo
 - Mantenha-se atualizado com mudanças nas regulamentações fiscais que possam afetar sua declaração.
 ## Related Posts
 
-- [Serviço de Declaração de Isenção de Impostos para Expatriados](https://tramitit.com/portuguese/guides/brazil/declaração_de_isento_de_ir/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/solicitação_de_aposentadoria/)
-- [Obtenha seus relatórios médicos emitidos facilmente no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_laudo_médico/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
+- [Serviço de Declaração de Isenção de Impostos para Expatriados](https://tramitit.com/pt/guides/brazil/declaração_de_isento_de_ir/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)
+- [Obtenha seus relatórios médicos emitidos facilmente no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_laudo_médico/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)

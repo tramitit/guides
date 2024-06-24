@@ -43,8 +43,8 @@ _(Estamos atualmente selecionando os melhores provedores. Se você é um provedo
 - Atualize sua Carteira de Trabalho regularmente com quaisquer mudanças em seu status de emprego.
 ## Related Posts
 
-- [Visto de Trabalho Brasil: Guia Completo e Passo a Passo](https://tramitit.com/portuguese/guides/brazil/visto_de_trabalho/)
-- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/portuguese/guides/brazil/cadastro_de_pessoas_físicas/)
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
-- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/portuguese/guides/brazil/documento_de_identidade/)
-- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/portuguese/guides/brazil/cnh_definitiva/)
+- [Visto de Trabalho Brasil: Guia Completo e Passo a Passo](https://tramitit.com/pt/guides/brazil/visto_de_trabalho/)
+- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_físicas/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
+- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)
+- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)

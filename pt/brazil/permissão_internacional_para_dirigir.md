@@ -47,8 +47,8 @@ _(Estamos atualmente selecionando os melhores provedores. Se você é ou conhece
 - Esteja ciente de que não possuir uma PID pode resultar em multas ou apreensão do veículo durante abordagens de trânsito.
 ## Related Posts
 
-- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/portuguese/guides/brazil/cnh_definitiva/)
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
-- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/portuguese/guides/brazil/renovação_de_cnh/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
+- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
+- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/pt/guides/brazil/renovação_de_cnh/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)

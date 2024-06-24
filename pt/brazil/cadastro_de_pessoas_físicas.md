@@ -47,8 +47,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 - Algumas aplicações podem ser bloqueadas se você usar cartões internacionais sem um CPF vinculado a eles.
 ## Related Posts
 
-- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/portuguese/guides/brazil/documento_de_identidade/)
-- [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/portuguese/guides/brazil/registro_de_nascimento/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
-- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/portuguese/guides/brazil/cadastro_nacional_de_informações_sociais/)
-- [Como Obter e Usar um Carteira de Trabalho no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_trabalho/)
+- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)
+- [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/pt/guides/brazil/registro_de_nascimento/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_nacional_de_informações_sociais/)
+- [Como Obter e Usar um Carteira de Trabalho no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_trabalho/)

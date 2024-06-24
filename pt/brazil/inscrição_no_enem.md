@@ -50,8 +50,8 @@ _(Atualmente estamos selecionando os melhores prestadores. Se você é ou conhec
 - O exame inclui uma variedade de disciplinas, incluindo línguas, ciências, matemática e humanidades.
 ## Related Posts
 
-- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/portuguese/guides/brazil/documento_de_identidade/)
-- [Alistamento Militar no Brasil: Guia Completo e Atualizado](https://tramitit.com/portuguese/guides/brazil/alistamento_militar/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
-- [Como Obter Seu Certificado de Serviço Militar Brasileiro](https://tramitit.com/portuguese/guides/brazil/certificado_de_reservista/)
+- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)
+- [Alistamento Militar no Brasil: Guia Completo e Atualizado](https://tramitit.com/pt/guides/brazil/alistamento_militar/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Como Obter Seu Certificado de Serviço Militar Brasileiro](https://tramitit.com/pt/guides/brazil/certificado_de_reservista/)
