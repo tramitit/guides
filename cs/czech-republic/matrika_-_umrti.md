@@ -41,8 +41,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - **DŮLEŽITÉ:** Je nezbytné nahlásit úmrtí na úřadě matriky do 30 dnů. Nedodržení tohoto termínu může mít trestní následky.
 - V některých případech mohou být dokumenty bývalých obyvatel získány přímými potomky (dětmi, vnuky atd.) nebo právními zástupci jmenovanými soudem.
 - Pokud osoba zemře v zahraničí, je třeba také oznámit to velvyslanectví/konzulátům. Pro další podrobnosti se obraťte na příslušné místní úřady.
-
-
 ## Related Posts
 
 - [Registrace narození dítěte v České republice: Postup a dokumenty](https://tramitit.com/cs/guides/czech-republic/matrika_-_narozeni_ditete/)

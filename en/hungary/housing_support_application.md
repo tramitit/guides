@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The amount of assistance you receive is typically based on your income, the size of your family, and the average cost of housing in your area.
 - Remember to reapply or report changes in your situation as required by your local government office. Receiving more assistance than you're entitled to could lead to legal penalties.
 - Application processing time varies. Plan ahead and apply as soon as you're aware of your need for housing support.
-
-
 ## Related Posts
 
 - [Family Allowance in Hungary: Support for Parents and Guardians](https://tramitit.com/guides/hungary/family_allowance_application/)

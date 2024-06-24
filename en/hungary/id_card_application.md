@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Always ensure safeguarding personal data. Avoid sharing personal details or copies of ID card, passport or other personal documents on platforms like Airbnb to avoid potential misuse.
-
-
 ## Related Posts
 
 - [Hungarian Student ID Card: Benefits, Application Process & More](https://tramitit.com/guides/hungary/student_id_application/)

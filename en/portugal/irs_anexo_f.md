@@ -68,8 +68,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Legal Expenses:** Legal expenses paid for services related to your rental property can also be deductible.
 
 For more specific queries or detailed guidance, contacting a tax professional or seeking advice from the Portuguese tax authorities may be beneficial.
-
-
 ## Related Posts
 
 - [Complete Guide to Filing Anexo E for IRS in Portugal](https://tramitit.com/guides/portugal/irs_anexo_e/)

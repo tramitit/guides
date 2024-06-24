@@ -46,8 +46,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - Conserva una copia dei documenti presentati per futuri riferimenti.
 - Presta attenzione alle scadenze: la domanda di Assegno di Maternità deve essere presentata non prima della dodicesima settimana di gravidanza e non oltre l'undicesima settimana prima della data prevista del parto.
 - L'assegno di norma dura al massimo venti settimane.
-
-
 ## Related Posts
 
 - [Assegno Familiare in Italia: Requisiti, Procedura, Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_assegno_per_il_nucleo_familiare/)

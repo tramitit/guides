@@ -52,8 +52,6 @@ Please note that the Greek nationality law operates on the principle known as 'j
 Also, bear in mind that Greek laws require mandatory military service for males once they acquire citizenship. This applies to males between the ages of 18 to 45.
 
 The above information provides a basic guide on how to apply for Greek citizenship. It is always best to speak to a legal expert or consult with the nearest Greek embassy/consulate for the most accurate and updated information.
-
-
 ## Related Posts
 
 - [How to Obtain a Greek Passport: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_passport_issuance/)

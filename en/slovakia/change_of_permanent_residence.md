@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Moving to Slovakia and becoming a resident may also present opportunities for obtaining citizenship, especially for people with Slovakian ancestry. It's recommended to understand the civic responsibilities associated with changing your permanent residence, such as changes to voting rights, tax obligations, etc. Both Slovakian citizens and foreign nationals living in Slovakia may need to go through this process when they decide to move within the country.
-
-
 ## Related Posts
 
 - [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)

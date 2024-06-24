@@ -40,8 +40,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne informacije
 Važno je napomenuti da se vozački ispit u Hrvatskoj provodi na hrvatskom jeziku, stoga bi se mogao zahtijevati određeni nivo razumijevanja hrvatskog jezika. Razumijevanje lokalnih zakona i propisa o vožnji također je ključno pripremajući se za vožnju u Hrvatskoj.
-
-
 ## Related Posts
 
 - [Kako dobivati vozačku dozvolu u Hrvatskoj: Postupak, dokumenti i upute](https://tramitit.com/hr/guides/croatia/izdavanje_vozacke_dozvole/)

@@ -39,9 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's worth noting that the driving test in Croatia is conducted in Croatian, so a certain level of understanding of the Croatian language might be required. Understanding local driving laws and regulations is also crucial when getting ready to drive in Croatia.
-
-
-
 ## Related Posts
 
 - [How to Obtain a Driver's License in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/issuance_of_drivers_license/)

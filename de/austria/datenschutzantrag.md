@@ -42,8 +42,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Sie können eine Verlängerung beantragen, wenn Sie das Gefühl haben, dass die gegebene Zeit für die Antwort des Unternehmens nicht ausreicht.
 - Wenn das Unternehmen nicht rechtzeitig antwortet oder Sie sich unfair behandelt fühlen, können Sie Beschwerde bei der örtlichen Aufsichtsbehörde einreichen.
 - Straßenfotografie: In jüngsten Diskussionen über die DSGVO und Straßenfotografie ist Verwirrung über die Legalität entstanden. Während die DSGVO Straßenfotografie im Allgemeinen nicht explizit verbietet, können Fälle, in denen Personen identifiziert werden können, zu Komplikationen führen. Es wird empfohlen, sich über die lokalen Gesetze des Landes im Klaren zu sein.
-
-
 ## Related Posts
 
 - [Strafregisterauszug: Antrag, Verfahren und erforderliche Dokumente](https://tramitit.com/de/guides/austria/fuhrungszeugnis_beantragen/)

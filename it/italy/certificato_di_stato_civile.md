@@ -36,8 +36,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Si prega di notare che queste procedure possono variare leggermente in base ai requisiti specifici della città o del paese. Si consiglia di contattare il municipio locale per informazioni precise e aggiornate. Inoltre, se stai richiedendo questo certificato per scopi matrimoniali, il certificato deve essere datato non più di sei mesi prima della data del matrimonio.
-
-
 ## Related Posts
 
 - [Come Ottenere un Certificato di Matrimonio in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_matrimonio/)

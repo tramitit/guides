@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In some cases, if you are required to provide this certificate for a foreign authority, it may be necessary to get it translated and notarized. Also, some countries require the certificate to be issued recently, i.e., within a certain time period before it's submission. It is highly recommended to confirm this with the authority, organization or institution requesting this document from you.
-
-
 ## Related Posts
 
 - [How to Obtain a Croatian Citizenship Certificate: Step-by-Step Guide](https://tramitit.com/guides/croatia/issuance_of_citizenship_certificate/)

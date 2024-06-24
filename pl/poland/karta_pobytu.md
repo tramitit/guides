@@ -51,8 +51,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 ## Dodatkowe szczegóły
 
 Jeśli posiadasz ważną Kartę Pobytu, możesz podróżować bez wizy po obszarze Schengen. Jeśli ubiegasz się o konto bankowe w Polsce, posiadanie Karty Pobytu ułatwi proces. Pamiętaj, że uzyskanie Karty Pobytu jest procesem czasochłonnym. Dlatego zaplanuj swoje wnioski odpowiednio.
-
-
 ## Related Posts
 
 - [Zezwolenie na Pracę w Polsce: Procedura i Wymagane Dokumenty](https://tramitit.com/pl/guides/poland/pozwolenie_na_prace_dla_cudzoziemcow/)

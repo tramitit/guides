@@ -41,8 +41,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 ## További részletek
 
 A költség változhat az orvosi szakember és az egyéni egészségbiztosítási szerződés függvényében. Ha részt vesz egy maratonon, kérjük, ellenőrizze az esemény szervezőivel a specifikus egészségügyi igazolásra vonatkozó követelményeket vagy irányelveket.
-
-
 ## Related Posts
 
 - [Egészségbiztosítás Magyarországon: Kérelem és Eljárások](https://tramitit.com/hu/guides/hungary/egeszsegugyi_biztositas_igenylese/)

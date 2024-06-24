@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Non-Polish speaking individuals might need to hire an official translator as all documents must be in Polish.
 - If you're married abroad and need to register the marriage in Poland, a foreign marriage certificate is normally valid. However, it must be legalized/apostilled and translated into Polish by an authorized translator.
 - In Poland, marriage does not automatically change your surname. A married couple can choose to use either of their surnames, keep their own, or hyphenate both (in any order). It's recommended to declare your chosen surname during the marriage certificate application process.
-
-
 ## Related Posts
 
 - [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)

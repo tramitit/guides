@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The legal process for marriage in Croatia is based on civil law, not religious ceremonies.
 - Contacting the local Registrar's Office and preparing your documents well ahead of time can help avoid any last-minute issues.
 - It's recommended to get all your documents translated by a sworn translator. Some Registrar's Offices may also have certified translators on staff.
-
-
 ## Related Posts
 
 - [Marriage Registration in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/marriage_registration/)

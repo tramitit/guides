@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Request for translation if the service is available, else consider hiring a translator. 
 - Also keep in mind, the state of the records can vary: they can be hard to read, very detailed or minimalistic.
 - Be patient, the process may take time depending on the availability and state of records.
-
-
 ## Related Posts
 
 - [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)

@@ -52,8 +52,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Některé z těchto bank mohou vyžadovat udržování určité minimální částky na vašem účtu, a bankovní služby jsou spojeny s různými poplatky, včetně za správu účtu a transakce. Tyto specifika se liší od banky k bance.
-
-
 ## Related Posts
 
 - [Živnostenský list v České republice: Jak ho získat a co je třeba vědět](https://tramitit.com/cs/guides/czech-republic/registrace_zivnostenskeho_opravneni/)

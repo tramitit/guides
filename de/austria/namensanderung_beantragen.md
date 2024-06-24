@@ -44,8 +44,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Die Namensänderung ist in Österreich eine ernste Angelegenheit und Anträge werden nicht leicht genehmigt. Die Behörden genehmigen in der Regel nur aus zwingenden Gründen eine Namensänderung.
 - Gemäß dem österreichischen Namensgesetz haben uneheliche Kinder, die bei Legitimierung oder Anerkennung den Familiennamen ihres anderen Elternteils annehmen, die Möglichkeit, ihren Geburtsnamen zu behalten.
 - Die Gebühren für den Namensänderungsprozess können je nach individuellen Umständen und dem jeweiligen örtlichen Amt variieren, daher ist es ratsam, sich direkt mit Ihrem örtlichen Bezirksamt über die aktuellen Tarife zu beraten.
-
-
 ## Related Posts
 
 - [Änderung des Hauptwohnsitzes in Österreich: Meldezettel-Verfahren](https://tramitit.com/de/guides/austria/hauptwohnsitzanderung/)

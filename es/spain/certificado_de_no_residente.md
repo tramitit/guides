@@ -59,11 +59,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Si está solicitando un certificado de no residente para abrir una cuenta bancaria, asegúrese de contar con todos los documentos bancarios necesarios para evitar retrasos.
 - Los cónyuges no pertenecientes a la UE que necesitan esta certificación para relacionar su empadronamiento u otros documentos de residencia también pueden seguir estos pasos, pero es posible que necesiten certificados de matrimonio u otras pruebas de relación adicionales.
 
-
 ## Related Posts
 
-- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_residente/)
-- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)
-- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
-- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_residente/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)
+- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/spanish/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/spanish/guides/spain/cédula_de_inscripción/)
+- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/spanish/guides/spain/solicitud_de_nie/)

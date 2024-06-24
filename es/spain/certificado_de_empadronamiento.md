@@ -52,11 +52,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 - Un 'Certificado de Empadronamiento' es necesario para casi todos los procedimientos administrativos en España. Mantenga una copia disponible para evitar cualquier inconveniente innecesario.
 
-
 ## Related Posts
 
-- [Certificado de No Residente: Qué es, Cómo Obtenerlo y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_no_residente/)
-- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
-- [Registro de Censo en España: Procedimiento y Documentos Requeridos](https://tramitit.com/es/guides/spain/solicitud_de_empadronamiento/)
-- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_residente/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Certificado de No Residente: Qué es, Cómo Obtenerlo y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_no_residente/)
+- [Registro de Censo en España: Procedimiento y Documentos Requeridos](https://tramitit.com/spanish/guides/spain/solicitud_de_empadronamiento/)
+- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/spanish/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
+- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_residente/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)

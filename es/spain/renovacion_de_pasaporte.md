@@ -50,11 +50,10 @@ Siempre es recomendable iniciar su proceso de renovación con suficiente antelac
 
 En caso de que sea ciudadano dual (EE. UU.-España), no necesita tener un pasaporte válido de EE. UU. para vivir o viajar a EE. UU., solo el pasaporte español. Sin embargo, necesita un pasaporte válido de EE. UU. para volver a entrar en EE. UU. Debería renovarlo antes de su viaje o buscar una Embajada de EE. UU. una vez que esté en España.
 
-
 ## Related Posts
 
-- [Pasaporte Español: Requisitos y Procedimiento de Solicitud](https://tramitit.com/es/guides/spain/solicitud_de_pasaporte/)
-- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_dni/)
-- [Renovación de Permiso de Trabajo en España: Proceso y Documentos](https://tramitit.com/es/guides/spain/renovacion_de_permiso_de_trabajo/)
-- [Renovación de Licencia de Conducir en España: Proceso y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_permiso_de_conducir/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Pasaporte Español: Requisitos y Procedimiento de Solicitud](https://tramitit.com/spanish/guides/spain/solicitud_de_pasaporte/)
+- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/renovacion_del_dni/)
+- [Renovación de Permiso de Trabajo en España: Proceso y Documentos](https://tramitit.com/spanish/guides/spain/renovacion_de_permiso_de_trabajo/)
+- [Renovación de Licencia de Conducir en España: Proceso y Requisitos](https://tramitit.com/spanish/guides/spain/renovacion_del_permiso_de_conducir/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)

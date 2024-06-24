@@ -63,8 +63,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Costs and timelines for these procedures can vary greatly depending on the specific case and the location of the applicant. 
 - Emergency Travel Documents are usually issued within a very short time, often the same day, but it depends on the specific circumstances and the location.
 - It's highly recommended to contact the embassies or consulates directly for the most accurate and up-to-date information.
-
-
 ## Related Posts
 
 - [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)

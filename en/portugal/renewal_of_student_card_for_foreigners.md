@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The renewal procedure and requirements may differ from one academic institution to another in Portugal, so it's advisable to inquire in advance. Always ensure that your student card is under an active status, as an inactive or expired card might disrupt access to various university services and amenities.
-
-
 ## Related Posts
 
 - [Citizen Card Renewal: Process, Requirements, and Providers](https://tramitit.com/guides/portugal/renewal_of_citizen_card/)

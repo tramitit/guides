@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Be aware of local rules and regulations related to dogs. Some cities may have requirements over and above the general Austrian law. For instance, in some Austrian cities and regions, dog owners must carry a 'poop bag' and pick up after their pet.
 - Having a service dog doesn't exempt anyone from the dog registration process.
 - There's no international certification for service animals, each country has its own specific requirements.
-
-
 ## Related Posts
 
 - [Anmeldung: Residence Registration in Germany and Austria Guide](https://tramitit.com/guides/austria/residence_registration/)

@@ -43,8 +43,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 ## Détails supplémentaires
 - Certaines garderies au Canada offrent des cours en français ou une immersion. Cela peut être bénéfique si vous souhaitez que votre enfant soit bilingue, mais il est utile de s'assurer à l'avance que votre enfant pourra évoluer dans cet environnement. Au Québec, des subventions peuvent être disponibles pour participer à un programme de francisation.
 - Le coût de la garderie varie en fonction de l'emplacement, du fournisseur et de l'âge de l'enfant, mais des subventions sont souvent disponibles pour les familles à faible revenu.
-
-
 ## Related Posts
 
 - [Maternelle en France: Procédure d'inscription et fournisseurs](https://tramitit.com/fr/guides/france/inscription_a_lecole_maternelle/)

@@ -41,8 +41,6 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 - Elke Belgische eID heeft een uniek eID-nummer, niet te verwarren met het nationaal registratienummer, dat u op de achterkant van de kaart vindt.
 - U moet uw adres op de eID up-to-date houden. Als u verhuist, moet u uw nieuwe lokale gemeente binnen 8 dagen op de hoogte stellen.
 - Als u uw eID kwijtraakt, moet u het verlies melden bij uw lokale politiebureau en een nieuwe aanvragen bij uw lokale gemeente.
-
-
 ## Related Posts
 
 - [Paspoort aanvragen: Procedure, vereiste documenten & meer](https://tramitit.com/nl/guides/belgium/aanvraag_paspoort/)

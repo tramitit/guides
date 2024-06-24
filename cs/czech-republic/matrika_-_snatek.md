@@ -46,8 +46,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 V České republice musí všechny změny jména z důvodu uzavření manželství splňovat právní standardy. Ženy obvykle mají možnost přijmout jméno svého manžela nebo si ponechat své vlastní. Pokud jste cizinec a vaše domovská země má odlišná pravidla pro změnu jména po sňatku, český úřad matrik zohlední tato pravidla.
-
-
 ## Related Posts
 
 - [Registrace narození dítěte v České republice: Postup a dokumenty](https://tramitit.com/cs/guides/czech-republic/matrika_-_narozeni_ditete/)

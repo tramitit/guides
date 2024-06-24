@@ -36,8 +36,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Lembre-se de verificar os padrões de emissão do seu veículo, pois Portugal possui requisitos rigorosos de limite de emissão. As verificações regulares são obrigatórias. Faça uma inspeção veicular abrangente após o registro, em um centro autorizado.
-
-
 ## Related Posts
 
 - [Matrícula de Veículo em Portugal: Procedimentos e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_registo_de_automovel/)

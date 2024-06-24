@@ -59,11 +59,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - El formulario debe presentarse cada trimestre, generalmente para el 20 del mes siguiente al final del trimestre (20 de abril, 20 de julio, 20 de octubre y 20 de enero).
 - Mantener registros organizados durante todo el año puede simplificar el proceso de completar el Modelo 130.
 
-
 ## Related Posts
 
-- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
-- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/es/guides/spain/modelo_145/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
-- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/es/guides/spain/modelo_347/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/spanish/guides/spain/modelo_190/)
+- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/spanish/guides/spain/modelo_145/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/spanish/guides/spain/modelo_036/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
+- [Cómo presentar la declaración de impuestos en España: guía detallada](https://tramitit.com/spanish/guides/spain/presentacion_de_la_declaracion_de_la_renta/)

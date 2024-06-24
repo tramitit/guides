@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Processing times can vary significantly, ranging from a few days to several weeks, depending on the specific Standesamt. Regular follow-up might expedite the process.
 - If the birth took place before 1876, church records may need to be examined. This may increase the processing time and potential complexity.
 - Not all older records are available due to historical events such as World War II. Make sure to confirm whether the needed records still exist.
-
-
 ## Related Posts
 
 - [How to Obtain a Marriage Certificate in Germany for Foreign Marriages](https://tramitit.com/guides/germany/applying_for_a_marriage_certificate/)

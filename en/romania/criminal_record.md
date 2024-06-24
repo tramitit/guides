@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note if you need a criminal record check from a foreign country while in Romania, or from Romania while abroad, the procedure may be slightly different. You may need to visit your embassy or consulate, or contact the appropriate foreign legal authority.
-
-
 ## Related Posts
 
 - [How to Obtain a Romanian Birth Certificate - Step-by-Step Guide](https://tramitit.com/guides/romania/birth_certificate/)

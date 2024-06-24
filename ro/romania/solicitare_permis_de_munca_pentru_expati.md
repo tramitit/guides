@@ -49,8 +49,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 ## Detalii suplimentare
 Permisul de muncă este emis în termen de 30 de zile de la data depunerii cererii, iar perioada sa de valabilitate este aceeași cu durata contractului individual de muncă.
 În fiecare an, guvernul român stabilește o cotă pentru numărul de cetățeni străini care pot fi angajați în țară. Astfel, asigurarea unui loc de muncă devreme crește șansele de obținere a unui permis de muncă.
-
-
 ## Related Posts
 
 - [Procesul de obținere a permisului de ședere în România](https://tramitit.com/ro/guides/romania/viza_de_resedinta/)

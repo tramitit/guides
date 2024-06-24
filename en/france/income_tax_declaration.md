@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In France, income tax is levied on the total income of the fiscal household, which includes income from work (wages, salaries, pensions, and annuities), income from personal property (income from movable property, rental income, etc.), and profit from professional/non-professional activities. The tax return you fill out will be reviewed, and a tax notice will be sent to you outlining your tax situation.
-
-
 ## Related Posts
 
 - [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)

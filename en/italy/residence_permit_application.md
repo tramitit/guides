@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It would help you a lot if you could find someone fluent in Italian to assist you with the application. The process is intricate and mostly in Italian.
-
-
 ## Related Posts
 
 - [Permesso di Soggiorno: Essential Guide for Non-EU Residents in Italy](https://tramitit.com/guides/italy/residence_card_request/)

@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The processing timeline for business travel permits varies from one country to another, and sometimes even within different embassies of the same country. It is best to apply well ahead of your planned travel date. The permit does not guarantee entry into the country, as the final decision rests with immigration officials at your point of entry. Always ensure to abide by all the laws, regulations, and cultural sensitivities of your host country.
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Permit in France: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_application/)

@@ -48,8 +48,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 
 ## Dodatkowe informacje
 Proces składania wniosku można często przyspieszyć, jeśli złożysz go bezpośrednio osobiście w urzędzie stanu cywilnego. Możesz jednak również przesłać kogoś w Twoim imieniu z notarialnie potwierdzonym dokumentem pełnomocnictwa.
-
-
 ## Related Posts
 
 - [Dowód Osobisty w Polsce: Procedura, Wymagane dokumenty i Informacje](https://tramitit.com/pl/guides/poland/dowod_osobisty/)

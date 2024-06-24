@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 You may encounter a police report requirement for the duplication of certain documents, especially if they have been stolen or lost. Police reports can usually be obtained at the nearest police station or online at the [Portuguese Public Security Police](https://www.psp.pt/Pages/homePage.aspx) website.
 
 Please note that, different documents may require their specific application forms which can be found in the respective issuing authority's website. They also have certain processing times that you should be aware of. For information regarding costs, it would be best to check the relevant authority's website as well.
-
-
 ## Related Posts
 
 - [How to Obtain a Duplicate Driving License in Case of Loss or Theft](https://tramitit.com/guides/portugal/request_for_duplicate_driving_license/)

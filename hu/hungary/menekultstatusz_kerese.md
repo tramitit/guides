@@ -45,8 +45,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Minden eset egyedi, és a döntés meghozatalához szükséges idő nagyon változó lehet, ezért kulcsfontosságú, hogy fenntartsa a kapcsolatot az ügyintézőjével. Ha a kérelmét elutasítják, általában joga van fellebbezni. Átlépnie kell az eljárást gondosan, mérlegelve az egyes lépések jelentőségét, és esetleg jogi segítséget igénybe véve.
-
-
 ## Related Posts
 
 - [Magyar Útlevél Igénylés - Eljárás, Dokumentumok, Szükséges lépések](https://tramitit.com/hu/guides/hungary/utlevel_igenylese/)

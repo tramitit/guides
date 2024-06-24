@@ -55,11 +55,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 For more detailed guidance and user experiences, please refer to community forums and official government websites.
 
-
 ## Related Posts
 
-- [How to Obtain a Green NIE Resident Certificate in Spain](https://tramitit.com/guides/spain/resident_certificate/)
-- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
-- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
-- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/guides/spain/certificate_of_residence/)
-- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
+- [How to Obtain a Green NIE Resident Certificate in Spain](https://tramitit.com/english/guides/spain/resident_certificate/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/english/guides/spain/registration_card/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/english/guides/spain/non-resident_certificate/)
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/english/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/nie_application/)

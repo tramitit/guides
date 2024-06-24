@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to update your address with all different public and private institutions, including but not limited to financial institutions, utility providers, citizenship offices etc. This would ensure a smoother transition and prevent potential bureaucratic issues. Your bank will specifically need proof of address, so keep those documents handy.
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)

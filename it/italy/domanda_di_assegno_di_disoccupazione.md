@@ -42,8 +42,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 * È necessaria una verifica continua della ricerca attiva di lavoro durante il periodo in cui si riceve il beneficio.
 * Gli individui che erano precedentemente lavoratori autonomi o impiegati a tempo parziale sono soggetti a regolamenti e linee guida differenti.
 * La domanda può essere presentata senza alcun aiuto, tuttavia, per gli individui che incontrano difficoltà, sono disponibili vari fornitori di servizi indipendenti.
-
-
 ## Related Posts
 
 - [Guida alla NASpI in Italia: Requisiti, Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_indennita_di_disoccupazione/)

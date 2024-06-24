@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Some driving schools might require a medical certificate stating that you are fit to drive and it is advisable to choose between manual or automatic car lessons as the issued license will only be valid for the one you learned and given examination with. For international residents, the document requirements and exact procedure can vary depending on your home country, always consult with the police department responsible for driving licenses in your place of residence.
-
-
 ## Related Posts
 
 - [How to Obtain a Croatian Driver's License: Step-by-Step Guide](https://tramitit.com/guides/croatia/obtaining_a_drivers_license_for_newcomers/)

@@ -45,8 +45,6 @@ Remember that the sum of your pension will depend on the duration of your contri
 The Italian pension system has been a subject of various reforms recently, aiming to ensure its sustainability in the face of an ageing population. Please check for the most current requirements and procedures.
 
 Please note that through the same INPS portal, you can also find information about advantageous 'buy back' options for university graduates (known as 'Riscatto della Laurea'), extending the period of pension contributions. More details can be found [here](http://www.inps.it).
-
-
 ## Related Posts
 
 - [Disability Pension: Financial Assistance for Disabled Individuals](https://tramitit.com/guides/italy/disability_pension_application/)

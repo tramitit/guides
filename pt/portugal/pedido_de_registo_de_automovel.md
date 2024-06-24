@@ -42,8 +42,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Tenha em mente que se o carro for de um país estrangeiro, podem ser necessários documentos ou procedimentos adicionais. É também obrigatório obter um Seguro Automóvel Português. Consulte os sites dos prestadores para obter informações mais precisas e recentes.
-
-
 ## Related Posts
 
 - [Certificado de Matrícula: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_matricula/)

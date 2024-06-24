@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 - "Fedina Penale" is the most common criminal record check conducted in Italy. This is a basic criminal record disclosure.
 - Having a criminal record in Italy may affect a person's ability to emigrate or find employment, as companies are legally entitled to request a criminal record check for potential employees.
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)

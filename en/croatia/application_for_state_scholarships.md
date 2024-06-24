@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Remember, deadlines for state scholarships may vary, and usually, there's stiff competition for them. Also, be sure to accurately fill out all the information and double-check the accuracy of your documents before submission.
-
-
 ## Related Posts
 
 - [Guide to University Enrollment for International Students](https://tramitit.com/guides/croatia/documentation_for_university_enrollment/)

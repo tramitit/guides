@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - CAPAC does not charge a membership fee, whereas unions do. It might take longer to process your application at CAPAC due to more crowded conditions.
 - If you are a young employee and haven't worked for more than 12 out of the last 18 months, you may still be eligible for benefits as a school-leaver (demandeur d’emploi stage d’insertion).
 - Holders of a work permit B who lose their job can also apply for unemployment benefits.
-
-
 ## Related Posts
 
 - [Belgium Child Benefit: Eligibility, Application, and Procedure Guide](https://tramitit.com/guides/belgium/request_for_child_benefits/)

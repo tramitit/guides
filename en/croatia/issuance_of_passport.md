@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 There are two types of procedure: regular and urgent. The regular procedure takes about 30 days, while the urgent procedure can speed up the process significantly, but at a higher cost. In case of loss, theft, or damage of the passport, a police report should be obtained and submitted during the application. It is only possible to hold one valid Croatian passport at a time.
 
 Note: Due to COVID, possible delays might occur. Be sure to check the updated information regularly.
-
-
 ## Related Posts
 
 - [Applying for a National ID Card in Croatia: Full Guide](https://tramitit.com/guides/croatia/issuance_of_id_card/)

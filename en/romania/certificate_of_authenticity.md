@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The cost and timeline of this process can vary greatly depending on the type of item and the provider you choose. In some cases, the provider can issue the certificate on the spot, while in others, they may need more time to thoroughly evaluate the item. It is always best to contact the provider in advance to get a clear understanding of the process, cost, and timeline.
-
-
 ## Related Posts
 
 - [Fiscal Attestation Certificate Guide: Steps and Requirements](https://tramitit.com/guides/romania/fiscal_attestation_certificate/)

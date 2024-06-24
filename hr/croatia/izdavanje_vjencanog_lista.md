@@ -48,8 +48,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Zakoniti proces vjenčanja u Hrvatskoj temelji se na građanskom pravu, a ne religioznim ceremonijama.
 - Kontaktiranje lokalnog Maticnog Ureda i pripremanje dokumenata unaprijed može pomoći izbjeći bilo kakve last-minute probleme.
 - Preporuča se da sve svoje dokumente prevedete od strane ovlastenog prevoditelja. Neki Maticni Uredi također mogu imati certificirane prevoditelje zaposlene.
-
-
 ## Related Posts
 
 - [Vjenčanje u Hrvatskoj: Postupak za službeno registriranje braka](https://tramitit.com/hr/guides/croatia/upis_u_maticnu_knjigu_vjencanih/)

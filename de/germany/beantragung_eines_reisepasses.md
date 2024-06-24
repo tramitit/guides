@@ -46,8 +46,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Die Bearbeitungszeit kann variieren, daher sollten Sie idealerweise weit im Voraus einen Antrag stellen, falls Sie eine Reise planen.
 - Beachten Sie, dass der deutsche Reisepass, wie viele andere auch, in Deutschland hergestellt werden muss. Planen Sie daher die Dauer ein, die benötigt wird, um Ihren Reisepass nach der Antragstellung zu erhalten.
 - Alle Antragsteller, einschließlich Minderjähriger, müssen persönlich bei der Beantragung eines Reisepasses erscheinen.
-
-
 ## Related Posts
 
 - [Deutscher Personalausweis: Beantragung und Anforderungen](https://tramitit.com/de/guides/germany/beantragung_eines_personalausweises/)

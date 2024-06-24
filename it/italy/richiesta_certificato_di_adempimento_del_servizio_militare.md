@@ -40,8 +40,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 Per l'Italia, se non sei sicuro su quale distretto militare sia rilevante, puoi richiedere informazioni da tutti i distretti indirizzando la tua richiesta all'"Ufficio Leva" presso il Ministero della Difesa a Roma.
 
 Per la Germania, si noti che a causa della distruzione di alcuni documenti durante la Seconda Guerra Mondiale, la Deutsche Dienststelle (WASt) potrebbe non avere un registro completo di tutti coloro che hanno prestato servizio.
-
-
 ## Related Posts
 
 - [Certificato di Morte in Italia: Procedura, Documenti e Fornitori](https://tramitit.com/it/guides/italy/richiesta_certificato_di_morte/)

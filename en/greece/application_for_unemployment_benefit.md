@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Remember to keep any record of your application and regularly check for status updates on OAED's online portal. You are obliged to report any change in your personal or economic conditions. Violation of these obligations may result in punishments, including termination of the benefit.
-
-
 ## Related Posts
 
 - [Unemployed Register: Benefits for Job Seekers in Greece](https://tramitit.com/guides/greece/registration_in_the_unemployed_register/)

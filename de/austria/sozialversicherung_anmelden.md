@@ -48,8 +48,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 Die Kosten für die Sozialversicherung richten sich nach Ihrem Einkommen und Beschäftigungsstatus. Arbeitgeber zahlen in der Regel die Hälfte der Versicherungsbeiträge. Bei selbstständigen Personen werden die Beiträge auf Grundlage ihres Einkommens berechnet.
 
 Denken Sie daran, dass ein aktives Sozialversicherungskonto gesetzlich für alle Arbeitnehmer in Österreich erforderlich ist und den Zugang zu Gesundheitsdiensten unter anderem gewährleistet.
-
-
 ## Related Posts
 
 - [Mindestsicherungsantrag in Österreich: Verfahren und Erfordernisse](https://tramitit.com/de/guides/austria/antrag_auf_mindestsicherung/)

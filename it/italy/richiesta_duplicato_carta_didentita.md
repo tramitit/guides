@@ -63,8 +63,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - Secondo la legge italiana, hotel e fornitori di alloggi possono chiedere agli ospiti documenti per registrare la loro presenza.
 
 - Non condividere inutilmente una foto della tua carta d'identità, specialmente su piattaforme pubbliche o con persone non identificate, in quanto potrebbe portare al furto di identità.
-
-
 ## Related Posts
 
 - [Carta d'Identità Italiana: Procedura, Documenti e Informazioni Utili](https://tramitit.com/it/guides/italy/richiesta_di_carta_didentita/)

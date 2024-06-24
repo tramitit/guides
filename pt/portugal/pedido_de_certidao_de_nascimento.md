@@ -39,8 +39,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Se necessário para uso internacional, a certidão de nascimento deve ser legalizada através de Apostila. Esta certificação confirma a autenticidade do documento emitido. Este processo pode ser solicitado no Cartório do Registro Civil ou através do Ministério dos Negócios Estrangeiros de Portugal.
-
-
 ## Related Posts
 
 - [Certidão de Casamento: Como Obter e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certidao_de_casamento/)

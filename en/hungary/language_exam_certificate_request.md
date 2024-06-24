@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The complexity and sequence of steps may vary based on the particular language you are taking the exam for. Remember to check with the specific testing center for the most accurate information about the process, requirements, and additional details like fees or preparation materials.
-
-
 ## Related Posts
 
 - [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)

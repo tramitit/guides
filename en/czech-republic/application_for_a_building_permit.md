@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It is often recommended to have a pre-consultation with the Municipal Authority to understand the specific requirements of your project.
 - Timelines for obtaining a Building Permit can vary significantly depending on the complexity of the project, accuracy of the documents submitted, and the workload of the governing body.
 - Costs related to obtaining a Building Permit can also vary depending on the locality, the size, and complexity of your project. These costs can include government fees, architect/engineer fees, and other related costs.
-
-
 ## Related Posts
 
 - [Guide to Acquiring a Building Plot: Steps and Requirements](https://tramitit.com/guides/czech-republic/application_for_acquiring_a_building_plot/)

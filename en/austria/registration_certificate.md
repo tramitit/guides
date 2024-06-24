@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In case of belated registration, you may need to pay a fine. However, the fine can be waived if you provide a valid reason for the delay. Also, some private companies can assist you with the procedure for a fee.
-
-
 ## Related Posts
 
 - [Meldezettel Registration: Essential Guide for Residents in Austria](https://tramitit.com/guides/austria/reporting_obligation/)

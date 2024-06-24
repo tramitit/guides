@@ -46,8 +46,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 ## Ďalšie podrobnosti
 Uistite sa, že všetky informácie v žiadosti sú presné a zodpovedajú s predloženými dokumentmi. Chyby alebo rozpory môžu viesť k zamietnutiu žiadosti alebo k oneskoreniu. Starý pas, ak je to možné, si ponechajte v bezpečí, pretože by mohol byť počas procesu vyžadovaný.
 Pre neplnoletých musia postup vykonať rodičia alebo právni zástupcovia. Ak dochádza k zmenám v občianskom stave, je potrebné ich nahlásiť a poskytnúť príslušné dokumenty.
-
-
 ## Related Posts
 
 - [Slovenská Občianska Preukazka: Požiadavky a Postup](https://tramitit.com/sk/guides/slovakia/vydanie_obcianskeho_preukazu/)

@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Croatia has been a member of the Apostille Convention since 1991. Hence, if the country of origin of the document is an Apostille member, the process is simpler. All that is required is an Apostille certification from the issuing country, and no further authentication is needed in Croatia.
 
 If the country isn't a member of the Apostille Convention, the document must go through a more rigorous process known as Legalization. This involves certification by the foreign ministry of the issuing country and by the Croatian embassy or consulate in that country.
-
-
 ## Related Posts
 
 - [Guide: Registering Your Marriage in Croatia - Steps & Documents](https://tramitit.com/guides/croatia/entry_into_the_marriage_register/)

@@ -44,8 +44,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Ihr ausländischer Führerschein bleibt in Deutschland entweder sechs Monate ab Ihrem Anmeldedatum im Bürgeramt gültig oder sechs Monate ab Ihrem Ankunftsdatum, wenn Sie aus einem Nicht-EU-Land kommen und nicht planen, Wohnsitz zu nehmen.
 - Bestimmte Bundesstaaten in den USA, wie Kalifornien, haben ein Gegenseitigkeitsabkommen mit Deutschland, das es ihren Bewohnern ermöglicht, ihre Führerscheine ohne Fahrprüfung umzutauschen.
 - Der Prozess zum Umtausch eines britischen Führerscheins in einen deutschen ist derzeit aufgrund sich ändernder Brexit-Vorschriften unklar. Es wird empfohlen, sich mit den örtlichen Behörden für die aktuellsten Informationen zu beraten.
-
-
 ## Related Posts
 
 - [Foreign Driver's License Conversion Guide: USA & Germany](https://tramitit.com/de/guides/germany/umschreibung_eines_auslandischen_fuhrerscheins/)

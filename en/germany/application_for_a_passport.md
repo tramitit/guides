@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Processing time can vary, so ideally, you should apply well in advance of your intended travel.
 - Bear in mind that the German passport, like many others, has to be produced in Germany, hence, it's important to plan for the duration it will take to receive your passport after applying.
 - All applicants, including minors, must appear in person when applying for a passport.
-
-
 ## Related Posts
 
 - [How to Get a German Identification Card: Step-by-Step Guide](https://tramitit.com/guides/germany/application_for_an_id_card/)

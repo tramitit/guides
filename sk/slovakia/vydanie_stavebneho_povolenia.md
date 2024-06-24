@@ -43,8 +43,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Uistite sa, že dodržiavate všetky podmienky stanovené vo vašom stavebnom povolení. Nedodržiavanie môže viesť k pokutám a dokonca aj k odvolaniu povolenia.
 - Odporúča sa požiadať o pomoc profesionálov, ako sú architekti alebo inžinieri, pri príprave vašich projektových plánov a pomoci so žiadosťou.
 - Náklady na stavebné povolenie sa môžu tiež líšiť v závislosti od povahy a veľkosti vášho projektu.
-
-
 ## Related Posts
 
 - [Guide to Permanent Residency with Work Permit in Slovakia](https://tramitit.com/sk/guides/slovakia/ziadost_o_pobyt_s_pracovnym_povolenim/)

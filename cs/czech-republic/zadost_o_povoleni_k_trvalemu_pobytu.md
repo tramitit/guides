@@ -44,8 +44,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Pro státní příslušníky třetích zemí, kromě nepřetržitého pobytu po dobu 10 let, mohou žádat o trvalý pobyt i další kategorie, jako jsou uprchlíci nebo členové rodiny občanů České republiky. Po 5 letech držení trvalého pobytového povolení mají jednotlivci nárok na žádost o občanství České republiky. Mějte na paměti, že postup a požadované dokumenty se mohou lišit, je proto důležité zkontrolovat oficiální požadavky na webové stránce Ministerstva. Je také dobré poznamenat, že požadavky na trvalý pobytový pobyt jsou poměrně přísné a proces může být podrobný v důsledku důkladného zkoumání dokumentů a kvalifikací žadatele.
-
-
 ## Related Posts
 
 - [EU Citizen Registration in Czech Republic (30+ Days)](https://tramitit.com/cs/guides/czech-republic/registrace_k_pobytu_obcanu_eu/)

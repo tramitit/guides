@@ -49,8 +49,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Za Poljsku, neki studijski programi zahtijevaju specifične prijemne testove, osim dokaza o znanju jezika. Provjerite specifične programske stranice na web stranici sveučilišta.
 - Provjerite rok prijave za svako sveučilište kako biste izbjegli paniku u zadnji trenutak.
 - Provjerite web stranicu veleposlanstva ili konzulata specifične zemlje za točne informacije o procesima dobivanja studentske vize.
-
-
 ## Related Posts
 
 - [Guide to Getting a Visa in Croatia: Process, Documents & Tips](https://tramitit.com/hr/guides/croatia/dobivanje_vize_za_strance/)

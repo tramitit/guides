@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If required, some countries will also ask for an Apostille stamp, which can be obtained from the issuing foreign country.
 - There are naming laws in Bulgaria, and you might need to adjust your names to the Bulgarian standards in the marriage certificate. The naming laws prohibit names that ridicule the individual, contain rank, or are of a different sex.
 - Citizenship issues may arise for the children in case of a mixed marriage, it's recommended to consult with the embassy for precise guidance.
-
-
 ## Related Posts
 
 - [Bulgarian Birth Certificate: Essential Guide & Process Overview](https://tramitit.com/guides/bulgaria/issuance_of_a_birth_certificate/)

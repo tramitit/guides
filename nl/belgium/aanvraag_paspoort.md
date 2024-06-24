@@ -47,8 +47,6 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 ## Aanvullende informatie
 
 Onthoud dat de verwerkingstijd aanzienlijk kan variëren op basis van het seizoen, jouw locatie en andere factoren. Zorg ervoor dat je ruim van tevoren een aanvraag indient voor geplande reizen. Het is ook de moeite waard op te merken dat paspoorten doorgaans een geldigheidsduur hebben van maximaal 10 jaar voor volwassenen.
-
-
 ## Related Posts
 
 - [Belgische eID: Aanvraagprocedure en vereisten in België](https://tramitit.com/nl/guides/belgium/aanvraag_identiteitskaart/)

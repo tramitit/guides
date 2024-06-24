@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Before you apply for Parental Allowance, you need to make sure that you are eligible. The allowance is provided to parents who are not currently working, studying or absent from home due to other obligations, and who are taking care of their child full-time.
 
 Do note that the amount provided as Parental Allowance can vary depending on the family's income and number of children. For more information, visit the official Czech Republic government website or contact the Labour Office directly. Please be aware that all documents must be translated into Czech by a certified translator if they are in another language.
-
-
 ## Related Posts
 
 - [Guide to Permanent Residence Permit in the Czech Republic](https://tramitit.com/guides/czech-republic/application_for_permanent_residence_permit/)

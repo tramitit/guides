@@ -43,8 +43,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 | :-------------: | :-------------: |  :-------------: | :-------------: |
 ## Détails supplémentaires
 Veuillez noter que le processus de demande peut être long et compliqué. Assurez-vous de vérifier les délais de traitement et les coûts sur les sites pertinents et d'avoir tous les documents prêts avant de commencer votre demande.
-
-
 ## Related Posts
 
 - [Guide de Naturalisation en France: Processus, Documents & Délais](https://tramitit.com/fr/guides/france/demande_de_naturalisation/)

@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you plan to leave Germany and wish to deregister your residence along with your business, you should visit your local Bürgeramt as well. 
 - If you are a freelancer and you deregister your business, you may lose your business medical insurance. It's crucial to ensure you have other health insurance.
 - Keep the confirmation of deregistration. You may need it in the future for legal or tax purposes.
-
-
 ## Related Posts
 
 - [Guide to Deregistration of Residence (Abmeldung) in Germany](https://tramitit.com/guides/germany/deregistration_of_residence/)

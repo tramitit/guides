@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 You must apply for the renewal before the expiry of your current residence permit. If you need to travel while waiting for the renewed permit, keep the appointment slip with you to show proof that you've applied for renewal. However, there may be restrictions on leaving Italy or Schengen Area during this period, as it depends on the country you're travelling to. Remember, this does not apply to all cases so it's always a good idea to check with the authorities before planning your travel.
-
-
 ## Related Posts
 
 - [Permesso di Soggiorno: Essential Guide for Non-EU Residents in Italy](https://tramitit.com/guides/italy/residence_card_request/)

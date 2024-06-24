@@ -41,8 +41,6 @@ The Certificate of Conduct comes in two forms: "Belegart N' which goes directly 
 If you are applying from abroad, you might need to ask a trusted person in Germany to submit and collect the certificate on your behalf. However, the certificate will be mailed to the address on the application, which must be in Germany. 
 
 Also, note that the certificate is only valid for a limited period of time (usually three months), so always apply close to the time you'll need to use it. Moreover, if your criminal record is clear, the certificate will explicitly state that your record is empty.
-
-
 ## Related Posts
 
 - [How to Obtain a Certificate of Conduct (Führungszeugnis) in Germany](https://tramitit.com/guides/germany/applying_for_a_certificate_of_conduct_online/)

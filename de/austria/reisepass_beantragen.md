@@ -45,8 +45,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Sie sollten sich rechtzeitig vor jeder geplanten internationalen Reise um die Beantragung oder Verlängerung kümmern, um die Bearbeitungszeiten einzuplanen.
 - Kinder, ungeachtet ihres Alters, benötigen für internationale Reisen ihren eigenen Reisepass.
 - Aus Sicherheitsgründen werden Pässe in der Regel per Einschreiben versendet oder müssen persönlich abgeholt werden.
-
-
 ## Related Posts
 
 - [Reisepassverlängerung in Österreich: Antrag, Verfahren & Kosten](https://tramitit.com/de/guides/austria/reisepassverlangerung/)

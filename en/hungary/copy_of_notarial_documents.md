@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - A certified copy of a document may be needed for real estate transactions, setting up a company, and other administrative processes in Hungary.
 - The availability and cost for a certified copy may depend on the type of document and the specific notary office. Always confirm these details beforehand.
 - Some documents may require an Apostille for international use. The Apostille certifies the authenticity of the document's signature, the capacity in which the person signing the document acted, and identifies the seal/stamp which the document bears. The process for obtaining an Apostille may vary, so it is advisable to ask the notary office for specific instructions.
-
-
 ## Related Posts
 
 - [Get a Duplicate Hungarian Birth Certificate: Step-by-Step Guide](https://tramitit.com/guides/hungary/application_for_duplicate_birth_certificate/)

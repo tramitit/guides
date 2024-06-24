@@ -47,8 +47,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Sprache: Das Führungszeugnis wird normalerweise auf Deutsch ausgestellt. Es kann jedoch von einem zertifizierten Übersetzungsdienst in andere Sprachen übersetzt werden.
 - Apostillendienst: Wenn Sie möchten, dass das Zertifikat mit einer Apostille beglaubigt wird, müssen Sie sich an Ihr örtliches Gericht (Amtsgericht) wenden. Dies wird nicht vom Bundesamt der Justiz angeboten.
 - Sie müssen kein deutscher Staatsbürger sein, um sich zu bewerben. Sie müssen nur in Deutschland wohnhaft sein, um berechtigt zu sein.
-
-
 ## Related Posts
 
 - [Führungszeugnis beantragen in Deutschland: Anleitung und Anbieter](https://tramitit.com/de/guides/germany/beantragung_eines_fuhrungszeugnisses/)

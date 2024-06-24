@@ -45,8 +45,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - Zaměstnavatel má povinnost platit příspěvky na nemocenské pojištění za zaměstnance pouze tehdy, pokud je zaměstnanec součástí systému nemocenského pojištění.
 - Můžete dostat pokutu, pokud se nezaregistrujete do sociálního pojištění.
 - Zahraniční podniky s českými zaměstnanci se mohou také muset registrovat. Doporučuje se v těchto případech vyhledat právní radu, abyste zajistili soulad s předpisy.
-
-
 ## Related Posts
 
 - [Registrace zaměstnavatele pro zdravotní pojištění v České republice](https://tramitit.com/cs/guides/czech-republic/registrace_zamestnavatele_k_zdravotnimu_pojisteni/)

@@ -44,8 +44,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Važno je što prije prijaviti izgubljenu osobnu iskaznicu kako bi se spriječila moguća krađa identiteta ili prijevara.
 - Postupak može potrajati nekoliko tjedana, stoga je preporučljivo započeti ga odmah nakon što shvatite da vam je iskaznica nestala.
 - Dok čekate novu osobnu iskaznicu, ne zaboravite nositi sa sobom drugi oblik identifikacije.
-
-
 ## Related Posts
 
 - [Prijavljivanje izgubljene putovnice u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_nestanka_putovnice/)

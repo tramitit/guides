@@ -48,8 +48,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Os usuários registrados recebem uma conta de usuário de serviço público que combina todas as interações com os serviços públicos.
 - Você também terá acesso ao Sistema de Saúde em Portugal com este cartão.
 - Sempre verifique o site do SEF para obter informações mais atualizadas e para quaisquer mudanças na legislação referente aos requisitos de residência.
-
-
 ## Related Posts
 
 - [Pedido de Cartão de Residente para Cidadãos Estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_residente_para_cidadaos_estrangeiros/)

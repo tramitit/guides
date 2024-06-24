@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - In some cases, a Proof of Residence may need to be certified or notarized.
 - If you don't have utility bills in your name, contact the entity requiring the Proof of Residence and ask what other documents you could use. For example, they may accept a statement from a landlord, a council tax bill, or other official correspondence.
 - Some countries may have specific requirements for a Proof of Residence document as part of immigration or citizenship application procedures. Always check the requirements specific to your situation.
-
-
 ## Related Posts
 
 - [Registering as a Foreigner: Steps and Requirements Explained](https://tramitit.com/guides/belgium/registration_in_the_foreigners_registers/)

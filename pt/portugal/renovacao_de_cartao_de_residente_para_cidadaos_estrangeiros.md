@@ -42,8 +42,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Garanta que todos os documentos estejam atualizados e, caso contrário, entre em contato com a autoridade apropriada para atualizá-los antes de prosseguir com a renovação.
 - Acompanhe a data da sua consulta e garanta que leve todos os seus documentos nesse dia.
 - O custo e os prazos de renovação podem variar dependendo da sua situação específica e de quaisquer documentos ou processos adicionais necessários.
-
-
 ## Related Posts
 
 - [Como Renovar o Título de Residência em Portugal: Guia Completo](https://tramitit.com/pt/guides/portugal/pedido_de_renovacao_do_titulo_de_residencia/)

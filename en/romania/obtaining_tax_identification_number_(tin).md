@@ -51,8 +51,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you are an expat or non-resident with tax obligations, check with your home country's tax office to see whether a TIN is necessary and how to apply for one.
 
 - Always keep your TIN confidential to avoid potential cases of identity theft and fraud.
-
-
 ## Related Posts
 
 - [Understand the Tax Certificate: Procedure, Need, and Documents](https://tramitit.com/guides/romania/tax_certificate/)

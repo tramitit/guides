@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In case of car registration from different countries, additional documents such as customs clearance declaration for vehicles coming from non-EU countries may be needed. Also, all the documents need to be translated into Romanian.
-
-
 ## Related Posts
 
 - [Romanian Vehicle Registration: Steps and Required Documents](https://tramitit.com/guides/romania/vehicle_visa/)

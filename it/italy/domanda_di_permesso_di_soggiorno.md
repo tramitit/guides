@@ -46,8 +46,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Ti sarebbe di grande aiuto se trovassi qualcuno fluente in italiano per aiutarti con la domanda. Il processo è complesso e in gran parte in italiano.
-
-
 ## Related Posts
 
 - [Permesso di Soggiorno in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_carta_di_soggiorno/)

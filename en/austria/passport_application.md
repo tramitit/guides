@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You should apply or renew well in advance of any planned international travel to account for processing times.
 - Children, no matter how young, require their own passports for international travel.
 - For security reasons, passports are typically sent by registered mail or must be collected personally.
-
-
 ## Related Posts
 
 - [Guide to Austrian Passport Renewal: Steps and Essentials](https://tramitit.com/guides/austria/passport_renewal/)

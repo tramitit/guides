@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 While this process usually runs smoothly, there may be delays or additional requirements depending on your specific circumstances. It's a good idea to start this process well ahead of when you need the certificate.
-
-
 ## Related Posts
 
 - [Bulgarian Birth Certificate: Essential Guide & Process Overview](https://tramitit.com/guides/bulgaria/issuance_of_a_birth_certificate/)

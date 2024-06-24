@@ -42,8 +42,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Rokovi se mogu razlikovati od slučaja do slučaja. Molimo uzeti u obzir moguće kašnjenja.
 - Hrvatski zakon propisuje da novorođenčad treba registrirati u roku od 15 dana nakon rođenja.
 - U slučaju hrvatskih državljana koji rađaju u inozemstvu, rođenje se ipak može registrirati u hrvatskim registrima. Potrebni dokumenti ostaju isti, ali ih je potrebno prevesti na hrvatski jezik od strane ovlaštenog prevoditelja i ovjeriti prema pravilima zemlje rođenja. Lokalna diplomatska misija ili konzulat Hrvatske može pomoći u tom postupku.
-
-
 ## Related Posts
 
 - [Registracija Novorođenčadi u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/postupak_prijave_novorodencadi/)

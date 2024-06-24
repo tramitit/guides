@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Some cities may require you to have a business license in order to operate an Airbnb. Be sure to check with your local city council for specific information.
-
-
 ## Related Posts
 
 - [Budapest Parking Permits: Steps, Requirements, and Providers](https://tramitit.com/guides/hungary/parking_permit_application/)

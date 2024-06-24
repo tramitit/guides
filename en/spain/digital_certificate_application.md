@@ -48,11 +48,10 @@ Since the application process might be a bit cumbersome due to language differen
 
 Also, remember that browsers like Google Chrome or Edge might face issues while downloading and installing your certificate, hence it is advised to use Internet Explorer or Firefox for the process instead.
 
-
 ## Related Posts
 
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)
-- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/guides/spain/criminal_background_certificate_request/)
-- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/guides/spain/criminal_record_certificate/)
-- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/guides/spain/certificate_of_residence/)
-- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/english/guides/spain/criminal_background_certificate_request/)
+- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/english/guides/spain/id_card_application/)
+- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/english/guides/spain/criminal_record_certificate/)
+- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/english/guides/spain/certificate_of_sexual_offenses/)
+- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/english/guides/spain/certificate_of_residence/)

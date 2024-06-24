@@ -39,9 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 If needed for international use, the birth certificate must be legalized through Apostille. This certificate confirms the authenticity of the issued document. This process can be requested at the Civil Registry Office or through the Portuguese Ministério dos Negócios Estrangeiros (Ministry of Foreign Affairs).
-
-
-
 ## Related Posts
 
 - [How to Obtain a Marriage Certificate: Complete Guide](https://tramitit.com/guides/portugal/request_for_marriage_certificate/)

@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Voluntary contributions can potentially increase your overall pension entitlement but they're also subject to certain rules and regulations. Engaging early with a pension advisor or a similar expert can offer personalised advice considering your specific situation.
 
 Please note that actual steps and requirements can vary based on your locality and the specific rules of the pension system you contribute to. Always check with a relevant and trusted source before proceeding.
-
-
 ## Related Posts
 
 - [Guide to Italian Old Age Pension: Eligibility and Application](https://tramitit.com/guides/italy/old_age_pension_application/)

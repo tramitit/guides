@@ -46,9 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Ensure that all the information on the application form is accurate and matches with the documents provided. Errors or inconsistencies can result in the application being declined or delay. Keep your old passport, if applicable, safe for it might be required during the process.
 For minors, parents or legal guardians should carry out the procedure. Any changes in civil status need to be reported and appropriate documents must be provided.
-
-
-
 ## Related Posts
 
 - [How to Obtain a Slovak Identity Card: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_identity_card/)

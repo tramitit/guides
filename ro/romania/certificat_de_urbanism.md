@@ -47,8 +47,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 ## Detalii suplimentare
 
 Este important de menționat că toate regulile și procesele pot varia în mod semnificativ în funcție de legile locale ale țării și municipalității tale. Mai mult, costul obținerii certificatului și a altor permise poate varia în funcție de dimensiunea și natura proiectului tău. Este întotdeauna recomandabil să cauți ajutor legal adecvat din timp pentru a evita potențiale obstacole. De asemenea, răbdarea este cheia, deoarece aceste procese pot dura adesea mai mult decât era anticipat.
-
-
 ## Related Posts
 
 - [Ghid complet pentru obținerea unui permis de construcție în România](https://tramitit.com/ro/guides/romania/autorizatie_de_construire/)

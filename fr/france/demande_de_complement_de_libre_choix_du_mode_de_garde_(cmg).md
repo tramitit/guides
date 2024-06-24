@@ -47,8 +47,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Vous pouvez estimer le montant de votre complément avec le simulateur en ligne sur le site de la [CAF](https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lecomplementdulibrechoixdumodedegarde)
 - Le CMG vous donne également droit à une couverture forfaitaire des cotisations sociales de votre employeur.
 - Vous devez payer votre prestataire de garde d'enfants via Pajemploi pour recevoir le CMG de la CAF. Ils se chargeront des démarches administratives avec votre assistante maternelle ou votre micro-crèche.
-
-
 ## Related Posts
 
 - [Inscription à la Garderie au Canada: Processus et Docs Requis](https://tramitit.com/fr/guides/france/inscription_a_la_creche/)

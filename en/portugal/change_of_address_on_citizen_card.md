@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Ensure that the information on the proof of address document accurately reflects your new place of living. Depending on the service chosen, you may be required to have a PIN for online authentication. 
 The timelines and fees may differ depending on the individual case and the location. Be sure to verify the cost and timeline details when you submit your documents for the change of address.
-
-
 ## Related Posts
 
 - [How to Update Your Address on Portuguese Residence Permit](https://tramitit.com/guides/portugal/change_of_address_on_residence_permit/)

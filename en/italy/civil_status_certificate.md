@@ -35,8 +35,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that these procedures can vary slightly based on the town or city's specific requirements. It is recommended to contact the local municipality for accurate and up-to-date information. Additionally, if you are requesting this certificate for marriage purposes, the certificate must be dated no more than six months before the marriage date.
-
-
 ## Related Posts
 
 - [How to Obtain Your Marriage Certificate from Italy](https://tramitit.com/guides/italy/marriage_certificate_request/)

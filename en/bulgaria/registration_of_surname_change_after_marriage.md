@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Each country has its own laws and procedures regarding name changes after marriage, so be sure to research the specifics for your own situation. 
 In some cultures, it is customary for the husband to take the wife's surname. 
 Remember, changing your surname is a personal decision, and you're not required to do so just because you're married. Be sure to consider carefully and make the decision that's best for you.
-
-
 ## Related Posts
 
 - [Legally Change Your Surname After Divorce in Bulgaria](https://tramitit.com/guides/bulgaria/registration_of_name_change_after_divorce/)

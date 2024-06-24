@@ -41,8 +41,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne informacije
 Neki autoškole mogu zahtijevati ​​liječničku potvrdu kojom se potvrđuje da ste sposobni voziti, te je preporuka odabrati između tečajeva vožnje s ručnim ili automatskim mjenjačem jer će izdana dozvola biti važeća samo za onaj način koji ste učili i ispit položili. Za međunarodne stanovnike, zahtjevi za dokumentaciju i točan postupak mogu varirati ovisno o vašoj zemlji podrijetla, uvijek se konzultirajte s policijskim odjelom odgovornim za vozačke dozvole na vašem mjestu prebivališta.
-
-
 ## Related Posts
 
 - [Proces dobivanja hrvatske vozačke dozvole: Savjeti i procedura](https://tramitit.com/hr/guides/croatia/dobivanje_vozacke_dozvole_za_novopridoslice/)

@@ -47,8 +47,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 W niektórych przypadkach, jeśli ojcostwo jest kwestionowane, lub w innych skomplikowanych okolicznościach, możesz także musieć zatrudnić prawnika. Może to również wiązać się z dodatkowymi kosztami. Jeśli rodzice nie mogą wzajemnie się zgodzić na uznanie, procedura sądowa może zostać zainicjowana w celu ustanowienia ojcostwa.
 
 Pamiętaj, że uznanie ojcostwa niesie ze sobą zarówno prawa, jak i obowiązki. Będziesz ponosić odpowiedzialność prawna za dziecko, w tym prawa do opieki, a także obowiązki finansowe i moralne. Przed uznanie ojcostwa ważne jest, aby zrozumieć konsekwencje.
-
-
 ## Related Posts
 
 - [Rejestracja urodzenia dziecka w Polsce: Procedura i dokumenty](https://tramitit.com/pl/guides/poland/zgloszenie_urodzenia_dziecka/)

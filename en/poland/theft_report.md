@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - When filing a police report, be prepared to provide all the necessary details of the crime, including where and when it took place, and any possible suspect information.
 - For stolen cards, after reporting to the authorities and your bank, closely monitor your account for any unauthorized activity.
 - You may also want to consider seeking legal advice if the value of the stolen goods is high or the theft led to significant losses.
-
-
 ## Related Posts
 
 - [Guide to Reporting and Replacing Lost Documents in Poland](https://tramitit.com/guides/poland/report_of_lost_documents/)

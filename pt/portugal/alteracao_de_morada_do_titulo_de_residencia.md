@@ -40,8 +40,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes Adicionais
 Lembre-se de fazer a notificação de mudança de endereço o mais rápido possível após se mudar. Isso ajuda a estar em conformidade com a lei de imigração de Portugal. Esteja ciente de que a falta de fazê-lo pode levar a implicações legais.
-
-
 ## Related Posts
 
 - [Alteração de Endereço no Cartão de Cidadão em Portugal](https://tramitit.com/pt/guides/portugal/alteracao_de_morada_no_cartao_de_cidadao/)

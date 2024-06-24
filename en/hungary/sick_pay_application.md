@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Note that procedures for sick pay application may vary by location and company. It is also worth noting that in some cases, your absences due to medical appointments such as dentist visits may also qualify for sick leave, as noted in some California state jobs.
-
-
 ## Related Posts
 
 - [Health Insurance Application in Hungary: A Complete Guide](https://tramitit.com/guides/hungary/healthcare_insurance_application/)

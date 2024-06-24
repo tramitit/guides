@@ -52,11 +52,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 Se sugiere encarecidamente programar tu cita tan pronto como te des cuenta de que la necesitas, ya que las citas pueden llenarse rápidamente. Además, asegúrate de ser puntual para tu cita. Si llegas tarde, es posible que tengas que reprogramarla. Si no puedes asistir a tu cita, asegúrate de cancelarla a través del sitio web para liberar el horario para otra persona.
 
-
 ## Related Posts
 
-- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_prestacion_por_desempleo/)
-- [Cómo Programar una Cita con la Oficina de Inmigración en España](https://tramitit.com/es/guides/spain/solicitud_de_cita_previa_en_extranjeria/)
-- [Tarjeta Sanitaria en España: Cómo obtenerla y requisitos](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_sanitaria/)
-- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
-- [Obtén la Tarjeta Sanitaria Europea: Guía para Ciudadanos Españoles](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_sanitaria/)
+- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/spanish/guides/spain/solicitud_de_prestacion_por_desempleo/)
+- [Cómo Programar una Cita con la Oficina de Inmigración en España](https://tramitit.com/spanish/guides/spain/solicitud_de_cita_previa_en_extranjeria/)
+- [Tarjeta Sanitaria en España: Cómo obtenerla y requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_sanitaria/)
+- [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/spanish/guides/spain/solicitud_de_pension_de_jubilacion/)
+- [Obtén la Tarjeta Sanitaria Europea: Guía para Ciudadanos Españoles](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_sanitaria/)

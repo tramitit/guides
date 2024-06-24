@@ -45,8 +45,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 ## Detalhes adicionais
 Lembre-se, a Certidão Predial Permanente é válida apenas por seis meses. Você precisa renová-la se precisar de informações atualizadas após esse período.
 O site também está disponível em inglês e outros idiomas para aqueles que não falam português.
-
-
 ## Related Posts
 
 - [Certificado de Registo para Cidadãos da UE em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_de_cidadao_da_uniao_europeia/)

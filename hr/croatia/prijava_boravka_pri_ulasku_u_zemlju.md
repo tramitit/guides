@@ -48,8 +48,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 ## Dodatne pojedinosti
 
 Turističke tvrtke poput hotela, hostela i kampova imaju obveze obaviti registraciju umjesto svojih gostiju. Domaćini privatnog smještaja također trebaju biti svjesni ove obveze. Neprijavljivanje može rezultirati kaznama, stoga je važno osigurati da je vaš domaćin upoznat s ovom obvezom.
-
-
 ## Related Posts
 
 - [Registracija boravka turista u Hrvatskoj: Postupak i Dokumenti](https://tramitit.com/hr/guides/croatia/prijava_boravka_turista/)

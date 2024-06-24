@@ -40,8 +40,6 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 Als je de geboorteakte in het buitenland wilt gebruiken, moet je deze mogelijk laten apostilleren. Een apostille maakt een document herkenbaar in landen die deelnemen aan het Haags Verdrag door een zegel te verstrekken dat de handtekening op het document valideert. Je kunt meestal een apostille verkrijgen bij het Ministerie van Buitenlandse Zaken.
 
 Wees ook op de hoogte dat de geboorteakte in de taal van het land waar de geboorte heeft plaatsgevonden moet zijn. Afhankelijk van de bestemming van het document, moet je het mogelijk vertalen en indienen voor legalisatie.
-
-
 ## Related Posts
 
 - [Alles over Huwelijksakte: Procedure en Vereiste Documenten](https://tramitit.com/nl/guides/belgium/aanvraag_huwelijksoorkonde/)

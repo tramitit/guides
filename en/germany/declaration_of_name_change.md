@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The cost of a name change can also vary, depending on the process and whether any court procedures are required.
 - In general, the German law prefers name stability, so a compelling reason is usually required for the name change to be approved.
 - In most cases, once your name change is approved, you are responsible for updating all personal records and identification documents.
-
-
 ## Related Posts
 
 - [Guide to Marriage Registration in Germany: Steps and Documents](https://tramitit.com/guides/germany/marriage_registration/)

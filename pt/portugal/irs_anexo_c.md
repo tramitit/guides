@@ -59,8 +59,6 @@ _(Estamos atualmente a reunir os melhores prestadores de serviços. Se você é 
 - **Tempo de Espera para Validação**: Esteja ciente de que a validação dos formulários de IRS Anexo C submetidos pode às vezes demorar mais de 17 dias, como mencionado em experiências de utilizadores.
 - **Erros Comuns**: Garanta que não encontra o erro 029W em relação ao quadro 8. Isto pode fazer com que as submissões falhem na validação e exijam ressubmissão.
 - **Alertas do Portal**: Preste atenção a alertas e mensagens do portal fiscal para garantir que você aborde prontamente quaisquer ações necessárias.
-
-
 ## Related Posts
 
 - [Guia Completo para Preencher o Anexo B do IRS em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_b/)

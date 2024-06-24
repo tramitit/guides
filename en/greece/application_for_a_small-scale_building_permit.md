@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Before beginning any construction work, it's critical to understand the local building codes and laws. These are designed to ensure your construction is sound and safe. If you don't comply, you might have to face penalties, including fines and orders to remove the structure. Also, remember that drones, if used during the construction phase, should follow stipulated restrictions (as provided by local laws) for safety and privacy.
-
-
 ## Related Posts
 
 - [Building Permit Guide: Essential Steps and Documents Required](https://tramitit.com/guides/greece/application_for_building_permit/)

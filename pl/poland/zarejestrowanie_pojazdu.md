@@ -42,8 +42,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 
 ## Dodatkowe szczegóły
 Tablice rejestracyjne w Polsce składają się z dwóch części oddzielonych myślnikiem: pierwsza część odnosi się do Powiatu, a druga część to unikalny numer dla Twojego pojazdu. Powodzenie przetworzenia Twojego wniosku spowoduje przydzielenie takich tablic.
-
-
 ## Related Posts
 
 - [Jak zmienić zaświadczenie rejestracyjne pojazdu w Polsce](https://tramitit.com/pl/guides/poland/zmiana_dowodu_rejestracyjnego/)

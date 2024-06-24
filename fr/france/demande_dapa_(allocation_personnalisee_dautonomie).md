@@ -39,8 +39,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Chaque département en France gère indépendamment le processus d'APA. Les délais d'attente et les exigences spécifiques peuvent varier. L'APA peut être utilisée pour couvrir les services de soins professionnels, les aides techniques et les adaptations domiciliaires.
-
-
 ## Related Posts
 
 - [Allocations Familiales en France: Comment les demander](https://tramitit.com/fr/guides/france/demande_dallocation_familiale/)

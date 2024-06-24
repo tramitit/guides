@@ -45,8 +45,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - Registrazione AIRE: I cittadini italiani residenti all'estero possono registrare il loro stato e le modifiche nel loro stato civile con l'AIRE (Anagrafe degli Italiani Residenti all'Estero).
 - Fotocopie e documenti scannerizzati non sono generalmente accettati. I documenti originali sono sempre i migliori.
 - I documenti potrebbero essere richiesti in "formato internazionale" o multilingue. Puoi utilizzare il [portale europeo della giustizia elettronica come guida](https://e-justice.europa.eu/).
-
-
 ## Related Posts
 
 - [Dichiarazione di Nascita in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/denuncia_di_nascita/)

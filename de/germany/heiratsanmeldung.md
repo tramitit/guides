@@ -43,8 +43,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 
 ## Weitere Details
 Der Prozess kann aufgrund der bürokratischen Natur des Verfahrens mehrere Wochen dauern, daher planen Sie entsprechend. Einige Standesämter können auch verlangen, dass Paare an Ehevorbereitungskursen teilnehmen. Es ist ratsam, Ihr örtliches Standesamt für die genauesten Informationen zu Ihrer spezifischen Situation zu kontaktieren. Sollte einer der Partner bei der Anmeldung nicht persönlich anwesend sein können, ist möglicherweise eine notarielle Vollmacht erforderlich.
-
-
 ## Related Posts
 
 - [Heiratsurkunde in Deutschland beantragen: Leitfaden & Dokumente](https://tramitit.com/de/guides/germany/eheurkunde_beantragen/)

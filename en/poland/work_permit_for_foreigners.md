@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Note that non-EU residents can only work in Poland if they hold a work permit and the employer starts the process. The duration of this permit is usually tied to the duration of the respective employment agreement, however, it does not exceed 3 years and can be extended. 
 
 The exact list of documents required and the application process can vary depending on the specific type of work permit being applied for, and each Voivodship office may have its own specific requirements. Thus, it is important to check with the relevant office for complete and accurate information.
-
-
 ## Related Posts
 
 - [Polish Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/poland/residence_permit/)

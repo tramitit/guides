@@ -49,8 +49,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - Pokud nedodržíte registraci vašeho bydliště, můžete čelit pokutám.
 - Děti mladší 15 let nemusí registrovat své bydliště.
 - Registrace je bezplatná. Pokud však zvolíte služby poskytovatelů, mohou vám účtovat poplatek za službu.
-
-
 ## Related Posts
 
 - [EU Citizen Registration in Czech Republic (30+ Days)](https://tramitit.com/cs/guides/czech-republic/registrace_k_pobytu_obcanu_eu/)

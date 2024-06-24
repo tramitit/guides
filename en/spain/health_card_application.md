@@ -41,11 +41,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you're a temporary visitor (tourist), you should apply for the European Health Card (EHIC) from your home country before your visit.
 - Digital nomads with a visa must also apply for the health card.
 
-
 ## Related Posts
 
-- [How to Apply for the Spanish European Health Card (TSE)](https://tramitit.com/guides/spain/health_card_renewal/)
-- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/tarjeta_sanitaria/)
-- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)
-- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/guides/spain/student_card_application/)
-- [How to Renew Your EU Resident Card (TIE) in Spain - Step by Step](https://tramitit.com/guides/spain/eu_resident_card_renewal/)
+- [How to Apply for the Spanish European Health Card (TSE)](https://tramitit.com/english/guides/spain/health_card_renewal/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/english/guides/spain/tarjeta_sanitaria/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/english/guides/spain/spanish_social_security_number/)
+- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/english/guides/spain/student_card_application/)
+- [How to Renew Your EU Resident Card (TIE) in Spain - Step by Step](https://tramitit.com/english/guides/spain/eu_resident_card_renewal/)

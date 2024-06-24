@@ -45,8 +45,6 @@ Please note that processing times for Criminal Record Checks can vary greatly de
 Indeed, the requirements can vary depending on the purpose of the certificate. It is advisable to check the exact requirements for your specific needs either with your employer, the entity that requires the Certificate or the local authorities. 
 
 If you have lived in different locations you may need to apply for a Certificate of No Criminal Record in each district or you may be able to use a national police authority that can check records from all areas.
-
-
 ## Related Posts
 
 - [Certificate of Residence in Poland: How to Register](https://tramitit.com/guides/poland/certificate_of_registration_of_residence/)

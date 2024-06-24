@@ -44,8 +44,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 
 ## Weitere Details
 Bitte beachten Sie, dass der Personalausweis nicht sofort ausgestellt wird. Nachdem Sie Ihren Antrag eingereicht und die Ersatzgebühr bezahlt haben, müssen Sie möglicherweise einige Tage warten, bevor Sie Ihren neuen Personalausweis abholen können. Die genaue Wartezeit kann je nach Bearbeitungszeiten Ihres örtlichen Amtes variieren.
-
-
 ## Related Posts
 
 - [Ersatz-Führerschein in Österreich: Antragsverfahren & Dokumente](https://tramitit.com/de/guides/austria/ersatzfuhrerschein_beantragen/)

@@ -44,8 +44,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 * Certaines zones ou bâtiments peuvent avoir des restrictions ou des exigences supplémentaires, comme les bâtiments historiques ou les bâtiments situés dans des zones agricoles.
 * Les démolitions non autorisées peuvent entraîner de lourdes amendes ou des conséquences juridiques.
 * La démolition peut nécessiter des permis supplémentaires, tels que des permis d'élimination des déchets, en fonction des circonstances.
-
-
 ## Related Posts
 
 - [Guide to Building Permits: Process, Requirements & Providers](https://tramitit.com/fr/guides/france/demande_de_permis_de_construire/)

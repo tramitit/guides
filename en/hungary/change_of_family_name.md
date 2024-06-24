@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The procedure and requirements may slightly vary depending on the exact local laws and the specific circumstances of the individual.
 - It’s advisable to update your new name in all personal and legal documents such as bank accounts, property deeds, wills, etc.
 - The service provider might be the local government's office responsible for name change procedures in the given country, in this case, Hungary.
-
-
 ## Related Posts
 
 - [Legal Name Change Procedure for Hungary Residents and Citizens](https://tramitit.com/guides/hungary/name_change_registration/)

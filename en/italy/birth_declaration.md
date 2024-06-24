@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - After the birth is registered in the Birth Register, the office of vital statistics will note this event in the Family Status Certificate (Certificato di Stato di Famiglia).
 - In case the parents are unable to register the birth, the health worker who assisted the birth or any other person who has knowledge of the birth can declare it.
 - Failure to declare birth within the laid out period may lead to penalties.
-
-
 ## Related Posts
 
 - [Guide to Civil Registry Registration in Italy: Process & Documents](https://tramitit.com/guides/italy/registration_in_the_civil_registry/)

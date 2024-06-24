@@ -48,8 +48,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 ## Dodatni detalji
 
 Vrijeme obrade može varirati ovisno o zemlji i individualnim okolnostima. Obavezno si osigurajte dovoljno vremena prije planiranog datuma putovanja. UVijek pregledajte najnovije informacije s službenih izvora vlade ili pouzdanih savjetnika za imigraciju. Moguće su naknade, koje su također podložne promjenama.
-
-
 ## Related Posts
 
 - [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)

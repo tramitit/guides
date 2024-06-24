@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Always remember to communicate with relevant organizations about your new name to prevent unexpected issues such as identity inconsistencies and others. In the context of ticket purchasing or games, changing your name might not be authorized or available in all cases, therefore always validate such options beforehand. Be sure to acknowledge all implications and possible consequences that a name change might imply.
-
-
 ## Related Posts
 
 - [Guide to Officially Changing Your Residence Address](https://tramitit.com/guides/croatia/change_of_residence/)

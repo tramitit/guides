@@ -39,8 +39,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Costul și termenul acestui proces pot varia în mare măsură în funcție de tipul obiectului și de furnizorul pe care-l alegi. În unele cazuri, furnizorul poate emite certificatul pe loc, în timp ce în altele ar putea avea nevoie de mai mult timp pentru a evalua cu atenție obiectul. Este întotdeauna mai bine să contactezi furnizorul în avans pentru a avea o înțelegere clară a procesului, costului și termenului.
-
-
 ## Related Posts
 
 - [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)

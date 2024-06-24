@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - A Certificate of Registration of Residence is not the same as a Residence Permit, which is required for non-EU citizens planning to stay in Poland for more than 90 days.
 - Check with your local city council to verify their specific requirements and procedures.
 - The certificate doesn't offer benefits like social assistance or the right to work. For these, other dedicated documents/permits are needed.
-
-
 ## Related Posts
 
 - [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)

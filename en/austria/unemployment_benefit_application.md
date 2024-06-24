@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The maximum length of receiving the benefit is based on how long you've previously worked and your age.
 - You are generally expected to actively look for a job and show proof of your job search activities at regular intervals.
 - Failure to comply with AMS rules can result in sanctions including reduction or suspension of the benefit.
-
-
 ## Related Posts
 
 - [Understanding and Applying for Basic Social Security in Austria](https://tramitit.com/guides/austria/minimum_security_application/)

@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 1. If you have income from interest, you must declare it as well.
 2. In the case of foreigners residing in Romania, once you receive your 'Residence Card,' you can apply for an Income Certificate.
-
-
 ## Related Posts
 
 - [Understand the Tax Certificate: Procedure, Need, and Documents](https://tramitit.com/guides/romania/tax_certificate/)

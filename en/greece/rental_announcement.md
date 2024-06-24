@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's essential to ensure that any rental announcements abide by fair housing laws and don’t discriminate against potential tenants. Be prepared for the process of screening potential tenants and managing your property, or consider hiring a property management company to handle these details for you.
-
-
 ## Related Posts
 
 - [Guide to Rent Subsidies: Eligibility, Process, and Required Documents](https://tramitit.com/guides/greece/application_for_rent_subsidy/)

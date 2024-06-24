@@ -48,8 +48,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Unele bănci pot solicita un Card de Identitate pentru anumite tranzacții
 - Pentru străini, ar putea fi necesară o permis de ședere pentru a valida un card de identitate
 - Dimensiunile Cardului de Identitate românesc sunt similare cu cele ale unei cartele de credit, conform specificațiilor din Documentul 9303 al OACI.
-
-
 ## Related Posts
 
 - [Procedura și documentele necesare pentru pașaportul românesc](https://tramitit.com/ro/guides/romania/pasaport/)

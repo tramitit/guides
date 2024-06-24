@@ -38,8 +38,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Le montant de la pension que vous recevez dépendra de la durée de votre carrière et du montant de vos revenus en Belgique. Il est également possible d'accumuler d'autres droits à la pension après l'âge de 65 ans si vous continuez à travailler. Assurez-vous toujours de suivre vos cotisations de sécurité sociale pour vous assurer de recevoir le montant maximal possible à la retraite.
-
-
 ## Related Posts
 
 - [Child Benefit in Belgium: How to Apply and Eligibility](https://tramitit.com/fr/guides/belgium/demande_dallocations_familiales/)

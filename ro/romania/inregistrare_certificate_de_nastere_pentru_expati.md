@@ -38,8 +38,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Dacă revendicați cetățenia română prin descendență, trebuie să furnizați dovezi clare ale descendenței românești. Se recomandă să începeți acest proces devreme, deoarece acesta poate dura o perioadă considerabilă din cauza necesității diferitelor documente și posibile necesități de traducere. În plus, certificatele trebuie să fie apostilate sau legalizate, în funcție de țara emitentă. Este întotdeauna recomandat să verificați cu autoritățile române sau cu consilierii legali pentru informații precise și actualizate.
-
-
 ## Related Posts
 
 - [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)

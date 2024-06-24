@@ -41,8 +41,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Veuillez noter que la procédure prend du temps et il est normal qu'elle prenne plusieurs mois, surtout pendant les périodes de forte affluence. Si vous n'avez pas de nouvelles depuis un certain temps, essayez de les contacter directement. Cela peut être un processus long, mais une fois que vous êtes inscrit, il est beaucoup plus facile de gérer vos soins de santé et vos prestations en France.
-
-
 ## Related Posts
 
 - [Assurance Santé Complémentaire en France: Guide et Procédure](https://tramitit.com/fr/guides/france/demande_de_mutuelle_sante/)

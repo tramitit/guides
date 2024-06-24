@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Different countries have different laws and procedures regarding the disclosure of criminal records. It is therefore crucial to understand the local rules and regulations in your area. If you are applying for a visa or residency in another country, you may be required to provide a Criminal Record Certificate from your current or previous countries of residence.
-
-
 ## Related Posts
 
 - [Essential Guide to Passport Application and Renewal Procedures](https://tramitit.com/guides/austria/passport_application/)

@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Take note that the costs and timelines can vary depending on individual circumstances, including your age, health condition, and selected plan. It is also important to ensure that the selected plan covers your requirements, such as coverage for specific treatments or international coverage if needed.
-
-
 ## Related Posts
 
 - [Comprehensive Guide to Health Insurance in Hungary](https://tramitit.com/guides/hungary/obtaining_individual_health_insurance/)

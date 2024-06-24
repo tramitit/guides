@@ -57,8 +57,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Das Erlernen der Grundlagen der deutschen Sprache könnte hilfreich sein, da die meisten Studiengänge an österreichischen Universitäten auf Deutsch unterrichtet werden.
 - Österreich verfügt über ein gut etabliertes öffentliches Verkehrssystem, es wäre ratsam, sich damit vertraut zu machen.
 - Das akademische Jahr in Österreich beginnt in der Regel im September oder Oktober und endet im Juni oder Juli.
-
-
 ## Related Posts
 
 - [Leitfaden zur Schuleinschreibung für internationale Studierende](https://tramitit.com/de/guides/austria/anmeldung_zur_schule/)

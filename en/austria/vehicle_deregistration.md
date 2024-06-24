@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's essential to understand that failure to deregister a vehicle can result in continuous charges related to vehicle ownership such as insurance premiums or taxation. Always ensure to keep a proof of deregistration as it may be required for future reference or legal purposes.
-
-
 ## Related Posts
 
 - [Vehicle Registration in Austria: Requirements and Steps](https://tramitit.com/guides/austria/vehicle_registration/)

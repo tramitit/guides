@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Accessing historical birth records requires patience, as it can be a time-consuming process. It's also important to note that in some cases, records may not be available due to events such as fires, wars, or general loss over time. If this is the case, you may need to research alternative archeological methods to trace your genealogy. For individuals seeking Hungarian citizenship by descent, obtaining such documents is a crucial part of proving your eligibility.
-
-
 ## Related Posts
 
 - [Guide to Requesting a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/request_for_marriage_certificates/)

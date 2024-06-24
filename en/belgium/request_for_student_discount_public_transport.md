@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that depending on the conditions of the transportation provider, your student discount may only apply to certain routes or times. Always ensure you have your student ID or transportation card with the student discount when utilizing public transport.
-
-
 ## Related Posts
 
 - [How to Obtain and Use a Parking Card: A Complete Guide](https://tramitit.com/guides/belgium/request_for_parking_card/)

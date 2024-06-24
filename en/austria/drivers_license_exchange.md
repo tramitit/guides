@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - In some cases, an international driver's permit may be required or may allow you to avoid exchanging your license altogether.
 - Depending on local laws, you may be allowed to drive for a certain period of time (often 6 months) with your foreign license before it must be exchanged.
 - Be aware that your original license will often be retained by the local authorities when it is exchanged - make sure to make copies for your records if needed.
-
-
 ## Related Posts
 
 - [How to Obtain a Driver's License in Austria: A Complete Guide](https://tramitit.com/guides/austria/drivers_license_application/)

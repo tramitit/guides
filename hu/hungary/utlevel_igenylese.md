@@ -53,8 +53,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Minden olyan személyes adat változást be kell jelenteni és módosítani kell a kibocsátó irodánál.
-
-
 ## Related Posts
 
 - [Magyar Állampolgárság Megszerzése: Útmutató és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/allampolgarsagi_kerelmek/)

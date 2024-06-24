@@ -45,8 +45,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Wenn Sie aus der registrierten Adresse ausziehen, vergessen Sie nicht, sich bei der örtlichen Behörde (Magistratisches Bezirksamt) abzumelden.
 - Es entstehen keine Kosten für die Registrierung oder Abmeldung, es handelt sich um einen kostenlosen Service der österreichischen Regierung.  
 Bitte beachten Sie, dass diese Prozesse je nach Stadt geringfügig variieren können, aber insgesamt gleichbleiben. Überprüfen Sie die offizielle Website Ihrer Stadt für die genauesten Informationen.
-
-
 ## Related Posts
 
 - [Meldezettel in Österreich: Anmeldung Ihres Wohnsitzes erklärt](https://tramitit.com/de/guides/austria/meldezettel/)

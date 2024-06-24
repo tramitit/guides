@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Social security contributions in Bulgaria are obligatory and are deducted from the person’s salary or income.
 - The amount of social security benefit received is calculated based on the person’s social security income.
 - Social Security contributions are mandatory for the self-employed as well, with specific rates and requirements. More information can be found on the National Revenue Agency website (http://www.nap.bg).
-
-
 ## Related Posts
 
 - [Health Insurance in Bulgaria: Guide for Expats & Digital Nomads](https://tramitit.com/guides/bulgaria/application_for_health_insurance/)

@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Note that the ID card will not be issued immediately. Once you submit your application and pay the replacement fee, you may have to wait for a few days before you can pick up your new ID card. The exact waiting time can vary depending on the processing times of your local office.
-
-
 ## Related Posts
 
 - [Guide to Replacing a Driver's License in Austria: Step-by-Step](https://tramitit.com/guides/austria/replacement_drivers_license_application/)

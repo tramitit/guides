@@ -46,8 +46,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - Některé autoškoly mohou nabízet teoretické kurzy v angličtině. Nicméně, počítačová zkouška je v češtině. Připravte se na tento jazykový požadavek.
 - Studenti, kteří jsou neslyšící nebo mají postižení sluchu, by měli být také připraveni. Písemná zkouška je k dispozici v českém znakovém jazyce a lze požádat o tlumočníka znakového jazyka na ústní zkoušku.
 - Barvoslepost vám nebrání získat řidičský průkaz, ale může omezit kategorie vozidel, které smíte řídit.
-
-
 ## Related Posts
 
 - [Jak vyměnit nečeský řidičský průkaz za český - Průvodce](https://tramitit.com/cs/guides/czech-republic/vymena_ridicskeho_prukazu/)

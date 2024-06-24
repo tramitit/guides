@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Make sure to check your eligibility and understand the application process thoroughly before applying. Additionally, keep in mind that the specifics mentioned here may vary depending on your local area - always check the details with your local authority.
-
-
 ## Related Posts
 
 - [Italian Family Allowance: Eligibility, Procedure, Required Documents](https://tramitit.com/guides/italy/family_allowance_request/)

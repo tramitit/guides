@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 For individuals importing a car from another EU country to Austria, the procedure is largely similar. Typically, a brief exemption from registration taxes can be obtained if the car is being used for private purposes and not for sale. 
 
 It's also noteworthy that tax on car registration may differ depending on the province of Austria you are registering the car in.
-
-
 ## Related Posts
 
 - [Guide to Vehicle Re-Registration in Austria: Procedure & Docs](https://tramitit.com/guides/austria/vehicle_re-registration/)

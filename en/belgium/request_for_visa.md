@@ -50,8 +50,6 @@ Belgian Visa application process might vary slightly based on the country where 
 Work and study visas usually require additional documentation that includes contracts from employers or academic institutions. And in many cases, you would need to apply for your relevant permit before you can apply for the visa.
 
 The time it takes for a visa to be approved can vary based on various factors, including the time of the year, the type of visa, the consulate's workload, etc., but generally, applications are processed within 15 to 60 days.
-
-
 ## Related Posts
 
 - [Essential Guide to Obtaining a Residence Permit in Belgium](https://tramitit.com/guides/belgium/request_for_residence_permit/)

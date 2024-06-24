@@ -57,11 +57,10 @@ Statelessness comes with significant disadvantages, including denial of basic ri
 
 For further information on statelessness and rights associated with it, refer to organizations and legal frameworks dedicated to the protection and integration of stateless individuals.
 
-
 ## Related Posts
 
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
-- [How to Obtain Spanish Nationality by Residence: Step-by-Step Guide](https://tramitit.com/guides/spain/spanish_nationality_by_residence/)
-- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
-- [Guide to Applying for Asylum in Spain: Step-by-Step Process](https://tramitit.com/guides/spain/asylum_application/)
-- [Authorization and Renewal of Temporary Residence: Step-by-Step Guide](https://tramitit.com/guides/spain/authorization_and_renewal_of_temporary_residence_for_exceptional_circumstances/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)
+- [How to Obtain Spanish Nationality by Residence: Step-by-Step Guide](https://tramitit.com/english/guides/spain/spanish_nationality_by_residence/)
+- [Guide to Applying for Asylum in Spain: Step-by-Step Process](https://tramitit.com/english/guides/spain/asylum_application/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/english/guides/spain/non-resident_certificate/)
+- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/english/guides/spain/passport_application/)

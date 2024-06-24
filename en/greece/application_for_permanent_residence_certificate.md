@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 * The permanent residence certificate does not expire.
 * The permanent residence certificate does not automatically grant employment rights but it makes the process of getting work permits easier. 
 * Brexiteers (UK citizens living in Greece before Brexit) require a biometric permit to stay, not the certificate of permanent residence.
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)

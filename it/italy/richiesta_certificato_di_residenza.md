@@ -41,8 +41,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli Aggiuntivi
 La registrazione per un certificato di residenza può variare leggermente tra città o province. In generale, devi registrarti entro 20 giorni dal tuo arrivo in Italia. Qualsiasi ritardo potrebbe causare problemi legali e sanzioni. Una volta che hai registrato la tua residenza, hai diritto agli stessi diritti e servizi di un cittadino italiano.
-
-
 ## Related Posts
 
 - [Certificato di Stato di Famiglia in Italia: Procedura e Requisiti](https://tramitit.com/it/guides/italy/richiesta_certificato_di_stato_di_famiglia/)

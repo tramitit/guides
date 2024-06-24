@@ -42,8 +42,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 Zatiaľ čo niektoré krajiny, ako napríklad Nórsko, vyžadujú víza na žiadosť o azyl, iné ako Slovensko, pre registráciu procesu víza nevyžadujú. Avšak, pamätajte si, že každá krajina má svoj vlastný proces a požiadavky na udelenie humanitárneho pobytu.
 
 Nezabudnite, že je tiež možné požiadať o pomoc od organizácií zameraných na pomoc utečencom alebo žiadateľom o azyl. Tieto organizácie môžu poskytnúť veľmi potrebné rady a pomoc počas tohto procesu. [Agentúra OSN pre utečencov (UNHCR)](https://www.unhcr.org/) je jednou z takých organizácií.
-
-
 ## Related Posts
 
 - [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)

@@ -48,8 +48,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Pentru șederi prelungite, s-ar putea să aveți nevoie să aplicați pentru o viză pe termen lung în schimb.
 - Este recomandabil să aplicați pentru o viză cu cel puțin 2 luni înainte de călătoria planificată în România.
 - Asigurați-vă că verificați cu ambasada sau consulatul României pentru cele mai actuale informații referitoare la vize.
-
-
 ## Related Posts
 
 - [Obținerea unui Permis de Ședere în România: Ghid complet](https://tramitit.com/ro/guides/romania/permis_de_sedere/)

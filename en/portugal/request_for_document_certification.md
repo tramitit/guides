@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - For documents like Birth Certificates to be used abroad, you might be requested to have an Apostille, which authenticates the document for use internationally.
 - For immigration to countries like Canada, you might be asked to present police certificates. These would require you to apply in the country/region where you lived for 6 or more months.
-
-
 ## Related Posts
 
 - [Certified Document Translation Services: What You Need to Know](https://tramitit.com/guides/portugal/request_for_certification_of_document_translation/)

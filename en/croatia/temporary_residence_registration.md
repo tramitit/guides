@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Foreigners staying in Croatia on the basis of temporary stay may stay up to 90 days in each period of six months starting from the date of first entry. For any stays more than that, the foreigner should apply for a temporary residence permit. This information was sourced from the official regulations and policies as stated on the Ministry of Interior website.
-
-
 ## Related Posts
 
 - [Croatia Residence Registration: Essential Guide for Foreigners](https://tramitit.com/guides/croatia/residence_registration/)

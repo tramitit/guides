@@ -44,8 +44,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - In der Regel wird die Liste der Prüfungszentren während des Anmeldeprozesses bereitgestellt. Stellen Sie sicher, dass Ihr bevorzugter Standort aufgeführt ist. Falls nicht, müssen Sie möglicherweise einen anderen Ort wählen oder den Prüfungsanbieter um Unterstützung bitten.
 - Für Sprachprüfungen können zusätzliche Kurse erforderlich sein, z.B. intensive Sprachkurse vor der Hauptprüfung.
 - Notieren Sie sich die wichtigen Termine, wie z.B. den Beginn und das Ende des Anmeldefensters, die Prüfungstermine, die Bekanntgabe der Ergebnisse usw.
-
-
 ## Related Posts
 
 - [Leitfaden zur Schuleinschreibung für internationale Studierende](https://tramitit.com/de/guides/austria/anmeldung_zur_schule/)

@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Processing times can vary widely based on several factors including the location of application, the volume of applications, and the time of year. Note that processing times can be significantly longer during busy travel seasons. For the most current information, check the Interior Ministry's website regularly.
-
-
 ## Related Posts
 
 - [How to Get an ID Card in the Czech Republic: Requirements & Steps](https://tramitit.com/guides/czech-republic/application_for_issuing_an_id_card/)

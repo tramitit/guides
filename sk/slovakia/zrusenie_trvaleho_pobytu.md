@@ -48,8 +48,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie detaily
 Pamätajte, že po zrušení vášho statusu trvalého pobytu môžete stratiť určité práva a výhody v danej krajine. Je tiež dôležité mať na pamäti, že nie každá krajina umožňuje priamu zrušenie trvalého pobytu. V závislosti na predpisoch danej krajiny môžete musieť najprv zmeniť svoj status na dočasného obyvateľa alebo odísť z krajiny celkom. Vždy sa poraďte s imigračnými úradníkmi, aby ste si boli istí, že rozumiete zákonov a predpisov vo vašej konkrétnej situácii. Hoci sa postup môže líšiť v závislosti na konkrétnej krajine, vyššie uvedené kroky poskytujú všeobecný sprievodca tým, čo môžete očakávať. Profesionálna pomoc je vždy prospešná v takýchto prípadoch.
-
-
 ## Related Posts
 
 - [Zmena Trvalého Pobytu na Slovensku: Postup a Doklady](https://tramitit.com/sk/guides/slovakia/zmena_trvaleho_pobytu/)

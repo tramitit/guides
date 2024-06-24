@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 Please note that applying for social housing does not guarantee housing assignment. Because the demand for social housing usually exceeds the supply, there may be significant waiting times. The assignment of housing is based on a points system that prioritizes need. Importantly, intermittent workers or people with unstable jobs can also apply and some dedicated providers are available to help these demographics access social housing. 
 Also remember to renew your application each year as your application is only valid for a year.
-
-
 ## Related Posts
 
 - [Guide to Social Housing Assistance in France: Eligibility and Steps](https://tramitit.com/guides/france/social_housing_assistance_application/)

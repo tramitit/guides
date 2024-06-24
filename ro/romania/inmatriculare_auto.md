@@ -43,8 +43,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 În cazul înmatriculării mașinii din alte țări, ar putea fi necesare documente suplimentare, cum ar fi declarația vamală de eliberare pentru vehiculele care vin din țări non-UE. De asemenea, toate documentele trebuie traduse în limba română.
-
-
 ## Related Posts
 
 - [Procedura de înregistrare a vehiculului în România](https://tramitit.com/ro/guides/romania/viza_autovehicul/)

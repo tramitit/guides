@@ -62,11 +62,10 @@ _(Estamos seleccionando a los mejores proveedores. Si eres o conoces a un provee
 - **Validez**: La Autorización de Regreso suele tener una validez de 90 días a partir de la fecha de emisión.
 - **Reserva de citas**: Las citas pueden llenarse rápidamente; reserva lo antes posible a través del sistema de [Cita Previa](https://sede.administracionespublicas.gob.es/).
 
-
 ## Related Posts
 
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/es/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
-- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
-- [Proceso de Autorización para Carta de Invitación a España](https://tramitit.com/es/guides/spain/autorización_expedición_carta_de_invitación/)
-- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Proceso de Autorización para Carta de Invitación a España](https://tramitit.com/spanish/guides/spain/autorización_expedición_carta_de_invitación/)
+- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/spanish/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
+- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/spanish/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)

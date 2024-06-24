@@ -41,8 +41,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Scrierea caietului de lucru într-un mod clar, concis și profesional poate face acesta mai eficient. Evitați folosirea jargonului și concentrați-vă pe rezultate și realizări.
 - Poate fi benefic să personalizați caietul de lucru în funcție de locul de muncă pentru care aplicați.
 - Caietul dvs. de lucru poate servi drept o referință valoroasă atunci când scrieți aplicații de locuri de muncă sau vă pregătiți pentru interviuri de angajare.
-
-
 ## Related Posts
 
 - [Contract de Muncă în România: Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/contract_de_munca/)

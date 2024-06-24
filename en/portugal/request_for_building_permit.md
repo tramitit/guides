@@ -45,9 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It is critical to abide by the building permit, or face potential fines or orders to halt construction.
 - The timelines for obtaining a permit can vary widely by municipality and the complexity of the project. 
 - It's advised to consult with professionals to ensure a smooth process.
-
-
-
 ## Related Posts
 
 - [How to Obtain a Housing Permit in Portugal: A Complete Guide](https://tramitit.com/guides/portugal/request_for_housing_permit/)

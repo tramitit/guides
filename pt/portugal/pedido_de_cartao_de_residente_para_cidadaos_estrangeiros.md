@@ -43,8 +43,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 A validação de um cartão de residência pode levar várias semanas ou, em alguns casos, vários meses. Além disso, a documentação necessária para a aplicação pode variar significativamente dependendo das circunstâncias individuais, por isso é recomendável verificar com o SEF quaisquer requisitos específicos. Além disso, observe que alguns documentos precisam ser traduzidos para o português por um tradutor profissional reconhecido pelo consulado.
-
-
 ## Related Posts
 
 - [Residir legalmente em Portugal: Cartão de Utilizador para estrangeiros](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_utente_para_estrangeiros/)

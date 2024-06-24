@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Note: The exact process and timeline can vary depending on the local laws and regulations of the area where your property located. Be sure to contact your local council to get the most accurate information.
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)

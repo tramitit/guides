@@ -53,11 +53,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres uno o con
 
 Para obtener orientación más detallada y experiencias de usuarios, consulta los foros comunitarios y los sitios web oficiales del gobierno.
 
-
 ## Related Posts
 
-- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_residente/)
-- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)
-- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
-- [Certificado de No Residente: Qué es, Cómo Obtenerlo y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_no_residente/)
-- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_residente/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)
+- [Certificado de No Residente: Qué es, Cómo Obtenerlo y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_no_residente/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/spanish/guides/spain/cédula_de_inscripción/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)

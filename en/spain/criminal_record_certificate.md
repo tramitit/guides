@@ -58,13 +58,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
   - Visit local offices of the Ministry of Justice in Spain.
 - **Foreign Nationals**:
   - Contact the Spanish Embassy or Consulate in your current country for more details about applying from abroad.
-
-
-
 ## Related Posts
 
-- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/guides/spain/criminal_background_certificate_request/)
-- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/guides/spain/certificate_of_sexual_offenses/)
-- [Sex Offense Certificate: Essential Guide and Application Process](https://tramitit.com/guides/spain/sex_offense_certificate_request/)
-- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/guides/spain/certificate_of_residence/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)
+- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/english/guides/spain/criminal_background_certificate_request/)
+- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/english/guides/spain/certificate_of_sexual_offenses/)
+- [Sex Offense Certificate: Essential Guide and Application Process](https://tramitit.com/english/guides/spain/sex_offense_certificate_request/)
+- [How to Obtain a Digital Certificate for Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/digital_certificate_application/)
+- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/english/guides/spain/certificate_of_residence/)

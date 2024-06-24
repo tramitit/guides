@@ -48,8 +48,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 Pamiętaj, że EHIC nie zastępuje ubezpieczenia podróżnego. Nie obejmuje on prywatnej opieki zdrowotnej ani kosztów takich jak powrót do kraju zamieszkania czy utracone/skradzione przedmioty. Dlatego zaleca się posiadanie zarówno EHIC, jak i ważnej polisy ubezpieczenia podróżnego.
 
 Dla mieszkańców UK, po brexicie, Karta Globalnego Ubezpieczenia Zdrowotnego (GHIC) zastępuje EHIC. Wydane w UK karty EHIC są ważne do daty wygaśnięcia. Nowi wnioskodawcy z UK będą otrzymywać GHIC zamiast EHIC. GHIC zapewnia takie same korzyści jak EHIC.
-
-
 ## Related Posts
 
 - [Ubezpieczenie Zdrowotne w Polsce: Co, Kto, Procedura, Dokumenty](https://tramitit.com/pl/guides/poland/ubezpieczenie_zdrowotne/)

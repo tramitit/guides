@@ -39,8 +39,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes Adicionais
 Certifique-se de que as informações no comprovante de endereço refletem com precisão seu novo local de residência. Dependendo do serviço escolhido, pode ser necessário ter um PIN para autenticação online. Os prazos e taxas podem diferir dependendo do caso individual e da localização. Certifique-se de verificar os detalhes de custo e prazo ao enviar seus documentos para a mudança de endereço.
-
-
 ## Related Posts
 
 - [Atualização de Endereço no Cartão de Residência em Portugal](https://tramitit.com/pt/guides/portugal/alteracao_de_morada_do_titulo_de_residencia/)

@@ -53,8 +53,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Übersetzungsdienste können erforderlich sein, wenn der Empfänger kein Deutsch versteht.
 
 (Hinweis: Die Verfahren und Gebühren können in verschiedenen Regionen Österreichs variieren)
-
-
 ## Related Posts
 
 - [Wie man eine Sterbeurkunde beantragt und was benötigt wird](https://tramitit.com/de/guides/austria/sterbeurkunde_beantragen/)

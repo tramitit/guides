@@ -44,8 +44,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Veuillez noter que l'enfant ne doit pas gagner plus qu'un certain plafond, sinon les allocations peuvent cesser.
 
 Veuillez noter que ces règles et réglementations peuvent varier et il serait préférable de contacter les autorités pour obtenir les informations les plus précises et mises à jour.
-
-
 ## Related Posts
 
 - [Guide pour demander des allocations de chômage en Belgique](https://tramitit.com/fr/guides/belgium/demande_dallocations_de_chomage/)

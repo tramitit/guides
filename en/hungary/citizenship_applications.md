@@ -52,9 +52,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 * The process can take anywhere from a few months to a year or more, so be prepared for a long wait.
 * Hungarian citizenship grants you the right to live and work anywhere in the European Union.
 * You can be a citizen of multiple countries. Hungary does not require you to renounce your current citizenship.
-
-
-
 ## Related Posts
 
 - [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)

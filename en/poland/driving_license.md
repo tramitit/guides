@@ -52,8 +52,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Driving courses can last anywhere between 2 weeks to 3 months, depending on intensity.
 - The theoretical and practical exams are conducted by the regional roads and transport authority.
 - Licenses are usually delivered within a period of 2 to 6 weeks after applying.
-
-
 ## Related Posts
 
 - [How to Obtain a Taxi License in Poland - Step-by-Step Guide](https://tramitit.com/guides/poland/taxi_license/)

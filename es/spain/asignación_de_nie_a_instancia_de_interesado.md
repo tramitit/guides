@@ -54,11 +54,10 @@ _(Actualmente estamos buscando a los mejores proveedores. Si eres o conoces a un
 ## Detalles adicionales
 Es importante mantenerse actualizado con los requisitos de la oficina local de inmigración, ya que los procedimientos pueden cambiar. Se recomienda a los solicitantes revisar el [sitio web de la Oficina de Inmigración de España](https://sede.administracionespublicas.gob.es) para obtener la información más reciente y posibles actualizaciones sobre los tiempos de procesamiento y los requisitos de documentos.
 
-
 ## Related Posts
 
-- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
-- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
-- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_residente/)
-- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
-- [Cómo Cambiar Dirección de Identidad en España para Titulares de NIE](https://tramitit.com/es/guides/spain/cambio_de_domicilio_en_el_dni/)
+- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/spanish/guides/spain/solicitud_de_nie/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/spanish/guides/spain/cédula_de_inscripción/)
+- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
+- [Cómo Cambiar Dirección de Identidad en España para Titulares de NIE](https://tramitit.com/spanish/guides/spain/cambio_de_domicilio_en_el_dni/)
+- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_residente/)

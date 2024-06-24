@@ -38,8 +38,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Faire une demande d'arrêt maladie est la même en cas de maladies physiques et mentales. En France, les travailleurs ont droit à des indemnités journalières s'ils ont travaillé au moins 200 heures au cours des trois mois précédant l'arrêt de travail.
 - En Suisse, les employés incapables de travailler en raison d'une maladie à plus de 25 % ont droit à des indemnités journalières à partir de la troisième semaine suivant la maladie.
 - Selon le contrat et la politique de l'entreprise, l'employeur peut avoir le droit de demander un deuxième avis médical pour déterminer la validité de l'arrêt maladie.
-
-
 ## Related Posts
 
 - [Indemnité Journalière: Procédure et Documents Requis en France](https://tramitit.com/fr/guides/france/demande_dindemnites_journalieres/)

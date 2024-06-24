@@ -45,8 +45,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Die maximale Dauer des Leistungsbezugs richtet sich danach, wie lange Sie zuvor gearbeitet haben und Ihr Alter.
 - In der Regel wird von Ihnen erwartet, aktiv nach einem Job zu suchen und regelmäßig Nachweise über Ihre Jobsuchaktivitäten vorzulegen.
 - Bei Nichteinhaltung der AMS-Richtlinien können Sanktionen wie eine Kürzung oder Aussetzung der Leistungen verhängt werden.
-
-
 ## Related Posts
 
 - [Mindestsicherungsantrag in Österreich: Verfahren und Erfordernisse](https://tramitit.com/de/guides/austria/antrag_auf_mindestsicherung/)

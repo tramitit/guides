@@ -46,8 +46,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 - Wnioski o paszport zazwyczaj muszą być składane osobiście.
 - Dokładne wymagania i procedury mogą się różnić w zależności od szczegółów Twojej sytuacji oraz miejsca, z którego składasz wniosek. Zawsze sprawdzaj aktualne wymagania i procedury w polskim konsulacie lub ambasadzie w swojej jurysdykcji.
 - Mogą istnieć różne wymagania lub procedury dla dorosłych i dzieci. Zawsze sprawdzaj podwójnie, jeśli składasz wniosek o paszport dla osoby poniżej 18. roku życia.
-
-
 ## Related Posts
 
 - [Dowód Osobisty w Polsce: Procedura, Wymagane dokumenty i Informacje](https://tramitit.com/pl/guides/poland/dowod_osobisty/)

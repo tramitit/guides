@@ -68,8 +68,6 @@ _(Estamos a reunir os melhores prestadores. Se é ou conhece um prestador, por f
 - Sempre verifique os códigos ISIN e montantes para garantir que correspondem exatamente ao que é mostrado nas confirmações de negociação e extratos de fim de ano.
 
 Seguindo estes passos e garantindo que tem todos os documentos necessários, poderá completar com precisão o IRS Anexo G e manter-se em conformidade com as regulamentações fiscais portuguesas relativas às mais-valias.
-
-
 ## Related Posts
 
 - [Anexo G1 do IRS: Declaração de Ganhos de Capitais e Criptomoedas](https://tramitit.com/pt/guides/portugal/irs_anexo_g1/)

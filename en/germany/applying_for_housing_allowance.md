@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It's essential to keep your information updated. Any changes in your income or household can affect your eligibility or the amount of assistance you receive.
 - Remember, the provision of inaccurate information could lead to penalties or having to pay back housing allowance credits.
 - When in doubt about your eligibility, it's always a good idea to enquire with the appropriate government office.
-
-
 ## Related Posts
 
 - [Guide to Parental Allowance in Germany: Eligibility & Application](https://tramitit.com/guides/germany/applying_for_parental_allowance/)

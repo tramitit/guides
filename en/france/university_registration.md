@@ -51,8 +51,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The application process for admission to French universities can be different based on the university and the course you choose.
 - Keep in mind French public holidays when planning your university registration as administrative offices might be closed.
 - Campus France is a service provider that can help streamline your university application process in France.
-
-
 ## Related Posts
 
 - [Comprehensive Guide to High School Registration in France](https://tramitit.com/guides/france/high_school_registration/)

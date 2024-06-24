@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to make the address change notification as soon as possible after you move. It helps to stay in compliance with the immigration law of Portugal. Be aware that failing to do so might lead to legal implications.
-
-
 ## Related Posts
 
 - [How to Change the Address on Your Citizen Card in Portugal](https://tramitit.com/guides/portugal/change_of_address_on_citizen_card/)

@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that this process is applicable to Greece. The trend of women changing their last name after marriage varies greatly in Europe due to cultural, social, and legal reasons. Also remember to inform all relevant parties about your new name to avoid any potential issues. This includes your employer, bank, and any other institutions you have a relationship with.
-
-
 ## Related Posts
 
 - [Legal Name Change in Greece: Steps, Required Documents & Tips](https://tramitit.com/guides/greece/application_for_name_change_certificate/)

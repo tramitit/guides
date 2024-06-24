@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The process may vary slightly depending on your country and local area, particularly for immigrant families. Always check with the local registration office for up-to-date information. Ensure the child's name meets local regulations. Some countries have laws governing how a child can be named, so it's best to be familiar with those rules before finalizing your child's name.
-
-
 ## Related Posts
 
 - [How to Obtain a Birth Certificate in Slovakia | Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_birth_certificate/)

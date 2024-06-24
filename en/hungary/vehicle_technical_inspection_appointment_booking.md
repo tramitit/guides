@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Make sure to maintain your vehicle regularly to prevent failing the inspection. 
 
 **Disclaimer: This information is based on common procedures and may not be applicable in all situations. Please check local laws and regulations or speak to a qualified professional if you require legal advice.**
-
-
 ## Related Posts
 
 - [Vehicle Registration in Hungary: Complete Step-by-Step Guide](https://tramitit.com/guides/hungary/vehicle_registration/)

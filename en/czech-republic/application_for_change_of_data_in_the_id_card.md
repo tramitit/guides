@@ -45,8 +45,6 @@ Some countries may allow changes to be made online or via mail, check with your 
 Always protect your personal data and only share it with verified entities and for necessary purposes. Consult local laws for more guidance on this aspect. 
 
 Note: This information may vary depending on the specific location and regulations. Always cross-verify with the local authorities.
-
-
 ## Related Posts
 
 - [How to Get an ID Card in the Czech Republic: Requirements & Steps](https://tramitit.com/guides/czech-republic/application_for_issuing_an_id_card/)

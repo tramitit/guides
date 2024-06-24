@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You may need to take a Czech language proficiency test if your business requires communication with Czech customers.
 - The tax process in the Czech Republic is straightforward but differs slightly for EU and non-EU citizens.
 - Social and health insurance are mandatory once you start your business.
-
-
 ## Related Posts
 
 - [Employer Registration for Social Insurances in Czech Republic](https://tramitit.com/guides/czech-republic/employer_registration_for_social_insurance/)

@@ -55,8 +55,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 La pazienza è fondamentale durante questo processo, poiché talvolta può richiedere fino a due anni per finalizzare la domanda di cittadinanza. Inoltre, potrebbe essere richiesto di avere una comprensione di base della lingua italiana a seconda del percorso di domanda. Infine, mantieniti sempre aggiornato sui cambiamenti dei requisiti o procedure del tuo consolato locale.
-
-
 ## Related Posts
 
 - [Come richiedere un certificato di nascita in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_nascita/)

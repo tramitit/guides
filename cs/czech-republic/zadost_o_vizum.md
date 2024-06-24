@@ -46,8 +46,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 ## Další podrobnosti
 Doba zpracování víza se liší v závislosti na typu víza, o které žádáte. Doporučuje se podat žádost nejméně 15 dní před plánovaným výletem.
 Pamatujte, že vízum automaticky nezaručuje právo vstupu do schengenského prostoru. Na hranici (nebo během jiných kontrol) můžete muset předložit vízum, ale také dodatečné dokumenty, například informace o tom, že máte dostatečné prostředky na pokrytí pobytu a zpáteční cesty.
-
-
 ## Related Posts
 
 - [Trvalý pobyt v České republice: Požadavky a postup pro získání](https://tramitit.com/cs/guides/czech-republic/zadost_o_povoleni_k_trvalemu_pobytu/)

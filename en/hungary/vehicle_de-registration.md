@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note, the timeline and costs are variable and depend on the specifics of your vehicle. After de-registration, you should not use the vehicle in public areas. Also, ensure to remove the car insurance after the de-registration is completed.
-
-
 ## Related Posts
 
 - [Vehicle Registration in Hungary: Complete Step-by-Step Guide](https://tramitit.com/guides/hungary/vehicle_registration/)

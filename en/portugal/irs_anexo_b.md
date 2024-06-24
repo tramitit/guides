@@ -57,8 +57,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **No Income Scenario**: According to user experiences, if you had no income over the fiscal year, you still need to submit Anexo B but you will indicate zero income.
 - **Previous Years**: If you missed submitting Anexo B in prior years, you should still comply to avoid potential fines. Previous threads indicate that you can rectify historical records by accessing the 'Declarações' section for each missed year.
 - **First Time Filing**: As a first-time filer, ensure every step is diligently followed. Community tips suggest cross-referencing official IRS guidelines or seeking professional help for a smoother experience.
-
-
 ## Related Posts
 
 - [Guide to IRS Anexo C for Self-Employed in Portugal - 2023](https://tramitit.com/guides/portugal/irs_anexo_c/)

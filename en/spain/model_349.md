@@ -39,13 +39,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Business transactions with other EU member states also necessitate the submission of supplementary forms to ensure compliance with both local and EU-wide tax regulations. Make sure to stay current with regulatory changes to avoid penalties.
 
-
-
-
 ## Related Posts
 
-- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/guides/spain/model_347/)
-- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/guides/spain/model_036/)
-- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)
-- [Model 151 Guide: Foreign Asset Declaration for Beckham Law Users](https://tramitit.com/guides/spain/model_151/)
-- [Guide to Model 390: Essential for Foreigners in Spain (NIE)](https://tramitit.com/guides/spain/model_390/)
+- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/english/guides/spain/model_347/)
+- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/english/guides/spain/model_036/)
+- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/english/guides/spain/model_130/)
+- [Model 151 Guide: Foreign Asset Declaration for Beckham Law Users](https://tramitit.com/english/guides/spain/model_151/)
+- [Guide to Model 390: Essential for Foreigners in Spain (NIE)](https://tramitit.com/english/guides/spain/model_390/)

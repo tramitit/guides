@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that different agencies have their own specific procedures and eligibility criteria for heating assistance. Make sure to check with your local agency to ensure you fully understand their procedure and requirements. Applying for aid as early in the season as possible is usually advisable, as there can sometimes be delays in processing times.
-
-
 ## Related Posts
 
 - [Complete Guide to Child Benefits Eligibility and Application](https://tramitit.com/guides/bulgaria/application_for_child_benefits/)

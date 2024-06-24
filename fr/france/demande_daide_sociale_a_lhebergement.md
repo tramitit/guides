@@ -45,8 +45,6 @@ En France, trois types de logements sociaux sont disponibles : Très Sociaux (TH
 Bien que la demande soit gratuite, obtenir effectivement un logement social pourrait prendre du temps. Le temps d'attente varie grandement en fonction de la région. Les habitants de Paris attendent généralement plus longtemps par rapport à ceux des autres régions.
 
 N'oubliez pas de toujours garder vos informations à jour et de signaler tout changement de circonstances aux autorités compétentes.
-
-
 ## Related Posts
 
 - [Logement Social en France: Eligibility, Application, Assistance](https://tramitit.com/fr/guides/france/demande_de_logement_social/)

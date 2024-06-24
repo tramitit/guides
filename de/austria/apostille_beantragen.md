@@ -46,8 +46,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 Jede Apostille ist einzigartig und enthält eine Registriernummer, die verwendet werden kann, um ihre Echtheit in einem Online-System zu überprüfen. Es ist wichtig zu beachten, dass eine Apostille nur die Herkunft des öffentlichen Dokuments bestätigt, auf das sie sich bezieht: sie bescheinigt die Echtheit der Unterschrift oder des Stempels/Siegels der Person oder Behörde, die das öffentliche Dokument unterzeichnet oder versiegelt hat, und die Funktion, in der dies erfolgt ist. Sie bescheinigt nicht den Inhalt des öffentlichen Dokuments, auf das sie sich bezieht.
 
 Denken Sie daran, bei den Behörden oder Einrichtungen, die Ihr Dokument anfordern, nachzufragen, ob sie eine Apostille benötigen. Beachten Sie auch, dass der Prozess einige Wochen dauern kann, planen Sie daher frühzeitig vor Ihren Antragsfristen oder Ihrer Abreise.
-
-
 ## Related Posts
 
 - [Wie man eine Sterbeurkunde beantragt und was benötigt wird](https://tramitit.com/de/guides/austria/sterbeurkunde_beantragen/)

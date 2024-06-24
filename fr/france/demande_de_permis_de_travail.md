@@ -43,8 +43,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Les délais de traitement varient, il est donc conseillé de planifier et de commencer la procédure bien à l'avance de la date de début prévue. De plus, avoir au moins une compréhension de base du français aiderait grandement votre transition.
-
-
 ## Related Posts
 
 - [Obtenir un Visa pour la France : Procédure, Documents & Détails](https://tramitit.com/fr/guides/france/demande_de_visa/)

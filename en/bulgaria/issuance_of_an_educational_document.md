@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Always check up-to-date instructions from your particular institution's administrative office as procedures may vary. 
 
 Please refer to the institutional guidelines or contact the administrative office of the respective educational institution for precise information.
-
-
 ## Related Posts
 
 - [Complete Guide to Diploma Renewal: Process, Documents & More](https://tramitit.com/guides/bulgaria/diploma_renewal/)

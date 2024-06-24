@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 The registration process, timelines and requirements may vary slightly from one school to another. It is therefore important to reach out to your chosen school well in advance to understand their specific procedures and requirements. Always keep copies of all the documents you submit for your records.
 
  In France, while attending preschool (maternelle) is not mandatory, it is common and well-regarded, providing a good foundation for your child's education.
-
-
 ## Related Posts
 
 - [Guide to Primary School Registration in France for 2023](https://tramitit.com/guides/france/primary_school_registration/)

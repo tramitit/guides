@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Please note that the requirements and process may vary based on your region. Always confirm with your local vehicle license issuing authority.
 - If you’re visiting or living in Austria with a foreign license, make sure to check the requirements for that specific region.
 - The replacement process is typically in your local language. English may not always be accommodated.
-
-
 ## Related Posts
 
 - [Renew Your Driver's License in Austria: Steps & Requirements](https://tramitit.com/guides/austria/drivers_license_renewal/)

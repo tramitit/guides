@@ -50,11 +50,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 - Las implicaciones fiscales y de propiedad pueden ser diferentes para parejas registradas que para parejas casadas. Se recomienda consultar a un asesor fiscal para obtener información detallada.
 - Si uno de los socios es ciudadano no perteneciente a la UE, la pareja registrada puede ser utilizada como base para solicitar un permiso de residencia. Sin embargo, la naturaleza y el alcance de estos beneficios pueden variar según las circunstancias individuales. Se recomienda consultar a un abogado para obtener detalles específicos.
 
-
 ## Related Posts
 
-- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
-- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
-- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
-- [Matrimonio Civil en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/solicitud_de_matrimonio_civil/)
-- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/spanish/guides/spain/certificado_de_matrimonio/)
+- [Matrimonio Civil en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/solicitud_de_matrimonio_civil/)
+- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/spanish/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
+- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/spanish/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)

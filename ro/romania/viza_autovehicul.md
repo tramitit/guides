@@ -42,8 +42,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Dacă vehiculul a fost importat, trebuie plătită și asigurarea și impozitul pentru poluare al vehiculului.
 - Vă rugăm să rețineți că toate documentele ar trebui traduse în limba română.
 - Este recomandat să consultați ajutor profesional sau furnizori de servicii specifici pentru a vă asista în proces, în special în cazul unei bariere lingvistice sau a necunoașterii birocrației românești.
-
-
 ## Related Posts
 
 - [Înregistrarea mașinii în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/inmatriculare_auto/)

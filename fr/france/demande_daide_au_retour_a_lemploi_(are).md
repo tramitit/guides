@@ -46,8 +46,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Vous devrez peut-être assister à des réunions régulières avec un conseiller Pôle Emploi dans le cadre de votre recherche d'emploi.
 - Vous devriez consulter régulièrement les offres d'emploi et soumettre des candidatures, et être prêt à fournir des preuves de vos activités de recherche d'emploi si on vous le demande.
 - Si vous refusez deux offres d'emploi raisonnables, vos prestations ARE peuvent être suspendues.
-
-
 ## Related Posts
 
 - [Allocations de Chômage en France: Comment les Obtenir](https://tramitit.com/fr/guides/france/demande_dallocation_chomage/)

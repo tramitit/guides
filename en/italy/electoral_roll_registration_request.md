@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember, if you reside abroad it's not just your right but also your duty to register with A.I.R.E, as discussed [here](https://www.esteri.it/mae/it/servizi/italiani-all-estero/serviziconsolari.html). Failure to do so could result in penalties. Always keep your information on A.I.R.E up-to-date to ensure you're able to vote. According to your situation, you might be also able to vote for European Union elections as well as Italian ones.
-
-
 ## Related Posts
 
 - [Guide to Civil Registry Registration in Italy: Process & Documents](https://tramitit.com/guides/italy/registration_in_the_civil_registry/)

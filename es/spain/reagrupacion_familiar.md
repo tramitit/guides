@@ -54,11 +54,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 ## Detalles adicionales
 Ten en cuenta que cada caso es diferente y el proceso puede variar dependiendo de tus circunstancias específicas. Siempre consulta con un profesional legal para obtener asistencia personalizada. Además, recuerda, durante el proceso, respeta las leyes españolas y mantén siempre un estatus legal. Las solicitudes administrativas a veces pueden demorar más de lo previsto, por lo que la paciencia es vital. Además, incluso un pequeño error en la solicitud puede causar retrasos o denegaciones, así que revisa la información antes de enviarla.
 
-
 ## Related Posts
 
-- [Residencia para Familiares de Ciudadanos de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_de_residencia_de_familiar_de_comunitario/)
-- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
-- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)
+- [Residencia para Familiares de Ciudadanos de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_de_residencia_de_familiar_de_comunitario/)
+- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/spanish/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/spanish/guides/spain/nacionalidad_española_por_residencia/)

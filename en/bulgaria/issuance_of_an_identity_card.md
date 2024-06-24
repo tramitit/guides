@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - All original personal documents will be returned directly after verification.
 - The fee for issuing the ID card varies depending on the urgency of the issuance.
 - In case of loss, theft, or damage to the ID card, the holder must immediately report it to the nearest police station. In addition, a declaration describing the circumstances under which the loss, theft, or damage occurred must be submitted.
-
-
 ## Related Posts
 
 - [Essential Guide to Obtaining a Passport in Bulgaria](https://tramitit.com/guides/bulgaria/issuance_of_a_passport/)

@@ -53,8 +53,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 ## Détails supplémentaires
 Le coût de l'assurance dépendra de la couverture que vous choisissez. Certains assureurs proposent des plans personnalisables, vous permettant de choisir les services dont vous avez besoin en fonction de votre état de santé et de votre budget. L'implication de l'assureur dans les procédures avec les professionnels de la santé varie également d'un assureur à l'autre.
 N'oubliez pas de lire toutes les conditions et les petits caractères du contrat avant de signer.
-
-
 ## Related Posts
 
 - [Inscription à la Sécurité sociale française: Guide complet](https://tramitit.com/fr/guides/france/inscription_a_la_securite_sociale/)

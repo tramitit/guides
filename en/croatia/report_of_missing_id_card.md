@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It is important to report a lost ID as soon as possible to prevent potential identity theft or fraud.
 - The process could take several weeks, so it's advisable to start it immediately after realizing that your ID is missing.
 - While you're waiting for the new ID card, remember to carry another form of identification with you.
-
-
 ## Related Posts
 
 - [Lost or Stolen Passport Reporting Process in Croatia](https://tramitit.com/guides/croatia/report_of_missing_passport/)

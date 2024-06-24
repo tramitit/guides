@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Credit transfer is subject to the syllabus and policy of the new institution. It's important to check this beforehand to ensure your hard-earned credits will not be lost.
 - Try to start the process early as it may take time owing to university deadlines and processing time.
 - For international transfers, the visa procedure and possible recognition of your present academic record might be additional considerations.
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)

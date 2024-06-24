@@ -52,8 +52,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 You may also need to show proof of Social Security contributions during your stay, depending on your situation. Remember that the validity of your renewed permit is contingent upon your ability to meet these requirements.  
 
 Errors in the application form can lead to process delay. As a result, you need to be extra cautious when filling out the form.
-
-
 ## Related Posts
 
 - [Resident Card Renewal in Portugal: Steps and Requirements](https://tramitit.com/guides/portugal/renewal_of_resident_card_for_foreign_citizens/)

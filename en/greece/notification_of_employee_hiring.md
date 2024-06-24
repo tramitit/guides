@@ -43,9 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 It’s important to keep the announcement professional and respectful. Remember, you're welcoming a new team member - the focus should be on making them feel welcomed and appreciated. Also, bear in mind that unprofessional or poorly handled announcements can lead to difficult first impressions. Be careful with personal information to avoid privacy issues.
-
-
-
 ## Related Posts
 
 - [The Ultimate Guide to Rental Announcements for Property Owners](https://tramitit.com/guides/greece/rental_announcement/)

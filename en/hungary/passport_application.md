@@ -53,8 +53,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Any changes in your personal data such as unwanted name changes should be reported to and modified at the issuing office.
-
-
 ## Related Posts
 
 - [Guide to Apply for Hungarian Citizenship by Descent or Naturalization](https://tramitit.com/guides/hungary/citizenship_applications/)

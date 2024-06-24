@@ -47,8 +47,6 @@ Exact required documents may vary depending upon personal circumstances such as 
 The cost of the transaction process also varies depending on various factors, including but not limited to translation fees, legal fees, administration fees, etc. Do clarify these expenses before proceeding with your application.
 
 And lastly, fulfilling the criteria does not necessarily guarantee the granting of citizenship as the decision ultimately lies upon the discretion of the authorities.
-
-
 ## Related Posts
 
 - [Registering as a Foreigner: Steps and Requirements Explained](https://tramitit.com/guides/belgium/registration_in_the_foreigners_registers/)

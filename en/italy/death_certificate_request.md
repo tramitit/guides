@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It's important for the letter of request to be in Italian.
 - If you're requesting the death certificate for genealogy purposes, it can be helpful to include any known familial ties in the region. Information such as the deceased's parents' names, spouse, and children can expedite the process.
 - Be aware that some comunes may charge a fee for the issuance of these certificates.
-
-
 ## Related Posts
 
 - [How to Handle a Death Declaration Procedure in Italy](https://tramitit.com/guides/italy/death_declaration/)

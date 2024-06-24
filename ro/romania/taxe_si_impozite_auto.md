@@ -42,8 +42,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Cetățenii obișnuiți ar putea să nu înțeleagă pe deplin detaliile privind impozitarea auto. Prin urmare, este întotdeauna recomandabil să studiați cu atenție politica sau să consultați un profesionist pentru a evita penalitățile inutile. Cursurile de schimb și taxele de import/export pot afecta costul total al unei mașini. Luați în considerare aceste variabile atunci când vă planificați cheltuielile auto.
-
-
 ## Related Posts
 
 - [Înregistrarea mașinii în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/inmatriculare_auto/)

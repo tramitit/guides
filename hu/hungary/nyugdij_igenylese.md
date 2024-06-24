@@ -47,8 +47,6 @@ Az igényléskor érdeklődjön a elérhető különböző nyugdíj típusokról
 Kérjük, vegye figyelembe, hogy a nyugdíjba vonulás korhatára Magyarországon változó lehet. 2022-ben az országban a nyugdíjba vonulás életkorát mind a férfiak, mind a nők esetében 65 évre tűzték ki. Azonban 2022-ig fokozatosan emelkedik 68 évre. Mindig ellenőrizze a legfrissebb szabályozásokat.
 
 Amennyire lehetséges, kérjen segítséget szakemberektől vagy olyan egyénektől, akik már átesnek ugyanezen folyamaton. Ez biztosítja, hogy ne maradjon el fontos lépés, és zökkenőmentesen menjen végbe a folyamat.
-
-
 ## Related Posts
 
 - [Magyar Állampolgárság Megszerzése: Útmutató és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/allampolgarsagi_kerelmek/)

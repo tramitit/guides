@@ -47,8 +47,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - Ricordarsi di fare un follow-up se non si riceve risposta.
 - Assicurarsi che la richiesta sia redatta in italiano per comodità degli ufficiali italiani.
 - Alcuni comuni potrebbero richiedere un pagamento o una donazione, assicurarsi di seguire le loro istruzioni.
-
-
 ## Related Posts
 
 - [Dichiarazione di Nascita in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/denuncia_di_nascita/)

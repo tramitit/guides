@@ -42,8 +42,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Medzinárodný vodičský preukaz nie je samostatným dokumentom a mali by ste ho nosiť spolu so svojím originálnym vodičským preukazom.
 - Je platný jeden rok od dátumu vydania.
 - Myslite na to, že ide o preklad vášho existujúceho preukazu a neudeluje extra vodičské práva. Dodržujte pravidlá cestnej premávky krajiny, ktorú navštevujete.
-
-
 ## Related Posts
 
 - [Vodičský preukaz na Slovensku: Získanie, požadované dokumenty a postup](https://tramitit.com/sk/guides/slovakia/vydanie_vodicskeho_preukazu/)

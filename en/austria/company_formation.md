@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember, when forming a company in Austria, it's crucial to carefully consider tax implications. Depending on the legal form of your company, you might be eligible for certain tax benefits. Consulting with a tax professional or a lawyer can be beneficial in making the right decisions.
-
-
 ## Related Posts
 
 - [Business Re-Registration in Austria: A Complete Guide](https://tramitit.com/guides/austria/business_re-registration/)

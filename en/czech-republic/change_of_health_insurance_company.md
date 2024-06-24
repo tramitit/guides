@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Your previous medical records and previous claims have no impact on your ability to switch insurers.
 - Depending on your medical needs, employment status, and age, different health insurance companies might be better suited for you.
 - It's worth noting that more expensive does not automatically mean better, make sure to thoroughly review the benefits each provider offers.
-
-
 ## Related Posts
 
 - [Health Insurance in Czech Republic: Essential Guide for Residents](https://tramitit.com/guides/czech-republic/registration_with_a_health_insurance_company/)

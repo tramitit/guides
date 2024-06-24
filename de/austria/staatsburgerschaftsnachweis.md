@@ -46,8 +46,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 ## Weitere Details
 Ihr örtliches Landesregierungsamt kann präzisere Zeit- und Kostenschätzungen bereitstellen, da diese je nach individuellen Umständen variieren. Es ist wichtig zu beachten, dass der Erwerb des Staatsbürgerschaftsnachweises abhängig von Ihren individuellen Umständen ein komplexer Prozess sein kann, daher kann es hilfreich sein, rechtlichen Rat oder Unterstützung einzuholen.
 Eine wichtige Anmerkung ist, dass Österreich im Allgemeinen keine doppelte Staatsbürgerschaft akzeptiert, daher müssen Sie möglicherweise Ihre frühere Staatsangehörigkeit aufgeben. Überprüfen Sie immer die aktuellen Gesetze zur Staatsbürgerschaft, bevor Sie fortfahren.
-
-
 ## Related Posts
 
 - [Wohnsitznachweis: Beantragung, Verfahren & Erforderliche Dokumente](https://tramitit.com/de/guides/austria/wohnsitzbescheinigung/)

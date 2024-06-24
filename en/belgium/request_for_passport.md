@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Remember that the processing time can vary significantly based on the time of year, your location, and other factors. Ensure to apply well in advance of any planned trips. It's also worth noting that passports typically have a validity period of up to 10 years for adults.
-
-
 ## Related Posts
 
 - [Registering as a Foreigner: Steps and Requirements Explained](https://tramitit.com/guides/belgium/registration_in_the_foreigners_registers/)

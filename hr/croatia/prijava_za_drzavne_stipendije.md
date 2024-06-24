@@ -50,8 +50,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 ## Dodatne informacije
 
 Zapamtite, rokovi za državne stipendije mogu varirati, a obično postoji jaka konkurencija za njih. Također, budite sigurni da točno popunite sve informacije i provjerite točnost svojih dokumenata prije podnošenja.
-
-
 ## Related Posts
 
 - [Priprema Dokumentacije za Upis na Sveučilišta u Hrvatskoj i Poljskoj](https://tramitit.com/hr/guides/croatia/dokumentacija_za_upis_na_visoko_uciliste/)

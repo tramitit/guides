@@ -41,8 +41,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Toutes les aides à la mobilité ne seront pas entièrement prises en charge par la sécurité sociale et vous pourriez avoir des frais.
 - Si vous voyagez et avez besoin d'un accès temporaire à une aide à la mobilité, des endroits comme Disneyland Paris ou des sites touristiques majeurs proposent des services de location.
 - En cas de besoins en aide à la mobilité en raison d'une blessure temporaire ou d'une hospitalisation, parlez au personnel hospitalier concerné de l'accès aux aides à la mobilité pendant votre rétablissement.
-
-
 ## Related Posts
 
 - [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_(allocation_personnalisee_dautonomie)/)

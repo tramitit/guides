@@ -39,8 +39,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Kérjük, vegye figyelembe, hogy a határidők és költségek változóak és a jármű specifikumaitól függenek. Az lejelentés után ne használja a járművet közterületeken. Továbbá, győződjön meg róla, hogy a lejelentés befejezése után megszünteti az autóbiztosítást.
-
-
 ## Related Posts
 
 - [Hungarian Vehicle Registration Process: Steps and Requirements](https://tramitit.com/hu/guides/hungary/gepjarmu_forgalomba_helyezese/)

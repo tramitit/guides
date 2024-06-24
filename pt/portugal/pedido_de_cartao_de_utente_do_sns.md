@@ -40,8 +40,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Embora o cartão de utente do SNS seja necessário, em situações de emergência, o centro de saúde irá atendê-lo mesmo sem ele.
 - O número do Cartão de Utente será único e ligado ao seu NIF pessoal, portanto é seguro mesmo se for perdido.
 - O cartão é gratuito, embora substituições por cartões perdidos possam ter uma pequena taxa.
-
-
 ## Related Posts
 
 - [Agendar Consulta Médica no SNS: Guia Completo e Passo a Passo](https://tramitit.com/pt/guides/portugal/pedido_de_marcacao_de_consulta_no_sns/)

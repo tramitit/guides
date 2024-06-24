@@ -51,8 +51,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 3. It's essential to notify the local office as soon as possible to avoid legal consequences.
 
 4. It's also important to check if similar regulations apply to registrations of vehicles, if any.
-
-
 ## Related Posts
 
 - [How to Change Your Registered Residence Address in Poland](https://tramitit.com/guides/poland/change_of_registered_residence_address/)

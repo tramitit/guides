@@ -50,8 +50,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Reasons for a name change can include personal preference, divorce, marriage, or simplification.
 - Approval for a name change is not guaranteed and is left to the discretion of the local authorities.
 - Once a name change has been approved and a new certificate given, all personal documentation should be updated to reflect the new name.
-
-
 ## Related Posts
 
 - [How to Change Your Surname in Slovakia: A Detailed Guide](https://tramitit.com/guides/slovakia/change_of_surname/)

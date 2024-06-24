@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Exact fee and processing time may vary. For urgent cases, expedited service may be available for an additional fee. Please contact the civil registry or your service provider for the most current information.
-
-
 ## Related Posts
 
 - [How to Obtain a Birth Certificate: Steps and Requirements](https://tramitit.com/guides/portugal/request_for_birth_certificate/)

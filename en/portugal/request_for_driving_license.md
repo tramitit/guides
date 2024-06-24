@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 You must be at least 18 years old to request a driving license. Individuals who fail their driving test may need to wait before they can retake it. The waiting period depends on the specific requirements set out by the traffic regulatory authorities.
-
-
 ## Related Posts
 
 - [How to Obtain a Duplicate Driving License in Case of Loss or Theft](https://tramitit.com/guides/portugal/request_for_duplicate_driving_license/)

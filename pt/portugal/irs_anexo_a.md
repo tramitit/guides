@@ -56,8 +56,6 @@ _(Estamos a reunir os melhores prestadores. Se é ou conhece um prestador, por f
 
 ## Detalhes adicionais
 Se tiver alguma dificuldade ou questão específica relacionada com o preenchimento do IRS Anexo A, considere procurar aconselhamento de um profissional de impostos. Uma submissão precisa e atempada é crucial para evitar multas ou atrasos no processamento da sua declaração de imposto.
-
-
 ## Related Posts
 
 - [IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros](https://tramitit.com/pt/guides/portugal/irs_anexo_i/)

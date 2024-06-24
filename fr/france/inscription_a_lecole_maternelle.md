@@ -45,8 +45,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 Le processus d'inscription, les délais et les exigences peuvent varier légèrement d'une école à l'autre. Il est donc important de contacter votre école choisie bien à l'avance pour comprendre leurs procédures et exigences spécifiques. Gardez toujours des copies de tous les documents que vous soumettez pour vos archives.
 
 En France, bien que la fréquentation de la maternelle ne soit pas obligatoire, elle est courante et bien considérée, offrant une bonne base pour l'éducation de votre enfant.
-
-
 ## Related Posts
 
 - [Inscription à l'école primaire en France: Processus et Documents](https://tramitit.com/fr/guides/france/inscription_a_lecole_primaire/)

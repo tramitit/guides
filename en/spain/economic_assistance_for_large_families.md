@@ -49,11 +49,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Remember that each aid program may have its own set of eligibility criteria. You might be eligible for some programs and not others, depending on factors like your income level, the number of children you have, and where you live. Be sure to check the eligibility requirements for each program carefully.
 
-
 ## Related Posts
 
-- [Guide to Applying for Rental Assistance: Eligibility & Steps](https://tramitit.com/guides/spain/rental_assistance_application/)
-- [How to Apply for Educational Scholarships Successfully](https://tramitit.com/guides/spain/request_educational_scholarships/)
-- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
-- [Guide to Family Reunification in Spain: Steps and Requirements](https://tramitit.com/guides/spain/family_reunification/)
-- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/guides/spain/ingreso_minimo_vital/)
+- [Guide to Applying for Rental Assistance: Eligibility & Steps](https://tramitit.com/english/guides/spain/rental_assistance_application/)
+- [How to Apply for Educational Scholarships Successfully](https://tramitit.com/english/guides/spain/request_educational_scholarships/)
+- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/english/guides/spain/child_benefit_application/)
+- [Guide to Family Reunification in Spain: Steps and Requirements](https://tramitit.com/english/guides/spain/family_reunification/)
+- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/english/guides/spain/ingreso_minimo_vital/)

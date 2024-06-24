@@ -42,8 +42,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - Je důležité si uvědomit, že nákup stavebního pozemku je závažná investice, která musí být pečlivě zvážena.
 - Celkové náklady projektu zahrnují nejen nákupní cenu pozemku, ale také náklady na výstavbu budovy.
 - Některé lokality mohou mít omezení ohledně typu budovy, která může být postavena. Proto je důležité provést výzkum místních stavebních předpisů předtím, než se zavázete k nákupu pozemku.
-
-
 ## Related Posts
 
 - [Stavební Povolení v České Republice: Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/zadost_o_stavebni_povoleni/)

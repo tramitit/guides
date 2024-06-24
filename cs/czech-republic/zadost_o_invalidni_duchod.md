@@ -51,8 +51,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 ## Další podrobnosti
 
 Výše invalidního důchodu a specifické požadavky budou převážně záviset na vaší lokalitě a místních předpisech. Některé země poskytují více benefitů lidem s těžšími postiženími, zatímco jiné distribuují pevné částky. V některých případech může být výše důchodu ovlivněna vaším minulým zaměstnaneckým statusem. Pro více informací se obraťte na místní důchodový orgán.
-
-
 ## Related Posts
 
 - [Proces žádosti o důchod: Postup a požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_duchod/)

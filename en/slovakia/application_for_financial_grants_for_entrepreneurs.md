@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If your application is unsuccessful, don’t be discouraged. Use the opportunity to refine your proposal and apply for other grants. 
 
 Please perform your research, or consult with a professional for specific grant opportunities and application procedures related to your business and region.
-
-
 ## Related Posts
 
 - [Social Scholarships in Slovakia: Financial Support for Students](https://tramitit.com/guides/slovakia/application_for_social_scholarship/)

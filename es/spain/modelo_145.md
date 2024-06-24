@@ -69,11 +69,10 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 - Es crucial actualizar este formulario siempre que haya un cambio sustancial en tus circunstancias para garantizar retenciones fiscales precisas.
 - Presentar información incorrecta puede resultar en multas o cálculos fiscales incorrectos, por lo que es recomendable buscar ayuda profesional si tienes dudas sobre alguna parte del formulario.
 
-
 ## Related Posts
 
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
-- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
-- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/es/guides/spain/modelo_130/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
-- [Guía del Modelo 790 Código 012: Pago y Regularización del NIE](https://tramitit.com/es/guides/spain/modelo_390/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/spanish/guides/spain/modelo_190/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
+- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/spanish/guides/spain/modelo_130/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/spanish/guides/spain/modelo_036/)
+- [Guía Completa del Modelo 790: Cómo Pagar Tarifas Administrativas](https://tramitit.com/spanish/guides/spain/modelo_790/)

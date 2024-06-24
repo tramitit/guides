@@ -37,8 +37,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Registrar o nascimento de um filho em Portugal como cidadão estrangeiro varia dependendo das circunstâncias específicas em torno do nascimento da criança. É aconselhável consultar o Consulado Português em seu país de origem ou um profissional legal experiente em direito de cidadania portuguesa. O processo pode levar várias semanas a meses, dependendo da complexidade do seu caso e da carga de trabalho atual do cartório.
-
-
 ## Related Posts
 
 - [Adquirir Nacionalidade Portuguesa: Procedimento e Requisitos](https://tramitit.com/pt/guides/portugal/pedido_de_nacionalidade_portuguesa/)

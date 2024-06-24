@@ -52,8 +52,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Dacă sunteți expat sau nerezident cu obligații fiscale, verificați cu biroul de impozite din țara dvs. de origine pentru a vedea dacă este necesar un TIN și cum să aplicați pentru unul.
 
 - Păstrați întotdeauna TIN-ul dvs. confidențial pentru a evita potențiale cazuri de furt de identitate și fraudă.
-
-
 ## Related Posts
 
 - [Certificat de Rezidență Fiscală: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_fiscal/)

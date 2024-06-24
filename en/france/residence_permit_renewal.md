@@ -61,9 +61,6 @@ In case of difficulties securing an appointment for your renewal, keep trying. S
 Please note that this information may vary depending on your specific situation or changes in the 'Préfecture’s' renewal process. We recommend checking the Préfecture's website or contacting them directly for the most accurate information.
 
 ---
-
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Permit in France: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_application/)

@@ -46,8 +46,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 ## Dettagli aggiuntivi
 
 È importante notare che il reddito di cittadinanza non viene fornito in modo incondizionato. Se lo si riceve, è necessario candidarsi per offerte di lavoro tramite i Centri per l'impiego e si è tenuti ad accettare almeno un'offerta di lavoro su tre ricevute. La mancata conformità a queste regole può comportare sanzioni, tra cui la revoca del beneficio. È anche obbligatorio svolgere servizi sociali e comunitari.
-
-
 ## Related Posts
 
 - [Guida alla Cittadinanza Italiana: Procedura, Documenti e Fornitori](https://tramitit.com/it/guides/italy/richiesta_di_cittadinanza_italiana/)

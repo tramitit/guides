@@ -49,8 +49,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Les lois et conditions de réunification familiale peuvent varier considérablement d'un pays à l'autre. Il est fortement recommandé de vérifier auprès de l'ambassade/consulat du pays où réside votre membre de famille pour obtenir des détails spécifiques. De plus, une aide juridique peut être consultée pour faciliter le processus.
-
-
 ## Related Posts
 
 - [Guide de l'inscription au registre des étrangers en 2023](https://tramitit.com/fr/guides/belgium/inscription_dans_le_registre_des_etrangers/)

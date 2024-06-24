@@ -41,8 +41,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Die Informationen, die Sie anfordern können, können von Ihrer Rechtfertigung und den örtlichen Datenschutzgesetzen abhängen.
 - Aus rechtlichen Gründen sind nicht alle personenbezogenen Daten möglicherweise verfügbar. Zum Beispiel sind in vielen Fällen Daten zu umgezogenen oder verstorbenen Personen nicht zugänglich.
 - Einige Einwohnermeldeämter können Gebühren für die Durchführung dieser Art von Suche erheben.
-
-
 ## Related Posts
 
 - [Deutscher Personalausweis: Beantragung und Anforderungen](https://tramitit.com/de/guides/germany/beantragung_eines_personalausweises/)

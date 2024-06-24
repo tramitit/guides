@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Ensure to keep your login details secure to prevent unauthorized access. Remember to sign out after each session, especially when accessing the platform on public devices. Save copies of all transactions or submissions for future reference or potential needs.
-
-
 ## Related Posts
 
 - [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)

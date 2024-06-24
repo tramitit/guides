@@ -42,9 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to renew your registration every year. Although SSN coverage is comprehensive, some services might require co-payment (ticket). Always check whether your particular service requires this. Also, the SSN coverage may not extend during travels abroad, so an additional health insurance might be necessary for international travels.
-
-
-
 ## Related Posts
 
 - [Health Ticket Exemption in Italy: Eligibility and Procedure](https://tramitit.com/guides/italy/health_ticket_exemption_request/)

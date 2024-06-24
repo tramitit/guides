@@ -50,8 +50,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 If you possess a valid Karta Pobytu, you can travel without a visa through the Schengen area. If you apply for a Polish bank account, having a Karta Pobytu will make the process more straightforward. Keep in mind that getting a Karta Pobytu is a time-consuming process. Therefore, plan your application accordingly.
-
-
 ## Related Posts
 
 - [Work Permits in Poland: Step-by-Step Guide for Non-EU Citizens](https://tramitit.com/guides/poland/work_permit_for_foreigners/)

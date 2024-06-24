@@ -50,8 +50,6 @@ _(Estamos atualmente a selecionar os melhores prestadores de serviços. Se é ou
 ## Detalhes Adicionais
 - **Rendimentos Estrangeiros**: Ao declarar rendimentos de fontes estrangeiras, é importante seguir diretrizes específicas sobre taxas de câmbio e documentação necessária.
 - **Assistência**: Se não tiver a certeza de como preencher o formulário, considere consultar um consultor fiscal para evitar erros que possam resultar em penalidades.
-
-
 ## Related Posts
 
 - [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)

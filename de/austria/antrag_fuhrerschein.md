@@ -51,8 +51,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Für Motorradführerscheine können Sie bei Vorliegen eines B-Führerscheins (für das Autofahren) ein Motorrad bis zu 125ccm fahren.
 - Wenn eine 'MPU' (Medizinisch-Psychologische Untersuchung) erforderlich ist, wird Sie die Führerscheinbehörde benachrichtigen.
 - Die Kosten für den Erwerb eines Führerscheins beinhalten Gebühren für den Fahrschulkurs, die Prüfungen und Verwaltungsgebühren. Die Gebühren können zwischen verschiedenen Fahrschulen variieren.
-
-
 ## Related Posts
 
 - [Führerschein in Österreich erneuern: Ablauf, Dokumente & Tipps](https://tramitit.com/de/guides/austria/fuhrerscheinverlangerung/)

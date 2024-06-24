@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's important to note that the process can take time and may require a few weeks to a few months, depending on the complexity of your family tree. Ensure all documents are translated into Bulgarian if they are in a different language.
-
-
 ## Related Posts
 
 - [Bulgarian Birth Certificate: Essential Guide & Process Overview](https://tramitit.com/guides/bulgaria/issuance_of_a_birth_certificate/)

@@ -39,8 +39,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Eine ITIN in den Vereinigten Staaten berechtigt nicht zur Arbeit in den USA oder zur Inanspruchnahme von Sozialleistungen oder des Earned Income Tax Credit.
 - Einzelne Länder haben unterschiedliche Regeln für TIN. Stellen Sie sicher, dass Sie diese für einen erfolgreichen Antrag einhalten. Achten Sie auf die Steuergesetze im Land, in dem Sie arbeiten oder Geschäfte tätigen möchten.
 - Ihre TIN ist vertraulich und sollte nur für steuerliche Angelegenheiten verwendet werden.
-
-
 ## Related Posts
 
 - [Steuerkarte in Deutschland: Was, wer, Verfahren, Dokumente](https://tramitit.com/de/guides/germany/lohnsteuerkarte_beantragen/)

@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Kindly note that you should always check the official website of the respective provider for the most up-to-date information about document requirements, scheduling, and costs. Be prepared with all necessary documents before going for your appointment to ensure a smooth procedure.
-
-
 ## Related Posts
 
 - [Hungary ID Card: Application Process and Requirements](https://tramitit.com/guides/hungary/id_card_application/)

@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For India, international students are advised to apply through the Indian missions in their respective country.
 - Check the application deadline for each university to avoid last-minute panics.
 - Review the embassy or consulate website of the specific country for accurate information about student visa processes.
-
-
 ## Related Posts
 
 - [Legalizing Documents for Use in Croatia: A Comprehensive Guide](https://tramitit.com/guides/croatia/document_legalization/)

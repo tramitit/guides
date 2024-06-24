@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 In case you are a student needing a guarantor, CROUS (Centre régional des œuvres universitaires et scolaires) can step in as an eligible guarantor through the 'Visale' service. Apply at ['Visale'](https://www.visale.fr/#/).
 
 While the procedure seems straightforward, understanding the specifics might require a good grasp of French. If you find it challenging, seek assistance from someone fluent in French or use online translation tools.
-
-
 ## Related Posts
 
 - [Understanding Social Housing in France: Eligibility and Application](https://tramitit.com/guides/france/application_for_social_housing/)

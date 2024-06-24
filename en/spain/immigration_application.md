@@ -45,11 +45,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Be mindful of the expiration date on your NIE (Número de Identificación de Extranjero).
 - Remain patient - the process may take a while and involve a considerable amount of bureaucracy.
 
-
 ## Related Posts
 
-- [Spain's Digital Nomad Visa: Live and Work Remotely in Spain](https://tramitit.com/guides/spain/spains_digital_nomad_visa/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
-- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
-- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)
+- [Spain's Digital Nomad Visa: Live and Work Remotely in Spain](https://tramitit.com/english/guides/spain/spains_digital_nomad_visa/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)
+- [How to Apply for a Spain Work Permit: Step-by-Step Guide](https://tramitit.com/english/guides/spain/work_permit_application/)
+- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/english/guides/spain/eu_resident_card_application/)

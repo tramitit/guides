@@ -52,8 +52,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's vital to compare different employment contract structures such as B2B contracts vs job contracts to choose what suits best for you or your organization. Each contract has its own merits and limitations. Be mindful to cross-check the contract details to avoid any legal complications down the line.
-
-
 ## Related Posts
 
 - [Romanian Lease Agreement: Essential Guide for Tenants & Landlords](https://tramitit.com/guides/romania/lease_agreement/)

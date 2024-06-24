@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Remember to update your name everywhere it's necessary to ensure unified legal identification. Frequently overlooked places include airline membership profiles, email accounts, auto registration and insurance, health and life insurance, and your will or estate plan. 
 
 Please note, for changing a name on a purchased airline ticket you typically have to contact the airline directly and the process will depend on the airline's policy, some may allow it while others may not.
-
-
 ## Related Posts
 
 - [Legal Surname Change Notification Process in Poland](https://tramitit.com/guides/poland/change_of_surname_notification/)

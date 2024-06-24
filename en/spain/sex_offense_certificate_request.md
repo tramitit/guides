@@ -44,11 +44,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 It's important to remember that a Sex Offense Certificate only reflects the information in the database at the time of the request. It does not guarantee that an individual will not commit offenses in the future nor does it exclude the possibility of offenses that have not been reported or recorded.
 
-
 ## Related Posts
 
-- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/guides/spain/certificate_of_sexual_offenses/)
-- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/guides/spain/criminal_background_certificate_request/)
-- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/guides/spain/criminal_record_certificate/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)
-- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)
+- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/english/guides/spain/certificate_of_sexual_offenses/)
+- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/english/guides/spain/criminal_background_certificate_request/)
+- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/english/guides/spain/criminal_record_certificate/)
+- [How to Obtain a Digital Certificate for Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/digital_certificate_application/)
+- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/english/guides/spain/id_card_application/)

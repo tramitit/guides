@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember, to obtain a death certificate in Portugal, it's crucial that the death was first reported and registered in this country.
-
-
 ## Related Posts
 
 - [How to Obtain a Birth Certificate: Steps and Requirements](https://tramitit.com/guides/portugal/request_for_birth_certificate/)

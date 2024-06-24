@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Bear in mind that if the car is from a foreign country, it might require additional documents or procedures. You are also required to get Obtaining Portuguese Car Insurance. Check provider websites for the most accurate and recent information.
-
-
 ## Related Posts
 
 - [Guide to Vehicle Registration Certificate in Portugal](https://tramitit.com/guides/portugal/request_for_registration_certificate/)

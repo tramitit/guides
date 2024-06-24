@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that the cost of monthly health insurance premiums depend on the type of coverage and the specific health insurance company. Always verify the currently valid conditions and prices on the insurer's website.
-
-
 ## Related Posts
 
 - [Guide to Changing Health Insurance Provider in Czech Republic](https://tramitit.com/guides/czech-republic/change_of_health_insurance_company/)

@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The recognition process can take time and involve administrative challenges. Be ready to follow up and provide additional documentation if needed. Understanding the Bulgarian language or having a reliable translator can be very helpful. It’s always a good idea to start the process well in advance of any deadlines related to employment, enrollment in education, or professional requirements.
-
-
 ## Related Posts
 
 - [How to Obtain Official Educational Documents: A Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_educational_document/)

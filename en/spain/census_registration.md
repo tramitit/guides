@@ -42,11 +42,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 You can do the Census Registration on your own, but some people find it helpful to take a Spanish speaker along if they do not speak the language. Some towns may accept the documents and issue the certificate on the same day, while others may take a few days. It's always a good idea to check the specific requirements and process with your local town hall.
 
-
 ## Related Posts
 
-- [Empadronamiento in Spain: A Complete Guide for New Residents](https://tramitit.com/guides/spain/empadronamiento/)
-- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/guides/spain/certificate_of_residence/)
-- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
-- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/guides/spain/birth_registration/)
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
+- [Empadronamiento in Spain: A Complete Guide for New Residents](https://tramitit.com/english/guides/spain/empadronamiento/)
+- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/english/guides/spain/certificate_of_residence/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/english/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/english/guides/spain/birth_registration/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)

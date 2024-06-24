@@ -42,8 +42,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes Adicionais
 Em Portugal, a emissão do Atestado de Residência é gerida ao nível local por cada junta. Portanto, o procedimento, documentos necessários, prazos e taxas podem variar significativamente de uma junta para outra. É essencial fazer consultas à sua junta local antes de iniciar o processo.
-
-
 ## Related Posts
 
 - [Certificado de Registo para Cidadãos da UE em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_certificado_de_registo_de_cidadao_da_uniao_europeia/)

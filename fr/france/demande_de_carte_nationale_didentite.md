@@ -49,8 +49,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Si le demandeur n'est pas né en France, des documents supplémentaires relatifs à la nationalité peuvent être nécessaires.
 - Les demandes de renouvellement peuvent être faites jusqu'à deux ans avant la date d'expiration.
 - Les cartes nationales d'identité en France sont généralement valables 15 ans pour les adultes et 10 ans pour les mineurs.
-
-
 ## Related Posts
 
 - [Carte de Résident en France: Procédure, Documents et Détails](https://tramitit.com/fr/guides/france/demande_de_carte_de_resident/)

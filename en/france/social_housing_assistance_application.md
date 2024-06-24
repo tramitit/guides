@@ -49,8 +49,6 @@ In France, three types of social housing are available; Very Social Housings (TH
 Though the application is free, obtaining an actual social housing unit could take time. The waiting period greatly varies according to the area. People in Paris usually wait for longer compared to those in other regions. 
 
 Remember always to keep your information up-to-date and report any change in circumstances to the relevant authorities.
-
-
 ## Related Posts
 
 - [Understanding Social Housing in France: Eligibility and Application](https://tramitit.com/guides/france/application_for_social_housing/)

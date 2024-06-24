@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Always ensure you're booking from a reliable source to avoid scams.
 - Keep your confirmation number safe as it's often necessary for obtaining physical tickets or resolving issues.
 - If you have any issues, contact the provider's customer service for assistance.
-
-
 ## Related Posts
 
 - [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)

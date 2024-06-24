@@ -36,8 +36,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 N'oubliez pas de prendre une pièce d'identité valide avec vous pour voter. Notez également que les résidents européens non français peuvent voter aux élections européennes et municipales s'ils sont inscrits sur les listes électorales. Ils doivent présenter un permis de résidence valide.
-
-
 ## Related Posts
 
 - [Inscription au Lycée en France : Guide Complet et Procédure Facile](https://tramitit.com/fr/guides/france/inscription_au_lycee/)

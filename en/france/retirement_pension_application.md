@@ -37,8 +37,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional Details
 Retirement pensions in France are calculated based on the amount you have paid into the system and the number of years you have contributed. Be sure to thoroughly review your personal circumstances and plan accordingly to ensure receiving the maximum possible amount.
-
-
 ## Related Posts
 
 - [Unemployment Benefits in France: Eligibility and Application Guide](https://tramitit.com/guides/france/unemployment_benefit_application/)

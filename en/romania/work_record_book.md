@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Writing your Work Record Book in a clear, concise and professional way can make it more effective. Avoid using jargon and focus on results and accomplishments.
 - It can be beneficial to tailor your Work Record Book according to the job you are applying for.
 - Your Work Record Book can serve as a valuable reference when writing job applications or preparing for job interviews.
-
-
 ## Related Posts
 
 - [Guide to Employment Contracts in Romania: Essential Steps & Tips](https://tramitit.com/guides/romania/employment_contract/)

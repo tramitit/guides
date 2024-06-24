@@ -42,8 +42,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes Adicionais
 O procedimento de renovação e os requisitos podem variar de uma instituição académica para outra em Portugal, portanto, é aconselhável informar-se antecipadamente. Certifique-se sempre de que o seu cartão de estudante está num estado ativo, pois um cartão inativo ou expirado pode prejudicar o acesso a vários serviços e comodidades universitárias.
-
-
 ## Related Posts
 
 - [Descubra Como Renovar Seu Cartão de Cidadão Português](https://tramitit.com/pt/guides/portugal/renovacao_de_cartao_de_cidadao/)

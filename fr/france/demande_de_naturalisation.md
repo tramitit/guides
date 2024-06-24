@@ -45,8 +45,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails Supplémentaires
 Veuillez noter qu'une fois la demande soumise, le processus peut prendre jusqu'à un an. Les candidats devront également réussir un entretien sur leur connaissance de la France, de sa culture et de la société. La nationalité française est acccordée à la discrétion du gouvernement même si toutes les conditions sont remplies.
-
-
 ## Related Posts
 
 - [Procédure pour obtenir un permis de résidence en France](https://tramitit.com/fr/guides/france/demande_de_carte_de_sejour/)

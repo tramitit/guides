@@ -46,8 +46,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 -	Oświadczenie o rejestracji nie daje upoważnienia do pracy w Polsce; konieczne jest podjęcie osobnych procedur w celu uzyskania zezwolenia na pracę.
 -	Proszę pamiętać, że jeśli któreś z Twoich zarejestrowanych danych ulegnie zmianie (np. małżeństwo, narodziny dziecka), musisz powiadomić urząd, w którym zarejestrowałeś swoje miejsce zamieszkania, w ciągu 15 dni.
 -	Uwaga: Informacje te opierają się na obecnych przepisach i mogą podlegać zmianom. Zawsze najlepiej jest sprawdzić u lokalnych władz lub doradców prawnych najbardziej aktualne informacje.
-
-
 ## Related Posts
 
 - [Rejestracja Zamieszkania w Polsce: Procedura dla Obcokrajowców](https://tramitit.com/pl/guides/poland/zameldowanie_cudzoziemca/)

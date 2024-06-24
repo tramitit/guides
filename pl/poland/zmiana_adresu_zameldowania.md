@@ -43,8 +43,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 - Jeśli przeprowadzasz się w obrębie tego samego miasta, możesz zaktualizować swój adres w tym samym urzędzie miejskim, w którym się pierwotnie zarejestrowałeś.
 - Czas przetwarzania może się różnić w zależności od lokalizacji i obciążenia pracowników urzędu miejskiego.
 - Cudzoziemcy muszą zarejestrować swój adres w ciągu 30 dni od przybycia do Polski. Jeśli tego nie zrobisz w tym czasie, możesz zostać ukarany mandatem.
-
-
 ## Related Posts
 
 - [Zawiadomienie o zmianie miejsca zamieszkania w Polsce](https://tramitit.com/pl/guides/poland/zgloszenie_zmiany_miejsca_zamieszkania/)

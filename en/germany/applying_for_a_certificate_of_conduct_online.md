@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The entire process is generally straightforward, although some knowledge of German is beneficial as the online form and related documentation are usually only available in German.
 - In case you need the certificate urgently, you can request it in person at a Bürgeramt and get it typically on the same day for an additional fee.
 - Be aware that records are typically expunged from the certificate after a certain period of time. The precise duration depends on the nature of the offence and the legal provisions applicable to the case.
-
-
 ## Related Posts
 
 - [How to Obtain a Certificate of Conduct in Germany (Führungszeugnis)](https://tramitit.com/guides/germany/application_for_a_certificate_of_conduct/)

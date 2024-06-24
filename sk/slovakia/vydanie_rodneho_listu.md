@@ -44,8 +44,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 - Pre občanov žijúcich v zahraničí je možné podať žiadosť o rodný list cez najbližšie slovenské veľvyslanectvo alebo konzulát.
 - V niektorých prípadoch, najmä pri žiadosti z cudziny, môže proces trvať dlhšie kvôli dodatočným overovacím alebo prekladateľským požiadavkám.
-
-
 ## Related Posts
 
 - [Manželský certifikát na Slovensku: Požiadavky a postup](https://tramitit.com/sk/guides/slovakia/vydanie_sobasneho_listu/)

@@ -62,8 +62,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - As per Italian law, hotels and accommodation providers may ask guests for documents to register their presence.
 
 - Don’t share a picture of your ID Card unnecessarily, especially on public platforms or with unidentified persons, as it may lead to identity theft.
-
-
 ## Related Posts
 
 - [Italian Identity Card: Complete Guide to Application & Requirements](https://tramitit.com/guides/italy/identity_card_request/)

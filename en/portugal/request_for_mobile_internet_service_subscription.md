@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 * Most mobile data plans require a commitment of at least 12 months, although there are also prepaid plans with no long-term commitment.
 * If you're traveling and your phone is locked, consider purchasing a cheap unlocked phone to use with a local SIM card.
 * In some countries, you can order Internet service from providers like [Starlink](https://www.starlink.com/) and have it shipped to use in different regions. Please ensure to check with provider's terms and conditions.
-
-
 ## Related Posts
 
 - [How to Cancel Your Mobile Internet Service Efficiently](https://tramitit.com/guides/portugal/cancellation_of_mobile_internet_service/)

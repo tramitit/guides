@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you do not comply with registering your residence, you may face penalties.
 - Children under 15 years of age do not need to register their residence.
 - The registration is free of cost. However, if you opt to use service providers, they might charge you a service fee.
-
-
 ## Related Posts
 
 - [EU Citizens' Guide to Temporary Residence in Czech Republic](https://tramitit.com/guides/czech-republic/residence_registration_for_eu_citizens/)

@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It's imperative to apply for the extension before your current permit expires. Overstaying your visa can result in penalties, including deportation and bans from reentry.
 - The rental contract needs to be notarized for use in official procedures. This can be done at a local notary office.
 - The process may take from several weeks to a few months. It's recommended to initiate the process early before the expiration of your current permit. 
-
-
 ## Related Posts
 
 - [Guide to Obtaining an Immigration Permit in Croatia](https://tramitit.com/guides/croatia/obtaining_an_immigration_permit/)

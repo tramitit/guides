@@ -54,8 +54,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Students from third countries without a residence permit student, have to pay a tuition fee of 726.72 Euros per Semester and the Austrian Students Union and student insurance fee of around 19.20 Euros per semester. 
 
 **All these are general guidelines, always check the specific requirements of the school and course in which you are interested.**
-
-
 ## Related Posts
 
 - [Guide for International Students: Study in Austria](https://tramitit.com/guides/austria/university_registration/)

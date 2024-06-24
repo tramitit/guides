@@ -40,8 +40,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 ## További részletek
 - Lehetnek további díjak tolmács szolgáltatásért, ha nem beszél magyarul a Közlekedési Hatóság irodájában.
 - A biztosítási költség változik a jármű típusától és életkorától függően.
-
-
 ## Related Posts
 
 - [Magyarországi Jármű Műszaki Vizsga: Eljárás és Szükséges Dokumentumok](https://tramitit.com/hu/guides/hungary/gepjarmu_muszaki_vizsga_idopont_foglalas/)

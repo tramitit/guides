@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Always check the latest requirements and regulations with your local registry office. Different offices might have slightly different requirements or procedures. Pre-approval might be needed before the marriage ceremony, and an appointment may be necessary for submitting applications at the office.
-
-
 ## Related Posts
 
 - [Guide to Requesting a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/request_for_marriage_certificates/)

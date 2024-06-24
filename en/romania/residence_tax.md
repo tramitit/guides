@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that different rules and exemptions can apply based on the specific circumstances of the taxpayer.  Always refer to the local laws or a financial adviser for more tailored advice. Failure to comply with tax obligations can lead to penalties and legal consequences.
-
-
 ## Related Posts
 
 - [Understanding and Paying Property Tax in Romania: A Guide](https://tramitit.com/guides/romania/property_tax/)

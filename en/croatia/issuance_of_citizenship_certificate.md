@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that the process of obtaining a Croatian citizenship can be complex and time-consuming. It is advisable to consult with legal experts or people who have undergone the process. The [Croatian government website](http://www.mup.hr/) is an ideal starting point for official information regarding the process.
-
-
 ## Related Posts
 
 - [How to Obtain a Croatian Birth Certificate: Step-by-Step Guide](https://tramitit.com/guides/croatia/issuance_of_birth_certificate/)

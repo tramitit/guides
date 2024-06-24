@@ -46,8 +46,6 @@ Les documents requis exacts peuvent varier en fonction des circonstances personn
 Le coût du processus de transaction varie également en fonction de divers facteurs, y compris mais sans s'y limiter, les frais de traduction, les honoraires d'avocat, les frais d'administration, etc. Clarifiez ces frais avant de poursuivre votre demande.
 
 Enfin, remplir les critères ne garantit pas nécessairement l'octroi de la citoyenneté, la décision finale relevant de la discrétion des autorités.
-
-
 ## Related Posts
 
 - [Guide de l'inscription au registre des étrangers en 2023](https://tramitit.com/fr/guides/belgium/inscription_dans_le_registre_des_etrangers/)

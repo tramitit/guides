@@ -48,8 +48,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 ## Dodatkowe informacje
 
 Upewnij się, że podasz precyzyjne i dokładne informacje dotyczące wszystkich swoich źródeł dochodu. Fałszywe zeznanie może prowadzić do kar i problemów prawnych. Deklaracje podatkowe zazwyczaj są przetwarzane przez kilka tygodni, dlatego zaleca się rozpoczęcie składania ich wcześnie, aby uniknąć pośpiechu w ostatniej chwili.
-
-
 ## Related Posts
 
 - [Zwrot podatku VAT w UE: Procedura, dokumenty, dostawcy](https://tramitit.com/pl/guides/poland/zwrot_podatku_vat_za_zakupy_w_ue/)

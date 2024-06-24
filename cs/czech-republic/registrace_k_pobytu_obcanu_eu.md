@@ -44,8 +44,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - Zdravotní pojištění je dostupné pro všechny registrované občany, bez ohledu na jejich zaměstnanecký status.
 - Po registraci vašeho bydliště budete mít nárok na parkovací povolení.
 - Mějte na paměti, že všechny dokumenty by měly být přeloženy do češtiny ověřeným překladatelem.
-
-
 ## Related Posts
 
 - [Registrace Pobytu v České Republice: Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/registrace_k_pobytu_pro_cizince/)

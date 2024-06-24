@@ -45,8 +45,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 Provjerite jeste li zabilježili sve potrebne detalje o rođenju (uključujući grad i bolnicu) kako biste olakšali proces. Osobe koje ne govore hrvatski jezik možda žele kontaktirati lokalnog prevoditelja jer će sva dokumentacija i postupci biti na hrvatskom jeziku. Točan trošak i rokovi mogu varirati ovisno o količini zahtjeva. Uzmite u obzir moguće kašnjenje. Ako se prijavljujete iz inozemstva, preporučuje se da prođete kroz lokalnog konzultanta ili pravnog zastupnika kako biste ubrzali proces.
 
 Napomena: Postupak i zahtjevi za dobivanje rodni list mogu varirati po zemljama. Navedene informacije specifične su za dobivanje rodni list iz Hrvatske. Uvijek provjerite s nadležnom agencijom ili odjelom kako biste bili sigurni u najtočnije informacije.
-
-
 ## Related Posts
 
 - [Registracija rođenja u Hrvatskoj: Postupak i Potrebni Dokumenti](https://tramitit.com/hr/guides/croatia/upis_u_maticnu_knjigu_rodenih/)

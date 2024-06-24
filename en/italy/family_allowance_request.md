@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's crucial to update your data regularly with INPS, especially in the event of a change in your family condition like a new birth, a death, or a divorce. Payments are stopped if the child no longer resides in Italy, or in case of the death of the holder of the right. All updates will affect the amount of the benefit.
-
-
 ## Related Posts
 
 - [Income Support in Italy: Eligibility, Application, and Requirements](https://tramitit.com/guides/italy/income_support_application/)

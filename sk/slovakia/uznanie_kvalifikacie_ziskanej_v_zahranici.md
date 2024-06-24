@@ -51,8 +51,6 @@ Buďte informovaní o zmienkach v týchto nariadeniach v dôsledku brexitu alebo
 Plánujte vopred: tento proces môže trvať niekoľko týždňov alebo dokonca mesiacov v závislosti od krajiny a kvalifikácie.
 
 Niektoré krajiny priamo neuznávajú zahraničné kvalifikácie, ale namiesto toho vám umožnia zúčastniť sa miestnej skúšky alebo akreditačného programu. Je dôležité vedieť, aké možnosti sú k dispozícii vo vašej cieľovej krajine.
-
-
 ## Related Posts
 
 - [Exchange Foreign Driver's License: Process, Documents, & Providers](https://tramitit.com/sk/guides/slovakia/vymena_cudzozemskeho_vodicskeho_preukazu/)

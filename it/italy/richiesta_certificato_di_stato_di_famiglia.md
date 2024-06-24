@@ -47,8 +47,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - Se vivi all'estero, potrebbe essere utile chiedere a qualcuno di fiducia in Italia di aiutarti con il processo.
 - Se non riesci ad ottenere il certificato perché non hai abbastanza dettagli per la tua richiesta, potresti considerare di ottenere un 'Certificato di Non-esistenza' dall'USCIS per dimostrare di aver tentato di ottenerlo.
 - Inoltre, potresti voler considerare di assumere un investigatore professionale se hai difficoltà a rintracciare le informazioni necessarie.
-
-
 ## Related Posts
 
 - [Certificato di Stato Civile: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/certificato_di_stato_civile/)

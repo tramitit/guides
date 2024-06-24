@@ -52,8 +52,6 @@ Upozorňujeme, že daně spojené například s investováním do ETF mohou být
 Daňová dohoda mezi vaší předchozí zemí bydliště a Českou republikou bude mít vliv na vaše daňové povinnosti, je vždy doporučeno zkontrolovat, zda existují nějaké daňové smlouvy.
 
 Příjem vyplývající z investování do ETF držených déle než 3 roky v České republice může být osvobozen od daně. Je však důležité pravidelně kontrolovat platné daňové zákony, abyste mohli využít případných daňových výhod.
-
-
 ## Related Posts
 
 - [Daňové přiznání v České republice: Postup a Požadované dokumenty](https://tramitit.com/cs/guides/czech-republic/podani_danoveho_priznani/)

@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Exemption orders are only valid for the calendar year in which they are made and must be renewed annually for them to stay in effect. Also, if your bank doesn't withhold tax in Germany, you will have to provide them with the non-assessment certificate (Nichtveranlagungsbescheinigung) from your local German tax office (Finanzamt).
 
 Do note that if the total exempted amount exceeds the allowance, you will be fined by the tax office. So, it's crucial that the total amount on all your exemption orders (if you submit more than one to different banks) doesn't exceed the limit.
-
-
 ## Related Posts
 
 - [Guide to Filing Trade Tax Returns for Investors in Germany](https://tramitit.com/guides/germany/filing_a_trade_tax_return/)

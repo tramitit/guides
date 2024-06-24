@@ -46,9 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Keep in mind that laws and regulations can differ within Romania's regions. Always consult with a legal professional to ensure you have the most up-to-date information. Additionally, fees for legal services, notaries, taxes, and other costs related to the real estate transaction may apply. It is advisable for foreign nationals to particularly clarify their right to purchase properties and the legal implications involved.
-
-
-
 ## Related Posts
 
 - [Romanian Lease Agreement: Essential Guide for Tenants & Landlords](https://tramitit.com/guides/romania/lease_agreement/)

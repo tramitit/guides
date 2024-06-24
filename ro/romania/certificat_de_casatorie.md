@@ -43,8 +43,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 Când un cetățean român se căsătorește cu un străin, certificatul de căsătorie trebuie transcris autorităților române. Transcrierea certificatului de căsătorie se realizează la primăriile din România sau la birourile consulare române din străinătate.
 
 Pentru căutări genealogice și obținerea de înregistrări vechi de căsătorie, este posibil să trebuiască să consulți departamentul de stare civilă, Arhivele Naționale din București sau diverse resurse genealogice online.
-
-
 ## Related Posts
 
 - [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)

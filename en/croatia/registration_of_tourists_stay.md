@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - Note that failure to properly register your stay can lead to fines or even expulsion from the country. In addition, it's considered a security measure, so not complying could attract unnecessary attention from law enforcement. 
 - It's also advised to carry the receipt of registration in case it's requested by any authority during your stay.
-
-
 ## Related Posts
 
 - [Croatia Stay Registration Guide: Documents and Procedure](https://tramitit.com/guides/croatia/stay_registration_upon_entering_the_country/)

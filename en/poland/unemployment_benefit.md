@@ -41,9 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you have been employed on a B2B (business-to-business) contract in Poland, be aware that this might affect your eligibility for unemployment benefits.
 - Be sure to maintain your health insurance even during your unemployment period. If you are an EU citizen, you might be eligible for health insurance despite being unemployed.
 - It's advisable to stay updated with the current unemployment rates in Europe and Poland specifically, as these might affect the policies related to unemployment benefits. 
-
-
-
 ## Related Posts
 
 - [Housing Benefit: UK Social Security for Rental Costs Assistance](https://tramitit.com/guides/poland/application_for_housing_benefit/)

@@ -43,8 +43,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne informacije
 Važno je napomenuti da se rokovi i troškovi mogu razlikovati ovisno o dostupnosti potrebnih dokumenata i brzini administrativnog procesa. Preporučuje se da se obratite Ministarstvu uprave ili svojem lokalnom uredu za maticu vjenčanih radi više pojedinosti o postupku, potrebnim dokumentima i naknadama. Molimo imajte na umu da neki uredi mogu zahtijevati da svi dokumenti budu ovjereni apostilom, što može produžiti rokove i troškove.
-
-
 ## Related Posts
 
 - [Registracija Braka u Hrvatskoj: Postupak, Dokumenti i Više](https://tramitit.com/hr/guides/croatia/registracija_braka/)

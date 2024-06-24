@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Depending on your location, certain taxes, like VAT in the EU, require separate procedures for declaration and payment. Make sure to research thoroughly on the specific tax requirements in your locality. Note that non-compliance of such laws can result in penalties or fines. Also, tax laws can change annually so it is crucial to stay updated on any changes in tax legislation in your country.
-
-
 ## Related Posts
 
 - [How to Obtain Official Educational Documents: A Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_educational_document/)

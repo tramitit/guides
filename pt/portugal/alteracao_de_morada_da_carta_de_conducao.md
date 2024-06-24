@@ -41,8 +41,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 Lembre-se, é importante atualizar o endereço em sua carteira de motorista logo após se mudar. Em muitos lugares, é uma obrigação legal, e a falha em fazê-lo pode resultar em multas ou outras penalidades. Também é uma boa ideia verificar os requisitos específicos da sua autoridade local de carteira de motorista, pois o procedimento pode variar entre locais.
-
-
 ## Related Posts
 
 - [Atualização de Endereço no Cartão de Residência em Portugal](https://tramitit.com/pt/guides/portugal/alteracao_de_morada_do_titulo_de_residencia/)

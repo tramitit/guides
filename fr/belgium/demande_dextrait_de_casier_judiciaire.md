@@ -43,8 +43,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - L'extrait de casier judiciaire fourni est généralement en néerlandais. Vous pourriez avoir besoin de le faire traduire si vous devez l'utiliser ailleurs.
 - Si vous avez besoin de l'extrait de casier judiciaire pour des besoins spécifiques comme obtenir un permis d'armes à feu, postuler pour un emploi dans un domaine particulier ou des fins d'immigration, vous pourriez avoir besoin de le spécifier lors de la demande.
 - Rappelez-vous, les procédures peuvent légèrement différer en fonction de la municipalité. Il est conseillé d'appeler ou de vérifier le site web de la municipalité pour obtenir les informations les plus précises.
-
-
 ## Related Posts
 
 - [Obtenir la Carte d'Identité Belge (eID) : Quoi, Qui, Comment](https://tramitit.com/fr/guides/belgium/demande_de_carte_didentite/)

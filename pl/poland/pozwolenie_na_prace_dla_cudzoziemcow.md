@@ -43,8 +43,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 Zauważ, że mieszkańcy spoza UE mogą pracować w Polsce tylko jeśli posiadają zezwolenie na pracę i pracodawca rozpoczyna proces. Czas trwania tego zezwolenia jest zazwyczaj związany z czasem trwania umowy o pracę, jednak nie przekracza 3 lat i może być przedłużone. 
 
 Dokładna lista wymaganych dokumentów i procedura składania wniosku mogą się różnić w zależności od konkretnego rodzaju zezwolenia na pracę, a każdy Urząd Wojewódzki może mieć własne specyficzne wymagania. Dlatego ważne jest skonsultowanie się z odpowiednim urzędem w celu uzyskania pełnych i dokładnych informacji.
-
-
 ## Related Posts
 
 - [Zezwolenie na pobyt w Polsce: Wymagane dokumenty i procedura](https://tramitit.com/pl/guides/poland/karta_pobytu/)

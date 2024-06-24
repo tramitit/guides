@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You have to register within a week or two weeks of arrival, depending on the city.
 - Failing to register or late registration might result in a fine.
 - Anmelding gives you proof of residence, which is usually needed for things like opening a bank account, getting a sim card, etc.
-
-
 ## Related Posts
 
 - [Complete Guide to Anmeldung: Registering Your Address in Germany](https://tramitit.com/guides/germany/change_of_address_registration/)

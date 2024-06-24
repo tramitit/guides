@@ -46,8 +46,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Pre akademicky silných študentov môže získanie najvyššieho hodnotenia zvýšiť šance získať štipendium.
 
 _Poznámka: Poskytnuté informácie sa môžu líšiť, vždy sa uistite na oficiálnej webovej stránke alebo kontaktujte zodpovednú entitu pre najpresnejšie informácie._
-
-
 ## Related Posts
 
 - [Sociálne dávky v Slovensku: Kritériá, Žiadosti a Doklady](https://tramitit.com/sk/guides/slovakia/ziadost_o_socialne_davky/)

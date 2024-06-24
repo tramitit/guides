@@ -41,8 +41,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Il est important de savoir que le juge peut ajuster le montant de la pension alimentaire s'il y a des changements significatifs dans la situation financière de l'une ou l'autre des parties. De plus, gardez à l'esprit que le non-paiement de la pension alimentaire peut être poursuivi comme un crime en France. Pensez à contacter des professionnels du droit ou des institutions pour comprendre la démarche détaillée à suivre dans de tels cas.
-
-
 ## Related Posts
 
 - [Pension de Retraite en France: Admissibilité, Documents & Procédure](https://tramitit.com/fr/guides/france/demande_de_pension_de_retraite/)

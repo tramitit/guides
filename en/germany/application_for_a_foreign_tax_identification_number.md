@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - ITIN in the United States does not authorize work in the U.S. or provide eligibility for Social Security benefits or the Earned Income Tax Credit.
 - Individual countries have different rules for TIN. Make sure to follow them for successful application. Make sure to be aware of the tax laws in the country you plan to work or do business in.
 - Your TIN is confidential and should be used only for tax matters.
-
-
 ## Related Posts
 
 - [Understanding Tax Cards in Germany: Registration & Requirements](https://tramitit.com/guides/germany/applying_for_a_tax_card/)

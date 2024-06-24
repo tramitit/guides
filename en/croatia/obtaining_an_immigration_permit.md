@@ -50,8 +50,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Once issued, the permit is valid for one year and can be renewed. 
 
 - If your application for a residence permit is rejected, you do have the right to appeal. Appeals should be conducted with the assistance of a legal professional to ensure correct procedure is followed.
-
-
 ## Related Posts
 
 - [Temporary Residence Registration in Croatia - Step-by-Step Guide](https://tramitit.com/guides/croatia/temporary_residence_registration/)

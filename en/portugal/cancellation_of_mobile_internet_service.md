@@ -41,9 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Before you proceed with your cancellation, it's best to check for any early termination fees in your contract. If you're within a penalty window, it may be cost-effective to wait until the term is over. Also, be prepared for retention efforts from the ISP, they may try to offer you better deals to keep you in their service. Finally, remember to confirm if there are any devices that need to be returned to avoid additional charges.
-
-
-
 ## Related Posts
 
 - [Mobile Internet Plans in Portugal: Stay Connected On-the-Go](https://tramitit.com/guides/portugal/request_for_mobile_internet_service_subscription/)

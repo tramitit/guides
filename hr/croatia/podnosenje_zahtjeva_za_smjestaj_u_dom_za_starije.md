@@ -42,8 +42,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne pojedinosti
 Obavezno pitajte o uslugama koje nudi dom, poput zdravstvene njege, rekreacijskih aktivnosti, usluga hrane, itd. prije donošenja odluke. Također, recenzije ili preporuke od drugih mogu biti korisne tijekom procesa odabira.
-
-
 ## Related Posts
 
 - [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)

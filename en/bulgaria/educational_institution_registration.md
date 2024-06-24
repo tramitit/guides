@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please check the institution's specific requirements and registration deadlines before applying. Some institutions or courses may also have prerequisites that need to be met before enrolment.
-
-
 ## Related Posts
 
 - [How to Obtain Official Educational Documents: A Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_educational_document/)

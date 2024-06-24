@@ -50,8 +50,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Faites attention en remplissant la demande car des erreurs peuvent potentiellement entraîner un refus.
 - Certaines personnes ont signalé des problèmes avec le système OTP (mot de passe unique) utilisé par TLS pour les rendez-vous, donc gardez vos coordonnées à jour et accessibles.
 - La référence au mois lunaire souvent trouvée dans les discussions liées aux visas désigne la durée d'un visa (un mois lunaire équivaut à 28 jours).
-
-
 ## Related Posts
 
 - [Procédure pour obtenir un permis de résidence en France](https://tramitit.com/fr/guides/france/demande_de_carte_de_sejour/)

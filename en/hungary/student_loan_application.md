@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Be mindful of any late payment or default consequences.
 - Before you take out a private student loan, make sure to take advantage of any grants, scholarships, or work-study opportunities.
 - Make sure to keep all documentation related to your student loan as it can come in handy later.
-
-
 ## Related Posts
 
 - [Ultimate Guide to University Enrollment Management Process](https://tramitit.com/guides/hungary/university_enrollment_management/)

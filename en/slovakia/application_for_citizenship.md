@@ -51,8 +51,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - An important consideration is that grappling with some aspects of Czechoslovakian and Slovakian history might be necessary since Slovakia was a part of the Czechoslovakian Federation until 1993.
 - Under normal circumstances, the process can take anywhere from a couple of months to several years to secure Slovakian citizenship.
 - All documents submitted to the Slovak authorities should be less than 90 days old, officially certified (apostilled or superlegalized, depending on your country) and translated into Slovak by an official translator.
-
-
 ## Related Posts
 
 - [Guide to Acquiring Slovak Republic Citizenship by Descent or Marriage](https://tramitit.com/guides/slovakia/acquisition_of_slovak_citizenship/)

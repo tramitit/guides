@@ -38,8 +38,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Veuillez noter que le processus et les réglementations peuvent légèrement différer entre les différentes municipalités. Lorsque vous déménagez dans une ville ou une municipalité différente, assurez-vous de vous désinscrire de l'administration de la ville/ville précédente. Enfin, notifiez un changement d'adresse n'affecte pas les prestations de chômage mais il est crucial de tenir à jour votre adresse auprès de ces institutions pour des communications transparentes.
-
-
 ## Related Posts
 
 - [Preuve de Résidence: Guide Complet pour la Documentation](https://tramitit.com/fr/guides/belgium/demande_de_certificat_de_residence/)

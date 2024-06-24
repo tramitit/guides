@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Be careful while filling out the application as mistakes can potentially lead to refusal.
 - Some people reported issues with the OTP system (one time password) used by TLS for appointments, hence keep your contact details updated and reachable.
 - The lunar month reference often found on visa-related discussions denotes the duration of a visa (one lunar month equals 28 days).
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Permit in France: A Step-by-Step Guide](https://tramitit.com/guides/france/residence_permit_application/)

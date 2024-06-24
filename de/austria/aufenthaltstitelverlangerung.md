@@ -47,8 +47,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 ## Weitere Details
 MA35 kann manchmal unresponsive sein. Geduld ist wichtig und es kann sein, dass Sie mehrere E-Mails senden oder Anrufe tätigen müssen, um eine Antwort zu erhalten. 
 Außerdem sollte alles idealerweise auf Deutsch abgeschlossen werden, also könnte es hilfreich sein, Unterstützung von einer Deutsch sprechenden Person zu bekommen, wenn Sie nicht fließend Deutsch sprechen.
-
-
 ## Related Posts
 
 - [Reisepassverlängerung in Österreich: Antrag, Verfahren & Kosten](https://tramitit.com/de/guides/austria/reisepassverlangerung/)

@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's worth noting that Italy has moved on to issuing biometric passports, which come equipped with an embedded microchip containing your personal information such as biometric data, including fingerprints and facial details. These passports offer a higher level of protection against fraud and counterfeiting attempts.
-
-
 ## Related Posts
 
 - [Italian Identity Card: Complete Guide to Application & Requirements](https://tramitit.com/guides/italy/identity_card_request/)

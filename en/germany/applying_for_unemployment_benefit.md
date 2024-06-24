@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You are also required to report to the job center regularly (monthly or bi-monthly) and show that you're actively seeking employment. 
 
 Please note: The information in this guide is subject to change and may vary based on an individual's status. Always verify the process and requirements on the Federal Employment Agency's website.
-
-
 ## Related Posts
 
 - [Understanding Maternity Benefits in Germany: A Quick Guide](https://tramitit.com/guides/germany/applying_for_maternity_benefit/)

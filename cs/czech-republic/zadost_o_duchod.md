@@ -46,8 +46,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 1. Postup a požadované dokumenty se mohou výrazně lišit v závislosti na konkrétním důchodovém plánu a poskytovateli.
 2. Termín schválení žádosti a zahájení plateb důchodu může také kolísat.
 3. Vždy zvažte konzultaci s finančním poradcem nebo odborníkem na důchody při plánování a žádosti o důchod. Můžou poskytnout cenné rady a zajistit, že využíváte své důchodové prostředky co nejlépe.
-
-
 ## Related Posts
 
 - [Invalidní důchod: Jak ho získat a co potřebujete vědět](https://tramitit.com/cs/guides/czech-republic/zadost_o_invalidni_duchod/)

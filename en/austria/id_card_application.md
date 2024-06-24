@@ -47,8 +47,6 @@ The validity of Austrian ID cards:
 - Over 30 years old: 10 years
 
 Note that these requirements are subject to change, so it is recommended to check with the local municipality office or their official website for detailed and updated information.
-
-
 ## Related Posts
 
 - [How to Report and Replace a Lost or Stolen ID Card in Austria](https://tramitit.com/guides/austria/id_card_loss_report/)

@@ -43,8 +43,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Pamatujte, že proces se může mírně lišit, pokud byl váš průkaz vydaný zemí EU/EEA. Je také důležité si uvědomit, že pokud informace na vašem zahraničním řidičském průkazu není v českém nebo anglickém jazyce nebo neodpovídá českým standardům, může být vyžadováno její přeložení ověřeným překladatelem. Váš původní průkaz bude zadržen českými úřady a vrácen vydávající stát.
-
-
 ## Related Posts
 
 - [Jak získat řidičský průkaz v České republice: Postup a požadavky](https://tramitit.com/cs/guides/czech-republic/zadost_o_ridicsky_prukaz/)

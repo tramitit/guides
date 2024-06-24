@@ -41,8 +41,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 - Il processo potrebbe richiedere alcune settimane. È importante iniziare la domanda con anticipo rispetto alla data di viaggio desiderata.
 - Non puoi richiedere un visto Tier 5 (Schema di mobilità giovanile) se hai figli che vivono con te; sono economicamente dipendenti da te; o sono di età inferiore ai 18 anni.
 - Se stai facendo domanda da un paese in cui non sei cittadino, devi avere il permesso di essere lì per più di 6 mesi al momento della domanda.
-
-
 ## Related Posts
 
 - [Permesso di Soggiorno in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_carta_di_soggiorno/)

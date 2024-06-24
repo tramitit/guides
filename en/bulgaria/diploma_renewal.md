@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 More accurate processing times, fees, and document requirements can be obtained by contacting the particular university or school directly. Always ensure to provide the most accurate and truthful information when applying for diploma renewal.
-
-
 ## Related Posts
 
 - [How to Obtain Official Educational Documents: A Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_an_educational_document/)

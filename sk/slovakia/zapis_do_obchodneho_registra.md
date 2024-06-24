@@ -46,8 +46,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 ## Ďalšie informácie
 Časové obdobie pre proces registrácie môže byť medzi 5 a 10 dní, ale môže byť predĺžené, ak sa vyžaduje ďalšie overenie poskytnutých dokumentov.
 Založenie spoločnosti na Slovensku prináša aj povinnosti ako účtovníctvo, odovzdávanie ročných finančných výkazov, podanie daňového priznania a prípadne audit. Poradenstvo finančného poradcu môže poskytnúť ďalšie informácie o týchto povinnostiach.
-
-
 ## Related Posts
 
 - [Trestný register na Slovensku: Získanie výpisu a požadované dokumenty](https://tramitit.com/sk/guides/slovakia/ziadost_o_vydanie_vypisu_z_registra_trestov/)

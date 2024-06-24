@@ -54,8 +54,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Family reunification laws and conditions may vary greatly from one country to others. It is greatly recommended to check with the embassy/consulate of the country where your family member is residing to clear out specific details. Also, legal help can be taken to ease out the process.
-
-
 ## Related Posts
 
 - [Registering as a Foreigner: Steps and Requirements Explained](https://tramitit.com/guides/belgium/registration_in_the_foreigners_registers/)

@@ -49,8 +49,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Ak je vaša žiadosť neúspešná, neznechucujte sa. Využite príležitosť na zdokonalenie vášho návrhu a prihláste sa na iné granty.
 
 Prosím, vykonajte svoj výskum alebo sa poraďte s profesionálom ohľadom špecifických grantových príležitostí a postupov prihlásenia pre váš biznis a región.
-
-
 ## Related Posts
 
 - [Sociálne štipendium na Slovensku: Podmienky, Dokumenty, Postup](https://tramitit.com/sk/guides/slovakia/ziadost_o_socialne_stipendium/)

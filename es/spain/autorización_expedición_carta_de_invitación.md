@@ -46,11 +46,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - **Problemas al Reservar Citas**: Si experimentas problemas al reservar una cita, prueba a refrescar la página o revisar en diferentes horarios del día.
 - **Tiempos de Procesamiento**: Ten en cuenta posibles largos tiempos de procesamiento para estas aplicaciones. Verifica constantemente el estado en línea para mantenerse actualizado.
 
-
 ## Related Posts
 
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Autorización de Regreso en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/autorización_de_regreso/)
-- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/es/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
-- [Cómo Programar una Cita con la Oficina de Inmigración en España](https://tramitit.com/es/guides/spain/solicitud_de_cita_previa_en_extranjeria/)
-- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
+- [Autorización de Regreso en España: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/spain/autorización_de_regreso/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/spanish/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
+- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/spanish/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)

@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 If the deceased is a foreigner, the death must be declared both in the town where it occurred and in Athens at the Department of Foreigners and Foreign Affairs (`Tmima Xenon & Exoterikon`) of the Municipality of Athens.
-
-
 ## Related Posts
 
 - [Guide to Obtaining an Inheritance Certificate in Greece](https://tramitit.com/guides/greece/application_for_inheritance_certificate/)

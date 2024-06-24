@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Your registration in the Unemployed Register goes hand-in-hand with the Unemployment Card, which is issued by the OAED. It is important to note that registering as unemployed does not automatically mean you will receive unemployment benefits. These are subject to specific eligibility criteria, including your past work history and social insurance contributions.
-
-
 ## Related Posts
 
 - [Understanding Unemployment Benefits: Eligibility and Procedure](https://tramitit.com/guides/greece/application_for_unemployment_benefit/)

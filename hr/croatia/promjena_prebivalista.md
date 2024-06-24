@@ -45,8 +45,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Za međunarodna preseljenja, konzultirajte i emigracijske i imigracijske vlasti u vašoj trenutačnoj i novoj zemlji prebivališta.
 - Neke financijske institucije ili usluge poput Revoluta mogu zahtijevati zasebne ažuriranja vaše registrirane adrese.
 - Ne zaboravite ažurirati adresu i kod drugih usluga ili pretplata koje imate (banke, časopisi, usluge preusmjeravanja pošte i sl.).
-
-
 ## Related Posts
 
 - [Registracija boravišta stranaca u Hrvatskoj: Postupak i dokumenti](https://tramitit.com/hr/guides/croatia/prijava_prebivalista_stranaca/)

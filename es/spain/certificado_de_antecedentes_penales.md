@@ -57,11 +57,10 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 - **Extranjeros**:
   - Comuníquese con la Embajada o Consulado de España en su país actual para obtener más detalles sobre cómo solicitar desde el extranjero.
 
-
 ## Related Posts
 
-- [Cómo obtener un Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/solicitud_de_certificado_de_antecedentes_penales/)
-- [Cómo Obtener el Certificado de Delitos de Naturaleza Sexual](https://tramitit.com/es/guides/spain/certificado_de_delitos_de_naturaleza_sexual/)
-- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)
-- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
-- [Cómo obtener un Certificado Digital en España: Guía completa](https://tramitit.com/es/guides/spain/solicitud_del_certificado_digital/)
+- [Cómo obtener un Certificado de Antecedentes Penales en España](https://tramitit.com/spanish/guides/spain/solicitud_de_certificado_de_antecedentes_penales/)
+- [Cómo Obtener el Certificado de Delitos de Naturaleza Sexual](https://tramitit.com/spanish/guides/spain/certificado_de_delitos_de_naturaleza_sexual/)
+- [Certificado de Delitos Sexuales: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_del_certificado_de_delitos_sexuales/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)
+- [Guía para Acceder al Archivo del Ministerio de Justicia en España](https://tramitit.com/spanish/guides/spain/acceso_a_los_documentos_del_archivo_general_del_ministerio_de_justicia/)

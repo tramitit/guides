@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that the application procedure and eligibility for family allowance could vary depending on specific local regulations, and current income and employment situation. It is therefore crucial to inquire about specific details at your local family support service office. Also, the family allowance amount can change based on the age of the child, whether they're disabled, or if there are multiple dependent children in the family.
-
-
 ## Related Posts
 
 - [How to Apply for Housing Support in Hungary: A Step-by-Step Guide](https://tramitit.com/guides/hungary/housing_support_application/)

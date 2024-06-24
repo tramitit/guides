@@ -42,13 +42,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Be aware that failing to submit Model 347 correctly and on time can result in penalties or fines.
 - It is advisable to maintain clear and organized records of all transactions throughout the year to simplify the process of completing and submitting the form.
 - Assistance from a professional accountant or tax advisor is recommended to ensure compliance with all requirements.
-
-
-
 ## Related Posts
 
-- [Model 349: Spain's Intra-Community Transaction Declaration Form](https://tramitit.com/guides/spain/model_349/)
-- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)
-- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/guides/spain/model_036/)
-- [Model 720: Spanish Tax Declaration for Foreign Assets Guide](https://tramitit.com/guides/spain/model_720/)
-- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/guides/spain/model_190/)
+- [Model 349: Spain's Intra-Community Transaction Declaration Form](https://tramitit.com/english/guides/spain/model_349/)
+- [Register as Self-Employed in Spain: Model 036 Explained](https://tramitit.com/english/guides/spain/model_036/)
+- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/english/guides/spain/model_130/)
+- [Model 720: Spanish Tax Declaration for Foreign Assets Guide](https://tramitit.com/english/guides/spain/model_720/)
+- [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/english/guides/spain/model_190/)

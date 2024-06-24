@@ -48,8 +48,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 Você pode encontrar a exigência de boletim de ocorrência para a duplicação de certos documentos, especialmente se eles foram roubados ou perdidos. Boletins de ocorrência geralmente podem ser obtidos na delegacia de polícia mais próxima ou online no site da [Polícia de Segurança Pública Portuguesa](https://www.psp.pt/).
 
 Por favor, note que diferentes documentos podem exigir seus formulários de inscrição específicos que podem ser encontrados no site da autoridade emitente respectiva. Eles também têm tempos de processamento específicos dos quais você deve estar ciente. Para informações sobre custos, é melhor verificar o site da autoridade relevante também.
-
-
 ## Related Posts
 
 - [Carta de Condução Duplicada em Portugal: Procedimentos e Requisitos](https://tramitit.com/pt/guides/portugal/pedido_de_duplicado_de_carta_de_conducao/)

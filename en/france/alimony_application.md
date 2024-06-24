@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional Details
 It's important to know that the judge can adjust the alimony amount if there are significant changes in the financial situation of either party. Also, keep in mind that non-payment of alimony amounts can be prosecuted as a crime in France. Consider reaching out to legal professionals or institutions to understand the detailed course of action in such cases.
-
-
 ## Related Posts
 
 - [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)

@@ -50,8 +50,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The exact requirements may vary by the jurisdiction and the specific type of company you want to establish.
 - The procedure may also differ if you are a foreign national looking to start a business in a country different from your residence.
 - After company registration, regular reporting and compliance procedures must also be followed.
-
-
 ## Related Posts
 
 - [Operating Permits: Essential Guide for Businesses in Romania](https://tramitit.com/guides/romania/operating_permit_for_companies/)

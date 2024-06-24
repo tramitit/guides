@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 - For citizens living abroad, the application for a birth certificate can be done through the nearest Slovak Embassy or Consulate.
 - In some instances, especially when applying from abroad, the process may take longer due to additional verification or translation requirements.
-
-
 ## Related Posts
 
 - [Obtaining a Marriage Certificate in Slovakia: Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_marriage_certificate/)

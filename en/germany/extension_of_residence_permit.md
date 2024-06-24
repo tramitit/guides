@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The processing time varies depending on the individual's situation and the workload of the Foreigners Authority. It is important to apply for an extension well in advance of the expiry date to ensure that you don't violate the terms of your existing residence permit.
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Permit in Germany: Key Steps](https://tramitit.com/guides/germany/applying_for_a_residence_permit/)

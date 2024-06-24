@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Uber is also available in Poland if you prefer a ridesharing alternative. However, Uber drivers should also consider obtaining a taxi license due to local regulations. 
 - Ride-hailing applications like Uber and Bolt are relatively new to the Polish market and are growing in popularity. Their operation remains unregulated, stirring discussions about their legality and coexistence with traditional taxi services.
 - English language proficiency is not listed as a requirement to become a taxi driver in Poland. However, with more and more foreigners visiting or settling in Poland, it could be a valuable skill.
-
-
 ## Related Posts
 
 - [How to Obtain a Driving License in Poland: A Step-by-Step Guide](https://tramitit.com/guides/poland/driving_license/)

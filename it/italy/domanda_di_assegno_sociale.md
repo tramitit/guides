@@ -42,8 +42,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Assicurati di verificare la tua ammissibilità e comprendere appieno il processo di domanda prima di presentarla. Inoltre, tieni presente che i dettagli menzionati qui possono variare a seconda della tua zona locale: verificali sempre con l'autorità locale.
-
-
 ## Related Posts
 
 - [Assegno Familiare in Italia: Requisiti, Procedura, Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_assegno_per_il_nucleo_familiare/)

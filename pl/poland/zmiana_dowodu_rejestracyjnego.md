@@ -42,8 +42,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 
 ## Dodatkowe informacje
 Proces może zająć różną ilość czasu w zależności od szczegółów Twojego przypadku i szybkości działania lokalnego biura gminy. Zaleca się poproszenie o oszacowany termin podczas wizyty. Ponadto, opłaty mogą się różnić w zależności od charakteru zmiany. Na przykład, prosta zmiana adresu może kosztować mniej niż zmiana z powodu znaczących zmian w pojeździe.
-
-
 ## Related Posts
 
 - [Zmiana Adresu Zameldowania w Polsce: Procedura i Wymagane Dokumenty](https://tramitit.com/pl/guides/poland/zmiana_adresu_zameldowania/)

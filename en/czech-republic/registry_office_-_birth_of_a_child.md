@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 If your Czech language skills are not up to scratch, it might be a good idea to bring an interpreter to the Registry Office. Additionally, in case of the parents being foreigners or non-EU citizens, it is a good idea to consult with the Registry Office in advance about the specific documents required. Different scenarios may require additional paperwork. For citizens who are eligible for German Citizenship by descent, it is crucial to consult the corresponding section in the German Embassy to complete that procedure.
-
-
 ## Related Posts
 
 - [Marriage Registration Guide for Foreigners in the Czech Republic](https://tramitit.com/guides/czech-republic/registry_office_-_marriage/)

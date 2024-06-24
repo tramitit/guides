@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It's important to understand that buying a building plot is a major investment that must be considered carefully.
 - The total cost of the project includes not only the purchase price of the land, but also the costs of construct the building.
 - Some locations may have restrictions on the type of building that can be constructed. Therefore, it's important to research local zoning laws before commit to buying a plot.
-
-
 ## Related Posts
 
 - [Building Permits in Czech Republic: Procedure and Requirements](https://tramitit.com/guides/czech-republic/application_for_a_building_permit/)

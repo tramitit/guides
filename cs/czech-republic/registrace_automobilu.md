@@ -47,8 +47,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - V některých případech může být vyžadováno, aby bylo vozidlo před registrací předvedeno k technické kontrole.
 - Pokud jste auto koupili na úvěr nebo leasing, mohou být vyžadovány další dokumenty v závislosti na pravidlech finanční společnosti.
 - Pokud chybí některý dokument nebo jsou v nich uvedeny nesprávné informace, může dojít k odmítnutí registrace.
-
-
 ## Related Posts
 
 - [Registrace vozidla ze zahraničí - Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/registrace_vozidla_dovezeneho_ze_zahranici/)

@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Ensure all documents are up-to-date, and if not, contact the appropriate authority to get them updated before proceeding for renewal.
 - Keep track of your appointment date and ensure to carry all your documents on that day.
 - Cost and timelines for renewal can vary depending on your specific situation and any additional documents or processes required.
-
-
 ## Related Posts
 
 - [Guide to Residence Permit Renewal in Portugal - SEF Procedure](https://tramitit.com/guides/portugal/request_for_residence_permit_renewal/)

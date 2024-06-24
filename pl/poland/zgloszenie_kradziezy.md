@@ -41,8 +41,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 - Przy składaniu raportu policji, bądź przygotowany dostarczyć wszystkie niezbędne szczegóły przestępstwa, takie jak miejsce i czas zdarzenia oraz ewentualne informacje o podejrzanym.
 - Po zgłoszeniu kradzieży kart do władz i banku, śledź uważnie swoje konto w poszukiwaniu nieautoryzowanych operacji.
 - Możesz również rozważyć skorzystanie z porady prawnej, jeśli wartość skradzionych dóbr jest wysoka lub kradzież spowodowała znaczne straty.
-
-
 ## Related Posts
 
 - [Zastępstwo utraconych dokumentów w Polsce: Procedura i Wymagane kroki](https://tramitit.com/pl/guides/poland/zgloszenie_utraty_dokumentow/)

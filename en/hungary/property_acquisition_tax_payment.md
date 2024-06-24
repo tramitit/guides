@@ -51,8 +51,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Please keep in mind that certain legal exemptions may apply where the Property Acquisition Tax might be reduced or not payable at all. 
 - Tax payment should be completed promptly upon receipt of the payment notice from the Hungarian Tax Authority to avoid penalties and interest.
 - For complex cases or for those not familiar with the procedure, it may be beneficial to hire professional assistance from real estate agents or legal advisors experienced in Hungarian Property laws.
-
-
 ## Related Posts
 
 - [Guide to Submitting Hungarian Tax Returns and Crypto Taxes](https://tramitit.com/guides/hungary/tax_return_submission/)

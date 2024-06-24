@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 While the process might seem straightforward, be aware that it might take some time due to the slower pace of bureaucratic procedures in Italy, especially in smaller Comunes. It might be helpful to have patience and start the process well ahead of when you need the certificate.
 
 If you're not fluent in Italian, consider seeking help translating your request to ensure no misunderstanding occurs.
-
-
 ## Related Posts
 
 - [Guide to Civil Registry Registration in Italy: Process & Documents](https://tramitit.com/guides/italy/registration_in_the_civil_registry/)

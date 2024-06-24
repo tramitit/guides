@@ -52,8 +52,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - Mějte na paměti, že veřejná doprava v Praze je velmi efektivní a rozsáhlá - může být pohodlnější používat tento způsob dopravy místo boje s omezenými parkovacími místy.
 - Pokud nebudete dodržovat pravidla parkování, hrozí vám pokuta nebo odtah vozidla.
 - Parkovací povolení nezaručuje parkovací místo. Pouze nabízí právo parkovat, pokud je místo dostupné.
-
-
 ## Related Posts
 
 - [Jak získat řidičský průkaz v České republice: Postup a požadavky](https://tramitit.com/cs/guides/czech-republic/zadost_o_ridicsky_prukaz/)

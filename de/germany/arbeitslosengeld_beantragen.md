@@ -49,8 +49,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Sie sind auch verpflichtet, sich regelmäßig (monatlich oder alle zwei Monate) beim Jobcenter zu melden und nachzuweisen, dass Sie aktiv nach Beschäftigung suchen.
 
 Bitte beachten Sie: Die Informationen in diesem Leitfaden unterliegen Änderungen und können je nach individuellem Status variieren. Überprüfen Sie den Prozess und die Anforderungen immer auf der Website der Bundesagentur für Arbeit.
-
-
 ## Related Posts
 
 - [Elterngeld in Deutschland: Anspruch, Antrag und Leistungen](https://tramitit.com/de/guides/germany/elterngeld_beantragen/)

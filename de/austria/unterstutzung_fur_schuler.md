@@ -42,8 +42,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 ## Weitere Details
 - Wien kann eine recht teure Stadt sein. Planen Sie daher Ihr Budget sorgfältig, um finanzielle Probleme zu vermeiden.
 - Die Kultur in Österreich kann sich sehr von Ihrem Heimatland unterscheiden. Bemühen Sie sich, die lokalen Bräuche und Traditionen kennenzulernen und zu verstehen.
-
-
 ## Related Posts
 
 - [Studieren in Österreich: Ein Leitfaden für internationale Studierende](https://tramitit.com/de/guides/austria/anmeldung_zur_universitat/)

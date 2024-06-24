@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Importing a vehicle abroad involve variable costs including shipping, customs duties, and potential modifications to meet local regulations. In some cases, it may be practical to sell your vehicle in the original country and purchase a new one in the destination country. Always research thoroughly to determine the best financial and practical option for your specific situation.
-
-
 ## Related Posts
 
 - [How to Register a Car in the Czech Republic: A Complete Guide](https://tramitit.com/guides/czech-republic/car_registration/)

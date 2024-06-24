@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Make sure to check the specific requirements for the type of residence permit you're applying for, as different types can have different requirements and processes. Keep in mind that Greece is part of the European Union, so some procedures can be different for EU and non-EU citizens. Also, be prepared for potential delays in processing and be patient with the procedure.
-
-
 ## Related Posts
 
 - [Permanent Residence Certificate: Stay Indefinitely in Greece](https://tramitit.com/guides/greece/application_for_permanent_residence_certificate/)

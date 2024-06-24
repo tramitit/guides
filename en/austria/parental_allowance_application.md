@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Self-employed parents can also apply.
 - The allowance amount depends on your net income from the previous year. 
 - You should confirm the exact requirements and procedures with your relevant local parental allowance office as these can vary.
-
-
 ## Related Posts
 
 - [Child Care Allowance: Financial Aid for Families with Children](https://tramitit.com/guides/austria/child_care_allowance_application/)

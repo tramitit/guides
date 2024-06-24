@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Remember that the EHIC is not an alternative to travel insurance. It does not cover any private healthcare or costs such as a return flight to your home country or lost/stolen property. Therefore, it is advisable to have both an EHIC and a valid private travel insurance policy.
 
 For UK residents, post-Brexit, the GHIC (Global Health Insurance Card) replaces the EHIC. UK issued EHICs are still valid until their expiry date. But the new applicants from the UK will receive GHIC instead of EHIC. GHIC provides the same benefits as EHIC.
-
-
 ## Related Posts
 
 - [Health Insurance in Poland: Essentials for Residents and Expats](https://tramitit.com/guides/poland/health_insurance/)

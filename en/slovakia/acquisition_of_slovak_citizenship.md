@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Dual citizenship law is complicated in Slovakia. It is advisable to do thorough due diligence before starting the process.
 - All legal procedures will be in Slovak and having a Slovak speaker will be incredibly helpful.
 - The process is reportedly bureaucratic and may require perseverance.
-
-
 ## Related Posts
 
 - [Guide to Applying for Slovakian Citizenship by Descent](https://tramitit.com/guides/slovakia/application_for_citizenship/)

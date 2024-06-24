@@ -42,8 +42,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Mindig ellenőrizd a legfrissebb követelményeket és szabályozásokat a helyi anyakönyvi hivataloddal. Különböző hivataloknak lehetnek enyhén eltérő követelményei vagy eljárásuk. Előzetes jóváhagyás szükséges lehet a házasságkötés előtt, és időpont egyeztetése is lehet szükséges a kérelmek benyújtásához az irodánál.
-
-
 ## Related Posts
 
 - [Dupla Születési Anyakönyvi Kivonat Magyarországon: Kérelem és Eljárás](https://tramitit.com/hu/guides/hungary/szuletesi_anyakonyvi_kivonat_masodpeldanyanak_igenylese/)

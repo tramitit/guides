@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Depending on the business sector, it could be necessary to obtain additional permits/certificates, such as Environmental, Construction, Fire Safety, etc. The permit requirements and processes can vary based on business type and jurisdiction. Always confirm with local authorities or legal consultants to ensure full compliance.
-
-
 ## Related Posts
 
 - [Guide to Building Permits in Romania: Procedures and Requirements](https://tramitit.com/guides/romania/building_permit/)

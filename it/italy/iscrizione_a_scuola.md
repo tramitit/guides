@@ -45,8 +45,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Il processo di iscrizione può variare da un istituto educativo all'altro, ma in generale valgono le linee guida sopra indicate. È consigliabile verificare il sito web della specifica scuola o università per informazioni più dettagliate sul loro processo di ammissione e requisiti. Le scadenze per la presentazione delle domande sono anche stabilite dalle singole scuole e università, quindi è importante verificare queste date per garantire una presentazione tempestiva delle domande.
-
-
 ## Related Posts
 
 - [Guida alla Cittadinanza Italiana: Procedura, Documenti e Fornitori](https://tramitit.com/it/guides/italy/richiesta_di_cittadinanza_italiana/)

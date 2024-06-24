@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Slovak ID cards are usually valid for 10 years for adults and 5 years for minors.
 - There is a legal obligation to report a lost or stolen ID card to the police.
 - For more information, you can visit the official government site [here](https://www.minv.sk/).
-
-
 ## Related Posts
 
 - [How to Apply for a Slovak Passport: A Step-by-Step Guide](https://tramitit.com/guides/slovakia/issuance_of_passport/)

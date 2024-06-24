@@ -55,8 +55,6 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 * Mensen vragen om te liegen over hun inkomen om te voldoen aan de vereisten voor sociale huisvesting of enige vorm van huisvesting is onethisch en kan leiden tot ernstige gevolgen. Verstrek altijd eerlijke informatie op uw aanvraag.
 
 Het begrijpen van deze details kan u helpen om effectiever door het systeem van sociale huisvesting in Nederland te navigeren.
-
-
 ## Related Posts
 
 - [Bewijs van Woonplaats: Procedure, Documenten, Dienstverleners](https://tramitit.com/nl/guides/belgium/verzoek_om_een_bewijs_van_woonst/)

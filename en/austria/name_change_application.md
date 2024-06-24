@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The change of name is a serious matter in Austria and requests are not easily approved. The rulers typically only permit a name change for compelling reasons.
 - According to the Austrian Name Act, illegitimate children, who assume the family name of their other parent on legitimization or acknowledgment, have the option to keep their birth name.
 - Fees for the name change process can vary depending on individual circumstances and the specific local office, so it is best to consult directly with your local Municipal District Office for the current rates.
-
-
 ## Related Posts
 
 - [Marriage Certificate Application Process in Austria Explained](https://tramitit.com/guides/austria/marriage_certificate_application/)

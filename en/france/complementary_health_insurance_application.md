@@ -54,8 +54,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 The cost of the insurance will depend on the coverage you choose. Some insurers offer customizable plans, allowing you to choose the services you need based on your health condition and budget. The involvement of the insurer in the procedures with healthcare professionals also varies from insurer to insurer.
 Remember to read all conditions and fine print in the contract before signing.
-
-
 ## Related Posts
 
 - [How to Obtain Health Insurance Cards in France, Ireland, Poland](https://tramitit.com/guides/france/health_insurance_card_application/)

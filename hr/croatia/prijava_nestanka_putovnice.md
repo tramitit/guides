@@ -38,8 +38,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 | Davatelj | Web stranica | Vremenski okviri | Trošak |
 | --------------- | --------------- | :-------------: | :-------------: |
-
-
 ## Related Posts
 
 - [Postupak Zamjene Hrvatske Osobne Iskaznice Nakon Gubitka](https://tramitit.com/hr/guides/croatia/prijava_nestanka_osobne_iskaznice/)

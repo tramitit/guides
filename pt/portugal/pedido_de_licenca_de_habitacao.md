@@ -46,8 +46,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - O tempo que este processo leva pode variar dependendo da complexidade do projeto e da rapidez da autoridade local.
 - A falta de obtenção de uma licença de habitação pode resultar em penalidades, incluindo multas ou eventual demolição.
 - É altamente recomendado trabalhar com profissionais experientes como arquitetos e engenheiros ao longo do processo.
-
-
 ## Related Posts
 
 - [Alvará de Construção em Portugal: Procedimento e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_licenca_de_construcao/)

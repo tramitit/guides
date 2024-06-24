@@ -60,8 +60,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Applicants may also need to renounce their original citizenship depending on their home country’s laws on dual citizenship.
 - The whole process may take a few months to more than a year, depending on individual circumstances.
 - It is advisable to engage a legal expert conversant in German immigration law to help with the process.
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Permit in Germany: Key Steps](https://tramitit.com/guides/germany/applying_for_a_residence_permit/)

@@ -41,8 +41,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Este întotdeauna benefic să menții o cetățenie dublă, având în vedere diferitele avantaje pe care le oferă, precum oportunități de călătorie, muncă și educație mai accesibile.
 - Diverse bănci precum N26 solicită dovada cetățeniei pentru crearea unui cont. Prin urmare, confirmarea cetățeniei devine esențială.
 - Adu-ți aminte că fiecare caz este diferit și uneori poți avea nevoie de documente de suport suplimentare în funcție de circumstanțele tale. Prin urmare, este întotdeauna recomandat să contactezi autoritatea responsabilă direct pentru ghidaj detaliat și personalizat.
-
-
 ## Related Posts
 
 - [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)

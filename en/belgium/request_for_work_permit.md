@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Permit type B is tied to the specific employer and job. If you change your job, a new work permit will be needed where your new employer will have to start the application process from scratch.
   
 - For students/researchers on an internship, if the internship period exceeds 90 days, a Single Permit will be required which merges work and residence permit into one.
-
-
 ## Related Posts
 
 - [Essential Guide to Obtaining a Residence Permit in Belgium](https://tramitit.com/guides/belgium/request_for_residence_permit/)

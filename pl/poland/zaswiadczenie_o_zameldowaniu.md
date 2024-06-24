@@ -42,8 +42,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 - Świadectwo zameldowania nie jest tym samym, co zezwolenie na pobyt, które jest wymagane dla obywateli spoza UE planujących przebywanie w Polsce dłużej niż 90 dni.
 - Sprawdź z lokalną radą miasta, aby zweryfikować ich konkretne wymagania i procedury.
 - Świadectwo nie zapewnia korzyści, takich jak pomoc społeczna czy prawo do pracy. W celu uzyskania tych korzyści wymagane są inne dedykowane dokumenty/zgody.
-
-
 ## Related Posts
 
 - [Świadectwo Małżeństwa w Polsce: Procedura i Wymagane Dokumenty](https://tramitit.com/pl/guides/poland/akt_malzenstwa/)

@@ -55,8 +55,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Translation services might be needed if the receiver does not understand German.
 
 (Note: The procedures and fees may vary across different regions of Austria)
-
-
 ## Related Posts
 
 - [How to Obtain Proof of Austrian Citizenship: Steps and Requirements](https://tramitit.com/guides/austria/proof_of_citizenship/)

@@ -40,8 +40,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 - Jeśli właściciel nie odpowie w rozsądnym terminie, może być wskazane skonsultowanie się z prawnikiem.
 - Pamiętaj, że nadal możesz być odpowiedzialny za wynajem, jeśli nowy najemca nie zapłaci czynszu lub zniszczy nieruchomość, zgodnie z warunkami umowy cesji. Zawsze potwierdzaj te szczegóły przed ostatecznym zatwierdzeniem przekazania.
 - Ogólnie bezpieczniej jest opłacać czynsz przelewami bankowymi, ponieważ mogą one służyć jako dowód zapłaty.
-
-
 ## Related Posts
 
 - [Zawiadomienie o zmianie miejsca zamieszkania w Polsce](https://tramitit.com/pl/guides/poland/zgloszenie_zmiany_miejsca_zamieszkania/)

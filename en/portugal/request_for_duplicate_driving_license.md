@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - If you request the duplicate license due to a change in your personal data (e.g., name), you must supply supporting legal documentation for the change.
 - If the driving license was lost or stolen abroad, a duplicate can be requested at the Portuguese consular services.
-
-
 ## Related Posts
 
 - [Requesting Duplicate Documents in Portugal: A Detailed Guide](https://tramitit.com/guides/portugal/request_for_duplicate_documents/)

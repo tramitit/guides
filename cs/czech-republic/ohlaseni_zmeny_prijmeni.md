@@ -45,8 +45,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 • Termíny pro dokončení procesu změny jména se mohou lišit v závislosti na vaší místní jurisdikci.
 • Podle vaší místní jurisdikce může být dalším krokem soudní slyšení k dokončení změny jména.
 • Vždy si pamatujte aktualizovat všechny klíčové instituce, jako jsou banky, poskytovatelé zdravotní péče a pošta, o vašem novém jméně.
-
-
 ## Related Posts
 
 - [Změna údajů v občanském průkazu - Postup a Požadavky](https://tramitit.com/cs/guides/czech-republic/zadost_o_zmenu_udaju_v_obcanskem_prukazu/)

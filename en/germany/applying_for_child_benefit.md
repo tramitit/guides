@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For a delay in payment, it's advised to promptly contact the relevant Familienkasse.
 - Certain criteria may affect the amount of Kindergeld received, such as the child's age and whether they are in education or employment.
 - You have to apply for it when you have a child in Germany, it's not granted automatically.
-
-
 ## Related Posts
 
 - [Guide to Parental Allowance in Germany: Eligibility & Application](https://tramitit.com/guides/germany/applying_for_parental_allowance/)

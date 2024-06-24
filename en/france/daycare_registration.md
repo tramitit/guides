@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 - Some daycares in Canada offer French language instruction or immersion. This can be beneficial if you want your child to become bilingual, but it's helpful to ensure in advance that your child will be able to navigate this environment. In Québec, grants may be available to attend a francisation program.
 - The cost of daycare varies depending on location, provider and child's age, but subsidies are often available for low-income families.
-
-
 ## Related Posts
 
 - [Complete Guide to Preschool Enrollment in France - Steps & Tips](https://tramitit.com/guides/france/preschool_registration/)

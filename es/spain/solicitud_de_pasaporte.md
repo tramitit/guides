@@ -43,11 +43,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 ## Detalles adicionales
 Cualquier ciudadano español, independientemente de su edad, puede solicitar un pasaporte español, pero los menores deben ir acompañados por sus padres o tutores legales. El período de validez del pasaporte depende de la edad del titular. La validez es de 2 años hasta los 5 años de edad, de 5 años para edades de 5 a 30 años, y de 10 años para mayores de 30 años.
 
-
 ## Related Posts
 
-- [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/es/guides/spain/renovacion_de_pasaporte/)
-- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
-- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/es/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
-- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)
-- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/es/guides/spain/nacionalidad_española_por_residencia/)
+- [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/spanish/guides/spain/renovacion_de_pasaporte/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)
+- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/spanish/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
+- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/renovacion_del_dni/)
+- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_nacionalidad/)

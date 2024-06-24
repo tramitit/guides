@@ -40,8 +40,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Rețineți că întotdeauna este recomandat să verificați cu autoritățile fiscale locale sau cu consilierii legali cu privire la cerințele specifice și procesul de obținere a unui Certificat de Atestare Fiscală. Fiind informat vă ajută să asigurați un proces de desfășurare fără probleme și să evitați posibilele probleme legale.
-
-
 ## Related Posts
 
 - [Certificat de Rezidență Fiscală: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_fiscal/)

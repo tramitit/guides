@@ -40,8 +40,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Pamatujte, abyste byli oprávněni k podpoře v nezaměstnanosti, musíte být nezaměstnaní a aktivně hledat práci. Úřad práce může kdykoli žádat o prokázání tohoto, například odeslané žádosti nebo navštívené pohovory. Délka a výše podpory mohou být různé v závislosti na specifických proměnných, včetně vaší minulé mzdy, minulé pracovní historie a dalších. Doporučuje se zkontrolovat webovou stránku Úřadu práce nebo se s nimi přímo poradit, abyste lépe porozuměli tomu, jak to funguje.
-
-
 ## Related Posts
 
 - [Rodinný příspěvek v České republice - Jak a kdo ho může získat](https://tramitit.com/cs/guides/czech-republic/zadost_o_rodicovsky_prispevek/)

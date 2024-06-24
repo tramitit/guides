@@ -43,11 +43,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The TSE card has an expiration date, so be sure to renew it if you are planning to travel.
 - The card does not replace travel insurance, as it might not cover all medical costs or return to home country medical transport.
 
-
 ## Related Posts
 
-- [How to Get Your Health Card in Spain: Essential Guide (TSE)](https://tramitit.com/guides/spain/health_card_application/)
-- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/tarjeta_sanitaria/)
-- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/guides/spain/student_card_application/)
-- [How to Renew Your EU Resident Card (TIE) in Spain - Step by Step](https://tramitit.com/guides/spain/eu_resident_card_renewal/)
-- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)
+- [How to Get Your Health Card in Spain: Essential Guide (TSE)](https://tramitit.com/english/guides/spain/health_card_application/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/english/guides/spain/tarjeta_sanitaria/)
+- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/english/guides/spain/student_card_application/)
+- [How to Renew Your EU Resident Card (TIE) in Spain - Step by Step](https://tramitit.com/english/guides/spain/eu_resident_card_renewal/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/english/guides/spain/spanish_social_security_number/)

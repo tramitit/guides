@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Remember to renew your parking card before it expires. Typically, cards are valid for one year.
 - The parking card is associated with a specific vehicle. If you change your vehicle, you will need to change the registration number associated with your parking card.
 - Parking cards are usually location-specific. For example, if you live in Brussels, you should contact the Brussels City Council. If you reside in a different city or town, you would need to contact your local council.
-
-
 ## Related Posts
 
 - [How to Apply for a Passport: Requirements and Procedure Guide](https://tramitit.com/guides/belgium/request_for_passport/)

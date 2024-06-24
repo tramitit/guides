@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 It's important to point out that all rules and processes can vary greatly depending on the local laws of your country and municipality. Moreover, the cost of obtaining the certificate and other permits may vary based on the size and nature of your project. It's always advisable to seek proper legal help ahead of time to avoid potential hiccups. Also, patience is key as these processes can often take longer than anticipated.
-
-
 ## Related Posts
 
 - [Guide to Building Permits in Romania: Procedures and Requirements](https://tramitit.com/guides/romania/building_permit/)

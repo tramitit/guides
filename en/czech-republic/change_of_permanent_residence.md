@@ -38,9 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that changing your permanent residence often involves more than just updating your address with the post office. You'll also need to update it with your healthcare provider, your insurance company, your workplace, and any other organization or service that uses your physical address. If you're moving from abroad, you may also need to deal with customs and immigration, which can come with its own set of procedures and requirements.
-
-
-
 ## Related Posts
 
 - [Residence Registration in Czech Republic: A Simple Guide](https://tramitit.com/guides/czech-republic/residence_registration_for_foreigners/)

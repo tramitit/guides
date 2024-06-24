@@ -53,8 +53,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 * Demander à quelqu'un de mentir sur son revenu pour répondre aux exigences du logement social ou de tout type de logement est éthiquement incorrect et peut entraîner des conséquences graves. Fournissez toujours des informations sincères dans votre demande.
 
 Comprendre ces détails peut vous aider à naviguer de manière plus efficace dans le système de logement social aux Pays-Bas.
-
-
 ## Related Posts
 
 - [Residence Permit in Belgium: Process, Requirements & Help](https://tramitit.com/fr/guides/belgium/demande_de_titre_de_sejour/)

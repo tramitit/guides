@@ -44,8 +44,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Se sei un cittadino doppio, ricorda che la patente di guida del Paese in cui hai la residenza abituale è considerata valida. La residenza abituale si riferisce al luogo in cui vivi per almeno 185 giorni in un anno calendario. Pertanto, assicurati del tuo status prima di procedere con il processo di rinnovo.
-
-
 ## Related Posts
 
 - [Guida in Italia: Procedura per Ottenere la Patente di Guida](https://tramitit.com/it/guides/italy/richiesta_patente_di_guida/)

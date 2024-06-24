@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Though the SNS User card is necessary, in emergency situations, the health center will serve you without it.
 - The User Card number will be unique and linked to your personal NIF, so it is safe even if lost.
 - The card is free of charge, though replacements for lost cards might attract a small fee.
-
-
 ## Related Posts
 
 - [Schedule Medical Appointments with Portugal's SNS Effortlessly](https://tramitit.com/guides/portugal/request_for_medical_appointment_at_sns/)

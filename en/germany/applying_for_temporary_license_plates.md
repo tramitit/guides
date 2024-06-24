@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Temporary license plates are usually valid for a short period of time (5-10 days), after which you should have received your permanent plates.
 - Driving with temporary plates outside the country may not be legal depending on the laws of the countries you intend to visit, so it is recommended to clarify this before undertaking any travel.
 - In some cases, you might be able to handle the entire process online or via mail, again this depends on the policy of your local registration office.
-
-
 ## Related Posts
 
 - [Guide to Vehicle Registration in Germany: Steps & Requirements](https://tramitit.com/guides/germany/vehicle_registration/)

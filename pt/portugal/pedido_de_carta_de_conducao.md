@@ -41,8 +41,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes Adicionais
 Você precisa ter pelo menos 18 anos para solicitar uma carteira de habilitação. Indivíduos que não passarem no exame de condução podem precisar esperar antes de poder repeti-lo. O período de espera depende dos requisitos específicos estabelecidos pelas autoridades reguladoras de trânsito.
-
-
 ## Related Posts
 
 - [Renovação da Carta de Condução: Procedimentos e Documentos Necessários](https://tramitit.com/pt/guides/portugal/renovacao_de_carta_de_conducao/)

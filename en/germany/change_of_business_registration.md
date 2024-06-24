@@ -50,8 +50,6 @@ If your business is an online business or e-commerce, the steps would largely be
 For those applying for a Gewerbeanmeldung with a Blue Card, you may also need to apply for a freelance visa. Also remember, running ads may have different legal requirements depending on where your business is registered. 
 
 Remember to update your business address with the professional patent law bar if you are registered as well.
-
-
 ## Related Posts
 
 - [Guide to Business Registration in Germany: Steps and Requirements](https://tramitit.com/guides/germany/business_registration/)

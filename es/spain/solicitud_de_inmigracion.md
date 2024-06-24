@@ -46,11 +46,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 - Esté atento a la fecha de vencimiento de su NIE (Número de Identificación de Extranjero).
 - Sea paciente, el proceso puede llevar tiempo e involucrar una cantidad considerable de burocracia.
 
-
 ## Related Posts
 
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)
-- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
-- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/es/guides/spain/nacionalidad_española_por_residencia/)
-- [Cómo Programar una Cita con la Oficina de Inmigración en España](https://tramitit.com/es/guides/spain/solicitud_de_cita_previa_en_extranjeria/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_nacionalidad/)
+- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/spanish/guides/spain/nacionalidad_española_por_residencia/)
+- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)

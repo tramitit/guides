@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to check the specific requirements and procedures for your local consulate, as there can be variations depending on your location. You may be required to present additional identification during your appointment, and there may be specific photo requirements. Always double-check fees and payment methods with your consulate, as these can vary.
-
-
 ## Related Posts
 
 - [Citizen Card Renewal: Process, Requirements, and Providers](https://tramitit.com/guides/portugal/renewal_of_citizen_card/)

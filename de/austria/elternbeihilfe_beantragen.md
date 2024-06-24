@@ -45,8 +45,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 - Selbstständige Eltern können ebenfalls einen Antrag stellen.
 - Die Höhe des Zuschusses hängt von Ihrem Nettoeinkommen des Vorjahres ab.
 - Bestätigen Sie die genauen Anforderungen und Verfahren mit Ihrem örtlichen Elterngeldbüro, da diese variieren können.
-
-
 ## Related Posts
 
 - [Kindergeld: Finanzielle Unterstützung für Eltern mit Kindern](https://tramitit.com/de/guides/austria/antrag_auf_kinderbetreuungsgeld/)

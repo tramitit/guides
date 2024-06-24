@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For international moves, consult both the emigration and immigration authorities in your current and new countries of residence respectively.
 - Some financial institutions or services such as Revolut may require separate updates to your registered address.
 - Remember to also update your address with any other services or subscriptions you may have (banks, magazines, mail forwarding services etc.).
-
-
 ## Related Posts
 
 - [How to Register Foreign Residence in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/registration_of_foreigners_residence/)

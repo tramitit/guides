@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 The application process and documentation needed may vary based on the document lost. You may need to book an appointment ahead of time depending on your local voivodeship office's procedures. Fees for replacing the lost documents can also vary depending on the specific document. 
 
 Consider checking the possible online services provided by the respective Voivodeship offices for preparation or ease of the process. Be aware that losing important documents may result in some bureaucratic complications, so it's better to take extra care of these key personal items.
-
-
 ## Related Posts
 
 - [How to Obtain a Polish ID Card (Dowod Osobisty) - Step-by-Step Guide](https://tramitit.com/guides/poland/id_card/)

@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember, to be eligible for unemployment benefits, you must not only be unemployed but also actively looking for a job. The Labor Office may ask for proof of this at any moment, like applications sent or interviews attended. Also, the length and amount of the benefit can vary depending on specific variables including your past salary, past employment history, and more. It's recommended to check the Labor Office website or consult with them directly to understand better how this works.
-
-
 ## Related Posts
 
 - [Disability Pension: Process, Requirements, and Eligibility](https://tramitit.com/guides/czech-republic/application_for_disability_pension/)

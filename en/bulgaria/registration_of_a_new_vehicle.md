@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The actual registration process might take anywhere from a few days to a couple of weeks, depending on current workload of the Traffic Police.
 - Always check current fees, as they might vary.
 - Foreigners need to provide additional documents for proof of residence (property deed, rental agreement, etc.).
-
-
 ## Related Posts
 
 - [How to Obtain a Driver's License in Bulgaria: Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_a_drivers_license/)

@@ -49,8 +49,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 3. Ważne jest, aby jak najszybciej zawiadomić lokalny urząd, aby uniknąć konsekwencji prawnych.
 
 4. Warto również sprawdzić, czy podobne przepisy dotyczą rejestracji pojazdów, jeśli dotyczy.
-
-
 ## Related Posts
 
 - [Zmiana Adresu Zameldowania w Polsce: Procedura i Wymagane Dokumenty](https://tramitit.com/pl/guides/poland/zmiana_adresu_zameldowania/)

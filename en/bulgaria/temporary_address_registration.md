@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Pease note, the fees and timelines vary depending on the local police station and the reason of stay. Additionally, you should note that the failure to register might result in fines. To avoid any legal complications, ensure you have followed the defined registration process accurately.
-
-
 ## Related Posts
 
 - [Permanent Address Registration in Bulgaria: A Complete Guide](https://tramitit.com/guides/bulgaria/permanent_address_registration/)

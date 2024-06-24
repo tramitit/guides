@@ -48,8 +48,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 En France, l'impôt sur le revenu est prélevé sur l'ensemble des revenus du foyer fiscal, comprenant les revenus du travail (salaires, traitements, pensions et rentes), les revenus de biens personnels (revenus de biens meubles, revenus fonciers, etc.) et les bénéfices des activités professionnelles/non professionnelles. La déclaration que vous remplissez sera examinée, et un avis d'imposition vous sera envoyé détaillant votre situation fiscale.
-
-
 ## Related Posts
 
 - [Pension de Retraite en France: Admissibilité, Documents & Procédure](https://tramitit.com/fr/guides/france/demande_de_pension_de_retraite/)

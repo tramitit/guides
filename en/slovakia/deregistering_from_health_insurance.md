@@ -38,8 +38,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Remember to tackle this process well before your planned date of relocation or switch to ensure a smooth transition. Also, keep a close eye on your former provider's communications regarding confirmation of your deregistration. Given the sensitive nature of health insurance, any lapse or unexpected continuation in coverage can potentially lead to stressful and costly situations. Always make sure that your new health coverage is in place before terminating the old one, when you are switching plans. 
 
 Please note that the procedure and documents required might vary based on your specific country and insurance provider. When in doubt, don’t hesitate to contact your insurance provider for precise procedures and requirements.
-
-
 ## Related Posts
 
 - [Health Insurance Registration Guide for Foreigners in Slovakia](https://tramitit.com/guides/slovakia/health_insurance_registration/)

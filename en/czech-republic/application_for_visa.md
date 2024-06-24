@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 The visa processing time varies depending on the type of visa applied for. It is advised to apply at least 15 days before the intended trip.
 Remember, the visa does not automatically grant the right to enter the Schengen Area. At the border (or during other controls) you may have to show the visa but also provide additional documentation, for example, information on that you have sufficient means to cover the stay and the return trip.
-
-
 ## Related Posts
 
 - [Guide to Permanent Residence Permit in the Czech Republic](https://tramitit.com/guides/czech-republic/application_for_permanent_residence_permit/)

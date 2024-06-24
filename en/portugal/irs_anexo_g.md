@@ -70,8 +70,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Always double-check the ISIN codes and amounts to match them exactly as shown in your trade confirmations and end-of-year statements.
 
 By following these steps and ensuring you have all necessary documents, you can accurately complete IRS Anexo G and stay compliant with Portuguese tax regulations regarding capital gains.
-
-
 ## Related Posts
 
 - [Guide to IRS Anexo G1: Declaration of Capital Gains](https://tramitit.com/guides/portugal/irs_anexo_g1/)

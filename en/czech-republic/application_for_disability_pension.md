@@ -50,8 +50,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 The amount of the disability pension and specific requirements will largely depend on your location and local regulations. Some countries offer more benefits for people with more severe disabilities or impairments, while others distribute fixed amounts. In some cases, your past employment status can also affect the amount of the pension. Please refer to your local pension authority for more information.
-
-
 ## Related Posts
 
 - [How to Apply for a Pension: Steps and Requirements Guide](https://tramitit.com/guides/czech-republic/application_for_pension/)

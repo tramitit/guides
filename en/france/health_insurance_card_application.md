@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - In case of loss, you can request a replacement through the same service.
 - Remember that calamities, strikes or delays in postal service can affect the delivery period.
 - It is important to always keep your card safe and readily available in case you need medical service.
-
-
 ## Related Posts
 
 - [Complete Guide to Complementary Health Insurance in France](https://tramitit.com/guides/france/complementary_health_insurance_application/)

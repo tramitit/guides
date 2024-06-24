@@ -41,8 +41,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 ## Detalhes Adicionais
 - Se solicitar a carta de condução duplicada devido a uma alteração nos seus dados pessoais (por exemplo, nome), deve apresentar documentação legal de suporte para a alteração.
 - Se a carta de condução foi perdida ou roubada no estrangeiro, uma duplicata pode ser solicitada nos serviços consulares portugueses.
-
-
 ## Related Posts
 
 - [Solicitação de Documentos Duplicados em Portugal: Guia Completo](https://tramitit.com/pt/guides/portugal/pedido_de_duplicado_de_documentos/)

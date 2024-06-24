@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 You may need insurance coverage for your vehicle during the move, or when bringing a car into Austria from another country. It's advised to check with local insurance providers or consult your current insurance for overseas coverage.
 You'll also need to consider the potential payment of NoVA tax when importing a car, especially from non-EU countries. This might make importing vehicles from such regions economically impractical.
-
-
 ## Related Posts
 
 - [Vehicle Registration in Austria: Requirements and Steps](https://tramitit.com/guides/austria/vehicle_registration/)

@@ -42,8 +42,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 - La "Fedina Penale" è il controllo dei registri penali più comune condotto in Italia. Si tratta di una divulgazione base del registro penale.
 - Avere un precedente penale in Italia potrebbe influenzare la capacità di una persona di emigrare o trovare un impiego, poiché le aziende hanno il diritto legale di richiedere un controllo dei registri penali per i potenziali dipendenti.
-
-
 ## Related Posts
 
 - [Come richiedere un certificato di nascita in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_nascita/)

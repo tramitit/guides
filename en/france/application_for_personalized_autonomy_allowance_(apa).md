@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Each department in France independently handles the process for APA. Waiting times and specific requirements can vary. APA can be used to cover professional care services, technical aids, and home adaptations.
-
-
 ## Related Posts
 
 - [Guide to Family Allowances: Eligibility, Procedure, and Documents](https://tramitit.com/guides/france/family_allowance_application/)

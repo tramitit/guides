@@ -43,11 +43,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It is always better to procure more than one copy of the Death Certificate as it may be needed for various legal and administrative procedures.
 - The Death Certificate in Spain includes the deceased's name, cause of death, date and place of death, and personal details.
 
-
 ## Related Posts
 
-- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)
-- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
-- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/guides/spain/birth_registration/)
-- [Certificate of Last Will Acts: A Guide for Executors and Heirs](https://tramitit.com/guides/spain/certificate_of_last_will_acts/)
-- [Guide to Obtaining a Last Will Certificate in Spain](https://tramitit.com/guides/spain/last_will_certificate_request/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/death_certificate/)
+- [Guide to Obtaining a Last Will Certificate in Spain](https://tramitit.com/english/guides/spain/last_will_certificate_request/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/birth_certificate/)
+- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/english/guides/spain/birth_registration/)
+- [Certificate of Last Will Acts: A Guide for Executors and Heirs](https://tramitit.com/english/guides/spain/certificate_of_last_will_acts/)

@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's worth noting that not all goods are eligible for a VAT refund. Certain expenses like hotel accommodation or restaurant meals are typically not included. The refund might take some time to process (up to several weeks), so plan accordingly. Additionally, some stores may not participate in VAT refund schemes, and some may have a minimum purchase amount to qualify, so it's always best to ask before you make a purchase.
-
-
 ## Related Posts
 
 - [PIT Tax Declaration Guide for Income Earners in Poland](https://tramitit.com/guides/poland/pit_tax_declaration/)

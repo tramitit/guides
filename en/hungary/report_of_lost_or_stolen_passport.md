@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - It is recommended to keep copies of your passport’s biographic information page and the page containing your Hungarian entry stamp separately from your passport just in case it gets lost.
 - Depending on when and where you lose your passport, the process to replace it can be time-consuming. It's best to start the process as soon as you realize your passport is missing.
 - Remember to alert your airline or travel company about your situation. They may need to modify your return ticket or know about your situation for other reasons.
-
-
 ## Related Posts
 
 - [How to Apply for a Hungarian Passport: Step-by-Step Guide](https://tramitit.com/guides/hungary/passport_application/)

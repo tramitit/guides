@@ -41,8 +41,6 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 
 ## Aanvullende details
 Onthoud dat afhankelijk van de voorwaarden van de vervoerder, je studentenkorting mogelijk alleen van toepassing is op bepaalde routes of tijden. Zorg er altijd voor dat je je studentenkaart of vervoerskaart met de studentenkorting bij je hebt wanneer je gebruik maakt van het openbaar vervoer.
-
-
 ## Related Posts
 
 - [Parkeerkaart aanvragen en gebruiken: Procedure en documenten](https://tramitit.com/nl/guides/belgium/verzoek_om_parkeerkaart/)

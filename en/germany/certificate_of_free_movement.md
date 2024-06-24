@@ -42,9 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Family members of EU, EEA, or Swiss citizens who are not nationals of these countries themselves but are living with an EU, EEA, or Swiss citizen in Germany, also need a residence card for EU/EEA/Swiss family members.
 - For marriage in Germany, a level A1 Certificate from the Goethe Institute is often required to prove basic German language skills. However, this requirement can vary from state to state.
 - If moving to Germany from a non-EU/EEA/Swiss country, please check visa requirements.
-
-
-
 ## Related Posts
 
 - [Guide to Residence Title (Aufenthaltstitel) in Germany](https://tramitit.com/guides/germany/application_for_a_residence_title/)

@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 In some cases, if paternity is being disputed, or in other complex circumstances, you may also need to hire a lawyer. This may also lead to additional costs. If parents cannot mutually agree on acknowledgement, a court procedure may be initiated for the establishment of paternity. 
 
 Remember that acknowledging paternity brings both rights and responsibilities. You will be assuming legal responsibility for the child, which includes custody rights as well as financial and moral obligations. Before acknowledging paternity, it is crucial to ensure that you understand the implications.
-
-
 ## Related Posts
 
 - [How to Register a Child's Birth in Poland: A Complete Guide](https://tramitit.com/guides/poland/child_birth_registration/)

@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - In certain cases, students are also eligible for housing allowance.
 - The allowance amount is typically directly transferred to your bank account.
 - In Austria, even individuals who have lost their job can apply for housing assistance, but they need to prove their situation.
-
-
 ## Related Posts
 
 - [Guide to Study Grants in Austria: Eligibility and Procedure](https://tramitit.com/guides/austria/study_grant_application/)

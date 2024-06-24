@@ -47,8 +47,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Certaines régions peuvent avoir un grand nombre de demandes, ce qui pourrait retarder le processus.
 - Assurez-vous que tous les détails de votre demande sont corrects pour éviter tout problème et retard inutile.
 - Gardez à l'esprit qu'il est illégal de conduire sans un permis de conduire valide.
-
-
 ## Related Posts
 
 - [Guide pour obtenir un permis de conduire en France](https://tramitit.com/fr/guides/france/demande_de_permis_de_conduire/)

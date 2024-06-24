@@ -48,8 +48,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 Si vous êtes étudiant et avez besoin d'un garant, le CROUS (Centre régional des œuvres universitaires et scolaires) peut agir en tant que garant éligible grâce au service 'Visale'. Faites une demande sur ['Visale'](https://www.visale.fr/#/).
 
 Bien que la procédure semble simple, comprendre les détails peut nécessiter une bonne maîtrise du français. Si vous rencontrez des difficultés, demandez de l'aide à quelqu'un parlant couramment français ou utilisez des outils de traduction en ligne.
-
-
 ## Related Posts
 
 - [Logement Social en France: Aide au Loyer et Procédure de Demande](https://tramitit.com/fr/guides/france/demande_daide_sociale_a_lhebergement/)

@@ -44,8 +44,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Para documentos relacionados a impostos, como uma conta de corretagem, você pode precisar preencher determinados formulários (como "Formulário 836") com seu corretor, que deve então encaminhá-lo para as autoridades fiscais.
 - Para documentos como certidões de nascimento a serem usadas no exterior, você pode ser solicitado a obter uma Apostila, que autentica o documento para uso internacional.
 - Para imigração para países como o Canadá, você pode ser solicitado a apresentar certificados de antecedentes criminais. Isso exigiria que você solicite no país/região onde morou por 6 meses ou mais.
-
-
 ## Related Posts
 
 - [Certificação de Tradução de Documentos: Procedimento e Prestadores](https://tramitit.com/pt/guides/portugal/pedido_de_certificacao_de_traducao_de_documentos/)

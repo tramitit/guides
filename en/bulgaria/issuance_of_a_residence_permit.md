@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The duration of the residence permit in Bulgaria depends on the purpose of stay and can be up to 5 years for long-term residents. Renewal before expiration is possible given that all conditions for issuance continue to be met.
-
-
 ## Related Posts
 
 - [Permanent Address Registration in Bulgaria: A Complete Guide](https://tramitit.com/guides/bulgaria/permanent_address_registration/)

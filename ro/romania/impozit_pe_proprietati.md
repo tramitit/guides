@@ -45,8 +45,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 România urmează să impună reținerea impozitului pe profituri de capital. Aceasta înseamnă că orice profit obținut din vânzarea proprietății dvs. ar trebui să fie impozitat, ceea ce ar trebui să fie luat în considerare atunci când calculați totalul impozitelor datorate.
 Există, de asemenea, impozite pe proprietate pentru proprietățile de lux pentru care ați putea fi responsabil, în funcție de tipul de proprietate pe care îl dețineți.
 Fiind conștienți de aceste alocări fiscale vă poate ajuta să gestionați mai eficient plățile impozitelor pe proprietate în România.
-
-
 ## Related Posts
 
 - [Impozitul de Rezidență în România: Ce Este și Cine Este Vizat](https://tramitit.com/ro/guides/romania/taxa_de_habitat/)

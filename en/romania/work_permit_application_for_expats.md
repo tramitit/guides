@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 The work permit is issued in 30 days from the date of submission of the application, and its validity period is the same as the duration of the individual employment contract.
 Each year, the Romanian government sets a quota for the number of foreign nationals that can be employed in the country. Thus, securing a job early increases the chances of obtaining a work permit.
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Permit in Romania: A Complete Guide](https://tramitit.com/guides/romania/residence_permit/)

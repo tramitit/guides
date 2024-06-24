@@ -49,8 +49,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 În funcție de natura șederii dumneavoastră, s-ar putea să trebuiască să reînnoiți permisul de ședere cu cel puțin 30 de zile înainte de expirare. De asemenea, verificați întotdeauna cu Ambasada sau Consulatul României și cu Inspectoratul General pentru Imigrări pentru actualizări și modificări în proces.
-
-
 ## Related Posts
 
 - [Procesul de obținere a permisului de ședere în România](https://tramitit.com/ro/guides/romania/viza_de_resedinta/)

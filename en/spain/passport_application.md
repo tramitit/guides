@@ -42,11 +42,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Any Spanish citizen regardless of their age can apply for a Spanish passport, but minors need to be accompanied by their parents or legal guardians. The passport validity period depends on the holder's age. The validity is 2 years for up to age 5, 5 years for ages 5-30, and 10 years for those over 30.
 
-
 ## Related Posts
 
-- [How to Renew Your Passport in Spain: A Step-by-Step Guide](https://tramitit.com/guides/spain/passport_renewal/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
-- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/guides/spain/id_card_renewal/)
-- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)
+- [How to Renew Your Passport in Spain: A Step-by-Step Guide](https://tramitit.com/english/guides/spain/passport_renewal/)
+- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/english/guides/spain/id_card_application/)
+- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/english/guides/spain/id_card_renewal/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_student_card_for_foreigners/)

@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The entire process might take longer depending on the pace at which the Slovak embassy processes applications.
 - Be sure to check and double-check your application and supporting documents to avoid any unnecessary delays.
 - The application fee varies depending on the country you're applying from. Always reach out to the embassy to clarify the amount.
-
-
 ## Related Posts
 
 - [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)

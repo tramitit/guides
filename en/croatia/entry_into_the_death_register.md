@@ -43,9 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Completing the entry into the death register is essential as it officially records the decedent's departure and aids in the execution of their will and estate. It is also recommended to keep multiple copies of the certified death entry to handle any future complications or needs. 
 
 Please note that the actual process and requirements might vary slightly based on the specific region or municipality in Croatia. Always check with the local municipality office or civic center to receive the most accurate and current information.
-
-
-
 ## Related Posts
 
 - [Guide to Birth Registration in Croatia: Steps and Requirements](https://tramitit.com/guides/croatia/entry_into_the_birth_register/)

@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that the processing time can take up to 3 months, so plan your passport renewal in advance to avoid any last-minute issues. A police tax of 18 RON will also need to be paid at the office where the application is made. In some cases, providing proof of urgency can expedite the processing time. If applying from abroad, contact your nearest Romanian embassy or consulate for additional instructions.
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Romanian Passport: Steps and Requirements](https://tramitit.com/guides/romania/passport/)

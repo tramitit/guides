@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Make sure to ask about the services offered by the home, such as medical care, recreational activities, food services, etc. before making a decision. Also, reviews or recommendations from others might be helpful during the selection process.
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Residence Permit for Foreign Countries](https://tramitit.com/guides/croatia/issuance_of_residence_permit_for_foreigners/)

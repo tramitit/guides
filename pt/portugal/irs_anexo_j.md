@@ -47,8 +47,6 @@ _(Estamos atualmente a reunir os melhores prestadores de serviço. Se é ou conh
 - Certifique-se de ter todos os documentos traduzidos para evitar discrepâncias.
 - Verifique as taxas de conversão de moeda aplicáveis na altura em que os rendimentos foram recebidos.
 - Se encontrar problemas durante a validação, consulte as orientações detalhadas fornecidas pelo Portal das Finanças ou consulte com um consultor fiscal.
-
-
 ## Related Posts
 
 - [IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros](https://tramitit.com/pt/guides/portugal/irs_anexo_i/)

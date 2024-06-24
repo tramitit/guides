@@ -50,11 +50,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 Ten en cuenta que solo los herederos o sus representantes autorizados pueden solicitar el Certificado de Últimas Voluntades. Además, recuerda que en España un testamento debe ser firmado ante notario para que sea válido. El notario es responsable de enviar la información sobre el testamento al registro central.
 
-
 ## Related Posts
 
-- [Certificado de Últimas Voluntades: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_actos_de_última_voluntad/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
-- [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_de_defuncion/)
-- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
-- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/certificado_de_antecedentes_penales/)
+- [Certificado de Últimas Voluntades: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_actos_de_última_voluntad/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/spanish/guides/spain/certificado_de_defunción/)
+- [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/spanish/guides/spain/inscripcion_de_defuncion/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/spanish/guides/spain/certificado_de_matrimonio/)
+- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/spanish/guides/spain/certificado_de_antecedentes_penales/)

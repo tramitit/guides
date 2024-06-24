@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that the application process can be long and complicated. Ensure you check the processing times and costs on the relevant websites and have all documentation ready before starting your application.
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Long-Stay Visa for France: Steps & Requirements](https://tramitit.com/guides/france/visa_application/)

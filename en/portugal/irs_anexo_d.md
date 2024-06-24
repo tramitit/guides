@@ -61,8 +61,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Deadlines:** Be mindful of the IRS submission deadlines to avoid penalties.
   
 It is crucial to keep all documents organized and readily accessible for a seamless and accurate IRS declaration process.
-
-
 ## Related Posts
 
 - [Complete Guide on IRS Anexo B for Self-Employed in Portugal](https://tramitit.com/guides/portugal/irs_anexo_b/)

@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Ensure all documentations are completed correctly. Check with your local authority to make sure you have all the right documents and permits. Any mistakes could result in fines, delays, or even demolition of any unauthorized construction. It's always advisable to hire professionals to avoid any complications and to ensure smooth processing.
-
-
 ## Related Posts
 
 - [Guide to Business Registration in Germany: Steps and Requirements](https://tramitit.com/guides/germany/business_registration/)

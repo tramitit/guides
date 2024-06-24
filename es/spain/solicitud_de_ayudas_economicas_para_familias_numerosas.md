@@ -47,11 +47,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 ## Detalles adicionales
 Recuerde que cada programa de ayuda puede tener su propio conjunto de criterios de elegibilidad. Es posible que sea elegible para algunos programas y no para otros, dependiendo de factores como su nivel de ingresos, el número de hijos que tiene y dónde vive. Asegúrese de revisar detenidamente los requisitos de elegibilidad de cada programa.
 
-
 ## Related Posts
 
-- [Cómo Solicitar Asistencia para el Alquiler: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_ayuda_para_el_alquiler/)
-- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
-- [Solicitud de Becas Educativas: Proceso, Documentos y Proveedores](https://tramitit.com/es/guides/spain/solicitar_becas_educativas/)
-- [Reunificación Familiar en España: Proceso y Requisitos](https://tramitit.com/es/guides/spain/reagrupacion_familiar/)
-- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/es/guides/spain/modelo_145/)
+- [Cómo Solicitar Asistencia para el Alquiler: Guía Completa](https://tramitit.com/spanish/guides/spain/solicitud_de_ayuda_para_el_alquiler/)
+- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/spanish/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
+- [Solicitud de Becas Educativas: Proceso, Documentos y Proveedores](https://tramitit.com/spanish/guides/spain/solicitar_becas_educativas/)
+- [Reunificación Familiar en España: Proceso y Requisitos](https://tramitit.com/spanish/guides/spain/reagrupacion_familiar/)
+- [Residencia para Familiares de Ciudadanos de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_de_residencia_de_familiar_de_comunitario/)

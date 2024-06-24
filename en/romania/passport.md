@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 The website above is for The Public Community Service for People's Record (SPCERP), the main office in charge of passport issuance in Romania. Times for passport issuance can vary depending on the workload at the time you apply.
 
 NOTE: Romania is part of the European Union, but not part of the Schengen Area. Entering or exiting Romania may not result in a passport stamp depending on the exact circumstances of your trip and the specific policies of your entry/exit point. Please check with the local border control authority for confirmation.
-
-
 ## Related Posts
 
 - [Romanian Identity Card: How to Obtain, Required Documents, and More](https://tramitit.com/guides/romania/identity_card/)

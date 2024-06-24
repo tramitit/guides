@@ -44,9 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Ensure you have made a note of all the required details about the birth (including the city and hospital) to facilitate the process. Non-Croatian speakers may want to approach a local translator, as all the documentation and proceedings will be in Croatian. The exact cost and timelines may vary based on the volume of applications. Do factor in potential delays. If applying from overseas, it's recommended to go through a local consultant or legal representative to expedite the process.
    
 Please note that the process and requirements for obtaining a birth certificate can vary by country. The provided information is specific to getting a birth certificate from Croatia. Always check with the pertinent agency or department to be assured of the most accurate, up-to-the-minute information.
-
-
-
 ## Related Posts
 
 - [Guide to Birth Registration in Croatia: Steps and Requirements](https://tramitit.com/guides/croatia/entry_into_the_birth_register/)

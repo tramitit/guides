@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 While Poland is not traditionally the most sought after destination for asylum seekers, Poland's membership in European Union potentially creates the environment for relocation to other EU countries eventually. However, please note that Poland adheres to a stricter immigration policy and they have a less welcoming stance towards asylum seekers compared to other EU countries. Remember that the legality of your stay will be determined by a court or another state body.
-
-
 ## Related Posts
 
 - [How to Apply for a Polish Passport: Procedure and Requirements](https://tramitit.com/guides/poland/passport/)

@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Processing times can vary depending on the country and individual circumstances. Be sure to allow plenty of time before your intended travel date. Always review the latest information from official government sources or reputable immigration advisors. Fees may apply, and are also subject to change.
-
-
 ## Related Posts
 
 - [Guide to Obtaining an Immigration Permit in Croatia](https://tramitit.com/guides/croatia/obtaining_an_immigration_permit/)

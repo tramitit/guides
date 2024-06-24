@@ -43,8 +43,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes adicionais
 A taxa exata e o tempo de processamento podem variar. Para casos urgentes, pode haver um serviço acelerado disponível mediante taxa adicional. Entre em contato com o registro civil ou seu provedor de serviços para obter as informações mais atualizadas.
-
-
 ## Related Posts
 
 - [Certidão de Nascimento: Procedimentos e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_certidao_de_nascimento/)

@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The overall timeline can vary significantly depending on the reason for changing your surname. Bank and other private businesses have their own rules and procedures for processing name changes. In all cases, you could need to show documents that justify the name change, like a marriage certificate. Check with each one to find out what you need to do.
-
-
 ## Related Posts
 
 - [Guide to Official Name Change Notification Process](https://tramitit.com/guides/poland/change_of_first_name_notification/)

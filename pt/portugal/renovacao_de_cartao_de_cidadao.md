@@ -37,8 +37,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes Adicionais
 A renovação do Cartão de Cidadão para aqueles que vivem fora de Portugal também pode ser feita nos consulados portugueses em seu país de residência.
-
-
 ## Related Posts
 
 - [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)

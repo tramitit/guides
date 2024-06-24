@@ -42,8 +42,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 È importante sapere che, come beneficiario, potresti dover pagare le tasse italiane sul social security statunitense. Inoltre, fai attenzione alle restrizioni vigenti per chi vive all'estero, assicurati di comprenderle completamente prima di procedere con la tua domanda per evitare complicazioni future. Preparati a un processo che potrebbe richiedere requisiti procedurali estesi e che a volte può essere dispendioso in termini di tempo. Si consiglia di cercare consiglio professionale se possibile.
-
-
 ## Related Posts
 
 - [Guida Completa alla Pensione di Vecchiaia in Italia](https://tramitit.com/it/guides/italy/domanda_di_pensione_di_vecchiaia/)

@@ -46,8 +46,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 Provjerite da je vaše zdravstveno osiguranje uvijek aktivno i da pokriva vaše potrebe, posebno u slučaju hitne medicinske pomoći ili hospitalizacije. Neke ljekarne mogu odbiti pružiti uslugu ako vaše zdravstveno osiguranje nije važeće, dok troškovi bolnice bez osiguranja mogu biti primjetno visoki.
 
 Dodatno, mogu se primjenjivati različita pravila za građane Europske unije (EU). Preporučljivo je provjeriti s pružateljem zdravstvenog osiguranja o istome.
-
-
 ## Related Posts
 
 - [How to Get Health Insurance in Croatia - Guide for Foreigners](https://tramitit.com/hr/guides/croatia/registracija_za_zdravstveni_karton_stranca/)

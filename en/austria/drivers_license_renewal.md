@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please be aware that not having a current and valid driver’s license can hold a hefty fine in many areas and can also disqualify you from obtaining car insurance, or lead to your policy getting canceled. Ensure to check your driver's license expiry date and maintain an updated record.
-
-
 ## Related Posts
 
 - [Guide to Replacing a Driver's License in Austria: Step-by-Step](https://tramitit.com/guides/austria/replacement_drivers_license_application/)

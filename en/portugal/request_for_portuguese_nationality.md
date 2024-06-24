@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - In some cases, if the parents do not have Portuguese nationality but have lived in Portugal for the necessary period, their children can also be eligible for nationality.
 - If you are using a lawyer or an agency to assist you, make sure they are legitimate and trustworthy.
 - It is also worth noting that the processing times can vary greatly depending on the complexity of each case.
-
-
 ## Related Posts
 
 - [Guide to Register Non-Portuguese Newborns in Portugal](https://tramitit.com/guides/portugal/registration_of_birth_of_foreign_citizen_in_portugal/)

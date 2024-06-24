@@ -50,8 +50,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 ## Dettagli aggiuntivi
 
 Devi fare domanda di rinnovo prima della scadenza del tuo permesso di soggiorno attuale. Se hai bisogno di viaggiare mentre aspetti il permesso rinnovato, tieni con te l'appuntamento come prova di aver richiesto il rinnovo. Tuttavia, potrebbero esserci restrizioni per lasciare l'Italia o lo Spazio Schengen durante questo periodo, poiché dipende dal paese in cui stai viaggiando. Ricorda, questo non si applica a tutti i casi quindi è sempre una buona idea verificare con le autorità prima di pianificare il tuo viaggio.
-
-
 ## Related Posts
 
 - [Permesso di Soggiorno in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/richiesta_carta_di_soggiorno/)

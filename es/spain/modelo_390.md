@@ -41,11 +41,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Los bancos en España suelen estar al tanto de este proceso y pueden ayudarte si tienes preguntas sobre el proceso de pago.
 - Para cualquier consulta adicional o complejidades, es recomendable consultar con un asesor legal local o la oficina administrativa relevante.
 
-
 ## Related Posts
 
-- [Guía Completa del Modelo 790: Cómo Pagar Tarifas Administrativas](https://tramitit.com/es/guides/spain/modelo_790/)
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
-- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
-- [Modelo 349: Declaración de Transacciones Intracomunitarias](https://tramitit.com/es/guides/spain/modelo_349/)
+- [Guía Completa del Modelo 790: Cómo Pagar Tarifas Administrativas](https://tramitit.com/spanish/guides/spain/modelo_790/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/spanish/guides/spain/modelo_036/)
+- [Modelo 349: Declaración de Transacciones Intracomunitarias](https://tramitit.com/spanish/guides/spain/modelo_349/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
+- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/spanish/guides/spain/modelo_145/)

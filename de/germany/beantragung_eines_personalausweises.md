@@ -44,8 +44,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 
 ## Weitere Details
 Die Wartezeit kann je nach Ihrem Standort in Deutschland und der Gesamtnachfrage variieren. Berücksichtigen Sie diesen Zeitraum, bevor Sie einen neuen Ausweis beantragen, wenn Ihr aktueller Ausweis kurz vor dem Ablauf steht. Ihr alter abgelaufener Ausweis gilt nicht mehr als gültiges Identifikationsdokument, sobald er abgelaufen ist. Dies gilt auch, wenn Sie bereits einen neuen beantragt haben und nur auf die Bearbeitung warten.
-
-
 ## Related Posts
 
 - [Beantragung eines deutschen Reisepasses: Verfahren und Anforderungen](https://tramitit.com/de/guides/germany/beantragung_eines_reisepasses/)

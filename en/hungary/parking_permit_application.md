@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - EU parking permits for disabled persons are accepted, and they can also apply for a parking permit.
 
 For further inquiries, you can contact the Kormányablak or BKK's customer service centers.
-
-
 ## Related Posts
 
 - [Vehicle Registration in Hungary: Complete Step-by-Step Guide](https://tramitit.com/guides/hungary/vehicle_registration/)

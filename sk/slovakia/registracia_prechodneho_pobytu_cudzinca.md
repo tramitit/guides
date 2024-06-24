@@ -53,8 +53,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 ## Ďalšie podrobnosti
 Pred podaním žiadosti o TRC si uistite, že ste si prešli celý dokument a sledujte prípadné chýbajúce alebo nesprávne informácie, pretože to by mohlo oneskoriť spracovanie vašej žiadosti. 
 Upozorňujeme, že ide o všeobecný sprievodca a proces sa môže mierne líšiť od krajiny krajine, preto sa ubezpečte, že zároveň skontrolujete webovú stránku konkrétnej krajiny pre presné informácie.
-
-
 ## Related Posts
 
 - [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)

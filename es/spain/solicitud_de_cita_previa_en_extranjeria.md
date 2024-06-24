@@ -45,11 +45,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 - Asegúrate de que la información proporcionada sea correcta para ahorrar tiempo y evitar reprogramaciones.
 - Se recomienda llegar al menos 15 minutos antes de tu hora asignada.
 
-
 ## Related Posts
 
-- [Cómo solicitar cita en SEPE España y qué documentos necesitas](https://tramitit.com/es/guides/spain/solicitud_de_cita_previa_para_el_sepe/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Proceso de Autorización para Carta de Invitación a España](https://tramitit.com/es/guides/spain/autorización_expedición_carta_de_invitación/)
-- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
-- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)
+- [Cómo solicitar cita en SEPE España y qué documentos necesitas](https://tramitit.com/spanish/guides/spain/solicitud_de_cita_previa_para_el_sepe/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)
+- [Guía para obtener visa de nómada digital en España](https://tramitit.com/spanish/guides/spain/solicitud_de_inmigracion/)
+- [Proceso de Autorización para Carta de Invitación a España](https://tramitit.com/spanish/guides/spain/autorización_expedición_carta_de_invitación/)

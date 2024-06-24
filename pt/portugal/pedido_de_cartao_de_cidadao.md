@@ -43,8 +43,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Consulte o escritório local do IRN para obter informações sobre prazos de processamento e custos.
 - Para alterações na morada, é necessário atualizar as informações do seu Cartão de Cidadão. Você pode ir ao escritório local do IRN ou usar os serviços online disponíveis no site do IRN.
 - No caso de reivindicar a nacionalidade portuguesa por descendência, é necessário ter todos os documentos necessários prontos para comprovar a sua linhagem ou ascendência.
-
-
 ## Related Posts
 
 - [Descubra Como Renovar Seu Cartão de Cidadão Português](https://tramitit.com/pt/guides/portugal/renovacao_de_cartao_de_cidadao/)

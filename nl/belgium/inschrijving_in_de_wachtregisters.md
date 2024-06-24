@@ -37,8 +37,6 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 ## Aanvullende details
 - Belangrijk om te weten is dat het registreren voor een wachtlijst niet garandeert dat u kaartjes zult ontvangen. Het plaatst u eenvoudigweg in de rij mochten er kaartjes beschikbaar komen.
 - Aanbieders beheren hun wachtlijsten doorgaans op basis van wie het eerst komt, het eerst maalt. Sommigen gebruiken een loteri
-
-
 ## Related Posts
 
 - [Registratie in het vreemdelingenregister: Procedure en Vereisten](https://tramitit.com/nl/guides/belgium/inschrijving_in_de_vreemdelingenregisters/)

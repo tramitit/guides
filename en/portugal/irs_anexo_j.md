@@ -48,9 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Make sure to have all documents translated to avoid discrepancies.
 - Double-check the currency conversion rates applicable at the time the income was received.
 - If you encounter issues during validation, refer to detailed guidelines provided by the Portal das Finanças or consult with a tax advisor.
-
-
-
 ## Related Posts
 
 - [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)

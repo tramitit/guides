@@ -45,9 +45,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Preporučuje se podnijeti zahtjev za produženje prije isteka vaše trenutne dozvole. Prekoračenje vaše vize može rezultirati kaznama, uključujući deportaciju i zabrane ponovnog ulaska.
 - Ugovor o najmu treba biti notariziran za uporabu u službenim postupcima. To se može obaviti u lokalnom notarskom uredu.
 - Postupak može trajati od nekoliko tjedana do nekoliko mjeseci. Preporučuje se započeti postupak što prije prije isteka vaše trenutne dozvole.
-
-
-
 ## Related Posts
 
 - [Boravišna dozvola: Postupak i dokumenti za legalan boravak](https://tramitit.com/hr/guides/croatia/izdavanje_boravisne_dozvole_za_strance/)

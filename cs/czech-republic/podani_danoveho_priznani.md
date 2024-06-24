@@ -44,8 +44,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Existují pokuty za pozdní podání daňového přiznání a za pozdní placení daní, kterým lze vyhnout podáním včas. Nicméně jsou zde také ustanovení pro prodloužení termínu pro ty, kteří si najmou daňového poradce.
-
-
 ## Related Posts
 
 - [Placení daní v České republice: Postup a daňové povinnosti](https://tramitit.com/cs/guides/czech-republic/platba_dani/)

@@ -42,8 +42,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 ## Dodatkowe informacje
 Prosimy zauważyć, że procedury i wymagania dokumentów mogą się różnić, dlatego zawsze najlepiej jest skontaktować się bezpośrednio z odpowiednim biurem w celu uzyskania najbardziej precyzyjnych informacji.
 Sprawdź, czy kraj urodzenia dziecka zezwala na podwójne obywatelstwo, ponieważ może to wpłynąć na proces rejestracji.
-
-
 ## Related Posts
 
 - [Rejestracja urodzenia dziecka w Polsce: Procedura i dokumenty](https://tramitit.com/pl/guides/poland/zgloszenie_urodzenia_dziecka/)

@@ -43,8 +43,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Un permis internațional de conducere poate fi necesar în plus față de permisul de conducere din țara ta de origine dacă ești un călător frecvent.
 - Trebuie să ai asupra ta permisul de conducere, documentele de asigurare și cardul de identitate în permanență când conduci în România.
 - Fii conștient de regulile de circulație din România și conduceti în siguranță.
-
-
 ## Related Posts
 
 - [Procedura de înregistrare a vehiculului în România](https://tramitit.com/ro/guides/romania/viza_autovehicul/)

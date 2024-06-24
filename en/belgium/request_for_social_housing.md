@@ -53,8 +53,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 * Asking people to lie about their income to meet the requirements for social housing or any kind of housing is unethical and can lead to severe consequences. Always provide truthful information on your application. 
 
 Understanding these details can help you navigate the social housing system in the Netherlands more effectively.
-
-
 ## Related Posts
 
 - [Belgium Residency Registration: Essential Guide and Requirements](https://tramitit.com/guides/belgium/registration_in_the_population_registers/)

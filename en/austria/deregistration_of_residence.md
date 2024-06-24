@@ -44,8 +44,6 @@ Ensure that you deregister before leaving the country because non-compliance can
 Remember, while deregistration is mainly required for foreigners leaving the respective countries, it is also applicable for those relocating within the country, moving from one city to another.
 
 It is also a good idea to inform your health insurance (Krankenkasse) about your departure, as you may need to terminate or adjust your policy.
-
-
 ## Related Posts
 
 - [Anmeldung: Residence Registration in Germany and Austria Guide](https://tramitit.com/guides/austria/residence_registration/)

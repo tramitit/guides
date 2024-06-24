@@ -51,8 +51,6 @@ _(Estamos a selecionar os melhores prestadores. Se é ou conhece um prestador, p
 - Os não residentes precisam declarar todas as fontes de rendimento geradas em Portugal, mesmo que residam no estrangeiro.
 - Podem aplicar-se penalidades por submissões tardias ou incorretas, por isso é crucial garantir que todas as informações sejam precisas e submetidas atempadamente.
 - Pode estar disponível assistência através de consultores fiscais ou assessorias financeiras especializadas em tributação portuguesa para não residentes.
-
-
 ## Related Posts
 
 - [IRS Anexo I: Guia Completo para Declaração de Rendimentos Estrangeiros](https://tramitit.com/pt/guides/portugal/irs_anexo_i/)

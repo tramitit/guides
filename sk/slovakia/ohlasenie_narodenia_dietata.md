@@ -40,8 +40,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Postup sa môže mierne líšiť v závislosti na vašej krajine a miestnej oblasti, najmä v prípade imigračných rodín. Vždy skontrolujte s miestnym registračným úradom aktuálne informácie. Uistite sa, že meno dieťaťa spĺňa miestne predpisy. Niektoré krajiny majú zákony, ktoré upravujú, ako môže byť dieťa pomenované, preto je najlepšie byť o týchto pravidlách informovaný pred definitívnym stanovením mena vášho dieťaťa.
-
-
 ## Related Posts
 
 - [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)

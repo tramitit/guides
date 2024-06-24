@@ -45,11 +45,10 @@ Por favor ten en cuenta que la validez de los números de NIE no caduca, pero lo
 
 El NIE en sí es gratuito, pero hay una tarifa de "Tasa 012" (actualmente €12) por la emisión del certificado. Después de completar el formulario, deberás imprimirlo, llevarlo a un banco para pagar la tarifa y que te sellen el formulario. Luego llevas este formulario a tu cita.
 
-
 ## Related Posts
 
-- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/es/guides/spain/asignación_de_nie_a_instancia_de_interesado/)
-- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
-- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
-- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
-- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_residente/)
+- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/spanish/guides/spain/asignación_de_nie_a_instancia_de_interesado/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/spanish/guides/spain/cédula_de_inscripción/)
+- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
+- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
+- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_residente/)

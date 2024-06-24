@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you're in Poland, you may also apply for a PESEL number (Polish identity number) which can be useful for various bureaucratic tasks in the country.
 - Ensure the documentation proving your right to citizenship is comprehensive. It's advisable to consult with an expert provider if needed.
 - In the case of citizenship by descent, even if your ancestors left Poland many generations ago, you might still be eligible. As long as the Polish citizenship of your ancestors can be established, you can apply.
-
-
 ## Related Posts
 
 - [How to Apply for a Polish Passport: Procedure and Requirements](https://tramitit.com/guides/poland/passport/)

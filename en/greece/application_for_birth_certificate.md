@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Greek dual citizenship applicants may need to provide additional documents related to their family's heritage. Be aware that application forms and procedures might change over time, so be sure to check the respective country's official government websites for the most up-to-date information. Greeks living abroad can also consult their closest Greek Embassy or Consulate to assist in their application process.
-
-
 ## Related Posts
 
 - [How to Obtain a Marriage Certificate in Greece: Step-by-Step](https://tramitit.com/guides/greece/application_for_marriage_certificate/)

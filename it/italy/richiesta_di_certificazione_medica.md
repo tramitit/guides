@@ -39,8 +39,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Tenete presente che il certificato medico deve essere specifico per l'attività che state per intraprendere. Ad esempio, un certificato per il ciclismo potrebbe non essere valido per una maratona. Consultate sempre l'organizzazione che richiede il certificato per assicurarvi di ottenere la certificazione corretta.
-
-
 ## Related Posts
 
 - [Come Ottenere un Certificato di Matrimonio in Italia](https://tramitit.com/it/guides/italy/richiesta_certificato_di_matrimonio/)

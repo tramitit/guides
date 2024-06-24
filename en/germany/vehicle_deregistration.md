@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 The de-registration process is pretty straightforward and can usually be carried out right away at the local registration office. However, be sure to check the specific operating hours and the availability of services as they might vary depending on the location. 
 
 Saving your Abmeldebescheinigung (de-registration certificate) is extremely important, as it's the proof that you're no longer associated with this vehicle for any fines, penalties or charges.
-
-
 ## Related Posts
 
 - [Guide to Deregistration of Residence (Abmeldung) in Germany](https://tramitit.com/guides/germany/deregistration_of_residence/)

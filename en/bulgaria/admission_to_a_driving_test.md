@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You must be at least 18 years old to apply for a driving license in Bulgaria.
 - Language barriers might be an issue, as many driving schools in Bulgaria offer courses only in Bulgarian.
 - It’s important to consider the laws around substances such as THC levels while driving.
-
-
 ## Related Posts
 
 - [How to Obtain a Driver's License in Bulgaria: Step-by-Step Guide](https://tramitit.com/guides/bulgaria/issuance_of_a_drivers_license/)

@@ -67,11 +67,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Contact Information:**
   - For any specific inquiries, you can contact the archive directly via the contact details provided on the Ministry's website.
 
-
 ## Related Posts
 
-- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/guides/spain/criminal_record_certificate/)
-- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)
-- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/guides/spain/certificate_of_sexual_offenses/)
-- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)
-- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/guides/spain/criminal_background_certificate_request/)
+- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/english/guides/spain/criminal_record_certificate/)
+- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/english/guides/spain/criminal_background_certificate_request/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/death_certificate/)
+- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/english/guides/spain/certificate_of_sexual_offenses/)
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/english/guides/spain/marriage_certificate/)

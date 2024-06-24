@@ -44,8 +44,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 
 ## Detalhes Adicionais
 Lembre-se de verificar os requisitos e procedimentos específicos para o seu consulado local, pois pode haver variações dependendo da sua localização. Você pode ser solicitado a apresentar identificação adicional durante o seu horário agendado, e pode haver requisitos específicos para as fotografias. Sempre verifique as taxas e os métodos de pagamento com o seu consulado, pois estes podem variar.
-
-
 ## Related Posts
 
 - [Descubra Como Renovar Seu Cartão de Cidadão Português](https://tramitit.com/pt/guides/portugal/renovacao_de_cartao_de_cidadao/)

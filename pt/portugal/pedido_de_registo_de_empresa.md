@@ -43,8 +43,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Residentes não europeus podem precisar estabelecer uma filial ou subsidiária de uma empresa-mãe para se estabelecer em Portugal.
 - Portugal atualmente não permite duas empresas com o mesmo nome exato. Portanto, é importante confirmar a disponibilidade do nome da empresa primeiro.
 - Se você deseja investir em setores sensíveis ou protegidos, como mídia, pode haver requisitos regulatórios adicionais.
-
-
 ## Related Posts
 
 - [Registo de Nascimento de Cidadão Estrangeiro em Portugal](https://tramitit.com/pt/guides/portugal/registo_de_nascimento_de_cidadao_estrangeiro_em_portugal/)

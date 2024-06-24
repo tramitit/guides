@@ -47,8 +47,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Il est crucial de fournir toutes les informations correctes et les documents nécessaires pour la demande. Toute forme de fausse déclaration pourrait entraîner des accusations de fraude. Les différents pays ont des conditions différentes pour la qualification aux allocations familiales, assurez-vous de vérifier sur le site Web de votre gouvernement respectif.
-
-
 ## Related Posts
 
 - [Aide au Logement: Procédure, Documents Requis, Détails](https://tramitit.com/fr/guides/france/demande_daide_au_logement/)

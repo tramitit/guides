@@ -43,8 +43,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 - Prywatne ubezpieczenia zdrowotne, takie jak Luxmed i Medicover, oferują różne rodzaje pakietów, dostosowanych do różnych indywidualnych potrzeb. Możesz wybrać jeden zależnie od swoich wymagań i budżetu.
 - Dla NFZ, nawet jeśli jesteś samozatrudniony lub prowadzisz firmę, musisz opłacać składki ZUS, wypełniając formularz DRA.
 - Pamiętaj, że nawet jeśli masz prywatne ubezpieczenie zdrowotne, nadal możesz korzystać z publicznego ubezpieczenia zdrowotnego. Obie opcje nie wykluczają się wzajemnie.
-
-
 ## Related Posts
 
 - [Zasiłek dla bezrobotnych: Jak ubiegać się o pomoc finansową](https://tramitit.com/pl/guides/poland/zasilek_dla_bezrobotnych/)

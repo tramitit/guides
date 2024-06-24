@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If you're living abroad, it might be helpful to ask someone you trust in Italy to help with the process.
 - If you can't get the certificate because you're unable to provide enough details for your request, you might consider getting a 'Certificate of Non-existence' from USCIS to prove that you attempted to obtain it. 
 - Also, you might want to consider hiring a professional investigator if you're having trouble tracking down the necessary information.
-
-
 ## Related Posts
 
 - [How to Request a Birth Certificate from Italy: A Step-by-Step Guide](https://tramitit.com/guides/italy/birth_certificate_request/)

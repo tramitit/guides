@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please remember that the procedure takes time, and it's normal for it to take up to several months, especially during peak times. If you haven't heard back in a while, try to get in touch with them directly. It can be a long process, but once you're registered, it's much easier to manage your healthcare and benefits in France.
-
-
 ## Related Posts
 
 - [Guide to Retirement Pensions in France: Eligibility and Application](https://tramitit.com/guides/france/retirement_pension_application/)

@@ -43,8 +43,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 Anche se il processo potrebbe sembrare semplice, ricorda che potrebbe richiedere del tempo a causa del lento ritmo delle procedure burocratiche in Italia, specialmente nei Comuni più piccoli. Potrebbe essere utile avere pazienza e avviare il processo con largo anticipo rispetto alla data in cui hai bisogno del certificato.
 
 Se non sei fluente in italiano, considera di chiedere aiuto per tradurre la tua richiesta per assicurarti che non ci siano fraintendimenti.
-
-
 ## Related Posts
 
 - [Certificato di Stato Civile: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/certificato_di_stato_civile/)

@@ -41,9 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 While some countries, like Norway, require a visa to seek asylum, others like Slovakia, do not require a visa for the registration process. However, note that each country has their own process and requirements for granting humanitarian residence. 
 
 Remember that it is also possible to seek help from organizations that specialize in assisting refugees or asylum seekers. They can provide much-needed advice and aid during this process. The [UN Refugee Agency (UNHCR)](https://www.unhcr.org/) is one of such organizations.
-
-
-
 ## Related Posts
 
 - [Guide to Foreign National Registration in Slovakia](https://tramitit.com/guides/slovakia/registration_of_a_foreign_national/)

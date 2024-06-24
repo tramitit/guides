@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 It’s important to remember that the proof of residence procedure can vary between countries and even states, so it’s crucial to research the rules applicable to your specific location. The timeline of processing could vary greatly as well, so ensure you request your documents well in advance. 
 
 Note: In some EU countries, you need to live for at least five years without interruption to gain proof of residence or permanent resident status. However, this can vary depending on individual policy of the specific country.
-
-
 ## Related Posts
 
 - [Austrian Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/austria/residence_permit_application/)

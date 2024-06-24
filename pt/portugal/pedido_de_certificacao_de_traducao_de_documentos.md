@@ -42,8 +42,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Alguns documentos podem exigir um nível adicional de certificação conhecido como Apostila, que certifica a autenticidade da assinatura na tradução.
 - Em alguns casos, você pode precisar autenticar seus documentos traduzidos. Os notários públicos não podem certificar a precisão da tradução, mas podem reconhecer a identidade da pessoa que está assinando a declaração de certificação.
 - A tradução de alguns documentos legais pode exigir que a tradução certificada seja aprovada pelo consulado ou embaixada do país onde será utilizada. Certifique-se de conhecer esses requisitos antes de fazer sua solicitação de tradução certificada.
-
-
 ## Related Posts
 
 - [Certificação de Documentos: Processo e Prestadores de Serviços](https://tramitit.com/pt/guides/portugal/pedido_de_certificacao_de_documentos/)

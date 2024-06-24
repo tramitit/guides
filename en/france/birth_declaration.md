@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If the fifth day after the birth is a Saturday, a Sunday, a holiday, or a day ordinarily nonworking, the period is extended until the first following working day.
 - If you do not declare the birth yourself, the doctor or midwife who attended the birth, a relative or any person in charge of your household, can do it on your behalf. 
 - The birth certificate will then be delivered following the official registration of the birth.
-
-
 ## Related Posts
 
 - [Death Declaration in France: Steps, Documents, and Providers](https://tramitit.com/guides/france/death_declaration/)

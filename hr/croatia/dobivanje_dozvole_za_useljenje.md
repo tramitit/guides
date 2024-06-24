@@ -43,8 +43,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 | Davatelj | Web stranica | Vremenski okviri | Trošak |
 | --------------- | --------------- | :-------------: | :-------------: |
-
-
 ## Related Posts
 
 - [Boravišna dozvola: Postupak i dokumenti za legalan boravak](https://tramitit.com/hr/guides/croatia/izdavanje_boravisne_dozvole_za_strance/)

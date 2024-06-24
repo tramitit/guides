@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Some foreign qualifications may need to be recognized in Germany. More on this can be found [here](https://www.anerkennung-in-deutschland.de/html/en/index.php). 
 - It's important to ensure you have adequate health insurance, which is a mandatory requirement. More about health insurance in Germany can be read [here](https://www.krankenkassen.de/). 
 - Fees vary depending on the specific type of residence title you are applying for. The Foreigners Authority website will provide the most accurate fee structure.
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Permit in Germany: Key Steps](https://tramitit.com/guides/germany/applying_for_a_residence_permit/)

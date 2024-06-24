@@ -48,8 +48,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 - Az EU-s fogyatékossági parkolási engedélyek elfogadottak, és igényelhetnek parkolási engedélyt.
 
 További információkért lépjen kapcsolatba a Kormányablak vagy a BKK ügyfélszolgálati központjaival.
-
-
 ## Related Posts
 
 - [Airbnb Engedély: Kiadás Hivatalos Engedéllyel a Városi Bérléshez](https://tramitit.com/hu/guides/hungary/airbnb_engedely_igenylese/)

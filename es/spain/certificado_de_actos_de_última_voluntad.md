@@ -40,11 +40,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Detalles Adicionales
 Ten en cuenta que los tiempos de procesamiento pueden variar dependiendo de la época del año y la carga de trabajo de la oficina de registro. Asegúrate de que todos los documentos estén completados correctamente y presentados para evitar retrasos.
 
-
 ## Related Posts
 
-- [Cómo obtener un Certificado de Últimas Voluntades en España](https://tramitit.com/es/guides/spain/obtencion_del_certificado_de_ultimas_voluntades/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
-- [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_de_defuncion/)
-- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
-- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/certificado_de_antecedentes_penales/)
+- [Cómo obtener un Certificado de Últimas Voluntades en España](https://tramitit.com/spanish/guides/spain/obtencion_del_certificado_de_ultimas_voluntades/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/spanish/guides/spain/certificado_de_defunción/)
+- [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/spanish/guides/spain/inscripcion_de_defuncion/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/spanish/guides/spain/certificado_de_matrimonio/)
+- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/spanish/guides/spain/certificado_de_antecedentes_penales/)

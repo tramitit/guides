@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If the vehicle has been imported, insurance and vehicle pollution tax (impozitul auto pentru poluare) need to be paid as well.
 - Please note that all the documents should be translated into Romanian.
 - It’s best to consult professional help or specific service providers to assist in the process, especially in case of a language barrier or unfamiliarity with the Romanian bureaucracy.
-
-
 ## Related Posts
 
 - [Car Registration in Romania: Mandatory Process and Requirements](https://tramitit.com/guides/romania/car_registration/)

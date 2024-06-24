@@ -45,8 +45,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Nezabudnite skontrolovať otváracie hodiny a pracovné dni Matričného úradu, pretože sa môžu líšiť v závislosti od lokality. Niektoré úrady môžu tiež vyžadovať vopred dohodnutý termín. Doba spracovania a náklady sa môžu líšiť, preto je odporúčané overiť tieto podrobnosti pri podaní žiadosti.
-
-
 ## Related Posts
 
 - [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)

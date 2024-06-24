@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please keep in mind that once the application is submitted, the process can take upto a year. Applicants will also have to pass an interview about their knowledge of France, its culture and society. French Nationality is granted at the discretion of the government even if all the conditions are met.
-
-
 ## Related Posts
 
 - [National Identity Card in France: Procedure, Requirements, Providers](https://tramitit.com/guides/france/national_identity_card_application/)

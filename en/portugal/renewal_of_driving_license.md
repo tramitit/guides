@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The pricing and procedure can vary from place to place. In some cases, you may need to apply through a consulate or local embassy. Additionally, some governments may have requirements for residents to convert to local driving licenses after a certain period of time living in the country. Make sure to check the local regulations thoroughly before and during the renewal process.
-
-
 ## Related Posts
 
 - [Renew Your Student ID in Portugal - Step-by-Step Guide](https://tramitit.com/guides/portugal/renewal_of_student_card_for_foreigners/)

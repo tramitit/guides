@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Registration plates in Poland consist of two parts separated by a hyphen: the first part refers to the Powiat (County), and the second part is a unique number for your vehicle. Successful processing of your application will result in assignment of such plates.
-
-
 ## Related Posts
 
 - [Guide to Changing Vehicle Registration Certificate in Poland](https://tramitit.com/guides/poland/change_of_registration_certificate/)

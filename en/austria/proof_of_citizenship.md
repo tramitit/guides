@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Your provincial government office will be able to provide more accurate time and cost estimates as they vary based on individual circumstances. It is important to note that acquiring proof of citizenship may be a complex process depending on your individual circumstances, so getting legal advice or assistance can be helpful.
 One important note is that Austria generally does not accept dual citizenship, so you might have to renounce former nationality. Always check the current laws about citizenship when proceeding.
-
-
 ## Related Posts
 
 - [Marriage Certificate Application Process in Austria Explained](https://tramitit.com/guides/austria/marriage_certificate_application/)

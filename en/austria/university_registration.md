@@ -60,8 +60,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Learning the basics of the German language could be helpful as most degree programs in Austrian universities are taught in German.
 - Austria has a well-established public transport system, it would be wise to familiarize yourself with it.
 - The academic year in Austria typically starts in September or October and ends in June or July.
-
-
 ## Related Posts
 
 - [Guide for International Students Registering in Austrian Schools](https://tramitit.com/guides/austria/school_registration/)

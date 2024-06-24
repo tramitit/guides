@@ -40,11 +40,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 Make sure to apply for rental assistance as soon as you predict that you might start struggling to pay rent. The process can take several weeks, so it's important to get a head start. Also, keep in mind that each city, county, or state might have its own rental assistance programs so research about the programs available in your area.
 
-
 ## Related Posts
 
-- [Financial Aids for Large Families: Eligibility and Application](https://tramitit.com/guides/spain/economic_assistance_for_large_families/)
-- [How to Apply for Educational Scholarships Successfully](https://tramitit.com/guides/spain/request_educational_scholarships/)
-- [Guide to Applying for Asylum in Spain: Step-by-Step Process](https://tramitit.com/guides/spain/asylum_application/)
-- [Complete Guide to Filing Income Tax Returns in Spain](https://tramitit.com/guides/spain/income_tax_return_filing/)
-- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
+- [Financial Aids for Large Families: Eligibility and Application](https://tramitit.com/english/guides/spain/economic_assistance_for_large_families/)
+- [How to Apply for Educational Scholarships Successfully](https://tramitit.com/english/guides/spain/request_educational_scholarships/)
+- [Guide to Applying for Asylum in Spain: Step-by-Step Process](https://tramitit.com/english/guides/spain/asylum_application/)
+- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/english/guides/spain/child_benefit_application/)
+- [Complete Guide to Filing Income Tax Returns in Spain](https://tramitit.com/english/guides/spain/income_tax_return_filing/)

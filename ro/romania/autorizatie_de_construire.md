@@ -47,8 +47,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 - Permisele au o perioadă de valabilitate și construcția trebuie să înceapă și să se încheie în acea perioadă.
 - Legalitatea aranjamentelor de locuire off-grid, cum ar fi casele mici, necesită o cercetare atentă a codurilor de construcție locale și naționale și a reglementărilor de zonare.
 - Cererea și procedura de obținere a permisului pot varia în funcție de natura și complexitatea proiectului de construcție, inclusiv, dar fără a se limita la proiecte rezidențiale, comerciale, municipale și de infrastructură.
-
-
 ## Related Posts
 
 - [Obținerea Permisiunii de Funcționare pentru Companii în România](https://tramitit.com/ro/guides/romania/autorizatie_de_functionare_pentru_firme/)

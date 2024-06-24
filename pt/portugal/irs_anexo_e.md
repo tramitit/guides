@@ -71,8 +71,6 @@ _(Estamos atualmente a selecionar os melhores prestadores. Se é ou conhece algu
 ## Detalhes adicionais
 - Garanta que todos os montantes sejam introduzidos em Euros.
 - É crucial verificar se existem atualizações ou alterações ao formulário ou procedimentos no [Portal das Finanças](https://www.portaldasfinancas.gov.pt/), uma vez que os regulamentos e formulários podem ser atualizados periodicamente.
-
-
 ## Related Posts
 
 - [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)

@@ -39,9 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In some cases, updating your location might affect the services and functionalities of the platform you are using. Always check the app/platform details on location changing procedures.
-
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Resident Card in France: Steps & Requirements](https://tramitit.com/guides/france/resident_card_application/)

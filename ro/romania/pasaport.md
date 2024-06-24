@@ -47,8 +47,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 Website-ul de mai sus este pentru Serviciul Public Comunitar pentru Evidența Persoanelor (SPCERP), biroul principal responsabil de emiterea pașapoartelor în România. Timpul de eliberare a pașaportului poate varia în funcție de volumul de lucru la momentul aplicării.
 
 NOTĂ: România face parte din Uniunea Europeană, dar nu face parte din Spațiul Schengen. Intrarea sau ieșirea din România poate să nu ducă la un ștampila pe pașaport în funcție de circumstanțele exacte ale călătoriei dumneavoastră și politicile specifice ale punctului de intrare/ieșire. Vă rugăm să verificați cu autoritatea locală de control la frontieră pentru confirmare.
-
-
 ## Related Posts
 
 - [Ghid Reînnoire Pașaport Românesc: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/reinnoire_pasaport/)

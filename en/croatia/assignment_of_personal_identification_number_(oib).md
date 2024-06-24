@@ -53,8 +53,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 There is no direct online application process. Therefore, the only way to obtain an OIB is by visiting a tax office physically. The OIB remains valid for a lifetime, irrespective of changes in personal status, domicile, residency or citizenship.
-
-
 ## Related Posts
 
 - [Applying for a National ID Card in Croatia: Full Guide](https://tramitit.com/guides/croatia/issuance_of_id_card/)

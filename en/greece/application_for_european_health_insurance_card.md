@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The card is not an alternative to travel insurance. It does not cover any private healthcare or costs such as a return flight to your home country or lost/stolen property.
 - Despite being a EU initiative, Switzerland is also part of the EHIC program.
 - The card grants you access to medical treatment under the same conditions and at the same cost as people insured in that country. However, do note that healthcare systems vary from one country to another, and so does the treatment you receive.
-
-
 ## Related Posts
 
 - [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)

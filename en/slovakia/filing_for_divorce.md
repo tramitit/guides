@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
  The duration of the whole divorce process can vary significantly based on factors such as the willingness of the parties to cooperate, the complexity of the divorce case, and the capacity of the court.
 Also, the divorce can have several implications including division of property and assets, child custody, and alimony. It's recommended to get proper legal advice before filing for a divorce.
-
-
 ## Related Posts
 
 - [How to Obtain a Death Certificate: Steps and Requirements](https://tramitit.com/guides/slovakia/issuance_of_death_certificate/)

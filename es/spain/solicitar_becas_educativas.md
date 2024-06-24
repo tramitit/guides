@@ -46,11 +46,10 @@ Diferentes becas tienen diferentes requisitos de elegibilidad, por lo que es imp
 
 Recuerda, solicitar becas puede ser un proceso competitivo, pero al poner esfuerzo y tiempo, potencialmente puedes ahorrar miles de dólares en costos educativos.
 
-
 ## Related Posts
 
-- [Cómo Solicitar Asistencia para el Alquiler: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_ayuda_para_el_alquiler/)
-- [Ayudas Financieras para Familias Numerosas: Cómo Solicitarlas](https://tramitit.com/es/guides/spain/solicitud_de_ayudas_economicas_para_familias_numerosas/)
-- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
-- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/es/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
-- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_prestacion_por_desempleo/)
+- [Cómo Solicitar Asistencia para el Alquiler: Guía Completa](https://tramitit.com/spanish/guides/spain/solicitud_de_ayuda_para_el_alquiler/)
+- [Ayudas Financieras para Familias Numerosas: Cómo Solicitarlas](https://tramitit.com/spanish/guides/spain/solicitud_de_ayudas_economicas_para_familias_numerosas/)
+- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/spanish/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
+- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/spanish/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
+- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/spanish/guides/spain/solicitud_de_prestacion_por_desempleo/)

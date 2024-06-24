@@ -50,8 +50,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Ensure you apply as soon as the scholarship opportunity opens, as some scholarships have limited places and get filled quickly. Always ensure you meet all requirements before applying to improve your chances of success. Remember, it's not always about academic success - cultural exchanges, sports, and community service are also valued. Make your application stand out!
-
-
 ## Related Posts
 
 - [Comprehensive Guide to Scholarships for All Levels of Study](https://tramitit.com/guides/france/scholarship_application/)

@@ -36,8 +36,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 If there are multiple people in a household, this fee is shared among all, and it is just paid once per household rather than per person. If you move, it's your responsibility to update your new address on the website. Importantly, not paying the broadcasting fee can result in penalties, and it is regarded as a regulatory offence in Germany.
-
-
 ## Related Posts
 
 - [Anmeldung in Germany: Residence Registration Guide](https://tramitit.com/guides/germany/registration_of_residence/)

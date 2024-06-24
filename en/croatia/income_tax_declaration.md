@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 It's important to note that the deadlines for tax declaration submission usually are in the beginning of the year, typically end of February. The exact date can change each year, so it's best to check with your local tax office or their official website for the most accurate information.
   
 It might be beneficial for certain individuals such as freelancers to check specific rules and regulations related to their situation. Tax law can be complex and specific to each case, and this guide is a general approach. For more accurate information and advice, it's always best to consult with a tax professional or a tax authority website.
-
-
 ## Related Posts
 
 - [Guide to Officially Changing Your Residence Address](https://tramitit.com/guides/croatia/change_of_residence/)

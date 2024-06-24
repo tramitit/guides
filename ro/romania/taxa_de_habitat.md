@@ -41,8 +41,6 @@ _(Selectăm în prezent cei mai buni furnizori. Dacă ești sau cunoști un furn
 
 ## Detalii suplimentare
 Vă rugăm să rețineți că pot exista reguli și scutiri diferite în funcție de circumstanțele specifice ale contribuabilului. Consultați întotdeauna legile locale sau un consilier financiar pentru sfaturi mai personalizate. Neconformarea cu obligațiile fiscale poate duce la penalități și consecințe legale.
-
-
 ## Related Posts
 
 - [Impozitul pe proprietate în România: Ghid complet și proceduri](https://tramitit.com/ro/guides/romania/impozit_pe_proprietati/)

@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Childcare allowance amount varies according to several factors, such as the parent's income and the number of children in the family. The statutory minimum period for this type of leave is one year, but it can be extended up to two years, or even three years in special cases. Parents who decide to work part-time while receiving the allowance need to comply with specific regulations. Failing to meet these can result in penalties.
-
-
 ## Related Posts
 
 - [How to Obtain an Income Certificate in Romania: Step-by-Step Guide](https://tramitit.com/guides/romania/income_certificate/)

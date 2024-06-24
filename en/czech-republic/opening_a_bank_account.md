@@ -50,9 +50,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Some of these banks might require you to maintain a certain minimum balance in your account, and the banking services come with various fees, including for account maintenance and transactions. These specifics vary from bank to bank.
-
-
-
 ## Related Posts
 
 - [How to Get an ID Card in the Czech Republic: Requirements & Steps](https://tramitit.com/guides/czech-republic/application_for_issuing_an_id_card/)

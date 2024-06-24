@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 • Deadlines to complete a name change process can vary depending on your local jurisdiction.
 • There might be additional step of court hearing to finalize the name change depending on your local jurisdiction.
 • Always remember to update all key institutions, such as banks, health care providers and the post office of your new name.
-
-
 ## Related Posts
 
 - [Change ID Card Information: Process and Requirements Guide](https://tramitit.com/guides/czech-republic/application_for_change_of_data_in_the_id_card/)

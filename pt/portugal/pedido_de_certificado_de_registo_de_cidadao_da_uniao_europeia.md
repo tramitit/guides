@@ -36,8 +36,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 | :-------------: | :-------------: |  :-------------: | :-------------: |
 ## Detalhes adicionais
 Lembre-se de que o processo pode variar ligeiramente dependendo da cidade ou freguesia. É recomendável entrar em contato com o seu escritório local específico antecipadamente para confirmar seus requisitos. Uma vez que você tenha obtido o seu Certificado de Registo, é importante carregá-lo consigo o tempo todo enquanto estiver em Portugal.
-
-
 ## Related Posts
 
 - [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)

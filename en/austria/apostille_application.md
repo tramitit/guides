@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
  
 
 Remember to check with the authorities or entities requesting your document whether they require it to be apostilled. Also, keep in mind that the process may take a few weeks, so plan this well in advance of your application deadlines or departure date.
-
-
 ## Related Posts
 
 - [How to Obtain a Birth Certificate in Austria: A Complete Guide](https://tramitit.com/guides/austria/birth_certificate_application/)

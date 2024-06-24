@@ -48,8 +48,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 
 ## Dodatne pojedinosti
 U nekim slučajevima, ako je potrebno dostaviti ovu potvrdu stranom tijelu, može biti potrebno prevesti je i ovjeriti. Također, neke zemlje zahtijevaju da certifikat bude izdan nedavno, tj. unutar određenog vremenskog perioda prije podnošenja zahtjeva. Visoko je preporučljivo potvrditi to s tijelom, organizacijom ili institucijom koja od vas zahtijeva ovaj dokument.
-
-
 ## Related Posts
 
 - [Postupak Stjecanja Potvrde Hrvatskog Državljanstva](https://tramitit.com/hr/guides/croatia/izdavanje_domovnice/)

@@ -45,8 +45,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 
 ## Dodatkowe informacje
 Całkowity czas może znacząco się różnić w zależności od powodu zmiany nazwiska. Banki i inne prywatne firmy mają swoje własne zasady i procedury dotyczące procesowania zmian nazwisk. W każdym przypadku możesz być zobowiązany do przedstawienia dokumentów uzasadniających zmianę nazwiska, jak świadectwo małżeństwa. Sprawdź z każdym z nich, co musisz zrobić.
-
-
 ## Related Posts
 
 - [Zmiana Nazwiska: Procedura, Wymagane Dokumenty i Porady](https://tramitit.com/pl/guides/poland/zgloszenie_zmiany_imienia/)

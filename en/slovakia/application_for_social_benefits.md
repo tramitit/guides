@@ -41,9 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Social benefits in Slovakia are divided into different categories, each of which has its own eligibility criteria and application process. Therefore, it's important to do your research to understand which benefits you may be eligible for, and how to apply for them. Also note that the social benefits system in Slovakia may undergo changes from time to time, so always check for the latest information. If you’re unsure about anything, it may be beneficial to speak with a social worker or similar professional who can guide you through the process.
-
-
-
 ## Related Posts
 
 - [Social Scholarships in Slovakia: Financial Support for Students](https://tramitit.com/guides/slovakia/application_for_social_scholarship/)

@@ -40,8 +40,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 
 ## Dodatkowe informacje
 Warto zauważyć, że nie wszystkie towary kwalifikują się do zwrotu VAT. Pewne wydatki, takie jak noclegi w hotelu czy posiłki w restauracji, zazwyczaj nie są wliczane. Zwrot może potrwać pewien czas (nawet kilka tygodni), dlatego zaplanuj odpowiednio. Ponadto niektóre sklepy mogą nie brać udziału w programach zwrotu VAT, a niektóre mogą wyznaczyć minimalną kwotę zakupu, aby się kwalifikować, dlatego zawsze lepiej zapytać przed dokonaniem zakupu.
-
-
 ## Related Posts
 
 - [Podatek PIT w Polsce: Jak złożyć deklarację podatkową](https://tramitit.com/pl/guides/poland/deklaracja_podatkowa_pit/)

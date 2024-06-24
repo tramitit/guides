@@ -45,8 +45,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - É crucial respeitar o alvará de construção, ou enfrentar possíveis multas ou ordens para interromper a construção.
 - Os prazos para obter um alvará podem variar bastante de acordo com a autarquia e a complexidade do projeto.
 - É aconselhável consultar profissionais para garantir um processo tranquilo.
-
-
 ## Related Posts
 
 - [Licença de Habitação em Portugal: Processo e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_licenca_de_habitacao/)

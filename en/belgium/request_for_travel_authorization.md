@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Travel authorization or visas can be denied for various reasons; it's always important to apply in good time and provide full and accurate information. Always consult the relevant embassy or consulate’s website for up-to-date information regarding visa requirements as they're subject to change.
-
-
 ## Related Posts
 
 - [How to Apply for a Belgian Visa: Step-by-Step Guide](https://tramitit.com/guides/belgium/request_for_visa/)

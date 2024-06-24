@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If the applicant is not born in France, additional documents pertaining to nationality may be required.
 - Applications for renewal can be made up to two years before the expiration date.
 - National Identity Cards in France are usually valid for 15 years for adults and 10 years for minors.
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Resident Card in France: Steps & Requirements](https://tramitit.com/guides/france/resident_card_application/)

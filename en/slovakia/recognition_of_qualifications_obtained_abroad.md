@@ -50,8 +50,6 @@ Keep up to date with changes to these regulations due to Brexit or the COVID-19 
 Plan ahead: this process may take several weeks or even months, depending on the country and the qualification. 
 
 Some countries do not directly recognize foreign qualifications but rather allow you to sit for a local examination or accreditation program. It's important to know what options are available in your destination country.
-
-
 ## Related Posts
 
 - [Foreign Driver's License Exchange: Steps & Requirements Guide](https://tramitit.com/guides/slovakia/exchange_of_foreign_drivers_license/)

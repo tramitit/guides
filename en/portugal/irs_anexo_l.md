@@ -52,8 +52,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Non-residents need to declare all sources of income generated within Portugal, even if they reside abroad.
 - Penalties might apply for late or incorrect submissions, so it is crucial to ensure that all information is accurate and submitted on time.
 - Assistance might be available through tax consultants or professional financial advisors specializing in Portuguese taxation for non-residents.
-
-
 ## Related Posts
 
 - [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)

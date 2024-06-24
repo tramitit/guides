@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 It's crucial to gather as much evidence as possible to support your claim. This includes medical records, letters from healthcare professionals, and even testimonials from people who can vouch for your situation. 
 
 Note: It may take a while for the application to be processed and for payments to begin. It's important to start this process as early as possible and to check on the status of your application regularly. Also, remember that the amount of the allowance you receive may depend on other income.
-
-
 ## Related Posts
 
 - [Childcare Allowance in Romania: Financial Support for Parents](https://tramitit.com/guides/romania/childcare_allowance/)

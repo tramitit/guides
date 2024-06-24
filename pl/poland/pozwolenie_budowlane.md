@@ -48,8 +48,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 - Obywatele niepolskiego pochodzenia mogą ubiegać się o pozwolenie na budowę, jednak mogą wystąpić dodatkowe wymagania lub dłuższe terminy.
 - W przypadku sprzeciwów sąsiadów lub innych stron, postępowanie w sprawie uzyskania pozwolenia na budowę może być opóźnione. Wskazane jest poinformowanie sąsiadów o swoich planach, jeśli to możliwe.
 - Pozwolenie zazwyczaj jest ważne przez trzy lata, w ciągu których powinien rozpocząć się proces budowy.
-
-
 ## Related Posts
 
 - [Zezwolenie na Pracę w Polsce: Procedura i Wymagane Dokumenty](https://tramitit.com/pl/guides/poland/pozwolenie_na_prace_dla_cudzoziemcow/)

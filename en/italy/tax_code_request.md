@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 While the Codice Fiscale is immediately necessary for most activities, there have been instances where users have been able to secure services like phone contracts without one. However, having an Italian Tax Code will make any administrative dealings in Italy significantly smoother.
-
-
 ## Related Posts
 
 - [How to Change Your Tax Code in Italy: A Complete Guide](https://tramitit.com/guides/italy/tax_code_change/)

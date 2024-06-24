@@ -41,8 +41,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 ## Dettagli aggiuntivi
 - Se il defunto non ha lasciato un testamento, secondo la legge italiana, l'eredità passa ai parenti più prossimi.
 - L'imposta di successione in Italia varia a seconda del rapporto con il defunto. Ad esempio, coniugi e figli hanno significative detrazioni fiscali.
-
-
 ## Related Posts
 
 - [Dichiarazione di Morte in Italia: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/denuncia_di_morte/)

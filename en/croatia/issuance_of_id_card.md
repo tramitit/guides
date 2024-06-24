@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For foreigners, ID cards are issued for the duration of their fixed-term residence. 
 - Biometric data in Croatian ID cards meets the security standards.
 - The new Croatian ID cards issued from August 2021 have an updated design and additional security features.
-
-
 ## Related Posts
 
 - [How to Obtain Your Personal Identification Number (OIB) in Croatia](https://tramitit.com/guides/croatia/assignment_of_personal_identification_number_(oib)/)

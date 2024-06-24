@@ -41,8 +41,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 N'oubliez pas que selon les conditions du fournisseur de transport, votre réduction étudiante peut ne s'appliquer qu'à certaines lignes ou horaires. Assurez-vous toujours d'avoir votre carte d'identité étudiante ou votre carte de transport avec la réduction étudiante lorsque vous utilisez les transports en commun.
-
-
 ## Related Posts
 
 - [Parking Permit: How to Apply, Requirements & Providers](https://tramitit.com/fr/guides/belgium/demande_de_carte_de_stationnement/)

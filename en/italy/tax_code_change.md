@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's important to get this change done as soon as possible to avoid potential issues with tax filings. Bear in mind that you may also have to update this information with other institutions such as your bank. For any queries or doubts, it's advisable to contact Agenzia delle Entrate directly or seek the help of a tax professional. In addition, using services like [Revolut](https://www.revolut.com/) for online banking may require you to update your tax code information with them separately.
-
-
 ## Related Posts
 
 - [How to Obtain an Italian Tax Code: Step-by-Step Guide](https://tramitit.com/guides/italy/tax_code_request/)

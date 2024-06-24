@@ -43,11 +43,10 @@ Cualquier individuo que resida en España y posea activos extranjeros con un val
 - **Requisitos Anuales:** La declaración solo es obligatoria en años posteriores si el valor total de cualquier categoría aumenta en más de €20,000 en comparación con la declaración anterior.
 - **Nómadas Digitales:** Aquellos que poseen visas de nómadas digitales españolas y residen en España también están sujetos al Modelo 720 si sus activos extranjeros cumplen con el umbral.
 
-
 ## Related Posts
 
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
-- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
-- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/es/guides/spain/modelo_347/)
-- [Guía Completa del Modelo 130: Impuestos Trimestrales en España](https://tramitit.com/es/guides/spain/modelo_130/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
+- [Guía Esencial para la Declaración del Modelo 721 en España](https://tramitit.com/spanish/guides/spain/modelo_721/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
+- [Modelo 210 - Impuestos para No Residentes en España](https://tramitit.com/spanish/guides/spain/modelo_210/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/spanish/guides/spain/modelo_190/)
+- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/spanish/guides/spain/modelo_347/)

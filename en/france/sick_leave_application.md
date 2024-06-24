@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Applying for a sick leave is the same in case of physical and mental illnesses. In France, workers are entitled to daily allowances if they have worked for at least 200 hours during the three months prior to stopping work.
 - In Switzerland, employees who are unable to work, due to illness, by more than 25% are entitled to daily allowances from the third week following the illness. 
 - Depending on the contract and the company policy, the employer might have the right to commission a second medical opinion to determine the validity of the sick leave.
-
-
 ## Related Posts
 
 - [Understanding Daily Allowance for Employees in France](https://tramitit.com/guides/france/daily_allowance_application/)

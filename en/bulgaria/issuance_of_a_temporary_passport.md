@@ -47,9 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You may need an appointment, some embassies or consulates do require this.
 - Some countries do not allow entry with a temporary passport, always check the requirements of your destination country.
 - Your temporary passport may only be valid for a year and not renewable.
-
-
-
 ## Related Posts
 
 - [Essential Guide to Obtaining a Passport in Bulgaria](https://tramitit.com/guides/bulgaria/issuance_of_a_passport/)

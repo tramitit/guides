@@ -50,8 +50,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - Často se doporučuje provést předkonzultaci s obecním úřadem, abyste porozuměli specifickým požadavkům vašeho projektu.
 - Termíny pro získání stavebního povolení se mohou významně lišit v závislosti na složitosti projektu, přesnosti poskytnutých dokumentů a pracovní zátěži správního úřadu.
 - Náklady spojené se získáním stavebního povolení se mohou také lišit v závislosti na lokalitě, velikosti a složitosti vašeho projektu. Tyto náklady mohou zahrnovat poplatky vlády, poplatky architektů/inženýrů a další související náklady.
-
-
 ## Related Posts
 
 - [Nákup stavebního pozemku: Postup, dokumenty a podrobnosti](https://tramitit.com/cs/guides/czech-republic/zadost_o_ziskani_stavebniho_pozemku/)

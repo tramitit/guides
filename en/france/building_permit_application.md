@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The duration of the permit application process can vary depending on the local authority and the complexity of the work. If permission is refused, you can modify your plans and resubmit or appeal the decision. Remember that working without a permit where one is required can result in penalties and extra costs.
-
-
 ## Related Posts
 
 - [Demolition Permit Guide: Requirements and Process in France](https://tramitit.com/guides/france/demolition_permit_application/)

@@ -44,8 +44,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Doby zpracování se mohou výrazně lišit v závislosti na několika faktorech, včetně místa podání žádosti, objemu žádostí a času v roce. Všimněte si, že doby zpracování mohou být výrazně delší během rušných cestovních období. Pro nejaktuálnější informace pravidelně kontrolujte webové stránky Ministerstva vnitra.
-
-
 ## Related Posts
 
 - [Jak získat občanský průkaz v České republice - Postup a dokumenty](https://tramitit.com/cs/guides/czech-republic/zadost_o_vydani_obcanskeho_prukazu/)

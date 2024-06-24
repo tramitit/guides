@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 The cost may vary depending on the medical professional and individual health insurance policy. If participating in a marathon, please check with the event organizers for any specific requirements or guidelines regarding health certificates.
-
-
 ## Related Posts
 
 - [How to Apply for a Marriage Certificate in Hungary](https://tramitit.com/guides/hungary/marriage_certificate_application/)

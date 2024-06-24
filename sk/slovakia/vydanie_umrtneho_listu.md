@@ -41,8 +41,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Je dôležité vyhotoviť si viacero kópií úmrtného listu, keď už bol vydany. Tie môžu byť potrebné pre rôzne právne a administratívne postupy. Tiež si uvedomte, že nie každý môže požiadať o úmrtný list; zvyčajne musíte byť tesne príbuzní s osobou, ktorá zomrela. Niektoré vlády poskytujú viacjazyčné úmrtné listy, čo môže byť potrebné, ak budete dokument predkladať v krajine, kde sa nerozpráva oficiálnym jazykom vydávajúca vláda.
-
-
 ## Related Posts
 
 - [Rodný list v Slovensku: Postup, Dokumenty a Informácie](https://tramitit.com/sk/guides/slovakia/vydanie_rodneho_listu/)

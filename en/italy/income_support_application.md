@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 It's important to note that the Citizens' Income is not given to you unconditionally. If you receive it, you have to apply for jobs via the Centri per l'impiego, and you're required to accept at least one job offer out of every three you receive. Not complying with these rules can lead to penalties, including the revocation of the benefit. You're also required to perform social and community services.
-
-
 ## Related Posts
 
 - [Italian Family Allowance: Eligibility, Procedure, Required Documents](https://tramitit.com/guides/italy/family_allowance_request/)

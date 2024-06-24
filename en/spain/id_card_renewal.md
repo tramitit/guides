@@ -43,11 +43,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - If living outside of Spain but you are visiting, you can still renew it while in the country.
 - The DNI can take around 2 weeks to be delivered. However, a provisional document may be given to you for use during this period.
 
-
 ## Related Posts
 
-- [How to Renew Your Passport in Spain: A Step-by-Step Guide](https://tramitit.com/guides/spain/passport_renewal/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)
-- [Driver's License Renewal Guide in Spain: Steps and Requirements](https://tramitit.com/guides/spain/drivers_license_renewal/)
-- [Guide to Renewing Your Student Card (TIE) in Spain: Steps & Tips](https://tramitit.com/guides/spain/student_card_renewal/)
-- [How to Renew Your EU Resident Card (TIE) in Spain - Step by Step](https://tramitit.com/guides/spain/eu_resident_card_renewal/)
+- [How to Renew Your Passport in Spain: A Step-by-Step Guide](https://tramitit.com/english/guides/spain/passport_renewal/)
+- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/english/guides/spain/id_card_application/)
+- [Driver's License Renewal Guide in Spain: Steps and Requirements](https://tramitit.com/english/guides/spain/drivers_license_renewal/)
+- [Guide to Renewing Your Student Card (TIE) in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/student_card_renewal/)
+- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/english/guides/spain/passport_application/)

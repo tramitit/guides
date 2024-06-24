@@ -42,8 +42,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Il y a un délai de 3 jours avant de commencer à recevoir les indemnités, connu sous le nom de "délai de carence".
 - Pour plus d'informations, veuillez visiter le [site officiel de l'Assurance Maladie](https://www.ameli.fr/).
 - Ces procédures sont susceptibles de changer, veuillez toujours vous référer aux sources gouvernementales officielles pour les processus les plus récents.
-
-
 ## Related Posts
 
 - [Demande d'Arrêt Maladie: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/demande_darret_de_travail/)

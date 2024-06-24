@@ -40,8 +40,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Ne felejtsd el, hogy a családi pótlék igénylési eljárása és jogosultsága változhat az adott helyi szabályozás, valamint az aktuális jövedelmi és foglalkoztatási helyzet függvényében. Ezért kiemelten fontos, hogy tájékozódj a konkrét részletekről a helyi családsegítő szolgálat irodájában. Emellett a családi pótlék összege változhat a gyermek korától függően, attól, hogy fogyatékos-e, vagy hogy van-e több eltartott gyermek a családban.
-
-
 ## Related Posts
 
 - [Lakhatástámogatás Magyarországon: Jogosultság, Eljárás és Dokumentumok](https://tramitit.com/hu/guides/hungary/lakastamogatas_igenylese/)

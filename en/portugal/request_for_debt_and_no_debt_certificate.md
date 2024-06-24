@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 CRC reports are crucial for financial stability and opportunities. Managing them responsibly is important for maintaining good financial health.
-
-
 ## Related Posts
 
 - [Citizen Card in Portugal: Application Guide and Requirements](https://tramitit.com/guides/portugal/request_for_citizen_card/)

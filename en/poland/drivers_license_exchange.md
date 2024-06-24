@@ -51,8 +51,6 @@ Remember, driving without a valid license in Poland is illegal, and can result i
 Sources for more information:
 
 [POLAND DRIVER'S LICENSE](http://www.rightservice.gov.lb/rightservice/Pages/RSHome.aspx?langId=1) or other relevant local government website.
-
-
 ## Related Posts
 
 - [How to Obtain a Driving License in Poland: A Step-by-Step Guide](https://tramitit.com/guides/poland/driving_license/)

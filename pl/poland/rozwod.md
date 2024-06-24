@@ -53,8 +53,6 @@ Podczas składania wniosku o rozwód, czy to za porozumieniem stron, czy w zwią
 W polskim prawie określono, że w przypadku rozwodu sąd będzie brał pod uwagę najlepsze interesy dzieci, często przyznając opiekę nad dzieckiem rodzeństwu, które było głównym opiekunem dziecka.
 
 Jeśli rozwód jest zdecydowany na korzyść jednej strony, sąd uzna małżeństwo za zakończone. Byli małżonkowie są następnie uprawnieni do ponownego zawarcia małżeństwa zgodnie z polskim prawem.
-
-
 ## Related Posts
 
 - [Świadectwo Małżeństwa w Polsce: Procedura i Wymagane Dokumenty](https://tramitit.com/pl/guides/poland/akt_malzenstwa/)

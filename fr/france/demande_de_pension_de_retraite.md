@@ -38,8 +38,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Les pensions de retraite en France sont calculées en fonction du montant que vous avez cotisé au système et du nombre d'années de contribution. Assurez-vous d'examiner attentivement votre situation personnelle et de planifier en conséquence pour recevoir le montant maximum possible.
-
-
 ## Related Posts
 
 - [Inscription à la Sécurité sociale française: Guide complet](https://tramitit.com/fr/guides/france/inscription_a_la_securite_sociale/)

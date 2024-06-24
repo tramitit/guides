@@ -47,8 +47,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Prosím, všimnite si, že získanie Certifikátu slovenského predkovstva vám automaticky neudelí občianstvo. Potvrdzuje len váš slovenský pôvod, čo môže byť dôležitou súčasťou žiadosti o slovenské občianstvo odvodené od predkov. Kontaktujte veľvyslanectvo alebo konzulát Slovenska pre podrobné informácie o žiadosti o slovenské občianstvo.
-
-
 ## Related Posts
 
 - [Získanie slovenského občianstva na základe pôvodu: Sprievodca](https://tramitit.com/sk/guides/slovakia/podanie_prihlasky_na_statne_obcianstvo/)

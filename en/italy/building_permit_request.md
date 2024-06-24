@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember that different municipalities may have specific additional requirements, so it is important to verify the exact procedure with your local administration. The timeline for obtaining a building permit in Italy can vary significantly depending on the complexity of the project and local bureaucracy, hence adequate planning is crucial to avoid possible delays in your construction timeline.
-
-
 ## Related Posts
 
 - [How to Obtain a Residence Certificate in Italy - Step-by-Step Guide](https://tramitit.com/guides/italy/residence_certificate_request/)

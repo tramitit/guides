@@ -43,8 +43,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 
 ## Dodatkowe informacje
 Noszenie ukrytej broni palnej w miejscu publicznym jest dozwolone tylko dla posiadaczy licencji na obronę osobistą. Pamiętaj, aby odnawiać swoją licencję, ponieważ jest ważna tylko przez ograniczony czas - 1 rok na obronę osobistą, 5 lat na strzelanie sportowe i 10 lat na myślistwo i kolekcjonowanie. Nabycie amunicji wymaga oddzielnego zezwolenia.
-
-
 ## Related Posts
 
 - [Procedura uzyskiwania polskiego obywatelstwa: kroki i dokumenty](https://tramitit.com/pl/guides/poland/wniosek_o_obywatelstwo/)

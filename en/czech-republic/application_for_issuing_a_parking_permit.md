@@ -51,8 +51,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Bear in mind that public transport in Prague is highly efficient and extensive - it might be more convenient to use this mode of transport instead of dealing with limited parking spaces.
 - If you fail to adhere to parking regulations, you risk getting a fine or having your vehicle towed away.
 - The parking permit does not guarantee a parking space. It only offers the right to park if a space is available.
-
-
 ## Related Posts
 
 - [How to Register a Car in the Czech Republic: A Complete Guide](https://tramitit.com/guides/czech-republic/car_registration/)

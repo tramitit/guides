@@ -43,8 +43,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 
 ## További részletek
 Figyelembe kell venni, hogy a betegszabadság igénylési eljárásai eltérőek lehetnek helyszíntől és vállalattól függően. Fontos megjegyezni, hogy egyes esetekben a fogorvosi vizitekhez hasonló orvosi beavatkozások miatti hiányzásaid is jogosultak lehetnek betegszabadságra, ahogyan azt néhány kaliforniai állami munkahely is megerősítette.
-
-
 ## Related Posts
 
 - [Egészségbiztosítás Magyarországon: Kérelem és Eljárások](https://tramitit.com/hu/guides/hungary/egeszsegugyi_biztositas_igenylese/)

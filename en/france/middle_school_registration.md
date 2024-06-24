@@ -45,9 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that the French educational system is different from many other countries'. It's important to familiarize yourself with the structure and curriculum before enrolling your child. If your child requires special educational needs, please inform the school as the French system has programs and resources available to assist. Furthermore, if you are looking to enroll your child into an international or bilingual middle school in the country, make sure to research these schools well in advance as competition for spots can be high.
-
-
-
 ## Related Posts
 
 - [Guide to Primary School Registration in France for 2023](https://tramitit.com/guides/france/primary_school_registration/)

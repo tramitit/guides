@@ -61,8 +61,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - In certain circumstances, multiple witnesses (two or more) can secure the legality of the wedding ceremony.
 - For a marriage to be recognized in your home country, you may need to go through an extra legalization/authentication process.
 - For more specific information, it is best to get in contact with the local authorities or a legal professional specializing in Croatian civil law.
-
-
 ## Related Posts
 
 - [How to Obtain a Marriage Certificate in Croatia: A Complete Guide](https://tramitit.com/guides/croatia/issuance_of_marriage_certificate/)

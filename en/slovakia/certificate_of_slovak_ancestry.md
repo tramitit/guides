@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that acquiring the Certificate of Slovak ancestry does not automatically grant you citizenship. It merely confirms your Slovak heritage, which can be an important part of applying for Slovak citizenship by descent. Contact the Slovakia embassy or consulate for detailed information about applying for Slovak citizenship.
-
-
 ## Related Posts
 
 - [Guide to Applying for Slovakian Citizenship by Descent](https://tramitit.com/guides/slovakia/application_for_citizenship/)

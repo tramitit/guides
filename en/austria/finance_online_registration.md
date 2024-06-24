@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It's important to note that the website and its services are only in German. A good understanding of the German language is required to file your taxes correctly. Google Translate may be helpful in this case, but professional multilingual tax assistance could also be considered if you're not confident in your German language skills. Safety is a priority for the Finance Online platform. Therefore, they might require additional confirmation of your identity through technologies like "Handy-Signatur" or ID Austria certificate. They also have detailed guides that can help users navigate the platform and learn how to fill out the forms necessary.
-
-
 ## Related Posts
 
 - [Social Insurance Registration in Austria: A Complete Guide](https://tramitit.com/guides/austria/social_insurance_registration/)

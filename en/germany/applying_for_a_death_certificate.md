@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 It's important to note that it might take some time to receive the death certificate; the process could take anywhere from a few days to a few weeks. Having multiple copies of the death certificate can also be useful, as they may be required by different institutions (banks, insurance companies, etc.).
 Remember that grieving can be a difficult process, and there are bereavement support services available if you're finding it hard to cope.
-
-
 ## Related Posts
 
 - [How to Obtain a Birth Certificate in Germany: Step-by-Step Guide](https://tramitit.com/guides/germany/applying_for_a_birth_certificate/)

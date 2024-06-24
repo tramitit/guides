@@ -39,11 +39,10 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres o conoces a
 ## Detalles adicionales
 Las transacciones comerciales con otros estados miembros de la UE también requieren la presentación de formularios complementarios para garantizar el cumplimiento tanto de las regulaciones fiscales locales como de la UE. Asegúrate de mantenerte al día con los cambios regulatorios para evitar sanciones.
 
-
 ## Related Posts
 
-- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/es/guides/spain/modelo_347/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
-- [Guía del Modelo 790 Código 012: Pago y Regularización del NIE](https://tramitit.com/es/guides/spain/modelo_390/)
-- [Guía Completa del Modelo 790: Cómo Pagar Tarifas Administrativas](https://tramitit.com/es/guides/spain/modelo_790/)
+- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/spanish/guides/spain/modelo_347/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/spanish/guides/spain/modelo_036/)
+- [Guía del Modelo 790 Código 012: Pago y Regularización del NIE](https://tramitit.com/spanish/guides/spain/modelo_390/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
+- [Guía Completa del Modelo 790: Cómo Pagar Tarifas Administrativas](https://tramitit.com/spanish/guides/spain/modelo_790/)

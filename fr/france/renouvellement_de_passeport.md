@@ -42,8 +42,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Les frais de renouvellement de passeport dépendront du type de passeport (biométrique ou non, adultes ou enfants, etc.).
 - Les délais de traitement varieront en fonction de la demande et d'autres facteurs.
 - Vous devriez renouveler votre passeport au moins neuf mois avant son expiration si vous prévoyez de voyager à l'étranger.
-
-
 ## Related Posts
 
 - [Renewal of French Residence Permit: Complete Guide](https://tramitit.com/fr/guides/france/renouvellement_de_carte_de_sejour/)

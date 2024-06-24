@@ -47,8 +47,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Vždy si overte, že rezervujete od spoľahlivého zdroja, aby ste sa vyhli podvodom.
 - Uchovajte si číslo potvrdenia v bezpečí, pretože je často nevyhnutné pre získanie fyzických lístkov alebo riešenie problémov.
 - Ak máte nejaké problémy, obráťte sa na zákaznícku podporu poskytovateľa o pomoc.
-
-
 ## Related Posts
 
 - [Slovenská Občianska Preukazka: Požiadavky a Postup](https://tramitit.com/sk/guides/slovakia/vydanie_obcianskeho_preukazu/)

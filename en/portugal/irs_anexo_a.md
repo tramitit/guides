@@ -57,8 +57,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 If you encounter any issues or have specific questions related to filling out IRS Anexo A, consider seeking advice from a tax professional. Accurate and timely submission is crucial to avoid penalties or delays in processing your tax return.
-
-
 ## Related Posts
 
 - [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)

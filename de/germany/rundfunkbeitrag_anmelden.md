@@ -38,8 +38,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 
 ## Weitere Details
 Wenn sich mehrere Personen in einem Haushalt befinden, wird diese Gebühr unter allen geteilt und wird nur einmal pro Haushalt und nicht pro Person gezahlt. Wenn Sie umziehen, obliegt es Ihnen, Ihre neue Adresse auf der Website zu aktualisieren. Wichtig ist, dass das Nichtzahlen der Rundfunkbeiträge zu Strafen führen kann und in Deutschland als Ordnungswidrigkeit angesehen wird.
-
-
 ## Related Posts
 
 - [Anmeldung des Wohnsitzes in Deutschland: Verfahren & Dokumente](https://tramitit.com/de/guides/germany/anmeldung_des_wohnsitzes/)

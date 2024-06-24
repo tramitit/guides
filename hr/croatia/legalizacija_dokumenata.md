@@ -51,8 +51,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 Hrvatska je članica Apostilske konvencije od 1991. godine. Stoga, ako je zemlja porijekla dokumenta članica Apostilske konvencije, postupak je jednostavniji. Sve što je potrebno je Apostil certifikacija iz zemlje izdavanja, i daljnja ovjera nije potrebna u Hrvatskoj.
 
 Ako zemlja nije članica Apostilske konvencije, dokument mora proći kroz rigorozniji postupak poznat kao Legalizacija. To uključuje certificiranje od strane Ministarstva vanjskih poslova zemlje izdavanja i od strane hrvatskog veleposlanstva ili konzulata u toj zemlji.
-
-
 ## Related Posts
 
 - [Vjenčanje u Hrvatskoj: Potrebni dokumenti i postupak](https://tramitit.com/hr/guides/croatia/izdavanje_vjencanog_lista/)

@@ -41,8 +41,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 
 ## Ďalšie podrobnosti
 Počas materskej dovolenky ženy na Slovensku dostávajú platbu od zdravotnej poisťovne. Financie sú poskytované Sociálnou poisťovňou a predstavujú približne 65% ich výpočtovej základne. Nezabudnite, že pravidlá a práva sa môžu líšiť od odvetvia k odvetviu, vždy sa obráťte na svoju zmluvu alebo personálne oddelenie pre personalizovanú radu.
-
-
 ## Related Posts
 
 - [Manželský certifikát na Slovensku: Požiadavky a postup](https://tramitit.com/sk/guides/slovakia/vydanie_sobasneho_listu/)

@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 The duration for processing the residence registration may vary based on individual cases and the workload at the office. It is always recommended to apply for the residence registration as soon as possible upon arrival in the country.
-
-
 ## Related Posts
 
 - [Croatia Residence Registration: Essential Guide for Foreigners](https://tramitit.com/guides/croatia/residence_registration/)

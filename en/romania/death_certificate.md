@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - This process should be completed as soon as possible following the death to avoid any legal complications.
 - If the deceased had any assets, debts or legal obligations, the death certificate would be required for the corresponding legal proceedings. 
 - The fees associated with obtaining a death certificate can differ based on the urgency of the request and the location where it is being requested.
-
-
 ## Related Posts
 
 - [How to Obtain a Romanian Birth Certificate - Step-by-Step Guide](https://tramitit.com/guides/romania/birth_certificate/)

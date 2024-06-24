@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Make sure to update all places where your old ID was used. This could be your banks, schools or workplaces for corrrect records.
-
-
 ## Related Posts
 
 - [Guide to Official Name Change Notification Process](https://tramitit.com/guides/poland/change_of_first_name_notification/)

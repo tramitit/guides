@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 The request for a tax refund can be done any time within five years from the payment of the excess amount. If the Revenue Agency does not respond within 90 days, this would mean that the request has been accepted.
 Remember, it can take significant time to get a refund if you're claiming large amounts. Be prepared to wait even if you have provided all the documents timely.
 It is highly recommended to consult with a tax professional for complex cases to ensure all documentation is accurate and your claim is justified.
-
-
 ## Related Posts
 
 - [Income Support in Italy: Eligibility, Application, and Requirements](https://tramitit.com/guides/italy/income_support_application/)

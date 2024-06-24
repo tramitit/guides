@@ -46,8 +46,6 @@ _(Momentálne vyberáme najlepších poskytovateľov. Ak ste poskytovateľ alebo
 - Po registrácii je vlastníkovi poskytnuté registračné číslo, ktoré sa má zobraziť na poznávacej značke, a dokument, ktorý slúži ako dôkaz o registrácii.
 - Registrácia vozidla bude potrebné pravidelne obnovovať.
 - Nemôžete žiť na Slovensku s vozidlom registrovaným v inom štáte nad dovolenú dobu (zvyčajne 183 dní). Ak áno, budete považovaní za daňového rezidenta na Slovensku a budete povinní zaregistrovať vozidlo tam.
-
-
 ## Related Posts
 
 - [Registrácia cudzinca na Slovensku: Proces, Doklady, Postup](https://tramitit.com/sk/guides/slovakia/registracia_cudzieho_statneho_prislusnika/)

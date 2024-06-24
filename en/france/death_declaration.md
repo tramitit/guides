@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 In most cases, the process must be carried out by a relative of the deceased or by a person possessing the legal authority or responsibility to do so. If the death occurred due to violence, accident, suicide or in suspicious circumstances, the police must be notified, and they will then inform the public prosecutor. The Death Certificate issued will be needed for most of the administrative procedures related to the death (funeral, change of civil status, bank, insurance, etc.).
-
-
 ## Related Posts
 
 - [Birth Declaration in France: Procedure and Required Documents](https://tramitit.com/guides/france/birth_declaration/)

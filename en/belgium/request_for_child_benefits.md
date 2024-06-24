@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Please note that the child must not be earning more than a certain ceiling or the benefits may stop. 
 
 Please note that these rules and regulations may vary and it would be best to get in touch with authorities to get the most accurate and updated information.
-
-
 ## Related Posts
 
 - [Guide to Apply for Unemployment Benefits in Belgium](https://tramitit.com/guides/belgium/request_for_unemployment_benefits/)

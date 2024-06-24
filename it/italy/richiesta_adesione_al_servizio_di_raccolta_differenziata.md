@@ -50,8 +50,6 @@ _(Stiamo attualmente selezionando i migliori fornitori. Se sei o conosci un forn
 
 ## Dettagli aggiuntivi
 Il servizio di raccolta differenziata potrebbe richiedere l'uso di bidoni o sacchetti colorati diversi per tipi di rifiuti diversi. Anche il calendario di raccolta è diverso per ogni tipo di rifiuto, assicurati quindi di controllarlo sul sito web del tuo consiglio locale o dell'azienda di gestione rifiuti. Alcune aree potrebbero anche avere punti di raccolta per alcuni tipi di rifiuti.
-
-
 ## Related Posts
 
 - [Guida all'Assegno Sociale: Procedura e Documenti Richiesti](https://tramitit.com/it/guides/italy/domanda_di_assegno_sociale/)

@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Child benefits are paid every 4 weeks and there’s no limit to how many children you can claim for. Be aware that if you or your partner have an individual income of more than £50,000, you may be taxed on the benefits.
-
-
 ## Related Posts
 
 - [Understanding Maternity Benefits: Eligibility and Application Guide](https://tramitit.com/guides/bulgaria/application_for_maternity_benefits/)

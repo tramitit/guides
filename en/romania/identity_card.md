@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Some banks may require an Identity Card for certain transactions
 - For foreigners, a residence permit might be needed to validate an identity card
 - The dimensions of the Romanian Identity Card are similar to a credit card, as specified in the ICAO Document 9303 standard.
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Romanian Passport: Steps and Requirements](https://tramitit.com/guides/romania/passport/)

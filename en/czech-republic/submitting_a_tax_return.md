@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 There are penalties for late tax returns and tax payments, and these can be avoided by filing on time. However, there are also provisions for extension of deadline for those who hire a tax advisor.
-
-
 ## Related Posts
 
 - [Tax Requirements for Individuals and Businesses in Czech Republic](https://tramitit.com/guides/czech-republic/tax_payment/)

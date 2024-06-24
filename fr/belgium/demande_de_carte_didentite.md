@@ -40,8 +40,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Chaque eID belge comporte un numéro d'identification unique, à ne pas confondre avec le numéro du Registre national, que vous pouvez trouver au dos de la carte.
 - Vous devez maintenir votre adresse sur la eID à jour. Si vous déménagez, vous devez en informer votre nouvelle commune locale dans les 8 jours.
 - En cas de perte de votre eID, vous devez signaler la perte au poste de police local et demander un nouveau à votre commune locale.
-
-
 ## Related Posts
 
 - [Inscription dans les Registres de la Population en Belgique](https://tramitit.com/fr/guides/belgium/inscription_dans_les_registres_de_la_population/)

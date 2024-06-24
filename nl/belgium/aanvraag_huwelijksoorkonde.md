@@ -39,8 +39,6 @@ _(We zijn momenteel de beste aanbieders aan het selecteren. Als je een aanbieder
 
 ## Aanvullende details
 Vergeet niet om te controleren bij de lokale autoriteiten of de gerelateerde overheidswebsite voor de meest actuele informatie, aangezien regelgeving kan veranderen. Let ook op dat het noodzakelijk is dat jouw huwelijksakte erkend wordt in het land waar je getrouwd bent en ook in België.
-
-
 ## Related Posts
 
 - [Geboorteakte in België: Procedure en Dienstverleners](https://tramitit.com/nl/guides/belgium/aanvraag_geboorteakte/)

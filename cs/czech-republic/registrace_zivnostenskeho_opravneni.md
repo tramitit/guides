@@ -50,8 +50,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 - Mohlo by být nutné absolvovat český jazykový test, pokud vaše podnikání vyžaduje komunikaci s českými zákazníky.
 - Daňový proces v České republice je jednoduchý, ale mírně se liší pro občany EU a ne-EU.
 - Sociální a zdravotní pojištění jsou povinné, jakmile začnete podnikat.
-
-
 ## Related Posts
 
 - [Registrace zaměstnavatele pro zdravotní pojištění v České republice](https://tramitit.com/cs/guides/czech-republic/registrace_zamestnavatele_k_zdravotnimu_pojisteni/)

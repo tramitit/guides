@@ -66,8 +66,6 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - **Despesas Legais:** Despesas legais pagas por serviços relacionados à sua propriedade para aluguel também podem ser dedutíveis.
 
 Para questões mais específicas ou orientação detalhada, entrar em contato com um profissional de impostos ou solicitar conselhos das autoridades fiscais portuguesas pode ser benéfico.
-
-
 ## Related Posts
 
 - [Guia Completo para Preencher o IRS Anexo A em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_a/)

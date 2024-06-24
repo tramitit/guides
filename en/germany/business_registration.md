@@ -53,8 +53,6 @@ The Gewerbeanmeldung form requires details of your business concept - what type 
 If you plan to sell goods online via platforms like Etsy or Amazon, it is important to register for VAT (Umsatzsteuer) as well through the Bundeszentralamt für Steuern website. This is necessary for tax and business trading purposes. 
 
 Note that if you are a freelancer or do not reach the threshold for mandatory VAT registration, you can opt for Kleinunternehmerregelung (small business scheme) where you do not charge VAT to your customers. Also, investing in a tax adviser (Steuerberater) can benefit you efficiently to navigate German tax laws and regulations.
-
-
 ## Related Posts
 
 - [Guide to Changing Business Registration in Germany](https://tramitit.com/guides/germany/change_of_business_registration/)

@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The health insurance coverage is available to all registered citizens, regardless of their employment status.
 - You will be entitled to a parking permit once you have registered your residence.
 - Keep in mind that all documents should be translated into Czech by a certified translator.
-
-
 ## Related Posts
 
 - [Residence Registration in Czech Republic: A Simple Guide](https://tramitit.com/guides/czech-republic/residence_registration_for_foreigners/)

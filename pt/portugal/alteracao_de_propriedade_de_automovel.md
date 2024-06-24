@@ -42,8 +42,6 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Para carros importados, é necessário um processo de homologação para validar se o carro cumpre os padrões portugueses.
 - Além disso, tenha em mente que se você estiver vivendo em Portugal por mais de 180 dias, é importante decidir se deseja importar o carro permanentemente ou temporariamente.
 - O seguro precisa ser transferido ou criado em nome do novo proprietário.
-
-
 ## Related Posts
 
 - [Matrícula de Veículo em Portugal: Procedimentos e Documentos](https://tramitit.com/pt/guides/portugal/pedido_de_registo_de_automovel/)

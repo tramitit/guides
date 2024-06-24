@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - You may need to attend regular meetings with a Pôle Emploi advisor as part of your job search.
 - You should regularly consult job offers and submit applications, and be ready to provide proof of your job search activities if asked.
 - If you refuse two reasonable job offers, your ARE benefits may be suspended.
-
-
 ## Related Posts
 
 - [Unemployment Benefits in France: Eligibility and Application Guide](https://tramitit.com/guides/france/unemployment_benefit_application/)

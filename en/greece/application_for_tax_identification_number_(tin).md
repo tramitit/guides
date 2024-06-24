@@ -41,8 +41,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Some online transaction platforms may require your TIN. Make sure to confirm the true identity of the organization before providing this sensitive information.
 
 **Please note:** This information is subject to change and it's always recommended to check the latest procedures and requirements with the local fiscal service office or a trusted tax consultant.
-
-
 ## Related Posts
 
 - [Guide to Registering in the Greek Tax Office for an AFM](https://tramitit.com/guides/greece/application_for_registration_in_the_tax_office/)

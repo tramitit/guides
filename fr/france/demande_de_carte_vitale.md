@@ -41,8 +41,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - En cas de perte, vous pouvez demander un remplacement par le biais du même service.
 - N'oubliez pas que les calamités, les grèves ou les retards dans le service postal peuvent affecter la période de livraison.
 - Il est important de toujours garder votre carte en sécurité et facilement disponible en cas de besoin de service médical.
-
-
 ## Related Posts
 
 - [Assurance Santé Complémentaire en France: Guide et Procédure](https://tramitit.com/fr/guides/france/demande_de_mutuelle_sante/)

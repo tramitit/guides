@@ -40,8 +40,6 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 - A folyamat kissé eltérhet külföldiek vagy nem-lakosok esetén. Ezért javasolt konzultálni a helyi kormányhivatallal vagy egy jogi tanácsadóval, aki jártas a magyar házassági törvényekben.
 - Miután a polgári ceremónia befejeződött, akkor továbbléphetsz vallási vagy egyéb szertartásokkal, ahogyan szeretnéd. Ugyanakkor ne feledd, hogy Magyarországon csak a polgári eljárás jogilag kötelező.
 - Fontold meg a dokumentumok lefordítását magyarra annak érdekében, hogy elkerüld a kommunikációs félreértéseket.
-
-
 ## Related Posts
 
 - [Házasítási Anyakönyvi Kivonat Kérelmezése Magyarországon](https://tramitit.com/hu/guides/hungary/hazassagi_anyakonyvi_kivonat_igenylese/)

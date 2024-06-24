@@ -45,11 +45,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Make sure the given information is correct to save time and avoid re-scheduling.
 - It's recommended to arrive at least 15 minutes before your assigned time.
 
-
 ## Related Posts
 
-- [SEPE Appointment Guide for Unemployment Benefits in Spain](https://tramitit.com/guides/spain/appointment_request_for_sepe/)
-- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
-- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [SEPE Appointment Guide for Unemployment Benefits in Spain](https://tramitit.com/english/guides/spain/appointment_request_for_sepe/)
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/english/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/nie_application/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/english/guides/spain/registration_card/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/english/guides/spain/certificate_of_registration_of_eu_citizen/)

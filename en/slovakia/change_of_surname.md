@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Furthermore, the cost of a name change can vary widely, depending on a variety of factors including regional laws, the reason for the change, and individual circumstances. It's best to contact local authorities or legal professionals for the most accurate information.
 - Non-residents subject to Slovak law may also apply for the change, given that they comply with the applicable procedures.
 - Last but not least, always verify the change everywhere, such as bank accounts, credit cards, etc. afterwards to avoid potential issues.
-
-
 ## Related Posts
 
 - [Name Change Process in Slovakia: Legal Steps and Requirements](https://tramitit.com/guides/slovakia/change_of_name/)

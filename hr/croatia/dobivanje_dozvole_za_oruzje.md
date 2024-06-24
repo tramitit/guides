@@ -51,8 +51,6 @@ _(Trenutno biramo najbolje pružatelje usluga. Ako ste ili poznajete pružatelja
 - Dozvola za oružje u Hrvatskoj važi 5 godina za stanovnike.
 - Nerezidenti mogu morati ispuniti dodatne zahtjeve.
 - Uvijek se posavjetujte s lokalnim tijelima i provjerite sve informacije s obzirom na to da se zakoni mogu mijenjati.
-
-
 ## Related Posts
 
 - [Boravišna dozvola u Hrvatskoj: Postupak i potrebni dokumenti](https://tramitit.com/hr/guides/croatia/dobivanje_dozvole_za_useljenje/)

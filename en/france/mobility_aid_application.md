@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Not all mobility aids will be fully covered by social security, and you may incur costs.
 - If you are traveling and need temporary access to a mobility aid, there are places such as Disneyland Paris or major tourism sites that offer rental services.
 - In case of mobility aid requirements due to temporary injury or hospital stay, speak with the relevant hospital staff about access to mobility aids during your recovery.
-
-
 ## Related Posts
 
 - [Guide to Social Housing Assistance in France: Eligibility and Steps](https://tramitit.com/guides/france/social_housing_assistance_application/)

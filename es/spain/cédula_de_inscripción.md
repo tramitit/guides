@@ -51,11 +51,10 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - **Renovación de tu NIE**: El proceso de renovación puede diferir ligeramente, pero generalmente sigue un procedimiento similar.
 - **Conducir en España**: Si planeas registrar tu coche extranjero en España, asegúrate de seguir los pasos de registro específicos distintos de obtener tu NIE. Mantén siempre actualizada tu tarjeta de registro para evitar problemas legales.
 
-
 ## Related Posts
 
-- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
-- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/es/guides/spain/asignación_de_nie_a_instancia_de_interesado/)
-- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
-- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
-- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_residente/)
+- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/spanish/guides/spain/solicitud_de_nie/)
+- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/spanish/guides/spain/asignación_de_nie_a_instancia_de_interesado/)
+- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
+- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
+- [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_residente/)

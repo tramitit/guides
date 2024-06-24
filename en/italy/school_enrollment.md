@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional Details
 The process of enrollment may vary from one educational institution to the other, but generally, the above guidelines apply. It's advisable to check the website of the specific school or university for more detailed information about their admission process and requirements. The deadlines for application submission are also set by the individual schools and universities, so it's important to verify these dates to ensure timely application.
-
-
 ## Related Posts
 
 - [How to Apply for Italian Citizenship: A Comprehensive Guide](https://tramitit.com/guides/italy/italian_citizenship_application/)

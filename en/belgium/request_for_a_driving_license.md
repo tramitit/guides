@@ -51,8 +51,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that the driving laws and regulations can vary between the different regions of Belgium, and it is important to verify the specific requirements with the relevant local authorities. If exchanging a foreign license, depending on your country of origin, you may be required to take a theoretical and/or practical examination.
-
-
 ## Related Posts
 
 - [Guide to Replacing a Lost or Stolen Driver's License in Belgium](https://tramitit.com/guides/belgium/replacement_request_for_driving_license/)

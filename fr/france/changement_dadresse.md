@@ -38,8 +38,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 Dans certains cas, mettre à jour votre emplacement peut affecter les services et les fonctionnalités de la plateforme que vous utilisez. Vérifiez toujours les détails de l'application/plateforme sur les procédures de changement d'emplacement.
-
-
 ## Related Posts
 
 - [Renewal of French Residence Permit: Complete Guide](https://tramitit.com/fr/guides/france/renouvellement_de_carte_de_sejour/)

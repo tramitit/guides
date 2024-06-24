@@ -45,8 +45,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 ## Détails supplémentaires
 
 N'oubliez pas que le délai de traitement peut varier considérablement en fonction de la période de l'année, de votre lieu de résidence et d'autres facteurs. Assurez-vous de faire votre demande bien à l'avance de tout voyage prévu. Il est également bon de noter que les passeports ont généralement une validité pouvant aller jusqu'à 10 ans pour les adultes.
-
-
 ## Related Posts
 
 - [Guide des autorisations de voyage pour citoyens américains en 2021](https://tramitit.com/fr/guides/belgium/demande_dautorisation_de_voyage/)

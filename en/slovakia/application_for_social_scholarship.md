@@ -45,8 +45,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For academically strong students, achieving a top grade may increase the chances of obtaining the scholarship. 
 
 _Note: The information provided may vary, please always confirm from the official website or contact the responsible entity for the most accurate information._
-
-
 ## Related Posts
 
 - [Understanding Social Benefits in Slovakia: Eligibility and Steps](https://tramitit.com/guides/slovakia/application_for_social_benefits/)

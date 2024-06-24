@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It is important to understand that the Mindestsicherung is a last resort financial aid provided by the state and not a guarantee. There are specific criteria set and potential recipients must fall under them before they can receive aid. The process can be lengthy and bureaucratic, so patience is important during the application process.
-
-
 ## Related Posts
 
 - [Unemployment Benefits: Application Process and Requirements](https://tramitit.com/guides/austria/unemployment_benefit_application/)

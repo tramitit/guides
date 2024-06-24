@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For complaints about public transportation fines, you can contact the Sofia Urban Mobility Center. 
 - If you've been scammed through an online marketplace like OLX.bg, make sure to alert the platform's customer service and they can support you while also taking steps to prevent similar incidents. 
 - Always work with authorities through official channels to prevent any further complications.
-
-
 ## Related Posts
 
 - [Temporary Address Registration in Bulgaria: A Complete Guide](https://tramitit.com/guides/bulgaria/temporary_address_registration/)

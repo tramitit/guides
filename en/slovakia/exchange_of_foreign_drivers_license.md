@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Some countries might require you to take additional tests (written or driving) even if they have a reciprocal agreement with your home country.
 - It's crucial to verify the specific requirements in the country you're planning to drive in as regulations change.
 - After a specified period (generally six months to a year), many countries will require you to get a local driver's license.
-
-
 ## Related Posts
 
 - [Driver's License in Slovakia: Procedure, Requirements & Tips](https://tramitit.com/guides/slovakia/issuance_of_drivers_license/)

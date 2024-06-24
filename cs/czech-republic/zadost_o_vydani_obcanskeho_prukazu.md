@@ -42,8 +42,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 
 ## Další podrobnosti
 Podle zdroje obvykle trvá zpracování a vydání občanského průkazu kolem 2-3 týdnů. Cena žádosti se liší v závislosti na naléhavosti a věku žadatele. Každopádně je vyžadován platný důkaz totožnosti a/nebo stavu pobytu. Konkrétní požadavky a poplatky lze ověřit u Ministerstva vnitra.
-
-
 ## Related Posts
 
 - [Trvalý pobyt v České republice: Požadavky a postup pro získání](https://tramitit.com/cs/guides/czech-republic/zadost_o_povoleni_k_trvalemu_pobytu/)

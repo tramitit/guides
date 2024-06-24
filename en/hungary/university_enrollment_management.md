@@ -44,8 +44,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Take time to prepare your application and documents to increase your chances of getting accepted. Consider participating in extracurricular activities, as they can boost your application. Remember that each university has unique timelines so always check their specific deadlines. Lastly, ensure you thoroughly evaluate all programs of interest before making your final decision.
-
-
 ## Related Posts
 
 - [Complete Guide to Understanding and Applying for Student Loans](https://tramitit.com/guides/hungary/student_loan_application/)

@@ -39,8 +39,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 If you are a non-EU citizen traveling to Greece, be sure to contact the Ministry of Health in advance to understand the complete process and regulations specific to non-EU residents. Also, being a part of the EU, the documentation might differ slightly, based on different agreements between Greece and your home country. Make sure to have these details clarified before you begin the application process.
-
-
 ## Related Posts
 
 - [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)

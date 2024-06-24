@@ -49,8 +49,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Remember to follow up if you don't hear back.
 - Ensure your request is written in Italian for the convenience of the Italian officials.
 - Some communes might ask for payment or donation, ensure to follow their instructions.
-
-
 ## Related Posts
 
 - [How to Obtain a Death Certificate from an Italian Comune](https://tramitit.com/guides/italy/death_certificate_request/)

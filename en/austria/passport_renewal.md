@@ -43,9 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Please note that the duration of the passport renewal process can vary and may take longer during peak application periods. Ensure to plan your travels accordingly to avoid inconveniences caused by an expired passport. In emergencies, some countries allow expedited services for an additional fee. Please check with the Austrian Passport Service for these details.
-
-
-
 ## Related Posts
 
 - [Essential Guide to Passport Application and Renewal Procedures](https://tramitit.com/guides/austria/passport_application/)

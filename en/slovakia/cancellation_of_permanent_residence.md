@@ -47,8 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Keep in mind that once you cancel your permanent residence status, you may lose certain rights and benefits in the given country. It's also crucial to bear in mind that not every country allows for a direct cancellation of a permanent residence. Depending on the country's regulations, you may have to first change your status to a temporary resident or leave the country altogether. Always check with immigration officials to make sure you understand the laws and regulations in your particular situation. While the procedure can vary depending on the country in question, the aforementioned steps provide a general guide to what you can expect. Professional assistance is always beneficial in such circumstances.
-
-
 ## Related Posts
 
 - [Guide to Changing Permanent Residence in Slovakia: Steps and Tips](https://tramitit.com/guides/slovakia/change_of_permanent_residence/)

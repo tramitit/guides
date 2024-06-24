@@ -51,11 +51,10 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Keep in mind that all documents must be in Spanish, so if they are in another language, they need to be duly translated and notarized. 
 - You can drive with your original license until you receive the Spanish one, but ensure that it's valid for use in Spain.
 
-
 ## Related Posts
 
-- [Driver's License Renewal Guide in Spain: Steps and Requirements](https://tramitit.com/guides/spain/drivers_license_renewal/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)
-- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/guides/spain/passport_application/)
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [Driver's License Renewal Guide in Spain: Steps and Requirements](https://tramitit.com/english/guides/spain/drivers_license_renewal/)
+- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/english/guides/spain/id_card_application/)
+- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/english/guides/spain/passport_application/)
+- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/english/guides/spain/id_card_renewal/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)

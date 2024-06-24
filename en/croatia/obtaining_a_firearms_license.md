@@ -50,8 +50,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - A firearms license in Croatia is valid for 5 years for residents.
 - Non-residents may need to fulfill additional requirements.
 - Always consult with the local arena and double-check all the information given the laws can change.
-
-
 ## Related Posts
 
 - [How to Obtain a Driver's License in Croatia: Step-by-Step Guide](https://tramitit.com/guides/croatia/issuance_of_drivers_license/)

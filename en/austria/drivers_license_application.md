@@ -52,8 +52,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - For motorbike licenses, if you have a B-license (for car driving), you may ride a motorbike up to 125cc. 
 - If an 'MPU' (Medical-Psychological Examination) is required, the driver's license authority will notify you.
 - The cost of obtaining a driver's license includes fees for the driving course, the exams, and administrative charges. Fees may vary between different driving schools.
-
-
 ## Related Posts
 
 - [Renew Your Driver's License in Austria: Steps & Requirements](https://tramitit.com/guides/austria/drivers_license_renewal/)

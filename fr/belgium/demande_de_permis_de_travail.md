@@ -50,8 +50,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Le permis de type B est lié à l'employeur et à l'emploi spécifique. Si vous changez d'emploi, un nouveau permis de travail sera nécessaire et votre nouvel employeur devra recommencer le processus de demande.
   
 - Pour les étudiants/chercheurs en stage, si la période de stage dépasse 90 jours, un permis unique sera requis, fusionnant le permis de travail et de résidence en un seul.
-
-
 ## Related Posts
 
 - [Residence Permit in Belgium: Process, Requirements & Help](https://tramitit.com/fr/guides/belgium/demande_de_titre_de_sejour/)

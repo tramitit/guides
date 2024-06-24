@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Remember to always keep your Carta d'Identità in a safe place. Some recommend a wallet while others suggest a document holder for preserving the card's condition since it's made of paper/cardboard. Also, note that establishments such as hotels or hostels in Italy may ask for your ID for registration purposes as a normal practice.
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Duplicate Italian Identity Card](https://tramitit.com/guides/italy/duplicate_identity_card_request/)

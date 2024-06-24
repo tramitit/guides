@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - There's a delay of 3 days before you start receiving the allowances, it's known as the "délai de carence".
 - For more information, please visit the [official website of Assurance Maladie](https://www.ameli.fr/). 
 - These procedures are subject to change, always refer to the official government sources for the most recent processes.
-
-
 ## Related Posts
 
 - [Sick Leave Application: Procedure, Documents, and Providers Guide](https://tramitit.com/guides/france/sick_leave_application/)

@@ -47,8 +47,6 @@ Exact benodigde documenten kunnen variëren afhankelijk van persoonlijke omstand
 De kosten van het transactieproces variëren ook afhankelijk van verschillende factoren, waaronder maar niet beperkt tot vertaalkosten, juridische kosten, administratiekosten, enz. Verduidelijk deze kosten voordat u doorgaat met uw aanvraag.
 
 En tot slot, het voldoen aan de criteria garandeert niet noodzakelijkerwijs de verlening van het staatsburgerschap, aangezien de beslissing uiteindelijk berust bij de autoriteiten.
-
-
 ## Related Posts
 
 - [Verblijfsvergunning in België: Procedure, Documenten & Dienstverleners](https://tramitit.com/nl/guides/belgium/verzoek_om_verblijfstitel/)

@@ -52,8 +52,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 - Kursy jazdy mogą trwać od 2 tygodni do 3 miesięcy, w zależności od intensywności.
 - Egzaminy teoretyczne i praktyczne są przeprowadzane przez regionalny urząd dróg i transportu.
 - Prawa jazdy są zazwyczaj dostarczane w okresie od 2 do 6 tygodni po złożeniu wniosku.
-
-
 ## Related Posts
 
 - [Procedura wymiany zagranicznego prawa jazdy na polskie](https://tramitit.com/pl/guides/poland/wymiana_prawa_jazdy/)

@@ -42,8 +42,6 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - Si le cinquième jour suivant la naissance est un samedi, un dimanche, un jour férié, ou un jour habituellement non travaillé, le délai est prolongé jusqu'au premier jour ouvrable suivant.
 - Si vous ne déclarez pas la naissance vous-même, le médecin ou la sage-femme ayant assisté à l'accouchement, un proche ou toute personne responsable de votre foyer peut le faire en votre nom.
 - L'acte de naissance sera ensuite délivré suite à l'enregistrement officiel de la naissance.
-
-
 ## Related Posts
 
 - [Déclaration de Décès en France: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/declaration_de_deces/)

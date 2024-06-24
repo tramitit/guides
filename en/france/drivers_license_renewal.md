@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Some regions may have a high number of applications, which could delay the process.
 - Make sure that all the details in your application are correct to avoid any problems and unduly delays.
 - Keep in mind that it is illegal to drive without a valid driver's license.
-
-
 ## Related Posts
 
 - [Guide to Obtaining or Converting a Driver's License in France](https://tramitit.com/guides/france/drivers_license_application/)

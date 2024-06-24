@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Using a Virtual Private Network (VPN) might be helpful if a service you need is restricted based on your location, such as certain online broadcasts or premium services. Please be mindful of any legal restrictions when using a VPN.
 
 Note: All procedures should be followed by individual official websites provided for updated and accurate information. This guide is a basic orientation and may not cover all specific guidelines or requirements.
-
-
 ## Related Posts
 
 - [Permanent Residency Guide: Application Process and Requirements](https://tramitit.com/guides/romania/permanent_residency_application/)

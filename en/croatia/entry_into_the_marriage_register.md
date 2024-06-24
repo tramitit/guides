@@ -43,8 +43,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 It is important to note that timelines and cost can vary depending on availability of the necessary documents and speed of the administrative process. It is recommended to reach out to the Ministry of Public Administration or your local municipal office for more details on the process, required documents and fee. Please be aware some offices may require all documents to be apostilled, which could add to the timeline and cost.
-
-
 ## Related Posts
 
 - [How to Obtain a Marriage Certificate in Croatia: A Complete Guide](https://tramitit.com/guides/croatia/issuance_of_marriage_certificate/)

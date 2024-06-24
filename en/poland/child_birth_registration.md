@@ -44,8 +44,6 @@ It is important to notify the local USC within 21 days of the birth. Failing to 
 If the parents are unmarried, the father must be present at the USC to acknowledge paternity. If the father is unable to be present, he can provide a written acknowledgement that is confirmed by a notary. 
 
 Remember to request for an International Birth Certificate as it is written in multiple languages, making it easier to use abroad. This process might slightly differ depending on the city in Poland. It's recommended to contact your local USC for specific details.
-
-
 ## Related Posts
 
 - [Birth Registration Abroad: Procedures for Poland and Germany](https://tramitit.com/guides/poland/child_birth_registration_abroad/)

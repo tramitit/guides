@@ -42,8 +42,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 Processing times vary, so it's advisable to plan and start the procedure well in advance of your intended start date. Additionally, having at least a basic understanding of French would greatly aid your transition.
-
-
 ## Related Posts
 
 - [Guide to Obtaining a Long-Stay Visa for France: Steps & Requirements](https://tramitit.com/guides/france/visa_application/)

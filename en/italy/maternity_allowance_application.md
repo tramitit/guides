@@ -46,8 +46,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Keep a copy of the submitted documents for future reference.
 - Be aware of deadlines: the Maternity Allowance application must be submitted no earlier than the 12th week of pregnancy and no later than the 11th week before the due date.
 - The allowance generally lasts for a maximum of twenty weeks.
-
-
 ## Related Posts
 
 - [Guide to Social Allowance: Eligibility, Application, and Documents](https://tramitit.com/guides/italy/social_allowance_application/)

@@ -46,8 +46,6 @@ Remember that you must complete the procedure within 90 days of your entry into 
 Also, note that the information provided applies to both, registering a new permanent address, and changing an existing one.
 
 Please consult with legal professionals or contact the relevant authorities for the most current and precise information about the process.
-
-
 ## Related Posts
 
 - [Temporary Address Registration in Bulgaria: A Complete Guide](https://tramitit.com/guides/bulgaria/temporary_address_registration/)

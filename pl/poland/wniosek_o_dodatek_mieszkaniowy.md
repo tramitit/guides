@@ -42,8 +42,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 
 ## Dodatkowe informacje
 Jeśli Twoje okoliczności się zmienią, ważne jest, abyś natychmiast poinformował/a swoją lokalną radę, ponieważ zmiany mogą wpłynąć na to, ile świadczenia powinieneś/ą otrzymać. Ponadto, w niektórych sytuacjach, nawet jeśli uważany/a jesteś za nieuprawnionego/a do Housing Benefit, nadal możesz otrzymać mniejszą kwotę lub 'świadczenie częściowe'.
-
-
 ## Related Posts
 
 - [Zasiłek dla bezrobotnych: Jak ubiegać się o pomoc finansową](https://tramitit.com/pl/guides/poland/zasilek_dla_bezrobotnych/)

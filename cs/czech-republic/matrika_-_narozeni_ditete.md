@@ -49,8 +49,6 @@ _(Momentálně vybíráme nejlepší poskytovatele. Pokud jste poskytovatelem ne
 ## Další podrobnosti
 
 Pokud neovládáte český jazyk, může být dobrý nápad přivést tlumočníka do matričního úřadu. Navíc, v případě, že rodiče jsou cizinci nebo nejsou občany EU, je dobré konzultovat s matričním úřadem předem ohledně specifických požadovaných dokumentů. Různé scénáře mohou vyžadovat dodatečnou dokumentaci. Pro občany, kteří jsou oprávněni k německému občanství dle předků, je klíčové konzultovat příslušnou sekci v Německém velvyslanectví k dokončení tohoto postupu.
-
-
 ## Related Posts
 
 - [Registrace manželství na matričním úřadu v České republice](https://tramitit.com/cs/guides/czech-republic/matrika_-_snatek/)

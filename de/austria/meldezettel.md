@@ -43,8 +43,6 @@ _(Wir kuratieren derzeit die besten Anbieter. Wenn Sie ein Anbieter sind oder ei
 
 ## Weitere Details
 Bei verspäteter Anmeldung können Sie möglicherweise eine Strafe zahlen müssen. Die Strafe kann jedoch erlassen werden, wenn Sie einen triftigen Grund für die Verzögerung angeben. Außerdem können Ihnen einige private Unternehmen gegen Gebühr bei dem Verfahren helfen.
-
-
 ## Related Posts
 
 - [Meldepflicht in Österreich: Meldezettel-Registrierung erklärt](https://tramitit.com/de/guides/austria/meldepflicht/)

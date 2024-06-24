@@ -42,8 +42,6 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 
 ## Dodatkowe informacje
 Upewnij się, że zaktualizujesz wszystkie miejsca, w których używano Twego starego dowodu osobistego. Mogą to być Twoje banki, szkoły lub miejsca pracy, dla poprawnych danych.
-
-
 ## Related Posts
 
 - [Dowód Osobisty w Polsce: Procedura, Wymagane dokumenty i Informacje](https://tramitit.com/pl/guides/poland/dowod_osobisty/)

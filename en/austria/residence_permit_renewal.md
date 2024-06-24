@@ -48,8 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 MA35 sometimes can be unresponsive. Patience is key, and you may need to send multiple emails or make multiple calls to get a response. 
 Also, everything should ideally be completed in German, so getting help from a German-speaking person could be beneficial if you are not fluent in German.
-
-
 ## Related Posts
 
 - [Austrian Residence Permit: Requirements and Application Steps](https://tramitit.com/guides/austria/residence_permit_application/)

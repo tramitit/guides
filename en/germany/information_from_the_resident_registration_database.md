@@ -40,8 +40,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - The information you can request may depend on your justification and local privacy laws.
 - For legal reasons, not all personal data may be available. For instance, in many instances, data regarding relocated or deceased people may not be accessible.
 - Some registration offices may charge a fee for conducting this type of search.
-
-
 ## Related Posts
 
 - [Anmeldung in Germany: Residence Registration Guide](https://tramitit.com/guides/germany/registration_of_residence/)
