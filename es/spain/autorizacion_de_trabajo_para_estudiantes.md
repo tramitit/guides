@@ -51,8 +51,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Related Posts
 
-- [Spain Work Permit: Requirements, Procedure, Documents](https://tramitit.com/spanish/guides/spain/solicitud_de_permiso_de_trabajo/)
-- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/spanish/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
-- [Renovación de Permiso de Trabajo en España: Proceso y Documentos](https://tramitit.com/spanish/guides/spain/renovacion_de_permiso_de_trabajo/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Autorización de Regreso en España: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/spain/autorización_de_regreso/)
+- [Spain Work Permit: Requirements, Procedure, Documents](https://tramitit.com/es/guides/spain/solicitud_de_permiso_de_trabajo/)
+- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/es/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
+- [Renovación de Permiso de Trabajo en España: Proceso y Documentos](https://tramitit.com/es/guides/spain/renovacion_de_permiso_de_trabajo/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Autorización de Regreso en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/autorización_de_regreso/)

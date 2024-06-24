@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Guarde copias de todos los documentos presentados para sus registros personales.
 ## Related Posts
 
-- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/spanish/guides/argentina/solicitud_de_pensión/)
-- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_de_desempleo/)
-- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_seguro_social/)
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/es/guides/argentina/solicitud_de_pensión/)
+- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_de_desempleo/)
+- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_seguro_social/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)

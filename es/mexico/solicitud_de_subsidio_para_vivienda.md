@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - * Ten cuidado con posibles estafas que soliciten información personal o dinero por adelantado.
 ## Related Posts
 
-- [Solicita el Subsidio por Desempleo en México Ahora](https://tramitit.com/spanish/guides/mexico/solicitud_de_subsidio_para_desempleo/)
-- [Obtén tu Crédito INFONAVIT Rápido y Fácil en México](https://tramitit.com/spanish/guides/mexico/solicitud_de_crédito_infonavit/)
-- [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/spanish/guides/mexico/carta_de_residencia/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/spanish/guides/mexico/inscripción_a_educación_superior/)
-- [Guía completa para solicitar becas en México - Paso a paso](https://tramitit.com/spanish/guides/mexico/solicitud_de_beca/)
+- [Solicita el Subsidio por Desempleo en México Ahora](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_desempleo/)
+- [Obtén tu Crédito INFONAVIT Rápido y Fácil en México](https://tramitit.com/es/guides/mexico/solicitud_de_crédito_infonavit/)
+- [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/es/guides/mexico/carta_de_residencia/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Guía completa para solicitar becas en México - Paso a paso](https://tramitit.com/es/guides/mexico/solicitud_de_beca/)

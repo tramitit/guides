@@ -55,8 +55,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/nie_application/)
-- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/english/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
-- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/english/guides/spain/certificate_of_registration_of_eu_citizen/)
-- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/english/guides/spain/non-resident_certificate/)
-- [How to Obtain a Green NIE Resident Certificate in Spain](https://tramitit.com/english/guides/spain/resident_certificate/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
+- [How to Obtain a Green NIE Resident Certificate in Spain](https://tramitit.com/guides/spain/resident_certificate/)

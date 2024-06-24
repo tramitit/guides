@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Efficient Document Legalization Services in Mexico](https://tramitit.com/english/guides/mexico/document_legalization/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
-- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/english/guides/mexico/adoption_certificate_request/)
-- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/english/guides/mexico/birth_certificate/)
-- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/english/guides/mexico/marriage_certificate/)
+- [Efficient Document Legalization Services in Mexico](https://tramitit.com/guides/mexico/document_legalization/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)
+- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/guides/mexico/adoption_certificate_request/)
+- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/guides/mexico/birth_certificate/)
+- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/guides/mexico/marriage_certificate/)

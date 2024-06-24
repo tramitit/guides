@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/english/guides/brazil/passport_issuance/)
-- [Essential Work Card Guide for Employment in Brazil](https://tramitit.com/english/guides/brazil/work_card/)
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
-- [Get Your International Driving Permit for Brazil Easily](https://tramitit.com/english/guides/brazil/international_driving_permit/)
+- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/guides/brazil/passport_issuance/)
+- [Essential Work Card Guide for Employment in Brazil](https://tramitit.com/guides/brazil/work_card/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)
+- [Get Your International Driving Permit for Brazil Easily](https://tramitit.com/guides/brazil/international_driving_permit/)

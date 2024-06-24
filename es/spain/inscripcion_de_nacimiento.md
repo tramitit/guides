@@ -47,8 +47,8 @@ Se recomienda registrar el nacimiento tan pronto como sea posible después de oc
 
 ## Related Posts
 
-- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/spanish/guides/spain/certificado_de_nacimiento/)
-- [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/spanish/guides/spain/inscripcion_de_defuncion/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/spanish/guides/spain/certificado_de_defunción/)
-- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)
-- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/spanish/guides/spain/certificado_de_matrimonio/)
+- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)
+- [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_de_defuncion/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)

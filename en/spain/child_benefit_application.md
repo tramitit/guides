@@ -54,8 +54,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/english/guides/spain/unemployment_benefit_application/)
-- [Financial Aids for Large Families: Eligibility and Application](https://tramitit.com/english/guides/spain/economic_assistance_for_large_families/)
-- [Guide to Retirement Pension in Spain: Eligibility and Application](https://tramitit.com/english/guides/spain/retirement_pension_application/)
-- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/english/guides/spain/ingreso_minimo_vital/)
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)
+- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
+- [Financial Aids for Large Families: Eligibility and Application](https://tramitit.com/guides/spain/economic_assistance_for_large_families/)
+- [Guide to Retirement Pension in Spain: Eligibility and Application](https://tramitit.com/guides/spain/retirement_pension_application/)
+- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/guides/spain/ingreso_minimo_vital/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)

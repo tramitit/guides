@@ -55,8 +55,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Get Your Argentinian Passport in Argentina Quickly](https://tramitit.com/english/guides/argentina/argentinian_passport/)
-- [Digital Labor Income Certificate Guide for Argentina](https://tramitit.com/english/guides/argentina/digital_labor_income_certificate/)
-- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/english/guides/argentina/passport_renewal/)
-- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/english/guides/argentina/self-employed_registration/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Get Your Argentinian Passport in Argentina Quickly](https://tramitit.com/guides/argentina/argentinian_passport/)
+- [Digital Labor Income Certificate Guide for Argentina](https://tramitit.com/guides/argentina/digital_labor_income_certificate/)
+- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/guides/argentina/passport_renewal/)
+- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/guides/argentina/self-employed_registration/)

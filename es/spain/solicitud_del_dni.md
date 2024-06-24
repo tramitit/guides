@@ -46,8 +46,8 @@ La validez del DNI es ilimitada para adultos, mientras que los menores deben ren
 
 ## Related Posts
 
-- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/spanish/guides/spain/certificado_de_nacimiento/)
-- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/renovacion_del_dni/)
-- [Pasaporte Español: Requisitos y Procedimiento de Solicitud](https://tramitit.com/spanish/guides/spain/solicitud_de_pasaporte/)
-- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)
-- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/spanish/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
+- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)
+- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_dni/)
+- [Pasaporte Español: Requisitos y Procedimiento de Solicitud](https://tramitit.com/es/guides/spain/solicitud_de_pasaporte/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)
+- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)

@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/english/guides/argentina/self-employed_registration/)
-- [Get Your National Identity Document in Argentina Easily](https://tramitit.com/english/guides/argentina/national_identity_document/)
-- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/english/guides/argentina/cuit_certificate/)
-- [Argentina Work Visa Guide - Easy Steps and Essential Documents](https://tramitit.com/english/guides/argentina/work_visa_request/)
-- [Get Your Unique Labor Identification Code in Argentina](https://tramitit.com/english/guides/argentina/unique_labor_identification_code/)
+- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/guides/argentina/self-employed_registration/)
+- [Get Your National Identity Document in Argentina Easily](https://tramitit.com/guides/argentina/national_identity_document/)
+- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/guides/argentina/cuit_certificate/)
+- [Argentina Work Visa Guide - Easy Steps and Essential Documents](https://tramitit.com/guides/argentina/work_visa_request/)
+- [Get Your Unique Labor Identification Code in Argentina](https://tramitit.com/guides/argentina/unique_labor_identification_code/)

@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/english/guides/argentina/importers_registration/)
-- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/english/guides/argentina/exporters_registration/)
-- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/english/guides/argentina/self-employed_registration/)
-- [Effortless Electric Service Registration in Argentina](https://tramitit.com/english/guides/argentina/electric_service_registration/)
-- [How to Apply for a Construction Permit in Argentina - A Guide](https://tramitit.com/english/guides/argentina/construction_permit_request/)
+- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/guides/argentina/importers_registration/)
+- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/guides/argentina/exporters_registration/)
+- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/guides/argentina/self-employed_registration/)
+- [Effortless Electric Service Registration in Argentina](https://tramitit.com/guides/argentina/electric_service_registration/)
+- [How to Apply for a Construction Permit in Argentina - A Guide](https://tramitit.com/guides/argentina/construction_permit_request/)

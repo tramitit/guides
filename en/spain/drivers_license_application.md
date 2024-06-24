@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Driver's License Renewal Guide in Spain: Steps and Requirements](https://tramitit.com/english/guides/spain/drivers_license_renewal/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/english/guides/spain/id_card_application/)
-- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/english/guides/spain/passport_application/)
-- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/english/guides/spain/id_card_renewal/)
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)
+- [Driver's License Renewal Guide in Spain: Steps and Requirements](https://tramitit.com/guides/spain/drivers_license_renewal/)
+- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)
+- [Guide to Obtaining a Spanish Passport – Requirements & Procedure](https://tramitit.com/guides/spain/passport_application/)
+- [How to Renew Your Expired Spanish DNI: A Step-by-Step Guide](https://tramitit.com/guides/spain/id_card_renewal/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)

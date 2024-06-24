@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
-- [Guide to Securely Filing Your Argentine Pension Request](https://tramitit.com/english/guides/argentina/pension_request/)
-- [Health System Registration Guide for New Residents in Argentina](https://tramitit.com/english/guides/argentina/health_system_registration/)
-- [Effortless Social Security Registration in Argentina](https://tramitit.com/english/guides/argentina/social_security_registration/)
-- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/english/guides/argentina/importers_registration/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)
+- [Guide to Securely Filing Your Argentine Pension Request](https://tramitit.com/guides/argentina/pension_request/)
+- [Health System Registration Guide for New Residents in Argentina](https://tramitit.com/guides/argentina/health_system_registration/)
+- [Effortless Social Security Registration in Argentina](https://tramitit.com/guides/argentina/social_security_registration/)
+- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/guides/argentina/importers_registration/)

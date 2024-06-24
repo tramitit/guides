@@ -48,8 +48,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviços. Se você
 - Consulte o site do Detran local para diretrizes e formulários específicos.
 ## Related Posts
 
-- [Transferência sem esforço de propriedade de veículo no Brasil](https://tramitit.com/portuguese/guides/brazil/transferência_de_veículo/)
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
-- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/portuguese/guides/brazil/registro_de_imóveis/)
-- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/portuguese/guides/brazil/renovação_de_cnh/)
-- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/portuguese/guides/brazil/cnh_definitiva/)
+- [Transferência sem esforço de propriedade de veículo no Brasil](https://tramitit.com/pt/guides/brazil/transferência_de_veículo/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
+- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_imóveis/)
+- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/pt/guides/brazil/renovação_de_cnh/)
+- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)

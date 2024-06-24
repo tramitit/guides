@@ -50,8 +50,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviços. Se você
 - É importante manter em segurança o comprovante de registro e os certificados de dispensa, pois muitas vezes são necessários para emprego e educação superior.
 ## Related Posts
 
-- [Como Obter Seu Certificado de Serviço Militar Brasileiro](https://tramitit.com/portuguese/guides/brazil/certificado_de_reservista/)
-- [Regularização Eleitoral sem Esforço no Brasil Online](https://tramitit.com/portuguese/guides/brazil/regularização_eleitoral/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
-- [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/portuguese/guides/brazil/registro_de_nascimento/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/solicitação_de_aposentadoria/)
+- [Como Obter Seu Certificado de Serviço Militar Brasileiro](https://tramitit.com/pt/guides/brazil/certificado_de_reservista/)
+- [Regularização Eleitoral sem Esforço no Brasil Online](https://tramitit.com/pt/guides/brazil/regularização_eleitoral/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/pt/guides/brazil/registro_de_nascimento/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)

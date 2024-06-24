@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Certified Marriage Records from Argentina - Quick and Reliable](https://tramitit.com/english/guides/argentina/marriage_record/)
-- [Single Status Certificate in Argentina - Procedure & Requirements](https://tramitit.com/english/guides/argentina/single_status_certificate/)
-- [Get Certified Argentine Birth Certificate - Easy Process](https://tramitit.com/english/guides/argentina/birth_certificate/)
-- [How to Obtain an Argentine Birth Certificate - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/birth_record/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
+- [Certified Marriage Records from Argentina - Quick and Reliable](https://tramitit.com/guides/argentina/marriage_record/)
+- [Single Status Certificate in Argentina - Procedure & Requirements](https://tramitit.com/guides/argentina/single_status_certificate/)
+- [Get Certified Argentine Birth Certificate - Easy Process](https://tramitit.com/guides/argentina/birth_certificate/)
+- [How to Obtain an Argentine Birth Certificate - Step-by-Step Guide](https://tramitit.com/guides/argentina/birth_record/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)

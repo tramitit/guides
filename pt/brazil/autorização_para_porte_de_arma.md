@@ -48,8 +48,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 - O teste psicológico é conduzido por profissionais licenciados especificados pelo governo.
 ## Related Posts
 
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
-- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/portuguese/guides/brazil/cnh_definitiva/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/portuguese/guides/brazil/licenciamento_de_veículo/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)

@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
-- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/english/guides/brazil/passport_issuance/)
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
-- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/english/guides/brazil/national_id/)
-- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/english/guides/brazil/birth_registration/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)
+- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/guides/brazil/passport_issuance/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)
+- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/guides/brazil/national_id/)
+- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/guides/brazil/birth_registration/)

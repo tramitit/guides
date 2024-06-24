@@ -72,8 +72,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 
 ## Related Posts
 
-- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/spanish/guides/spain/modelo_145/)
-- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/spanish/guides/spain/modelo_720/)
-- [Guía Esencial para la Declaración del Modelo 721 en España](https://tramitit.com/spanish/guides/spain/modelo_721/)
-- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/spanish/guides/spain/modelo_190/)
-- [Modelo 210 - Impuestos para No Residentes en España](https://tramitit.com/spanish/guides/spain/modelo_210/)
+- [Modelo 145: Guía para Comunicar Retenciones Fiscales en España](https://tramitit.com/es/guides/spain/modelo_145/)
+- [Guía Completa para el Modelo 720: Declaración de Activos](https://tramitit.com/es/guides/spain/modelo_720/)
+- [Guía Esencial para la Declaración del Modelo 721 en España](https://tramitit.com/es/guides/spain/modelo_721/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
+- [Modelo 210 - Impuestos para No Residentes en España](https://tramitit.com/es/guides/spain/modelo_210/)

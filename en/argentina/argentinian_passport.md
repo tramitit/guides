@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/english/guides/argentina/passport_renewal/)
-- [Get Your National Identity Document in Argentina Easily](https://tramitit.com/english/guides/argentina/national_identity_document/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Argentina Work Visa Guide - Easy Steps and Essential Documents](https://tramitit.com/english/guides/argentina/work_visa_request/)
-- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/english/guides/argentina/marriage_certificate/)
+- [Efficient Passport Renewal in Argentina - A Complete Guide](https://tramitit.com/guides/argentina/passport_renewal/)
+- [Get Your National Identity Document in Argentina Easily](https://tramitit.com/guides/argentina/national_identity_document/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Argentina Work Visa Guide - Easy Steps and Essential Documents](https://tramitit.com/guides/argentina/work_visa_request/)
+- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/guides/argentina/marriage_certificate/)

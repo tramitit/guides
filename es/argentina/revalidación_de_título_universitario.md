@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Sitio web oficial para más información: [URL del Ministerio de Educación]
 ## Related Posts
 
-- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_ética_profesional/)
-- [Inscribirse en Instituciones de Educación Superior en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_a_educación_superior/)
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/spanish/guides/argentina/certificado_de_matrimonio/)
-- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/spanish/guides/argentina/certificado_de_domicilio/)
+- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_ética_profesional/)
+- [Inscribirse en Instituciones de Educación Superior en Argentina](https://tramitit.com/es/guides/argentina/inscripción_a_educación_superior/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/es/guides/argentina/certificado_de_matrimonio/)
+- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)

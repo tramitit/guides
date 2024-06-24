@@ -48,8 +48,8 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - Identidades vencidas podem resultar em dificuldades para determinadas transações.
 ## Related Posts
 
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
-- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/portuguese/guides/brazil/cadastro_de_pessoas_físicas/)
-- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/portuguese/guides/brazil/cnh_definitiva/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_físicas/)
+- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)

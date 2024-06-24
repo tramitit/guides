@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/english/guides/brazil/marriage_certificate/)
-- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/english/guides/brazil/birth_registration/)
-- [Streamlined Guide for Death Pension Request in Brazil](https://tramitit.com/english/guides/brazil/death_pension_request/)
-- [Effortless Property Registration in Brazil Service](https://tramitit.com/english/guides/brazil/property_registration/)
-- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/english/guides/brazil/national_id/)
+- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/guides/brazil/marriage_certificate/)
+- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/guides/brazil/birth_registration/)
+- [Streamlined Guide for Death Pension Request in Brazil](https://tramitit.com/guides/brazil/death_pension_request/)
+- [Effortless Property Registration in Brazil Service](https://tramitit.com/guides/brazil/property_registration/)
+- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/guides/brazil/national_id/)

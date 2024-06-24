@@ -44,8 +44,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres un proveedo
 - Es posible que necesites notificar a tu empleador y proveedor de seguro de salud.
 ## Related Posts
 
-- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/spanish/guides/argentina/certificado_de_domicilio/)
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/spanish/guides/argentina/solicitud_de_jubilación/)
-- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_habitacional/)
-- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/spanish/guides/argentina/solicitud_de_pensión/)
+- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilación/)
+- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_habitacional/)
+- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/es/guides/argentina/solicitud_de_pensión/)

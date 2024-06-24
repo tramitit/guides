@@ -55,8 +55,8 @@ It is highly suggested to book your appointment as soon as you are aware that yo
 
 ## Related Posts
 
-- [Guide to Scheduling Cita Previa with the Immigration Office in Spain](https://tramitit.com/english/guides/spain/appointment_request_for_immigration_office/)
-- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/english/guides/spain/unemployment_benefit_application/)
-- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/english/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
-- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/english/guides/spain/nie_application/)
-- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/english/guides/spain/spanish_social_security_number/)
+- [Guide to Scheduling Cita Previa with the Immigration Office in Spain](https://tramitit.com/guides/spain/appointment_request_for_immigration_office/)
+- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
+- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)

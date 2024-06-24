@@ -44,8 +44,8 @@ Remember, you must keep up your obligations as a job seeker. This means you must
 
 ## Related Posts
 
-- [SEPE Appointment Guide for Unemployment Benefits in Spain](https://tramitit.com/english/guides/spain/appointment_request_for_sepe/)
-- [Guide to Retirement Pension in Spain: Eligibility and Application](https://tramitit.com/english/guides/spain/retirement_pension_application/)
-- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/english/guides/spain/child_benefit_application/)
-- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/english/guides/spain/ingreso_minimo_vital/)
-- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/english/guides/spain/spanish_social_security_number/)
+- [SEPE Appointment Guide for Unemployment Benefits in Spain](https://tramitit.com/guides/spain/appointment_request_for_sepe/)
+- [Guide to Retirement Pension in Spain: Eligibility and Application](https://tramitit.com/guides/spain/retirement_pension_application/)
+- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
+- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/guides/spain/ingreso_minimo_vital/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)

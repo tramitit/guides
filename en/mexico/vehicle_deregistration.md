@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Swift Mexico Vehicle Registration - Efficient and Legal Compliance](https://tramitit.com/english/guides/mexico/vehicle_registration/)
-- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/english/guides/mexico/reissuance_of_license_plates/)
-- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/english/guides/mexico/circulation_permit/)
-- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/english/guides/mexico/driving_license/)
-- [Duplicate Driving License in Mexico - Quick & Easy Process](https://tramitit.com/english/guides/mexico/duplicate_driving_license_issuance/)
+- [Swift Mexico Vehicle Registration - Efficient and Legal Compliance](https://tramitit.com/guides/mexico/vehicle_registration/)
+- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/guides/mexico/reissuance_of_license_plates/)
+- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/guides/mexico/circulation_permit/)
+- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/guides/mexico/driving_license/)
+- [Duplicate Driving License in Mexico - Quick & Easy Process](https://tramitit.com/guides/mexico/duplicate_driving_license_issuance/)

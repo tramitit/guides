@@ -52,8 +52,8 @@ The ideal customer for this service includes any Spanish resident or entity with
 
 ## Related Posts
 
-- [Model 720: Spanish Tax Declaration for Foreign Assets Guide](https://tramitit.com/english/guides/spain/model_720/)
-- [Model 151 Guide: Foreign Asset Declaration for Beckham Law Users](https://tramitit.com/english/guides/spain/model_151/)
-- [Understanding Spain's Model 210 Non-Resident Tax Form](https://tramitit.com/english/guides/spain/model_210/)
-- [S-1 Declaration: How to Declare Money Moved to Spain](https://tramitit.com/english/guides/spain/s_1_declaration/)
-- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/english/guides/spain/model_347/)
+- [Model 720: Spanish Tax Declaration for Foreign Assets Guide](https://tramitit.com/guides/spain/model_720/)
+- [Model 151 Guide: Foreign Asset Declaration for Beckham Law Users](https://tramitit.com/guides/spain/model_151/)
+- [Understanding Spain's Model 210 Non-Resident Tax Form](https://tramitit.com/guides/spain/model_210/)
+- [S-1 Declaration: How to Declare Money Moved to Spain](https://tramitit.com/guides/spain/s_1_declaration/)
+- [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/guides/spain/model_347/)

@@ -46,8 +46,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviços. Se você
 ## Detalhes adicionais
 ## Related Posts
 
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Como Obter e Usar um Carteira de Trabalho no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_trabalho/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Como Obter e Usar um Carteira de Trabalho no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_trabalho/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)

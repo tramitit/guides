@@ -45,8 +45,8 @@ Cualquier ciudadano español, independientemente de su edad, puede solicitar un 
 
 ## Related Posts
 
-- [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/spanish/guides/spain/renovacion_de_pasaporte/)
-- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)
-- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/spanish/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
-- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/renovacion_del_dni/)
-- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_nacionalidad/)
+- [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/es/guides/spain/renovacion_de_pasaporte/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
+- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/es/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
+- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_dni/)
+- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)

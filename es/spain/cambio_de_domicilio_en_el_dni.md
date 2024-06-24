@@ -43,8 +43,8 @@ Después de haber cambiado tu dirección, asegúrate de actualizar tu informaci�
 
 ## Related Posts
 
-- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/spanish/guides/spain/asignación_de_nie_a_instancia_de_interesado/)
-- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/spanish/guides/spain/solicitud_de_nie/)
-- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)
-- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/spanish/guides/spain/cédula_de_inscripción/)
-- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/renovacion_del_dni/)
+- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/es/guides/spain/asignación_de_nie_a_instancia_de_interesado/)
+- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
+- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_dni/)

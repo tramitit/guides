@@ -50,8 +50,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 - Verifica los requisitos específicos del consulado, ya que pueden haber variaciones.
 ## Related Posts
 
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_permanente/)
-- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_temporal/)
-- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/spanish/guides/mexico/permiso_de_circulación/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/spanish/guides/mexico/legalización_de_documentos/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)
+- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/es/guides/mexico/permiso_de_residencia_temporal/)
+- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulación/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)

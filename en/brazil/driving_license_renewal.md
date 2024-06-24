@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/english/guides/brazil/driving_license/)
-- [Obtain Your Permanent Driving License in Brazil Easily](https://tramitit.com/english/guides/brazil/permanent_driving_license/)
-- [Complete Guide to Vehicle Licensing in Brazil - Steps & Documents](https://tramitit.com/english/guides/brazil/vehicle_licensing/)
-- [Get Your International Driving Permit for Brazil Easily](https://tramitit.com/english/guides/brazil/international_driving_permit/)
-- [Seamless Vehicle Ownership Transfer Service in Brazil](https://tramitit.com/english/guides/brazil/vehicle_transfer/)
+- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/guides/brazil/driving_license/)
+- [Obtain Your Permanent Driving License in Brazil Easily](https://tramitit.com/guides/brazil/permanent_driving_license/)
+- [Complete Guide to Vehicle Licensing in Brazil - Steps & Documents](https://tramitit.com/guides/brazil/vehicle_licensing/)
+- [Get Your International Driving Permit for Brazil Easily](https://tramitit.com/guides/brazil/international_driving_permit/)
+- [Seamless Vehicle Ownership Transfer Service in Brazil](https://tramitit.com/guides/brazil/vehicle_transfer/)

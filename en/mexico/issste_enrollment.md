@@ -47,8 +47,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/english/guides/mexico/imss_enrollment/)
-- [Understanding and Managing Social Security in Mexico for Expats](https://tramitit.com/english/guides/mexico/social_security/)
-- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/english/guides/mexico/pension_request/)
-- [Get Your Mexican Voter ID - Steps and Requirements](https://tramitit.com/english/guides/mexico/voter_id/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
+- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/guides/mexico/imss_enrollment/)
+- [Understanding and Managing Social Security in Mexico for Expats](https://tramitit.com/guides/mexico/social_security/)
+- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/guides/mexico/pension_request/)
+- [Get Your Mexican Voter ID - Steps and Requirements](https://tramitit.com/guides/mexico/voter_id/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)

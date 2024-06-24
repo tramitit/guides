@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Las copias digitales de actas de nacimiento pueden ser aceptadas para ciertos usos oficiales, según las regulaciones locales.
 ## Related Posts
 
-- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/spanish/guides/mexico/solicitud_de_acta_de_adopción/)
-- [Solitud de nacionalidad en México: guía completa y requisitos](https://tramitit.com/spanish/guides/mexico/solicitud_de_nacionalidad/)
-- [Obtén un Certificado de Defunción en México Rápido y Fácil](https://tramitit.com/spanish/guides/mexico/acta_de_defunción/)
-- [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/spanish/guides/mexico/acta_de_matrimonio/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/spanish/guides/mexico/legalización_de_documentos/)
+- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopción/)
+- [Solitud de nacionalidad en México: guía completa y requisitos](https://tramitit.com/es/guides/mexico/solicitud_de_nacionalidad/)
+- [Obtén un Certificado de Defunción en México Rápido y Fácil](https://tramitit.com/es/guides/mexico/acta_de_defunción/)
+- [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)

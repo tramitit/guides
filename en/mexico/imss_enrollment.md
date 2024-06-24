@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Enroll in ISSSTE in Mexico - Easy Steps and Tips](https://tramitit.com/english/guides/mexico/issste_enrollment/)
-- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/english/guides/mexico/pension_request/)
-- [Understanding and Managing Social Security in Mexico for Expats](https://tramitit.com/english/guides/mexico/social_security/)
-- [Effortless CURP Registration Guide for Mexico Residents](https://tramitit.com/english/guides/mexico/curp_registration/)
-- [Unemployment Subsidy in Mexico - Financial Aid for Job Seekers](https://tramitit.com/english/guides/mexico/unemployment_subsidy_request/)
+- [How to Enroll in ISSSTE in Mexico - Easy Steps and Tips](https://tramitit.com/guides/mexico/issste_enrollment/)
+- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/guides/mexico/pension_request/)
+- [Understanding and Managing Social Security in Mexico for Expats](https://tramitit.com/guides/mexico/social_security/)
+- [Effortless CURP Registration Guide for Mexico Residents](https://tramitit.com/guides/mexico/curp_registration/)
+- [Unemployment Subsidy in Mexico - Financial Aid for Job Seekers](https://tramitit.com/guides/mexico/unemployment_subsidy_request/)

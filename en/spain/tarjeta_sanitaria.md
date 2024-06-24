@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Form filling and appointment booking might be required to be done in person. Call your nearest CAISS office to inquire about specific prerequisites. You may also need to book an appointment to apply for your tarjeta sanitaria. This depends on each CAISS office. Also, remember that accessing health services without the tarjeta sanitaria can result in hefty fees. Therefore, it's quite essential to obtain it. The card will usually arrive by post to your Spanish address within a couple of weeks of your successful application.
 ## Related Posts
 
-- [How to Get Your Health Card in Spain: Essential Guide (TSE)](https://tramitit.com/english/guides/spain/health_card_application/)
-- [How to Apply for the Spanish European Health Card (TSE)](https://tramitit.com/english/guides/spain/health_card_renewal/)
-- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/english/guides/spain/spanish_social_security_number/)
-- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/english/guides/spain/student_card_application/)
-- [How to Renew Your EU Resident Card (TIE) in Spain - Step by Step](https://tramitit.com/english/guides/spain/eu_resident_card_renewal/)
+- [How to Get Your Health Card in Spain: Essential Guide (TSE)](https://tramitit.com/guides/spain/health_card_application/)
+- [How to Apply for the Spanish European Health Card (TSE)](https://tramitit.com/guides/spain/health_card_renewal/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)
+- [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/guides/spain/student_card_application/)
+- [How to Renew Your EU Resident Card (TIE) in Spain - Step by Step](https://tramitit.com/guides/spain/eu_resident_card_renewal/)

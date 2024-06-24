@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Obtain Your Lien-Free Certificate in Mexico Easily](https://tramitit.com/english/guides/mexico/lien-free_certificate/)
-- [Obtain a Mexican Criminal Background Check - Steps & Requirements](https://tramitit.com/english/guides/mexico/criminal_background_check/)
-- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/english/guides/mexico/death_certificate/)
-- [Obtain Your Tax Status Certificate in Mexico Effortlessly](https://tramitit.com/english/guides/mexico/tax_status_certificate/)
-- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/english/guides/mexico/adoption_certificate_request/)
+- [Obtain Your Lien-Free Certificate in Mexico Easily](https://tramitit.com/guides/mexico/lien-free_certificate/)
+- [Obtain a Mexican Criminal Background Check - Steps & Requirements](https://tramitit.com/guides/mexico/criminal_background_check/)
+- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/guides/mexico/death_certificate/)
+- [Obtain Your Tax Status Certificate in Mexico Effortlessly](https://tramitit.com/guides/mexico/tax_status_certificate/)
+- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/guides/mexico/adoption_certificate_request/)

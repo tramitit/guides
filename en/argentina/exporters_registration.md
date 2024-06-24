@@ -56,8 +56,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/english/guides/argentina/importers_registration/)
-- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/english/guides/argentina/self-employed_registration/)
-- [Effortless Electric Service Registration in Argentina](https://tramitit.com/english/guides/argentina/electric_service_registration/)
-- [Vehicle Registration in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/vehicle_registration/)
-- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/english/guides/argentina/cuit_certificate/)
+- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/guides/argentina/importers_registration/)
+- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/guides/argentina/self-employed_registration/)
+- [Effortless Electric Service Registration in Argentina](https://tramitit.com/guides/argentina/electric_service_registration/)
+- [Vehicle Registration in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/vehicle_registration/)
+- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/guides/argentina/cuit_certificate/)

@@ -47,8 +47,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guide to Brazil's Single Registry Program](https://tramitit.com/english/guides/brazil/single_registry_for_social_programs/)
-- [Comprehensive Guide to Brazil's Social Integration Program](https://tramitit.com/english/guides/brazil/social_integration_program/)
-- [Maternity Allowance in Brazil - Eligibility and How to Apply](https://tramitit.com/english/guides/brazil/maternity_allowance_request/)
-- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/english/guides/brazil/social_security/)
-- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/english/guides/brazil/unemployment_insurance/)
+- [Comprehensive Guide to Brazil's Single Registry Program](https://tramitit.com/guides/brazil/single_registry_for_social_programs/)
+- [Comprehensive Guide to Brazil's Social Integration Program](https://tramitit.com/guides/brazil/social_integration_program/)
+- [Maternity Allowance in Brazil - Eligibility and How to Apply](https://tramitit.com/guides/brazil/maternity_allowance_request/)
+- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/guides/brazil/social_security/)
+- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/guides/brazil/unemployment_insurance/)

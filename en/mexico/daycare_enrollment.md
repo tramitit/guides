@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guide to Enrolling in Mexican Universities](https://tramitit.com/english/guides/mexico/higher_education_enrollment/)
-- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/english/guides/mexico/birth_certificate/)
-- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/english/guides/mexico/adoption_certificate_request/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
-- [Mexico Travel Permit for Minors - Essential Guide and Procedure](https://tramitit.com/english/guides/mexico/travel_permit_for_minors_request/)
+- [Comprehensive Guide to Enrolling in Mexican Universities](https://tramitit.com/guides/mexico/higher_education_enrollment/)
+- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/guides/mexico/birth_certificate/)
+- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/guides/mexico/adoption_certificate_request/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)
+- [Mexico Travel Permit for Minors - Essential Guide and Procedure](https://tramitit.com/guides/mexico/travel_permit_for_minors_request/)

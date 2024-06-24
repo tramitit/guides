@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
-- [Effortless Social Security Registration in Argentina](https://tramitit.com/english/guides/argentina/social_security_registration/)
-- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/english/guides/argentina/unemployment_subsidy_request/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/english/guides/argentina/self-employed_registration/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)
+- [Effortless Social Security Registration in Argentina](https://tramitit.com/guides/argentina/social_security_registration/)
+- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/guides/argentina/unemployment_subsidy_request/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/guides/argentina/self-employed_registration/)

@@ -57,8 +57,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 
 ## Related Posts
 
-- [Guía del Modelo 790 Código 012: Pago y Regularización del NIE](https://tramitit.com/spanish/guides/spain/modelo_390/)
-- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/spanish/guides/spain/solicitud_de_nie/)
-- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/spanish/guides/spain/cédula_de_inscripción/)
-- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/spanish/guides/spain/modelo_190/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/spanish/guides/spain/modelo_036/)
+- [Guía del Modelo 790 Código 012: Pago y Regularización del NIE](https://tramitit.com/es/guides/spain/modelo_390/)
+- [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
+- [Guía Completa del Modelo 190: Declaración de Retenciones IRPF](https://tramitit.com/es/guides/spain/modelo_190/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)

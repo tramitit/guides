@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless Property Registration in Brazil Service](https://tramitit.com/english/guides/brazil/property_registration/)
-- [Complete Guide to Association Registration in Brazil](https://tramitit.com/english/guides/brazil/association_registration/)
-- [Effortless Electoral Regularization in Brazil Online](https://tramitit.com/english/guides/brazil/electoral_regularization/)
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
-- [Effortless NGO Registration in Brazil - Legal Guidance & Support](https://tramitit.com/english/guides/brazil/ngo_registration/)
+- [Effortless Property Registration in Brazil Service](https://tramitit.com/guides/brazil/property_registration/)
+- [Complete Guide to Association Registration in Brazil](https://tramitit.com/guides/brazil/association_registration/)
+- [Effortless Electoral Regularization in Brazil Online](https://tramitit.com/guides/brazil/electoral_regularization/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)
+- [Effortless NGO Registration in Brazil - Legal Guidance & Support](https://tramitit.com/guides/brazil/ngo_registration/)

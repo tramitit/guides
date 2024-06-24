@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Family Subsidy Request Service in Argentina - Financial Aid Info](https://tramitit.com/english/guides/argentina/family_subsidy_request/)
-- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/english/guides/argentina/unemployment_subsidy_request/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
-- [Comprehensive Guide to Scholarship Applications in Argentina](https://tramitit.com/english/guides/argentina/scholarship_application/)
+- [Family Subsidy Request Service in Argentina - Financial Aid Info](https://tramitit.com/guides/argentina/family_subsidy_request/)
+- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/guides/argentina/unemployment_subsidy_request/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)
+- [Comprehensive Guide to Scholarship Applications in Argentina](https://tramitit.com/guides/argentina/scholarship_application/)

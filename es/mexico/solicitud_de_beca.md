@@ -49,8 +49,8 @@ _(Estamos curando a los mejores proveedores actualmente. Si eres un proveedor o 
 - Sigue las instrucciones exactamente como se indican en las pautas de la beca para evitar errores.
 ## Related Posts
 
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/spanish/guides/mexico/inscripción_a_educación_superior/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Subsidios de Vivienda en México: Guía Completa y Procedimientos](https://tramitit.com/spanish/guides/mexico/solicitud_de_subsidio_para_vivienda/)
-- [Registro SAT en México - Guía Completa para Estudiantes y Padres](https://tramitit.com/spanish/guides/mexico/inscripción_al_sat/)
-- [Guía Completa para Inscripción en Guarderías en México](https://tramitit.com/spanish/guides/mexico/inscripción_a_la_guardería/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Subsidios de Vivienda en México: Guía Completa y Procedimientos](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_vivienda/)
+- [Registro SAT en México - Guía Completa para Estudiantes y Padres](https://tramitit.com/es/guides/mexico/inscripción_al_sat/)
+- [Guía Completa para Inscripción en Guarderías en México](https://tramitit.com/es/guides/mexico/inscripción_a_la_guardería/)

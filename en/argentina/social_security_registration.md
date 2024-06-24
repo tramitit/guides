@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Guide to Securely Filing Your Argentine Pension Request](https://tramitit.com/english/guides/argentina/pension_request/)
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
-- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/english/guides/argentina/self-employed_registration/)
-- [Health System Registration Guide for New Residents in Argentina](https://tramitit.com/english/guides/argentina/health_system_registration/)
-- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/english/guides/argentina/unemployment_subsidy_request/)
+- [Guide to Securely Filing Your Argentine Pension Request](https://tramitit.com/guides/argentina/pension_request/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)
+- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/guides/argentina/self-employed_registration/)
+- [Health System Registration Guide for New Residents in Argentina](https://tramitit.com/guides/argentina/health_system_registration/)
+- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/guides/argentina/unemployment_subsidy_request/)

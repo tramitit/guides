@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/english/guides/brazil/driving_license/)
-- [Efficient Brazilian Driving License Renewal Service Guide](https://tramitit.com/english/guides/brazil/driving_license_renewal/)
-- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/english/guides/brazil/permit_issuance/)
-- [Complete Guide to Vehicle Licensing in Brazil - Steps & Documents](https://tramitit.com/english/guides/brazil/vehicle_licensing/)
-- [Understand and Manage Your FGTS in Brazil Securely and Easily](https://tramitit.com/english/guides/brazil/fgts_consultation/)
+- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/guides/brazil/driving_license/)
+- [Efficient Brazilian Driving License Renewal Service Guide](https://tramitit.com/guides/brazil/driving_license_renewal/)
+- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/guides/brazil/permit_issuance/)
+- [Complete Guide to Vehicle Licensing in Brazil - Steps & Documents](https://tramitit.com/guides/brazil/vehicle_licensing/)
+- [Understand and Manage Your FGTS in Brazil Securely and Easily](https://tramitit.com/guides/brazil/fgts_consultation/)

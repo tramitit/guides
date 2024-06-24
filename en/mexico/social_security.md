@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/english/guides/mexico/imss_enrollment/)
-- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/english/guides/mexico/pension_request/)
-- [How to Enroll in ISSSTE in Mexico - Easy Steps and Tips](https://tramitit.com/english/guides/mexico/issste_enrollment/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
+- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/guides/mexico/imss_enrollment/)
+- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/guides/mexico/pension_request/)
+- [How to Enroll in ISSSTE in Mexico - Easy Steps and Tips](https://tramitit.com/guides/mexico/issste_enrollment/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)

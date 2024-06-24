@@ -45,8 +45,8 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - Documentos em língua estrangeira podem precisar ser traduzidos por um tradutor certificado.
 ## Related Posts
 
-- [Como Obter uma Certidão de Óbito no Brasil - Guia Completo](https://tramitit.com/portuguese/guides/brazil/certidão_de_óbito/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
-- [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/portuguese/guides/brazil/registro_de_nascimento/)
-- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/portuguese/guides/brazil/registro_de_imóveis/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
+- [Como Obter uma Certidão de Óbito no Brasil - Guia Completo](https://tramitit.com/pt/guides/brazil/certidão_de_óbito/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/pt/guides/brazil/registro_de_nascimento/)
+- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_imóveis/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)

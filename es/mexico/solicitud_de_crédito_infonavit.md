@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Asegúrate de que todos los documentos sean válidos y estén actualizados para evitar retrasos.
 ## Related Posts
 
-- [Subsidios de Vivienda en México: Guía Completa y Procedimientos](https://tramitit.com/spanish/guides/mexico/solicitud_de_subsidio_para_vivienda/)
-- [Obtén tu Credencial de Elector mexicana - Pasos y requisitos](https://tramitit.com/spanish/guides/mexico/credencial_para_votar/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Solicita el Subsidio por Desempleo en México Ahora](https://tramitit.com/spanish/guides/mexico/solicitud_de_subsidio_para_desempleo/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/spanish/guides/mexico/inscripción_a_educación_superior/)
+- [Subsidios de Vivienda en México: Guía Completa y Procedimientos](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_vivienda/)
+- [Obtén tu Credencial de Elector mexicana - Pasos y requisitos](https://tramitit.com/es/guides/mexico/credencial_para_votar/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Solicita el Subsidio por Desempleo en México Ahora](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_desempleo/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)

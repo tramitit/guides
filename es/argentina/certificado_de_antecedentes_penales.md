@@ -44,8 +44,8 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres un proveedo
 - Asegúrate de que cualquier historial criminal previo sea revelado con precisión para evitar cualquier retraso o rechazo.
 ## Related Posts
 
-- [Obtenga un Certificado de Buena Conducta en Argentina - Guía](https://tramitit.com/spanish/guides/argentina/certificado_de_buena_conducta/)
-- [Obtenga fácilmente su Certificado Nacional de Antecedentes de Tránsito](https://tramitit.com/spanish/guides/argentina/certificado_cenat/)
-- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/spanish/guides/argentina/certificado_de_domicilio/)
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_nacimiento/)
+- [Obtenga un Certificado de Buena Conducta en Argentina - Guía](https://tramitit.com/es/guides/argentina/certificado_de_buena_conducta/)
+- [Obtenga fácilmente su Certificado Nacional de Antecedentes de Tránsito](https://tramitit.com/es/guides/argentina/certificado_cenat/)
+- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_nacimiento/)

@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/english/guides/mexico/circulation_permit/)
-- [Swift Mexico Vehicle Registration - Efficient and Legal Compliance](https://tramitit.com/english/guides/mexico/vehicle_registration/)
-- [Streamlined Divorce Services for Expatriates in Mexico - Legal Aid](https://tramitit.com/english/guides/mexico/divorce_proceeding/)
-- [Duplicate Driving License in Mexico - Quick & Easy Process](https://tramitit.com/english/guides/mexico/duplicate_driving_license_issuance/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/guides/mexico/circulation_permit/)
+- [Swift Mexico Vehicle Registration - Efficient and Legal Compliance](https://tramitit.com/guides/mexico/vehicle_registration/)
+- [Streamlined Divorce Services for Expatriates in Mexico - Legal Aid](https://tramitit.com/guides/mexico/divorce_proceeding/)
+- [Duplicate Driving License in Mexico - Quick & Easy Process](https://tramitit.com/guides/mexico/duplicate_driving_license_issuance/)

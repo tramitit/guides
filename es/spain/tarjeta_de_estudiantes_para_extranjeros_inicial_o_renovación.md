@@ -54,8 +54,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a u
 
 ## Related Posts
 
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Renovación Tarjeta de Estudiante en España: Guía Completa](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_de_estudiante/)
-- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
-- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
-- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Renovación Tarjeta de Estudiante en España: Guía Completa](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_estudiante/)
+- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
+- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
+- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)

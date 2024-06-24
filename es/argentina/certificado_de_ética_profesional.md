@@ -50,8 +50,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a u
 - El tiempo de entrega del certificado puede variar; consulta con la autoridad relevante para los tiempos de procesamiento.
 ## Related Posts
 
-- [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_idoneidad/)
-- [Obtenga un Certificado de Buena Conducta en Argentina - Guía](https://tramitit.com/spanish/guides/argentina/certificado_de_buena_conducta/)
-- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_certificado_de_soltería/)
-- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/spanish/guides/argentina/certificado_de_defunción/)
-- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/spanish/guides/argentina/constancia_de_cuit/)
+- [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_idoneidad/)
+- [Obtenga un Certificado de Buena Conducta en Argentina - Guía](https://tramitit.com/es/guides/argentina/certificado_de_buena_conducta/)
+- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_certificado_de_soltería/)
+- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/es/guides/argentina/certificado_de_defunción/)
+- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/es/guides/argentina/constancia_de_cuit/)

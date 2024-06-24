@@ -46,8 +46,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a u
 - En ocasiones, una carta notariada de tu arrendador puede ser suficiente si no tienes una factura de servicios a tu nombre.
 ## Related Posts
 
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/spanish/guides/argentina/documento_nacional_de_identidad/)
-- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/spanish/guides/argentina/certificado_de_matrimonio/)
-- [Servicio Eficiente de Cambio de Dirección en Argentina](https://tramitit.com/spanish/guides/argentina/cambio_de_domicilio/)
-- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_certificado_de_soltería/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/es/guides/argentina/documento_nacional_de_identidad/)
+- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/es/guides/argentina/certificado_de_matrimonio/)
+- [Servicio Eficiente de Cambio de Dirección en Argentina](https://tramitit.com/es/guides/argentina/cambio_de_domicilio/)
+- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_certificado_de_soltería/)

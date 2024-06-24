@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Mantente informado sobre los plazos y períodos de presentación de solicitudes de subsidio.
 ## Related Posts
 
-- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_habitacional/)
-- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_de_desempleo/)
-- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/spanish/guides/argentina/solicitud_de_jubilación/)
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/spanish/guides/argentina/solicitud_de_pensión/)
+- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_habitacional/)
+- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_de_desempleo/)
+- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilación/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/es/guides/argentina/solicitud_de_pensión/)

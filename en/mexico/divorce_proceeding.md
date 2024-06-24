@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/english/guides/mexico/adoption_certificate_request/)
-- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/english/guides/mexico/marriage_certificate/)
-- [Efficient Document Legalization Services in Mexico](https://tramitit.com/english/guides/mexico/document_legalization/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/english/guides/mexico/death_certificate/)
+- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/guides/mexico/adoption_certificate_request/)
+- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/guides/mexico/marriage_certificate/)
+- [Efficient Document Legalization Services in Mexico](https://tramitit.com/guides/mexico/document_legalization/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/guides/mexico/death_certificate/)

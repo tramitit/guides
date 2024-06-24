@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Secure Your National Traffic Records Certificate Easily](https://tramitit.com/english/guides/argentina/national_traffic_records_certificate/)
-- [Vehicle Registration in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/vehicle_registration/)
-- [How to Obtain a Driver's License in Argentina - Complete Guide](https://tramitit.com/english/guides/argentina/drivers_license/)
-- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/english/guides/argentina/importers_registration/)
-- [Driver's License Renewal in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/drivers_license_renewal/)
+- [Secure Your National Traffic Records Certificate Easily](https://tramitit.com/guides/argentina/national_traffic_records_certificate/)
+- [Vehicle Registration in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/vehicle_registration/)
+- [How to Obtain a Driver's License in Argentina - Complete Guide](https://tramitit.com/guides/argentina/drivers_license/)
+- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/guides/argentina/importers_registration/)
+- [Driver's License Renewal in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/drivers_license_renewal/)

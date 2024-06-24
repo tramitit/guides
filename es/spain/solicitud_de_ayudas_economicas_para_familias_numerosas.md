@@ -49,8 +49,8 @@ Recuerde que cada programa de ayuda puede tener su propio conjunto de criterios 
 
 ## Related Posts
 
-- [Cómo Solicitar Asistencia para el Alquiler: Guía Completa](https://tramitit.com/spanish/guides/spain/solicitud_de_ayuda_para_el_alquiler/)
-- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/spanish/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
-- [Solicitud de Becas Educativas: Proceso, Documentos y Proveedores](https://tramitit.com/spanish/guides/spain/solicitar_becas_educativas/)
-- [Reunificación Familiar en España: Proceso y Requisitos](https://tramitit.com/spanish/guides/spain/reagrupacion_familiar/)
-- [Residencia para Familiares de Ciudadanos de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_de_residencia_de_familiar_de_comunitario/)
+- [Cómo Solicitar Asistencia para el Alquiler: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_ayuda_para_el_alquiler/)
+- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
+- [Solicitud de Becas Educativas: Proceso, Documentos y Proveedores](https://tramitit.com/es/guides/spain/solicitar_becas_educativas/)
+- [Reunificación Familiar en España: Proceso y Requisitos](https://tramitit.com/es/guides/spain/reagrupacion_familiar/)
+- [Residencia para Familiares de Ciudadanos de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_de_residencia_de_familiar_de_comunitario/)

@@ -55,8 +55,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Duplicate Driving License in Mexico - Quick & Easy Process](https://tramitit.com/english/guides/mexico/duplicate_driving_license_issuance/)
-- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/english/guides/mexico/circulation_permit/)
-- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/english/guides/mexico/reissuance_of_license_plates/)
-- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/english/guides/mexico/mexican_passport/)
-- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/english/guides/mexico/work_permit/)
+- [Duplicate Driving License in Mexico - Quick & Easy Process](https://tramitit.com/guides/mexico/duplicate_driving_license_issuance/)
+- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/guides/mexico/circulation_permit/)
+- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/guides/mexico/reissuance_of_license_plates/)
+- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/guides/mexico/mexican_passport/)
+- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/guides/mexico/work_permit/)

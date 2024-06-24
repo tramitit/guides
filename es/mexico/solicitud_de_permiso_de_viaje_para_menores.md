@@ -46,8 +46,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 - Para obtener más detalles, visita el sitio web oficial de inmigración de México.
 ## Related Posts
 
-- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_permanente/)
-- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/spanish/guides/mexico/permiso_de_trabajo/)
-- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_temporal/)
-- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/spanish/guides/mexico/permiso_de_circulación/)
-- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/pasaporte_mexicano/)
+- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)
+- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)
+- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/es/guides/mexico/permiso_de_residencia_temporal/)
+- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulación/)
+- [Renovación de Pasaporte Mexicano en México - Guía Completa](https://tramitit.com/es/guides/mexico/pasaporte_mexicano/)

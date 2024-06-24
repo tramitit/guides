@@ -46,8 +46,8 @@ _(Estamos curando os melhores prestadores. Se você é ou conhece um prestador, 
 - Atrasos na notificação de um acidente podem complicar o processo de reclamação, então ação rápida é recomendada.
 ## Related Posts
 
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/portuguese/guides/brazil/licenciamento_de_veículo/)
-- [Serviço Especializado de Consulta de Multas de Trânsito no Brasil](https://tramitit.com/portuguese/guides/brazil/consulta_de_multas/)
-- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/portuguese/guides/brazil/previdência_social/)
-- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/portuguese/guides/brazil/cnh_definitiva/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
+- [Serviço Especializado de Consulta de Multas de Trânsito no Brasil](https://tramitit.com/pt/guides/brazil/consulta_de_multas/)
+- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previdência_social/)
+- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)

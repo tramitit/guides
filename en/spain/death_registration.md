@@ -45,8 +45,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/death_certificate/)
-- [Guide to Obtaining a Last Will Certificate in Spain](https://tramitit.com/english/guides/spain/last_will_certificate_request/)
-- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/birth_certificate/)
-- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/english/guides/spain/birth_registration/)
-- [Certificate of Last Will Acts: A Guide for Executors and Heirs](https://tramitit.com/english/guides/spain/certificate_of_last_will_acts/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)
+- [Guide to Obtaining a Last Will Certificate in Spain](https://tramitit.com/guides/spain/last_will_certificate_request/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/guides/spain/birth_registration/)
+- [Certificate of Last Will Acts: A Guide for Executors and Heirs](https://tramitit.com/guides/spain/certificate_of_last_will_acts/)

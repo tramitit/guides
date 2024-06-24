@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless Electric Service Registration in Argentina](https://tramitit.com/english/guides/argentina/electric_service_registration/)
-- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/english/guides/argentina/proof_of_residency/)
-- [Official Change of Address Service in Argentina - Essential Guide](https://tramitit.com/english/guides/argentina/change_of_address/)
-- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/english/guides/argentina/self-employed_registration/)
-- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/english/guides/argentina/exporters_registration/)
+- [Effortless Electric Service Registration in Argentina](https://tramitit.com/guides/argentina/electric_service_registration/)
+- [How to Obtain Proof of Residency in Argentina - Step-by-Step Guide](https://tramitit.com/guides/argentina/proof_of_residency/)
+- [Official Change of Address Service in Argentina - Essential Guide](https://tramitit.com/guides/argentina/change_of_address/)
+- [Self-Employed Registration in Argentina - Comprehensive Guide](https://tramitit.com/guides/argentina/self-employed_registration/)
+- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/guides/argentina/exporters_registration/)

@@ -49,8 +49,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 - Mantenerse actualizado sobre cambios económicos que puedan afectar los costos de importación, como fluctuaciones en las tasas de cambio.
 ## Related Posts
 
-- [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/spanish/guides/argentina/registro_de_exportadores/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_régimen_de_autónomos/)
-- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/spanish/guides/argentina/constancia_de_cuit/)
-- [Registro de vehículos sin complicaciones en Argentina](https://tramitit.com/spanish/guides/argentina/registro_automotor/)
-- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/spanish/guides/argentina/alta_de_servicio_eléctrico/)
+- [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/es/guides/argentina/registro_de_exportadores/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/es/guides/argentina/constancia_de_cuit/)
+- [Registro de vehículos sin complicaciones en Argentina](https://tramitit.com/es/guides/argentina/registro_automotor/)
+- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/es/guides/argentina/alta_de_servicio_eléctrico/)

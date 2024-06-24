@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Mantente informado de cualquier anuncio o cambio relacionado con el programa de subsidio de vivienda revisando regularmente el sitio web oficial u oficinas de vivienda locales.
 ## Related Posts
 
-- [Servicio de Solicitud de Subsidios Familiares en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_familiar/)
-- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_de_desempleo/)
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/spanish/guides/argentina/solicitud_de_jubilación/)
-- [Guía Integral para Solicitudes de Becas en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_beca/)
+- [Servicio de Solicitud de Subsidios Familiares en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_familiar/)
+- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_de_desempleo/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilación/)
+- [Guía Integral para Solicitudes de Becas en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_beca/)

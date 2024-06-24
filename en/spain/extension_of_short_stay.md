@@ -64,8 +64,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Renew Your Work Permit in Spain: A Comprehensive Guide](https://tramitit.com/english/guides/spain/work_permit_renewal/)
-- [Authorization and Renewal of Temporary Residence: Step-by-Step Guide](https://tramitit.com/english/guides/spain/authorization_and_renewal_of_temporary_residence_for_exceptional_circumstances/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [How to Apply for a Spain Work Permit: Step-by-Step Guide](https://tramitit.com/english/guides/spain/work_permit_application/)
-- [How to Get a Long-term Residence Card in Spain: A Complete Guide](https://tramitit.com/english/guides/spain/long-term_residence_card/)
+- [How to Renew Your Work Permit in Spain: A Comprehensive Guide](https://tramitit.com/guides/spain/work_permit_renewal/)
+- [Authorization and Renewal of Temporary Residence: Step-by-Step Guide](https://tramitit.com/guides/spain/authorization_and_renewal_of_temporary_residence_for_exceptional_circumstances/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [How to Apply for a Spain Work Permit: Step-by-Step Guide](https://tramitit.com/guides/spain/work_permit_application/)
+- [How to Get a Long-term Residence Card in Spain: A Complete Guide](https://tramitit.com/guides/spain/long-term_residence_card/)

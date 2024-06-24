@@ -45,8 +45,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 - Deve agendar sua renovação com antecedência para evitar quaisquer inconveniências legais.
 ## Related Posts
 
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
-- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/portuguese/guides/brazil/cnh_definitiva/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/portuguese/guides/brazil/licenciamento_de_veículo/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/portuguese/guides/brazil/emissão_de_passaporte/)
-- [Obtenha facilmente sua Permissão Internacional para Dirigir no Brasil](https://tramitit.com/portuguese/guides/brazil/permissão_internacional_para_dirigir/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
+- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Obtenha facilmente sua Permissão Internacional para Dirigir no Brasil](https://tramitit.com/pt/guides/brazil/permissão_internacional_para_dirigir/)

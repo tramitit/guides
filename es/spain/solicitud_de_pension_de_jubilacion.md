@@ -57,8 +57,8 @@ El sistema de pensiones español se basa en un modelo de trabajador-contribuyent
 
 ## Related Posts
 
-- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/spanish/guides/spain/solicitud_de_prestacion_por_desempleo/)
-- [Cómo solicitar cita en SEPE España y qué documentos necesitas](https://tramitit.com/spanish/guides/spain/solicitud_de_cita_previa_para_el_sepe/)
-- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/spanish/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
-- [Baja por Paternidad en España: Procedimiento y Prestaciones](https://tramitit.com/spanish/guides/spain/solicitud_de_la_baja_por_paternidad/)
-- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_nacionalidad/)
+- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_prestacion_por_desempleo/)
+- [Cómo solicitar cita en SEPE España y qué documentos necesitas](https://tramitit.com/es/guides/spain/solicitud_de_cita_previa_para_el_sepe/)
+- [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
+- [Baja por Paternidad en España: Procedimiento y Prestaciones](https://tramitit.com/es/guides/spain/solicitud_de_la_baja_por_paternidad/)
+- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)

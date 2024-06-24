@@ -50,8 +50,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - * **Apoyo Externo:** Organizaciones y ONGs pueden proporcionar apoyo y recursos adicionales durante tu proceso de solicitud.
 ## Related Posts
 
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Solitud de nacionalidad en México: guía completa y requisitos](https://tramitit.com/spanish/guides/mexico/solicitud_de_nacionalidad/)
-- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_permanente/)
-- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/spanish/guides/mexico/permiso_de_trabajo/)
-- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_temporal/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Solitud de nacionalidad en México: guía completa y requisitos](https://tramitit.com/es/guides/mexico/solicitud_de_nacionalidad/)
+- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)
+- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)
+- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/es/guides/mexico/permiso_de_residencia_temporal/)

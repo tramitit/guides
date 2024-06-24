@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/english/guides/mexico/adoption_certificate_request/)
-- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/english/guides/mexico/death_certificate/)
-- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/english/guides/mexico/marriage_certificate/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
-- [Dual Nationality in Mexico - Complete Guide for Expats & Descendants](https://tramitit.com/english/guides/mexico/nationality_request/)
+- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/guides/mexico/adoption_certificate_request/)
+- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/guides/mexico/death_certificate/)
+- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/guides/mexico/marriage_certificate/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)
+- [Dual Nationality in Mexico - Complete Guide for Expats & Descendants](https://tramitit.com/guides/mexico/nationality_request/)

@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/english/guides/brazil/social_security/)
-- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/english/guides/brazil/retirement_request/)
-- [How to Obtain a Death Certificate in Brazil - A Step-by-Step Guide](https://tramitit.com/english/guides/brazil/death_certificate/)
-- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/english/guides/brazil/unemployment_insurance/)
-- [Maternity Allowance in Brazil - Eligibility and How to Apply](https://tramitit.com/english/guides/brazil/maternity_allowance_request/)
+- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/guides/brazil/social_security/)
+- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/guides/brazil/retirement_request/)
+- [How to Obtain a Death Certificate in Brazil - A Step-by-Step Guide](https://tramitit.com/guides/brazil/death_certificate/)
+- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/guides/brazil/unemployment_insurance/)
+- [Maternity Allowance in Brazil - Eligibility and How to Apply](https://tramitit.com/guides/brazil/maternity_allowance_request/)

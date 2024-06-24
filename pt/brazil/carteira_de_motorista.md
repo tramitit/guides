@@ -51,8 +51,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 - Permissões de condução internacional podem ser válidas para visitantes de curto prazo, mas não para residentes de longo prazo.
 ## Related Posts
 
-- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/portuguese/guides/brazil/cnh_definitiva/)
-- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/portuguese/guides/brazil/renovação_de_cnh/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/portuguese/guides/brazil/licenciamento_de_veículo/)
-- [Obtenha facilmente sua Permissão Internacional para Dirigir no Brasil](https://tramitit.com/portuguese/guides/brazil/permissão_internacional_para_dirigir/)
-- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/portuguese/guides/brazil/documento_de_identidade/)
+- [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)
+- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/pt/guides/brazil/renovação_de_cnh/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
+- [Obtenha facilmente sua Permissão Internacional para Dirigir no Brasil](https://tramitit.com/pt/guides/brazil/permissão_internacional_para_dirigir/)
+- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)

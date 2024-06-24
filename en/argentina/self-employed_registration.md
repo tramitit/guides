@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/english/guides/argentina/importers_registration/)
-- [Understanding Monotax - Simplified Tax Regime for Small Taxpayers](https://tramitit.com/english/guides/argentina/monotax_registration/)
-- [Effortless Social Security Registration in Argentina](https://tramitit.com/english/guides/argentina/social_security_registration/)
-- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/english/guides/argentina/exporters_registration/)
-- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/english/guides/argentina/cuit_certificate/)
+- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/guides/argentina/importers_registration/)
+- [Understanding Monotax - Simplified Tax Regime for Small Taxpayers](https://tramitit.com/guides/argentina/monotax_registration/)
+- [Effortless Social Security Registration in Argentina](https://tramitit.com/guides/argentina/social_security_registration/)
+- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/guides/argentina/exporters_registration/)
+- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/guides/argentina/cuit_certificate/)

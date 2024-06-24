@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - Asistencia legal: Considera contratar a un asesor legal familiarizado con las leyes de inmigración argentinas para navegar casos complejos o agilizar los procedimientos.
 ## Related Posts
 
-- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/spanish/guides/argentina/certificado_de_domicilio/)
-- [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/spanish/guides/argentina/pasaporte_argentino/)
-- [Guía Completa para Obtener una Visa de Trabajo en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_visa_de_trabajo/)
-- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/spanish/guides/argentina/certificado_de_matrimonio/)
-- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/spanish/guides/argentina/renovación_de_pasaporte/)
+- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)
+- [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/es/guides/argentina/pasaporte_argentino/)
+- [Guía Completa para Obtener una Visa de Trabajo en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_visa_de_trabajo/)
+- [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/es/guides/argentina/certificado_de_matrimonio/)
+- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/es/guides/argentina/renovación_de_pasaporte/)

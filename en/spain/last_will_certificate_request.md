@@ -52,8 +52,8 @@ Note that only the heirs or their authorized representatives can request the Las
 
 ## Related Posts
 
-- [Certificate of Last Will Acts: A Guide for Executors and Heirs](https://tramitit.com/english/guides/spain/certificate_of_last_will_acts/)
-- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/death_certificate/)
-- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/english/guides/spain/death_registration/)
-- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/english/guides/spain/criminal_record_certificate/)
-- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/english/guides/spain/marriage_certificate/)
+- [Certificate of Last Will Acts: A Guide for Executors and Heirs](https://tramitit.com/guides/spain/certificate_of_last_will_acts/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)
+- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/guides/spain/death_registration/)
+- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/guides/spain/criminal_record_certificate/)
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)

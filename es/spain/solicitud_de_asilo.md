@@ -45,8 +45,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Related Posts
 
-- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_nacionalidad/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/spanish/guides/spain/nacionalidad_española_por_residencia/)
-- [Reunificación Familiar en España: Proceso y Requisitos](https://tramitit.com/spanish/guides/spain/reagrupacion_familiar/)
-- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Solicitud de Ciudadanía Española: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/solicitud_de_nacionalidad/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/es/guides/spain/nacionalidad_española_por_residencia/)
+- [Reunificación Familiar en España: Proceso y Requisitos](https://tramitit.com/es/guides/spain/reagrupacion_familiar/)
+- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)

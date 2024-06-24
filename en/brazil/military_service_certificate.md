@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guide to Military Enlistment in Brazil](https://tramitit.com/english/guides/brazil/military_enlistment/)
-- [Medical Report Issuance Services in Brazil for All Needs](https://tramitit.com/english/guides/brazil/medical_report_issuance/)
-- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/english/guides/brazil/national_id/)
-- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/english/guides/brazil/marriage_certificate/)
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
+- [Comprehensive Guide to Military Enlistment in Brazil](https://tramitit.com/guides/brazil/military_enlistment/)
+- [Medical Report Issuance Services in Brazil for All Needs](https://tramitit.com/guides/brazil/medical_report_issuance/)
+- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/guides/brazil/national_id/)
+- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/guides/brazil/marriage_certificate/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)

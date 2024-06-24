@@ -49,8 +49,8 @@ _(Estamos actualmente seleccionando a los mejores proveedores. Si eres o conoces
 - El certificado debe renovarse periódicamente, según lo especificado durante la emisión.
 ## Related Posts
 
-- [Obtenga su Código Único de Identificación Laboral en Argentina](https://tramitit.com/spanish/guides/argentina/clave_única_de_identificación_laboral/)
-- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/spanish/guides/argentina/constancia_de_cuit/)
-- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_de_desempleo/)
-- [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_idoneidad/)
-- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_ética_profesional/)
+- [Obtenga su Código Único de Identificación Laboral en Argentina](https://tramitit.com/es/guides/argentina/clave_única_de_identificación_laboral/)
+- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/es/guides/argentina/constancia_de_cuit/)
+- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_de_desempleo/)
+- [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_idoneidad/)
+- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_ética_profesional/)

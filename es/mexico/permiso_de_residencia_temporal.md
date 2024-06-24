@@ -53,8 +53,8 @@ _(Estamos actualmente seleccionando a los mejores proveedores. Si eres o conoces
 - Asiste a la cita en el INM temprano para resolver rápidamente cualquier problema imprevisto.
 ## Related Posts
 
-- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_permanente/)
-- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/spanish/guides/mexico/permiso_de_trabajo/)
-- [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/spanish/guides/mexico/carta_de_residencia/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/spanish/guides/mexico/permiso_de_circulación/)
+- [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)
+- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)
+- [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/es/guides/mexico/carta_de_residencia/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulación/)

@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/english/guides/argentina/professional_ethics_certificate/)
-- [Certificate of Suitability in Argentina - Requirements and Process](https://tramitit.com/english/guides/argentina/certificate_of_suitability/)
-- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/english/guides/argentina/exporters_registration/)
-- [How to Apply for a Construction Permit in Argentina - A Guide](https://tramitit.com/english/guides/argentina/construction_permit_request/)
-- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/english/guides/argentina/cuit_certificate/)
+- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/guides/argentina/professional_ethics_certificate/)
+- [Certificate of Suitability in Argentina - Requirements and Process](https://tramitit.com/guides/argentina/certificate_of_suitability/)
+- [Expert Help for Exporters Registration in Argentina](https://tramitit.com/guides/argentina/exporters_registration/)
+- [How to Apply for a Construction Permit in Argentina - A Guide](https://tramitit.com/guides/argentina/construction_permit_request/)
+- [CUIT Certificate in Argentina - Essential Info & Procedure Guide](https://tramitit.com/guides/argentina/cuit_certificate/)

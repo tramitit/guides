@@ -45,8 +45,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - Any changes in circumstances (such as health condition, employment situation) must be promptly reported to the Social Security. 
 ## Related Posts
 
-- [Comprehensive Guide on Paternity Leave: Steps and Requirements](https://tramitit.com/english/guides/spain/paternity_leave_application/)
-- [Guide to Extending Your Short Stay in Spain Legally and Easily](https://tramitit.com/english/guides/spain/extension_of_short_stay/)
-- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/english/guides/spain/child_benefit_application/)
-- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/english/guides/spain/unemployment_benefit_application/)
-- [Guide to Retirement Pension in Spain: Eligibility and Application](https://tramitit.com/english/guides/spain/retirement_pension_application/)
+- [Comprehensive Guide on Paternity Leave: Steps and Requirements](https://tramitit.com/guides/spain/paternity_leave_application/)
+- [Guide to Extending Your Short Stay in Spain Legally and Easily](https://tramitit.com/guides/spain/extension_of_short_stay/)
+- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
+- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
+- [Guide to Retirement Pension in Spain: Eligibility and Application](https://tramitit.com/guides/spain/retirement_pension_application/)

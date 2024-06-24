@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres o conoces a
 - Visita la página de preguntas frecuentes de ANSES para obtener orientación más detallada (https://www.anses.gob.ar/consulta/faq)
 ## Related Posts
 
-- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/spanish/guides/argentina/solicitud_de_pensión/)
-- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/spanish/guides/argentina/solicitud_de_jubilación/)
-- [Registro en el Sistema de Salud en Argentina - Guía Completa](https://tramitit.com/spanish/guides/argentina/inscripción_al_sistema_de_salud/)
-- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_de_desempleo/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/es/guides/argentina/solicitud_de_pensión/)
+- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilación/)
+- [Registro en el Sistema de Salud en Argentina - Guía Completa](https://tramitit.com/es/guides/argentina/inscripción_al_sistema_de_salud/)
+- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_de_desempleo/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)

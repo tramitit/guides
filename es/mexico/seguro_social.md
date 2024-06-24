@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - Verifica si existen acuerdos bilaterales entre Estados Unidos y México que puedan afectar a tus beneficios.
 ## Related Posts
 
-- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/spanish/guides/mexico/inscripción_al_imss/)
-- [Cómo inscribirse en el ISSSTE en México - Pasos sencillos y consejos](https://tramitit.com/spanish/guides/mexico/inscripción_al_issste/)
-- [Guía para Solicitar Pensiones en México y Navegar Afore](https://tramitit.com/spanish/guides/mexico/solicitud_de_pensión/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/spanish/guides/mexico/permiso_de_trabajo/)
+- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripción_al_imss/)
+- [Cómo inscribirse en el ISSSTE en México - Pasos sencillos y consejos](https://tramitit.com/es/guides/mexico/inscripción_al_issste/)
+- [Guía para Solicitar Pensiones en México y Navegar Afore](https://tramitit.com/es/guides/mexico/solicitud_de_pensión/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)

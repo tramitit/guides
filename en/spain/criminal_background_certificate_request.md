@@ -44,8 +44,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/english/guides/spain/criminal_record_certificate/)
-- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/english/guides/spain/certificate_of_sexual_offenses/)
-- [Sex Offense Certificate: Essential Guide and Application Process](https://tramitit.com/english/guides/spain/sex_offense_certificate_request/)
-- [How to Obtain a Digital Certificate for Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/digital_certificate_application/)
-- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/birth_certificate/)
+- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/guides/spain/criminal_record_certificate/)
+- [How to Obtain a Certificate of Sexual Offenses in Spain](https://tramitit.com/guides/spain/certificate_of_sexual_offenses/)
+- [Sex Offense Certificate: Essential Guide and Application Process](https://tramitit.com/guides/spain/sex_offense_certificate_request/)
+- [How to Obtain a Digital Certificate for Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/digital_certificate_application/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)

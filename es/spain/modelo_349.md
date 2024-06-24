@@ -41,8 +41,8 @@ Las transacciones comerciales con otros estados miembros de la UE también requi
 
 ## Related Posts
 
-- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/spanish/guides/spain/modelo_347/)
-- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/spanish/guides/spain/modelo_036/)
-- [Guía del Modelo 790 Código 012: Pago y Regularización del NIE](https://tramitit.com/spanish/guides/spain/modelo_390/)
-- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/spanish/guides/spain/modelo_151/)
-- [Guía Completa del Modelo 790: Cómo Pagar Tarifas Administrativas](https://tramitit.com/spanish/guides/spain/modelo_790/)
+- [Modelo 347: Declaración de Transacciones Anuales en España](https://tramitit.com/es/guides/spain/modelo_347/)
+- [Guía Completa para Registrarse como Autónomo en España](https://tramitit.com/es/guides/spain/modelo_036/)
+- [Guía del Modelo 790 Código 012: Pago y Regularización del NIE](https://tramitit.com/es/guides/spain/modelo_390/)
+- [Todo sobre el Modelo 151: Guía para Expatriados en España](https://tramitit.com/es/guides/spain/modelo_151/)
+- [Guía Completa del Modelo 790: Cómo Pagar Tarifas Administrativas](https://tramitit.com/es/guides/spain/modelo_790/)

@@ -41,8 +41,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Asegúrate de que todos los documentos presentados estén actualizados y correctamente traducidos si no están originalmente en español.
 ## Related Posts
 
-- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/spanish/guides/argentina/constancia_de_cuit/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_régimen_de_autónomos/)
-- [Obtén tu Certificado de Ingresos Laborales Digitales en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_digital_de_ingresos_laborales/)
-- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/spanish/guides/argentina/documento_nacional_de_identidad/)
-- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_de_desempleo/)
+- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/es/guides/argentina/constancia_de_cuit/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Obtén tu Certificado de Ingresos Laborales Digitales en Argentina](https://tramitit.com/es/guides/argentina/certificado_digital_de_ingresos_laborales/)
+- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/es/guides/argentina/documento_nacional_de_identidad/)
+- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_de_desempleo/)

@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guide to Enrolling in Mexican Universities](https://tramitit.com/english/guides/mexico/higher_education_enrollment/)
-- [Obtain Your Tax Status Certificate in Mexico Effortlessly](https://tramitit.com/english/guides/mexico/tax_status_certificate/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
-- [Effortless RFC Registration for Residents and Businesses in Mexico](https://tramitit.com/english/guides/mexico/rfc_registration/)
-- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/english/guides/mexico/mexican_passport/)
+- [Comprehensive Guide to Enrolling in Mexican Universities](https://tramitit.com/guides/mexico/higher_education_enrollment/)
+- [Obtain Your Tax Status Certificate in Mexico Effortlessly](https://tramitit.com/guides/mexico/tax_status_certificate/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)
+- [Effortless RFC Registration for Residents and Businesses in Mexico](https://tramitit.com/guides/mexico/rfc_registration/)
+- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/guides/mexico/mexican_passport/)

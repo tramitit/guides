@@ -45,8 +45,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Algunos documentos pueden necesitar ser notariados antes de poder ser apostillados.
 ## Related Posts
 
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/spanish/guides/mexico/legalización_de_documentos/)
-- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/spanish/guides/mexico/solicitud_de_acta_de_adopción/)
-- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/spanish/guides/mexico/certificado_de_estudios/)
-- [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/spanish/guides/mexico/acta_de_matrimonio/)
-- [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/spanish/guides/mexico/acta_de_nacimiento/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
+- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopción/)
+- [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
+- [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)
+- [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/es/guides/mexico/acta_de_nacimiento/)

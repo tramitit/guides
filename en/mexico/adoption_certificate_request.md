@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/english/guides/mexico/birth_certificate/)
-- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/english/guides/mexico/marriage_certificate/)
-- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/english/guides/mexico/death_certificate/)
-- [Efficient Document Legalization Services in Mexico](https://tramitit.com/english/guides/mexico/document_legalization/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
+- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/guides/mexico/birth_certificate/)
+- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/guides/mexico/marriage_certificate/)
+- [Simple Service to Obtain Mexican Death Certificates Easily](https://tramitit.com/guides/mexico/death_certificate/)
+- [Efficient Document Legalization Services in Mexico](https://tramitit.com/guides/mexico/document_legalization/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)

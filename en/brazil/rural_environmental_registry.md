@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless Property Registration in Brazil Service](https://tramitit.com/english/guides/brazil/property_registration/)
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
-- [Comprehensive Guide to Brazil's Single Registry Program](https://tramitit.com/english/guides/brazil/single_registry_for_social_programs/)
-- [Rural Credit Services in Brazil - Financial Aid for Farmers](https://tramitit.com/english/guides/brazil/rural_credit_request/)
-- [Accessible Housing - Register for Brazil Popular Habitation](https://tramitit.com/english/guides/brazil/popular_housing_registry/)
+- [Effortless Property Registration in Brazil Service](https://tramitit.com/guides/brazil/property_registration/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)
+- [Comprehensive Guide to Brazil's Single Registry Program](https://tramitit.com/guides/brazil/single_registry_for_social_programs/)
+- [Rural Credit Services in Brazil - Financial Aid for Farmers](https://tramitit.com/guides/brazil/rural_credit_request/)
+- [Accessible Housing - Register for Brazil Popular Habitation](https://tramitit.com/guides/brazil/popular_housing_registry/)

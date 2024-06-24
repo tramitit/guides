@@ -51,8 +51,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Las tarifas pueden variar según el municipio y los servicios específicos requeridos.
 ## Related Posts
 
-- [Obtenga de manera eficiente registros de matrimonio seguros argentinos](https://tramitit.com/spanish/guides/argentina/partida_de_matrimonio/)
-- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_certificado_de_soltería/)
-- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_nacimiento/)
-- [Cómo obtener un certificado de nacimiento en Argentina](https://tramitit.com/spanish/guides/argentina/partida_de_nacimiento/)
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
+- [Obtenga de manera eficiente registros de matrimonio seguros argentinos](https://tramitit.com/es/guides/argentina/partida_de_matrimonio/)
+- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_certificado_de_soltería/)
+- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_nacimiento/)
+- [Cómo obtener un certificado de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/partida_de_nacimiento/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)

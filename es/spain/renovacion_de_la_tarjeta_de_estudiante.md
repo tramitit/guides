@@ -49,8 +49,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Related Posts
 
-- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
-- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/spanish/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
-- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/spanish/guides/spain/renovacion_del_dni/)
+- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
+- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/es/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
+- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_dni/)

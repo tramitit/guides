@@ -48,8 +48,8 @@ Processing times for citizenship applications can vary, from months to possibly 
 
 ## Related Posts
 
-- [How to Obtain Spanish Nationality by Residence: Step-by-Step Guide](https://tramitit.com/english/guides/spain/spanish_nationality_by_residence/)
-- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/english/guides/spain/non-resident_certificate/)
-- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/english/guides/spain/certificate_of_registration_of_eu_citizen/)
-- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/english/guides/spain/registration_card/)
-- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/english/guides/spain/eu_resident_card_application/)
+- [How to Obtain Spanish Nationality by Residence: Step-by-Step Guide](https://tramitit.com/guides/spain/spanish_nationality_by_residence/)
+- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
+- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
+- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)

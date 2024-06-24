@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/english/guides/mexico/imss_enrollment/)
-- [Understanding and Managing Social Security in Mexico for Expats](https://tramitit.com/english/guides/mexico/social_security/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [How to Enroll in ISSSTE in Mexico - Easy Steps and Tips](https://tramitit.com/english/guides/mexico/issste_enrollment/)
-- [Comprehensive Guide for Scholarship Applications in Mexico](https://tramitit.com/english/guides/mexico/scholarship_application/)
+- [IMSS Registration and Contributions Service in Mexico](https://tramitit.com/guides/mexico/imss_enrollment/)
+- [Understanding and Managing Social Security in Mexico for Expats](https://tramitit.com/guides/mexico/social_security/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [How to Enroll in ISSSTE in Mexico - Easy Steps and Tips](https://tramitit.com/guides/mexico/issste_enrollment/)
+- [Comprehensive Guide for Scholarship Applications in Mexico](https://tramitit.com/guides/mexico/scholarship_application/)

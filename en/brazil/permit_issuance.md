@@ -54,8 +54,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/english/guides/brazil/passport_issuance/)
-- [Secure Your Brazil Work Visa - Simple Steps for Easy Processing](https://tramitit.com/english/guides/brazil/work_visa/)
-- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/english/guides/brazil/nationality_request/)
-- [Get Your International Driving Permit for Brazil Easily](https://tramitit.com/english/guides/brazil/international_driving_permit/)
-- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/english/guides/brazil/driving_license/)
+- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/guides/brazil/passport_issuance/)
+- [Secure Your Brazil Work Visa - Simple Steps for Easy Processing](https://tramitit.com/guides/brazil/work_visa/)
+- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/guides/brazil/nationality_request/)
+- [Get Your International Driving Permit for Brazil Easily](https://tramitit.com/guides/brazil/international_driving_permit/)
+- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/guides/brazil/driving_license/)

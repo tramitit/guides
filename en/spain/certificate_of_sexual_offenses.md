@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Pick-Up vs Delivery**: In some cases, you might be able to choose between picking up the certificate in person or having it mailed to your address.
 ## Related Posts
 
-- [Sex Offense Certificate: Essential Guide and Application Process](https://tramitit.com/english/guides/spain/sex_offense_certificate_request/)
-- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/english/guides/spain/criminal_record_certificate/)
-- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/english/guides/spain/criminal_background_certificate_request/)
-- [How to Obtain a Digital Certificate for Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/digital_certificate_application/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/english/guides/spain/id_card_application/)
+- [Sex Offense Certificate: Essential Guide and Application Process](https://tramitit.com/guides/spain/sex_offense_certificate_request/)
+- [How to Obtain a Criminal Record Certificate in Spain](https://tramitit.com/guides/spain/criminal_record_certificate/)
+- [Get Your Criminal Background Certificate: Easy Steps and Tips](https://tramitit.com/guides/spain/criminal_background_certificate_request/)
+- [How to Obtain a Digital Certificate for Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/digital_certificate_application/)
+- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)

@@ -44,8 +44,8 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - É importante manter comunicação com a escola anterior e a nova escola para garantir uma transição tranquila para o aluno.
 ## Related Posts
 
-- [Transferência sem esforço de propriedade de veículo no Brasil](https://tramitit.com/portuguese/guides/brazil/transferência_de_veículo/)
-- [Serviço de Transferência de Registro de Eleitor no Brasil](https://tramitit.com/portuguese/guides/brazil/transferência_de_título_de_eleitor/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/portuguese/guides/brazil/licenciamento_de_veículo/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
+- [Transferência sem esforço de propriedade de veículo no Brasil](https://tramitit.com/pt/guides/brazil/transferência_de_veículo/)
+- [Serviço de Transferência de Registro de Eleitor no Brasil](https://tramitit.com/pt/guides/brazil/transferência_de_título_de_eleitor/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)

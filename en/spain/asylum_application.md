@@ -44,8 +44,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [How to Apply for a Spain Work Permit: Step-by-Step Guide](https://tramitit.com/english/guides/spain/work_permit_application/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)
-- [Guide to Family Reunification in Spain: Steps and Requirements](https://tramitit.com/english/guides/spain/family_reunification/)
-- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/english/guides/spain/eu_resident_card_application/)
+- [How to Apply for a Spain Work Permit: Step-by-Step Guide](https://tramitit.com/guides/spain/work_permit_application/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
+- [Guide to Family Reunification in Spain: Steps and Requirements](https://tramitit.com/guides/spain/family_reunification/)
+- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)

@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Family Subsidy Request Service in Argentina - Financial Aid Info](https://tramitit.com/english/guides/argentina/family_subsidy_request/)
-- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/english/guides/argentina/unemployment_subsidy_request/)
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
-- [Guide to Securely Filing Your Argentine Pension Request](https://tramitit.com/english/guides/argentina/pension_request/)
-- [Effortless Social Security Registration in Argentina](https://tramitit.com/english/guides/argentina/social_security_registration/)
+- [Family Subsidy Request Service in Argentina - Financial Aid Info](https://tramitit.com/guides/argentina/family_subsidy_request/)
+- [How to Apply for Unemployment Subsidy in Argentina - A Detailed Guide](https://tramitit.com/guides/argentina/unemployment_subsidy_request/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)
+- [Guide to Securely Filing Your Argentine Pension Request](https://tramitit.com/guides/argentina/pension_request/)
+- [Effortless Social Security Registration in Argentina](https://tramitit.com/guides/argentina/social_security_registration/)

@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/english/guides/spain/birth_registration/)
-- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/english/guides/spain/marriage_certificate/)
-- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/death_certificate/)
-- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/english/guides/spain/prestacion_por_nacimiento/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/english/guides/spain/id_card_application/)
+- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/guides/spain/birth_registration/)
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)
+- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/guides/spain/prestacion_por_nacimiento/)
+- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)

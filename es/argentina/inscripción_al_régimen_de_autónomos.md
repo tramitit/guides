@@ -51,8 +51,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Mantente actualizado con cualquier cambio en regulaciones o requisitos de la AFIP u otras autoridades relevantes.
 ## Related Posts
 
-- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/spanish/guides/argentina/registro_de_importadores/)
-- [Guía Completa sobre el Monotributo en Argentina para Autónomos](https://tramitit.com/spanish/guides/argentina/inscripción_en_el_monotributo/)
-- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/spanish/guides/argentina/constancia_de_cuit/)
-- [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/spanish/guides/argentina/registro_de_exportadores/)
-- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_seguro_social/)
+- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/es/guides/argentina/registro_de_importadores/)
+- [Guía Completa sobre el Monotributo en Argentina para Autónomos](https://tramitit.com/es/guides/argentina/inscripción_en_el_monotributo/)
+- [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/es/guides/argentina/constancia_de_cuit/)
+- [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/es/guides/argentina/registro_de_exportadores/)
+- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_seguro_social/)

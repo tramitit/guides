@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Monitorea el sitio web del gobierno argentino para actualizaciones y posibles cambios en el proceso de renovación.
 ## Related Posts
 
-- [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/spanish/guides/argentina/pasaporte_argentino/)
-- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/spanish/guides/argentina/documento_nacional_de_identidad/)
-- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/spanish/guides/argentina/solicitud_de_residencia/)
-- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_nacimiento/)
-- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/spanish/guides/argentina/certificado_de_domicilio/)
+- [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/es/guides/argentina/pasaporte_argentino/)
+- [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/es/guides/argentina/documento_nacional_de_identidad/)
+- [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
+- [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_nacimiento/)
+- [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)

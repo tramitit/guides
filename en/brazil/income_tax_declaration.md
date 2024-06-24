@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Tax Exemption Declaration Service for Expats in Brazil](https://tramitit.com/english/guides/brazil/tax_exemption_declaration/)
-- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/english/guides/brazil/retirement_request/)
-- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/english/guides/brazil/permit_issuance/)
-- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/english/guides/brazil/nationality_request/)
-- [Effortless Property Registration in Brazil Service](https://tramitit.com/english/guides/brazil/property_registration/)
+- [Tax Exemption Declaration Service for Expats in Brazil](https://tramitit.com/guides/brazil/tax_exemption_declaration/)
+- [Comprehensive Retirement Request Service in Brazil Assistance](https://tramitit.com/guides/brazil/retirement_request/)
+- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/guides/brazil/permit_issuance/)
+- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/guides/brazil/nationality_request/)
+- [Effortless Property Registration in Brazil Service](https://tramitit.com/guides/brazil/property_registration/)

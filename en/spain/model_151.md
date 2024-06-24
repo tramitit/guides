@@ -71,8 +71,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/english/guides/spain/model_145/)
-- [Model 720: Spanish Tax Declaration for Foreign Assets Guide](https://tramitit.com/english/guides/spain/model_720/)
-- [Model 721 - Reporting Overseas Assets for Spanish Residents](https://tramitit.com/english/guides/spain/model_721/)
-- [Understanding Spain's Model 210 Non-Resident Tax Form](https://tramitit.com/english/guides/spain/model_210/)
-- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/english/guides/spain/model_130/)
+- [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/guides/spain/model_145/)
+- [Model 720: Spanish Tax Declaration for Foreign Assets Guide](https://tramitit.com/guides/spain/model_720/)
+- [Model 721 - Reporting Overseas Assets for Spanish Residents](https://tramitit.com/guides/spain/model_721/)
+- [Understanding Spain's Model 210 Non-Resident Tax Form](https://tramitit.com/guides/spain/model_210/)
+- [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)

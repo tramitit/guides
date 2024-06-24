@@ -45,8 +45,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Digital Certificate**: For those who have a digital certificate or CL@VE, some processes can be managed online.
 ## Related Posts
 
-- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/english/guides/spain/death_registration/)
-- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/birth_certificate/)
-- [Guide to Obtaining a Last Will Certificate in Spain](https://tramitit.com/english/guides/spain/last_will_certificate_request/)
-- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/english/guides/spain/marriage_certificate/)
-- [Certificate of Last Will Acts: A Guide for Executors and Heirs](https://tramitit.com/english/guides/spain/certificate_of_last_will_acts/)
+- [Guide to Death Registration and Obtaining Death Certificate in Spain](https://tramitit.com/guides/spain/death_registration/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [Guide to Obtaining a Last Will Certificate in Spain](https://tramitit.com/guides/spain/last_will_certificate_request/)
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)
+- [Certificate of Last Will Acts: A Guide for Executors and Heirs](https://tramitit.com/guides/spain/certificate_of_last_will_acts/)

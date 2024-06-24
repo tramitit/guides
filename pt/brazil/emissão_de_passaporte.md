@@ -53,8 +53,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviços. Se você
 - Para menores de idade, documentos adicionais como formulários de consentimento dos pais podem ser necessários.
 ## Related Posts
 
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_alvará/)
-- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/portuguese/guides/brazil/documento_de_identidade/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/portuguese/guides/brazil/solicitação_de_nacionalidade/)
-- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/portuguese/guides/brazil/carteira_de_motorista/)
-- [Visto de Trabalho Brasil: Guia Completo e Passo a Passo](https://tramitit.com/portuguese/guides/brazil/visto_de_trabalho/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
+- [Visto de Trabalho Brasil: Guia Completo e Passo a Passo](https://tramitit.com/pt/guides/brazil/visto_de_trabalho/)

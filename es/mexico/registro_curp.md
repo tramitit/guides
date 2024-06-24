@@ -42,8 +42,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - El proceso de solicitud de CURP es gratuito.
 ## Related Posts
 
-- [Obtén Tu RFC en México - Guía Rápida y Fácil para Residentes](https://tramitit.com/spanish/guides/mexico/inscripción_al_rfc/)
-- [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/spanish/guides/mexico/carta_de_residencia/)
-- [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/spanish/guides/mexico/acta_de_nacimiento/)
-- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/spanish/guides/mexico/inscripción_al_imss/)
-- [Renueva tu credencial de elector - Proceso y requisitos INE](https://tramitit.com/spanish/guides/mexico/renovación_de_credencial_para_votar/)
+- [Obtén Tu RFC en México - Guía Rápida y Fácil para Residentes](https://tramitit.com/es/guides/mexico/inscripción_al_rfc/)
+- [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/es/guides/mexico/carta_de_residencia/)
+- [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/es/guides/mexico/acta_de_nacimiento/)
+- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripción_al_imss/)
+- [Renueva tu credencial de elector - Proceso y requisitos INE](https://tramitit.com/es/guides/mexico/renovación_de_credencial_para_votar/)

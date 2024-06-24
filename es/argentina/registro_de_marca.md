@@ -49,8 +49,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si usted es un pr
 - La asistencia legal puede agilizar el proceso de solicitud y gestionar las oposiciones de manera efectiva.
 ## Related Posts
 
-- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/spanish/guides/argentina/registro_de_importadores/)
-- [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/spanish/guides/argentina/registro_de_exportadores/)
-- [Registro de vehículos sin complicaciones en Argentina](https://tramitit.com/spanish/guides/argentina/registro_automotor/)
-- [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_idoneidad/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/spanish/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/es/guides/argentina/registro_de_importadores/)
+- [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/es/guides/argentina/registro_de_exportadores/)
+- [Registro de vehículos sin complicaciones en Argentina](https://tramitit.com/es/guides/argentina/registro_automotor/)
+- [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_idoneidad/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)

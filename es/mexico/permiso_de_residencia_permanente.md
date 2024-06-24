@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Tu oficina local de INM puede proporcionar formularios específicos y requisitos adicionales.
 ## Related Posts
 
-- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/spanish/guides/mexico/permiso_de_residencia_temporal/)
-- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/spanish/guides/mexico/permiso_de_trabajo/)
-- [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/spanish/guides/mexico/carta_de_residencia/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/spanish/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/spanish/guides/mexico/permiso_de_circulación/)
+- [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/es/guides/mexico/permiso_de_residencia_temporal/)
+- [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)
+- [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/es/guides/mexico/carta_de_residencia/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulación/)

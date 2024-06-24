@@ -46,8 +46,8 @@ Different scholarships have different eligibility requirements, so thoroughly re
 Remember, applying for scholarships can be a competitive process, but by putting in the effort and time, you can potentially save thousands on your education costs.
 ## Related Posts
 
-- [Financial Aids for Large Families: Eligibility and Application](https://tramitit.com/english/guides/spain/economic_assistance_for_large_families/)
-- [Guide to Applying for Rental Assistance: Eligibility & Steps](https://tramitit.com/english/guides/spain/rental_assistance_application/)
-- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/english/guides/spain/child_benefit_application/)
-- [Guide to Applying for Asylum in Spain: Step-by-Step Process](https://tramitit.com/english/guides/spain/asylum_application/)
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)
+- [Financial Aids for Large Families: Eligibility and Application](https://tramitit.com/guides/spain/economic_assistance_for_large_families/)
+- [Guide to Applying for Rental Assistance: Eligibility & Steps](https://tramitit.com/guides/spain/rental_assistance_application/)
+- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
+- [Guide to Applying for Asylum in Spain: Step-by-Step Process](https://tramitit.com/guides/spain/asylum_application/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)

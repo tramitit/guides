@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [Steps & Requirements for Housing Subsidies in Mexico](https://tramitit.com/english/guides/mexico/housing_subsidy_request/)
-- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/english/guides/mexico/pension_request/)
-- [Unemployment Subsidy in Mexico - Financial Aid for Job Seekers](https://tramitit.com/english/guides/mexico/unemployment_subsidy_request/)
-- [Get Your Mexican Voter ID - Steps and Requirements](https://tramitit.com/english/guides/mexico/voter_id/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [Steps & Requirements for Housing Subsidies in Mexico](https://tramitit.com/guides/mexico/housing_subsidy_request/)
+- [Guide to Securing Your Pension in Mexico for Retirees and Expats](https://tramitit.com/guides/mexico/pension_request/)
+- [Unemployment Subsidy in Mexico - Financial Aid for Job Seekers](https://tramitit.com/guides/mexico/unemployment_subsidy_request/)
+- [Get Your Mexican Voter ID - Steps and Requirements](https://tramitit.com/guides/mexico/voter_id/)

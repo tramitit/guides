@@ -51,8 +51,8 @@ The work permit is typically tied to the employer who sponsored it, thus switchi
 
 ## Related Posts
 
-- [How to Renew Your Work Permit in Spain: A Comprehensive Guide](https://tramitit.com/english/guides/spain/work_permit_renewal/)
-- [Work Authorization for International Students in Spain](https://tramitit.com/english/guides/spain/work_authorization_for_students/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_student_card_for_foreigners/)
-- [Guide to Extending Your Short Stay in Spain Legally and Easily](https://tramitit.com/english/guides/spain/extension_of_short_stay/)
+- [How to Renew Your Work Permit in Spain: A Comprehensive Guide](https://tramitit.com/guides/spain/work_permit_renewal/)
+- [Work Authorization for International Students in Spain](https://tramitit.com/guides/spain/work_authorization_for_students/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)
+- [Guide to Extending Your Short Stay in Spain Legally and Easily](https://tramitit.com/guides/spain/extension_of_short_stay/)

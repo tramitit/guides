@@ -47,8 +47,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 - É essencial manter as informações pessoais atualizadas no portal do INSS para receber benefícios de forma oportuna.
 ## Related Posts
 
-- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/portuguese/guides/brazil/cadastro_nacional_de_informações_sociais/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/portuguese/guides/brazil/solicitação_de_aposentadoria/)
-- [Seguro Desemprego no Brasil - Como Solicitar e Qualificar](https://tramitit.com/portuguese/guides/brazil/seguro_desemprego/)
-- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/portuguese/guides/brazil/solicitação_de_pensão_por_morte/)
-- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/portuguese/guides/brazil/cadastro_único/)
+- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_nacional_de_informações_sociais/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)
+- [Seguro Desemprego no Brasil - Como Solicitar e Qualificar](https://tramitit.com/pt/guides/brazil/seguro_desemprego/)
+- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_pensão_por_morte/)
+- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_único/)

@@ -42,8 +42,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Related Posts
 
-- [Obtén la Tarjeta Sanitaria Europea: Guía para Ciudadanos Españoles](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_sanitaria/)
-- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
-- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
-- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/spanish/guides/spain/cédula_de_inscripción/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Obtén la Tarjeta Sanitaria Europea: Guía para Ciudadanos Españoles](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_sanitaria/)
+- [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
+- [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)

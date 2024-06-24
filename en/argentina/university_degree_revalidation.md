@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Enroll in Higher Education Institutions in Argentina](https://tramitit.com/english/guides/argentina/higher_education_enrollment/)
-- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/english/guides/argentina/professional_ethics_certificate/)
-- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/english/guides/argentina/marriage_certificate/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Comprehensive Guide to Scholarship Applications in Argentina](https://tramitit.com/english/guides/argentina/scholarship_application/)
+- [Enroll in Higher Education Institutions in Argentina](https://tramitit.com/guides/argentina/higher_education_enrollment/)
+- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/guides/argentina/professional_ethics_certificate/)
+- [Argentina Marriage Certificate Service - Easy and Reliable Support](https://tramitit.com/guides/argentina/marriage_certificate/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Comprehensive Guide to Scholarship Applications in Argentina](https://tramitit.com/guides/argentina/scholarship_application/)

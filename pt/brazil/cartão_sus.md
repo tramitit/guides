@@ -47,8 +47,8 @@ _(Estamos recolhendo informações dos melhores prestadores. Se você é ou conh
 - Mais informações sobre o SUS e os serviços de saúde no Brasil podem ser encontradas nos sites oficiais do governo e nas autoridades locais de saúde.
 ## Related Posts
 
-- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/portuguese/guides/brazil/cadastro_único/)
-- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/portuguese/guides/brazil/documento_de_identidade/)
-- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/portuguese/guides/brazil/cadastro_de_pessoas_físicas/)
-- [Obtenha seus relatórios médicos emitidos facilmente no Brasil](https://tramitit.com/portuguese/guides/brazil/emissão_de_laudo_médico/)
-- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/portuguese/guides/brazil/cadastro_nacional_de_informações_sociais/)
+- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_único/)
+- [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)
+- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_físicas/)
+- [Obtenha seus relatórios médicos emitidos facilmente no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_laudo_médico/)
+- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_nacional_de_informações_sociais/)

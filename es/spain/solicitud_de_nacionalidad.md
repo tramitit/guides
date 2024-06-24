@@ -49,8 +49,8 @@ Los tiempos de procesamiento para las solicitudes de ciudadanía pueden variar, 
 
 ## Related Posts
 
-- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/spanish/guides/spain/nacionalidad_española_por_residencia/)
-- [Certificado de No Residente: Qué es, Cómo Obtenerlo y Requisitos](https://tramitit.com/spanish/guides/spain/certificado_de_no_residente/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/spanish/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)
-- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/spanish/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
+- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/es/guides/spain/nacionalidad_española_por_residencia/)
+- [Certificado de No Residente: Qué es, Cómo Obtenerlo y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_no_residente/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
+- [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)

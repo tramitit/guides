@@ -44,8 +44,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - Asegúrate de que todos los detalles y documentos sean precisos para evitar retrasos en el procesamiento.
 ## Related Posts
 
-- [Servicio de Solicitud de Subsidios Familiares en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_familiar/)
-- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_de_desempleo/)
-- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/spanish/guides/argentina/solicitud_de_pensión/)
-- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/spanish/guides/argentina/solicitud_de_subsidio_habitacional/)
-- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/spanish/guides/argentina/solicitud_de_jubilación/)
+- [Servicio de Solicitud de Subsidios Familiares en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_familiar/)
+- [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_de_desempleo/)
+- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/es/guides/argentina/solicitud_de_pensión/)
+- [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_habitacional/)
+- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilación/)

@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guide to Scholarship Applications in Argentina](https://tramitit.com/english/guides/argentina/scholarship_application/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
-- [Health System Registration Guide for New Residents in Argentina](https://tramitit.com/english/guides/argentina/health_system_registration/)
-- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/english/guides/argentina/retirement_request/)
-- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/english/guides/argentina/importers_registration/)
+- [Comprehensive Guide to Scholarship Applications in Argentina](https://tramitit.com/guides/argentina/scholarship_application/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)
+- [Health System Registration Guide for New Residents in Argentina](https://tramitit.com/guides/argentina/health_system_registration/)
+- [Guide to Submitting Your Retirement Request in Argentina](https://tramitit.com/guides/argentina/retirement_request/)
+- [Argentina Importers Registration Service - Simplified Process](https://tramitit.com/guides/argentina/importers_registration/)

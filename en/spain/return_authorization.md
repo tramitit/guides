@@ -65,8 +65,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - **Appointment Booking**: Appointments can fill up quickly; book as early as possible through the [Cita Previa system](https://sede.administracionespublicas.gob.es/).
 ## Related Posts
 
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/english/guides/spain/initial_or_renewal_student_card_for_foreigners/)
-- [Authorization and Renewal of Temporary Residence: Step-by-Step Guide](https://tramitit.com/english/guides/spain/authorization_and_renewal_of_temporary_residence_for_exceptional_circumstances/)
-- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/english/guides/spain/eu_resident_card_application/)
-- [How to Renew Your EU Resident Card (TIE) in Spain - Step by Step](https://tramitit.com/english/guides/spain/eu_resident_card_renewal/)
+- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
+- [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)
+- [Authorization and Renewal of Temporary Residence: Step-by-Step Guide](https://tramitit.com/guides/spain/authorization_and_renewal_of_temporary_residence_for_exceptional_circumstances/)
+- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)
+- [How to Renew Your EU Resident Card (TIE) in Spain - Step by Step](https://tramitit.com/guides/spain/eu_resident_card_renewal/)

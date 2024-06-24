@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Streamlined Guide for Death Pension Request in Brazil](https://tramitit.com/english/guides/brazil/death_pension_request/)
-- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/english/guides/brazil/social_security/)
-- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/english/guides/brazil/nationality_request/)
-- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/english/guides/brazil/permit_issuance/)
-- [Income Tax Declaration Services for Expats in Brazil](https://tramitit.com/english/guides/brazil/income_tax_declaration/)
+- [Streamlined Guide for Death Pension Request in Brazil](https://tramitit.com/guides/brazil/death_pension_request/)
+- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/guides/brazil/social_security/)
+- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/guides/brazil/nationality_request/)
+- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/guides/brazil/permit_issuance/)
+- [Income Tax Declaration Services for Expats in Brazil](https://tramitit.com/guides/brazil/income_tax_declaration/)

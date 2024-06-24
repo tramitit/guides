@@ -52,8 +52,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Guide for Scholarship Applications in Mexico](https://tramitit.com/english/guides/mexico/scholarship_application/)
-- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/english/guides/mexico/study_certificate/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [Efficient Document Legalization Services in Mexico](https://tramitit.com/english/guides/mexico/document_legalization/)
-- [Effortless Daycare Enrollment in Mexico - A Step-by-Step Guide](https://tramitit.com/english/guides/mexico/daycare_enrollment/)
+- [Comprehensive Guide for Scholarship Applications in Mexico](https://tramitit.com/guides/mexico/scholarship_application/)
+- [How to Obtain a Study Certificate in Mexico - A Comprehensive Guide](https://tramitit.com/guides/mexico/study_certificate/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [Efficient Document Legalization Services in Mexico](https://tramitit.com/guides/mexico/document_legalization/)
+- [Effortless Daycare Enrollment in Mexico - A Step-by-Step Guide](https://tramitit.com/guides/mexico/daycare_enrollment/)

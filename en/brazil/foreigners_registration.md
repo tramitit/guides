@@ -53,8 +53,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/english/guides/brazil/national_id/)
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
-- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/english/guides/brazil/birth_registration/)
-- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/english/guides/brazil/nationality_request/)
-- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/english/guides/brazil/driving_license/)
+- [Brazilian National ID Card - Requirements and Procedure (2023)](https://tramitit.com/guides/brazil/national_id/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)
+- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/guides/brazil/birth_registration/)
+- [Simplify Your Brazilian Nationality Request Process](https://tramitit.com/guides/brazil/nationality_request/)
+- [Comprehensive Guide to Obtaining a Brazilian Driver's License](https://tramitit.com/guides/brazil/driving_license/)

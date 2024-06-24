@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Comprehensive Criminal Background Check in Argentina](https://tramitit.com/english/guides/argentina/criminal_background_check/)
-- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/english/guides/argentina/professional_ethics_certificate/)
-- [Certificate of Suitability in Argentina - Requirements and Process](https://tramitit.com/english/guides/argentina/certificate_of_suitability/)
-- [Get Certified Argentine Birth Certificate - Easy Process](https://tramitit.com/english/guides/argentina/birth_certificate/)
-- [Easy Residency Request Service in Argentina Online](https://tramitit.com/english/guides/argentina/residency_request/)
+- [Comprehensive Criminal Background Check in Argentina](https://tramitit.com/guides/argentina/criminal_background_check/)
+- [Get Certified - Professional Ethics in Argentina Explained](https://tramitit.com/guides/argentina/professional_ethics_certificate/)
+- [Certificate of Suitability in Argentina - Requirements and Process](https://tramitit.com/guides/argentina/certificate_of_suitability/)
+- [Get Certified Argentine Birth Certificate - Easy Process](https://tramitit.com/guides/argentina/birth_certificate/)
+- [Easy Residency Request Service in Argentina Online](https://tramitit.com/guides/argentina/residency_request/)

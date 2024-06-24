@@ -52,8 +52,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Related Posts
 
-- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/spanish/guides/spain/certificado_de_matrimonio/)
-- [Matrimonio Civil en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/solicitud_de_matrimonio_civil/)
-- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/spanish/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
-- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/spanish/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
-- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/spanish/guides/spain/certificado_de_empadronamiento/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
+- [Matrimonio Civil en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/solicitud_de_matrimonio_civil/)
+- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
+- [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
+- [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)

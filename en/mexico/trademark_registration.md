@@ -46,8 +46,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/english/guides/mexico/work_permit/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
-- [Construction Permit Request in Mexico – Easy Guidelines](https://tramitit.com/english/guides/mexico/construction_permit_request/)
-- [Efficient Document Legalization Services in Mexico](https://tramitit.com/english/guides/mexico/document_legalization/)
+- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/guides/mexico/work_permit/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)
+- [Construction Permit Request in Mexico – Easy Guidelines](https://tramitit.com/guides/mexico/construction_permit_request/)
+- [Efficient Document Legalization Services in Mexico](https://tramitit.com/guides/mexico/document_legalization/)

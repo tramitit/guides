@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Duplicate Driving License in Mexico - Quick & Easy Process](https://tramitit.com/english/guides/mexico/duplicate_driving_license_issuance/)
-- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/english/guides/mexico/driving_license/)
-- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/english/guides/mexico/circulation_permit/)
-- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/english/guides/mexico/voter_id_renewal/)
-- [Swift Mexico Vehicle Registration - Efficient and Legal Compliance](https://tramitit.com/english/guides/mexico/vehicle_registration/)
+- [Duplicate Driving License in Mexico - Quick & Easy Process](https://tramitit.com/guides/mexico/duplicate_driving_license_issuance/)
+- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/guides/mexico/driving_license/)
+- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/guides/mexico/circulation_permit/)
+- [Easy Voter ID Renewal Guide for Mexicans - Step-by-Step Process](https://tramitit.com/guides/mexico/voter_id_renewal/)
+- [Swift Mexico Vehicle Registration - Efficient and Legal Compliance](https://tramitit.com/guides/mexico/vehicle_registration/)

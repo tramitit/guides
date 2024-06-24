@@ -47,8 +47,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/english/guides/brazil/permit_issuance/)
-- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/english/guides/brazil/passport_issuance/)
-- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/english/guides/brazil/birth_registration/)
-- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/english/guides/brazil/marriage_certificate/)
-- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/english/guides/brazil/foreigners_registration/)
+- [Efficient Permit Issuance Services for Foreign Nationals in Brazil](https://tramitit.com/guides/brazil/permit_issuance/)
+- [Effortless Guide to Quick Brazilian Passport Issuance](https://tramitit.com/guides/brazil/passport_issuance/)
+- [Brazil Birth Registration Services for Expats and Descendants](https://tramitit.com/guides/brazil/birth_registration/)
+- [Guide to Obtaining a Marriage Certificate in Brazil](https://tramitit.com/guides/brazil/marriage_certificate/)
+- [Register as a Foreigner in Brazil Easily and Quickly](https://tramitit.com/guides/brazil/foreigners_registration/)

@@ -47,8 +47,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres proveedor o
 - Las multas pendientes y persistentes pueden provocar problemas legales o evitar transacciones de vehículos.
 ## Related Posts
 
-- [Obtenga fácilmente su Certificado Nacional de Antecedentes de Tránsito](https://tramitit.com/spanish/guides/argentina/certificado_cenat/)
-- [Verificación Integral de Antecedentes Penales en Argentina](https://tramitit.com/spanish/guides/argentina/certificado_de_antecedentes_penales/)
-- [Obtenga un Certificado de Buena Conducta en Argentina - Guía](https://tramitit.com/spanish/guides/argentina/certificado_de_buena_conducta/)
-- [Registro de vehículos sin complicaciones en Argentina](https://tramitit.com/spanish/guides/argentina/registro_automotor/)
-- [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/spanish/guides/argentina/pasaporte_argentino/)
+- [Obtenga fácilmente su Certificado Nacional de Antecedentes de Tránsito](https://tramitit.com/es/guides/argentina/certificado_cenat/)
+- [Verificación Integral de Antecedentes Penales en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_antecedentes_penales/)
+- [Obtenga un Certificado de Buena Conducta en Argentina - Guía](https://tramitit.com/es/guides/argentina/certificado_de_buena_conducta/)
+- [Registro de vehículos sin complicaciones en Argentina](https://tramitit.com/es/guides/argentina/registro_automotor/)
+- [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/es/guides/argentina/pasaporte_argentino/)

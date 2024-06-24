@@ -50,8 +50,8 @@ The process might seem straightforward but could take a considerable amount of t
 
 ## Related Posts
 
-- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/english/guides/spain/marriage_certificate/)
-- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/english/guides/spain/citizenship_application/)
-- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/birth_certificate/)
-- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/english/guides/spain/birth_registration/)
-- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/english/guides/spain/death_certificate/)
+- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)
+- [How to Apply for Spain Citizenship: Steps, Documents, Providers](https://tramitit.com/guides/spain/citizenship_application/)
+- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
+- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/guides/spain/birth_registration/)
+- [How to Obtain a Death Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/death_certificate/)

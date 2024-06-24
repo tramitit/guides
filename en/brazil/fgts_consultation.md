@@ -49,8 +49,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/english/guides/brazil/national_social_information_registry/)
-- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/english/guides/brazil/cpf_registration/)
-- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/english/guides/brazil/social_security/)
-- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/english/guides/brazil/unemployment_insurance/)
-- [Tax Exemption Declaration Service for Expats in Brazil](https://tramitit.com/english/guides/brazil/tax_exemption_declaration/)
+- [Ultimate Guide to Brazil's National Social Information Registry](https://tramitit.com/guides/brazil/national_social_information_registry/)
+- [How to Register for a CPF in Brazil - Step-by-Step Guide](https://tramitit.com/guides/brazil/cpf_registration/)
+- [Understanding Brazil's Social Security System - Essential Guide](https://tramitit.com/guides/brazil/social_security/)
+- [Brazil Unemployment Insurance - How to Apply & Qualify](https://tramitit.com/guides/brazil/unemployment_insurance/)
+- [Tax Exemption Declaration Service for Expats in Brazil](https://tramitit.com/guides/brazil/tax_exemption_declaration/)

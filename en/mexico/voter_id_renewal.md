@@ -48,8 +48,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Get Your Mexican Voter ID - Steps and Requirements](https://tramitit.com/english/guides/mexico/voter_id/)
-- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/english/guides/mexico/mexican_passport/)
-- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/english/guides/mexico/birth_certificate/)
-- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/english/guides/mexico/reissuance_of_license_plates/)
-- [Renew Your Venezuelan or US Passport in Mexico | Hassle-Free Service](https://tramitit.com/english/guides/mexico/passport_renewal/)
+- [Get Your Mexican Voter ID - Steps and Requirements](https://tramitit.com/guides/mexico/voter_id/)
+- [Mexican Passport Renewal Service - Steps and Requirements](https://tramitit.com/guides/mexico/mexican_passport/)
+- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/guides/mexico/birth_certificate/)
+- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/guides/mexico/reissuance_of_license_plates/)
+- [Renew Your Venezuelan or US Passport in Mexico | Hassle-Free Service](https://tramitit.com/guides/mexico/passport_renewal/)

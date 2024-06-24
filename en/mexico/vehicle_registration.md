@@ -50,8 +50,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Guide to Vehicle Deregistration in Mexico - Steps & Requirements](https://tramitit.com/english/guides/mexico/vehicle_deregistration/)
-- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/english/guides/mexico/driving_license/)
-- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/english/guides/mexico/circulation_permit/)
-- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/english/guides/mexico/reissuance_of_license_plates/)
-- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/english/guides/mexico/work_visa_processing/)
+- [Guide to Vehicle Deregistration in Mexico - Steps & Requirements](https://tramitit.com/guides/mexico/vehicle_deregistration/)
+- [Guide to Obtaining Your Mexico Driving License - Steps & Tips](https://tramitit.com/guides/mexico/driving_license/)
+- [Circulation Permit in Mexico - Procedure & Required Documents](https://tramitit.com/guides/mexico/circulation_permit/)
+- [Complete Guide to Reissuing License Plates in Mexico](https://tramitit.com/guides/mexico/reissuance_of_license_plates/)
+- [Comprehensive Guidance for Obtaining a Mexican Work Visa](https://tramitit.com/guides/mexico/work_visa_processing/)

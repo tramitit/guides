@@ -51,8 +51,8 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Related Posts
 
-- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/english/guides/mexico/birth_certificate/)
-- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/english/guides/mexico/adoption_certificate_request/)
-- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/english/guides/mexico/marriage_certificate/)
-- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/english/guides/mexico/work_permit/)
-- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/english/guides/mexico/temporary_residence_permit/)
+- [Obtain Your Mexican Birth Certificate Easily Online](https://tramitit.com/guides/mexico/birth_certificate/)
+- [Obtain Your Official Adoption Certificate in Mexico Easily](https://tramitit.com/guides/mexico/adoption_certificate_request/)
+- [Marriage Certificate in Mexico - Essential Guide for Couples](https://tramitit.com/guides/mexico/marriage_certificate/)
+- [Mexico Work Permit Guide - Steps, Documentation, and Services](https://tramitit.com/guides/mexico/work_permit/)
+- [Mexican Temporary Residence Permit Application Service](https://tramitit.com/guides/mexico/temporary_residence_permit/)

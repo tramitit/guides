@@ -51,8 +51,8 @@ Además, recuerda que navegadores como Google Chrome o Edge pueden tener problem
 
 ## Related Posts
 
-- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/spanish/guides/spain/solicitud_del_dni/)
-- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/spanish/guides/spain/certificado_de_matrimonio/)
-- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/spanish/guides/spain/certificado_de_nacimiento/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/spanish/guides/spain/certificado_de_defunción/)
-- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/spanish/guides/spain/certificado_de_antecedentes_penales/)
+- [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
+- [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
+- [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
+- [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/certificado_de_antecedentes_penales/)

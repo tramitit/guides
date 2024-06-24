@@ -54,8 +54,8 @@ Se sugiere encarecidamente programar tu cita tan pronto como te des cuenta de qu
 
 ## Related Posts
 
-- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/spanish/guides/spain/solicitud_de_prestacion_por_desempleo/)
-- [Cómo Programar una Cita con la Oficina de Inmigración en España](https://tramitit.com/spanish/guides/spain/solicitud_de_cita_previa_en_extranjeria/)
-- [Tarjeta Sanitaria en España: Cómo obtenerla y requisitos](https://tramitit.com/spanish/guides/spain/solicitud_de_la_tarjeta_sanitaria/)
-- [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/spanish/guides/spain/solicitud_de_pension_de_jubilacion/)
-- [Obtén la Tarjeta Sanitaria Europea: Guía para Ciudadanos Españoles](https://tramitit.com/spanish/guides/spain/renovacion_de_la_tarjeta_sanitaria/)
+- [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_prestacion_por_desempleo/)
+- [Cómo Programar una Cita con la Oficina de Inmigración en España](https://tramitit.com/es/guides/spain/solicitud_de_cita_previa_en_extranjeria/)
+- [Tarjeta Sanitaria en España: Cómo obtenerla y requisitos](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_sanitaria/)
+- [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_pension_de_jubilacion/)
+- [Obtén la Tarjeta Sanitaria Europea: Guía para Ciudadanos Españoles](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_sanitaria/)
