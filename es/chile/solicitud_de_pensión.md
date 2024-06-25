@@ -48,8 +48,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 
 ## Related Posts
 
-- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_la_seguridad_social/)
+- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_la_seguridad_social/)
 - [Guía Completa para Obtener la Nacionalidad Chilena Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_nacionalidad/)
 - [Servicio de Pasaporte Chileno en Chile - Pasos Fáciles y Requisitos](https://tramitit.com/es/guides/chile/pasaporte_chileno/)
-- [Guía Integral para Solicitudes de Adopción en Chile](https://tramitit.com/es/guides/chile/solicitud_de_adopción/)
-- [Registro del Sistema de Salud de Chile - Guía de Pasos Sencillos](https://tramitit.com/es/guides/chile/inscripción_al_sistema_de_salud/)
+- [Guía Integral para Solicitudes de Adopción en Chile](https://tramitit.com/es/guides/chile/solicitud_de_adopci%C3%B3n/)
+- [Registro del Sistema de Salud de Chile - Guía de Pasos Sencillos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sistema_de_salud/)

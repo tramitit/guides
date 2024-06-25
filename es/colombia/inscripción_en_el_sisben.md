@@ -49,8 +49,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres un proveedo
 
 ## Related Posts
 
-- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripción_al_sistema_de_seguridad_social/)
-- [Registro en ICBF: Proceso y requisitos para adopción en Colombia](https://tramitit.com/es/guides/colombia/inscripción_en_el_icbf/)
-- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripción_en_el_sistema_de_educación_superior/)
-- [Descubre los Cursos de SENA: Mejora tus Habilidades en Colombia](https://tramitit.com/es/guides/colombia/inscripción_en_el_sena/)
+- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_al_sistema_de_seguridad_social/)
+- [Registro en ICBF: Proceso y requisitos para adopción en Colombia](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_icbf/)
+- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_sistema_de_educaci%C3%B3n_superior/)
+- [Descubre los Cursos de SENA: Mejora tus Habilidades en Colombia](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_sena/)
 - [Subsidio Familiar en Colombia: Ayuda para Familias Necesitadas](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_familiar/)

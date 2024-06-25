@@ -47,8 +47,8 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - Para aqueles que residem no exterior durante o período de desemprego, podem ser necessárias etapas adicionais para comprovar a elegibilidade e manter os benefícios.
 ## Related Posts
 
-- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previdência_social/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)
-- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_pensão_por_morte/)
-- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_nacional_de_informações_sociais/)
-- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_único/)
+- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previd%C3%AAncia_social/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_aposentadoria/)
+- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_pens%C3%A3o_por_morte/)
+- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_nacional_de_informa%C3%A7%C3%B5es_sociais/)
+- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_%C3%BAnico/)

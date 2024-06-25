@@ -44,7 +44,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - Los métodos de pago para las tarifas de solicitud pueden variar; asegúrate de confirmar los modos de pago aceptables antes de tu cita.
 ## Related Posts
 
-- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/es/guides/argentina/renovación_de_pasaporte/)
+- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/es/guides/argentina/renovaci%C3%B3n_de_pasaporte/)
 - [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/es/guides/argentina/documento_nacional_de_identidad/)
 - [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
 - [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_nacimiento/)

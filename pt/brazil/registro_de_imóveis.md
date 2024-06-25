@@ -51,8 +51,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 - Investidores estrangeiros também podem precisar obter um CPF no Brasil.
 ## Related Posts
 
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
-- [Obtenha facilmente sua certidão de casamento no Brasil](https://tramitit.com/pt/guides/brazil/certidão_de_casamento/)
-- [Transferência sem esforço de propriedade de veículo no Brasil](https://tramitit.com/pt/guides/brazil/transferência_de_veículo/)
-- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_físicas/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_ve%C3%ADculo/)
+- [Obtenha facilmente sua certidão de casamento no Brasil](https://tramitit.com/pt/guides/brazil/certid%C3%A3o_de_casamento/)
+- [Transferência sem esforço de propriedade de veículo no Brasil](https://tramitit.com/pt/guides/brazil/transfer%C3%AAncia_de_ve%C3%ADculo/)
+- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_f%C3%ADsicas/)
 - [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/pt/guides/brazil/registro_de_nascimento/)

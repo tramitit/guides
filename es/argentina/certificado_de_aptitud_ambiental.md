@@ -50,8 +50,8 @@ _(Estamos actualmente seleccionando los mejores proveedores. Si usted es o conoc
 - **Información de Contacto**: Comuníquese con las oficinas ambientales locales para obtener orientación y apoyo más específicos.
 ## Related Posts
 
-- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_ética_profesional/)
+- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_%C3%A9tica_profesional/)
 - [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_idoneidad/)
 - [Obtenga fácilmente su Certificado Nacional de Antecedentes de Tránsito](https://tramitit.com/es/guides/argentina/certificado_cenat/)
 - [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/es/guides/argentina/registro_de_exportadores/)
-- [Revalidación de Títulos Extranjeros en Argentina - Guía Completa](https://tramitit.com/es/guides/argentina/revalidación_de_título_universitario/)
+- [Revalidación de Títulos Extranjeros en Argentina - Guía Completa](https://tramitit.com/es/guides/argentina/revalidaci%C3%B3n_de_t%C3%ADtulo_universitario/)

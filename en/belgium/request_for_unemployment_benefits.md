@@ -16,7 +16,7 @@ translationKey: belgium-request_for_unemployment_benefits
 This guide is intended for anyone who has recently become unemployed in Belgium and needs to apply for unemployment benefits. 
 
 ## Procedure
-1. Register as a job seeker with [Actiris](https://www.actiris.brussels/en) (if you live in Brussels), [Forem](https://www.leforem.be/) (if you live in Wallonia) or [VDAB](https://www.vdab.be/english) (if you live in Flanders).
+1. Register as a job seeker with [Actiris](https://www.actiris.brussels/en/citizens/) (if you live in Brussels), [Forem](https://www.leforem.be/) (if you live in Wallonia) or [VDAB](https://www.vdab.be/english) (if you live in Flanders).
 2. Document your search for a job through these agencies.
 3. If you have been employed for at least 12 months in the past 18 months, you may be entitled to benefits. 
 4. Gather the necessary documents to apply for unemployment benefits.

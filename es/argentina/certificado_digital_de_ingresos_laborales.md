@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Para obtener más información y actualizaciones, consulta los hilos y discusiones relevantes.
 ## Related Posts
 
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_r%C3%A9gimen_de_aut%C3%B3nomos/)
 - [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)
 - [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/es/guides/argentina/constancia_de_cuit/)
 - [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
-- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_ética_profesional/)
+- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_%C3%A9tica_profesional/)

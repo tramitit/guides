@@ -17,7 +17,7 @@ translationKey: belgium-request_for_unemployment_benefits
 Deze gids is bedoeld voor iedereen die recentelijk werkloos is geworden in België en die een aanvraag moet indienen voor werkloosheidsuitkeringen.
 
 ## Procedure
-1. Registreer als werkzoekende bij [Actiris](https://www.actiris.brussels/nl) (indien u in Brussel woont), [Forem](https://www.leforem.be/) (indien u in Wallonië woont) of [VDAB](https://www.vdab.be/nederlands) (indien u in Vlaanderen woont).
+1. Registreer als werkzoekende bij [Actiris](https://www.actiris.brussels/nl/burgers/) (indien u in Brussel woont), [Forem](https://www.leforem.be/) (indien u in Wallonië woont) of [VDAB](https://www.vdab.be/nederlands) (indien u in Vlaanderen woont).
 2. Documenteer uw zoektocht naar een baan via deze instanties.
 3. Als u in de afgelopen 18 maanden minstens 12 maanden heeft gewerkt, heeft u mogelijk recht op uitkeringen.
 4. Verzamel de benodigde documenten om een aanvraag voor werkloosheidsuitkeringen in te dienen.

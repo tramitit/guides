@@ -47,8 +47,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces un 
 
 ## Related Posts
 
-- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/cédula_de_identidad/)
-- [Servicio de Renovación de Pasaportes sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/renovación_de_pasaporte/)
+- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/c%C3%A9dula_de_identidad/)
+- [Servicio de Renovación de Pasaportes sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/renovaci%C3%B3n_de_pasaporte/)
 - [Servicio de Pasaporte Chileno en Chile - Pasos Fáciles y Requisitos](https://tramitit.com/es/guides/chile/pasaporte_chileno/)
 - [Servicio Eficiente de Certificado de Nacimiento en Chile](https://tramitit.com/es/guides/chile/certificado_de_nacimiento/)
-- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_civil/)
+- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_civil/)

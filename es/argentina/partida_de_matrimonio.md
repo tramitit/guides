@@ -49,5 +49,5 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/es/guides/argentina/certificado_de_matrimonio/)
 - [Servicio de solicitud de partida de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_nacimiento/)
 - [Cómo obtener un certificado de nacimiento en Argentina](https://tramitit.com/es/guides/argentina/partida_de_nacimiento/)
-- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/es/guides/argentina/certificado_de_defunción/)
-- [Cómo Obtener el Acta de Defunción en Argentina - Guía Completa](https://tramitit.com/es/guides/argentina/partida_de_defunción/)
+- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/es/guides/argentina/certificado_de_defunci%C3%B3n/)
+- [Cómo Obtener el Acta de Defunción en Argentina - Guía Completa](https://tramitit.com/es/guides/argentina/partida_de_defunci%C3%B3n/)

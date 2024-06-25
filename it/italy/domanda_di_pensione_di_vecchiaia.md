@@ -22,7 +22,7 @@ Ogni individuo che ha raggiunto l'età ufficiale del pensionamento (67 anni in I
 ## Procedura
 1. Verifica la tua idoneità: Il primo passo è confermare di soddisfare i requisiti di idoneità; almeno 67 anni di età e almeno 20 anni di contribuzione al sistema pensionistico italiano.
 2. Raccogli la documentazione necessaria: Raccogli tutti i documenti necessari (vedi Documenti Richiesti).
-3. Richiesta online: Puoi presentare la tua domanda di pensione di vecchiaia attraverso i servizi online dell'INPS (Istituto Nazionale della Previdenza Sociale). Il modulo di richiesta può essere trovato [qui](http://www.inps.it).
+3. Richiesta online: Puoi presentare la tua domanda di pensione di vecchiaia attraverso i servizi online dell'INPS (Istituto Nazionale della Previdenza Sociale). Il modulo di richiesta può essere trovato [qui](https://www.inps.it/).
 4. Attendere una risposta: Una volta inviata la tua domanda, l'INPS esaminerà il tuo caso e determinerà l'importo della tua pensione.
 
 ## Documenti Richiesti
@@ -44,7 +44,7 @@ Ricorda che l'importo della tua pensione dipenderà dalla durata dei tuoi contri
 
 Il sistema pensionistico italiano è stato oggetto di varie riforme di recente, mirate a garantirne la sostenibilità di fronte a una popolazione che invecchia. Si prega di verificare i requisiti e le procedure più aggiornati.
 
-Si noti che attraverso lo stesso portale dell'INPS, è possibile trovare informazioni su opzioni vantaggiose di "riscatto" per laureati universitari, che consentono di estendere il periodo di contributi pensionistici. Ulteriori dettagli possono essere trovati [qui](http://www.inps.it).
+Si noti che attraverso lo stesso portale dell'INPS, è possibile trovare informazioni su opzioni vantaggiose di "riscatto" per laureati universitari, che consentono di estendere il periodo di contributi pensionistici. Ulteriori dettagli possono essere trovati [qui](https://www.inps.it/).
 ## Related Posts
 
 - [Pensione di Invalidità: Come Richiederla e Documenti Necessari](https://tramitit.com/it/guides/italy/domanda_di_pensione_di_invalidita/)

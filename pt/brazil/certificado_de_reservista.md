@@ -46,6 +46,6 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 
 - [Alistamento Militar no Brasil: Guia Completo e Atualizado](https://tramitit.com/pt/guides/brazil/alistamento_militar/)
 - [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_passaporte/)
 - [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/pt/guides/brazil/registro_de_nascimento/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)

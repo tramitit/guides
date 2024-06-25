@@ -24,7 +24,7 @@ Any individual residing in Portugal who has employment income must fill out IRS 
 ## Procedure
 1. **Gather Necessary Documents**: Before you start filling out IRS Anexo A, ensure you have all relevant documents, such as your salary slips, employment contracts, and other evidence of income.
    
-2. **Access the IRS Portal**: Go to the [Portuguese Tax Authority's official website (Portal das Finanças)](https://www.portaldasfinancas.gov.pt).
+2. **Access the IRS Portal**: Go to the [Portuguese Tax Authority's official website (Portal das Finanças)](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 
 3. **Login to Your Account**: Use your login credentials (NIF and password) to access your account on the portal.
    

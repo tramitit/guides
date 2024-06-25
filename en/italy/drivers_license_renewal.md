@@ -22,7 +22,7 @@ Any individual who holds an Italian driver's license that is nearing its expiry 
 1. Start the renewal process 3 months prior to the expiration date of the driver's license.
 2. Visit the local Municipality (Comune) or the Automobile Club d'Italia (ACI) office. 
 3. Fill out the renewal request form (TT 2112) which can be downloaded and printed from
-[Portale dell'Automobilista](https://www.ilportaledellautomobilista.it/web/portale-automobilista/modulistica).
+[Portale dell'Automobilista](https://www.ilportaledellautomobilista.it/modulistica/spamodulistica/?pp=applicazioni&amp%3bcp=Moduli&titoloSezione=App%2520mobile).
 4. Undergo a medical examination to acquire a Medical Certificate. Medical examination can be conducted by the local public health unit (ASL) or by a certified doctor. 
 5. Submit the form along with the required documents and the Medical Certificate at the local Motorizzazione Civile (DMV).
 6. Pay the renewal fee through a Postal Bulletin, the information of which will be given at the DMV.

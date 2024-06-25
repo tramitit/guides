@@ -48,7 +48,7 @@ _(Actualmente estamos reuniendo a los mejores proveedores. Si eres un proveedor 
 ## Related Posts
 
 - [Obtén tu certificado de matrimonio chileno fácilmente](https://tramitit.com/es/guides/chile/certificado_de_matrimonio/)
-- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_civil/)
-- [Solicita Certificados de Defunción en Chile de Forma Rápida](https://tramitit.com/es/guides/chile/certificado_de_defunción/)
-- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/cédula_de_identidad/)
+- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_civil/)
+- [Solicita Certificados de Defunción en Chile de Forma Rápida](https://tramitit.com/es/guides/chile/certificado_de_defunci%C3%B3n/)
+- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/c%C3%A9dula_de_identidad/)
 - [Servicio de Asistencia Simple para Cambio de Nombre en Chile](https://tramitit.com/es/guides/chile/cambio_de_nombre/)

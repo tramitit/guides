@@ -64,8 +64,8 @@ _(Estamos seleccionando a los mejores proveedores. Si eres o conoces a un provee
 
 ## Related Posts
 
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Proceso de Autorización para Carta de Invitación a España](https://tramitit.com/es/guides/spain/autorización_expedición_carta_de_invitación/)
-- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/es/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovación/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovaci%C3%B3n_residencia_o_residencia_y_trabajo/)
+- [Proceso de Autorización para Carta de Invitación a España](https://tramitit.com/es/guides/spain/autorizaci%C3%B3n_expedici%C3%B3n_carta_de_invitaci%C3%B3n/)
+- [Tarjeta de Estudiante en España: ¿Qué es y quién lo necesita?](https://tramitit.com/es/guides/spain/tarjeta_de_estudiantes_para_extranjeros_inicial_o_renovaci%C3%B3n/)
 - [Solicitud de Tarjeta de Residente de la UE en España](https://tramitit.com/es/guides/spain/solicitud_de_tarjeta_de_residente_comunitario/)
-- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
+- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_uni%C3%B3n_europea/)

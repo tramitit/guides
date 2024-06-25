@@ -20,8 +20,8 @@ Anyone who has lost their job and is actively seeking employment may need to app
 
 ## Procedure
 
-1. Register as a jobseeker with Pôle Emploi, either online via the [Pôle Emploi website](https://www.pole-emploi.fr/) or in person at your local Pôle Emploi office. You should do this as soon as possible after losing your job.
-2. Complete the ARE application form, which can be downloaded from the [Pôle Emploi website](https://www.pole-emploi.fr/).
+1. Register as a jobseeker with Pôle Emploi, either online via the [Pôle Emploi website](https://www.francetravail.fr/accueil/) or in person at your local Pôle Emploi office. You should do this as soon as possible after losing your job.
+2. Complete the ARE application form, which can be downloaded from the [Pôle Emploi website](https://www.francetravail.fr/accueil/).
 3. Gather all the necessary documents (see below). Your completed application form and the required documents will need to be submitted to your local Pôle Emploi office.
 4. Pôle Emploi will review your application and determine whether you are eligible for ARE. If you are, they will also determine how much you will receive and for how long.
 5. If your application is approved, your ARE benefits will be paid monthly, usually around the 10th of the month. You will need to confirm every month that you are still looking for work in order to continue receiving benefits.

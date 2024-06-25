@@ -20,7 +20,7 @@ Le renouvellement d'un permis de conduire est le processus de renouvellement de 
 Ce service est nécessaire pour toute personne dont le permis de conduire a expiré ou dont le permis approche de sa date d'expiration. Il est également nécessaire pour les non-citoyens français résidant en France et souhaitant continuer à conduire.
 
 ## Procédure
-1. Rendez-vous sur le site officiel du Service Public Français [ANTS](https://ants.gouv.fr/)
+1. Rendez-vous sur le site officiel du Service Public Français [ANTS](https://csirt.docapost.fr/index.php/Information_de_s%C3%A9curit%C3%A9_ANTS?_event_transid=1089511357)
 2. Connectez-vous à votre compte ou créez-en un si vous n'en avez pas.
 3. Accédez à la section permis de conduire.
 4. Suivez les instructions fournies pour soumettre une demande de renouvellement de permis de conduire.

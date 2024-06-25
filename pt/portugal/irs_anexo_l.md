@@ -23,7 +23,7 @@ Este formulário é necessário para contribuintes não residentes que tenham ge
 ## Procedimento
 1. **Recolher Informação Relevante**: Antes de iniciar o processo, certifique-se de ter todos os seus dados financeiros, documentos de identificação e declarações de rendimentos. Isso pode incluir contratos de arrendamento, extratos bancários ou outras provas de rendimento.
 
-2. **Aceder ao Portal das Finanças Português**: Visite o [Portal das Finanças](https://www.portaldasfinancas.gov.pt) oficial.
+2. **Aceder ao Portal das Finanças Português**: Visite o [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html) oficial.
 
 3. **Iniciar Sessão**: Utilize as suas credenciais para iniciar sessão na sua conta do Portal das Finanças. Se não tiver uma conta, precisará registar-se.
 

@@ -49,8 +49,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 
 ## Related Posts
 
-- [Obtén tu Certificado de Situación Tributaria en Chile](https://tramitit.com/es/guides/chile/certificado_de_situación_tributaria/)
-- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripción_al_sii/)
-- [Obtén fácilmente un Certificado de Tasación Fiscal en Chile](https://tramitit.com/es/guides/chile/certificado_de_avalúo_fiscal/)
-- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripción_en_el_registro_público_de_comercio/)
+- [Obtén tu Certificado de Situación Tributaria en Chile](https://tramitit.com/es/guides/chile/certificado_de_situaci%C3%B3n_tributaria/)
+- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sii/)
+- [Obtén fácilmente un Certificado de Tasación Fiscal en Chile](https://tramitit.com/es/guides/chile/certificado_de_aval%C3%BAo_fiscal/)
+- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripci%C3%B3n_en_el_registro_p%C3%BAblico_de_comercio/)
 - [Obtén fácilmente tu Certificado de Residencia en Chile](https://tramitit.com/es/guides/chile/certificado_de_residencia/)

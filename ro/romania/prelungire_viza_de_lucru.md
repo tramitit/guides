@@ -26,7 +26,7 @@ Acest serviciu este ideal pentru persoanele străine care se află momentan în 
 5. Plătiți taxa de imigrație pentru extensie.
 6. Așteptați aprobarea extensiei dumneavoastră.
 
-Vă rugăm să verificați [Oficiul Român de Imigrare](http://igi.mai.gov.ro/) pentru informații mai detaliate și actualizate.
+Vă rugăm să verificați [Oficiul Român de Imigrare](https://igi.mai.gov.ro:443/) pentru informații mai detaliate și actualizate.
 
 ## Documente necesare
 - Formularul de cerere

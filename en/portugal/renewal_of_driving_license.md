@@ -21,7 +21,7 @@ This service is needed by any individual who is living abroad, especially in Por
 ## Procedure
 1. Check your license's expiration date.
 2. If you're in UK, follow the process specified by the DVLA ([Driver & Vehicle Licensing Agency](https://www.gov.uk/renew-driving-licence)).
-3. For those residing in Portugal, please visit [IMT - Portuguese Institute for Mobility and Transport](https://www.imt-ip.pt/) to start the process of renewal.
+3. For those residing in Portugal, please visit [IMT - Portuguese Institute for Mobility and Transport](https://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx) to start the process of renewal.
 4. If you're in Brazil, visit the DETRAN ([Department of Traffic](http://www.detran.sp.gov.br/)) of your state and proceed according to the guidelines provided. 
 5. Always keep in mind the local regulations and requirements surrounding renewal procedures, they might vary from country to country.
 

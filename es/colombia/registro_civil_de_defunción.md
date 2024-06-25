@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 ## Related Posts
 
-- [Obtenga un Certificado de Defunción en Colombia de manera Eficiente](https://tramitit.com/es/guides/colombia/certificado_de_defunción/)
+- [Obtenga un Certificado de Defunción en Colombia de manera Eficiente](https://tramitit.com/es/guides/colombia/certificado_de_defunci%C3%B3n/)
 - [Obtenga su Acta de Nacimiento en Colombia Fácilmente en Línea](https://tramitit.com/es/guides/colombia/registro_civil_de_nacimiento/)
 - [Obtenga fácilmente su certificado de matrimonio en Colombia](https://tramitit.com/es/guides/colombia/registro_civil_de_matrimonio/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)

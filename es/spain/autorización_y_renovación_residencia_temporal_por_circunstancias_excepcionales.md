@@ -80,8 +80,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si tú eres un prov
 
 ## Related Posts
 
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
-- [Extensión de Estancia Corta en España: Guía Completa](https://tramitit.com/es/guides/spain/prórroga_de_estancia_de_corta_duración/)
-- [Autorización de Regreso en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/autorización_de_regreso/)
-- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/es/guides/spain/nacionalidad_española_por_residencia/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovaci%C3%B3n_residencia_o_residencia_y_trabajo/)
+- [Extensión de Estancia Corta en España: Guía Completa](https://tramitit.com/es/guides/spain/pr%C3%B3rroga_de_estancia_de_corta_duraci%C3%B3n/)
+- [Autorización de Regreso en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/autorizaci%C3%B3n_de_regreso/)
+- [Guía para Obtener la Nacionalidad Española por Residencia](https://tramitit.com/es/guides/spain/nacionalidad_espa%C3%B1ola_por_residencia/)
 - [Renovación de Permiso de Trabajo en España: Proceso y Documentos](https://tramitit.com/es/guides/spain/renovacion_de_permiso_de_trabajo/)

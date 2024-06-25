@@ -22,7 +22,7 @@ Any individual who plans to stay in Germany for more than just a few weeks. This
 
 1. Find a residence: Before you can register, you need a fix address. This includes rental contracts or a signed affirmation from the owner of the place where you will be staying.
 
-2. Book an appointment: Depending on the city you live in, you may need to book an appointment. Visit the Bürgeramt (or Burgerburo) of your city online to book an appointment. For instance, in Berlin, appointments can be booked online via [Berliner.de](https://service.berlin.de/terminvereinbarung/termin/day/).
+2. Book an appointment: Depending on the city you live in, you may need to book an appointment. Visit the Bürgeramt (or Burgerburo) of your city online to book an appointment. For instance, in Berlin, appointments can be booked online via [Berliner.de](https://service.berlin.de/terminvereinbarung/termin/stop/).
 
 3. Prepare Document: Gather all required documents before your appointment and make sure they are in order. It is important to carry originals for verification purposes.
 

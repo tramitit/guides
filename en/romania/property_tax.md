@@ -22,7 +22,7 @@ Any individual or entity owning real estate properties such as houses, apartment
 To pay the property tax in Romania, you need to follow a few steps:
 1. Valuate the property based on the current market rates, possibly with the help of a professional.
 2. Calculate the tax due based on the property value and the current tax rate. Ensure to consider tax exemptions if you are eligible.
-3. Visit your local tax authority office or their online platform. In Romania, this can be performed in the online platform [ghiseul.ro](https://ghiseul.ro/).
+3. Visit your local tax authority office or their online platform. In Romania, this can be performed in the online platform [ghiseul.ro](https://www.ghiseul.ro/ghiseul/public/).
 4. Fill out the property tax declaration form, including all necessary details.
 5. Pay the tax due, either online or at the tax authority office.
 

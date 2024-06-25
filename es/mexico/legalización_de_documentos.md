@@ -49,5 +49,5 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres un proveedo
 - [Servicios de Apostilla para Documentos en México de forma fácil](https://tramitit.com/es/guides/mexico/apostilla_de_documentos/)
 - [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
 - [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)
-- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopción/)
+- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopci%C3%B3n/)
 - [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/es/guides/mexico/licencia_de_conducir/)

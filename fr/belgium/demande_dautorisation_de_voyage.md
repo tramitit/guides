@@ -19,7 +19,7 @@ L'autorisation de voyage est une exigence pour les voyageurs qui prévoient de v
 Ce guide est idéal pour les citoyens américains qui prévoient de voyager en Europe ou dans d'autres destinations ayant des exigences spécifiques en matière de visa ou d'autorisation de voyage.
 
 ## Procédure
-1. Déterminez si le pays de destination nécessite un visa ou une autorisation de voyage. Pour l'Europe, vous pouvez vérifier sur le [Portail officiel de l'immigration de l'UE](https://ec.europa.eu/immigration/).
+1. Déterminez si le pays de destination nécessite un visa ou une autorisation de voyage. Pour l'Europe, vous pouvez vérifier sur le [Portail officiel de l'immigration de l'UE](https://immigration-portal.ec.europa.eu/select-language?destination=/node/1).
 2. Si vous avez besoin de demander un visa, sélectionnez le type approprié (touristique, affaires, étudiant, etc.), rassemblez les documents nécessaires, payez les frais de demande et soumettez la demande au consulat ou à l'ambassade le plus proche.
 3. Pour une autorisation de voyage, faites la demande via le système en ligne désigné. Pour l'Europe, les citoyens américains utiliseront le [Système d'information et d'autorisation de voyage européen (ETIAS)](https://www.etiasvisa.com/etias-requirements/americans).
 4. Remplissez le formulaire avec des informations précises. Fournissez tous les détails nécessaires, y compris vos informations personnelles, les détails de votre passeport, les informations médicales et l'itinéraire de voyage.

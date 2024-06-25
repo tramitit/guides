@@ -50,8 +50,8 @@ _(Estamos actualmente seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Servicio Rápido y Fácil de Renovación de Pasaportes Colombianos](https://tramitit.com/es/guides/colombia/renovación_de_pasaporte/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
-- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/cédula_de_ciudadanía/)
+- [Servicio Rápido y Fácil de Renovación de Pasaportes Colombianos](https://tramitit.com/es/guides/colombia/renovaci%C3%B3n_de_pasaporte/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)
+- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/c%C3%A9dula_de_ciudadan%C3%ADa/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)
 - [Obtenga fácilmente su certificado de matrimonio en Colombia](https://tramitit.com/es/guides/colombia/registro_civil_de_matrimonio/)

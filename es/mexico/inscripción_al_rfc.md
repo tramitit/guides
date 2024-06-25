@@ -45,7 +45,7 @@ _(Estamos actualmente seleccionando a los mejores proveedores. Si eres un provee
 ## Related Posts
 
 - [Guía de Registro de CURP sin Esfuerzo para Residentes de México](https://tramitit.com/es/guides/mexico/registro_curp/)
-- [Certificado de Situación Fiscal en México - ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/mexico/constancia_de_situación_fiscal/)
+- [Certificado de Situación Fiscal en México - ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/mexico/constancia_de_situaci%C3%B3n_fiscal/)
 - [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/es/guides/mexico/carta_de_residencia/)
-- [Registro SAT en México - Guía Completa para Estudiantes y Padres](https://tramitit.com/es/guides/mexico/inscripción_al_sat/)
-- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripción_al_imss/)
+- [Registro SAT en México - Guía Completa para Estudiantes y Padres](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_al_sat/)
+- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_al_imss/)

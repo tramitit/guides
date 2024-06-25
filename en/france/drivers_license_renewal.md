@@ -19,7 +19,7 @@ Renewal of a driver's license is the process of renewing your existing driving l
 This service is needed by anyone with an expired driver's license or a license nearing its expiry date. It is also necessary for non-French citizens residing in France and wishing to continue driving.
 
 ## Procedure
-1. Visit the Official website of the French Public Service [ANTS](https://ants.gouv.fr/)
+1. Visit the Official website of the French Public Service [ANTS](https://csirt.docapost.fr/index.php/Information_de_s%C3%A9curit%C3%A9_ANTS?_event_transid=1089511360)
 2. Log in to your account or create one if you do not have it.
 3. Navigate to the driver's license section.
 4. Follow the instructions provided to submit an application for driver's license renewal.

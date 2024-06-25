@@ -49,8 +49,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 - Assista aos webinários e oficinas oferecidas pelo governo para obter orientação adicional sobre o processo de inscrição.
 ## Related Posts
 
-- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_imóveis/)
-- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_único/)
-- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscrição_em_concursos_públicos/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_im%C3%B3veis/)
+- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_%C3%BAnico/)
+- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscri%C3%A7%C3%A3o_em_concursos_p%C3%BAblicos/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_alvar%C3%A1/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)

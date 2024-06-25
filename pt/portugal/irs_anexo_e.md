@@ -21,7 +21,7 @@ Este formulário é normalmente necessário para indivíduos que têm rendimento
 
 ## Procedimento
 1. **Aceder ao Portal das Finanças:**
-   Acesse a plataforma online do IRS através do [Portal das Finanças](https://www.portaldasfinancas.gov.pt/).
+   Acesse a plataforma online do IRS através do [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 
 2. **Navegar para a secção de IRS:**
    Procure a secção para declarar o IRS e clique nela. Normalmente, poderá ver uma indicação para iniciar o processo de preenchimento da sua declaração anual de imposto.
@@ -70,7 +70,7 @@ _(Estamos atualmente a selecionar os melhores prestadores. Se é ou conhece algu
 
 ## Detalhes adicionais
 - Garanta que todos os montantes sejam introduzidos em Euros.
-- É crucial verificar se existem atualizações ou alterações ao formulário ou procedimentos no [Portal das Finanças](https://www.portaldasfinancas.gov.pt/), uma vez que os regulamentos e formulários podem ser atualizados periodicamente.
+- É crucial verificar se existem atualizações ou alterações ao formulário ou procedimentos no [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html), uma vez que os regulamentos e formulários podem ser atualizados periodicamente.
 ## Related Posts
 
 - [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)

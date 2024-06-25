@@ -42,7 +42,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Related Posts
 
 - [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/es/guides/argentina/constancia_de_cuit/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_r%C3%A9gimen_de_aut%C3%B3nomos/)
 - [Obtén tu Certificado de Ingresos Laborales Digitales en Argentina](https://tramitit.com/es/guides/argentina/certificado_digital_de_ingresos_laborales/)
 - [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/es/guides/argentina/documento_nacional_de_identidad/)
 - [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_de_desempleo/)

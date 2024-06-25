@@ -46,8 +46,8 @@ _(Estamos atualmente curando os melhores fornecedores. Se você é ou conhece um
 - Traduções: Se o solicitante precisar do documento para fins internacionais, considere obter uma tradução oficial da certidão para o idioma necessário.
 ## Related Posts
 
-- [Obtenha facilmente sua certidão de casamento no Brasil](https://tramitit.com/pt/guides/brazil/certidão_de_casamento/)
+- [Obtenha facilmente sua certidão de casamento no Brasil](https://tramitit.com/pt/guides/brazil/certid%C3%A3o_de_casamento/)
 - [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/pt/guides/brazil/registro_de_nascimento/)
-- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_pensão_por_morte/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
+- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_pens%C3%A3o_por_morte/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_passaporte/)

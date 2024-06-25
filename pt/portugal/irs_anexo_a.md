@@ -23,7 +23,7 @@ Qualquer indivíduo residente em Portugal que tenha rendimentos do trabalho deve
 ## Procedimento
 1. **Recolher Documentos Necessários**: Antes de começar a preencher o IRS Anexo A, certifique-se de que tem todos os documentos relevantes, como os seus recibos de salário, contratos de trabalho e outras provas de rendimento.
    
-2. **Aceder ao Portal do IRS**: Aceda ao [site oficial da Autoridade Tributária portuguesa (Portal das Finanças)](https://www.portaldasfinancas.gov.pt).
+2. **Aceder ao Portal do IRS**: Aceda ao [site oficial da Autoridade Tributária portuguesa (Portal das Finanças)](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 
 3. **Iniciar Sessão na Sua Conta**: Utilize as suas credenciais de login (NIF e palavra-passe) para aceder à sua conta no portal.
    

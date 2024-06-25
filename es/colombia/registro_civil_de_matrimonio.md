@@ -49,7 +49,7 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 ## Related Posts
 
 - [Servicios de Matrimonio Civil en Colombia - Pasos Fáciles y Guía](https://tramitit.com/es/guides/colombia/matrimonio_civil/)
-- [Obtenga fácilmente su Certificado de Soltería en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_soltería/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Obtenga fácilmente su Certificado de Soltería en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_solter%C3%ADa/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)
 - [Obtenga su Acta de Nacimiento en Colombia Fácilmente en Línea](https://tramitit.com/es/guides/colombia/registro_civil_de_nacimiento/)

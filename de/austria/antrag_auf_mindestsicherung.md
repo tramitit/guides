@@ -19,7 +19,7 @@ Mindestsicherungsanträge beziehen sich auf den Prozess der Erlangung von Mindes
 Ideale Antragsteller sind österreichische Einwohner, die ihren Job verloren haben oder mit einer privaten Krise zu kämpfen haben und derzeit finanzielle Notlagen erleben.
 
 ## Verfahren
-1. Registrieren Sie sich als Jobsuchender beim Arbeitsmarktservice oder AMS (Arbeitsmarktservice) [Website](https://www.ams.at).
+1. Registrieren Sie sich als Jobsuchender beim Arbeitsmarktservice oder AMS (Arbeitsmarktservice) [Website](https://www.ams.at/).
 2. Beantragen Sie Arbeitslosenunterstützung beim AMS.
 3. Wenn Ihr Antrag auf Arbeitslosenunterstützung abgelehnt wurde oder Sie nicht berechtigt sind, beantragen Sie Mindestsicherung am örtlichen Gemeindeamt oder Sozialzentrum.
 4. Durchlaufen Sie einen Beurteilungsprozess, der Ihre Berechtigung prüft. Dies kann ein Interview und die Bereitstellung von Unterlagen über Ihre aktuelle finanzielle Situation erfordern.

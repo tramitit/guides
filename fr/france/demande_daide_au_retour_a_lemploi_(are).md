@@ -20,8 +20,8 @@ Toute personne ayant perdu son emploi et recherchant activement un emploi peut a
 
 ## Procédure
 
-1. S'inscrire en tant que demandeur d'emploi auprès de Pôle Emploi, soit en ligne via le [site internet de Pôle Emploi](https://www.pole-emploi.fr/), soit en personne dans votre agence locale Pôle Emploi. Vous devriez le faire dès que possible après la perte de votre emploi.
-2. Compléter le formulaire de demande ARE, qui peut être téléchargé sur le [site internet de Pôle Emploi](https://www.pole-emploi.fr/).
+1. S'inscrire en tant que demandeur d'emploi auprès de Pôle Emploi, soit en ligne via le [site internet de Pôle Emploi](https://www.francetravail.fr/accueil/), soit en personne dans votre agence locale Pôle Emploi. Vous devriez le faire dès que possible après la perte de votre emploi.
+2. Compléter le formulaire de demande ARE, qui peut être téléchargé sur le [site internet de Pôle Emploi](https://www.francetravail.fr/accueil/).
 3. Rassembler tous les documents nécessaires (voir ci-dessous). Votre formulaire de demande complété et les documents requis devront être soumis à votre agence locale Pôle Emploi.
 4. Pôle Emploi examinera votre demande et déterminera si vous êtes éligible à l'ARE. Si c'est le cas, ils détermineront également le montant que vous recevrez et pendant combien de temps.
 5. Si votre demande est approuvée, vos prestations ARE seront versées mensuellement, généralement autour du 10 du mois. Vous devrez confirmer chaque mois que vous êtes toujours à la recherche d'un emploi pour continuer à recevoir des prestations.

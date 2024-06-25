@@ -20,7 +20,7 @@ El proceso de renovar su DNI español (Documento Nacional de Identidad) cuando h
 Ciudadanos españoles, tanto residentes como no residentes, que poseen un DNI caducado o que pronto caducará.
 
 ## Procedimiento
-1. Programe una cita en línea para la renovación del DNI en este [sitio web](https://www.citapreviadnie.es)
+1. Programe una cita en línea para la renovación del DNI en este [sitio web](https://www.citapreviadnie.es/)
 2. Visite la comisaría de policía o el consulado en la hora de su cita.
 3. Lleve consigo los documentos necesarios.
 4. Una vez allí, le tomarán las huellas dactilares y la foto.
@@ -49,5 +49,5 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 - [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
 - [Renovación de Pasaporte en España: Proceso, Documentos y Proveedores](https://tramitit.com/es/guides/spain/renovacion_de_pasaporte/)
 - [Renovación de Licencia de Conducir en España: Proceso y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_permiso_de_conducir/)
-- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovación_residencia_o_residencia_y_trabajo/)
+- [Solicitud y Renovación de Tarjetas de Residencia en España](https://tramitit.com/es/guides/spain/tarjeta_inicial_o_renovaci%C3%B3n_residencia_o_residencia_y_trabajo/)
 - [Renovación Tarjeta de Estudiante en España: Guía Completa](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_estudiante/)

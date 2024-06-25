@@ -22,7 +22,7 @@ Qualquer residente Português que tenha recebido qualquer tipo de rendimento de 
 
 ## Procedimento
 1. **Recolha de Informações**: Reúna todos os documentos relacionados com os rendimentos obtidos no estrangeiro, como talões de pagamento, extratos de pensões e registros de investimentos.
-2. **Aceda ao Portal**: Visite o website oficial do Portal das Finanças. [Portal das Finanças](https://www.portaldasfinancas.gov.pt)
+2. **Aceda ao Portal**: Visite o website oficial do Portal das Finanças. [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html)
 3. **Login**: Utilize as suas credenciais para entrar na sua conta.
 4. **Iniciar uma Nova Declaração**: Navegue até à secção do IRS e inicie uma nova declaração de impostos.
 5. **Selecionar Anexo J**: Indique que irá preencher o Anexo J quando solicitado.

@@ -20,7 +20,7 @@ Anyone who resides in France, earns income, and meets certain income thresholds 
 ## Procedure
 1. Start by gathering all the relevant records of your income during the tax year - pay slips, bank statements, investment or trading records, etc. create a comprehensive overview of your earnings and expenditures.
    
-2. The French Tax Authority offer an online system for tax declaration ([Impots.gouv.fr](https://www.impots.gouv.fr/portail/)) which is the recommended method for declaring your taxes. Sign up or login to the portal.
+2. The French Tax Authority offer an online system for tax declaration ([Impots.gouv.fr](https://www.impots.gouv.fr/accueil)) which is the recommended method for declaring your taxes. Sign up or login to the portal.
 
 3. Fill in the required details about your income, deductions, and taxes paid - both in France and internationally.
    

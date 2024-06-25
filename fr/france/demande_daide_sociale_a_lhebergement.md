@@ -19,8 +19,8 @@ L'aide au logement social est un service fourni par le gouvernement pour offrir 
 Idéalement, ce service est disponible pour les personnes à faible revenu, les parents célibataires, les personnes âgées, les personnes handicapées et toute personne incapable de se permettre des logements au prix du marché.
 
 ## Procédure
-1. Comprendre votre admissibilité : Tout le monde ne qualifie pas pour le logement social. Pour savoir si vous êtes admissible, consultez [ce lien](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509779/).
-2. Demande : Les demandes de logement social en France doivent être faites en ligne sur le [site web du gouvernement](https://www.demande-logement-social.gouv.fr/) où vous remplirez un formulaire de demande (SLS) et recevrez un numéro d'enregistrement pour le logement social après la soumission.
+1. Comprendre votre admissibilité : Tout le monde ne qualifie pas pour le logement social. Pour savoir si vous êtes admissible, consultez [ce lien](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000509779).
+2. Demande : Les demandes de logement social en France doivent être faites en ligne sur le [site web du gouvernement](https://www.demande-logement-social.gouv.fr/index) où vous remplirez un formulaire de demande (SLS) et recevrez un numéro d'enregistrement pour le logement social après la soumission.
 3. Suivi : Suivez votre demande et assurez-vous d'avoir activé les notifications, car toutes les mises à jour sont généralement communiquées en ligne.
 4. Attendez une réponse : Le délai d'attente varie en fonction de la disponibilité et de la demande de logements sociaux dans votre région.
 

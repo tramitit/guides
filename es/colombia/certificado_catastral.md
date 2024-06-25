@@ -47,6 +47,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 - [Registro de Propiedad en Colombia: Guía Completa y Requisitos](https://tramitit.com/es/guides/colombia/registro_de_propiedad/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)
-- [Guía del Certificado de Libertad y Tradición Colombiano](https://tramitit.com/es/guides/colombia/certificado_de_libertad_y_tradición/)
+- [Guía del Certificado de Libertad y Tradición Colombiano](https://tramitit.com/es/guides/colombia/certificado_de_libertad_y_tradici%C3%B3n/)
 - [Cómo obtener un Certificado de Antecedentes Fiscales en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_fiscales/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)

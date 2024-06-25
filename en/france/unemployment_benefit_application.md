@@ -20,7 +20,7 @@ The service is suitable for individuals who have recently become unemployed, thr
 
 ## Procedure 
 
-1. Register with Pôle emploi. This can be done online at [www.pole-emploi.fr](http://www.pole-emploi.fr/).
+1. Register with Pôle emploi. This can be done online at [www.pole-emploi.fr](https://www.francetravail.fr/accueil/).
 2. After registration, you'll receive an appointment for a meeting with a Pôle emploi advisor. 
 3. During the appointment, your rights and obligations are explained, and a personalised plan is established to help you return to work. You will also be required to sign a Commitment to Act.
 4. File an application for unemployment benefits either online or during your meeting with the Pôle emploi advisor.

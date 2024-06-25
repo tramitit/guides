@@ -23,7 +23,7 @@ Any Portuguese resident who has received any form of income from foreign sources
 
 ## Procedure
 1. **Gather Information**: Collect all documents related to foreign income such as payslips, pension statements, and investment records.
-2. **Access the Portal**: Visit the official Portal das Finanças website. [Portal das Finanças](https://www.portaldasfinancas.gov.pt)
+2. **Access the Portal**: Visit the official Portal das Finanças website. [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html)
 3. **Login**: Use your credentials to log into your account.
 4. **Start a New Declaration**: Navigate to the IRS section and start a new tax return.
 5. **Select Anexo J**: Indicate that you will be filling out Anexo J when prompted.

@@ -18,7 +18,7 @@ Minimum security applications refer to the process of obtaining Mindestsicherung
 Ideal applicants are Austrian residents who have lost their job or are dealing with a private crisis and are currently facing financial hardships.
 
 ## Procedure
-1. Register as a jobseeker with the Arbeitsmarktservice or AMS (Employment Service) [Website](https://www.ams.at).
+1. Register as a jobseeker with the Arbeitsmarktservice or AMS (Employment Service) [Website](https://www.ams.at/).
 2. Apply for unemployment benefits with the AMS.
 3. If your application for unemployment benefits has been refused or you are not eligible for it, then apply for Mindestsicherung (Basic Security) at your local municipal office or social center.
 4. Undergo an assessment process which tests your eligibility. This might require an interview and providing documentation showcasing your current financial situation.

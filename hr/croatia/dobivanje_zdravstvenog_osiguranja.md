@@ -21,7 +21,7 @@ Svaki stanovnik, domaći ili strani, u Hrvatskoj treba imati zdravstveno osigura
 
 ## Postupak
 
-1. Posjetite Hrvatski zavod za zdravstveno osiguranje (poznat kao HZZO). Njihova službena web stranica [ovdje](http://www.hzzo.hr/)
+1. Posjetite Hrvatski zavod za zdravstveno osiguranje (poznat kao HZZO). Njihova službena web stranica [ovdje](https://hzzo.hr:443/)
 2. Predajte potrebne dokumente (navedene u odjeljku niže).
 3. Platite premiju zdravstvenog osiguranja prema potrebi. Vrijednost može varirati ovisno o vašem statusu (student, stručnjak, itd.).
 4. Sačekajte odobrenje vašeg zdravstvenog osiguranja.

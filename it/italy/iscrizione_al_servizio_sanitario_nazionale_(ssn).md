@@ -20,7 +20,7 @@ Il Servizio Sanitario Nazionale (SSN) in Italia è un sistema sanitario pubblico
 Tutti i residenti in Italia possono registrarsi con il SSN. Questo include cittadini italiani, cittadini dell'UE e cittadini non-UE con un permesso di soggiorno.
 
 ## Procedura
-1. Visita l'ufficio della tua autorità sanitaria locale (Azienda Sanitaria Locale / ASL). Trova la tua ASL locale utilizzando questo link: [Localizzatore ASL](http://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=3680&area=Le%20ASL&menu=vuoto)
+1. Visita l'ufficio della tua autorità sanitaria locale (Azienda Sanitaria Locale / ASL). Trova la tua ASL locale utilizzando questo link: [Localizzatore ASL](https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=3680&area=Le%20ASL&menu=vuoto)
 2. Completa un modulo di registrazione per il SSN - assicurati di avere tutti i documenti richiesti.
 3. Scegli un medico di famiglia da un elenco fornito - conosciuto come 'medico di base' o 'medico di famiglia'.
 4. Una volta che la tua registrazione è elaborata, riceverai per posta una tessera sanitaria.

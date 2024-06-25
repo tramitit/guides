@@ -20,7 +20,7 @@ Toto je sprievodca, ktorý vás prevedie procesom žiadosti o trvalý pobyt s pr
 
 ## Postup
 1. Zbierajte potrebné dokumenty: Tieto zahŕňajú váš pas, doklad o ubytovaní, dôkaz o zamestnaní alebo plánovanom zamestnaní, zdravotné poistenie a registračný dokument o neexistence trestného činu.
-2. Kontaktujte slovenskú ambasádu: Kontaktujte slovenskú ambasádu alebo konzulát vo vašej krajine, aby ste začali proces. Nájdite svoju [tu](http://www.mzv.sk/web/en).
+2. Kontaktujte slovenskú ambasádu: Kontaktujte slovenskú ambasádu alebo konzulát vo vašej krajine, aby ste začali proces. Nájdite svoju [tu](https://www.mzv.sk:443/web/en).
 3. Podajte žiadosť na ambasáde: Uistite sa, že všetky vaše dokumenty sú v poriadku pred podaním.
 4. Čakajte na schválenie: Proces môže trvať niekoľko týždňov, preto je dôležitá trpezlivosť.
 5. Vyzdvihnite si vašu vízu: Po schválení si môžete vízu vyzdvihnúť na ambasáde alebo konzuláte.

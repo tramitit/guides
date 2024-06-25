@@ -23,7 +23,7 @@ This information is essential for any car owner living in Romania or those plann
 1. Identify what kind of vehicle you own. The type and specs of the car will affect the amount of tax you pay.
 2. In Romania, the engine's power, measured in horsepower (HP), determines the vehicle tax. Calculate this based on your car's specifications.
 3. Ownership period also affects the tax amount. Include the number of months you've owned the car in your calculation.
-4. Import duties and other fees apply when you import a car. Consider these costs in your overall finances. Check the EU Tariff and Trade Information website for details ([here](https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/what-is-common-customs-tariff_en)).
+4. Import duties and other fees apply when you import a car. Consider these costs in your overall finances. Check the EU Tariff and Trade Information website for details ([here](https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff_en)).
 5. Payment methods may vary per locality. Make sure to check with your local tax office or commune for details.
 6. Insure your vehicle. The RCA (Civil Liability Insurance) is compulsory for all vehicle owners in Romania.
 

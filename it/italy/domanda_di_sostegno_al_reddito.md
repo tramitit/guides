@@ -27,7 +27,7 @@ Il reddito di cittadinanza è un'assistenza finanziaria fornita dal governo ital
 
 3. Il modulo può essere trovato e presentato presso uno degli uffici del [CAF (Centro Assistenza Fiscale)](https://www.caf.cgil.it/).
 
-4. La richiesta, corredata dalla documentazione necessaria, può anche essere presentata online tramite il sito dell'INPS [website](https://www.inps.it), o di persona presso gli uffici dell'INPS.
+4. La richiesta, corredata dalla documentazione necessaria, può anche essere presentata online tramite il sito dell'INPS [website](https://www.inps.it/), o di persona presso gli uffici dell'INPS.
 
 ## Documenti Richiesti
 

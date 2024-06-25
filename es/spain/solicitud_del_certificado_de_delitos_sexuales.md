@@ -50,5 +50,5 @@ Es importante recordar que un Certificado de Delitos Sexuales solo refleja la in
 - [Cómo Obtener el Certificado de Delitos de Naturaleza Sexual](https://tramitit.com/es/guides/spain/certificado_de_delitos_de_naturaleza_sexual/)
 - [Cómo obtener un Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/solicitud_de_certificado_de_antecedentes_penales/)
 - [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/certificado_de_antecedentes_penales/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunci%C3%B3n/)
 - [Cómo obtener un Certificado Digital en España: Guía completa](https://tramitit.com/es/guides/spain/solicitud_del_certificado_digital/)

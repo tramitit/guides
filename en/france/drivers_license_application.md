@@ -21,7 +21,7 @@ Whether you are an international person planning to stay in France for a long pe
 ## Procedure
 1. Validate your eligibility – The primary requirement for obtaining a French driving license is residency. However, you also have to be at least 18 years of age or older.
 2. If you hold a foreign driving license, first you need to check if there is a reciprocity agreement between France and your home country, for swapping your existing license without the need for tests.
-3. If such an agreement exists, you need to go through the process of exchanging foreign driving licence on ANTS website (Agence Nationale des Titres Sécurisés). [ANTS](https://permisdeconduire.ants.gouv.fr/)
+3. If such an agreement exists, you need to go through the process of exchanging foreign driving licence on ANTS website (Agence Nationale des Titres Sécurisés). [ANTS](https://csirt.docapost.fr/index.php/Information_de_s%C3%A9curit%C3%A9_ANTS?_event_transid=1614015647)
 4. Submit the necessary documents. After applying on ANTS’s website, you will be asked to mail your foreign driver's license along with other supporting documents. ANTS will then verify the authenticity of the documents.
 5. If France and your country don't have a reciprocity agreement, you will have to apply for a French driving license after passing both a written theory test and a practical driving exam.
 

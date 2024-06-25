@@ -47,6 +47,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 - [Obtenga fácilmente su certificado de matrimonio en Colombia](https://tramitit.com/es/guides/colombia/registro_civil_de_matrimonio/)
 - [Servicios de Matrimonio Civil en Colombia - Pasos Fáciles y Guía](https://tramitit.com/es/guides/colombia/matrimonio_civil/)
-- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/cédula_de_ciudadanía/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/c%C3%A9dula_de_ciudadan%C3%ADa/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
 - [Obtenga su Acta de Nacimiento en Colombia Fácilmente en Línea](https://tramitit.com/es/guides/colombia/registro_civil_de_nacimiento/)

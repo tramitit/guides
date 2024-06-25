@@ -52,5 +52,5 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - [Obtén tu Certificado de Antecedentes Penales en Chile](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_penales/)
 - [Certificado de Antecedentes Comerciales en Chile: Guía y Procedimiento](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_comerciales/)
 - [Servicio en línea de Verificación de Antecedentes Laborales en Chile](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_laborales/)
-- [Solicitud de Permiso de Circulación sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/permiso_de_circulación/)
+- [Solicitud de Permiso de Circulación sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/permiso_de_circulaci%C3%B3n/)
 - [Servicio Eficiente de Certificado de Nacimiento en Chile](https://tramitit.com/es/guides/chile/certificado_de_nacimiento/)

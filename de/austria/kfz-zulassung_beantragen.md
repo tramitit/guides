@@ -21,7 +21,7 @@ Jede Person, die kürzlich ein Auto in Österreich gekauft hat oder mit ihrem Fa
 
 ## Verfahren
 
-1. Stellen Sie sicher, dass das Auto die 'Pickerl'-Inspektion besteht. Dies kann in jeder autorisierten Werkstatt durchgeführt werden [Liste autorisierter Garagen](https://www.oeamtc.at/thema/pickerl/)
+1. Stellen Sie sicher, dass das Auto die 'Pickerl'-Inspektion besteht. Dies kann in jeder autorisierten Werkstatt durchgeführt werden [Liste autorisierter Garagen](https://www.oeamtc.at/mitgliedschaft/pruefdienst-leistungen/57a-begutachtung-pickerl/)
 2. Wenn das Auto besteht, erhalten Sie einen 'Typenschein' oder eine 'Einzelgenehmigung'. (Individuelle Genehmigung)
 3. Gehen Sie zu einer Versicherungsgesellschaft in Österreich und schließen Sie eine Haftpflichtversicherung (Drittschutz) ab. Sie erhalten eine Versicherungspolizzenummer.
 4. Bringen Sie die Versicherungspolizzenummer zu Ihrer örtlichen Zulassungsstelle [Zulassungsstellen des Verkehrsministeriums](https://www.bmk.gv.at/das-ministerium/dienststellen/zulassungsstellen.html)

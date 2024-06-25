@@ -20,9 +20,9 @@ This aid is crucial to individuals or families who have a limited income, and ar
 
 ## Procedure
 
-1. [Register on the CAF website.](http://www.caf.fr/) You will need an email address and your bank details. Note that the website is only available in French. Use an online translator if needed.
+1. [Register on the CAF website.](https://www.caf.fr/) You will need an email address and your bank details. Note that the website is only available in French. Use an online translator if needed.
    
-2. After registration, you’ll need to apply for housing aid (Aide au Logement). Fill out the [online application](http://www.caf.fr/allocataires/droits-et-prestations/s-informer-sur-les-aides/logement-et-cadre-de-vie/aides-au-logement-conditions-generales) form which involves providing information about your accommodation and income.
+2. After registration, you’ll need to apply for housing aid (Aide au Logement). Fill out the [online application](https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations) form which involves providing information about your accommodation and income.
 
 3. Thoroughly review your application and submit it.
 

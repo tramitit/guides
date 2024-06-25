@@ -24,7 +24,7 @@ Qualquer pessoa que pretende operar um veículo motorizado, seja para fins pesso
 1. Você precisa se inscrever em uma escola de condução onde receberá treinamento teórico e prático.
 2. A escola de condução agendará seu exame com o departamento de trânsito.
 3. Uma vez que você passe nos exames, suas informações serão enviadas para o Instituto da Mobilidade e dos Transportes (IMT) para a criação da sua carteira de habilitação.
-4. Para fazer uma solicitação pela primeira vez, você precisa criar uma conta na plataforma online do IMT [aqui](https://servicos.imt-ip.pt/).
+4. Para fazer uma solicitação pela primeira vez, você precisa criar uma conta na plataforma online do IMT [aqui](https://servicos.imt-ip.pt/login.aspx?ReturnUrl=%2fdefault.aspx).
 5. Com uma conta criada, você pode então solicitar sua carteira de habilitação. Você precisa preencher e enviar o formulário criado para esse fim.
 6. Pague a taxa apropriada conforme as instruções fornecidas.
 

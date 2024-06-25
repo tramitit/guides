@@ -47,6 +47,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 - [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)
 - [Obtén fácilmente tu permiso de residencia permanente en México](https://tramitit.com/es/guides/mexico/permiso_de_residencia_permanente/)
-- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulación/)
+- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulaci%C3%B3n/)
 - [Permiso de Residencia Temporal en México - Guía Completa](https://tramitit.com/es/guides/mexico/permiso_de_residencia_temporal/)
 - [Subsidios de Vivienda en México: Guía Completa y Procedimientos](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_vivienda/)

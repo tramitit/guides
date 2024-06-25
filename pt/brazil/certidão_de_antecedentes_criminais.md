@@ -47,8 +47,8 @@ _(Estamos atualmente selecionando os melhores provedores. Se você é ou conhece
 - Algumas jurisdições locais podem ter requisitos ou processos específicos; é aconselhável verificar o site oficial para obter as informações mais precisas.
 ## Related Posts
 
-- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_físicas/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
-- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_nacional_de_informações_sociais/)
+- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_f%C3%ADsicas/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_passaporte/)
+- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_nacional_de_informa%C3%A7%C3%B5es_sociais/)
 - [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)

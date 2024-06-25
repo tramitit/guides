@@ -28,7 +28,7 @@ Anyone intending to drive in Italy either as a resident or a tourist is required
 ## Required Documents
 1. Identity Document: To confirm your identity and address.
 2. Residence permit: As proof of your legal stay in the country (if applicable).
-3. Medical Certificate: Proves your physical and mental fitness to drive. The medical test can be done at a local ASL (Azienda Sanitaria Locale) office. You can schedule an appointment [here](http://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=3663&area=Assistenza%20sanitaria&menu=vuoto).
+3. Medical Certificate: Proves your physical and mental fitness to drive. The medical test can be done at a local ASL (Azienda Sanitaria Locale) office. You can schedule an appointment [here](https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=3663&area=Assistenza%20sanitaria&menu=vuoto).
 
 ## Providers that can do it for you
 

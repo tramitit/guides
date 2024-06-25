@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 ## Related Posts
 
-- [Obtén tu Certificado de Situación Tributaria en Chile](https://tramitit.com/es/guides/chile/certificado_de_situación_tributaria/)
+- [Obtén tu Certificado de Situación Tributaria en Chile](https://tramitit.com/es/guides/chile/certificado_de_situaci%C3%B3n_tributaria/)
 - [Guía simplificada para obtener un Certificado de Salud en Chile](https://tramitit.com/es/guides/chile/certificado_de_salud/)
 - [Servicio Eficiente de Certificado de Nacimiento en Chile](https://tramitit.com/es/guides/chile/certificado_de_nacimiento/)
-- [Certificado de Antecedentes de Tránsito en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_de_tránsito/)
+- [Certificado de Antecedentes de Tránsito en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_de_tr%C3%A1nsito/)
 - [Obtenga fácilmente el Certificado de Cumplimiento Tributario Chileno](https://tramitit.com/es/guides/chile/certificado_de_cumplimiento_tributario/)

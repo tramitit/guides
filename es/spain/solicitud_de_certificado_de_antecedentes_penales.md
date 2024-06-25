@@ -20,7 +20,7 @@ Un Certificado de Antecedentes Penales es un documento que certifica si una pers
 Las personas que solicitan ciertos empleos, visados o permisos oficiales pueden ser requeridos a presentar un Certificado de Antecedentes Penales.
 
 ## Procedimiento
-1. Visita el [sitio web del Ministerio de Justicia de España](https://www.mjusticia.gob.es/) y navega hasta la sección de 'Ciudadanos - Antecedentes Penales'.
+1. Visita el [sitio web del Ministerio de Justicia de España](https://www.mjusticia.gob.es/es) y navega hasta la sección de 'Ciudadanos - Antecedentes Penales'.
 2. Haz clic en 'Solicitud en línea' si posees un certificado digital, documento de identidad electrónico u otros métodos de identificación electrónica. Si no, opta por la solicitud 'Sin certificado', que implica completar un formulario.
 3. Proporciona tus datos personales según lo solicitado por el formulario en línea.
 4. Selecciona el propósito adecuado para tu solicitud de certificado.

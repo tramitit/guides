@@ -75,4 +75,4 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)
 - [Registro de Pareja en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_en_el_registro_de_parejas_de_hecho/)
 - [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunci%C3%B3n/)

@@ -20,7 +20,7 @@ Registracija privremenog boravka je postupak kojim stranci koji žive u drugoj z
 Ova usluga je primarno namijenjena pojedincima koji nisu građani Hrvatske, ali planiraju živjeti, raditi ili studirati tamo tijekom dužeg razdoblja.
 
 ## Postupak
-1. Prvo, preuzmite i ispunite obrazac za registraciju boravka. Ovdje je [link](https://www.mup.hr/gradjani/stranci) za obrazac i [upute kako ga ispuniti](https://www.mup.hr/gradjani/stranci/135).
+1. Prvo, preuzmite i ispunite obrazac za registraciju boravka. Ovdje je [link](https://mup.gov.hr) za obrazac i [upute kako ga ispuniti](https://mup.gov.hr).
 2. Pripremite potrebnu dokumentaciju (popis možete pronaći u nastavku).
 3. Odnesite obrazac i dokumentaciju u lokalnu policijsku postaju ili centar administrativnih usluga.
 4. Ako je sve u redu, trebali biste dobiti privremenu pečat boravka u putovnici i potvrdu registracije privremenog boravka.

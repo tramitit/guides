@@ -47,7 +47,7 @@ _(Estamos curando os melhores prestadores. Se você é ou conhece um prestador, 
 ## Related Posts
 
 - [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_ve%C3%ADculo/)
 - [Serviço Especializado de Consulta de Multas de Trânsito no Brasil](https://tramitit.com/pt/guides/brazil/consulta_de_multas/)
-- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previdência_social/)
+- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previd%C3%AAncia_social/)
 - [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)

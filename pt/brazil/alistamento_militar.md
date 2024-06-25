@@ -51,7 +51,7 @@ _(Estamos atualmente selecionando os melhores prestadores de serviços. Se você
 ## Related Posts
 
 - [Como Obter Seu Certificado de Serviço Militar Brasileiro](https://tramitit.com/pt/guides/brazil/certificado_de_reservista/)
-- [Regularização Eleitoral sem Esforço no Brasil Online](https://tramitit.com/pt/guides/brazil/regularização_eleitoral/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Regularização Eleitoral sem Esforço no Brasil Online](https://tramitit.com/pt/guides/brazil/regulariza%C3%A7%C3%A3o_eleitoral/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)
 - [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/pt/guides/brazil/registro_de_nascimento/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_aposentadoria/)

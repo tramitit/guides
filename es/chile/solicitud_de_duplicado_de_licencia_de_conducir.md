@@ -51,7 +51,7 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 ## Related Posts
 
 - [Obtén tu Licencia de Conducir en Chile sin Problemas](https://tramitit.com/es/guides/chile/licencia_de_conducir/)
-- [Solicitud de Permiso de Circulación sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/permiso_de_circulación/)
-- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/cédula_de_identidad/)
-- [Servicio rápido y fácil de renovación de cédula de identidad en Chile](https://tramitit.com/es/guides/chile/renovación_de_cédula_de_identidad/)
-- [Certificado de Antecedentes de Tránsito en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_de_tránsito/)
+- [Solicitud de Permiso de Circulación sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/permiso_de_circulaci%C3%B3n/)
+- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/c%C3%A9dula_de_identidad/)
+- [Servicio rápido y fácil de renovación de cédula de identidad en Chile](https://tramitit.com/es/guides/chile/renovaci%C3%B3n_de_c%C3%A9dula_de_identidad/)
+- [Certificado de Antecedentes de Tránsito en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_de_tr%C3%A1nsito/)

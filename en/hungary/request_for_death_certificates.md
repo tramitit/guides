@@ -38,7 +38,7 @@ _(We are currently curating the best providers. If you are or know a provider, p
 | :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
-If the person died before 1895, church records are often used as they often contain death records. The church records can be found in the [FamilySearch](https://familysearch.org/search/collection/show#uri=http://familysearch.org/searchapi/search/collection/1452460) database.
+If the person died before 1895, church records are often used as they often contain death records. The church records can be found in the [FamilySearch](https://www.familysearch.org:443/search/collection/show#uri=http://familysearch.org/searchapi/search/collection/1452460) database.
 
 For genealogy research, it's important to note that private data like exact date of birth, place of birth, parents' names etc. are not handed out or confirmed by any Hungarian authority due to privacy law unless you can prove your legitimate interest. Even if you are a direct relative, the procedure can be tiresome and time-consuming.
 ## Related Posts

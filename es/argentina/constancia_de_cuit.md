@@ -46,8 +46,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces u
 - Guarda copias digitales y físicas de todos los documentos presentados para tus registros.
 ## Related Posts
 
-- [Obtenga su Código Único de Identificación Laboral en Argentina](https://tramitit.com/es/guides/argentina/clave_única_de_identificación_laboral/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
-- [Guía Completa sobre el Monotributo en Argentina para Autónomos](https://tramitit.com/es/guides/argentina/inscripción_en_el_monotributo/)
+- [Obtenga su Código Único de Identificación Laboral en Argentina](https://tramitit.com/es/guides/argentina/clave_%C3%BAnica_de_identificaci%C3%B3n_laboral/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_r%C3%A9gimen_de_aut%C3%B3nomos/)
+- [Guía Completa sobre el Monotributo en Argentina para Autónomos](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_en_el_monotributo/)
 - [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/es/guides/argentina/documento_nacional_de_identidad/)
 - [Obtén tu Certificado de Ingresos Laborales Digitales en Argentina](https://tramitit.com/es/guides/argentina/certificado_digital_de_ingresos_laborales/)

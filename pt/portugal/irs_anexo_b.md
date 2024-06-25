@@ -20,7 +20,7 @@ O Anexo B do IRS é um componente da declaração de imposto sobre o rendimento 
 Este formulário é necessário para indivíduos que tenham obtido rendimentos através de trabalhos por conta própria, contratações independentes, ou outras atividades empresariais fora de acordos de emprego a tempo inteiro. É essencial para freelancers, consultores independentes, e proprietários de pequenas empresas.
 
 ## Procedimento
-1. **Aceder ao Portal do IRS**: Navegue até ao [site oficial do IRS](https://www.portaldasfinancas.gov.pt).
+1. **Aceder ao Portal do IRS**: Navegue até ao [site oficial do IRS](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 2. **Iniciar Sessão**: Utilize as suas credenciais para entrar na sua conta.
 3. **Selecionar o Ano Fiscal Correto**: Certifique-se de que está a preencher o formulário para o ano adequado.
 4. **Escolher "Declarações"**: Após iniciar sessão, aceda à secção 'Declarações'.

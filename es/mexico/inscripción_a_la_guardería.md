@@ -51,8 +51,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - Pide recomendaciones y opiniones a otros padres para garantizar el mejor cuidado para tu hijo.
 ## Related Posts
 
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_a_educaci%C3%B3n_superior/)
 - [Guía completa para solicitar becas en México - Paso a paso](https://tramitit.com/es/guides/mexico/solicitud_de_beca/)
 - [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/es/guides/mexico/acta_de_nacimiento/)
-- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopción/)
+- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopci%C3%B3n/)
 - [Solitud de nacionalidad en México: guía completa y requisitos](https://tramitit.com/es/guides/mexico/solicitud_de_nacionalidad/)

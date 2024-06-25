@@ -19,7 +19,7 @@ An operating permit for a company is a document that legally allows a business t
 All businesses aiming to operate legally in Romania or other territories are required to have an operating permit. 
 
 ## Procedure
-1. **Register the company**: Register your company with the National Trade Register Office. More information about company registration can be found [here](http://www.onrc.ro/index.php/en/).
+1. **Register the company**: Register your company with the National Trade Register Office. More information about company registration can be found [here](https://www.onrc.ro/index.php/en/).
    
 2. **Get the zoning approval**: Check with local authorities or a local urban planning certificate for any restrictions or zoning approvals needed.
 

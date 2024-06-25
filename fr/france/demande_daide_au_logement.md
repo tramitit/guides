@@ -20,9 +20,9 @@ Cette aide est essentielle pour les personnes ou les familles disposant de reven
 
 ## Procédure
 
-1. [Inscrivez-vous sur le site de la CAF.](http://www.caf.fr/) Vous aurez besoin d'une adresse e-mail et de vos coordonnées bancaires. Notez que le site est uniquement disponible en français. Utilisez un traducteur en ligne si nécessaire.
+1. [Inscrivez-vous sur le site de la CAF.](https://www.caf.fr/) Vous aurez besoin d'une adresse e-mail et de vos coordonnées bancaires. Notez que le site est uniquement disponible en français. Utilisez un traducteur en ligne si nécessaire.
    
-2. Après votre inscription, vous devrez faire une demande d'aide au logement. Remplissez le [formulaire en ligne](http://www.caf.fr/allocataires/droits-et-prestations/s-informer-sur-les-aides/logement-et-cadre-de-vie/aides-au-logement-conditions-generales) qui implique de fournir des informations sur votre logement et vos revenus.
+2. Après votre inscription, vous devrez faire une demande d'aide au logement. Remplissez le [formulaire en ligne](https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations) qui implique de fournir des informations sur votre logement et vos revenus.
 
 3. Passez en revue votre demande et soumettez-la.
 

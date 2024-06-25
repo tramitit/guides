@@ -22,7 +22,7 @@ Anyone moving house needs to update their ID with their new address. This is par
 
 ## Procedure
 
-1. Visit the local police station (Comisaría de Policia) or the immigration office (Oficina de Extranjería) in your new locality. Website: [Spanish Ministry of Interior](http://www.interior.gob.es/)
+1. Visit the local police station (Comisaría de Policia) or the immigration office (Oficina de Extranjería) in your new locality. Website: [Spanish Ministry of Interior](https://www.interior.gob.es/opencms/es/inicio/)
 2. Take a ticket for the “cambio de domicilio” or “change of address” queue.
 3. When your turn comes, present your current NIE and proof of your new address to the official.
 4. The official will verify your documents and update your address in the system.

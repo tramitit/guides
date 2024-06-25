@@ -48,7 +48,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Related Posts
 
 - [Obtenga fácilmente el Certificado de Cumplimiento Tributario Chileno](https://tramitit.com/es/guides/chile/certificado_de_cumplimiento_tributario/)
-- [Obtén fácilmente un Certificado de Tasación Fiscal en Chile](https://tramitit.com/es/guides/chile/certificado_de_avalúo_fiscal/)
-- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripción_al_sii/)
-- [Obten tu Certificado de Situación Militar en Chile Fácilmente](https://tramitit.com/es/guides/chile/certificado_de_situación_militar/)
+- [Obtén fácilmente un Certificado de Tasación Fiscal en Chile](https://tramitit.com/es/guides/chile/certificado_de_aval%C3%BAo_fiscal/)
+- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sii/)
+- [Obten tu Certificado de Situación Militar en Chile Fácilmente](https://tramitit.com/es/guides/chile/certificado_de_situaci%C3%B3n_militar/)
 - [Certificado de Antecedentes Comerciales en Chile: Guía y Procedimiento](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_comerciales/)

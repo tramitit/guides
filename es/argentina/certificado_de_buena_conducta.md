@@ -46,6 +46,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 - [Verificación Integral de Antecedentes Penales en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_antecedentes_penales/)
 - [Obtenga fácilmente su Certificado Nacional de Antecedentes de Tránsito](https://tramitit.com/es/guides/argentina/certificado_cenat/)
-- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_ética_profesional/)
+- [Guía del Certificado de Ética Profesional en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_%C3%A9tica_profesional/)
 - [Obtenga un Certificado de Conformidad en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_idoneidad/)
 - [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)

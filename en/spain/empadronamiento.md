@@ -24,7 +24,7 @@ Anyone who plans on living in Spain for more than six months. If you want to do 
 
 ## Procedure
 
-1. Find the closest [Ayuntamiento (Town Hall)](https://www.barcelona.cat/) to your place.
+1. Find the closest [Ayuntamiento (Town Hall)](https://www.barcelona.cat/ca) to your place.
 2. Reserve an appointment [online](https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=19950010351&style=ciudadano&language=es&auditoria=F) or by phone (010 if calling from Barcelona, 31 (0) 93 256 10 10 if calling from outside Barcelona).
 3. Attend the appointment with all the necessary documents.
 4. You'll receive an empadronamiento certificate as proof of registration.

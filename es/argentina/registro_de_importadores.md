@@ -50,7 +50,7 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 ## Related Posts
 
 - [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/es/guides/argentina/registro_de_exportadores/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_r%C3%A9gimen_de_aut%C3%B3nomos/)
 - [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/es/guides/argentina/constancia_de_cuit/)
 - [Registro de vehículos sin complicaciones en Argentina](https://tramitit.com/es/guides/argentina/registro_automotor/)
-- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/es/guides/argentina/alta_de_servicio_eléctrico/)
+- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/es/guides/argentina/alta_de_servicio_el%C3%A9ctrico/)

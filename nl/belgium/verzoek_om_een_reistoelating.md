@@ -20,7 +20,7 @@ Een reistoestemming is een vereiste voor reizigers die van plan zijn om een land
 Deze gids is ideaal voor Amerikaanse burgers die van plan zijn om naar Europa of andere bestemmingen te reizen die specifieke visum- of reistoestemmingseisen hebben.
 
 ## Procedure
-1. Bepaal of het bestemmingsland een visum of reistoestemming vereist. Voor Europa kunt u de officiële [EU Immigratieportaal](https://ec.europa.eu/immigration/) raadplegen.
+1. Bepaal of het bestemmingsland een visum of reistoestemming vereist. Voor Europa kunt u de officiële [EU Immigratieportaal](https://immigration-portal.ec.europa.eu/select-language?destination=/node/1) raadplegen.
 2. Als u een visum moet aanvragen, kiest u het juiste type (toeristisch, zakelijk, student, enz.), verzamelt u de benodigde documenten, betaalt u het aanvraagbedrag en dient u de aanvraag in bij het dichtstbijzijnde consulaat of ambassade.
 3. Voor reistoestemming dient u de aanvraag in via het aangewezen online systeem. Voor Europa zullen Amerikaanse burgers het [European Travel Information and Authorisation System (ETIAS)](https://www.etiasvisa.com/etias-requirements/americans) gebruiken.
 4. Vul het formulier in met nauwkeurige informatie. Verstrek alle benodigde gegevens, waaronder uw persoonlijke informatie, paspoortgegevens, medische informatie en reisschema.

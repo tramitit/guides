@@ -48,7 +48,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Related Posts
 
 - [Servicio de solicitud de visa de estudiante para Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_visa_de_estudiante/)
-- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripción_en_el_sistema_de_educación_superior/)
-- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensión/)
+- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_sistema_de_educaci%C3%B3n_superior/)
+- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensi%C3%B3n/)
 - [Guía para Solicitar Subsidio por Desempleo en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_de_desempleo/)
 - [Solicita fácilmente el Subsidio de Vivienda en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_habitacional/)

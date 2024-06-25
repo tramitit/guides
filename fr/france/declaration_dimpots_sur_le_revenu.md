@@ -20,7 +20,7 @@ Toute personne résidant en France, générant des revenus et remplissant certai
 ## Procédure
 1. Commencez par rassembler tous les documents pertinents de vos revenus de l'année fiscale - fiches de paie, relevés bancaires, documents d'investissement ou de trading, etc. pour obtenir une vision globale de vos revenus et dépenses.
    
-2. L'Administration fiscale française propose un système en ligne pour la déclaration d'impôts ([Impots.gouv.fr](https://www.impots.gouv.fr/portail/)) qui est la méthode recommandée pour déclarer vos impôts. Inscrivez-vous ou connectez-vous au portail.
+2. L'Administration fiscale française propose un système en ligne pour la déclaration d'impôts ([Impots.gouv.fr](https://www.impots.gouv.fr/accueil)) qui est la méthode recommandée pour déclarer vos impôts. Inscrivez-vous ou connectez-vous au portail.
 
 3. Remplissez les détails requis sur vos revenus, déductions et impôts payés - tant en France qu'à l'étranger.
    

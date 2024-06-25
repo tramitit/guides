@@ -21,7 +21,7 @@ This service is needed by anyone who has sold their car to another individual, o
 ## Procedure
 1. Gather all necessary documents such as identification of both parties and the vehicle's documents. 
 2. Both seller and buyer go to a Notary or Lawyer to make the 'Auto de Compra e Venda', a document that proves the car was sold.
-3. After getting the 'Auto de Compra e Venda', the buyer must register the car in their name via the IMT's website [IMT Online](https://servicos.imt-ip.pt/) or in one of IMT's shops. 
+3. After getting the 'Auto de Compra e Venda', the buyer must register the car in their name via the IMT's website [IMT Online](https://servicos.imt-ip.pt/login.aspx?ReturnUrl=%2fdefault.aspx) or in one of IMT's shops. 
 4. The change in ownership is not complete until the vehicle's new registration document reflecting the new owner's details is obtained.
 
 ## Required Documents

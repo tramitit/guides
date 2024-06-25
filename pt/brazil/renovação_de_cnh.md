@@ -47,6 +47,6 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 
 - [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
 - [Obtenha sua carteira de motorista permanente no Brasil facilmente](https://tramitit.com/pt/guides/brazil/cnh_definitiva/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
-- [Obtenha facilmente sua Permissão Internacional para Dirigir no Brasil](https://tramitit.com/pt/guides/brazil/permissão_internacional_para_dirigir/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_ve%C3%ADculo/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_passaporte/)
+- [Obtenha facilmente sua Permissão Internacional para Dirigir no Brasil](https://tramitit.com/pt/guides/brazil/permiss%C3%A3o_internacional_para_dirigir/)

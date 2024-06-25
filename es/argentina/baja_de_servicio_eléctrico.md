@@ -44,8 +44,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - Es posible que debas devolver cualquier equipo alquilado al proveedor de servicio.
 ## Related Posts
 
-- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/es/guides/argentina/alta_de_servicio_eléctrico/)
+- [Registro de Servicio Eléctrico sin Esfuerzo en Argentina](https://tramitit.com/es/guides/argentina/alta_de_servicio_el%C3%A9ctrico/)
 - [Servicio Eficiente de Cambio de Dirección en Argentina](https://tramitit.com/es/guides/argentina/cambio_de_domicilio/)
 - [Registro de Exportadores en Argentina - Servicio Esencial](https://tramitit.com/es/guides/argentina/registro_de_exportadores/)
-- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/es/guides/argentina/certificado_de_defunción/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Obtenga fácilmente un Certificado de Defunción Argentino](https://tramitit.com/es/guides/argentina/certificado_de_defunci%C3%B3n/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_r%C3%A9gimen_de_aut%C3%B3nomos/)

@@ -33,8 +33,8 @@ Lista ważnych dokumentów tożsamości i zameldowania może być potrzebna w za
 
 Oto oficjalne strony internetowe do aplikacji o kartę EHIC w zależności od kraju zamieszkania:
 
-- [National Health Service (NHS) dla obywateli UK](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/)
-- [Health Service Executive (HSE) dla obywateli Irlandii](https://www2.hse.ie/services/ehic/ehic.html)
+- [National Health Service (NHS) dla obywateli UK](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/)
+- [Health Service Executive (HSE) dla obywateli Irlandii](https://www2.hse.ie/services/schemes-allowances/ehic/)
 - [National Health Fund (NFZ) dla obywateli Polski](https://www.nfz.gov.pl/)
 
 ## Dostawcy, którzy mogą załatwić to za Ciebie

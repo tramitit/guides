@@ -18,7 +18,7 @@ Change of residence involves the process of switching your domicile officially f
 Any individual planning to move to a new location, especially international movers or expatriates transitioning into a new country or state, would need to go through a change of residence.
 
 ## Procedure
-1. Upon deciding your move, first step is to update your information with your national passport office. Your current passport needs to reflect your new address. In case of Italians, visit [Passport Office](https://poliziadistato.it/articolo/191/).
+1. Upon deciding your move, first step is to update your information with your national passport office. Your current passport needs to reflect your new address. In case of Italians, visit [Passport Office](https://www.poliziadistato.it/articolo/191/).
 2. In case of changing country of residence, inform your bank about the same - most have a process to update this information. For banks such as Revolut, you can change your country of residence in the user profile settings within the app. More details can be found on their [site](https://www.revolut.com/help).
 3. For mobile banking users, similar procedure is needed. For instance, N26 users must inform about change of residence as it could affect their account's features and regulations. Refer to their [Help Center](https://support.n26.com/en-eu/account-and-personal-details/personal-information/update-my-personal-information).
 4. If you are moving within EU and operate a Coinbase account, you must alert Coinbase about the change of country. You can request a country change by contacting their [Support](https://help.coinbase.com/).

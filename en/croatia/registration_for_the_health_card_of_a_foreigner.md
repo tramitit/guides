@@ -19,7 +19,7 @@ The health card in Croatia is a document that provides proof of entitlement to h
 This guide is directed towards expatriates, digital nomads, or any foreigners planning to reside in Croatia for an extended period and need to have access to healthcare services.
 
 ## Procedure
-1. Apply for a residency permit: Before you can register for a health card, you must first have a valid residency permit. You can do this by applying to the local police station or [Ministry of the Interior](http://www.mup.hr/1266.aspx).
+1. Apply for a residency permit: Before you can register for a health card, you must first have a valid residency permit. You can do this by applying to the local police station or [Ministry of the Interior](https://mup.gov.hr).
 
 2. Apply for the national identification number (OIB): Upon approval of your residence permit, you will be issued an OIB, which is necessary for the health card application. Details about the OIB numbers can be found [here](http://www.porezna-uprava.hr/en/Pages/oib.aspx).
 

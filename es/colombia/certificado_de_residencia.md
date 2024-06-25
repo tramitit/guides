@@ -48,6 +48,6 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres o conoces a
 
 - [Asesoramiento experto para la visa de residencia en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_visa_de_residencia/)
 - [Obtenga su Permiso de Residencia para Colombia sin Problemas](https://tramitit.com/es/guides/colombia/permiso_de_residencia/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
 - [Obtenga fácilmente su certificado de matrimonio en Colombia](https://tramitit.com/es/guides/colombia/registro_civil_de_matrimonio/)

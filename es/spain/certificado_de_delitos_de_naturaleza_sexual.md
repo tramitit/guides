@@ -24,7 +24,7 @@ Cualquier persona que planea trabajar en España, especialmente en roles que imp
 
 2. **Preparar los documentos necesarios**: Reúne los documentos necesarios que incluyen:
    - Pasaporte o DNI válido
-   - Formulario de solicitud completado. A menudo este formulario se puede completar en línea o descargar desde la página web del [Ministerio de Justicia](https://www.mjusticia.gob.es).
+   - Formulario de solicitud completado. A menudo este formulario se puede completar en línea o descargar desde la página web del [Ministerio de Justicia](https://www.mjusticia.gob.es/es).
    - Confirmación de la cita
 
 3. **Visitar la oficina**: El día de tu cita, visita la oficina designada con todos tus documentos. La puntualidad es crucial, así que asegúrate de llegar a tiempo.

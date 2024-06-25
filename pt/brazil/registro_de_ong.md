@@ -46,8 +46,8 @@ _(Estamos atualmente selecionando os melhores provedores. Se você é ou conhece
 - Assistência jurídica é recomendada para a redação dos estatutos a fim de garantir conformidade com as leis brasileiras.
 ## Related Posts
 
-- [Guia Completo para Registro de Associação no Brasil](https://tramitit.com/pt/guides/brazil/registro_de_associação/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
-- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscrição_em_concursos_públicos/)
-- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_imóveis/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Guia Completo para Registro de Associação no Brasil](https://tramitit.com/pt/guides/brazil/registro_de_associa%C3%A7%C3%A3o/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)
+- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscri%C3%A7%C3%A3o_em_concursos_p%C3%BAblicos/)
+- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_im%C3%B3veis/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_alvar%C3%A1/)

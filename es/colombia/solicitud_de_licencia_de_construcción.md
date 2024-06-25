@@ -51,4 +51,4 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - [Obtenga su Permiso de Residencia para Colombia sin Problemas](https://tramitit.com/es/guides/colombia/permiso_de_residencia/)
 - [Guía simplificada para obtener un Certificado Catastral en Colombia](https://tramitit.com/es/guides/colombia/certificado_catastral/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)

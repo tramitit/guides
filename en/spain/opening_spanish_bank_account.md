@@ -42,9 +42,9 @@ Notably, to obtain a Spanish tax number (NIE), you may need to visit a local pol
 
 | Provider  | Website                                       | Timelines |                  Cost                   |
 | --------- | --------------------------------------------- | :-------: | :-------------------------------------: |
-| Bankia    | [www.bankia.es](http://www.bankia.es)         |    N/A    | Varies depending on the type of account |
-| BBVA      | [www.bbva.es](http://www.bbva.es)             |    N/A    | Varies depending on the type of account |
-| Santander | [www.santander.com](http://www.santander.com) |    N/A    | Varies depending on the type of account |
+| Bankia    | [www.bankia.es](https://www.caixabank.es/particular/home/particulares_es.html)         |    N/A    | Varies depending on the type of account |
+| BBVA      | [www.bbva.es](https://www.bbva.es/personas.html)             |    N/A    | Varies depending on the type of account |
+| Santander | [www.santander.com](https://www.santander.com/en/home) |    N/A    | Varies depending on the type of account |
 
 ## Additional Details
 

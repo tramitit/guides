@@ -48,7 +48,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Related Posts
 
 - [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_de_defuncion/)
-- [Certificado de Últimas Voluntades: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_actos_de_última_voluntad/)
+- [Certificado de Últimas Voluntades: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_actos_de_%C3%BAltima_voluntad/)
 - [Cómo obtener un Certificado de Últimas Voluntades en España](https://tramitit.com/es/guides/spain/obtencion_del_certificado_de_ultimas_voluntades/)
 - [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)
 - [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)

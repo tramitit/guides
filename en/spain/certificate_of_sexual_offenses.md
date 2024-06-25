@@ -26,7 +26,7 @@ Anyone planning to work in Spain, particularly in roles involving direct contact
 
 2. **Prepare Required Documents**: Gather the necessary documents which include:
    - Valid Passport or ID
-   - Completed application form. This can often be filled out online or downloaded from the [Ministerio de Justicia](https://www.mjusticia.gob.es) website.
+   - Completed application form. This can often be filled out online or downloaded from the [Ministerio de Justicia](https://www.mjusticia.gob.es/es) website.
    - Proof of appointment confirmation
 
 3. **Visit the Office**: On the day of your appointment, visit the designated office with all your documents. Punctuality is crucial, so ensure you arrive on time.

@@ -35,7 +35,7 @@ _(We are currently curating the best providers. If you are or know a provider, p
 | :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
-In some instances, particularly for historical deaths, records may be held by religious institutions. For deaths prior to 1895, contact the appropriate church or religious institution for records. The National Archives of Hungary may also have records, visit their website for more information: [http://www.mnl.gov.hu/](http://www.mnl.gov.hu/)
+In some instances, particularly for historical deaths, records may be held by religious institutions. For deaths prior to 1895, contact the appropriate church or religious institution for records. The National Archives of Hungary may also have records, visit their website for more information: [http://www.mnl.gov.hu/](https://mnl.gov.hu/terkepvandor)
 ## Related Posts
 
 - [How to Obtain a Death Certificate in Hungary - Step by Step Guide](https://tramitit.com/guides/hungary/request_for_death_certificates/)

@@ -22,7 +22,7 @@ Chiunque abbia intenzione di risiedere, lavorare o svolgere qualsiasi tipo di at
 ## Procedura
 
 1. Raccogliere i documenti necessari. Avrai bisogno di un passaporto valido, di una prova di residenza o di residenza prevista (ad esempio un contratto di locazione o una lettera da parte di un locatore) e, se pertinente, di un contratto di lavoro o di una lettera da parte di un datore di lavoro.
-2. Scarica il modulo di domanda del Codice Fiscale dall'[Agenzia delle Entrate italiana](https://www.agenziaentrate.gov.it/).
+2. Scarica il modulo di domanda del Codice Fiscale dall'[Agenzia delle Entrate italiana](https://www.agenziaentrate.gov.it/index.htm?v=20240513).
 3. Compila il modulo di domanda e assicurati che tutte le informazioni corrispondano esattamente ai tuoi documenti di identificazione.
 4. Invia il modulo insieme alle fotocopie dei tuoi documenti. Questo può essere fatto per posta, di persona, o tramite un rappresentante presso il Consolato o l'Ambasciata italiana più vicina se ti trovi all'estero.
 5. Il tuo Codice Fiscale dovrebbe essere rilasciato immediatamente se fai richiesta di persona. Se fai richiesta da remoto, verrà inviato per posta al tuo indirizzo italiano.

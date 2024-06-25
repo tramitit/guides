@@ -26,7 +26,7 @@ Self-employed professionals and business owners in Portugal who have earned an i
     - Gather all receipts and documents related to your self-employment income and expenses for the tax year.
     
 2. **Log into the Tax Portal**
-    - Access the [Autoridade Tributária e Aduaneira portal](https://www.portaldasfinancas.gov.pt/) with your credentials.
+    - Access the [Autoridade Tributária e Aduaneira portal](https://www.portaldasfinancas.gov.pt/at/html/index.html) with your credentials.
 
 3. **Navigate to the IRS Submission Section**
     - Select the option for submitting your IRS return.

@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres o conoces a
 - Los empleadores en México están obligados a registrar a sus empleados en el IMSS; sin embargo, las personas que trabajan por cuenta propia deben inscribirse por sí mismas.
 ## Related Posts
 
-- [Cómo inscribirse en el ISSSTE en México - Pasos sencillos y consejos](https://tramitit.com/es/guides/mexico/inscripción_al_issste/)
+- [Cómo inscribirse en el ISSSTE en México - Pasos sencillos y consejos](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_al_issste/)
 - [Gestión de Seguridad Social en México para Expatriados](https://tramitit.com/es/guides/mexico/seguro_social/)
-- [Guía para Solicitar Pensiones en México y Navegar Afore](https://tramitit.com/es/guides/mexico/solicitud_de_pensión/)
+- [Guía para Solicitar Pensiones en México y Navegar Afore](https://tramitit.com/es/guides/mexico/solicitud_de_pensi%C3%B3n/)
 - [Solicita el Subsidio por Desempleo en México Ahora](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_desempleo/)
 - [Guía de Registro de CURP sin Esfuerzo para Residentes de México](https://tramitit.com/es/guides/mexico/registro_curp/)

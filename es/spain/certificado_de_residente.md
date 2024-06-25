@@ -55,6 +55,6 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a a
 
 - [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
 - [Certificado de No Residente: Qué es, Cómo Obtenerlo y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_no_residente/)
-- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
-- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/es/guides/spain/asignación_de_nie_a_instancia_de_interesado/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/c%C3%A9dula_de_inscripci%C3%B3n/)
+- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/es/guides/spain/asignaci%C3%B3n_de_nie_a_instancia_de_interesado/)
 - [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)

@@ -49,8 +49,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres un proveedo
 
 ## Related Posts
 
-- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/cédula_de_ciudadanía/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
-- [Duplicado de Cédula de Ciudadanía en Colombia: Guía Completa](https://tramitit.com/es/guides/colombia/solicitud_de_duplicado_de_cédula_de_ciudadanía/)
-- [Servicio Rápido y Fácil de Renovación de Pasaportes Colombianos](https://tramitit.com/es/guides/colombia/renovación_de_pasaporte/)
+- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/c%C3%A9dula_de_ciudadan%C3%ADa/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)
+- [Duplicado de Cédula de Ciudadanía en Colombia: Guía Completa](https://tramitit.com/es/guides/colombia/solicitud_de_duplicado_de_c%C3%A9dula_de_ciudadan%C3%ADa/)
+- [Servicio Rápido y Fácil de Renovación de Pasaportes Colombianos](https://tramitit.com/es/guides/colombia/renovaci%C3%B3n_de_pasaporte/)
 - [Obtenga su Acta de Nacimiento en Colombia Fácilmente en Línea](https://tramitit.com/es/guides/colombia/registro_civil_de_nacimiento/)

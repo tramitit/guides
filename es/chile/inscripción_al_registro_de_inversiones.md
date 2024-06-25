@@ -43,15 +43,15 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Detalles adicionales
 
-- Sigue este [enlace](https://www.reddit.com/r/dubai/comments/1b2t533/corporate_tax_in_uae_flowchart/) para obtener una visión general de las implicaciones fiscales relacionadas con la inversión.
-- Consulta esta [guía](https://www.reddit.com/r/Upwork/comments/ui5q2i/es_esto_una_estafa_gu%C3%ADa_completa_de_estafa_de/es/) para obtener consejos sobre cómo evitar estafas en el registro de inversiones.
-- Entiende los [beneficios de la inversión extranjera en Chile](https://www.reddit.com/r/PassportPorn/comments/12ri994/lesser_known_benefits_of_citizenships/).
+- Sigue este [enlace](https://www.reddit.com/r/dubai/comments/1b2t533/corporate_tax_in_uae_flowchart/?rdt=36959) para obtener una visión general de las implicaciones fiscales relacionadas con la inversión.
+- Consulta esta [guía](https://www.reddit.com/r/Upwork/comments/ui5q2i/es_esto_una_estafa_gu%C3%ADa_completa_de_estafa_de/es/?rdt=52597) para obtener consejos sobre cómo evitar estafas en el registro de inversiones.
+- Entiende los [beneficios de la inversión extranjera en Chile](https://www.reddit.com/r/PassportPorn/comments/12ri994/lesser_known_benefits_of_citizenships/?rdt=55964).
 
 
 ## Related Posts
 
-- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_comercio/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
+- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_comercio/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)
 - [Registre su Patente Comercial en Chile de forma Rápida y Segura](https://tramitit.com/es/guides/chile/solicitud_de_patente_comercial/)
-- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripción_al_sii/)
-- [Registro Electoral en Chile: Guía Completa y Procedimiento](https://tramitit.com/es/guides/chile/inscripción_al_registro_electoral/)
+- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sii/)
+- [Registro Electoral en Chile: Guía Completa y Procedimiento](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_registro_electoral/)

@@ -51,7 +51,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Related Posts
 
 - [Servicio de Pasaporte Chileno en Chile - Pasos Fáciles y Requisitos](https://tramitit.com/es/guides/chile/pasaporte_chileno/)
-- [Guía Integral para Solicitudes de Adopción en Chile](https://tramitit.com/es/guides/chile/solicitud_de_adopción/)
+- [Guía Integral para Solicitudes de Adopción en Chile](https://tramitit.com/es/guides/chile/solicitud_de_adopci%C3%B3n/)
 - [Guía Completa para Obtener una Visa de Trabajo en Chile](https://tramitit.com/es/guides/chile/solicitud_de_visa_de_trabajo/)
 - [Certificado de Residencia Permanente en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_residencia_permanente/)
 - [Obtén fácilmente tu Certificado de Residencia en Chile](https://tramitit.com/es/guides/chile/certificado_de_residencia/)

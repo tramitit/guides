@@ -53,7 +53,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Related Posts
 
 - [Guía simplificada para obtener un Certificado Catastral en Colombia](https://tramitit.com/es/guides/colombia/certificado_catastral/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
-- [Guía del Certificado de Libertad y Tradición Colombiano](https://tramitit.com/es/guides/colombia/certificado_de_libertad_y_tradición/)
-- [Matriculación de vehículos en Colombia: Guía Completa](https://tramitit.com/es/guides/colombia/registro_de_vehículo/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
+- [Guía del Certificado de Libertad y Tradición Colombiano](https://tramitit.com/es/guides/colombia/certificado_de_libertad_y_tradici%C3%B3n/)
+- [Matriculación de vehículos en Colombia: Guía Completa](https://tramitit.com/es/guides/colombia/registro_de_veh%C3%ADculo/)
 - [Registro de Marca en Colombia: Protege tu Identidad Comercial](https://tramitit.com/es/guides/colombia/registro_de_marca/)

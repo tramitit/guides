@@ -19,7 +19,7 @@ Registering a business in Bulgaria involves several legal and administrative ste
 This guide is ideal for anyone looking to start a business in Bulgaria - including locals, expats, and even digital nomads.
 
 ## Procedure
-1. _Company Name Reservation_: Choose and reserve a name for your company. The name must be unique and can be checked for availability at the [Bulgarian Registry Agency's online portal](https://brra.bg/Default.ra).
+1. _Company Name Reservation_: Choose and reserve a name for your company. The name must be unique and can be checked for availability at the [Bulgarian Registry Agency's online portal](https://portal.registryagency.bg).
 2. _Drafting of Company Statutes_: Create a Memorandum of Association and Articles of Association that comply with Bulgarian law. Here, you will layout the purpose of your company, its management structure, and share distribution.
 3. _Opening of a Temporary Bank Account_: A temporary bank account must be opened for your company in a Bulgarian bank. The initial capital, depending on your company type, must be deposited into this account.
 4. _Registration with the Commercial Register_: Submit the completed application and necessary documents to the Bulgarian Registry Agency.

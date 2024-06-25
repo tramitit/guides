@@ -22,7 +22,7 @@ Anyone who intends to operate a motorized vehicle, be it for personal or profess
 1. You have to register for a driving school where you will receive theoretical as well as practical training.
 2. The driving school will arrange your examination with the traffic department.
 3. Once you pass the exams, your information is sent to the Institute for Mobility and Transport (IMT) for the creation of your driving license.
-4. For a first time request, you have to create an account on the IMT's online platform [here](https://servicos.imt-ip.pt/).
+4. For a first time request, you have to create an account on the IMT's online platform [here](https://servicos.imt-ip.pt/login.aspx?ReturnUrl=%2fdefault.aspx).
 5. With an account created, you can then request for your driving license. You need to fill and submit the form created for that purpose.
 6. Pay the appropriate fee as per the instructions given.
 

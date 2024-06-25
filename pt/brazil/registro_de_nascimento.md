@@ -49,8 +49,8 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - Um CPF (Cadastro de Pessoas Físicas) pode ser emitido assim que o registro de nascimento estiver completo, o que é necessário para diversas atividades diárias no Brasil.
 ## Related Posts
 
-- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_físicas/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
-- [Obtenha facilmente sua certidão de casamento no Brasil](https://tramitit.com/pt/guides/brazil/certidão_de_casamento/)
-- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emissão_de_passaporte/)
-- [Como Obter uma Certidão de Óbito no Brasil - Guia Completo](https://tramitit.com/pt/guides/brazil/certidão_de_óbito/)
+- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_f%C3%ADsicas/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)
+- [Obtenha facilmente sua certidão de casamento no Brasil](https://tramitit.com/pt/guides/brazil/certid%C3%A3o_de_casamento/)
+- [Como Solicitar Seu Passaporte Brasileiro: Guia Completo](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_passaporte/)
+- [Como Obter uma Certidão de Óbito no Brasil - Guia Completo](https://tramitit.com/pt/guides/brazil/certid%C3%A3o_de_%C3%B3bito/)

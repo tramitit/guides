@@ -18,7 +18,7 @@ The Spanish Health Card (Tarjeta Sanitaria Europea or TSE) is an individual-base
 It's primarily for Spanish citizens or residents who are planning to travel around the EU, the EEA and Switzerland and wish to be covered for medical care.
 
 ## Procedure
-1. Visit the Seguridad Social website [here](https://sede.seg-social.gob.es/).
+1. Visit the Seguridad Social website [here](https://sede.seg-social.gob.es/wps/portal/sede/sede/Inicio).
 2. Navigate to the "Citizens" tab.
 3. Click on "Health Card."
 4. Go to the "European Health Card" section.

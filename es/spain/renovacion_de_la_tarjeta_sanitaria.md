@@ -20,7 +20,7 @@ La Tarjeta Sanitaria Europea (TSE) es un documento individual que certifica al t
 Principalmente para ciudadanos españoles o residentes que tengan planeado viajar por la UE, el EEE y Suiza y deseen estar cubiertos para atención médica.
 
 ## Procedimiento
-1. Visita el sitio web de la Seguridad Social [aquí](https://sede.seg-social.gob.es/).
+1. Visita el sitio web de la Seguridad Social [aquí](https://sede.seg-social.gob.es/wps/portal/sede/sede/Inicio).
 2. Ve a la pestaña "Ciudadanos".
 3. Haz clic en "Tarjeta sanitaria".
 4. Dirígete a la sección de "Tarjeta Sanitaria Europea".

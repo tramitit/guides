@@ -20,7 +20,7 @@ Every resident, domestic or foreign, in Croatia needs health insurance. This inc
 
 ## Procedure
 
-1. Visit the Croatian Health Insurance Fund (known as HZZO). Their official website [here](http://www.hzzo.hr/)
+1. Visit the Croatian Health Insurance Fund (known as HZZO). Their official website [here](https://hzzo.hr:443/)
 2. Submit the required documents (listed in the section below).
 3. Pay the health insurance premium as required. The value may vary depending on your status (student, professional, etc).
 4. Await approval of your health insurance. 

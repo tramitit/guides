@@ -20,7 +20,7 @@ This process is necessary for all individuals who have earned an income within t
 
 ## Procedure
 1. Gather all necessary documents such as payslips and other pertinent financial documentation for the fiscal year. 
-2. Complete the necessary form with your tax details. In Portugal, it'll be the IRS form available on the [**Portal das Finanças**](https://www.portaldasfinancas.gov.pt/). 
+2. Complete the necessary form with your tax details. In Portugal, it'll be the IRS form available on the [**Portal das Finanças**](https://www.portaldasfinancas.gov.pt/at/html/index.html). 
 3. Submit the completed form either digitally through the tax portal or manually at your local tax office. 
 4. Await notification from the tax authorities about the status of your declaration. 
 

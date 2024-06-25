@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres o conoces a
 
 ## Related Posts
 
-- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tránsito/)
+- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tr%C3%A1nsito/)
 - [Obtenga su Certificado de Antecedentes Disciplinarios fácilmente](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_disciplinarios/)
 - [Cómo obtener un Certificado de Antecedentes Fiscales en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_fiscales/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)
-- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/cédula_de_ciudadanía/)
+- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/c%C3%A9dula_de_ciudadan%C3%ADa/)

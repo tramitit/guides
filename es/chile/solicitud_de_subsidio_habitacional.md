@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 ## Related Posts
 
-- [Servicio de Solicitud de Pensión Chilena - Guía Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_pensión/)
+- [Servicio de Solicitud de Pensión Chilena - Guía Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_pensi%C3%B3n/)
 - [Guía Completa para Obtener la Nacionalidad Chilena Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_nacionalidad/)
-- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_la_seguridad_social/)
-- [Guía Integral para Solicitudes de Adopción en Chile](https://tramitit.com/es/guides/chile/solicitud_de_adopción/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
+- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_la_seguridad_social/)
+- [Guía Integral para Solicitudes de Adopción en Chile](https://tramitit.com/es/guides/chile/solicitud_de_adopci%C3%B3n/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)

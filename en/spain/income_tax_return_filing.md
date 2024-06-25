@@ -22,7 +22,7 @@ Every resident in Spain who has earned income in the preceding year must file an
 
 1. The very first step in the filing process is gathering all relevant documentation. This can include your Spanish tax ID, documentation of your earnings (payslips, for instance), documentation of any deductions you may have, among others.
 
-2. Once you have all your documents, access the Spanish Tax Agency portal: [Agencia Tributaria](https://www.agenciatributaria.es/)
+2. Once you have all your documents, access the Spanish Tax Agency portal: [Agencia Tributaria](https://sede.agenciatributaria.gob.es)
 
 3. Navigate to the section for filing income tax returns. This process is typically done online through the portal during the tax filing period (April to June each year). The tax agency usually provides the pre-filled tax return forms, which you can confirm or modify according to your particular situation.
 

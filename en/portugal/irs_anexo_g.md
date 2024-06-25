@@ -27,7 +27,7 @@ Any individual or entity that has realized capital gains from the sale of financ
    - Ensure you have details of all transactions involving the sale of financial assets. This includes purchase and sale dates, the amounts involved, and any associated costs or fees.
 
 2. **Access the Portal das Finanças**:
-   - Go to the official [Portal das Finanças](https://www.portaldasfinancas.gov.pt/) website and log in with your credentials.
+   - Go to the official [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html) website and log in with your credentials.
 
 3. **Navigate to the IRS Declaration Section**:
    - Once logged in, navigate to the IRS section and choose the option to start a new IRS declaration.

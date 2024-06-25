@@ -20,7 +20,7 @@ Anyone (individuals or organizations) registered in Portugal needing to amend or
 
 ## Procedure
 Below is the general procedure for requesting a change of NIF Data:
-1. Visit the website of the [Autoridade Tributária e Aduaneira (Tax and Customs Authority)](https://www.portaldasfinancas.gov.pt/).
+1. Visit the website of the [Autoridade Tributária e Aduaneira (Tax and Customs Authority)](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 2. Log in using your personal NIF number and password.
 3. Go to the tab "Os Seus Serviços" (Your Services).
 4. Click on "Alterar a Situação Fiscal" (Alter Tax Situation).

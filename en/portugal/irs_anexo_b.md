@@ -22,7 +22,7 @@ IRS Anexo B is a component of the Portuguese IRS (Imposto sobre o Rendimento das
 This form is necessary for individuals who earned income through self-employment, independent contracting, or other business activities outside of full-time employment arrangements. It's essential for freelancers, independent consultants, and small business owners.
 
 ## Procedure
-1. **Access the IRS Portal**: Navigate to the [official IRS website](https://www.portaldasfinancas.gov.pt).
+1. **Access the IRS Portal**: Navigate to the [official IRS website](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 2. **Log In**: Use your credentials to log into your account.
 3. **Select the Correct Fiscal Year**: Ensure you are filling out the form for the appropriate year.
 4. **Choose "Declarações"**: Once logged in, access the ‘Declarações’ (Statements) section.

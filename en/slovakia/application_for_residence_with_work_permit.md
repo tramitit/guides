@@ -19,7 +19,7 @@ Anyone intending to live and work in Slovakia not as a citizen or permanent resi
 
 ## Procedure
 1. Collect necessary documents: This includes your passport, proof of accommodation, proof of employment or intended employment, health insurance and criminal record. 
-2. Contact the Slovak embassy: Get in touch with the Slovak embassy or consulate in your country to start the process. Find yours [here](http://www.mzv.sk/web/en).
+2. Contact the Slovak embassy: Get in touch with the Slovak embassy or consulate in your country to start the process. Find yours [here](https://www.mzv.sk:443/web/en).
 3. Submit your application at the embassy: Make sure all your documents are in order before submitting.
 4. Wait for approval: The process can take several weeks, so patience is key.
 5. Pick up your visa: Once approved, you can pick it up from the embassy or consulate.

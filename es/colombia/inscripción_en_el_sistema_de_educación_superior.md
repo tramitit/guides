@@ -49,6 +49,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 - [Servicio de solicitud de visa de estudiante para Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_visa_de_estudiante/)
 - [Obtén Becas para Estudiar en Colombia - Una Guía Completa](https://tramitit.com/es/guides/colombia/solicitud_de_beca/)
-- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripción_en_el_régimen_de_salud/)
-- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripción_al_sistema_de_seguridad_social/)
-- [Regístrese en SISBEN en Colombia - Guía fácil paso a paso](https://tramitit.com/es/guides/colombia/inscripción_en_el_sisben/)
+- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_r%C3%A9gimen_de_salud/)
+- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_al_sistema_de_seguridad_social/)
+- [Regístrese en SISBEN en Colombia - Guía fácil paso a paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_sisben/)

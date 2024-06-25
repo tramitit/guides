@@ -19,7 +19,7 @@ translationKey: portugal-change_of_address_on_residence_permit
 Pessoas que possuem um Cartão de Residência de Portugal e mudaram seu endereço residencial dentro de Portugal.
 
 ## Procedimento
-1. Acesse o Portal do Cidadão de Portugal e faça login no site. [Portal do Cidadão](https://www.portaldocidadao.pt/)
+1. Acesse o Portal do Cidadão de Portugal e faça login no site. [Portal do Cidadão](https://eportugal.gov.pt)
 2. Na Área Pessoal, selecione a opção de Endereço.
 3. Atualize seu endereço residencial com o novo e valide o Código Postal.
 4. Após a validação, envie o pedido de Alteração de Endereço online.

@@ -46,8 +46,8 @@ _(Atualmente estamos selecionando os melhores prestadores. Se você é um presta
 - **Acesso Digital:** Considere usar o aplicativo móvel para ter acesso mais fácil aos seus dados do CNIS enquanto estiver em movimento.
 ## Related Posts
 
-- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previdência_social/)
-- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_único/)
-- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_físicas/)
+- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previd%C3%AAncia_social/)
+- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_%C3%BAnico/)
+- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_f%C3%ADsicas/)
 - [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)
 - [Seguro Desemprego no Brasil - Como Solicitar e Qualificar](https://tramitit.com/pt/guides/brazil/seguro_desemprego/)

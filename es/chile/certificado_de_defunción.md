@@ -50,7 +50,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres uno o con
 
 ## Related Posts
 
-- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_civil/)
+- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_civil/)
 - [Servicio Eficiente de Certificado de Nacimiento en Chile](https://tramitit.com/es/guides/chile/certificado_de_nacimiento/)
 - [Certificados de Autenticidad de Documentos en Chile](https://tramitit.com/es/guides/chile/certificado_de_autenticidad_de_documentos/)
 - [Obtén tu certificado de matrimonio chileno fácilmente](https://tramitit.com/es/guides/chile/certificado_de_matrimonio/)

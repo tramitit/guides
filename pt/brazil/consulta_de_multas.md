@@ -49,7 +49,7 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 ## Related Posts
 
 - [Guia Completo para Obter a Carteira de Motorista no Brasil](https://tramitit.com/pt/guides/brazil/carteira_de_motorista/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
-- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/pt/guides/brazil/renovação_de_cnh/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
-- [Serviços de Declaração de Imposto de Renda para Expatriados no Brasil](https://tramitit.com/pt/guides/brazil/declaração_de_imposto_de_renda/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_ve%C3%ADculo/)
+- [Renove sua Carteira de Motorista Brasileira de forma Eficiente](https://tramitit.com/pt/guides/brazil/renova%C3%A7%C3%A3o_de_cnh/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_alvar%C3%A1/)
+- [Serviços de Declaração de Imposto de Renda para Expatriados no Brasil](https://tramitit.com/pt/guides/brazil/declara%C3%A7%C3%A3o_de_imposto_de_renda/)

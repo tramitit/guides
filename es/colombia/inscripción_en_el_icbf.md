@@ -50,8 +50,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Solicitudes eficientes de asignación familiar en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_asignación_familiar/)
-- [Regístrese en SISBEN en Colombia - Guía fácil paso a paso](https://tramitit.com/es/guides/colombia/inscripción_en_el_sisben/)
+- [Solicitudes eficientes de asignación familiar en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_asignaci%C3%B3n_familiar/)
+- [Regístrese en SISBEN en Colombia - Guía fácil paso a paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_sisben/)
 - [Subsidio Familiar en Colombia: Ayuda para Familias Necesitadas](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_familiar/)
 - [Obtenga su Acta de Nacimiento en Colombia Fácilmente en Línea](https://tramitit.com/es/guides/colombia/registro_civil_de_nacimiento/)
-- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripción_en_el_sistema_de_educación_superior/)
+- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_sistema_de_educaci%C3%B3n_superior/)

@@ -54,7 +54,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 ## Related Posts
 
 - [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
-- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/es/guides/spain/asignación_de_nie_a_instancia_de_interesado/)
+- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/es/guides/spain/asignaci%C3%B3n_de_nie_a_instancia_de_interesado/)
 - [Obtener la Tarjeta de Identidad de Extranjero en España](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_de_estudiante/)
 - [Renovación de la Tarjeta TIE en España: Guía Paso a Paso](https://tramitit.com/es/guides/spain/renovacion_de_la_tarjeta_de_residente_comunitario/)
 - [Certificado de Residente en España: Guía Completa y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_residente/)

@@ -26,7 +26,7 @@ Ideal for foreigners living in Germany who are intending to obtain German citize
 
 3. ** Preparing documentation:** Collect and make copies of all documents that you may need. This includes having official translations if your documents are not in German.
 
-4. **Applying for Citizenship:** Contact your local city's naturalization office ([Einbürgerungsamt](https://www.berlin.de/labo/willkommen-in-berlin/einbuergerungen/)) to apply for citizenship. You should expect to meet with a case worker who will guide you through the process.
+4. **Applying for Citizenship:** Contact your local city's naturalization office ([Einbürgerungsamt](https://www.berlin.de/einwanderung/)) to apply for citizenship. You should expect to meet with a case worker who will guide you through the process.
 
 5. **Interview:** Prepare and attend a compulsory citizenship interview, where your application, background information and German knowledge will be reviewed.
 

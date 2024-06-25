@@ -36,7 +36,7 @@ Foreign nationals not from EU, EEA or Swiss Confederation countries who want to 
 - Proof of professional studies or accreditation for the profession
 - Labor contract between the employer and the employee, signed and dated
 
-The required documents may vary according to the type of work permit that's being applied for. For further information, consult the General Inspectorate for Immigration's guide [here.](http://igi.mai.gov.ro/en/content/employment)
+The required documents may vary according to the type of work permit that's being applied for. For further information, consult the General Inspectorate for Immigration's guide [here.](https://igi.mai.gov.ro/en/employment-and-posting/)
 
 ## Providers that can do it for you
 

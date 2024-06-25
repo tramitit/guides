@@ -21,7 +21,7 @@ Any individual residing in Spain who owns foreign assets with a total value of m
 ## Procedure
 1. **Collect Information:** Gather details about your foreign assets, including account numbers, addresses, and valuations.
 2. **Secure Digital Certificate:** Obtain a digital certificate from the [Spanish National Mint (FNMT)](https://www.sede.fnmt.gob.es/) for online submissions.
-3. **Access the AEAT Portal:** Visit the [Agencia Tributaria's official portal](https://www.agenciatributaria.es/).
+3. **Access the AEAT Portal:** Visit the [Agencia Tributaria's official portal](https://sede.agenciatributaria.gob.es).
 4. **Fill Out Form 720:** Complete the Modelo 720 form using the comprehensive guidelines provided on the AEAT site.
    - Divide assets into three categories: bank accounts, securities and investments, and real estate.
 5. **Submit the Form:** Once filled, submit the form electronically before the deadline of March 31st each year.

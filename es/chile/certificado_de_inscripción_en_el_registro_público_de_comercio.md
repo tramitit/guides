@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 ## Related Posts
 
-- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_comercio/)
+- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_comercio/)
 - [Certificado de Antecedentes Comerciales en Chile: Guía y Procedimiento](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_comerciales/)
-- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_civil/)
+- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_civil/)
 - [Obtén fácilmente tu Certificado de Residencia en Chile](https://tramitit.com/es/guides/chile/certificado_de_residencia/)
 - [Obtén tu Certificado de Residencia en Chile Fácilmente](https://tramitit.com/es/guides/chile/certificado_de_domicilio/)

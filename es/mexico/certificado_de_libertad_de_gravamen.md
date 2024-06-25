@@ -51,6 +51,6 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 
 - [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)
 - [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
-- [Obtén un Certificado de Defunción en México Rápido y Fácil](https://tramitit.com/es/guides/mexico/acta_de_defunción/)
+- [Obtén un Certificado de Defunción en México Rápido y Fácil](https://tramitit.com/es/guides/mexico/acta_de_defunci%C3%B3n/)
 - [Cómo Obtener una Carta de No Adeudo en México | Guía Completa](https://tramitit.com/es/guides/mexico/certificado_de_no_adeudo/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalizaci%C3%B3n_de_documentos/)

@@ -47,5 +47,5 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - [Obtén tu Certificado de Residencia en Chile Fácilmente](https://tramitit.com/es/guides/chile/certificado_de_domicilio/)
 - [Certificado de Residencia Permanente en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_residencia_permanente/)
 - [Obtén tu certificado de matrimonio chileno fácilmente](https://tramitit.com/es/guides/chile/certificado_de_matrimonio/)
-- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/cédula_de_identidad/)
+- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/c%C3%A9dula_de_identidad/)
 - [Certificados de Autenticidad de Documentos en Chile](https://tramitit.com/es/guides/chile/certificado_de_autenticidad_de_documentos/)

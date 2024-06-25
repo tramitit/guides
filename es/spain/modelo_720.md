@@ -21,7 +21,7 @@ Cualquier individuo que resida en España y posea activos extranjeros con un val
 ## Procedimiento
 1. **Recopila Información:** Reúne detalles sobre tus activos extranjeros, incluyendo números de cuenta, direcciones y valoraciones.
 2. **Obtén un Certificado Digital:** Obtén un certificado digital de la [Fábrica Nacional de Moneda y Timbre (FNMT)](https://www.sede.fnmt.gob.es/) para presentaciones en línea.
-3. **Accede al Portal de la AEAT:** Visita el [portal oficial de la Agencia Tributaria](https://www.agenciatributaria.es/).
+3. **Accede al Portal de la AEAT:** Visita el [portal oficial de la Agencia Tributaria](https://sede.agenciatributaria.gob.es).
 4. **Completa el Formulario 720:** Completa el formulario Modelo 720 utilizando las instrucciones detalladas proporcionadas en el sitio de la AEAT.
    - Divide los activos en tres categorías: cuentas bancarias, valores e inversiones, y bienes inmuebles.
 5. **Presenta el Formulario:** Una vez completado, presenta el formulario electrónicamente antes de la fecha límite del 31 de marzo de cada año.

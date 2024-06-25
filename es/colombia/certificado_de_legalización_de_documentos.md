@@ -49,6 +49,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 - [Servicio de Apostilla de Documentos Colombianos en línea](https://tramitit.com/es/guides/colombia/solicitud_de_apostilla_de_documentos/)
 - [Obtenga fácilmente su certificado de matrimonio en Colombia](https://tramitit.com/es/guides/colombia/registro_civil_de_matrimonio/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
-- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/cédula_de_ciudadanía/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)
+- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/c%C3%A9dula_de_ciudadan%C3%ADa/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)

@@ -20,8 +20,8 @@ Rejestracja urodzenia polega na oficjalnym zarejestrowaniu urodzenia dziecka prz
 Ta procedura jest konieczna dla obywateli Polski i Niemiec, którzy mają dzieci urodzone za granicą i chcą zarejestrować urodzenie dziecka w rządzie kraju pochodzenia.
 
 ## Procedura
-1. **Procedura rejestracji urodzenia w Polsce**: skontaktuj się ze swoim lokalnym biurem narodowym za pośrednictwem podanego na ich stronie internetowej adresu e-mail lub numeru telefonu. Poinformuj urzędnika o sytuacji i poproś o dalsze instrukcje w zależności od Twoich okoliczności. [Polska Strona Biura Narodowego](https://obywatel.gov.pl/)
-2. **Procedura rejestracji urodzenia w Niemczech**: Musisz poinformować lokalny Standesamt (Urząd Stanu Cywilnego) o urodzeniu. Jeśli nie przebywasz w Niemczech, możesz skontaktować się z niemiecką placówką dyplomatyczną (ambasadą lub konsulatem) znajdującą się najbliżej Ciebie. [Niemiecka Strona Urzędu Stanu Cywilnego](http://www.standesamt.com)
+1. **Procedura rejestracji urodzenia w Polsce**: skontaktuj się ze swoim lokalnym biurem narodowym za pośrednictwem podanego na ich stronie internetowej adresu e-mail lub numeru telefonu. Poinformuj urzędnika o sytuacji i poproś o dalsze instrukcje w zależności od Twoich okoliczności. [Polska Strona Biura Narodowego](https://www.gov.pl/)
+2. **Procedura rejestracji urodzenia w Niemczech**: Musisz poinformować lokalny Standesamt (Urząd Stanu Cywilnego) o urodzeniu. Jeśli nie przebywasz w Niemczech, możesz skontaktować się z niemiecką placówką dyplomatyczną (ambasadą lub konsulatem) znajdującą się najbliżej Ciebie. [Niemiecka Strona Urzędu Stanu Cywilnego](https://www.standesamt.com/)
 
 ## Wymagane dokumenty
 Dla obu rejestracji powinieneś przygotować:

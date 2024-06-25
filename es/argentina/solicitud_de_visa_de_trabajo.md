@@ -56,5 +56,5 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si usted es o con
 - [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
 - [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/es/guides/argentina/pasaporte_argentino/)
 - [Certificado de Residencia en Argentina: Guía Completa 2023](https://tramitit.com/es/guides/argentina/certificado_de_domicilio/)
-- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/es/guides/argentina/renovación_de_pasaporte/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/es/guides/argentina/renovaci%C3%B3n_de_pasaporte/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_r%C3%A9gimen_de_aut%C3%B3nomos/)

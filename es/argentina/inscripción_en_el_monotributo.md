@@ -49,8 +49,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si usted es un pr
 - Consulte con un experto en impuestos si no está seguro de elegir la categoría correcta de Monotributo según sus ingresos.
 ## Related Posts
 
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_r%C3%A9gimen_de_aut%C3%B3nomos/)
 - [Guía Completa para Obtener el Certificado CUIT en Argentina](https://tramitit.com/es/guides/argentina/constancia_de_cuit/)
 - [Registro de Importadores en Argentina - Guía y Procedimiento](https://tramitit.com/es/guides/argentina/registro_de_importadores/)
-- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilación/)
+- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilaci%C3%B3n/)
 - [Servicio de Solicitud de Subsidios Familiares en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_familiar/)

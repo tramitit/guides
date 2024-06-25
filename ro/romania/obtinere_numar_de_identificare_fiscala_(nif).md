@@ -21,7 +21,7 @@ Oricine câștigă venituri și este obligat să plătească taxe în țara sa r
 
 ## Procedură
 
-1. Mai întâi, trebuie să contactați biroul local de impozite. Biroul specific va depinde de țara dvs. și uneori chiar de orașul dvs. În Franța, acesta ar fi [Service des Impots](https://www.impots.gouv.fr/portail/)
+1. Mai întâi, trebuie să contactați biroul local de impozite. Biroul specific va depinde de țara dvs. și uneori chiar de orașul dvs. În Franța, acesta ar fi [Service des Impots](https://www.impots.gouv.fr/accueil)
 
 2. S-ar putea să vi se solicite să furnizați anumite documente de suport pentru a vă verifica identitatea. Acest lucru variază în funcție de țară, dar include în mod tipic dovezi de identitate, cum ar fi un pașaport sau carte de identitate națională, și dovada rezidenței.
 

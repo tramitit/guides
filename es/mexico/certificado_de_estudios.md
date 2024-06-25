@@ -45,8 +45,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a u
 - En caso de certificados perdidos, las instituciones pueden tener un proceso de reemisión bajo solicitud.
 ## Related Posts
 
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalizaci%C3%B3n_de_documentos/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_a_educaci%C3%B3n_superior/)
 - [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)
 - [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/es/guides/mexico/carta_de_residencia/)
 - [Servicios de Apostilla para Documentos en México de forma fácil](https://tramitit.com/es/guides/mexico/apostilla_de_documentos/)

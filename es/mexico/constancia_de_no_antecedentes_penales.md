@@ -51,6 +51,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 - [Cómo Obtener una Carta de No Adeudo en México | Guía Completa](https://tramitit.com/es/guides/mexico/certificado_de_no_adeudo/)
 - [Certificado Libre de Gravámenes - Guía para Propietarios en México](https://tramitit.com/es/guides/mexico/certificado_de_libertad_de_gravamen/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalizaci%C3%B3n_de_documentos/)
 - [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
 - [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)

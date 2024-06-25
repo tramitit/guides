@@ -39,7 +39,7 @@ _(Jelenleg a legjobb szolgáltatókat válogatjuk össze. Ha Ön vagy ismer vala
 | :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## További részletek
-Ha a személy 1895 előtt halt meg, gyakran egyházi anyakönyveket használnak, mivel ezekben gyakran megtalálhatók a halottak adatai. Az egyházi anyakönyvek megtalálhatók a [FamilySearch](https://familysearch.org/search/collection/show#uri=http://familysearch.org/searchapi/search/collection/1452460) adatbázisban.
+Ha a személy 1895 előtt halt meg, gyakran egyházi anyakönyveket használnak, mivel ezekben gyakran megtalálhatók a halottak adatai. Az egyházi anyakönyvek megtalálhatók a [FamilySearch](https://www.familysearch.org:443/search/collection/show#uri=http://familysearch.org/searchapi/search/collection/1452460) adatbázisban.
 
 A családfakutatás során fontos megjegyezni, hogy a pontos születési dátum, a születési hely, a szülők nevei stb. magánadatok, melyeket egyetlen magyar hatóság sem ad ki vagy erősít meg a magánszféra törvénye miatt, hacsak nem tudod bizonyítani a jogos érdeklődésedet. Még akkor is, ha közvetlen rokon vagy, eljárás hosszadalmas és időigényes lehet.
 ## Related Posts

@@ -21,8 +21,8 @@ Diese Zuschüsse sind für Bürger gedacht, die ein niedriges Einkommen haben od
 ## Verfahren
 1. Überprüfen Sie Ihre Berechtigung: Sowohl in Österreich als auch in den Niederlanden gibt es bestimmte Kriterien wie Einkommen, Art der Wohnung, Alter und Haushaltsgröße, die über Ihre Berechtigung für Wohnbeihilfe entscheiden.
 2. Füllen Sie das entsprechende Formular aus: In Österreich müssen Sie sich für eine Wohnbeihilfe bewerben. In den Niederlanden müssen Sie sich für einen Mietzuschuss bewerben (Huurtoeslag).
-   - Österreich: [Wohnbeihilfe-Antragsformular](http://www.wien.gv.at)
-   - Niederlande: [Mietzuschuss-Antragsformular](https://www.belastingdienst.nl)
+   - Österreich: [Wohnbeihilfe-Antragsformular](https://www.wien.gv.at/)
+   - Niederlande: [Mietzuschuss-Antragsformular](https://www.belastingdienst.nl/wps/wcm/connect/nl/home/home)
 3. Reichen Sie das ausgefüllte Formular bei den jeweiligen Regierungsbehörden zusammen mit den erforderlichen Dokumenten ein. In Österreich müssen Sie das Formular im Magistratischen Bezirksamt 50 einreichen. In den Niederlanden reichen Sie das Formular über die Website der Steuer- und Zollverwaltung online ein.
 
 ## Erforderliche Dokumente

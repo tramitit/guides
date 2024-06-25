@@ -23,7 +23,7 @@ Această informație este esențială pentru orice proprietar de mașină care l
 1. Identificați ce fel de vehicul dețineți. Tipul și specificațiile mașinii vor afecta suma taxei pe care o plătiți.
 2. În România, puterea motorului, măsurată în cai putere (CP), determină taxa pentru vehicul. Calculați acest lucru pe baza specificațiilor mașinii dumneavoastră.
 3. Perioada deținerii afectează, de asemenea, suma taxei. Includeți numărul de luni în care ați deținut mașina în calculul dumneavoastră.
-4. Taxele de import și alte taxe se aplică atunci când importați o mașină. Luați în considerare aceste costuri în finanțele dumneavoastră generale. Verificați site-ul web al Uniunii Europene pentru Informații Tarifare și Comerciale pentru detalii ([aici](https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/what-is-common-customs-tariff_en)).
+4. Taxele de import și alte taxe se aplică atunci când importați o mașină. Luați în considerare aceste costuri în finanțele dumneavoastră generale. Verificați site-ul web al Uniunii Europene pentru Informații Tarifare și Comerciale pentru detalii ([aici](https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff_en)).
 5. Metodele de plată pot varia în funcție de localitate. Asigurați-vă că verificați cu biroul local de taxe sau cu comuna pentru detalii.
 6. Asigurați-vă vehiculul. RCA (Asigurarea de Răspundere Civilă Auto) este obligatorie pentru toți proprietarii de vehicule din România.
 

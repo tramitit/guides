@@ -51,8 +51,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 ## Related Posts
 
-- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tránsito/)
+- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tr%C3%A1nsito/)
 - [Asesoramiento experto para la visa de residencia en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_visa_de_residencia/)
-- [Matriculación de vehículos en Colombia: Guía Completa](https://tramitit.com/es/guides/colombia/registro_de_vehículo/)
+- [Matriculación de vehículos en Colombia: Guía Completa](https://tramitit.com/es/guides/colombia/registro_de_veh%C3%ADculo/)
 - [Obtenga su Permiso de Residencia para Colombia sin Problemas](https://tramitit.com/es/guides/colombia/permiso_de_residencia/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)

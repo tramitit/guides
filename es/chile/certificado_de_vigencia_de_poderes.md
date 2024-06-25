@@ -46,6 +46,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 - [Certificados de Autenticidad de Documentos en Chile](https://tramitit.com/es/guides/chile/certificado_de_autenticidad_de_documentos/)
 - [Obtén tu Certificado de Antecedentes Penales en Chile](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_penales/)
-- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripción_en_el_registro_público_de_comercio/)
+- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripci%C3%B3n_en_el_registro_p%C3%BAblico_de_comercio/)
 - [Servicio de Asistencia Simple para Cambio de Nombre en Chile](https://tramitit.com/es/guides/chile/cambio_de_nombre/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)

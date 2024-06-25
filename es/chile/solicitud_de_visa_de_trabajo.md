@@ -57,5 +57,5 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - [Guía Completa para Obtener la Nacionalidad Chilena Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_nacionalidad/)
 - [Cómo obtener una visa de estudiante en Chile fácilmente](https://tramitit.com/es/guides/chile/solicitud_de_visa_de_estudiante/)
 - [Servicio de Pasaporte Chileno en Chile - Pasos Fáciles y Requisitos](https://tramitit.com/es/guides/chile/pasaporte_chileno/)
-- [Guía Integral para Solicitudes de Adopción en Chile](https://tramitit.com/es/guides/chile/solicitud_de_adopción/)
-- [Servicio de Solicitud de Pensión Chilena - Guía Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_pensión/)
+- [Guía Integral para Solicitudes de Adopción en Chile](https://tramitit.com/es/guides/chile/solicitud_de_adopci%C3%B3n/)
+- [Servicio de Solicitud de Pensión Chilena - Guía Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_pensi%C3%B3n/)

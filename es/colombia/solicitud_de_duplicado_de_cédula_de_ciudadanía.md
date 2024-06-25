@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Renovación eficiente de la cédula de ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/renovación_de_cédula_de_ciudadanía/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
-- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/cédula_de_ciudadanía/)
+- [Renovación eficiente de la cédula de ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/renovaci%C3%B3n_de_c%C3%A9dula_de_ciudadan%C3%ADa/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)
+- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/c%C3%A9dula_de_ciudadan%C3%ADa/)
 - [Obtenga su Acta de Nacimiento en Colombia Fácilmente en Línea](https://tramitit.com/es/guides/colombia/registro_civil_de_nacimiento/)
 - [Guía completa para obtener tu pasaporte colombiano fácilmente](https://tramitit.com/es/guides/colombia/pasaporte_colombiano/)

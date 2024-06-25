@@ -22,7 +22,7 @@ Oricine planifică să se mute în străinătate pentru muncă sau alte activit�
 
 ## Procedură
 
-1. Începeți prin a merge la biroul local de taxe sau la 'Agenția Națională de Administrare Fiscală.' Puteți găsi biroul local de taxe vizitând [site-ul ANAF](http://www.anaf.ro/).
+1. Începeți prin a merge la biroul local de taxe sau la 'Agenția Națională de Administrare Fiscală.' Puteți găsi biroul local de taxe vizitând [site-ul ANAF](https://www.anaf.ro/).
 
 2. Informați-i că aveți nevoie de un Certificat Fiscal și completați formularul necesar pentru depunerea cererii pentru certificatul fiscal.
 

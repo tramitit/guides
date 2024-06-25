@@ -51,6 +51,6 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a u
 
 - [Solicita fácilmente el Subsidio de Vivienda en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_habitacional/)
 - [Subsidio Familiar en Colombia: Ayuda para Familias Necesitadas](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_familiar/)
-- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensión/)
-- [Servicios de Solicitud de Jubilación Fácil en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_jubilación/)
+- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensi%C3%B3n/)
+- [Servicios de Solicitud de Jubilación Fácil en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_jubilaci%C3%B3n/)
 - [Obtén Becas para Estudiar en Colombia - Una Guía Completa](https://tramitit.com/es/guides/colombia/solicitud_de_beca/)

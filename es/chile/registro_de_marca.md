@@ -53,7 +53,7 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres un proveedo
 ## Related Posts
 
 - [Registre su Patente Comercial en Chile de forma Rápida y Segura](https://tramitit.com/es/guides/chile/solicitud_de_patente_comercial/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
-- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_comercio/)
-- [Registro de Inversión en Chile: Proceso Legal y Protección](https://tramitit.com/es/guides/chile/inscripción_al_registro_de_inversiones/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)
+- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_comercio/)
+- [Registro de Inversión en Chile: Proceso Legal y Protección](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_registro_de_inversiones/)
 - [Servicio de Asistencia Simple para Cambio de Nombre en Chile](https://tramitit.com/es/guides/chile/cambio_de_nombre/)

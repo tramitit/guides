@@ -28,7 +28,7 @@ Property owners in Portugal who receive rental income from residential, commerci
    Collect all the relevant documents related to your rental property, including lease agreements, payment receipts, expense invoices, and any other supporting documents for the income and expenses related to the rental property.
 
 2. **Access the Portal das Finanças:**
-   Go to the [Portal das Finanças](https://www.portaldasfinancas.gov.pt/).
+   Go to the [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 
 3. **Log In:**
    Use your credentials to log in to your account on the Portal das Finanças.

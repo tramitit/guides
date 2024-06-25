@@ -33,8 +33,8 @@ A list of valid Identification and residency documents might be needed based on 
 
 Here are the official websites to apply for EHIC based on your home country:
 
-- [National Health Service (NHS) for UK citizens](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/)
-- [Health Service Executive (HSE) for Ireland citizens](https://www2.hse.ie/services/ehic/ehic.html)
+- [National Health Service (NHS) for UK citizens](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/)
+- [Health Service Executive (HSE) for Ireland citizens](https://www2.hse.ie/services/schemes-allowances/ehic/)
 - [National Health Fund (NFZ) for Poland citizens](https://www.nfz.gov.pl/)
 
 ## Providers that can do it for you

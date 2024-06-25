@@ -45,7 +45,7 @@ _(Estamos atualmente selecionando os melhores prestadores de serviços. Se você
 ## Related Posts
 
 - [Registro de ONG sem esforço no Brasil - Orientação Legal e Suporte](https://tramitit.com/pt/guides/brazil/registro_de_ong/)
-- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_imóveis/)
-- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscrição_em_concursos_públicos/)
+- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_im%C3%B3veis/)
+- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscri%C3%A7%C3%A3o_em_concursos_p%C3%BAblicos/)
 - [Registro de Nascimento no Brasil - Guia Completo e Documentos](https://tramitit.com/pt/guides/brazil/registro_de_nascimento/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_alvar%C3%A1/)

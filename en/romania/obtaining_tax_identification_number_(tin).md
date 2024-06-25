@@ -20,7 +20,7 @@ Anyone who is earning income and liable to pay taxes within their respective cou
 
 ## Procedure
 
-1. First, you need to contact your local tax office. The specific office will depend on your country and sometimes even your city. In France, this would be the [Service des Impots](https://www.impots.gouv.fr/portail/)
+1. First, you need to contact your local tax office. The specific office will depend on your country and sometimes even your city. In France, this would be the [Service des Impots](https://www.impots.gouv.fr/accueil)
 
 2. You may be required to provide certain supporting documents to verify your identity. This varies by country but typically includes proof of identity, such as a passport or national ID card, and proof of residence.
 

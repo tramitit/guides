@@ -22,7 +22,7 @@ Este serviço é necessário para qualquer indivíduo que esteja a viver no estr
 ## Procedimento
 1. Verifique a data de validade da sua carta de condução.
 2. Se estiver no Reino Unido, siga o processo especificado pela DVLA ([Agência de Licenciamento de Motoristas e Veículos](https://www.gov.uk/renew-driving-licence)).
-3. Para aqueles que residem em Portugal, por favor visite o [IMT - Instituto da Mobilidade e dos Transportes](https://www.imt-ip.pt/) para iniciar o processo de renovação.
+3. Para aqueles que residem em Portugal, por favor visite o [IMT - Instituto da Mobilidade e dos Transportes](https://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx) para iniciar o processo de renovação.
 4. Se estiver no Brasil, visite o DETRAN ([Departamento de Trânsito](http://www.detran.sp.gov.br/)) do seu estado e siga as orientações fornecidas.
 5. Tenha sempre em mente as regulamentações locais e os requisitos que cercam os procedimentos de renovação, pois eles podem variar de país para país.
 

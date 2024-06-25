@@ -46,7 +46,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 ## Related Posts
 
 - [Subsidios de Vivienda en México: Guía Completa y Procedimientos](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_vivienda/)
-- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripción_al_imss/)
+- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_al_imss/)
 - [Asistencia fácil para permisos de trabajo en México](https://tramitit.com/es/guides/mexico/permiso_de_trabajo/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/tr%C3%A1mite_de_visa_de_trabajo/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_a_educaci%C3%B3n_superior/)

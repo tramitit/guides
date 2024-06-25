@@ -19,7 +19,7 @@ A Marriage Certificate is an official document that legally recognizes two indiv
 Anyone who has gotten married in Slovakia or Slovakian citizens married abroad who need an official proof of their marriage status.
 
 ## Procedure
-1. Contact the local civil registry office (Matričný úrad) relevant to your location. To find the appropriate civil registry office, follow this link: [Civil Registry Offices in Slovakia](https://www.slovensko.sk/sk/contacts/).
+1. Contact the local civil registry office (Matričný úrad) relevant to your location. To find the appropriate civil registry office, follow this link: [Civil Registry Offices in Slovakia](https://www.slovensko.sk/static/common/generic-error.html).
 2. Apply for the marriage certificate in person. Both husband and wife should be present for the application.
 3. Submit all necessary documents needed for the issuance of the marriage certificate.
 4. The civil registry office will then process your application.

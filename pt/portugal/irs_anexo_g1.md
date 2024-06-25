@@ -29,7 +29,7 @@ Este anexo é necessário para contribuintes que:
 ## Procedimento
 
 1. **Acesse o Portal das Finanças de Portugal:**
-   - Visite o site oficial da autoridade tributária portuguesa [Portal das Finanças](https://www.portaldasfinancas.gov.pt/).
+   - Visite o site oficial da autoridade tributária portuguesa [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 
 2. **Faça login na sua conta:**
    - Use o seu NIF (Número de Identificação Fiscal) e senha para fazer login. Se não tiver uma conta, é necessário se registrar primeiro.

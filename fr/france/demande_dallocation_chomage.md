@@ -20,7 +20,7 @@ Le service est adapté aux personnes récemment devenues chômeurs, suite à des
 
 ## Procédure
 
-1. S'inscrire à Pôle emploi. Cela peut se faire en ligne sur [www.pole-emploi.fr](http://www.pole-emploi.fr/).
+1. S'inscrire à Pôle emploi. Cela peut se faire en ligne sur [www.pole-emploi.fr](https://www.francetravail.fr/accueil/).
 2. Après inscription, vous recevrez un rendez-vous pour une réunion avec un conseiller de Pôle emploi.
 3. Lors de la réunion, vos droits et obligations vous seront expliqués, et un plan personnalisé sera établi pour vous aider à retrouver un emploi. Vous devrez également signer un Engagement de Recherche.
 4. Déposer une demande d'allocations de chômage en ligne ou lors de votre réunion avec le conseiller de Pôle emploi.

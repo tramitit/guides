@@ -46,7 +46,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 ## Related Posts
 
 - [Obtén tu Acta de Nacimiento Mexicana en Línea Fácilmente](https://tramitit.com/es/guides/mexico/acta_de_nacimiento/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
-- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopción/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalizaci%C3%B3n_de_documentos/)
+- [Obtenga fácilmente un Certificado de Adopción en México](https://tramitit.com/es/guides/mexico/solicitud_de_acta_de_adopci%C3%B3n/)
 - [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)
-- [Proceso de divorcio simplificado en México para expatriados](https://tramitit.com/es/guides/mexico/trámite_de_divorcio/)
+- [Proceso de divorcio simplificado en México para expatriados](https://tramitit.com/es/guides/mexico/tr%C3%A1mite_de_divorcio/)

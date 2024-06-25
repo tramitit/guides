@@ -21,7 +21,7 @@ Anyone planning to move abroad for work or other bigger financial activities, li
 
 ## Procedure
 
-1. Start by going to your local tax office or 'Agentia Nationala de Administrare Fiscala.' You can find your local tax office by visiting the [ANAF website](http://www.anaf.ro/).
+1. Start by going to your local tax office or 'Agentia Nationala de Administrare Fiscala.' You can find your local tax office by visiting the [ANAF website](https://www.anaf.ro/).
 
 2. Inform them that you need a Tax Certificate and fill the necessary form for filing request for tax certificate.
 

@@ -37,7 +37,7 @@ Cetățeni străini care nu sunt din țările UE, SEE sau Confederația Elveția
 - Dovada studiilor profesionale sau de acreditare pentru profesie
 - Contract de muncă între angajator și angajat, semnat și datat
 
-Documentele necesare pot varia în funcție de tipul de permis de muncă pentru care se aplică. Pentru informații suplimentare, consultați ghidul Inspectoratului General pentru Imigrări [aici.](http://igi.mai.gov.ro/en/content/employment)
+Documentele necesare pot varia în funcție de tipul de permis de muncă pentru care se aplică. Pentru informații suplimentare, consultați ghidul Inspectoratului General pentru Imigrări [aici.](https://igi.mai.gov.ro/en/employment-and-posting/)
 
 ## Furnizori care pot face acest lucru pentru dumneavoastră
 

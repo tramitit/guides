@@ -19,7 +19,7 @@ Travel authorization is a requirement for travelers who plan to visit a country 
 This guide is ideal for US citizens planning to travel to Europe or other destinations that have specific visa or travel authorization requirements.
 
 ## Procedure
-1. Identify if the destination country requires a visa or travel authorization. For Europe, you can check the official [EU Immigration Portal](https://ec.europa.eu/immigration/).
+1. Identify if the destination country requires a visa or travel authorization. For Europe, you can check the official [EU Immigration Portal](https://immigration-portal.ec.europa.eu/select-language?destination=/node/1).
 2. If you need to apply for a visa, select the appropriate type (tourist, business, student, etc.), gather necessary documents, pay the application fee and submit the application at the nearest consulate or embassy.
 3. For travel authorization, apply through the designated online system. For Europe, US citizens will use the [European Travel Information and Authorisation System (ETIAS)](https://www.etiasvisa.com/etias-requirements/americans).
 4. Fill up the form with accurate information. Provide all the necessary details including your personal information, passport details, medical information, and travel itinerary.

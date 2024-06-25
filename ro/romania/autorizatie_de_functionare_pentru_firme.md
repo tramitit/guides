@@ -20,7 +20,7 @@ Un permis de funcționare pentru o companie este un document care permite legal 
 Toate afacerile care își propun să opereze legal în România sau în alte teritorii sunt obligate să dețină un permis de funcționare. 
 
 ## Procedură
-1. **Înregistrați compania**: Înregistrați-vă compania la Oficiul Național de Registrul al Comerțului. Mai multe informații despre înregistrarea companiei pot fi găsite [aici](http://www.onrc.ro/index.php/en/).
+1. **Înregistrați compania**: Înregistrați-vă compania la Oficiul Național de Registrul al Comerțului. Mai multe informații despre înregistrarea companiei pot fi găsite [aici](https://www.onrc.ro/index.php/en/).
    
 2. **Obțineți aprobarea de zonare**: Verificați cu autoritățile locale sau cu un certificat de urbanism local pentru orice restricții sau aprobări de zonare necesare.
 

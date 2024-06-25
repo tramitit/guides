@@ -44,8 +44,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripción_en_el_régimen_de_salud/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
-- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/cédula_de_ciudadanía/)
-- [Servicios de Solicitud de Jubilación Fácil en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_jubilación/)
-- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensión/)
+- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_r%C3%A9gimen_de_salud/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)
+- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/c%C3%A9dula_de_ciudadan%C3%ADa/)
+- [Servicios de Solicitud de Jubilación Fácil en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_jubilaci%C3%B3n/)
+- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensi%C3%B3n/)

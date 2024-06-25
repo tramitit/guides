@@ -30,7 +30,7 @@ Chiunque intenda guidare in Italia, sia come residente che come turista, deve po
 ## Documenti necessari
 1. Documento d'identità: Per confermare la tua identità e il tuo indirizzo.
 2. Permesso di soggiorno: Come prova del tuo soggiorno legale nel Paese (se applicabile).
-3. Certificato medico: Prova la tua idoneità fisica e mentale alla guida. Il test medico può essere effettuato presso un ufficio ASL (Azienda Sanitaria Locale) locale. Puoi fissare un appuntamento [qui](http://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=3663&area=Assistenza%20sanitaria&menu=vuoto).
+3. Certificato medico: Prova la tua idoneità fisica e mentale alla guida. Il test medico può essere effettuato presso un ufficio ASL (Azienda Sanitaria Locale) locale. Puoi fissare un appuntamento [qui](https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=3663&area=Assistenza%20sanitaria&menu=vuoto).
 
 ## Fornitori che possono occuparsene per te
 

@@ -53,8 +53,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres un proveedor 
 
 ## Related Posts
 
-- [Obtenga un Certificado de Defunción en Colombia de manera Eficiente](https://tramitit.com/es/guides/colombia/certificado_de_defunción/)
-- [Obtenga un Certificado de Defunción en Colombia de manera eficiente](https://tramitit.com/es/guides/colombia/registro_civil_de_defunción/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
+- [Obtenga un Certificado de Defunción en Colombia de manera Eficiente](https://tramitit.com/es/guides/colombia/certificado_de_defunci%C3%B3n/)
+- [Obtenga un Certificado de Defunción en Colombia de manera eficiente](https://tramitit.com/es/guides/colombia/registro_civil_de_defunci%C3%B3n/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)
 - [Obtenga su Certificado de Antecedentes Disciplinarios fácilmente](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_disciplinarios/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)

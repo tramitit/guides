@@ -44,8 +44,8 @@ _(Estamos atualmente selecionando os melhores prestadores. Se você é ou conhec
 - É recomendável atualizar seu registro eleitoral com antecedência em relação às próximas eleições para garantir que não haja problemas no dia da eleição.
 ## Related Posts
 
-- [Regularização Eleitoral sem Esforço no Brasil Online](https://tramitit.com/pt/guides/brazil/regularização_eleitoral/)
-- [Transferência sem esforço de propriedade de veículo no Brasil](https://tramitit.com/pt/guides/brazil/transferência_de_veículo/)
-- [Transferências Escolares Públicas Sem Problemas no Brasil](https://tramitit.com/pt/guides/brazil/transferência_de_escola_pública/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Regularização Eleitoral sem Esforço no Brasil Online](https://tramitit.com/pt/guides/brazil/regulariza%C3%A7%C3%A3o_eleitoral/)
+- [Transferência sem esforço de propriedade de veículo no Brasil](https://tramitit.com/pt/guides/brazil/transfer%C3%AAncia_de_ve%C3%ADculo/)
+- [Transferências Escolares Públicas Sem Problemas no Brasil](https://tramitit.com/pt/guides/brazil/transfer%C3%AAncia_de_escola_p%C3%BAblica/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_alvar%C3%A1/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)

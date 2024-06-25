@@ -24,7 +24,7 @@ Individuals who may need to access these documents include genealogists, histori
    - Identify the type of document you require, such as birth certificates, marriage licenses, or court records.
   
 2. **Visit the Official Website:**
-   - Access the Ministry of Justice's general archive section through their official portal: [Ministry of Justice – General Archive](https://www.mjusticia.gob.es/).
+   - Access the Ministry of Justice's general archive section through their official portal: [Ministry of Justice – General Archive](https://www.mjusticia.gob.es/es).
 
 3. **Register for Online Services:**
    - Create an account on the platform to request document access.

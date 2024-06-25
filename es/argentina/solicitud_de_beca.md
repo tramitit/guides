@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - * Ciertos programas, como Fulbright ETA, ofrecen instrucciones detalladas y tienen sus propios plazos y requisitos que pueden ser distintos.
 ## Related Posts
 
-- [Inscribirse en Instituciones de Educación Superior en Argentina](https://tramitit.com/es/guides/argentina/inscripción_a_educación_superior/)
+- [Inscribirse en Instituciones de Educación Superior en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_a_educaci%C3%B3n_superior/)
 - [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
 - [Solicitud de Subsidio de Vivienda Asequible en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_habitacional/)
-- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilación/)
-- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/es/guides/argentina/solicitud_de_pensión/)
+- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilaci%C3%B3n/)
+- [Guía Completa para Solicitar Pensiones en Argentina - ANSES](https://tramitit.com/es/guides/argentina/solicitud_de_pensi%C3%B3n/)

@@ -43,7 +43,7 @@ Ten en cuenta que los tiempos de procesamiento pueden variar dependiendo de la �
 ## Related Posts
 
 - [Cómo obtener un Certificado de Últimas Voluntades en España](https://tramitit.com/es/guides/spain/obtencion_del_certificado_de_ultimas_voluntades/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunci%C3%B3n/)
 - [Registro de Defunción en España: Procedimiento y Documentos Necesarios](https://tramitit.com/es/guides/spain/inscripcion_de_defuncion/)
 - [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
 - [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/certificado_de_antecedentes_penales/)

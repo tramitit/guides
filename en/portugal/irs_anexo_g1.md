@@ -31,7 +31,7 @@ This annex is necessary for taxpayers who:
 ## Procedure
 
 1. **Access the Portuguese Tax Authority Portal:**
-   - Visit the official website of the Portuguese tax authority [Portal das Finanças](https://www.portaldasfinancas.gov.pt/).
+   - Visit the official website of the Portuguese tax authority [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 
 2. **Log in to your account:**
    - Use your NIF (Número de Identificação Fiscal) and password to log in. If you don't have an account, you need to register first.

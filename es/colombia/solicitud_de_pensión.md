@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Servicios de Solicitud de Jubilación Fácil en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_jubilación/)
+- [Servicios de Solicitud de Jubilación Fácil en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_jubilaci%C3%B3n/)
 - [Servicio de solicitud de permiso de trabajo en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_permiso_de_trabajo/)
 - [Guía para Solicitar Subsidio por Desempleo en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_de_desempleo/)
-- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripción_al_sistema_de_seguridad_social/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
+- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_al_sistema_de_seguridad_social/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)

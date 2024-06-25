@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si usted es un pr
 
 ## Related Posts
 
-- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripción_en_el_registro_público_de_comercio/)
-- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripción_al_sii/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
-- [Registro de Inversión en Chile: Proceso Legal y Protección](https://tramitit.com/es/guides/chile/inscripción_al_registro_de_inversiones/)
-- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_civil/)
+- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripci%C3%B3n_en_el_registro_p%C3%BAblico_de_comercio/)
+- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sii/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)
+- [Registro de Inversión en Chile: Proceso Legal y Protección](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_registro_de_inversiones/)
+- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_civil/)

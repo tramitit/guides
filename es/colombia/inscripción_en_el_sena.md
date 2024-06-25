@@ -50,8 +50,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripción_en_el_sistema_de_educación_superior/)
+- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_sistema_de_educaci%C3%B3n_superior/)
 - [Servicio de solicitud de visa de estudiante para Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_visa_de_estudiante/)
-- [Regístrese en SISBEN en Colombia - Guía fácil paso a paso](https://tramitit.com/es/guides/colombia/inscripción_en_el_sisben/)
-- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/cédula_de_ciudadanía/)
-- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripción_al_sistema_de_seguridad_social/)
+- [Regístrese en SISBEN en Colombia - Guía fácil paso a paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_sisben/)
+- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/c%C3%A9dula_de_ciudadan%C3%ADa/)
+- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_al_sistema_de_seguridad_social/)

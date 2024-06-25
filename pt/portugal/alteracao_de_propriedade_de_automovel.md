@@ -22,7 +22,7 @@ Este serviço é necessário por qualquer pessoa que tenha vendido seu carro par
 ## Procedimento
 1. Reunir todos os documentos necessários, como identificação de ambas as partes e os documentos do veículo.
 2. Tanto o vendedor quanto o comprador vão a um Cartório ou Advogado para fazer o 'Auto de Compra e Venda', um documento que comprova que o carro foi vendido.
-3. Após obter o 'Auto de Compra e Venda', o comprador deve registrar o carro em seu nome através do site do IMT [IMT Online](https://servicos.imt-ip.pt/) ou em uma das lojas do IMT.
+3. Após obter o 'Auto de Compra e Venda', o comprador deve registrar o carro em seu nome através do site do IMT [IMT Online](https://servicos.imt-ip.pt/login.aspx?ReturnUrl=%2fdefault.aspx) ou em uma das lojas do IMT.
 4. A mudança de propriedade não está completa até que o documento de registo do veículo, refletindo os detalhes do novo proprietário, seja obtido.
 
 ## Documentos Necessários

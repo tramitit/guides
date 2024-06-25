@@ -41,9 +41,9 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 
-- Follow this [link](https://www.reddit.com/r/dubai/comments/1b2t533/corporate_tax_in_uae_flowchart/) for an overview of investment-related tax implications.
-- Refer to this [guide](https://www.reddit.com/r/Upwork/comments/ui5q2i/es_esto_una_estafa_gu%C3%ADa_completa_de_estafa_de/es/) for tips on avoiding investment registration scams.
-- Understand the [benefits of foreign investment in Chile](https://www.reddit.com/r/PassportPorn/comments/12ri994/lesser_known_benefits_of_citizenships/).
+- Follow this [link](https://www.reddit.com/r/dubai/comments/1b2t533/corporate_tax_in_uae_flowchart/?rdt=50005) for an overview of investment-related tax implications.
+- Refer to this [guide](https://www.reddit.com/r/Upwork/comments/ui5q2i/es_esto_una_estafa_gu%C3%ADa_completa_de_estafa_de/es/?rdt=41924) for tips on avoiding investment registration scams.
+- Understand the [benefits of foreign investment in Chile](https://www.reddit.com/r/PassportPorn/comments/12ri994/lesser_known_benefits_of_citizenships/?rdt=42267).
 
 
 

@@ -48,6 +48,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 - [Verificación Integral de Antecedentes Penales en Argentina](https://tramitit.com/es/guides/argentina/certificado_de_antecedentes_penales/)
 - [Obtenga un Certificado de Buena Conducta en Argentina - Guía](https://tramitit.com/es/guides/argentina/certificado_de_buena_conducta/)
-- [Pago rápido y sencillo de multas de tráfico en Argentina](https://tramitit.com/es/guides/argentina/pago_de_infracciones_de_tránsito/)
+- [Pago rápido y sencillo de multas de tráfico en Argentina](https://tramitit.com/es/guides/argentina/pago_de_infracciones_de_tr%C3%A1nsito/)
 - [Obtén tu Documento Nacional de Identidad en Argentina fácilmente](https://tramitit.com/es/guides/argentina/documento_nacional_de_identidad/)
-- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_certificado_de_soltería/)
+- [Certificado de Estado Civil en Argentina - Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_certificado_de_solter%C3%ADa/)

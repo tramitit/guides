@@ -46,8 +46,8 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres un proveedo
 
 ## Related Posts
 
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
 - [Obtenga fácilmente su certificado de matrimonio en Colombia](https://tramitit.com/es/guides/colombia/registro_civil_de_matrimonio/)
 - [Guía completa para obtener tu pasaporte colombiano fácilmente](https://tramitit.com/es/guides/colombia/pasaporte_colombiano/)
-- [Obtenga fácilmente su Certificado de Soltería en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_soltería/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
+- [Obtenga fácilmente su Certificado de Soltería en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_solter%C3%ADa/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)

@@ -49,8 +49,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Tu licencia de conducir mexicana se puede utilizar para conducir en algunos otros países como Islandia.
 ## Related Posts
 
-- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulación/)
-- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/es/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
+- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulaci%C3%B3n/)
+- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/es/guides/mexico/expedici%C3%B3n_de_duplicado_de_licencia_de_conducir/)
 - [Reexpedición de Placas de Matrícula en México: Guía Completa](https://tramitit.com/es/guides/mexico/reemplacamiento/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalizaci%C3%B3n_de_documentos/)
 - [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/es/guides/mexico/carta_de_residencia/)

@@ -22,7 +22,7 @@ Anyone planning to stay in the Czech Republic for an extended time, either for w
 
 1. Decide on the type of account: Current accounts are more suitable for daily financial activities while savings accounts focus more on generating interest over time.
 
-2. Research and select a bank: Look into different banks and their offerings. Some popular banks in the Czech Republic include [ČSOB](https://www.csob.cz), [Komercni Bank](https://www.kb.cz), and [Moneta Bank](https://www.moneta.cz).
+2. Research and select a bank: Look into different banks and their offerings. Some popular banks in the Czech Republic include [ČSOB](https://www.csob.cz), [Komercni Bank](https://www.kb.cz/cs/obcane), and [Moneta Bank](https://www.moneta.cz/).
 
 3. Visit the bank branch: Go in person to the bank of your choice to open the account. Some banks may also offer an online process.
 

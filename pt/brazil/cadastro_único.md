@@ -44,8 +44,8 @@ _(Estamos atualmente reunindo os melhores prestadores. Se você é ou conhece um
 - Assistência está disponível nos centros CRAS se você precisar de ajuda para preencher os formulários ou reunir documentação.
 ## Related Posts
 
-- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_nacional_de_informações_sociais/)
-- [Entenda o Programa Bolsa Família: Assistência Social no Brasil](https://tramitit.com/pt/guides/brazil/bolsa_família/)
-- [Como Obter Seu Cartão SUS e Acessar Serviços de Saúde Gratuitos](https://tramitit.com/pt/guides/brazil/cartão_sus/)
-- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_físicas/)
-- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previdência_social/)
+- [Guia Definitivo do Cadastro Nacional de Informações Sociais do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_nacional_de_informa%C3%A7%C3%B5es_sociais/)
+- [Entenda o Programa Bolsa Família: Assistência Social no Brasil](https://tramitit.com/pt/guides/brazil/bolsa_fam%C3%ADlia/)
+- [Como Obter Seu Cartão SUS e Acessar Serviços de Saúde Gratuitos](https://tramitit.com/pt/guides/brazil/cart%C3%A3o_sus/)
+- [Tudo Sobre CPF no Brasil - Como Registrar e Quem Precisa](https://tramitit.com/pt/guides/brazil/cadastro_de_pessoas_f%C3%ADsicas/)
+- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previd%C3%AAncia_social/)

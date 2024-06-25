@@ -49,8 +49,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si usted es un pr
 
 ## Related Posts
 
-- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensión/)
-- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripción_al_sistema_de_seguridad_social/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
-- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripción_en_el_régimen_de_salud/)
+- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensi%C3%B3n/)
+- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_al_sistema_de_seguridad_social/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
+- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_r%C3%A9gimen_de_salud/)
 - [Servicio de solicitud de permiso de trabajo en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_permiso_de_trabajo/)

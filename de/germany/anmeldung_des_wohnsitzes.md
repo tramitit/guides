@@ -23,7 +23,7 @@ Jede Person, die vorhat, für mehr als nur ein paar Wochen in Deutschland zu ble
 
 1. Wohnsitz finden: Bevor Sie sich anmelden können, benötigen Sie eine feste Adresse. Dazu gehören Mietverträge oder eine unterzeichnete Bestätigung des Eigentümers des Ortes, an dem Sie wohnen werden.
 
-2. Termin vereinbaren: Je nach Stadt, in der Sie leben, müssen Sie eventuell einen Termin vereinbaren. Besuchen Sie das Bürgeramt Ihrer Stadt online, um einen Termin zu vereinbaren. Zum Beispiel können in Berlin Termine online über [Berliner.de](https://service.berlin.de/terminvereinbarung/termin/day/) vereinbart werden.
+2. Termin vereinbaren: Je nach Stadt, in der Sie leben, müssen Sie eventuell einen Termin vereinbaren. Besuchen Sie das Bürgeramt Ihrer Stadt online, um einen Termin zu vereinbaren. Zum Beispiel können in Berlin Termine online über [Berliner.de](https://service.berlin.de/terminvereinbarung/termin/stop/) vereinbart werden.
 
 3. Dokumente vorbereiten: Sammeln Sie alle erforderlichen Dokumente vor Ihrem Termin und stellen Sie sicher, dass sie in Ordnung sind. Es ist wichtig, Originale zur Überprüfung mitzubringen.
 

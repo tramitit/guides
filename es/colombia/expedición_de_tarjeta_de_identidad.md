@@ -49,8 +49,8 @@ _(Estamos actualmente recopilando los mejores proveedores. Si eres o conoces a u
 
 ## Related Posts
 
-- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/cédula_de_ciudadanía/)
-- [Renovación eficiente de la cédula de ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/renovación_de_cédula_de_ciudadanía/)
-- [Duplicado de Cédula de Ciudadanía en Colombia: Guía Completa](https://tramitit.com/es/guides/colombia/solicitud_de_duplicado_de_cédula_de_ciudadanía/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Proceso y requisitos para obtener la Cédula de Ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/c%C3%A9dula_de_ciudadan%C3%ADa/)
+- [Renovación eficiente de la cédula de ciudadanía en Colombia](https://tramitit.com/es/guides/colombia/renovaci%C3%B3n_de_c%C3%A9dula_de_ciudadan%C3%ADa/)
+- [Duplicado de Cédula de Ciudadanía en Colombia: Guía Completa](https://tramitit.com/es/guides/colombia/solicitud_de_duplicado_de_c%C3%A9dula_de_ciudadan%C3%ADa/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)

@@ -51,7 +51,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce a 
 ## Related Posts
 
 - [Solicitud Rápida y Fácil de Patente Municipal en Chile](https://tramitit.com/es/guides/chile/solicitud_de_patente_municipal/)
-- [Solicitud de Permiso de Circulación sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/permiso_de_circulación/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
+- [Solicitud de Permiso de Circulación sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/permiso_de_circulaci%C3%B3n/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)
 - [Obtén fácilmente tu Certificado de Residencia en Chile](https://tramitit.com/es/guides/chile/certificado_de_residencia/)
 - [Cómo Solicitar Fácilmente un Subsidio de Vivienda en Chile](https://tramitit.com/es/guides/chile/solicitud_de_subsidio_habitacional/)

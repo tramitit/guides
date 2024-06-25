@@ -48,7 +48,7 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a u
 
 ## Related Posts
 
-- [Certificado de Antecedentes de Tránsito en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_de_tránsito/)
+- [Certificado de Antecedentes de Tránsito en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_de_tr%C3%A1nsito/)
 - [Servicio en línea de Verificación de Antecedentes Laborales en Chile](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_laborales/)
 - [Certificado de Antecedentes Comerciales en Chile: Guía y Procedimiento](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_comerciales/)
 - [Certificados de Autenticidad de Documentos en Chile](https://tramitit.com/es/guides/chile/certificado_de_autenticidad_de_documentos/)

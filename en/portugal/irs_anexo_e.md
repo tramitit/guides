@@ -23,7 +23,7 @@ This form is typically required for individuals who have passive income, such as
 
 ## Procedure
 1. **Login to the IRS Portal:**
-   Access the IRS online platform through [Portal das Finanças](https://www.portaldasfinancas.gov.pt/).
+   Access the IRS online platform through [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 
 2. **Navigate to the IRS section:**
    Look for the section to declare IRS and click on it. Usually, you might see a prompt to begin the filling process for your annual tax return.
@@ -72,7 +72,7 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 - Ensure that all the amounts are entered in Euros.
-- It’s crucial to verify if there are any updates or changes to the form or procedures on the [Portal das Finanças](https://www.portaldasfinancas.gov.pt/), as the regulations and forms may be updated periodically.
+- It’s crucial to verify if there are any updates or changes to the form or procedures on the [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html), as the regulations and forms may be updated periodically.
 ## Related Posts
 
 - [How to Complete IRS Anexo I for Special Income in Portugal](https://tramitit.com/guides/portugal/irs_anexo_i/)

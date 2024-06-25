@@ -52,7 +52,7 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 - **Online Requests**:
-  - Use the [Ministry of Justice's sede electronica](https://sede.mjusticia.gob.es) for online applications.
+  - Use the [Ministry of Justice's sede electronica](https://sede.mjusticia.gob.es/es) for online applications.
   - You will need a digital certificate for identification.
 - **In-person Requests**:
   - Visit local offices of the Ministry of Justice in Spain.

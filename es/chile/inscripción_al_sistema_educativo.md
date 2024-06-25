@@ -54,8 +54,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 ## Related Posts
 
-- [Registro del Sistema de Salud de Chile - Guía de Pasos Sencillos](https://tramitit.com/es/guides/chile/inscripción_al_sistema_de_salud/)
-- [Registro Electoral en Chile: Guía Completa y Procedimiento](https://tramitit.com/es/guides/chile/inscripción_al_registro_electoral/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
-- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_la_seguridad_social/)
-- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_comercio/)
+- [Registro del Sistema de Salud de Chile - Guía de Pasos Sencillos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sistema_de_salud/)
+- [Registro Electoral en Chile: Guía Completa y Procedimiento](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_registro_electoral/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)
+- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_la_seguridad_social/)
+- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_comercio/)

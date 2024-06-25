@@ -50,6 +50,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 - [Subsidios de Vivienda en México: Guía Completa y Procedimientos](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_vivienda/)
 - [Obtén tu Credencial de Elector mexicana - Pasos y requisitos](https://tramitit.com/es/guides/mexico/credencial_para_votar/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/tr%C3%A1mite_de_visa_de_trabajo/)
 - [Solicita el Subsidio por Desempleo en México Ahora](https://tramitit.com/es/guides/mexico/solicitud_de_subsidio_para_desempleo/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_a_educaci%C3%B3n_superior/)

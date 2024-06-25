@@ -20,7 +20,7 @@ Parkovací povolení umožňuje jednotlivcům parkovat svá vozidla na vyhrazen�
 Parkovací povolení je nezbytné pro obyvatele a turisty, kteří plánují použít své vlastní nebo pronajatá vozidla k cestování po Praze nebo jiných městech v České republice. Zejména ti, kteří chtějí parkovat svá vozidla na delší dobu v určených parkovacích zónách.
 
 ## Postup
-1. Určete parkovací zónu, kam připevníte své povolení. Každá parkovací zóna odpovídá různým čtvrtím. Zóny můžete zkontrolovat [zde](http://www.parkujvklidu.cz/praha/mapa/#mapaZon).
+1. Určete parkovací zónu, kam připevníte své povolení. Každá parkovací zóna odpovídá různým čtvrtím. Zóny můžete zkontrolovat [zde](https://parking.praha.eu/cs/moznosti-parkovani-v-praze/#mapaZon).
 
 2. Sežeňte všechny požadované dokumenty.
 

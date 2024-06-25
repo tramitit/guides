@@ -51,6 +51,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 - [Solicita fácilmente el Subsidio de Vivienda en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_habitacional/)
 - [Guía para Solicitar Subsidio por Desempleo en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_de_desempleo/)
-- [Solicitudes eficientes de asignación familiar en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_asignación_familiar/)
-- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripción_en_el_régimen_de_salud/)
+- [Solicitudes eficientes de asignación familiar en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_asignaci%C3%B3n_familiar/)
+- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_r%C3%A9gimen_de_salud/)
 - [Obtén Becas para Estudiar en Colombia - Una Guía Completa](https://tramitit.com/es/guides/colombia/solicitud_de_beca/)

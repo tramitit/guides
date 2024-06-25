@@ -39,7 +39,7 @@ _(We are currently curating the best providers. If you are or know a provider, p
 | :-------------: | :-------------: |  :-------------: | :-------------: |
 
 ## Additional details
-The process may vary slightly depending on the specific municipality. If there is missing information or documents, the process may take longer, so it is advisable to start ahead of time. For any queries or complications, feel free to directly contact the local immigration office or the [Greek Ombudsman](https://www.synigoros.gr/).
+The process may vary slightly depending on the specific municipality. If there is missing information or documents, the process may take longer, so it is advisable to start ahead of time. For any queries or complications, feel free to directly contact the local immigration office or the [Greek Ombudsman](https://www.synigoros.gr/el).
 ## Related Posts
 
 - [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)

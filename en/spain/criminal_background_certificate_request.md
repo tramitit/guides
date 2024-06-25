@@ -19,7 +19,7 @@ A Criminal Background Certificate is a document that certifies whether or not a 
 Individuals applying for certain jobs, visas, or official permits may be requested to provide a Criminal Background Certificate.
 
 ## Procedure
-1. Visit the [Spanish Ministry of Justice website](https://www.mjusticia.gob.es/) and navigate to the section for 'Citizens - Criminal Records.' 
+1. Visit the [Spanish Ministry of Justice website](https://www.mjusticia.gob.es/es) and navigate to the section for 'Citizens - Criminal Records.' 
 2. Click on 'Online Request' if you possess a digital certificate, electronic ID, or other methods of electronic identification. If not, opt for a request 'Without certificate', which involves filling out a form.
 3. Provide your personal details as requested by the online form.
 4. Select the appropriate purpose for your certificate request. 

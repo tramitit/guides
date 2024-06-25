@@ -23,7 +23,7 @@ Individuals with Slovakian ancestors aiming to prove their heritage or applying 
 2. Collect and organize primary source documents. Such documents include birth, death, or marriage certificates of your Slovak ancestors.
 3. Gather other secondary sources which might assist in proving your ancestry, such as family photographs or letters.
 4. Contact the embassy or consulate of Slovakia in your country. 
-    - Embassy of Slovakia in the USA: [Link](http://www.mzv.sk/washington)
+    - Embassy of Slovakia in the USA: [Link](https://www.mzv.sk:443/washington)
      - Embassy of Slovakia in the UK: [Link](http://www.mzv.sk/london) 
 5. Submit your request along with all the supporting documents. The embassy or consulate will guide you through the process and inform you about any additional requirements or fees.
 

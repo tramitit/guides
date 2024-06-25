@@ -16,7 +16,7 @@ translationKey: belgium-request_for_unemployment_benefits
 Ce guide est destiné à toute personne qui vient de perdre son emploi en Belgique et qui a besoin de demander des allocations de chômage.
 
 ## Procédure
-1. Inscrivez-vous comme demandeur d'emploi auprès d'[Actiris](https://www.actiris.brussels/en) (si vous vivez à Bruxelles), [Forem](https://www.leforem.be/) (si vous vivez en Wallonie) ou [VDAB](https://www.vdab.be/english) (si vous vivez en Flandre).
+1. Inscrivez-vous comme demandeur d'emploi auprès d'[Actiris](https://www.actiris.brussels/en/citizens/) (si vous vivez à Bruxelles), [Forem](https://www.leforem.be/) (si vous vivez en Wallonie) ou [VDAB](https://www.vdab.be/english) (si vous vivez en Flandre).
 2. Documentez votre recherche d'emploi auprès de ces organismes.
 3. Si vous avez été employé pendant au moins 12 mois au cours des 18 derniers mois, vous pourriez avoir droit à des allocations.
 4. Rassemblez les documents nécessaires pour demander des allocations de chômage.

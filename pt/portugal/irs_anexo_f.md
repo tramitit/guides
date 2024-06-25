@@ -26,7 +26,7 @@ Proprietários de imóveis em Portugal que recebem rendimentos de aluguel de pro
    Reúna todos os documentos relevantes relacionados à sua propriedade para aluguel, incluindo contratos de arrendamento, recibos de pagamento, faturas de despesas e quaisquer outros documentos de apoio para os rendimentos e despesas relacionadas à propriedade para aluguel.
 
 2. **Aceder ao Portal das Finanças:**
-   Acesse o [Portal das Finanças](https://www.portaldasfinancas.gov.pt/).
+   Acesse o [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 
 3. **Iniciar Sessão:**
    Utilize suas credenciais para fazer login na sua conta no Portal das Finanças.

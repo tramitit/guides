@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_comercio/)
-- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_la_seguridad_social/)
+- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_comercio/)
+- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_la_seguridad_social/)
 - [Obtenga fácilmente el Certificado de Cumplimiento Tributario Chileno](https://tramitit.com/es/guides/chile/certificado_de_cumplimiento_tributario/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
-- [Obtén tu Certificado de Situación Tributaria en Chile](https://tramitit.com/es/guides/chile/certificado_de_situación_tributaria/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)
+- [Obtén tu Certificado de Situación Tributaria en Chile](https://tramitit.com/es/guides/chile/certificado_de_situaci%C3%B3n_tributaria/)

@@ -19,7 +19,7 @@ The process of renewing your Spanish ID (known as DNI) when it has expired or is
 Spanish citizens, both resident and non-resident, who possess an expired or soon-to-be expired DNI.
 
 ## Procedure
-1. Make an appointment online for DNI renewal at this [website](https://www.citapreviadnie.es)
+1. Make an appointment online for DNI renewal at this [website](https://www.citapreviadnie.es/)
 2. Visit the police station or consulate at the time of your appointment.
 3. Bring along the necessary documents.
 4. Once there, they will take your fingerprints and photo.

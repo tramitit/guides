@@ -23,7 +23,7 @@ Jede Person, die plant, länger als sechs Monate in Österreich zu bleiben, eins
 1. Überprüfen Sie, ob Sie ein Visum benötigen, um nach Österreich einzureisen: Dies kann von Ihrer aktuellen Staatsangehörigkeit abhängen.
 2. Melden Sie sich innerhalb von drei Tagen nach Ihrer Ankunft in Österreich bei der örtlichen Behörde an.
 3. Sammeln Sie die erforderlichen Dokumente (siehe unten).
-4. Beantragen Sie Ihren Aufenthaltstitel im für Ihren Wohnort zuständigen Einwanderungsamt in Österreich. Das Migrationsamt in Österreich [MA 35](http://www.wien.gv.at/english/) ist in Wien dafür verantwortlich.
+4. Beantragen Sie Ihren Aufenthaltstitel im für Ihren Wohnort zuständigen Einwanderungsamt in Österreich. Das Migrationsamt in Österreich [MA 35](https://www.wien.gv.at/english/) ist in Wien dafür verantwortlich.
 5. Nehmen Sie an einem Interview teil.
 6. Wenn der Antrag genehmigt wird, erhalten Sie einen Aufenthaltstitel, der es Ihnen ermöglicht, in Österreich zu leben und in der Regel zu arbeiten.
 

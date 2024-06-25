@@ -20,7 +20,7 @@ Any individual who has recently purchased a car in Austria or has moved to Austr
 
 ## Procedure
 
-1. Ensure the car passes the 'Pickerl' inspection. This can be done at any authorized garage [List of Authorized Garages](https://www.oeamtc.at/thema/pickerl/)
+1. Ensure the car passes the 'Pickerl' inspection. This can be done at any authorized garage [List of Authorized Garages](https://www.oeamtc.at/mitgliedschaft/pruefdienst-leistungen/57a-begutachtung-pickerl/)
 2. Once the car passes, you will receive a 'Typenschein' or 'Einzelgenehmigung'. (Individual approval)
 3. Go to any insurance company in Austria and get a liability insurance (third-party coverage). They will give you an insurance policy number.
 4. Take the insurance policy number to your local Vehicle registration office [Transport Authority Offices](https://www.bmk.gv.at/das-ministerium/dienststellen/zulassungsstellen.html)

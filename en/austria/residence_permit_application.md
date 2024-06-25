@@ -22,7 +22,7 @@ Any person planning to stay in Austria for more than six months, including stude
 1. Check whether you need a visa to enter Austria: It can depend on your current nationality.
 2. Once arrived in Austria, register your initial arrival with the local Authority within three days.
 3. Gather the necessary documents (see below).
-4. Apply for your Residence Permit at the immigration office in Austria relevant to your locality. The Migration Office in Austria [MA 35](http://www.wien.gv.at/english/) is responsible for this in Vienna.
+4. Apply for your Residence Permit at the immigration office in Austria relevant to your locality. The Migration Office in Austria [MA 35](https://www.wien.gv.at/english/) is responsible for this in Vienna.
 5. Attend an interview.
 6. If the application is approved, you will receive a residence permit that allows you to live and typically work in Austria.
 

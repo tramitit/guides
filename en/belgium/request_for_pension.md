@@ -21,7 +21,7 @@ Any employee who is going to retire or who has reached the legal retirement age 
 ## Procedure
 1. Determine your eligibility: Check the legal retirement age and if you meet the eligibility for pension benefits in Belgium. You can check your eligibility on this [Official website](https://socialsecurity.belgium.be/en).
 2. Gather Required Documents: Prepare the necessary documents required for the application. It would typically include a selection of personal and professional documents, some of which are mentioned in the Required Documents section.
-3. Apply Online: You can apply for your retirement online at the Belgian pension service [MyPension](https://www.mypension.be/en) using your electronic ID card reader. 
+3. Apply Online: You can apply for your retirement online at the Belgian pension service [MyPension](https://www.mypension.be) using your electronic ID card reader. 
 4. Confirmation: Once your application has been successful, you will receive a confirmation.
 
 ## Required Documents

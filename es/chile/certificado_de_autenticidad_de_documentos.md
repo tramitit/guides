@@ -47,5 +47,5 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - [Guía simplificada para obtener un Certificado de Salud en Chile](https://tramitit.com/es/guides/chile/certificado_de_salud/)
 - [Obtén fácilmente tu Certificado de Residencia en Chile](https://tramitit.com/es/guides/chile/certificado_de_residencia/)
 - [Servicio Eficiente de Certificado de Nacimiento en Chile](https://tramitit.com/es/guides/chile/certificado_de_nacimiento/)
-- [Revalidación de Título Universitario en Chile - Una Guía Completa](https://tramitit.com/es/guides/chile/revalidación_de_título_universitario/)
-- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/cédula_de_identidad/)
+- [Revalidación de Título Universitario en Chile - Una Guía Completa](https://tramitit.com/es/guides/chile/revalidaci%C3%B3n_de_t%C3%ADtulo_universitario/)
+- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/c%C3%A9dula_de_identidad/)

@@ -20,7 +20,7 @@ These allowances are targeted to citizens who are living on low income or those 
 
 ## Procedure
 1. Assess your eligibility: Both in Austria, there are certain considerations like income, type of dwelling, age, and size of household that determine your eligibility for a housing allowance.
-2. Fill out the appropriate form: [Wohnbeihilfe Application Form](http://www.wien.gv.at)
+2. Fill out the appropriate form: [Wohnbeihilfe Application Form](https://www.wien.gv.at/)
 3. Submit the completed form to the respective government bodies along with necessary documents. In Austria, you would need to submit the form to Municipal Department 50.
 
 ## Required Documents

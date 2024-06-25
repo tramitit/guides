@@ -42,8 +42,8 @@ _(Atualmente estamos selecionando os melhores prestadores de serviços. Se você
 - O TSE também oferece uma linha direta e suporte de chat online para dúvidas durante o processo.
 ## Related Posts
 
-- [Serviço de Transferência de Registro de Eleitor no Brasil](https://tramitit.com/pt/guides/brazil/transferência_de_título_de_eleitor/)
-- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscrição_em_concursos_públicos/)
+- [Serviço de Transferência de Registro de Eleitor no Brasil](https://tramitit.com/pt/guides/brazil/transfer%C3%AAncia_de_t%C3%ADtulo_de_eleitor/)
+- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscri%C3%A7%C3%A3o_em_concursos_p%C3%BAblicos/)
 - [Alistamento Militar no Brasil: Guia Completo e Atualizado](https://tramitit.com/pt/guides/brazil/alistamento_militar/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_alvar%C3%A1/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)

@@ -19,7 +19,7 @@ Este servicio es ideal para personas, especialmente extranjeros, que planean cas
 ## Procedimiento
 
 1. Obtener una confirmación de su estado civil de su país de origen, disponible generalmente en las oficinas municipales o de registro locales.
-2. Legalizar o apostillar el documento según los requisitos de su país de origen (recursos útiles: [Guía de apostilla de documentos venezolanos](https://www.reddit.com/r/vzla/wiki/tramites/legalizaciondocumentoscivilesapostilla/)).
+2. Legalizar o apostillar el documento según los requisitos de su país de origen (recursos útiles: [Guía de apostilla de documentos venezolanos](https://www.reddit.com/r/vzla/wiki/tramites/legalizaciondocumentoscivilesapostilla/?rdt=58324)).
 3. Traducir el documento al español por un traductor autorizado si aún no está en español.
 4. Presentar el documento traducido a las autoridades chilenas, como el Servicio de Registro Civil e Identificación.
 5. Esperar la verificación y emisión del Certificado de Soltería por parte de las autoridades chilenas.

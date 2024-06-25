@@ -21,7 +21,7 @@ Any person residing in Poland, whether citizen or foreigner, who has lost their 
 
 1. The first step to report the loss of an official document is to go to the nearest police station to file a police report about the lost document. 
 
-2. The next step is to go to your local voivodeship office. For residents of Kraków, this would be the Lesser Poland Voivodeship office ([link](http://www.malopolska.uw.gov.pl/default.aspx?page=Start)). For residents of Warsaw, it would be the Masovian Voivodeship office ([link](http://www.mazowieckie.pl/en/)).
+2. The next step is to go to your local voivodeship office. For residents of Kraków, this would be the Lesser Poland Voivodeship office ([link](http://www.malopolska.uw.gov.pl/index.aspx?page=Start)). For residents of Warsaw, it would be the Masovian Voivodeship office ([link](http://www.mazowieckie.pl/en/)).
 
 3. You will need to bring a copy of the police report and fill out an application for a replacement document. 
 

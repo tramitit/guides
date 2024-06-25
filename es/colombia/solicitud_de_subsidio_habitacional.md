@@ -53,4 +53,4 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - [Guía para Solicitar Subsidio por Desempleo en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_de_desempleo/)
 - [Obtén Becas para Estudiar en Colombia - Una Guía Completa](https://tramitit.com/es/guides/colombia/solicitud_de_beca/)
 - [Asesoramiento experto para la visa de residencia en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_visa_de_residencia/)
-- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensión/)
+- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensi%C3%B3n/)

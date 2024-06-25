@@ -22,7 +22,7 @@ This process is ideal for non-EU residents who have family members living in Fra
 ## Procedure
 
 1. The family member residing in France must prove they have been legally residing in France for at least 18 months.
-2. Apply for family reunification at the French Office of Immigration and Integration (OFII). More information can be found on their [official website](http://www.ofii.fr/).
+2. Apply for family reunification at the French Office of Immigration and Integration (OFII). More information can be found on their [official website](https://www.ofii.fr/).
 3. The French resident must also show proof of suitable accommodation and sufficient, stable resources to support family members.
 4. The application will then be reviewed by OFII and various French authorities.
 5. If the application is accepted, the family member abroad will need to apply for a long-stay visa at the French Consulate in their country of residence. More information on this application can be found on the [France Visas website](https://france-visas.gouv.fr/).

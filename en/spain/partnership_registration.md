@@ -25,7 +25,7 @@ Any couple living together who want to get their relationship legally recognized
 ## Procedure
 
 1. The first step towards partnership registration is assembling all the necessary documents mentioned below.
-2. Once you have all the documents ready, the next step is to book an appointment at the local registry office or 'Registro Civil'. You can do this online by visiting their [website](https://www.mjusticia.gob.es/).
+2. Once you have all the documents ready, the next step is to book an appointment at the local registry office or 'Registro Civil'. You can do this online by visiting their [website](https://www.mjusticia.gob.es/es).
 3. At the appointment, you will need to complete an application form and submit all the documents.
 4. After submission, a public announcement is made about your intentions to register as a couple. This step is to ensure there are no legal obstacles to your registration.
 5. Once the public announcement time has passed (usually 15 days), you will need to go back to the registry office to sign the registration document.

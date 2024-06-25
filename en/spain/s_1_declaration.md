@@ -26,7 +26,7 @@ Any individual who has moved money to Spain from another country, regardless of 
 
 1. Ensure all the funds you will be declaring have been moved to Spain.
 2. Visit the official website of the Agencia Tributaria, Spain’s tax agency.
-3. Download Form S1 [(Formulario S1)](https://www.agenciatributaria.es/AEAT.internet/Inicio/Ayuda/Modelos__Procedimientos_y_Servicios/Ayuda_Modelo_S_1/Descripcion/Descripcion.shtml).
+3. Download Form S1 [(Formulario S1)](https://sede.agenciatributaria.gob.es/Sede/nuevasede.html).
 4. Fill in all the necessary details including identification information and details of the money moved.
 5. Ensure you have all the necessary supporting documents ready.
 6. Submit the completed S1 form and the supporting documents to Agencia Tributaria.

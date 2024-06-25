@@ -44,8 +44,8 @@ _(Estamos atualmente selecionando os melhores fornecedores. Se você é ou conhe
 - Verifique os critérios de elegibilidade específicos ou requisitos adicionais de documentação da instituição financeira.  
 ## Related Posts
 
-- [Processo de Cadastro Ambiental Rural no Brasil Simplificado](https://tramitit.com/pt/guides/brazil/inscrição_no_cadastro_ambiental_rural/)
-- [Serviços de Declaração de Imposto de Renda para Expatriados no Brasil](https://tramitit.com/pt/guides/brazil/declaração_de_imposto_de_renda/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)
-- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_único/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Processo de Cadastro Ambiental Rural no Brasil Simplificado](https://tramitit.com/pt/guides/brazil/inscri%C3%A7%C3%A3o_no_cadastro_ambiental_rural/)
+- [Serviços de Declaração de Imposto de Renda para Expatriados no Brasil](https://tramitit.com/pt/guides/brazil/declara%C3%A7%C3%A3o_de_imposto_de_renda/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_aposentadoria/)
+- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_%C3%BAnico/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_alvar%C3%A1/)

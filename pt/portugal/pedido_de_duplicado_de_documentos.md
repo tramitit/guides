@@ -25,7 +25,7 @@ Este serviço pode ser necessário para qualquer residente em Portugal que tenha
 2. Visite o site ou escritório da autoridade relevante, dependendo do documento.
      - Para passaportes e cartões de identificação, você pode solicitar uma duplicata através do site do [Instituto dos Registos e do Notariado (IRN)](https://www.irn.justica.gov.pt/IRN/sections/irn/).
      - Para a carta de condução, o [Instituto da Mobilidade e dos Transportes (IMT)](https://www.imtonline.pt/) é responsável pela emissão de duplicatas.
-     - Para o cartão de cidadão, você pode solicitar online no [Portal do Cidadão](https://www.portaldocidadao.pt/) ou pessoalmente em uma Loja do Cidadão ou escritório do IRN.
+     - Para o cartão de cidadão, você pode solicitar online no [Portal do Cidadão](https://eportugal.gov.pt) ou pessoalmente em uma Loja do Cidadão ou escritório do IRN.
 3. Preencha o formulário correto de solicitação de documento duplicado com informações precisas.
 4. Pague a taxa pelo documento duplicado. O custo varia dependendo do documento e frequentemente pode ser feito online ou pessoalmente através de vários métodos.
 5. Espere que o documento duplicado chegue. O prazo varia dependendo do documento e do método escolhido para entrega.

@@ -50,7 +50,7 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 
 ## Detalles adicionales
 - **Solicitudes en línea**:
-  - Utilice la [sede electrónica del Ministerio de Justicia](https://sede.mjusticia.gob.es) para las solicitudes en línea.
+  - Utilice la [sede electrónica del Ministerio de Justicia](https://sede.mjusticia.gob.es/es) para las solicitudes en línea.
   - Necesitará un certificado digital para la identificación.
 - **Solicitudes en persona**:
   - Visite las oficinas locales del Ministerio de Justicia en España.

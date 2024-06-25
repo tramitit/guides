@@ -47,8 +47,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_la_seguridad_social/)
+- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_la_seguridad_social/)
 - [Guía simplificada para obtener un Certificado de Salud en Chile](https://tramitit.com/es/guides/chile/certificado_de_salud/)
-- [Inscripción Simplificada en el Sistema Educativo Chileno](https://tramitit.com/es/guides/chile/inscripción_al_sistema_educativo/)
-- [Registro Electoral en Chile: Guía Completa y Procedimiento](https://tramitit.com/es/guides/chile/inscripción_al_registro_electoral/)
+- [Inscripción Simplificada en el Sistema Educativo Chileno](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sistema_educativo/)
+- [Registro Electoral en Chile: Guía Completa y Procedimiento](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_registro_electoral/)
 - [Guía Completa para Obtener la Nacionalidad Chilena Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_nacionalidad/)

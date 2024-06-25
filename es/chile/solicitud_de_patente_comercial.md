@@ -47,7 +47,7 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si usted es o conoc
 ## Related Posts
 
 - [Registro de Marca en Chile: Protege tu Identidad Legalmente](https://tramitit.com/es/guides/chile/registro_de_marca/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)
 - [Solicitud Rápida y Fácil de Patente Municipal en Chile](https://tramitit.com/es/guides/chile/solicitud_de_patente_municipal/)
-- [Registro de Inversión en Chile: Proceso Legal y Protección](https://tramitit.com/es/guides/chile/inscripción_al_registro_de_inversiones/)
-- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_comercio/)
+- [Registro de Inversión en Chile: Proceso Legal y Protección](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_registro_de_inversiones/)
+- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_comercio/)

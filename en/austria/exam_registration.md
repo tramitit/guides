@@ -19,7 +19,7 @@ Exam registration is the process of enrolling for a particular examination. This
 Anyone who intends to take part in a particular examination or requires certification may need to go through exam registration. This registration can be a vital part of the journey toward academic or professional advancement.
 
 ## Procedure
-1. Find out about the exam and confirm its availability in your location: Different examinations have their own official websites where information pertaining to the exam can be found, like Goethe for German language test ([Goethe Institute](https://www.goethe.de)).
+1. Find out about the exam and confirm its availability in your location: Different examinations have their own official websites where information pertaining to the exam can be found, like Goethe for German language test ([Goethe Institute](https://www.goethe.de/de/index.html)).
 2. Check the exam calendar: Every exam has its schedule or a calendar which candidates can access either via the official exam website or by contacting the organizers.
 3. Sign up for the exam: Create an account on the official exam website. Some exams may require you to use your existing email address to sign up while others could give you the option of creating a new user ID specifically for the exam.
 4. Fill in the necessary details: This will include personal information, education, and other relevant details. Please ensure the information provided is accurate to avoid any issues further down the line.

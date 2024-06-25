@@ -50,8 +50,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a u
 
 ## Related Posts
 
-- [Registro del Sistema de Salud de Chile - Guía de Pasos Sencillos](https://tramitit.com/es/guides/chile/inscripción_al_sistema_de_salud/)
-- [Servicio de Solicitud de Pensión Chilena - Guía Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_pensión/)
-- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_civil/)
-- [Registro Electoral en Chile: Guía Completa y Procedimiento](https://tramitit.com/es/guides/chile/inscripción_al_registro_electoral/)
-- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripción_al_sii/)
+- [Registro del Sistema de Salud de Chile - Guía de Pasos Sencillos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sistema_de_salud/)
+- [Servicio de Solicitud de Pensión Chilena - Guía Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_pensi%C3%B3n/)
+- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_civil/)
+- [Registro Electoral en Chile: Guía Completa y Procedimiento](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_registro_electoral/)
+- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sii/)

@@ -55,7 +55,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Related Posts
 
 - [Servicio Eficiente de Certificado de Nacimiento en Chile](https://tramitit.com/es/guides/chile/certificado_de_nacimiento/)
-- [Solicita Certificados de Defunción en Chile de Forma Rápida](https://tramitit.com/es/guides/chile/certificado_de_defunción/)
+- [Solicita Certificados de Defunción en Chile de Forma Rápida](https://tramitit.com/es/guides/chile/certificado_de_defunci%C3%B3n/)
 - [Obtén tu certificado de matrimonio chileno fácilmente](https://tramitit.com/es/guides/chile/certificado_de_matrimonio/)
 - [Servicio de Asistencia Simple para Cambio de Nombre en Chile](https://tramitit.com/es/guides/chile/cambio_de_nombre/)
-- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_la_seguridad_social/)
+- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_la_seguridad_social/)

@@ -52,6 +52,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 - [Certificado Judicial de Antecedentes en Colombia sin Esfuerzo](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_judiciales/)
 - [Cómo obtener un Certificado de Antecedentes Fiscales en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_fiscales/)
-- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tránsito/)
+- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tr%C3%A1nsito/)
 - [Certificado de Discapacidad en Colombia: Requisitos y Procedimiento](https://tramitit.com/es/guides/colombia/certificado_de_discapacidad/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)

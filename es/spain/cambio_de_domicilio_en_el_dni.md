@@ -21,7 +21,7 @@ Cualquier persona que se mude de casa necesita actualizar su documento de identi
 
 ## Procedimiento
 
-1. Visita la comisaría de policía local o la oficina de extranjeros en tu nueva localidad. Sitio web: [Ministerio del Interior de España](http://www.interior.gob.es/)
+1. Visita la comisaría de policía local o la oficina de extranjeros en tu nueva localidad. Sitio web: [Ministerio del Interior de España](https://www.interior.gob.es/opencms/es/inicio/)
 2. Toma un número para la cola de "cambio de domicilio".
 3. Cuando sea tu turno, presenta tu NIE actual y prueba de tu nueva dirección al oficial.
 4. El oficial verificará tus documentos y actualizará tu dirección en el sistema.
@@ -43,8 +43,8 @@ Después de haber cambiado tu dirección, asegúrate de actualizar tu informaci�
 
 ## Related Posts
 
-- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/es/guides/spain/asignación_de_nie_a_instancia_de_interesado/)
+- [Guía Completa sobre el Número de Identificación de Extranjero (NIE)](https://tramitit.com/es/guides/spain/asignaci%C3%B3n_de_nie_a_instancia_de_interesado/)
 - [Cómo obtener el NIE en España: requisitos, procedimiento y proveedores](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
 - [Cómo obtener el Documento Nacional de Identidad en España](https://tramitit.com/es/guides/spain/solicitud_del_dni/)
-- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/cédula_de_inscripción/)
+- [Cómo Obtener tu Tarjeta de Registro (NIE) en España Rápidamente](https://tramitit.com/es/guides/spain/c%C3%A9dula_de_inscripci%C3%B3n/)
 - [Renovación del DNI en España: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/renovacion_del_dni/)

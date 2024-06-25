@@ -47,6 +47,6 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 
 - [Guía simplificada para obtener un Certificado de Salud en Chile](https://tramitit.com/es/guides/chile/certificado_de_salud/)
 - [Certificados de Autenticidad de Documentos en Chile](https://tramitit.com/es/guides/chile/certificado_de_autenticidad_de_documentos/)
-- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_la_seguridad_social/)
-- [Solicita Certificados de Defunción en Chile de Forma Rápida](https://tramitit.com/es/guides/chile/certificado_de_defunción/)
+- [Registro de Seguridad Social en Chile: Guía Completa y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_la_seguridad_social/)
+- [Solicita Certificados de Defunción en Chile de Forma Rápida](https://tramitit.com/es/guides/chile/certificado_de_defunci%C3%B3n/)
 - [Obtén fácilmente tu Certificado de Residencia en Chile](https://tramitit.com/es/guides/chile/certificado_de_residencia/)

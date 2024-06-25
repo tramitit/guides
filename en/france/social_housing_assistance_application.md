@@ -23,8 +23,8 @@ Social housing assistance is a service provided by the government to offer affor
 Ideally, this service is available to persons with low income, single parents, aged persons, disabled persons, and anyone who is unable to afford market-rate houses.
 
 ## Procedure
-1. Understand your eligibility: Not everyone qualifies for social housing. To find out if you do, check out [this link](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509779/). 
-2. Application: Applications for social housing in France should be done online through the [government’s website](https://www.demande-logement-social.gouv.fr/) where you will fill an application form (SLS) and receive a social housing registration number after submission.
+1. Understand your eligibility: Not everyone qualifies for social housing. To find out if you do, check out [this link](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000509779). 
+2. Application: Applications for social housing in France should be done online through the [government’s website](https://www.demande-logement-social.gouv.fr/index) where you will fill an application form (SLS) and receive a social housing registration number after submission.
 3. Follow up: Keep track of your application and ensure you have notifications enabled since any updates are usually communicated online.
 4. Wait for a response: The waiting period varies depending on the availability and demand for social housing in your region.
 

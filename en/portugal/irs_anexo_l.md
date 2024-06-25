@@ -24,7 +24,7 @@ This form is needed by non-resident taxpayers who have generated income in Portu
 ## Procedure
 1. **Gather Relevant Information**: Before starting the process, ensure you have all your financial data, identification documents, and income statements. This might include rental agreements, bank statements, or other proofs of income.
   
-2. **Access the Portuguese Tax Authority Portal**: Visit the official [Portal das Finanças](https://www.portaldasfinancas.gov.pt).
+2. **Access the Portuguese Tax Authority Portal**: Visit the official [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 
 3. **Log In**: Use your credentials to log in to your Portal das Finanças account. If you do not have an account, you will need to register.
 

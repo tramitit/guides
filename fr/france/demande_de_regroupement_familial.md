@@ -22,7 +22,7 @@ Ce processus est idéal pour les résidents hors UE ayant des membres de leur fa
 ## Procédure
 
 1. Le membre de la famille résidant en France doit prouver qu'il réside légalement en France depuis au moins 18 mois.
-2. Demander la réunification familiale auprès de l'Office français de l'immigration et de l'intégration (OFII). Plus d'informations peuvent être trouvées sur leur [site officiel](http://www.ofii.fr/).
+2. Demander la réunification familiale auprès de l'Office français de l'immigration et de l'intégration (OFII). Plus d'informations peuvent être trouvées sur leur [site officiel](https://www.ofii.fr/).
 3. Le résident français doit également fournir la preuve d'un logement approprié et de ressources suffisantes et stables pour subvenir aux besoins des membres de sa famille.
 4. La demande sera ensuite examinée par l'OFII et diverses autorités françaises.
 5. Si la demande est acceptée, le membre de la famille à l'étranger devra demander un visa de long séjour au Consulat de France dans son pays de résidence. Plus d'informations sur cette demande peuvent être trouvées sur le [site France Visas](https://france-visas.gouv.fr/).

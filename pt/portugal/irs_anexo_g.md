@@ -25,7 +25,7 @@ Qualquer indivíduo ou entidade que tenha realizado mais-valias com a venda de a
    - Certifique-se de ter os detalhes de todas as transações envolvendo a venda de ativos financeiros. Isso inclui datas de compra e venda, os montantes envolvidos e quaisquer custos ou taxas associadas.
 
 2. **Acesse o Portal das Finanças**:
-   - Acesse o site oficial do [Portal das Finanças](https://www.portaldasfinancas.gov.pt/) e faça login com as suas credenciais.
+   - Acesse o site oficial do [Portal das Finanças](https://www.portaldasfinancas.gov.pt/at/html/index.html) e faça login com as suas credenciais.
 
 3. **Navegue até a Secção de Declarações de IRS**:
    - Após o login, navegue até a secção de IRS e escolha a opção para iniciar uma nova declaração de IRS.

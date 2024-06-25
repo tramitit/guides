@@ -20,7 +20,7 @@ Zdravstveni karton u Hrvatskoj je dokument koji pruža dokaz prava na zdravstven
 Ovaj vodič je namijenjen strancima, digitalnim nomadima ili bilo kojim strancima koji planiraju boraviti u Hrvatskoj na dulje vrijeme i trebaju imati pristup zdravstvenim uslugama.
 
 ## Postupak
-1. Zatražite boravišnu dozvolu: Prije nego što se možete registrirati za zdravstvenu iskaznicu, prvo morate imati važeću boravišnu dozvolu. To možete učiniti podnošenjem zahtjeva lokalnoj policijskoj postaji ili [Ministarstvu unutarnjih poslova](http://www.mup.hr/1266.aspx).
+1. Zatražite boravišnu dozvolu: Prije nego što se možete registrirati za zdravstvenu iskaznicu, prvo morate imati važeću boravišnu dozvolu. To možete učiniti podnošenjem zahtjeva lokalnoj policijskoj postaji ili [Ministarstvu unutarnjih poslova](https://mup.gov.hr).
 
 2. Zatražite nacionalni identifikacijski broj (OIB): Nakon odobrenja vaše boravišne dozvole, dobit ćete OIB, koji je potreban za prijavu za zdravstvenu iskaznicu. Detalji o OIB brojevima mogu se pronaći [ovdje](http://www.porezna-uprava.hr/en/Pages/oib.aspx).
 

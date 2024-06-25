@@ -49,7 +49,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 ## Related Posts
 
 - [Subsidio Familiar en Colombia: Ayuda para Familias Necesitadas](https://tramitit.com/es/guides/colombia/solicitud_de_subsidio_familiar/)
-- [Registro en ICBF: Proceso y requisitos para adopción en Colombia](https://tramitit.com/es/guides/colombia/inscripción_en_el_icbf/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Registro en ICBF: Proceso y requisitos para adopción en Colombia](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_icbf/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
 - [Obtenga su Acta de Nacimiento en Colombia Fácilmente en Línea](https://tramitit.com/es/guides/colombia/registro_civil_de_nacimiento/)
-- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensión/)
+- [Asistencia sin esfuerzo para solicitar pensiones en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_pensi%C3%B3n/)

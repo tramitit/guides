@@ -50,6 +50,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 
 - [Registro de Marca en Colombia: Protege tu Identidad Comercial](https://tramitit.com/es/guides/colombia/registro_de_marca/)
 - [Registro de Propiedad en Colombia: Guía Completa y Requisitos](https://tramitit.com/es/guides/colombia/registro_de_propiedad/)
-- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripción_en_el_régimen_de_salud/)
-- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripción_en_el_sistema_de_educación_superior/)
-- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripción_al_sistema_de_seguridad_social/)
+- [Regístrese fácilmente en el Régimen de Salud de Colombia en línea](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_r%C3%A9gimen_de_salud/)
+- [Registro eficiente en la educación superior en Colombia](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_en_el_sistema_de_educaci%C3%B3n_superior/)
+- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_al_sistema_de_seguridad_social/)

@@ -23,7 +23,7 @@ Todo residente en España que haya obtenido ingresos en el año anterior debe pr
 
 1. El primer paso en el proceso de presentación es reunir toda la documentación relevante. Esto puede incluir su NIF español, documentación de sus ingresos (como talones de pago, por ejemplo), documentación de cualquier deducción que pueda tener, entre otros.
 
-2. Una vez que tenga todos sus documentos, acceda al portal de la Agencia Tributaria española: [Agencia Tributaria](https://www.agenciatributaria.es/)
+2. Una vez que tenga todos sus documentos, acceda al portal de la Agencia Tributaria española: [Agencia Tributaria](https://sede.agenciatributaria.gob.es)
 
 3. Navegue hasta la sección para presentar declaraciones de impuestos sobre la renta. Este proceso se realiza típicamente en línea a través del portal durante el período de presentación de impuestos (de abril a junio cada año). La agencia tributaria suele proporcionar los formularios prellenados, que puede confirmar o modificar según su situación particular.
 

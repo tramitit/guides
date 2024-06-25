@@ -20,7 +20,7 @@ This is especially designed for people who have lost their jobs and are currentl
 
 ## Procedure
 1. Ensure you meet the criteria: You must have been employed and have contributed to INPS (Italian National Institute of Social Security) for at least 13 weeks in the 4 years preceding the start of unemployment, and must have worked for at least 30 days in the last 12 months.
-2. Apply for NASpI: This must be done within 8 days after the last day of employment, or from the day the previous benefit stops. You can apply online by creating an account at [www.inps.it](http://www.inps.it).
+2. Apply for NASpI: This must be done within 8 days after the last day of employment, or from the day the previous benefit stops. You can apply online by creating an account at [www.inps.it](https://www.inps.it/).
 3. Attend the summons from the Job Center: After you've submitted your application, you will receive a summons from the local job center (Centro per l'Impiego). You are obligated to attend these meetings.
 4. Wait for approval: Your application will be reviewed by INPS. If approved, your benefits should start.
 

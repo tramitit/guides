@@ -46,7 +46,7 @@ _(Actualmente estamos buscando los mejores proveedores. Si eres un proveedor o c
 
 ## Related Posts
 
-- [Registro del Sistema de Salud de Chile - Guía de Pasos Sencillos](https://tramitit.com/es/guides/chile/inscripción_al_sistema_de_salud/)
+- [Registro del Sistema de Salud de Chile - Guía de Pasos Sencillos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sistema_de_salud/)
 - [Certificados de Autenticidad de Documentos en Chile](https://tramitit.com/es/guides/chile/certificado_de_autenticidad_de_documentos/)
 - [Guía para obtener un certificado de discapacidad en Chile](https://tramitit.com/es/guides/chile/certificado_de_discapacidad/)
 - [Obtén fácilmente tu Certificado de Residencia en Chile](https://tramitit.com/es/guides/chile/certificado_de_residencia/)

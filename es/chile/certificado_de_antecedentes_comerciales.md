@@ -50,6 +50,6 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres o conoces a
 
 - [Servicio en línea de Verificación de Antecedentes Laborales en Chile](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_laborales/)
 - [Obtén tu Certificado de Antecedentes Penales en Chile](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_penales/)
-- [Certificado de Antecedentes de Tránsito en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_de_tránsito/)
-- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripción_en_el_registro_público_de_comercio/)
+- [Certificado de Antecedentes de Tránsito en Chile: Guía Completa](https://tramitit.com/es/guides/chile/certificado_de_antecedentes_de_tr%C3%A1nsito/)
+- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripci%C3%B3n_en_el_registro_p%C3%BAblico_de_comercio/)
 - [Certificados de Autenticidad de Documentos en Chile](https://tramitit.com/es/guides/chile/certificado_de_autenticidad_de_documentos/)

@@ -52,6 +52,6 @@ _(Atualmente estamos selecionando os melhores prestadores. Se você é ou conhec
 
 - [Cartão Nacional de Identidade - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/documento_de_identidade/)
 - [Alistamento Militar no Brasil: Guia Completo e Atualizado](https://tramitit.com/pt/guides/brazil/alistamento_militar/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_alvar%C3%A1/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)
 - [Como Obter Seu Certificado de Serviço Militar Brasileiro](https://tramitit.com/pt/guides/brazil/certificado_de_reservista/)

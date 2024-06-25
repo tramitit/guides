@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando los mejores proveedores. Si eres o conoces a
 - Guarda copias de todos los documentos enviados para tus registros.
 ## Related Posts
 
-- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilación/)
-- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_seguro_social/)
+- [Servicio de Solicitud de Jubilación en Argentina Hecho Fácil](https://tramitit.com/es/guides/argentina/solicitud_de_jubilaci%C3%B3n/)
+- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_seguro_social/)
 - [Subsidio por Desempleo en Argentina: Guía Completa y Requisitos](https://tramitit.com/es/guides/argentina/solicitud_de_subsidio_de_desempleo/)
 - [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
-- [Registro en PAMI en Argentina - Guía completa paso a paso](https://tramitit.com/es/guides/argentina/inscripción_al_pami/)
+- [Registro en PAMI en Argentina - Guía completa paso a paso](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_pami/)

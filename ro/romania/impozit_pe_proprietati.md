@@ -23,7 +23,7 @@ Orice persoană sau entitate care deține proprietăți imobiliare cum ar fi cas
 Pentru a plăti impozitul pe proprietate în România, trebuie să urmați câteva pași:
 1. Evaluate proprietatea pe baza tarifelor de piață actuale, eventual cu ajutorul unui profesionist.
 2. Calculați impozitul datorat în funcție de valoarea proprietății și rata de impozitare curentă. Asigurați-vă că luați în considerare scutirile fiscale dacă sunteți eligibil.
-3. Vizitați biroul local al autorității fiscale sau platforma lor online. În România, acest lucru poate fi făcut pe platforma online [ghiseul.ro](https://ghiseul.ro/).
+3. Vizitați biroul local al autorității fiscale sau platforma lor online. În România, acest lucru poate fi făcut pe platforma online [ghiseul.ro](https://www.ghiseul.ro/ghiseul/public/).
 4. Completați formularul de declarație a impozitului pe proprietate, incluzând toate detaliile necesare.
 5. Plătiți impozitul datorat, fie online, fie la biroul autorității fiscale.
 

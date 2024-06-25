@@ -19,7 +19,7 @@ The National Health Service (Servizio Sanitario Nazionale, SSN) in Italy is a pu
 Anyone who is a resident in Italy, is eligible to register with the SSN. This includes Italian citizens, EU citizens, and non-EU citizens with a residence permit.
 
 ## Procedure
-1. Visit your local health authority office (Azienda Sanitaria Locale / ASL). Find your local ASL using this link: [ASL Locator](http://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=3680&area=Le%20ASL&menu=vuoto)
+1. Visit your local health authority office (Azienda Sanitaria Locale / ASL). Find your local ASL using this link: [ASL Locator](https://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=3680&area=Le%20ASL&menu=vuoto)
 2. Complete a registration form for the SSN – ensure you have all required documents. 
 3. Choose a family doctor from a list provided - known as a ‘medico di base’ or ‘medico di famiglia’.
 4. Once your registration is processed, you receive a health insurance card (tessera sanitaria) in the mail.

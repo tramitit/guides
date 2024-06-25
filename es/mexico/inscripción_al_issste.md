@@ -46,8 +46,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 - Tener todos los documentos requeridos de antemano puede agilizar el proceso de inscripción.
 ## Related Posts
 
-- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripción_al_imss/)
+- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_al_imss/)
 - [Gestión de Seguridad Social en México para Expatriados](https://tramitit.com/es/guides/mexico/seguro_social/)
-- [Guía para Solicitar Pensiones en México y Navegar Afore](https://tramitit.com/es/guides/mexico/solicitud_de_pensión/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Guía para Solicitar Pensiones en México y Navegar Afore](https://tramitit.com/es/guides/mexico/solicitud_de_pensi%C3%B3n/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/tr%C3%A1mite_de_visa_de_trabajo/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_a_educaci%C3%B3n_superior/)

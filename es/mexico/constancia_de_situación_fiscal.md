@@ -46,8 +46,8 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres un proveedo
 - Los expatriados a menudo necesitan este certificado para aclarar sus obligaciones fiscales tanto en México como en sus países de origen.
 ## Related Posts
 
-- [Obtén Tu RFC en México - Guía Rápida y Fácil para Residentes](https://tramitit.com/es/guides/mexico/inscripción_al_rfc/)
+- [Obtén Tu RFC en México - Guía Rápida y Fácil para Residentes](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_al_rfc/)
 - [Cómo obtener tu Comprobante de Residencia en México](https://tramitit.com/es/guides/mexico/carta_de_residencia/)
 - [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
 - [Obtén tu Certificado de Matrimonio Oficial en México](https://tramitit.com/es/guides/mexico/acta_de_matrimonio/)
-- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalización_de_documentos/)
+- [Servicios eficientes de legalización de documentos en México](https://tramitit.com/es/guides/mexico/legalizaci%C3%B3n_de_documentos/)

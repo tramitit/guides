@@ -46,8 +46,8 @@ _(Atualmente estamos selecionando os melhores prestadores. Se você é um presta
 - Utilize serviços credenciados ou aconselhamento jurídico se tiver dúvidas sobre quaisquer requisitos ou etapas.
 ## Related Posts
 
-- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_pensão_por_morte/)
-- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previdência_social/)
-- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicitação_de_nacionalidade/)
-- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emissão_de_alvará/)
+- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_pens%C3%A3o_por_morte/)
+- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previd%C3%AAncia_social/)
+- [Obtenha Nacionalidade Brasileira com Suporte Personalizado](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_nacionalidade/)
+- [Serviços de Emissão de Permissão sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/emiss%C3%A3o_de_alvar%C3%A1/)
 - [Seguro Desemprego no Brasil - Como Solicitar e Qualificar](https://tramitit.com/pt/guides/brazil/seguro_desemprego/)

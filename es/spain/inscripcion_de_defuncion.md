@@ -44,8 +44,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 ## Related Posts
 
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
-- [Certificado de Últimas Voluntades: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_actos_de_última_voluntad/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunci%C3%B3n/)
+- [Certificado de Últimas Voluntades: Procedimiento y Requisitos](https://tramitit.com/es/guides/spain/certificado_de_actos_de_%C3%BAltima_voluntad/)
 - [Cómo obtener un Certificado de Últimas Voluntades en España](https://tramitit.com/es/guides/spain/obtencion_del_certificado_de_ultimas_voluntades/)
 - [Registro de nacimiento en España: Procedimiento y requisitos](https://tramitit.com/es/guides/spain/inscripcion_de_nacimiento/)
 - [Cómo Obtener un Certificado de Nacimiento en España](https://tramitit.com/es/guides/spain/certificado_de_nacimiento/)

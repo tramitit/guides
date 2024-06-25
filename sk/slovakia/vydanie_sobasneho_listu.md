@@ -20,7 +20,7 @@ Manželský certifikát je oficiálny dokument, ktorý zákonne uznáva dve osob
 Každý, kto sa oženil na Slovensku alebo slovenskí občania, ktorí sa zosobášili v zahraničí a potrebujú oficiálne potvrdenie o ich manželskom stave.
 
 ## Postup
-1. Kontaktujte matričný úrad relevantný pre vaše miesto. Pre nájdenie vhodného matričného úradu, kliknite na tento odkaz: [Matričné úrady na Slovensku](https://www.slovensko.sk/sk/contacts/).
+1. Kontaktujte matričný úrad relevantný pre vaše miesto. Pre nájdenie vhodného matričného úradu, kliknite na tento odkaz: [Matričné úrady na Slovensku](https://www.slovensko.sk/static/common/generic-error.html).
 2. Podajte žiadosť o manželský certifikát osobne. Na podanie by mali byť prítomní obaja manželia.
 3. Predložte všetky potrebné dokumenty potrebné na vydanie manželského certifikátu.
 4. Matričný úrad spracuje vašu žiadosť.

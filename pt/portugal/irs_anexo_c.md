@@ -24,7 +24,7 @@ Profissionais independentes e proprietários de negócios em Portugal que tenham
     - Reúna todos os recibos e documentos relacionados com os seus rendimentos e despesas por conta própria para o ano fiscal.
 
 2. **Aceder ao Portal das Finanças**
-    - Acesse o [portal da Autoridade Tributária e Aduaneira](https://www.portaldasfinancas.gov.pt/) com as suas credenciais.
+    - Acesse o [portal da Autoridade Tributária e Aduaneira](https://www.portaldasfinancas.gov.pt/at/html/index.html) com as suas credenciais.
 
 3. **Navegar até à Secção de Entrega de IRS**
     - Selecione a opção para submeter a sua declaração de IRS.

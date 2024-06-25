@@ -51,5 +51,5 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 - [Baja por Paternidad en España: Procedimiento y Prestaciones](https://tramitit.com/es/guides/spain/solicitud_de_la_baja_por_paternidad/)
 - [Beneficio por Desempleo en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_prestacion_por_desempleo/)
 - [Subsidio por Hijo en España: Requisitos, Procedimiento y Beneficios](https://tramitit.com/es/guides/spain/solicitar_prestaciones_por_hijo_a_cargo/)
-- [Extensión de Estancia Corta en España: Guía Completa](https://tramitit.com/es/guides/spain/prórroga_de_estancia_de_corta_duración/)
+- [Extensión de Estancia Corta en España: Guía Completa](https://tramitit.com/es/guides/spain/pr%C3%B3rroga_de_estancia_de_corta_duraci%C3%B3n/)
 - [Pensión de Jubilación en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/solicitud_de_pension_de_jubilacion/)

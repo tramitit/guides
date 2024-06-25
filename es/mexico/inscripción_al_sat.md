@@ -50,8 +50,8 @@ _(Estamos actualmente seleccionando a los mejores proveedores. Si eres o conoces
 - Si encuentras problemas, contacta al servicio al cliente de College Board para obtener ayuda.
 ## Related Posts
 
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_a_educaci%C3%B3n_superior/)
 - [Obtén tu Certificado de Estudios en México sin Problemas](https://tramitit.com/es/guides/mexico/certificado_de_estudios/)
 - [Guía completa para solicitar becas en México - Paso a paso](https://tramitit.com/es/guides/mexico/solicitud_de_beca/)
 - [Servicio de Registro de Vehículos en México de Swift](https://tramitit.com/es/guides/mexico/registro_vehicular/)
-- [Certificado de Situación Fiscal en México - ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/mexico/constancia_de_situación_fiscal/)
+- [Certificado de Situación Fiscal en México - ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/mexico/constancia_de_situaci%C3%B3n_fiscal/)

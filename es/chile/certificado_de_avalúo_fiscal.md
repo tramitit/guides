@@ -47,8 +47,8 @@ _(Actualmente estamos recopilando los mejores proveedores. Si eres o conoces a u
 
 ## Related Posts
 
-- [Obtén tu Certificado de Situación Tributaria en Chile](https://tramitit.com/es/guides/chile/certificado_de_situación_tributaria/)
+- [Obtén tu Certificado de Situación Tributaria en Chile](https://tramitit.com/es/guides/chile/certificado_de_situaci%C3%B3n_tributaria/)
 - [Obtenga fácilmente el Certificado de Cumplimiento Tributario Chileno](https://tramitit.com/es/guides/chile/certificado_de_cumplimiento_tributario/)
-- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripción_al_sii/)
+- [Registro del Servicio de Impuestos Internos (SII) en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_al_sii/)
 - [Certificados de Autenticidad de Documentos en Chile](https://tramitit.com/es/guides/chile/certificado_de_autenticidad_de_documentos/)
-- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_propiedad/)
+- [Servicios Eficientes de Registro de Propiedades en Chile](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_propiedad/)

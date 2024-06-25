@@ -18,7 +18,7 @@ This service is ideal for individuals, particularly foreigners, who are planning
 ## Procedure
 
 1. Obtain a confirmation of your single status from your home country, often available from local municipal or registry offices.
-2. Have the document legalized or apostilled as per the requirements of your home country (useful resources: [Venezuelan document apostille guide](https://www.reddit.com/r/vzla/wiki/tramites/legalizaciondocumentoscivilesapostilla/)).
+2. Have the document legalized or apostilled as per the requirements of your home country (useful resources: [Venezuelan document apostille guide](https://www.reddit.com/r/vzla/wiki/tramites/legalizaciondocumentoscivilesapostilla/?rdt=46994)).
 3. Translate the document into Spanish by an authorized translator if it is not already in Spanish.
 4. Submit the translated document to Chilean authorities, such as the Civil Registry and Identification Service (Registro Civil e Identificación).
 5. Await verification and issuance of the Single Status Certificate by Chilean authorities.

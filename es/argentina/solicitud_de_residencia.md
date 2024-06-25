@@ -52,4 +52,4 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - [Obtén tu pasaporte argentino en Argentina rápidamente](https://tramitit.com/es/guides/argentina/pasaporte_argentino/)
 - [Guía Completa para Obtener una Visa de Trabajo en Argentina](https://tramitit.com/es/guides/argentina/solicitud_de_visa_de_trabajo/)
 - [Servicio de Certificado de Matrimonio en Argentina - Fácil y Rápido](https://tramitit.com/es/guides/argentina/certificado_de_matrimonio/)
-- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/es/guides/argentina/renovación_de_pasaporte/)
+- [Renovación rápida y fácil de pasaporte en Argentina](https://tramitit.com/es/guides/argentina/renovaci%C3%B3n_de_pasaporte/)

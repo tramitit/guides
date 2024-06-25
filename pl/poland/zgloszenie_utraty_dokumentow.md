@@ -22,7 +22,7 @@ Każda osoba przebywająca w Polsce, bez względu na obywatelstwo, która utraci
 
 1. Pierwszym krokiem w przypadku zgłoszenia utraty oficjalnego dokumentu jest udanie się na najbliższą komisariat policji, aby zgłosić zaginięcie dokumentu. 
 
-2. Kolejnym krokiem jest udanie się do urzędu wojewódzkiego. Dla mieszkańców Krakowa jest to urząd Województwa Małopolskiego ([link](http://www.malopolska.uw.gov.pl/default.aspx?page=Start)). Dla mieszkańców Warszawy będzie to urząd Województwa Mazowieckiego ([link](http://www.mazowieckie.pl/en/)).
+2. Kolejnym krokiem jest udanie się do urzędu wojewódzkiego. Dla mieszkańców Krakowa jest to urząd Województwa Małopolskiego ([link](http://www.malopolska.uw.gov.pl/index.aspx?page=Start)). Dla mieszkańców Warszawy będzie to urząd Województwa Mazowieckiego ([link](http://www.mazowieckie.pl/en/)).
 
 3. Będziesz musiał/a przynieść kopię raportu policyjnego i wypełnić wniosek o wydanie zastępczego dokumentu.
 

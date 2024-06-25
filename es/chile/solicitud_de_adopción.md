@@ -61,4 +61,4 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 - [Guía Completa para Obtener una Visa de Trabajo en Chile](https://tramitit.com/es/guides/chile/solicitud_de_visa_de_trabajo/)
 - [Servicio de Asistencia Simple para Cambio de Nombre en Chile](https://tramitit.com/es/guides/chile/cambio_de_nombre/)
 - [Servicio de Pasaporte Chileno en Chile - Pasos Fáciles y Requisitos](https://tramitit.com/es/guides/chile/pasaporte_chileno/)
-- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_civil/)
+- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_civil/)

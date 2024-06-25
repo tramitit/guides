@@ -47,7 +47,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres un provee
 ## Related Posts
 
 - [Obtenga su Certificado de Antecedentes Disciplinarios fácilmente](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_disciplinarios/)
-- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tránsito/)
+- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tr%C3%A1nsito/)
 - [Certificado Judicial de Antecedentes en Colombia sin Esfuerzo](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_judiciales/)
 - [Guía simplificada para obtener un Certificado Catastral en Colombia](https://tramitit.com/es/guides/colombia/certificado_catastral/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)

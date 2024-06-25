@@ -51,8 +51,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 
 ## Related Posts
 
-- [Obtenga su Permiso de Construcción en Chile Fácilmente](https://tramitit.com/es/guides/chile/permiso_de_construcción/)
-- [Solicitud de Permiso de Circulación sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/permiso_de_circulación/)
-- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripción_en_el_registro_público_de_comercio/)
-- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_de_comercio/)
+- [Obtenga su Permiso de Construcción en Chile Fácilmente](https://tramitit.com/es/guides/chile/permiso_de_construcci%C3%B3n/)
+- [Solicitud de Permiso de Circulación sin Esfuerzo en Chile](https://tramitit.com/es/guides/chile/permiso_de_circulaci%C3%B3n/)
+- [Obtenga su Certificado de Registro de Comercio Público en Chile](https://tramitit.com/es/guides/chile/certificado_de_inscripci%C3%B3n_en_el_registro_p%C3%BAblico_de_comercio/)
+- [Registro de Comercio en Chile: Guía Completa para Empresas](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_de_comercio/)
 - [Obtén fácilmente tu Certificado de Residencia en Chile](https://tramitit.com/es/guides/chile/certificado_de_residencia/)

@@ -21,7 +21,7 @@ Qualquer pessoa (indivíduos ou organizações) registada em Portugal que precis
 
 ## Procedimento
 Abaixo está o procedimento geral para solicitar uma mudança nos Dados de NIF:
-1. Visite o site da Autoridade Tributária e Aduaneira: [Link Aqui](https://www.portaldasfinancas.gov.pt/).
+1. Visite o site da Autoridade Tributária e Aduaneira: [Link Aqui](https://www.portaldasfinancas.gov.pt/at/html/index.html).
 2. Faça login usando seu número de NIF pessoal e senha.
 3. Vá para a aba "Os Seus Serviços".
 4. Clique em "Alterar a Situação Fiscal".

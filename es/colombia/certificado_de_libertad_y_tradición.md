@@ -48,7 +48,7 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 ## Related Posts
 
 - [Guía simplificada para obtener un Certificado Catastral en Colombia](https://tramitit.com/es/guides/colombia/certificado_catastral/)
-- [Obtenga fácilmente su Certificado de Soltería en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_soltería/)
-- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalización_de_documentos/)
+- [Obtenga fácilmente su Certificado de Soltería en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_solter%C3%ADa/)
+- [Legalización de Documentos en Colombia - Servicio Fácil y Rápido](https://tramitit.com/es/guides/colombia/certificado_de_legalizaci%C3%B3n_de_documentos/)
 - [Registro de Propiedad en Colombia: Guía Completa y Requisitos](https://tramitit.com/es/guides/colombia/registro_de_propiedad/)
-- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tránsito/)
+- [Obtenga su Certificado de Antecedentes de Tránsito en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_antecedentes_de_tr%C3%A1nsito/)

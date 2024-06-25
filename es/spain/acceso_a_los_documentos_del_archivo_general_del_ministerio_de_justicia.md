@@ -25,7 +25,7 @@ Las personas que pueden necesitar acceder a estos documentos incluyen genealogis
    - Identificar el tipo de documento que necesitas, como certificados de nacimiento, licencias de matrimonio o registros judiciales.
 
 2. **Visitar el Sitio Web Oficial:**
-   - Accede a la sección de archivo general del Ministerio de Justicia a través de su portal oficial: [Ministerio de Justicia - Archivo General](https://www.mjusticia.gob.es/).
+   - Accede a la sección de archivo general del Ministerio de Justicia a través de su portal oficial: [Ministerio de Justicia - Archivo General](https://www.mjusticia.gob.es/es).
 
 3. **Registrarse para los Servicios en Línea:**
    - Crea una cuenta en la plataforma para solicitar acceso a documentos.
@@ -74,4 +74,4 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres un proveedo
 - [Cómo Obtener tu Certificado de Antecedentes Penales en España](https://tramitit.com/es/guides/spain/certificado_de_antecedentes_penales/)
 - [Cómo Obtener el Certificado de Delitos de Naturaleza Sexual](https://tramitit.com/es/guides/spain/certificado_de_delitos_de_naturaleza_sexual/)
 - [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
-- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunción/)
+- [Certificado de Defunción en España: ¿Qué es y cómo obtenerlo?](https://tramitit.com/es/guides/spain/certificado_de_defunci%C3%B3n/)

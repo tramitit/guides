@@ -43,7 +43,7 @@ _(Estamos actualmente seleccionando a los mejores proveedores. Si eres un provee
 ## Related Posts
 
 - [Reexpedición de Placas de Matrícula en México: Guía Completa](https://tramitit.com/es/guides/mexico/reemplacamiento/)
-- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/es/guides/mexico/expedición_de_duplicado_de_licencia_de_conducir/)
+- [Emisión de Licencia de Conducir Duplicada en México](https://tramitit.com/es/guides/mexico/expedici%C3%B3n_de_duplicado_de_licencia_de_conducir/)
 - [Servicio de Registro de Vehículos en México de Swift](https://tramitit.com/es/guides/mexico/registro_vehicular/)
 - [Cómo obtener y validar una licencia de conducir en México](https://tramitit.com/es/guides/mexico/licencia_de_conducir/)
-- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulación/)
+- [Obtenga un Permiso de Circulación en México Fácilmente](https://tramitit.com/es/guides/mexico/permiso_de_circulaci%C3%B3n/)

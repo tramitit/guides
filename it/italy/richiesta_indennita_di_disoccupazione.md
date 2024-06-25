@@ -21,7 +21,7 @@ L'indennità di disoccupazione in Italia, nota anche come NASpI (Nuova Assicuraz
 
 ## Procedura
 1. Assicurati di soddisfare i criteri: Devi aver lavorato e contribuito all'INPS (Istituto Nazionale della Previdenza Sociale) per almeno 13 settimane nei 4 anni precedenti l'inizio della disoccupazione, e devi aver lavorato per almeno 30 giorni negli ultimi 12 mesi.
-2. Fai richiesta per la NASpI: Questo deve essere fatto entro 8 giorni dal giorno dell'ultimo giorno di lavoro, o dal giorno in cui terminano i benefici precedenti. Puoi fare domanda online creando un account su [www.inps.it](http://www.inps.it).
+2. Fai richiesta per la NASpI: Questo deve essere fatto entro 8 giorni dal giorno dell'ultimo giorno di lavoro, o dal giorno in cui terminano i benefici precedenti. Puoi fare domanda online creando un account su [www.inps.it](https://www.inps.it/).
 3. Partecipa alla convocazione del Centro per l'Impiego: Dopo aver presentato la tua domanda, riceverai una convocazione dal centro per l'impiego locale. Sei obbligato a partecipare a questi incontri.
 4. Aspetta l'approvazione: La tua domanda verrà esaminata dall'INPS. Se approvata, i tuoi benefici dovrebbero cominciare.
 

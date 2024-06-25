@@ -47,7 +47,7 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 ## Related Posts
 
 - [Servicio Eficiente de Certificado de Nacimiento en Chile](https://tramitit.com/es/guides/chile/certificado_de_nacimiento/)
-- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripción_en_el_registro_civil/)
-- [Servicio rápido y fácil de renovación de cédula de identidad en Chile](https://tramitit.com/es/guides/chile/renovación_de_cédula_de_identidad/)
-- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/cédula_de_identidad/)
+- [Servicio de Registro Civil en Chile: Procedimiento y Requisitos](https://tramitit.com/es/guides/chile/inscripci%C3%B3n_en_el_registro_civil/)
+- [Servicio rápido y fácil de renovación de cédula de identidad en Chile](https://tramitit.com/es/guides/chile/renovaci%C3%B3n_de_c%C3%A9dula_de_identidad/)
+- [Renueva y obtén tu cédula de identidad en Chile fácilmente](https://tramitit.com/es/guides/chile/c%C3%A9dula_de_identidad/)
 - [Guía Completa para Obtener la Nacionalidad Chilena Paso a Paso](https://tramitit.com/es/guides/chile/solicitud_de_nacionalidad/)

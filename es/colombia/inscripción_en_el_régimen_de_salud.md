@@ -46,8 +46,8 @@ _(Estamos seleccionando a los mejores proveedores. Si eres un proveedor o conoce
 
 ## Related Posts
 
-- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripción_al_sistema_de_seguridad_social/)
-- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedición_de_tarjeta_de_identidad/)
+- [Registrarse en el Seguro Social en Colombia - Guía Paso a Paso](https://tramitit.com/es/guides/colombia/inscripci%C3%B3n_al_sistema_de_seguridad_social/)
+- [Obtenga su Cédula de Identidad en Colombia - Pasos Fáciles](https://tramitit.com/es/guides/colombia/expedici%C3%B3n_de_tarjeta_de_identidad/)
 - [Asesoramiento experto para la visa de residencia en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_visa_de_residencia/)
-- [Servicios de Solicitud de Jubilación Fácil en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_jubilación/)
+- [Servicios de Solicitud de Jubilación Fácil en Colombia](https://tramitit.com/es/guides/colombia/solicitud_de_jubilaci%C3%B3n/)
 - [Obtenga fácilmente su Certificado de Residencia en Colombia](https://tramitit.com/es/guides/colombia/certificado_de_residencia/)

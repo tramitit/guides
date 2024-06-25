@@ -19,7 +19,7 @@ A parking permit allows individuals to park their vehicles in designated parking
 The parking permit is essential for residents and tourists planning to use their own or rental cars to drive around Prague or other cities in the Czech Republic. Particularly, those wishing to park their cars for an extended period in designated parking zones. 
 
 ## Procedure
-1. Determine the parking zone where you will attach your permit. Each parking zone corresponds to different neighborhood districts. You can check the zones [here](http://www.parkujvklidu.cz/praha/mapa/#mapaZon).
+1. Determine the parking zone where you will attach your permit. Each parking zone corresponds to different neighborhood districts. You can check the zones [here](https://parking.praha.eu/cs/moznosti-parkovani-v-praze/#mapaZon).
 
 2. Gather all the required documents. 
 

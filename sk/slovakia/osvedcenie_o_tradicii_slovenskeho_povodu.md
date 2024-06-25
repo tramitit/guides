@@ -24,7 +24,7 @@ Osoby s slovenskými predkami, ktoré sa snažia preukázať svoje dedičstvo al
 2. Zbierajte a organizujte primárne dokumenty. Takéto dokumenty zahŕňajú rodné, úmrtiové alebo sobášne listy vašich slovenských predkov.
 3. Zhromaždite ďalšie sekundárne zdroje, ktoré by mohli pomôcť pri preukazovaní vášho predkovstva, ako sú rodinné fotografie alebo listy.
 4. Kontaktujte veľvyslanectvo alebo konzulát Slovenska vo vašej krajine.
-   - [Veľvyslanectvo Slovenska v USA](http://www.mzv.sk/washington)
+   - [Veľvyslanectvo Slovenska v USA](https://www.mzv.sk:443/washington)
    - [Veľvyslanectvo Slovenska vo VB](http://www.mzv.sk/london)
 5. Odovzdajte svoju žiadosť spolu so všetkými potrebnými dokumentmi. Veľvyslanectvo alebo konzulát vás bude sprevádzať procesom a informovať vás o akýchkoľvek dodatočných požiadavkách alebo poplatkoch.
 

@@ -20,7 +20,7 @@ Refere-se à isenção do IMI (Imposto Municipal sobre Imóveis), um imposto mun
 Donos de propriedades em Portugal que residem em sua própria propriedade como residência permanente.
 
 ## Procedimento
-1. Visite o site da Autoridade Tributária e Aduaneira de Portugal, você precisa estar registrado no site e ter acesso às suas finanças: [https://www.portaldasfinancas.gov.pt/](https://www.portaldasfinancas.gov.pt/)
+1. Visite o site da Autoridade Tributária e Aduaneira de Portugal, você precisa estar registrado no site e ter acesso às suas finanças: [https://www.portaldasfinancas.gov.pt/](https://www.portaldasfinancas.gov.pt/at/html/index.html)
 2. Acesse a aba "Serviços".
 3. Vá para "Todos os serviços."
 4. Clique em "Entregar" e depois em "Pedido."

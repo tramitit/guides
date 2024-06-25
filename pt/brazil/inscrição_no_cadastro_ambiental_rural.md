@@ -44,8 +44,8 @@ _(Estamos atualmente pesquisando os melhores prestadores. Se você é ou conhece
 - Guarde uma cópia do seu número de registro e confirmação para referência futura.
 ## Related Posts
 
-- [Serviços de Crédito Rural no Brasil - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/solicitação_de_crédito_rural/)
-- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_imóveis/)
-- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscrição_em_concursos_públicos/)
-- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_único/)
-- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_veículo/)
+- [Serviços de Crédito Rural no Brasil - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_cr%C3%A9dito_rural/)
+- [Registro de Propriedade no Brasil - Guia Completo e Essencial](https://tramitit.com/pt/guides/brazil/registro_de_im%C3%B3veis/)
+- [Registro de Licitação Pública - Guia Completo e Procedimentos](https://tramitit.com/pt/guides/brazil/inscri%C3%A7%C3%A3o_em_concursos_p%C3%BAblicos/)
+- [Guia Abrangente do Programa de Cadastro Único do Brasil](https://tramitit.com/pt/guides/brazil/cadastro_%C3%BAnico/)
+- [Processo Simplificado de Licenciamento de Veículos no Brasil](https://tramitit.com/pt/guides/brazil/licenciamento_de_ve%C3%ADculo/)

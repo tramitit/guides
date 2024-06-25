@@ -23,7 +23,7 @@ Los autónomos y propietarios de pequeñas empresas en España que obtienen ingr
 
 1. **Recopilar la Información Necesaria**: Antes de comenzar, recoja todas las facturas y documentos relevantes relacionados con sus ingresos y gastos del trimestre.
 
-2. **Acceder al Formulario Modelo 130**: Obtenga el formulario del sitio web de la Agencia Tributaria española. Puede descargar el formulario directamente desde su [sitio oficial](https://www.agenciatributaria.es/).
+2. **Acceder al Formulario Modelo 130**: Obtenga el formulario del sitio web de la Agencia Tributaria española. Puede descargar el formulario directamente desde su [sitio oficial](https://sede.agenciatributaria.gob.es).
 
 3. **Completar la Información Personal**: Ingrese sus datos personales, incluyendo su nombre completo, dirección y NIF (Número de Identificación Fiscal).
 

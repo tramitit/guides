@@ -19,7 +19,7 @@ Temporary residence registration is the process by which foreigners living in an
 This service is primarily aimed at individuals who are not citizens of Croatia but plan to live, work, or study there for an extended period.
 
 ## Procedure
-1. First, download and fill in the residence registration form. Here is the [link](https://www.mup.hr/gradjani/stranci) to the form and [guide on how to fill it](https://www.mup.hr/gradjani/stranci/135).
+1. First, download and fill in the residence registration form. Here is the [link](https://mup.gov.hr) to the form and [guide on how to fill it](https://mup.gov.hr).
 2. Gather necessary documentation (please find the list below).
 3. Take the form and your documentation to a local police station or administrative services center.
 4. If everything is in order, you should receive a temporary residence stamp in your passport and a certificate of registration of temporary residence.

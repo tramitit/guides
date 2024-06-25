@@ -26,7 +26,7 @@ It is designed primarily for Italian citizens, European Union citizens, and some
 
 3. The form can be found and submitted in one of the [CAF (Centro Assistenza Fiscale)](https://www.caf.cgil.it/) offices.
 
-4. The request, accompanied by the necessary documentation, can also be submitted online through the INPS [website](https://www.inps.it), or in-person at INPS offices. 
+4. The request, accompanied by the necessary documentation, can also be submitted online through the INPS [website](https://www.inps.it/), or in-person at INPS offices. 
 
 ## Required Documents
 

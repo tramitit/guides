@@ -21,7 +21,7 @@ Que vous soyez une personne internationale prévoyant de rester en France pendan
 ## Procédure
 1. Validez votre éligibilité - L'exigence principale pour obtenir un permis de conduire français est la résidence. Cependant, vous devez également avoir au moins 18 ans ou plus.
 2. Si vous possédez un permis de conduire étranger, vous devez d'abord vérifier s'il existe un accord de réciprocité entre la France et votre pays d'origine, pour échanger votre permis existant sans avoir besoin de tests.
-3. Si un tel accord existe, vous devez suivre le processus d'échange de permis de conduire étranger sur le site web de l'ANTS (Agence Nationale des Titres Sécurisés). [ANTS](https://permisdeconduire.ants.gouv.fr/)
+3. Si un tel accord existe, vous devez suivre le processus d'échange de permis de conduire étranger sur le site web de l'ANTS (Agence Nationale des Titres Sécurisés). [ANTS](https://csirt.docapost.fr/index.php/Information_de_s%C3%A9curit%C3%A9_ANTS?_event_transid=1630592401)
 4. Soumettez les documents nécessaires. Après avoir fait une demande sur le site web de l'ANTS, vous devrez envoyer votre permis de conduire étranger ainsi que d'autres documents justificatifs. L'ANTS vérifiera ensuite l'authenticité des documents.
 5. Si la France et votre pays n'ont pas d'accord de réciprocité, vous devrez demander un permis de conduire français après avoir réussi un test théorique écrit et un examen de conduite pratique.
 

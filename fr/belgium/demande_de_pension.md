@@ -21,7 +21,7 @@ Tout employé qui va prendre sa retraite ou qui a atteint l'âge légal de la re
 ## Procédure
 1. Déterminez votre éligibilité: Vérifiez l'âge légal de la retraite et si vous remplissez les conditions d'admissibilité pour les prestations de pension en Belgique. Vous pouvez vérifier votre éligibilité sur ce [site officiel](https://socialsecurity.belgium.be/en).
 2. Rassemblez les documents nécessaires: Préparez les documents nécessaires pour la demande. Cela inclurait généralement une sélection de documents personnels et professionnels, dont certains sont mentionnés dans la section Documents requis.
-3. Faites une demande en ligne: Vous pouvez demander votre retraite en ligne auprès du service de pension belge [MyPension](https://www.mypension.be/en) en utilisant votre lecteur de carte d'identité électronique.
+3. Faites une demande en ligne: Vous pouvez demander votre retraite en ligne auprès du service de pension belge [MyPension](https://www.mypension.be) en utilisant votre lecteur de carte d'identité électronique.
 4. Confirmation: Une fois votre demande acceptée, vous recevrez une confirmation.
 
 ## Documents requis

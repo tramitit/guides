@@ -23,7 +23,7 @@ Ce complément est idéal pour les parents actifs ou étudiants ayant des enfant
 2. Contactez Pajemploi, un service proposé par l'Urssaf pour simplifier les démarches des parents utilisant des assistantes maternelles à domicile.
     - Vous pouvez visiter leur site web [ici](https://www.pajemploi.urssaf.fr/pajewebinfo/cms/sites/pajewebinfo/accueil/index.html)
 3. Enregistrez votre assistante maternelle ou votre micro-crèche auprès de Pajemploi.
-4. Remplissez votre quotient familial via votre espace personnel en ligne en suivant ce [lien](https://www.caf.fr/allocataires/droits-et-prestations/s-informer-sur-les-aides/petite-enfance/le-complement-libre-choix-du-mode-de-garde)
+4. Remplissez votre quotient familial via votre espace personnel en ligne en suivant ce [lien](https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations)
 5. Déposez votre demande de Complément de Mode de Garde auprès de la Caisse d'Allocations Familiales (CAF).
 6. Attendez votre relevé de prestations de la CAF (généralement reçu dans les 2 semaines).
 7. Payez votre prestataire de garde d'enfants via Pajemploi. Vos prestations de la CAF seront automatiquement déduites de votre paiement.
@@ -44,7 +44,7 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 
 ## Détails supplémentaires
 - Sachez que le montant de votre complément dépendra de vos revenus, du nombre d'enfants, de l'âge des enfants et du nombre d'heures de garde nécessaires.
-- Vous pouvez estimer le montant de votre complément avec le simulateur en ligne sur le site de la [CAF](https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lecomplementdulibrechoixdumodedegarde)
+- Vous pouvez estimer le montant de votre complément avec le simulateur en ligne sur le site de la [CAF](https://wwwd.caf.fr/wps/portal/caffr/login/!ut/p/z1/hY_NCsIwEISfSDa0WPAYRBBpFSlizEVis20X8lOSWMSnNwgepXObme8wAxIESKdmGlQi75TJ_iar-5FXfF-ygm3aU8HOZb0-XPiWsd0arkuAzDX7I87gsATkBUVots0AclJpXJHrPQhFGiOmiGGmDiMIg_Fn0BkaHILAmMjm0EcdPKUv1Xk7GbTokn4aegTsRk8v_bReo8ZBBY35k1xaNVnxrnnffgAjdeQ_/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
 - Le CMG vous donne également droit à une couverture forfaitaire des cotisations sociales de votre employeur.
 - Vous devez payer votre prestataire de garde d'enfants via Pajemploi pour recevoir le CMG de la CAF. Ils se chargeront des démarches administratives avec votre assistante maternelle ou votre micro-crèche.
 ## Related Posts

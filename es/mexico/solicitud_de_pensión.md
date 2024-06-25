@@ -49,8 +49,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si eres o conoces
 - Consultar los sitios web oficiales de Afore e IMSS para obtener la información más reciente sobre requisitos y procedimientos.
 ## Related Posts
 
-- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripción_al_imss/)
+- [Guía para Registrarse en el IMSS y Obtener Cobertura de Salud](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_al_imss/)
 - [Gestión de Seguridad Social en México para Expatriados](https://tramitit.com/es/guides/mexico/seguro_social/)
-- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/trámite_de_visa_de_trabajo/)
-- [Cómo inscribirse en el ISSSTE en México - Pasos sencillos y consejos](https://tramitit.com/es/guides/mexico/inscripción_al_issste/)
-- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripción_a_educación_superior/)
+- [Servicio simplificado de procesamiento de visas de trabajo mexicanas](https://tramitit.com/es/guides/mexico/tr%C3%A1mite_de_visa_de_trabajo/)
+- [Cómo inscribirse en el ISSSTE en México - Pasos sencillos y consejos](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_al_issste/)
+- [Facilitación de la Inscripción en la Educación Superior en México](https://tramitit.com/es/guides/mexico/inscripci%C3%B3n_a_educaci%C3%B3n_superior/)

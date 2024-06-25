@@ -23,7 +23,7 @@ Cualquier pareja que viva junta y desee que su relación sea legalmente reconoci
 ## Procedimiento
 
 1. El primer paso hacia el registro de pareja es reunir todos los documentos necesarios mencionados a continuación.
-2. Una vez que tenga todos los documentos listos, el siguiente paso es concertar una cita en la oficina de registro local o 'Registro Civil'. Puede hacerlo en línea visitando su [sitio web](https://www.mjusticia.gob.es/).
+2. Una vez que tenga todos los documentos listos, el siguiente paso es concertar una cita en la oficina de registro local o 'Registro Civil'. Puede hacerlo en línea visitando su [sitio web](https://www.mjusticia.gob.es/es).
 3. En la cita, deberá completar un formulario de solicitud y presentar todos los documentos.
 4. Después de la presentación, se realiza un anuncio público sobre sus intenciones de registrarse como pareja. Este paso es para asegurarse de que no haya obstáculos legales para su registro.
 5. Una vez que haya pasado el tiempo de anuncio público (generalmente 15 días), deberá regresar a la oficina de registro para firmar el documento de registro.
@@ -54,6 +54,6 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si es o conoce un
 
 - [Guía Completa para Obtener un Certificado de Matrimonio](https://tramitit.com/es/guides/spain/certificado_de_matrimonio/)
 - [Matrimonio Civil en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/solicitud_de_matrimonio_civil/)
-- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_unión_europea/)
+- [Cómo obtener la Tarjeta de Residencia de Familiar en España](https://tramitit.com/es/guides/spain/tarjeta_de_residencia_de_familiar_de_ciudadano_de_la_uni%C3%B3n_europea/)
 - [Certificado de Registro de Ciudadano de la UE en España: Guía Completa](https://tramitit.com/es/guides/spain/certificado_de_registro_de_ciudadano_de_la_ue/)
 - [Certificado de Residencia en España: Procedimiento y Documentos](https://tramitit.com/es/guides/spain/certificado_de_empadronamiento/)

@@ -24,7 +24,7 @@ Self-employed individuals (autonomos) and small business owners in Spain who ear
 
 1. **Gather Necessary Information**: Before starting, collect all relevant invoices and documents related to your income and expenses for the quarter.
    
-2. **Access the Model 130 Form**: Obtain the form from the Spanish Tax Agency (Agencia Tributaria) website. You can download the form directly from their [official site](https://www.agenciatributaria.es/).
+2. **Access the Model 130 Form**: Obtain the form from the Spanish Tax Agency (Agencia Tributaria) website. You can download the form directly from their [official site](https://sede.agenciatributaria.gob.es).
 
 3. **Fill in Personal Information**: Enter your personal details including your full name, address, and NIF (Número de Identificación Fiscal).
 

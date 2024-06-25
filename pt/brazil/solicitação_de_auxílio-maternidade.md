@@ -49,8 +49,8 @@ _(Estamos atualmente selecionando os melhores prestadores de serviço. Se você 
 - Para desempregados, certifique-se de ter feito contribuições para a Previdência Social dentro do prazo relevante para ter direito ao benefício.
 ## Related Posts
 
-- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_pensão_por_morte/)
+- [Guia Simplificado para Solicitar Pensão por Morte no Brasil](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_pens%C3%A3o_por_morte/)
 - [Seguro Desemprego no Brasil - Como Solicitar e Qualificar](https://tramitit.com/pt/guides/brazil/seguro_desemprego/)
-- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicitação_de_aposentadoria/)
-- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previdência_social/)
-- [Entenda o Programa Bolsa Família: Assistência Social no Brasil](https://tramitit.com/pt/guides/brazil/bolsa_família/)
+- [Serviço de Solicitação de Aposentadoria sem Esforço no Brasil](https://tramitit.com/pt/guides/brazil/solicita%C3%A7%C3%A3o_de_aposentadoria/)
+- [Compreendendo os Benefícios da Previdência Social no Brasil](https://tramitit.com/pt/guides/brazil/previd%C3%AAncia_social/)
+- [Entenda o Programa Bolsa Família: Assistência Social no Brasil](https://tramitit.com/pt/guides/brazil/bolsa_fam%C3%ADlia/)

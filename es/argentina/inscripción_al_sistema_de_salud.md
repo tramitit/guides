@@ -48,8 +48,8 @@ _(Actualmente estamos seleccionando a los mejores proveedores. Si usted es o con
 - Los servicios de emergencia suelen estar disponibles de inmediato, incluso si su registro está pendiente.
 ## Related Posts
 
-- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_seguro_social/)
-- [Registro en PAMI en Argentina - Guía completa paso a paso](https://tramitit.com/es/guides/argentina/inscripción_al_pami/)
-- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripción_al_régimen_de_autónomos/)
+- [Registro fácil de la Seguridad Social en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_seguro_social/)
+- [Registro en PAMI en Argentina - Guía completa paso a paso](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_pami/)
+- [Guía para registrarse como trabajador autónomo en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_al_r%C3%A9gimen_de_aut%C3%B3nomos/)
 - [Servicio fácil de solicitud de residencia en Argentina en línea](https://tramitit.com/es/guides/argentina/solicitud_de_residencia/)
-- [Inscribirse en Instituciones de Educación Superior en Argentina](https://tramitit.com/es/guides/argentina/inscripción_a_educación_superior/)
+- [Inscribirse en Instituciones de Educación Superior en Argentina](https://tramitit.com/es/guides/argentina/inscripci%C3%B3n_a_educaci%C3%B3n_superior/)

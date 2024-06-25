@@ -22,7 +22,7 @@ Qualquer condutor licenciado que tenha perdido, tido roubado ou danificado a sua
 ## Procedimento
 1. Comunique a perda, roubo ou dano da sua carta de condução à polícia.
  
-2. Visite o escritório mais próximo do Instituto da Mobilidade e dos Transportes (IMT). Pode encontrar as localizações [aqui](http://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/home.aspx).
+2. Visite o escritório mais próximo do Instituto da Mobilidade e dos Transportes (IMT). Pode encontrar as localizações [aqui](https://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx).
 
 3. Preencha o formulário 'Mod.13 IMT' no escritório do IMT. O formulário também está disponível [online](https://servicos.min-economia.pt/ServiceDetail.aspx?servico=100).
 
