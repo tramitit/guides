@@ -3,7 +3,7 @@ translationKey: 'brazil-vehicle_licensing'
 title: Processo Simplificado de Licenciamento de Veículos no Brasil
 author: Ricardo Batista
 date: 23 de junho de 2024
-categories: ["Brasil"]
+categories: ["Brazil"]
 description: Agilize o licenciamento do seu veículo no Brasil com nosso guia passo a passo e lista de documentos essenciais.
 draft: false
 translationKey: brazil-vehicle_licensing

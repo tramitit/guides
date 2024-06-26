@@ -3,7 +3,7 @@ translationKey: 'brazil-permanent_driving_license'
 title: Obtenha sua carteira de motorista permanente no Brasil facilmente
 author: Ricardo Batista
 date: 2024-06-23
-categories: ["Brasil"]
+categories: ["Brazil"]
 description: Passos simplificados para obter sua carteira de motorista permanente no Brasil, com todos os documentos necessários e detalhes de elegibilidade.
 draft: false
 translationKey: brazil-permanent_driving_license

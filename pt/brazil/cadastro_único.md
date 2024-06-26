@@ -3,7 +3,7 @@ translationKey: 'brazil-single_registry_for_social_programs'
 title: Guia Abrangente do Programa de Cadastro Único do Brasil
 author: Ricardo Batista
 date: 23 de junho de 2024
-categories: ["Brasil"]
+categories: ["Brazil"]
 description: Conecte-se facilmente aos programas sociais essenciais no Brasil usando o Cadastro Único. Descubra a elegibilidade, os passos e os documentos necessários.
 draft: false
 translationKey: brazil-single_registry_for_social_programs

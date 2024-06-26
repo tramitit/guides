@@ -1,7 +1,7 @@
 ---
 author: Ricardo Batista
 categories:
-- Brasil
+- Brazil
 date: 2024-06-23
 description: Ajude brasileiros expatriados a formalizarem sua saída do país e garantir
   isenção fiscal. Siga nosso guia passo a passo e evite complicações futuras.

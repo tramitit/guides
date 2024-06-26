@@ -1,7 +1,7 @@
 ---
 author: Ricardo Batista
 categories:
-- Brasil
+- Brazil
 date: 23 de junho de 2024
 description: Saiba como obter sua carteira de motorista brasileira com nosso guia
   detalhado, incluindo etapas do processo, documentos necessários e dicas úteis.

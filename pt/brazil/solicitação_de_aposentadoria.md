@@ -3,7 +3,7 @@ translationKey: 'brazil-retirement_request'
 title: Serviço de Solicitação de Aposentadoria sem Esforço no Brasil
 author: Ricardo Batista
 date: 23 de junho de 2024
-categories: ["Brasil"]
+categories: ["Brazil"]
 description: Garanta seu futuro no Brasil com facilidade. Obtenha orientações passo a passo sobre como solicitar seus benefícios de aposentadoria de forma tranquila.
 draft: false
 translationKey: brazil-retirement_request
