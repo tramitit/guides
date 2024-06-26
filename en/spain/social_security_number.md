@@ -56,10 +56,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - This process is generally free of charge.
 
 The steps above should provide a comprehensive guide on how to apply for a Spanish Social Security Number.
+
+
 ## Related Posts
 
-- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/tarjeta_sanitaria/)
 - [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
-- [How to Get Your Health Card in Spain: Essential Guide (TSE)](https://tramitit.com/guides/spain/health_card_application/)
-- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
-- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/health_card_application/)
+- [How to Open a Bank Account in Spain for Foreigners: A Guide](https://tramitit.com/guides/spain/opening_bank_account/)
+- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/guides/spain/birth_benefit/)
+- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/guides/spain/minimum_wage/)

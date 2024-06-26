@@ -47,10 +47,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 You must declare your funds within one month of their arrival in Spain. It's best to keep a personal copy of your S-1 declaration, as the Spanish authorities can request it at any time. If, for whatever reason, you are unable to complete the S-1 declaration yourself, a third party may do so on your behalf, provided they present a valid document proving your authorization.
+
+
 ## Related Posts
 
-- [Model 720: Spanish Tax Declaration for Foreign Assets Guide](https://tramitit.com/guides/spain/model_720/)
-- [Model 721 - Reporting Overseas Assets for Spanish Residents](https://tramitit.com/guides/spain/model_721/)
-- [Model 151 Guide: Foreign Asset Declaration for Beckham Law Users](https://tramitit.com/guides/spain/model_151/)
-- [Complete Guide to Filing Income Tax Returns in Spain](https://tramitit.com/guides/spain/income_tax_return_filing/)
-- [Understanding Spain's Model 210 Non-Resident Tax Form](https://tramitit.com/guides/spain/model_210/)
+- [How to Open a Bank Account in Spain for Foreigners: A Guide](https://tramitit.com/guides/spain/opening_bank_account/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/social_security_number/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/health_card_application/)
+- [Spain's Digital Nomad Visa: Live and Work Remotely in Spain](https://tramitit.com/guides/spain/digital_nomad_visa/)

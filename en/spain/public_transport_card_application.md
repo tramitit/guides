@@ -48,7 +48,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Related Posts
 
 - [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/tarjeta_sanitaria/)
 - [Guide to Obtaining a Student Card (TIE) in Spain: Process & Docs](https://tramitit.com/guides/spain/student_card_application/)
 - [Guide to Obtaining or Renewing Your Student Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_student_card_for_foreigners/)
 - [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)

@@ -53,10 +53,12 @@ Some banks may allow to start the account opening process online, but you will s
 Spain has a large number of national and international banks. So, take your time to check out different banks and choose the one that suits you the most. Banks like Santander, BBVA, and Bankia are popular options.
 
 Make sure to have a good understanding of basic financial terminology in Spanish as this will make the whole process simpler.
+
+
 ## Related Posts
 
-- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
 - [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
-- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
-- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
-- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/social_security_number/)
+- [Empadronamiento in Spain: A Complete Guide for New Residents](https://tramitit.com/guides/spain/municipal_registration/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/health_card_application/)
+- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/guides/spain/birth_benefit/)

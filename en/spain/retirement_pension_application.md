@@ -61,7 +61,6 @@ Spanish pension system is based on a contributory worker-pay-as-you-go model, so
 ## Related Posts
 
 - [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
-- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/social_security_number/)
 - [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
-- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/tarjeta_sanitaria/)
 - [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)

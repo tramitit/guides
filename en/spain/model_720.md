@@ -45,6 +45,6 @@ Any individual residing in Spain who owns foreign assets with a total value of m
 
 - [Model 721 - Reporting Overseas Assets for Spanish Residents](https://tramitit.com/guides/spain/model_721/)
 - [Model 151 Guide: Foreign Asset Declaration for Beckham Law Users](https://tramitit.com/guides/spain/model_151/)
-- [S-1 Declaration: How to Declare Money Moved to Spain](https://tramitit.com/guides/spain/s_1_declaration/)
+- [S-1 Declaration: How to Declare Money Moved to Spain](https://tramitit.com/guides/spain/s1_declaration/)
 - [Understanding Spain's Model 210 Non-Resident Tax Form](https://tramitit.com/guides/spain/model_210/)
 - [Guide to Model 347: Annual Spanish Tax Form for Third Parties](https://tramitit.com/guides/spain/model_347/)

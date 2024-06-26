@@ -55,4 +55,4 @@ Remember that each aid program may have its own set of eligibility criteria. You
 - [How to Apply for Educational Scholarships Successfully](https://tramitit.com/guides/spain/request_educational_scholarships/)
 - [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
 - [Guide to Family Reunification in Spain: Steps and Requirements](https://tramitit.com/guides/spain/family_reunification/)
-- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/guides/spain/ingreso_minimo_vital/)
+- [Ingreso Mínimo Vital: Social Aid for Economic Vulnerability](https://tramitit.com/guides/spain/minimum_wage/)

@@ -43,10 +43,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 It's important to know that the process can take a while, especially for people born before the 80s, as the process of digitization of the civil registry is still ongoing and in some small towns the non-digitized registrations can accumulate. Therefore, it is recommended to be patient.
+
+
 ## Related Posts
 
-- [How to Obtain a Birth Certificate in Spain - Step-by-Step Guide](https://tramitit.com/guides/spain/birth_certificate/)
-- [Birth Registration in Spain: Guide for New Parents](https://tramitit.com/guides/spain/birth_registration/)
-- [Guide to Obtaining Your Spanish DNI: Steps and Requirements](https://tramitit.com/guides/spain/id_card_application/)
-- [How to Obtain a Marriage Certificate: Requirements and Procedure](https://tramitit.com/guides/spain/marriage_certificate/)
-- [How to Obtain a Certificate of Residence in Spain: A Guide](https://tramitit.com/guides/spain/certificate_of_residence/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [Empadronamiento in Spain: A Complete Guide for New Residents](https://tramitit.com/guides/spain/municipal_registration/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/social_security_number/)
+- [How to Open a Bank Account in Spain for Foreigners: A Guide](https://tramitit.com/guides/spain/opening_bank_account/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/health_card_application/)

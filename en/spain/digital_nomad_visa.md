@@ -51,10 +51,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 The visa is initially valid for one year, but it can be extended up to five years. You have to prove that you have work that can be done remotely and won't harm Spain's labor market. Your stay in Spain with this visa counts towards applying for residency if you wish to stay permanently. Your visa also permits travel within the Schengen area.
+
+
 ## Related Posts
 
-- [Complete Guide to Securing a Digital Nomad Visa in Spain](https://tramitit.com/guides/spain/immigration_application/)
-- [Guide to Applying for Residence or Work Card in Spain](https://tramitit.com/guides/spain/initial_or_renewal_of_residence_or_residence_and_work_card/)
-- [How to Get a Long-term Residence Card in Spain: A Complete Guide](https://tramitit.com/guides/spain/long-term_residence_card/)
-- [Ultimate Guide to Applying for a EU Resident Card in Spain](https://tramitit.com/guides/spain/eu_resident_card_application/)
-- [How to Apply for a Spain Work Permit: Step-by-Step Guide](https://tramitit.com/guides/spain/work_permit_application/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [How to Open a Bank Account in Spain for Foreigners: A Guide](https://tramitit.com/guides/spain/opening_bank_account/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/social_security_number/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/health_card_application/)
+- [Empadronamiento in Spain: A Complete Guide for New Residents](https://tramitit.com/guides/spain/municipal_registration/)

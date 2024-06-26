@@ -46,10 +46,12 @@ Please take into account that the validity of NIE numbers doesn’t expire, but 
 
 The NIE itself is free, but there is a “Tasa 012” fee (currently €12) for issuing the certificate. After you’ve completed the form, you’ll need to print it, and take it to a bank to pay the fee, and have the form stamped. You then take this form to your appointment.
 
+
+
 ## Related Posts
 
-- [How to Obtain Your NIE for Legal Procedures in Spain](https://tramitit.com/guides/spain/assignment_of_nie_at_the_request_of_the_interested_party/)
-- [Guide to Obtaining a NIE in Spain: Requirements and Procedure](https://tramitit.com/guides/spain/registration_card/)
-- [Step-by-Step Guide to Obtain a Non-Resident Certificate in Spain](https://tramitit.com/guides/spain/non-resident_certificate/)
-- [Guide to EU Citizen Registration Certificate in Spain](https://tramitit.com/guides/spain/certificate_of_registration_of_eu_citizen/)
-- [How to Change Address on NIE in Spain: Step-by-Step Guide](https://tramitit.com/guides/spain/change_of_address_on_id/)
+- [How to Open a Bank Account in Spain for Foreigners: A Guide](https://tramitit.com/guides/spain/opening_bank_account/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/social_security_number/)
+- [Empadronamiento in Spain: A Complete Guide for New Residents](https://tramitit.com/guides/spain/municipal_registration/)
+- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/guides/spain/birth_benefit/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/health_card_application/)

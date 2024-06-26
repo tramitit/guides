@@ -46,10 +46,12 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Additional details
 
 Please note that the application for the Ingreso Mínimo Vital can be submitted at any time of the year. The amount of the benefit varies according to the composition of the family unit. If your application is accepted, the benefits should be received on the last business day of each month. For updating or change of circumstances, you must inform the Social Security Treasury General.
+
+
 ## Related Posts
 
-- [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
-- [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
-- [Guide to Retirement Pension in Spain: Eligibility and Application](https://tramitit.com/guides/spain/retirement_pension_application/)
-- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/spanish_social_security_number/)
-- [Financial Aids for Large Families: Eligibility and Application](https://tramitit.com/guides/spain/economic_assistance_for_large_families/)
+- [How to Apply for a Spanish Social Security Number: A Guide](https://tramitit.com/guides/spain/social_security_number/)
+- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/guides/spain/birth_benefit/)
+- [Complete Guide to Obtaining Your NIE in Spain: Steps & Tips](https://tramitit.com/guides/spain/nie_application/)
+- [How to Obtain a Health Card (Tarjeta Sanitaria) in Spain](https://tramitit.com/guides/spain/health_card_application/)
+- [Empadronamiento in Spain: A Complete Guide for New Residents](https://tramitit.com/guides/spain/municipal_registration/)

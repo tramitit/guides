@@ -54,5 +54,5 @@ You have the right to change your tax return after filing it if you discover any
 - [Guide to Model 130: Quarterly Tax Form for Spain's Self-Employed](https://tramitit.com/guides/spain/model_130/)
 - [Understanding Spain's Model 210 Non-Resident Tax Form](https://tramitit.com/guides/spain/model_210/)
 - [Complete Guide to Filing Model 145 for Spanish Tax Withholdings](https://tramitit.com/guides/spain/model_145/)
-- [S-1 Declaration: How to Declare Money Moved to Spain](https://tramitit.com/guides/spain/s_1_declaration/)
+- [S-1 Declaration: How to Declare Money Moved to Spain](https://tramitit.com/guides/spain/s1_declaration/)
 - [Model 190: Guide to Filing Tax Withholdings in Spain](https://tramitit.com/guides/spain/model_190/)
