@@ -1,5 +1,4 @@
 ---
-translationKey: 'colombia-work_visa_request'
 title: Obtén una Visa de Trabajo para Colombia sin Esfuerzo
 author: Ricardo Batista
 date: 2024-06-25
@@ -42,9 +41,9 @@ _(Actualmente estamos recopilando a los mejores proveedores. Si eres o conoces a
 
 ## Detalles adicionales
 
-- Colombia acepta solicitudes de visa tanto en línea como en los consulados: https://www.cancilleria.gov.co/tramites_servicios/visas
+- Colombia acepta solicitudes de visa tanto en línea como en los consulados.
 - Las tarifas y los tiempos de procesamiento de visas varían, por lo que es importante verificar la información más reciente en el sitio web oficial.
-- Para visas de nómadas digitales, asegúrate de tener pruebas de ingresos y un esquema detallado de tu trabajo: https://www.digitalnomadguide.com/colombia-digital-nomad-visa/
+- Para visas de nómadas digitales, asegúrate de tener pruebas de ingresos y un esquema detallado de tu trabajo.
 - Si estás convirtiendo una visa de turista, debes presentar prueba de entrada y estadía legal durante tu visita.
 
 

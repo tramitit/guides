@@ -47,9 +47,9 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 ## Additional details
 
-- Colombia accepts visa applications both online and at consulates: https://www.cancilleria.gov.co/tramites_servicios/visas
+- Colombia accepts visa applications both online and at consulates.
 - Visa fees and processing times vary, so it's important to check the latest information on the official website.
-- For digital nomad visas, ensure you have proof of income and a detailed outline of your work: https://www.digitalnomadguide.com/colombia-digital-nomad-visa/
+- For digital nomad visas, ensure you have proof of income and a detailed outline of your work.
 - If converting from a tourist visa, you must present proof of legal entry and stay during your visit.
 
 
