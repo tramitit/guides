@@ -43,7 +43,7 @@ Your registration in the Unemployed Register goes hand-in-hand with the Unemploy
 ## Related Posts
 
 - [Understanding Unemployment Benefits: Eligibility and Procedure](https://tramitit.com/guides/greece/application_for_unemployment_benefit/)
-- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_(social_insurance_fund)/)
+- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_social_insurance_fund/)
 - [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)
 - [Guide to Obtaining a Disability Living Allowance Card in Greece](https://tramitit.com/guides/greece/application_for_disability_card/)
 - [Guide to Obtaining a Greek Residence Permit for Non-EU Citizens](https://tramitit.com/guides/greece/application_for_residence_permit/)

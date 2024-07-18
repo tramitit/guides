@@ -57,7 +57,7 @@ La visa es válida inicialmente por un año, pero se puede extender hasta cinco 
 ## Publicaciones relacionadas
 
 
-- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/nie_aplicación/)
+- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
 - [Cómo Solicitar la Tarjeta Sanitaria en España: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_sanitaria/)
 - [Cómo Abrir una Cuenta Bancaria en España para Extranjeros: Una Guía](https://tramitit.com/es/guides/spain/abrir_cuenta_bancária/)
 - [Cómo solicitar un número de Seguridad Social español: Una guía](https://tramitit.com/es/guides/spain/numero_seguridad_social/)

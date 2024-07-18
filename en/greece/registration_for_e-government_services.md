@@ -46,7 +46,7 @@ Ensure to keep your login details secure to prevent unauthorized access. Remembe
 ## Related Posts
 
 - [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)
-- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_(social_insurance_fund)/)
-- [How to Obtain a Tax Identification Number (TIN) in Greece](https://tramitit.com/guides/greece/application_for_tax_identification_number_(tin)/)
+- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_social_insurance_fund/)
+- [How to Obtain a Tax Identification Number (TIN) in Greece](https://tramitit.com/guides/greece/application_for_tax_identification_number_tin/)
 - [Unemployed Register: Benefits for Job Seekers in Greece](https://tramitit.com/guides/greece/registration_in_the_unemployed_register/)
 - [Understanding Unemployment Benefits: Eligibility and Procedure](https://tramitit.com/guides/greece/application_for_unemployment_benefit/)

@@ -49,7 +49,7 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - En cas de démission, vous pourriez ne pas être immédiatement éligible aux allocations de chômage. Certaines raisons légitimes de démission peuvent vous permettre de bénéficier des allocations. Il est préférable de consulter Pôle emploi pour obtenir des conseils dans de tels cas.
 ## Related Posts
 
-- [Allocation de Retour à l'Emploi (ARE) en France: Guide et Procédure](https://tramitit.com/fr/guides/france/demande_daide_au_retour_a_lemploi_(are)/)
+- [Allocation de Retour à l'Emploi (ARE) en France: Guide et Procédure](https://tramitit.com/fr/guides/france/demande_daide_au_retour_a_lemploi_are/)
 - [Allocations Familiales en France: Comment les demander](https://tramitit.com/fr/guides/france/demande_dallocation_familiale/)
 - [Aide au Logement: Procédure, Documents Requis, Détails](https://tramitit.com/fr/guides/france/demande_daide_au_logement/)
 - [Logement Social en France: Eligibility, Application, Assistance](https://tramitit.com/fr/guides/france/demande_de_logement_social/)

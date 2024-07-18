@@ -51,5 +51,4 @@ Please note: while on paternity leave, you are protected against dismissal. Ensu
 - [Ultimate Guide to Maternity Leave in Spain: Eligibility & Process](https://tramitit.com/guides/spain/maternity_leave_application/)
 - [Child Benefit in Spain: Essential Aid for Families Explained](https://tramitit.com/guides/spain/child_benefit_application/)
 - [How to Apply for Unemployment Benefits in Spain - Guide 2023](https://tramitit.com/guides/spain/unemployment_benefit_application/)
-- [Understanding and Obtaining Spain's Prestación por Nacimiento](https://tramitit.com/guides/spain/prestacion_por_nacimiento/)
 - [Guide to Retirement Pension in Spain: Eligibility and Application](https://tramitit.com/guides/spain/retirement_pension_application/)

@@ -3,6 +3,11 @@ description: Aprende cómo solicitar una pensión en Bolivia. Conoce los pasos, 
   y documentación necesaria para obtener tu pensión de jubilación.
 meta_title: 'Guía para solicitar una pensión en Bolivia: pasos y requisitos'
 title: 'Guía para solicitar una pensión en Bolivia: pasos y requisitos'
+author: Ricardo Batista
+date: 2024-06-27
+categories: ["Bolivia"]
+draft: false
+translationKey: bolivia-pension_request
 ---
 
 

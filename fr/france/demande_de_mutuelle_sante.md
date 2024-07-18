@@ -57,6 +57,6 @@ N'oubliez pas de lire toutes les conditions et les petits caractères du contrat
 
 - [Inscription à la Sécurité sociale française: Guide complet](https://tramitit.com/fr/guides/france/inscription_a_la_securite_sociale/)
 - [Obtenez Votre Carte d'Assurance Maladie en France, Irlande et Pologne](https://tramitit.com/fr/guides/france/demande_de_carte_vitale/)
-- [Comment bénéficier du Complément de Mode de Garde en France](https://tramitit.com/fr/guides/france/demande_de_complement_de_libre_choix_du_mode_de_garde_(cmg)/)
+- [Comment bénéficier du Complément de Mode de Garde en France](https://tramitit.com/fr/guides/france/demande_de_complement_de_libre_choix_du_mode_de_garde_cmg/)
 - [Logement Social en France: Eligibility, Application, Assistance](https://tramitit.com/fr/guides/france/demande_de_logement_social/)
 - [Allocations de Chômage en France: Comment les Obtenir](https://tramitit.com/fr/guides/france/demande_dallocation_chomage/)

@@ -55,7 +55,7 @@ España cuenta con una gran cantidad de bancos nacionales e internacionales. Por
 Asegúrate de tener un buen entendimiento de la terminología financiera básica en español, ya que esto hará que todo el proceso sea más sencillo.
 
 ## Publicaciones relacionadas
-- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/nie_aplicación/)
+- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
 - [Cómo Solicitar la Tarjeta Sanitaria en España: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_sanitaria/)
 - [Cómo solicitar un número de Seguridad Social español: Una guía](https://tramitit.com/es/guides/spain/numero_seguridad_social/)
 - [Prestación por Nacimiento en España: Cómo Obtener el Certificado](https://tramitit.com/es/guides/spain/prestacion_por_nacimiento/)

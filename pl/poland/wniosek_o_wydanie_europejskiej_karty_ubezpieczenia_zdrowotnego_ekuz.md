@@ -8,7 +8,7 @@ description: Dowiedz się, kto potrzebuje EHIC, jak aplikować, jakie dokumenty 
 draft: false
 meta_title: Europejska Karta Ubezpieczenia Zdrowotnego (EHIC) - Wymogi i Procedura
 title: Europejska Karta Ubezpieczenia Zdrowotnego (EHIC) - Wymogi i Procedura
-translationKey: poland-application_for_european_health_insurance_card_(ehic)
+translationKey: poland-application_for_european_health_insurance_card_ehic
 ---
 
 

@@ -46,7 +46,7 @@ _(Obecnie selekcjonujemy najlepszych dostawców. Jeśli jesteś dostawcą lub zn
 ## Related Posts
 
 - [Zasiłek dla bezrobotnych: Jak ubiegać się o pomoc finansową](https://tramitit.com/pl/guides/poland/zasilek_dla_bezrobotnych/)
-- [Europejska Karta Ubezpieczenia Zdrowotnego (EHIC) - Wymogi i Procedura](https://tramitit.com/pl/guides/poland/wniosek_o_wydanie_europejskiej_karty_ubezpieczenia_zdrowotnego_(ekuz)/)
+- [Europejska Karta Ubezpieczenia Zdrowotnego (EHIC) - Wymogi i Procedura](https://tramitit.com/pl/guides/poland/wniosek_o_wydanie_europejskiej_karty_ubezpieczenia_zdrowotnego_ekuz/)
 - [Rejestracja miejsca zamieszkania dla obywateli UE w Polsce](https://tramitit.com/pl/guides/poland/rejestracja_pobytu_obywatela_ue/)
 - [Housing Benefit w Wielkiej Brytanii: Kto, Procedura, Dokumenty](https://tramitit.com/pl/guides/poland/wniosek_o_dodatek_mieszkaniowy/)
 - [Procedura ubiegania się o azyl w Polsce: kroki i wymagane dokumenty](https://tramitit.com/pl/guides/poland/wniosek_o_azyl/)

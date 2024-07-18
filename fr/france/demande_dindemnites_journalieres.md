@@ -48,4 +48,4 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - [Allocations de Chômage en France: Comment les Obtenir](https://tramitit.com/fr/guides/france/demande_dallocation_chomage/)
 - [Obtenez Votre Carte d'Assurance Maladie en France, Irlande et Pologne](https://tramitit.com/fr/guides/france/demande_de_carte_vitale/)
 - [Inscription à la Sécurité sociale française: Guide complet](https://tramitit.com/fr/guides/france/inscription_a_la_securite_sociale/)
-- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_(allocation_personnalisee_dautonomie)/)
+- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_allocation_personnalisee_dautonomie/)

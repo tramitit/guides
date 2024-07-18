@@ -48,7 +48,7 @@ _(We are currently curating the best providers. If you are or know a provider, p
 ## Related Posts
 
 - [EU Citizens' Guide: Registering Residence in Poland](https://tramitit.com/guides/poland/registration_of_residence_for_eu_citizens/)
-- [Guide to European Health Insurance Card (EHIC) Application Process](https://tramitit.com/guides/poland/application_for_european_health_insurance_card_(ehic)/)
+- [Guide to European Health Insurance Card (EHIC) Application Process](https://tramitit.com/guides/poland/application_for_european_health_insurance_card_ehic/)
 - [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)
 - [Guide to Unemployment Benefits and Eligibility Criteria](https://tramitit.com/guides/poland/unemployment_benefit/)
 - [How to Get a Firearm Permit in Poland: Step-by-Step Guide](https://tramitit.com/guides/poland/gun_permit/)

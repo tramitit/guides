@@ -8,7 +8,7 @@ description: Scopri come registrarti al SSN in Italia, i documenti necessari e c
 draft: false
 meta_title: Guida Completa al Servizio Sanitario Nazionale in Italia
 title: Guida Completa al Servizio Sanitario Nazionale in Italia
-translationKey: italy-registration_with_the_national_health_service_(ssn)
+translationKey: italy-registration_with_the_national_health_service_ssn
 ---
 
 

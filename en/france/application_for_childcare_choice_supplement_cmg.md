@@ -8,7 +8,7 @@ description: Get help with childcare costs for nannies or micro-creches in Franc
 draft: false
 meta_title: 'Childcare Choice Supplement: Assistance for Nannies & Micro-Creches'
 title: 'Childcare Choice Supplement: Assistance for Nannies & Micro-Creches'
-translationKey: france-application_for_childcare_choice_supplement_(cmg)
+translationKey: france-application_for_childcare_choice_supplement_cmg
 ---
 
 ## Description

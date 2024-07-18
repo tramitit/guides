@@ -54,5 +54,5 @@ Ten en cuenta que la solicitud para el Ingreso Mínimo Vital se puede presentar 
 - [Cómo solicitar un número de Seguridad Social español: Una guía](https://tramitit.com/es/guides/spain/numero_seguridad_social/)
 - [Cómo Solicitar la Tarjeta Sanitaria en España: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_sanitaria/)
 - [Prestación por Nacimiento en España: Cómo Obtener el Certificado](https://tramitit.com/es/guides/spain/prestacion_por_nacimiento/)
-- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/nie_aplicación/)
+- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
 - [Visa de Nómada Digital en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/visa_de_nomada_digital/)

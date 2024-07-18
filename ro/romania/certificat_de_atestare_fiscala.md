@@ -45,5 +45,5 @@ Rețineți că întotdeauna este recomandat să verificați cu autoritățile fi
 - [Certificat de Rezidență Fiscală: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_fiscal/)
 - [Certificat de Venit în România: Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/adeverinta_de_venit/)
 - [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)
-- [Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/obtinere_numar_de_identificare_fiscala_(nif)/)
+- [Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/obtinere_numar_de_identificare_fiscala_nif/)
 - [Certificat de Autenticitate: Ce Este, Cine Are Nevoie și Cum Obții](https://tramitit.com/ro/guides/romania/adeverinta_de_autenticitate/)

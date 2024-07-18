@@ -60,6 +60,6 @@ Los pasos anteriores deberían brindar una guía completa sobre cómo solicitar 
 ## Related Posts
 
 - [Cómo Solicitar la Tarjeta Sanitaria en España: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_sanitaria/)
-- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/nie_aplicación/)
+- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
 - [Ingreso Mínimo Vital en España: Cómo Solicitar y Requisitos](https://tramitit.com/es/guides/spain/ingreso_minimo_vital/)
 - [Prestación por Nacimiento en España: Cómo Obtener el Certificado](https://tramitit.com/es/guides/spain/prestacion_por_nacimiento/)

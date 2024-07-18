@@ -8,7 +8,7 @@ description: Learn the steps to acquire a NIF in Portugal for financial activiti
 draft: false
 meta_title: How to Obtain a Tax Identification Number (NIF) in Portugal
 title: How to Obtain a Tax Identification Number (NIF) in Portugal
-translationKey: portugal-request_for_tax_identification_number_(nif)
+translationKey: portugal-request_for_tax_identification_number_nif
 ---
 
 ## Description

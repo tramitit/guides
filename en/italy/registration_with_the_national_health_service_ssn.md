@@ -8,7 +8,7 @@ description: Learn who can register with Italy's National Health Service (SSN), 
 draft: false
 meta_title: Understanding Italy's National Health Service (SSN) Registration
 title: Understanding Italy's National Health Service (SSN) Registration
-translationKey: italy-registration_with_the_national_health_service_(ssn)
+translationKey: italy-registration_with_the_national_health_service_ssn
 ---
 
 ## Description

@@ -8,7 +8,7 @@ description: Découvrez comment demander l'ARE en France après la perte de votr
 draft: false
 meta_title: 'Allocation de Retour à l''Emploi (ARE) en France: Guide et Procédure'
 title: 'Allocation de Retour à l''Emploi (ARE) en France: Guide et Procédure'
-translationKey: france-unemployment_return-to-work_assistance_(are)_application
+translationKey: france-unemployment_return-to-work_assistance_are_application
 ---
 
 ## Description
@@ -51,5 +51,5 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - [Allocations de Chômage en France: Comment les Obtenir](https://tramitit.com/fr/guides/france/demande_dallocation_chomage/)
 - [Aide au Logement: Procédure, Documents Requis, Détails](https://tramitit.com/fr/guides/france/demande_daide_au_logement/)
 - [Allocations Familiales en France: Comment les demander](https://tramitit.com/fr/guides/france/demande_dallocation_familiale/)
-- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_(allocation_personnalisee_dautonomie)/)
+- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_allocation_personnalisee_dautonomie/)
 - [Pension de Retraite en France: Admissibilité, Documents & Procédure](https://tramitit.com/fr/guides/france/demande_de_pension_de_retraite/)

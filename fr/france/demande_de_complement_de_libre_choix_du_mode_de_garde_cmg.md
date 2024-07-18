@@ -8,7 +8,7 @@ description: Découvrez comment obtenir le CMG pour couvrir les frais de garde d
 draft: false
 meta_title: Comment bénéficier du Complément de Mode de Garde en France
 title: Comment bénéficier du Complément de Mode de Garde en France
-translationKey: france-application_for_childcare_choice_supplement_(cmg)
+translationKey: france-application_for_childcare_choice_supplement_cmg
 ---
 
 ## Description

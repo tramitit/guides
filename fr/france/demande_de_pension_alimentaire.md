@@ -47,4 +47,4 @@ Il est important de savoir que le juge peut ajuster le montant de la pension ali
 - [Allocations Familiales en France: Comment les demander](https://tramitit.com/fr/guides/france/demande_dallocation_familiale/)
 - [Allocations de Chômage en France: Comment les Obtenir](https://tramitit.com/fr/guides/france/demande_dallocation_chomage/)
 - [Aide au Logement: Procédure, Documents Requis, Détails](https://tramitit.com/fr/guides/france/demande_daide_au_logement/)
-- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_(allocation_personnalisee_dautonomie)/)
+- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_allocation_personnalisee_dautonomie/)

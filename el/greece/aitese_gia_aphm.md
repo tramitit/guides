@@ -8,7 +8,7 @@ description: Ανακαλύψτε πώς να αποκτήσετε τον TIN σ
 draft: false
 meta_title: 'Αριθμός Φορολογικής Ταυτότητας (TIN) στην Ελλάδα: Αιτήσεις και Οδηγίες'
 title: 'Αριθμός Φορολογικής Ταυτότητας (TIN) στην Ελλάδα: Αιτήσεις και Οδηγίες'
-translationKey: greece-application_for_tax_identification_number_(tin)
+translationKey: greece-application_for_tax_identification_number_tin
 ---
 
 

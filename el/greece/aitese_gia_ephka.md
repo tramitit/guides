@@ -8,7 +8,7 @@ description: Μάθετε τι χρειάζεστε για την εγγραφή
 draft: false
 meta_title: 'ΕΦΚΑ: Εγγραφή, Απαιτούμενα, Πληροφορίες - Οδηγός Ελλάδας'
 title: 'ΕΦΚΑ: Εγγραφή, Απαιτούμενα, Πληροφορίες - Οδηγός Ελλάδας'
-translationKey: greece-application_for_efka_(social_insurance_fund)
+translationKey: greece-application_for_efka_social_insurance_fund
 ---
 
 

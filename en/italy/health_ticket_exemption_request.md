@@ -43,7 +43,7 @@ _(We are currently curating the best providers. If you are or know a provider, p
 Each exemption has a specified duration, after which it must be renewed. Some exemptions are permanent but will still require periodic confirmation. For foreign citizens living in Italy, the exemption also extends to family members. For visually impaired citizens, exemption from healthcare costs is possible, but conditions apply. Always consult with your healthcare provider or local ASL for accurate information.
 ## Related Posts
 
-- [Understanding Italy's National Health Service (SSN) Registration](https://tramitit.com/guides/italy/registration_with_the_national_health_service_(ssn)/)
+- [Understanding Italy's National Health Service (SSN) Registration](https://tramitit.com/guides/italy/registration_with_the_national_health_service_ssn/)
 - [Italian Family Allowance: Eligibility, Procedure, Required Documents](https://tramitit.com/guides/italy/family_allowance_request/)
 - [How to Obtain a Medical Certificate for Activities in Italy](https://tramitit.com/guides/italy/medical_certificate_request/)
 - [Disability Pension: Financial Assistance for Disabled Individuals](https://tramitit.com/guides/italy/disability_pension_application/)

@@ -9,7 +9,7 @@ description: Learn how to apply for the European Health Insurance Card (EHIC) fo
 draft: false
 meta_title: Guide to European Health Insurance Card (EHIC) Application Process
 title: Guide to European Health Insurance Card (EHIC) Application Process
-translationKey: poland-application_for_european_health_insurance_card_(ehic)
+translationKey: poland-application_for_european_health_insurance_card_ehic
 ---
 
 ## Description

@@ -49,6 +49,6 @@ Fiind conștienți de aceste alocări fiscale vă poate ajuta să gestionați ma
 
 - [Impozitul de Rezidență în România: Ce Este și Cine Este Vizat](https://tramitit.com/ro/guides/romania/taxa_de_habitat/)
 - [Taxe Auto în România: Ghid complet pentru proprietarii de mașini](https://tramitit.com/ro/guides/romania/taxe_si_impozite_auto/)
-- [Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/obtinere_numar_de_identificare_fiscala_(nif)/)
+- [Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/obtinere_numar_de_identificare_fiscala_nif/)
 - [Certificat de Rezidență Fiscală: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_fiscal/)
 - [Ghid complet pentru închirierea proprietăților în România](https://tramitit.com/ro/guides/romania/contract_de_inchiriere/)

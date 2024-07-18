@@ -8,7 +8,7 @@ description: Learn how to register with EFKA in Greece for social security and h
 draft: false
 meta_title: 'EFKA Greece: Social Security & Health Insurance Registration Guide'
 title: 'EFKA Greece: Social Security & Health Insurance Registration Guide'
-translationKey: greece-application_for_efka_(social_insurance_fund)
+translationKey: greece-application_for_efka_social_insurance_fund
 ---
 
 ## Description
@@ -47,6 +47,6 @@ _(We are currently curating the best providers. If you are or know a provider, p
 
 - [Guide to Registering in the Greek Tax Office for an AFM](https://tramitit.com/guides/greece/application_for_registration_in_the_tax_office/)
 - [Unemployed Register: Benefits for Job Seekers in Greece](https://tramitit.com/guides/greece/registration_in_the_unemployed_register/)
-- [How to Obtain a Tax Identification Number (TIN) in Greece](https://tramitit.com/guides/greece/application_for_tax_identification_number_(tin)/)
+- [How to Obtain a Tax Identification Number (TIN) in Greece](https://tramitit.com/guides/greece/application_for_tax_identification_number_tin/)
 - [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)
 - [Understanding Unemployment Benefits: Eligibility and Procedure](https://tramitit.com/guides/greece/application_for_unemployment_benefit/)

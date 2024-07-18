@@ -46,7 +46,7 @@ Remember to keep any record of your application and regularly check for status u
 ## Related Posts
 
 - [Unemployed Register: Benefits for Job Seekers in Greece](https://tramitit.com/guides/greece/registration_in_the_unemployed_register/)
-- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_(social_insurance_fund)/)
+- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_social_insurance_fund/)
 - [Guide to Rent Subsidies: Eligibility, Process, and Required Documents](https://tramitit.com/guides/greece/application_for_rent_subsidy/)
 - [Guide to Obtaining a Disability Living Allowance Card in Greece](https://tramitit.com/guides/greece/application_for_disability_card/)
 - [Efficient e-Government Services: Access Online Government Services](https://tramitit.com/guides/greece/registration_for_e-government_services/)

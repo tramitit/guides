@@ -8,7 +8,7 @@ description: Learn about the French unemployment benefit scheme ARE, including e
 draft: false
 meta_title: 'Unemployment Return-to-Work Assistance in France: A Guide'
 title: 'Unemployment Return-to-Work Assistance in France: A Guide'
-translationKey: france-unemployment_return-to-work_assistance_(are)_application
+translationKey: france-unemployment_return-to-work_assistance_are_application
 ---
 
 ## Description

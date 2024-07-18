@@ -43,7 +43,7 @@ _(Nous sélectionnons actuellement les meilleurs fournisseurs. Si vous êtes ou 
 - En cas de besoins en aide à la mobilité en raison d'une blessure temporaire ou d'une hospitalisation, parlez au personnel hospitalier concerné de l'accès aux aides à la mobilité pendant votre rétablissement.
 ## Related Posts
 
-- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_(allocation_personnalisee_dautonomie)/)
+- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_allocation_personnalisee_dautonomie/)
 - [Logement Social en France: Eligibility, Application, Assistance](https://tramitit.com/fr/guides/france/demande_de_logement_social/)
 - [Logement Social en France: Aide au Loyer et Procédure de Demande](https://tramitit.com/fr/guides/france/demande_daide_sociale_a_lhebergement/)
 - [Demande d'Arrêt Maladie: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/demande_darret_de_travail/)

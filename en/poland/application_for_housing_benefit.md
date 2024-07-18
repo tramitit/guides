@@ -44,6 +44,6 @@ If your circumstances change, it is important that you inform your local council
 
 - [Guide to Unemployment Benefits and Eligibility Criteria](https://tramitit.com/guides/poland/unemployment_benefit/)
 - [How to Register Your Residence in Poland for Foreigners](https://tramitit.com/guides/poland/registering_the_residence_of_a_foreigner/)
-- [Guide to European Health Insurance Card (EHIC) Application Process](https://tramitit.com/guides/poland/application_for_european_health_insurance_card_(ehic)/)
+- [Guide to European Health Insurance Card (EHIC) Application Process](https://tramitit.com/guides/poland/application_for_european_health_insurance_card_ehic/)
 - [Guide to Changing Your ID Card: Steps and Requirements](https://tramitit.com/guides/poland/change_of_id_card/)
 - [How to Update Your Contact Details: A Step-by-Step Guide](https://tramitit.com/guides/poland/notification_of_change_in_contact_details/)

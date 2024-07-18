@@ -50,7 +50,7 @@ Recuerda, el proceso de empadronamiento debe realizarse en persona y es gratuito
 ## Artículos relacionados
 
 
-- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/nie_aplicación/)
+- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
 - [Prestación por Nacimiento en España: Cómo Obtener el Certificado](https://tramitit.com/es/guides/spain/prestacion_por_nacimiento/)
 - [Cómo solicitar un número de Seguridad Social español: Una guía](https://tramitit.com/es/guides/spain/numero_seguridad_social/)
 - [Cómo Solicitar la Tarjeta Sanitaria en España: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_sanitaria/)

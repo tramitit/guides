@@ -8,7 +8,7 @@ description: Learn the steps to get your Tax Identification Number (TIN), requir
 draft: false
 meta_title: How to Obtain a Tax Identification Number (TIN) Efficiently
 title: How to Obtain a Tax Identification Number (TIN) Efficiently
-translationKey: romania-obtaining_tax_identification_number_(tin)
+translationKey: romania-obtaining_tax_identification_number_tin
 ---
 
 ## Description

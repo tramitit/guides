@@ -48,5 +48,5 @@ A isenção deve ser solicitada no ano de aquisição da propriedade ou no ano s
 - [Pedido de Declaração de Imposto de Renda em Portugal](https://tramitit.com/pt/guides/portugal/pedido_de_declaracao_de_irs/)
 - [Guia Completo para Preenchimento do IRS Anexo J em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_j/)
 - [Guia Completo para Preencher o Anexo B do IRS em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_b/)
-- [NIF em Portugal: O que é, quem precisa e como obter](https://tramitit.com/pt/guides/portugal/pedido_de_numero_de_identificacao_fiscal_(nif)/)
+- [NIF em Portugal: O que é, quem precisa e como obter](https://tramitit.com/pt/guides/portugal/pedido_de_numero_de_identificacao_fiscal_nif/)
 - [Anexo L do IRS: Guia Completo para Não Residentes em Portugal](https://tramitit.com/pt/guides/portugal/irs_anexo_l/)

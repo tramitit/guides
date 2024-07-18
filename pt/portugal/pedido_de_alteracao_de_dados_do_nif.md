@@ -46,7 +46,7 @@ Lembre-se sempre de verificar as suas informações antes de submeter para evita
 Por favor, note que este guia destina-se a fornecer informações gerais. As circunstâncias individuais podem variar e as regras podem ter mudado desde a data de escrita. Para obter as informações mais recentes e precisas, consulte o site oficial mencionado acima.
 ## Related Posts
 
-- [NIF em Portugal: O que é, quem precisa e como obter](https://tramitit.com/pt/guides/portugal/pedido_de_numero_de_identificacao_fiscal_(nif)/)
+- [NIF em Portugal: O que é, quem precisa e como obter](https://tramitit.com/pt/guides/portugal/pedido_de_numero_de_identificacao_fiscal_nif/)
 - [Alteração de Endereço no Cartão de Cidadão em Portugal](https://tramitit.com/pt/guides/portugal/alteracao_de_morada_no_cartao_de_cidadao/)
 - [Atualização de Endereço no Cartão de Residência em Portugal](https://tramitit.com/pt/guides/portugal/alteracao_de_morada_do_titulo_de_residencia/)
 - [Cartão de Cidadão em Portugal: Procedimento e Documentos Necessários](https://tramitit.com/pt/guides/portugal/pedido_de_cartao_de_cidadao/)

@@ -54,6 +54,6 @@ Debes declarar tus fondos dentro de un mes después de su llegada a España. Es 
 
 - [Cómo Abrir una Cuenta Bancaria en España para Extranjeros: Una Guía](https://tramitit.com/es/guides/spain/abrir_cuenta_bancária/)
 - [Cómo Solicitar la Tarjeta Sanitaria en España: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_sanitaria/)
-- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/nie_aplicación/)
+- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
 - [Cómo solicitar un número de Seguridad Social español: Una guía](https://tramitit.com/es/guides/spain/numero_seguridad_social/)
 - [Visa de Nómada Digital en España: Requisitos y Procedimiento](https://tramitit.com/es/guides/spain/visa_de_nomada_digital/)

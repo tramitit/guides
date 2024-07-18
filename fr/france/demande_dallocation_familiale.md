@@ -51,6 +51,6 @@ Il est crucial de fournir toutes les informations correctes et les documents né
 
 - [Aide au Logement: Procédure, Documents Requis, Détails](https://tramitit.com/fr/guides/france/demande_daide_au_logement/)
 - [Allocations de Chômage en France: Comment les Obtenir](https://tramitit.com/fr/guides/france/demande_dallocation_chomage/)
-- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_(allocation_personnalisee_dautonomie)/)
+- [Demande d'Allocation Personnalisée d'Autonomie (APA)](https://tramitit.com/fr/guides/france/demande_dapa_allocation_personnalisee_dautonomie/)
 - [Réunification Familiale en France: Procédure et Documents Requis](https://tramitit.com/fr/guides/france/demande_de_regroupement_familial/)
 - [Inscription à la Sécurité sociale française: Guide complet](https://tramitit.com/fr/guides/france/inscription_a_la_securite_sociale/)

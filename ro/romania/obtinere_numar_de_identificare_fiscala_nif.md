@@ -8,7 +8,7 @@ description: Aflați cine are nevoie de TIN, cum să aplicați și ce documente 
 draft: false
 meta_title: 'Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare'
 title: 'Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare'
-translationKey: romania-obtaining_tax_identification_number_(tin)
+translationKey: romania-obtaining_tax_identification_number_tin
 ---
 
 

@@ -46,5 +46,5 @@ Vă rugăm să rețineți că pot exista reguli și scutiri diferite în funcți
 - [Impozitul pe proprietate în România: Ghid complet și proceduri](https://tramitit.com/ro/guides/romania/impozit_pe_proprietati/)
 - [Taxe Auto în România: Ghid complet pentru proprietarii de mașini](https://tramitit.com/ro/guides/romania/taxe_si_impozite_auto/)
 - [Certificat de Rezidență Fiscală: Procedură și Documente Necesare](https://tramitit.com/ro/guides/romania/certificat_fiscal/)
-- [Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/obtinere_numar_de_identificare_fiscala_(nif)/)
+- [Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/obtinere_numar_de_identificare_fiscala_nif/)
 - [Procesul de obținere a rezidenței permanente în străinătate](https://tramitit.com/ro/guides/romania/solicitare_rezidenta_permanenta/)

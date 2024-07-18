@@ -8,7 +8,7 @@ description: Saiba sobre o Número de Identificação Fiscal (NIF) em Portugal, 
 draft: false
 meta_title: 'NIF em Portugal: O que é, quem precisa e como obter'
 title: 'NIF em Portugal: O que é, quem precisa e como obter'
-translationKey: portugal-request_for_tax_identification_number_(nif)
+translationKey: portugal-request_for_tax_identification_number_nif
 ---
 
 

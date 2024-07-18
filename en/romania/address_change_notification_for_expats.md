@@ -47,5 +47,5 @@ Note: All procedures should be followed by individual official websites provided
 - [Permanent Residency Guide: Application Process and Requirements](https://tramitit.com/guides/romania/permanent_residency_application/)
 - [Comprehensive Guide to Study Visas for Romanian Students](https://tramitit.com/guides/romania/obtaining_study_visa/)
 - [Understand the Tax Certificate: Procedure, Need, and Documents](https://tramitit.com/guides/romania/tax_certificate/)
-- [How to Obtain a Tax Identification Number (TIN) Efficiently](https://tramitit.com/guides/romania/obtaining_tax_identification_number_(tin)/)
+- [How to Obtain a Tax Identification Number (TIN) Efficiently](https://tramitit.com/guides/romania/obtaining_tax_identification_number_tin/)
 - [Romanian and Moldovan Citizenship Confirmation Guide](https://tramitit.com/guides/romania/citizenship_confirmation/)

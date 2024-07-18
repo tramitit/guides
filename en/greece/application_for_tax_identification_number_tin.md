@@ -8,7 +8,7 @@ description: Learn the steps and required documents to get your TIN in Greece. E
 draft: false
 meta_title: How to Obtain a Tax Identification Number (TIN) in Greece
 title: How to Obtain a Tax Identification Number (TIN) in Greece
-translationKey: greece-application_for_tax_identification_number_(tin)
+translationKey: greece-application_for_tax_identification_number_tin
 ---
 
 ## Description
@@ -46,5 +46,5 @@ _(We are currently curating the best providers. If you are or know a provider, p
 - [Guide to Registering in the Greek Tax Office for an AFM](https://tramitit.com/guides/greece/application_for_registration_in_the_tax_office/)
 - [How to Obtain an ID Card in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_id_issuance/)
 - [How to Obtain a Birth Certificate in Greece: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_birth_certificate/)
-- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_(social_insurance_fund)/)
+- [EFKA Greece: Social Security & Health Insurance Registration Guide](https://tramitit.com/guides/greece/application_for_efka_social_insurance_fund/)
 - [How to Obtain a Greek Passport: Step-by-Step Guide](https://tramitit.com/guides/greece/application_for_passport_issuance/)

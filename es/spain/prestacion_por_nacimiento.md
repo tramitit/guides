@@ -48,7 +48,7 @@ Es importante tener en cuenta que el proceso puede llevar un tiempo, especialmen
 
 ## Publicaciones relacionadas
 
-- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/nie_aplicación/)
+- [Guía Completa para Obtener tu NIE en España de Forma Sencilla](https://tramitit.com/es/guides/spain/solicitud_de_nie/)
 - [Ingreso Mínimo Vital en España: Cómo Solicitar y Requisitos](https://tramitit.com/es/guides/spain/ingreso_minimo_vital/)
 - [Cómo solicitar un número de Seguridad Social español: Una guía](https://tramitit.com/es/guides/spain/numero_seguridad_social/)
 - [Cómo Solicitar la Tarjeta Sanitaria en España: Guía Completa](https://tramitit.com/es/guides/spain/solicitud_de_la_tarjeta_sanitaria/)

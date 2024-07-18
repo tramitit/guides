@@ -54,5 +54,5 @@ De asemenea, rețineți că ratele de impozitare ar putea varia în funcție de 
 - [Certificat de Atestare Fiscală: Ghid Complet și Procedură](https://tramitit.com/ro/guides/romania/certificat_de_atestare_fiscala/)
 - [Certificat de Venit în România: Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/adeverinta_de_venit/)
 - [Certificat de naștere în România: Procedură, Documente și Furnizori](https://tramitit.com/ro/guides/romania/certificat_de_nastere/)
-- [Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/obtinere_numar_de_identificare_fiscala_(nif)/)
+- [Numărul de Identificare Fiscală (TIN): Proceduri și Documente Necesare](https://tramitit.com/ro/guides/romania/obtinere_numar_de_identificare_fiscala_nif/)
 - [Impozitul de Rezidență în România: Ce Este și Cine Este Vizat](https://tramitit.com/ro/guides/romania/taxa_de_habitat/)
