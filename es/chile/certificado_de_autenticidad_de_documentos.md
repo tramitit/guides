@@ -3,6 +3,10 @@ translationKey: 'chile-document_authenticity_certificate'
 title: Certificados de Autenticidad de Documentos en Chile
 meta_title: Certificados de Autenticidad de Documentos en Chile
 description: Obtenga la autenticación legal de sus documentos en Chile. Garantice su validez para uso internacional y oficial.
+author: Ricardo Batista
+date: 2024-06-25
+categories: ["Chile"]
+draft: false
 ---
 
 ## Descripción

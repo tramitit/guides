@@ -3,6 +3,11 @@ translationKey: 'peru-document_authenticity_certificate'
 title: Servicio de Certificación de Autenticidad de Documentos en Perú
 meta_title: Servicio de Certificación de Autenticidad de Documentos en Perú
 description: Obtenga la autenticación de sus documentos de manera sencilla en Perú. Servicio rápido y confiable para uso oficial y personal.
+author: Ricardo Batista
+categories:
+- Peru
+date: 2024-06-26
+draft: false
 ---
 
 ## Descripción

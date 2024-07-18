@@ -7,6 +7,7 @@ date: 2024-06-24
 categories: ["Argentina"]
 draft: false
 translationKey: argentina-professional_ethics_certificate
+author: Ricardo Batista
 ---
 
 

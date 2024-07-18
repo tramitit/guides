@@ -7,6 +7,7 @@ date: 2024-06-23
 categories: ["Brazil"]
 draft: false
 translationKey: brazil-military_service_certificate
+author: Ricardo Batista
 ---
 
 

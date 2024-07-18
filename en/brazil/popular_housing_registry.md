@@ -6,6 +6,7 @@ title: 'Accessible Housing - Register for Brazil Popular Habitation'
 date: 2024-06-23
 categories: ["Brazil"]
 draft: false
+author: Ricardo Batista
 translationKey: brazil-popular_housing_registry
 ---
 

@@ -6,6 +6,7 @@ title: 'PAMI Registration in Argentina - Complete Step-by-Step Guide'
 date: 2024-06-24
 categories: ["Argentina"]
 draft: false
+author: Ricardo Batista
 translationKey: argentina-pami_registration
 ---
 

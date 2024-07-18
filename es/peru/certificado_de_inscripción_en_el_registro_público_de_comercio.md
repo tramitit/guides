@@ -3,6 +3,11 @@ translationKey: 'peru-public_commerce_registry_certificate'
 title: Obtener Certificado de Registro de Comercio Público en Perú
 meta_title: Obtener Certificado de Registro de Comercio Público en Perú
 description: Aprenda cómo obtener el Certificado de Registro de Comercio Público en Perú. Esencial para empresas que operan dentro del país.
+author: Ricardo Batista
+categories:
+- Peru
+date: 2024-06-26
+draft: false
 ---
 
 ## Descripción

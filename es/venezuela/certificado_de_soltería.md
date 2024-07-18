@@ -3,6 +3,11 @@ translationKey: 'venezuela-single_status_certificate'
 title: Obtenga fácilmente un Certificado de Soltería en Venezuela
 meta_title: Obtenga fácilmente un Certificado de Soltería en Venezuela
 description: Asegure rápidamente su Certificado de Soltería en Venezuela con nuestra guía integral. Esencial para matrimonios y procesos legales en el extranjero.
+author: Ricardo Batista
+categories:
+- Venezuela
+date: 2024-06-26
+draft: false
 ---
 
 ## Descripción

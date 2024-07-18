@@ -7,6 +7,7 @@ date: 2024-06-24
 categories: ["Mexico"]
 draft: false
 translationKey: mexico-reissuance_of_license_plates
+author: Ricardo Batista
 ---
 
 

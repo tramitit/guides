@@ -3,6 +3,10 @@ translationKey: 'bolivia-investment_registry_registration'
 title: Registro de Inversiones en Bolivia - Servicio de Registro Eficiente
 meta_title: Registro de Inversiones en Bolivia - Servicio de Registro Eficiente
 description: Registre su inversión en Bolivia sin problemas. Servicio integral con orientación experta en todos los pasos procedimentales.
+author: Ricardo Batista
+date: 2024-06-27
+categories: ["Bolivia"]
+draft: false
 ---
 
 ## Descripción

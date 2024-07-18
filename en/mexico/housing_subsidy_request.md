@@ -6,6 +6,7 @@ title: Steps & Requirements for Housing Subsidies in Mexico
 date: 2024-06-24
 categories: ["Mexico"]
 draft: false
+author: Ricardo Batista
 translationKey: mexico-housing_subsidy_request
 ---
 

@@ -6,6 +6,7 @@ title: Complete Guide to Association Registration in Brazil
 date: 2024-06-23
 categories: ["Brazil"]
 draft: false
+author: Ricardo Batista
 translationKey: brazil-association_registration
 ---
 

@@ -6,6 +6,7 @@ title: 'Brazilian Minor Travel Authorization - Simple Steps & Requirements'
 date: 2024-06-23
 categories: ["Brazil"]
 draft: false
+author: Ricardo Batista
 translationKey: brazil-travel_authorization_for_minors
 ---
 

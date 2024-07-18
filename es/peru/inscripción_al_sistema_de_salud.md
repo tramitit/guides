@@ -4,6 +4,10 @@ description: Agiliza la inscripción en el sistema de salud de Perú. Ideal para
 meta_title: 'Registro Salud en Perú: Acceso a Servicios Médicos Públicos'
 title: 'Registro Salud en Perú: Acceso a Servicios Médicos Públicos'
 translationKey: peru-health_system_registration
+author: Ricardo Batista
+date: 2024-06-25
+categories: ["Peru"]
+draft: false
 ---
 
 

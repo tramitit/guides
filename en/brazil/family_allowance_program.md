@@ -6,6 +6,7 @@ title: 'Brazil Family Allowance - Financial Aid for Low-Income Families'
 date: 2024-06-23
 categories: ["Brazil"]
 draft: false
+author: Ricardo Batista
 translationKey: brazil-family_allowance_program
 ---
 

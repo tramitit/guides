@@ -6,6 +6,7 @@ title: 'Effortless NGO Registration in Brazil - Legal Guidance & Support'
 date: 2024-06-23
 categories: ["Brazil"]
 draft: false
+author: Ricardo Batista
 translationKey: brazil-ngo_registration
 ---
 

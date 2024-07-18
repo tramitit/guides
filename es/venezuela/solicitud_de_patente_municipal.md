@@ -3,6 +3,10 @@ translationKey: 'venezuela-municipal_patent_request'
 title: Solicitud eficiente de patente municipal en Venezuela
 meta_title: Solicitud eficiente de patente municipal en Venezuela
 description: Simplifique el proceso de obtención de una patente municipal en Venezuela. Guía completa y consejos para una solicitud sin contratiempos.
+author: Ricardo Batista
+date: 2024-06-26
+categories: ["Venezuela"]
+draft: false
 ---
 
 ## Descripción
