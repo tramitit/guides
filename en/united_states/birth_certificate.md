@@ -5,7 +5,7 @@ date: 2024-09-30
 categories: ["United States"]
 description: Get your US birth certificate hassle-free with our step-by-step guide and tips. Ideal for anyone needing this essential document.
 draft: false
-translationKey: united states-birth_certificate
+translationKey: united_states-birth_certificate
 ---
 
 ## Description
